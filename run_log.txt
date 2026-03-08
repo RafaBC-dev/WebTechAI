@@ -1,0 +1,17 @@
+
+[2026-03-08 18:55:30] Nuevos: 15
+  + Pulse Jet Ski Chases the Winter Blues Away
+  + Restoring a Commodore PET 3032 in Rough Condition
+  + Spoofing an Emergency Traffic Preemption Signal
+  + Pironman 5 Pro Max Raspberry Pi 5 case gains 4.3-inch touchscreen, camera mount,
+  + GEEKOM A5 Pro 2026 Edition Review – Part 3: Ubuntu 25.10 on an AMD Ryzen 5 7530U
+  + Echo Pyramid enables smart voice interaction applications on M5Stack Atom ESP32 
+  + Jessica Jones joins the fray in Daredevil: Born Again trailer
+  + Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization
+  + Hunting for elusive "ghost elephants"
+  + CachyOS Handheld Edition Switches To Wayland, CachyOS Installer Drops Bcachefs
+  + FFmpeg 8.1 Preparing For Release With Vulkan Improvements, JPEG-XS & More
+  + Experimental Intel Nova Lake P Device Bits Merged For Mesa 26.1
+  + Owner of ICE detention facility sees big opportunity in AI man camps
+  + A roadmap for AI, if anyone will listen
+  + Google just gave Sundar Pichai a $692M pay package
