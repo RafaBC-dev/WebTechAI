@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TechPulse ES — Tecnología explicada en español</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Fraunces:ital,wght@0,300;0,400;1,300&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <meta name="description" content="Tecnología, robótica e IA explicada en español. Resúmenes generados por IA de las mejores fuentes internacionales.">
+  <meta property="og:title" content="TechPulse ES — Tecnología explicada en español">
+  <meta property="og:description" content="Resúmenes en español de las mejores noticias de tecnología, robótica, Linux e IA.">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <link rel="alternate" type="application/rss+xml" title="TechPulse ES" href="feed.xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ═══ HEADER ═══════════════════════════════════════════════ -->
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">⬡</span>
+      <span class="logo-text">TechPulse<em>ES</em></span>
+    </a>
+    <nav class="header-nav" id="main-nav">
+      <a href="#" class="nav-link active" data-cat="Todas">Todas</a>
+      <!-- más links se generan dinámicamente -->
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" id="search-toggle" aria-label="Buscar" title="Buscar">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      </button>
+      <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema" title="Cambiar tema">
+        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </div>
+  <!-- Search bar (colapsable) -->
+  <div class="search-bar" id="search-bar">
+    <div class="container">
+      <input type="text" id="search-input" placeholder="Buscar por título, tag o categoría…" autocomplete="off">
+      <button class="search-close" id="search-close">✕</button>
+    </div>
+  </div>
+</header>
+
+<!-- ═══ HERO / STATS ══════════════════════════════════════════ -->
+<section class="hero">
+  <div class="container">
+    <p class="hero-label">Tecnología, robótica e IA · Resumido y explicado en español</p>
+    <h1 class="hero-title">Entiende la tecnología<br><em>sin perderte nada</em></h1>
+    <div class="stats-row">
+      <div class="stat"><span id="stat-total">—</span><small>Artículos</small></div>
+      <div class="stat-sep"></div>
+      <div class="stat"><span id="stat-cats">—</span><small>Categorías</small></div>
+      <div class="stat-sep"></div>
+      <div class="stat"><span id="stat-date">—</span><small>Último artículo</small></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ FILTROS ════════════════════════════════════════════════ -->
+<div class="filter-strip">
+  <div class="container filter-inner">
+    <div class="category-pills" id="category-pills">
+      <!-- generado dinámicamente -->
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══ GRID ══════════════════════════════════════════════════ -->
+<main class="container main-content">
+  <div class="news-grid" id="news-grid">
+    <div class="loading-state">
+      <div class="spinner"></div>
+      <p>Cargando noticias…</p>
+    </div>
+  </div>
+
+  <!-- Load more -->
+  <div class="load-more-wrap" id="load-more-wrap" style="display:none">
+    <button class="load-more-btn" id="load-more-btn">Cargar más artículos</button>
+  </div>
+
+  <!-- Empty state -->
+  <div class="empty-state" id="empty-state" style="display:none">
+    <p>No se encontraron artículos con esos filtros.</p>
+    <button onclick="resetFilters()">Limpiar filtros</button>
+  </div>
+</main>
+
+<!-- ═══ FOOTER ════════════════════════════════════════════════ -->
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <span class="logo-text small">TechPulse<em>ES</em></span>
+    <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

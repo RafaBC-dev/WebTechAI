@@ -1,0 +1,448 @@
+[
+  {
+    "title": "3D pen para soldar: un proyecto DIY para imprimir y soldar",
+    "category": "diseño-3d",
+    "date": "2026-03-08",
+    "slug": "3d-pen-para-soldar-un-proyecto-diy-para-imprimir-y",
+    "tags": [
+      "3D printing",
+      "soldadura",
+      "DIY"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/diseño-3d/2026-03-08-3d-pen-para-soldar-un-proyecto-diy-para-imprimir-y.md"
+  },
+  {
+    "title": "DFRobot lanza sensor de calidad del aire Fermion: BMV080 a bajo costo y baja potencia",
+    "category": "embebidos",
+    "date": "2026-03-08",
+    "slug": "dfrobot-lanza-sensor-de-calidad-del-aire-fermion-b",
+    "tags": [
+      "sensor de calidad del aire",
+      "BMV080",
+      "DFRobot",
+      "laser",
+      "dispersión de luz",
+      "partículas en el aire"
+    ],
+    "preview": "DFRobot ha lanzado el sensor de calidad del aire Fermion: BMV080, un dispositivo de bajo costo y baja potencia que ofrece la misma precisión que otros sensores de calidad del aire de alta gama, pero a un precio más asequible. Este sensor…",
+    "has_command": true,
+    "file_path": "content/embebidos/2026-03-08-dfrobot-lanza-sensor-de-calidad-del-aire-fermion-b.md"
+  },
+  {
+    "title": "Echo Pyramid: dispositivo de voz inteligente para M5Stack Atom",
+    "category": "embebidos",
+    "date": "2026-03-08",
+    "slug": "echo-pyramid-dispositivo-de-voz-inteligente-para-m",
+    "tags": [
+      "ESP32",
+      "M5Stack",
+      "voz-inteligente"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/embebidos/2026-03-08-echo-pyramid-dispositivo-de-voz-inteligente-para-m.md"
+  },
+  {
+    "title": "Echo Pyramid: una plataforma de voz inteligente para controladores IoT M5Stack Atom",
+    "category": "embebidos",
+    "date": "2026-03-08",
+    "slug": "echo-pyramid-una-plataforma-de-voz-inteligente-par",
+    "tags": [
+      "ESP32",
+      "IoT",
+      "Voz Inteligente",
+      "M5Stack"
+    ],
+    "preview": "La empresa M5Stack ha lanzado el Echo Pyramid, una plataforma que permite la interacción de voz inteligente en controladores IoT M5Stack Atom. Esta plataforma es relevante en la actualidad debido a la creciente demanda de tecnologías de…",
+    "has_command": false,
+    "file_path": "content/embebidos/2026-03-08-echo-pyramid-una-plataforma-de-voz-inteligente-par.md"
+  },
+  {
+    "title": "Lanzamiento del sensor de calidad del aire Fermion: BMV080",
+    "category": "embebidos",
+    "date": "2026-03-08",
+    "slug": "lanzamiento-del-sensor-de-calidad-del-aire-fermion",
+    "tags": [
+      "robotica",
+      "sistemas-embebidos",
+      "calidad-del-aire",
+      "sensors"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/embebidos/2026-03-08-lanzamiento-del-sensor-de-calidad-del-aire-fermion.md"
+  },
+  {
+    "title": "Nuevos microcontroladores STM32U3B5/C5 con capacidad de ejecutar AI sin baterías",
+    "category": "embebidos",
+    "date": "2026-03-08",
+    "slug": "nuevos-microcontroladores-stm32u3b5c5-con-capacida",
+    "tags": [
+      "STM32U3",
+      "microcontrolador",
+      "AI",
+      "energía recogida"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/embebidos/2026-03-08-nuevos-microcontroladores-stm32u3b5c5-con-capacida.md"
+  },
+  {
+    "title": "WiFi y Bluetooth LE se pueden usar simultáneamente en Arduino con NINA-W102",
+    "category": "embebidos",
+    "date": "2026-03-08",
+    "slug": "wifi-y-bluetooth-le-se-pueden-usar-simultáneamente",
+    "tags": [
+      "Arduino",
+      "ESP32",
+      "WiFi",
+      "Bluetooth LE"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/embebidos/2026-03-08-wifi-y-bluetooth-le-se-pueden-usar-simultáneamente.md"
+  },
+  {
+    "title": "AMD GAIA 0.16: un marco de trabajo en C++ para agentes de IA local",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "amd-gaia-016-un-marco-de-trabajo-en-c-para-agentes",
+    "tags": [
+      "GAIA",
+      "AMD",
+      "IA",
+      "C++",
+      "Ryzen AI"
+    ],
+    "preview": "AMD ha lanzado la versión 0.16 de su marco de trabajo de código abierto GAIA, diseñado para crear agentes de inteligencia artificial que se ejecutan localmente en hardware Ryzen AI y aprovechan las capacidades de los iGPUs y NPUs de…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-amd-gaia-016-un-marco-de-trabajo-en-c-para-agentes.md"
+  },
+  {
+    "title": "Caitlin Kalinowski renuncia a OpenAI debido a acuerdo con la Defensa de EE.UU.",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "caitlin-kalinowski-renuncia-a-openai-debido-a-acue",
+    "tags": [
+      "IA",
+      "Robótica",
+      "ROS2",
+      "Docker",
+      "Ética"
+    ],
+    "preview": "Caitlin Kalinowski, líder de la división de robótica de OpenAI, ha anunciado su renuncia en respuesta a un acuerdo controvertido con el Departamento de Defensa de EE.UU. Este movimiento ha generado preocupación entre los expertos en…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-caitlin-kalinowski-renuncia-a-openai-debido-a-acue.md"
+  },
+  {
+    "title": "Cámara instantánea con Raspberry Pi y impresora",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "cámara-instantánea-con-raspberry-pi-y-impresora",
+    "tags": [
+      "Raspberry Pi",
+      "Impresora",
+      "Cámara instantánea"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-cámara-instantánea-con-raspberry-pi-y-impresora.md"
+  },
+  {
+    "title": "Cámara instantánea maker: una alternativa asequible a la fotografía instantánea",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "cámara-instantánea-maker-una-alternativa-asequible",
+    "tags": [
+      "Raspberry Pi",
+      "Impresión 3D",
+      "Cámara instantánea",
+      "Maker"
+    ],
+    "preview": "Los entusiastas de la tecnología han creado una cámara instantánea que utiliza un Raspberry Pi y una impresora para crear fotografías en un instante. Esta solución alternativa a la cámara instantánea tradicional es más asequible y ofrece…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-cámara-instantánea-maker-una-alternativa-asequible.md"
+  },
+  {
+    "title": "Cámaras de seguridad se convierten en objetivo de hackers en conflictos internacionales",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "cámaras-de-seguridad-se-convierten-en-objetivo-de-",
+    "tags": [
+      "Hacking",
+      "Cámaras de seguridad",
+      "Internet de las cosas",
+      "Seguridad informática"
+    ],
+    "preview": "En la era de las cámaras de seguridad conectadas a Internet, las fuerzas militares han encontrado una nueva forma de recopilar información sobre objetivos potenciales: hackear cámaras de seguridad civiles. Recientemente, se han detectado…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-cámaras-de-seguridad-se-convierten-en-objetivo-de-.md"
+  },
+  {
+    "title": "Descubren fósiles de Spinosaurus que cuestionan su estilo de vida acuático",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "descubren-fósiles-de-spinosaurus-que-cuestionan-su",
+    "tags": [
+      "paleontología",
+      "dinosaurios",
+      "evolución"
+    ],
+    "preview": "Un equipo de investigadores ha encontrado nuevos fósiles de Spinosaurus en el desierto del Sahara, lo que sugiere que esta especie de dinosaurio no era un nadador acuático como se pensaba. Los hallazgos cuestionan la interpretación actual…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-descubren-fósiles-de-spinosaurus-que-cuestionan-su.md"
+  },
+  {
+    "title": "El final de una rareza óptica: lentes anamórficas prismáticas",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "el-final-de-una-rareza-óptica-lentes-anamórficas-p",
+    "tags": [
+      "óptica",
+      "cinematografía",
+      "lentes anamórficas",
+      "prismáticas"
+    ],
+    "preview": "Una noticia que puede parecer extraña al principio: Mathieu Stern ha encontrado un raro tipo de lente óptica llamada lente anamórfica prismática, que fue utilizada en la década de 1950 y 1960 para crear películas en formato anamórfico.…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-el-final-de-una-rareza-óptica-lentes-anamórficas-p.md"
+  },
+  {
+    "title": "Elusive 'Elefantes Fantasmas': Una búsqueda de un nuevo especie en África",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "elusive-elefantes-fantasmas-una-búsqueda-de-un-nue",
+    "tags": [
+      "conservación",
+      "naturaleza",
+      "África",
+      "elefante",
+      "biodiversidad"
+    ],
+    "preview": "Un equipo de conservación liderado por Steve Boyes busca una nueva especie de elefante en las altas tierras de Angola. La búsqueda ha sido documentada en un documental dirigido por Werner Herzog, que se estrenó en el Festival de Cine de…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-elusive-elefantes-fantasmas-una-búsqueda-de-un-nue.md"
+  },
+  {
+    "title": "Google otorga a Sundar Pichai un paquete de compensación de 692 millones de dólares",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compen",
+    "tags": [
+      "Waymo",
+      "Wing",
+      "Automoción Autónoma",
+      "Entrega por Drones"
+    ],
+    "preview": "Google ha anunciado un paquete de compensación de 692 millones de dólares para su CEO, Sundar Pichai. Este paquete está ligado a los resultados de la empresa, incluyendo incentivos de acciones relacionados con Waymo y Wing, su empresa de…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compen.md"
+  },
+  {
+    "title": "Groot1Publisher: Visualizar y Monitorear Árboles de Comportamiento en Groot 1",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "groot1publisher-visualizar-y-monitorear-árboles-de",
+    "tags": [
+      "BehaviorTree",
+      "ROS 2",
+      "Groot 1"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-groot1publisher-visualizar-y-monitorear-árboles-de.md"
+  },
+  {
+    "title": "La caída del lente anamórfico prismático Technirama",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "la-caída-del-lente-anamórfico-prismático-techniram",
+    "tags": [
+      "cine",
+      "lentes",
+      "anamorfismo"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-la-caída-del-lente-anamórfico-prismático-techniram.md"
+  },
+  {
+    "title": "La modernización de Chornobyl: un sistema de control industrial innovador",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "la-modernización-de-chornobyl-un-sistema-de-contro",
+    "tags": [
+      "control industrial",
+      "sistemas de control",
+      "modernización de plantas industriales",
+      "seguridad nuclear",
+      "eficiencia industrial"
+    ],
+    "preview": "En la década de 1990, la central nuclear de Chornobyl necesitaba una actualización crítica para mantener su operación segura. A pesar de que los tres reactores RBMK aún funcionaban, el sistema de automatización de 1970s era limitado y…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-la-modernización-de-chornobyl-un-sistema-de-contro.md"
+  },
+  {
+    "title": "La ventaja de los dispositivos enfocados",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "la-ventaja-de-los-dispositivos-enfocados",
+    "tags": [
+      "robotica",
+      "sistemas-embebidos",
+      "linux"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-la-ventaja-de-los-dispositivos-enfocados.md"
+  },
+  {
+    "title": "Modernización de la planta nuclear de Chernóbil en la década de 1990",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "modernización-de-la-planta-nuclear-de-chernóbil-en",
+    "tags": [
+      "robótica",
+      "sistemas-embebidos",
+      "linux"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-modernización-de-la-planta-nuclear-de-chernóbil-en.md"
+  },
+  {
+    "title": "Registro en evento ROS Ukraine 9 años",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "registro-en-evento-ros-ukraine-9-años",
+    "tags": [
+      "ROS",
+      "robotica",
+      "sistemas-embebidos"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-registro-en-evento-ros-ukraine-9-años.md"
+  },
+  {
+    "title": "Análisis del rendimiento de Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "análisis-del-rendimiento-de-ubuntu-2510-en-un-mini",
+    "tags": [
+      "Linux",
+      "AMD",
+      "Ubuntu",
+      "miniPC"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/linux/2026-03-08-análisis-del-rendimiento-de-ubuntu-2510-en-un-mini.md"
+  },
+  {
+    "title": "Budgie 10.10.2: Mejoras en la Integración de Compositor Wayland",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "budgie-10102-mejoras-en-la-integración-de-composit",
+    "tags": [
+      "Wayland",
+      "Compositor",
+      "Budgie",
+      "Solus Linux"
+    ],
+    "preview": "La versión más reciente de Budgie, el entorno de escritorio de código abierto, ha sido lanzada con mejoras significativas en la integración con el compositor Wayland. Esta actualización es parte de la continua evolución de Solus Linux, el…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-budgie-10102-mejoras-en-la-integración-de-composit.md"
+  },
+  {
+    "title": "Error al instalar Pixi en AIC",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "error-al-instalar-pixi-en-aic",
+    "tags": [
+      "Pixi",
+      "AIC",
+      "Git"
+    ],
+    "preview": "",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-error-al-instalar-pixi-en-aic.md"
+  },
+  {
+    "title": "GEEKOM A5 Pro 2026 Edition: Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-",
+    "tags": [
+      "Ubuntu",
+      "Linux",
+      "AMD Ryzen 5 7530U",
+      "mini PC",
+      "dual boot"
+    ],
+    "preview": "El mini PC GEEKOM A5 Pro 2026 Edition, equipado con un procesador AMD Ryzen 5 7530U, ha sido probado con Ubuntu 25.10. Esta review muestra cómo se comporta el sistema bajo Linux, incluyendo pruebas de rendimiento, temperatura y consumo de…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-.md"
+  },
+  {
+    "title": "Mejora en Linux 7.0 para CPUs AMD Zen 2: mayor eficiencia en I/O multiplexing",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "mejora-en-linux-70-para-cpus-amd-zen-2-mayor-efici",
+    "tags": [
+      "Linux",
+      "epoll",
+      "I/O multiplexing",
+      "CPU AMD Zen 2"
+    ],
+    "preview": "La versión 7.0 de Linux ha incorporado una nueva optimización para mejorar la eficiencia en la multiplexación de I/O y el monitoreo de descritores de archivo en CPUs AMD Zen 2. Esto significa que los sistemas que utilizan estas CPUs pueden…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-mejora-en-linux-70-para-cpus-amd-zen-2-mayor-efici.md"
+  },
+  {
+    "title": "Grammarly incorpora 'revisión experta' que no incluye a expertos reales",
+    "category": "robotica",
+    "date": "2026-03-08",
+    "slug": "grammarly-incorpora-revisión-experta-que-no-incluy",
+    "tags": [
+      "IA",
+      "Corrección Gramatical",
+      "Algoritmos de IA",
+      "Herramientas de Escritura"
+    ],
+    "preview": "La herramienta de corrección gramatical Grammarly ha agregado una nueva función llamada 'revisión experta' que pretende mejorar la escritura de los usuarios con la ayuda de grandes escritores y pensadores. Sin embargo, parece que no…",
+    "has_command": false,
+    "file_path": "content/robotica/2026-03-08-grammarly-incorpora-revisión-experta-que-no-incluy.md"
+  },
+  {
+    "title": "LSEP: Protocolo abierto para comunicación estándar entre robots y humanos",
+    "category": "robotica",
+    "date": "2026-03-08",
+    "slug": "lsep-protocolo-abierto-para-comunicación-estándar-",
+    "tags": [
+      "robotica",
+      "comunicacion",
+      "protocolo",
+      "estandarizacion"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/robotica/2026-03-08-lsep-protocolo-abierto-para-comunicación-estándar-.md"
+  },
+  {
+    "title": "ROSCon Global 2026 y nuevas oportunidades en robótica",
+    "category": "robotica",
+    "date": "2026-03-08",
+    "slug": "roscon-global-2026-y-nuevas-oportunidades-en-robót",
+    "tags": [
+      "ROS",
+      "robotica",
+      "simulacion"
+    ],
+    "preview": "",
+    "has_command": false,
+    "file_path": "content/robotica/2026-03-08-roscon-global-2026-y-nuevas-oportunidades-en-robót.md"
+  }
+]

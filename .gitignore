@@ -1,0 +1,7 @@
+.aider*
+.env
+.env
+__pycache__/
+*.pyc
+scraper/__pycache__/
+web/__pycache__/

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>TechPulse ES</title>
+  <link>https://tu-usuario.github.io/tu-repo</link>
+  <description>Tecnología, robótica e IA explicada en español</description>
+  <language>es</language>
+  <lastBuildDate>Sun, 08 Mar 2026 17:09:43 +0000</lastBuildDate>
+  <atom:link href="https://tu-usuario.github.io/tu-repo/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>3D pen para soldar: un proyecto DIY para imprimir y soldar</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/diseño-3d/2026-03-08-3d-pen-para-soldar-un-proyecto-diy-para-imprimir-y.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/diseño-3d/2026-03-08-3d-pen-para-soldar-un-proyecto-diy-para-imprimir-y.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description></description>
+  </item>
+  <item>
+    <title>DFRobot lanza sensor de calidad del aire Fermion: BMV080 a bajo costo y baja potencia</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-dfrobot-lanza-sensor-de-calidad-del-aire-fermion-b.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-dfrobot-lanza-sensor-de-calidad-del-aire-fermion-b.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>DFRobot ha lanzado el sensor de calidad del aire Fermion: BMV080, un dispositivo de bajo costo y baja potencia que ofrece la misma precisión que otros sensores de calidad del aire de alta gama, pero a un precio más asequible. Este sensor…</description>
+  </item>
+  <item>
+    <title>Echo Pyramid: dispositivo de voz inteligente para M5Stack Atom</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-dispositivo-de-voz-inteligente-para-m.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-dispositivo-de-voz-inteligente-para-m.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Echo Pyramid: una plataforma de voz inteligente para controladores IoT M5Stack Atom</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-una-plataforma-de-voz-inteligente-par.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-una-plataforma-de-voz-inteligente-par.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa M5Stack ha lanzado el Echo Pyramid, una plataforma que permite la interacción de voz inteligente en controladores IoT M5Stack Atom. Esta plataforma es relevante en la actualidad debido a la creciente demanda de tecnologías de…</description>
+  </item>
+  <item>
+    <title>Lanzamiento del sensor de calidad del aire Fermion: BMV080</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-lanzamiento-del-sensor-de-calidad-del-aire-fermion.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-lanzamiento-del-sensor-de-calidad-del-aire-fermion.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Nuevos microcontroladores STM32U3B5/C5 con capacidad de ejecutar AI sin baterías</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-nuevos-microcontroladores-stm32u3b5c5-con-capacida.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-nuevos-microcontroladores-stm32u3b5c5-con-capacida.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description></description>
+  </item>
+  <item>
+    <title>WiFi y Bluetooth LE se pueden usar simultáneamente en Arduino con NINA-W102</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-wifi-y-bluetooth-le-se-pueden-usar-simultáneamente.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/embebidos/2026-03-08-wifi-y-bluetooth-le-se-pueden-usar-simultáneamente.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description></description>
+  </item>
+  <item>
+    <title>AMD GAIA 0.16: un marco de trabajo en C++ para agentes de IA local</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-amd-gaia-016-un-marco-de-trabajo-en-c-para-agentes.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-amd-gaia-016-un-marco-de-trabajo-en-c-para-agentes.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>AMD ha lanzado la versión 0.16 de su marco de trabajo de código abierto GAIA, diseñado para crear agentes de inteligencia artificial que se ejecutan localmente en hardware Ryzen AI y aprovechan las capacidades de los iGPUs y NPUs de…</description>
+  </item>
+  <item>
+    <title>Caitlin Kalinowski renuncia a OpenAI debido a acuerdo con la Defensa de EE.UU.</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-caitlin-kalinowski-renuncia-a-openai-debido-a-acue.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-caitlin-kalinowski-renuncia-a-openai-debido-a-acue.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Caitlin Kalinowski, líder de la división de robótica de OpenAI, ha anunciado su renuncia en respuesta a un acuerdo controvertido con el Departamento de Defensa de EE.UU. Este movimiento ha generado preocupación entre los expertos en…</description>
+  </item>
+  <item>
+    <title>Cámara instantánea con Raspberry Pi y impresora</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-cámara-instantánea-con-raspberry-pi-y-impresora.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-cámara-instantánea-con-raspberry-pi-y-impresora.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Cámara instantánea maker: una alternativa asequible a la fotografía instantánea</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-cámara-instantánea-maker-una-alternativa-asequible.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-cámara-instantánea-maker-una-alternativa-asequible.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los entusiastas de la tecnología han creado una cámara instantánea que utiliza un Raspberry Pi y una impresora para crear fotografías en un instante. Esta solución alternativa a la cámara instantánea tradicional es más asequible y ofrece…</description>
+  </item>
+  <item>
+    <title>Cámaras de seguridad se convierten en objetivo de hackers en conflictos internacionales</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-cámaras-de-seguridad-se-convierten-en-objetivo-de-.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-cámaras-de-seguridad-se-convierten-en-objetivo-de-.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>En la era de las cámaras de seguridad conectadas a Internet, las fuerzas militares han encontrado una nueva forma de recopilar información sobre objetivos potenciales: hackear cámaras de seguridad civiles. Recientemente, se han detectado…</description>
+  </item>
+  <item>
+    <title>Descubren fósiles de Spinosaurus que cuestionan su estilo de vida acuático</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-descubren-fósiles-de-spinosaurus-que-cuestionan-su.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-descubren-fósiles-de-spinosaurus-que-cuestionan-su.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de investigadores ha encontrado nuevos fósiles de Spinosaurus en el desierto del Sahara, lo que sugiere que esta especie de dinosaurio no era un nadador acuático como se pensaba. Los hallazgos cuestionan la interpretación actual…</description>
+  </item>
+  <item>
+    <title>El final de una rareza óptica: lentes anamórficas prismáticas</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-el-final-de-una-rareza-óptica-lentes-anamórficas-p.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-el-final-de-una-rareza-óptica-lentes-anamórficas-p.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Una noticia que puede parecer extraña al principio: Mathieu Stern ha encontrado un raro tipo de lente óptica llamada lente anamórfica prismática, que fue utilizada en la década de 1950 y 1960 para crear películas en formato anamórfico.…</description>
+  </item>
+  <item>
+    <title>Elusive 'Elefantes Fantasmas': Una búsqueda de un nuevo especie en África</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-elusive-elefantes-fantasmas-una-búsqueda-de-un-nue.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-elusive-elefantes-fantasmas-una-búsqueda-de-un-nue.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de conservación liderado por Steve Boyes busca una nueva especie de elefante en las altas tierras de Angola. La búsqueda ha sido documentada en un documental dirigido por Werner Herzog, que se estrenó en el Festival de Cine de…</description>
+  </item>
+  <item>
+    <title>Google otorga a Sundar Pichai un paquete de compensación de 692 millones de dólares</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compen.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compen.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Google ha anunciado un paquete de compensación de 692 millones de dólares para su CEO, Sundar Pichai. Este paquete está ligado a los resultados de la empresa, incluyendo incentivos de acciones relacionados con Waymo y Wing, su empresa de…</description>
+  </item>
+  <item>
+    <title>Groot1Publisher: Visualizar y Monitorear Árboles de Comportamiento en Groot 1</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-groot1publisher-visualizar-y-monitorear-árboles-de.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-groot1publisher-visualizar-y-monitorear-árboles-de.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description></description>
+  </item>
+  <item>
+    <title>La caída del lente anamórfico prismático Technirama</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-la-caída-del-lente-anamórfico-prismático-techniram.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-la-caída-del-lente-anamórfico-prismático-techniram.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description></description>
+  </item>
+  <item>
+    <title>La modernización de Chornobyl: un sistema de control industrial innovador</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-la-modernización-de-chornobyl-un-sistema-de-contro.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-la-modernización-de-chornobyl-un-sistema-de-contro.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>En la década de 1990, la central nuclear de Chornobyl necesitaba una actualización crítica para mantener su operación segura. A pesar de que los tres reactores RBMK aún funcionaban, el sistema de automatización de 1970s era limitado y…</description>
+  </item>
+  <item>
+    <title>La ventaja de los dispositivos enfocados</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-la-ventaja-de-los-dispositivos-enfocados.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-la-ventaja-de-los-dispositivos-enfocados.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Modernización de la planta nuclear de Chernóbil en la década de 1990</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-modernización-de-la-planta-nuclear-de-chernóbil-en.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-modernización-de-la-planta-nuclear-de-chernóbil-en.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Registro en evento ROS Ukraine 9 años</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-registro-en-evento-ros-ukraine-9-años.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/ia/2026-03-08-registro-en-evento-ros-ukraine-9-años.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Análisis del rendimiento de Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-análisis-del-rendimiento-de-ubuntu-2510-en-un-mini.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-análisis-del-rendimiento-de-ubuntu-2510-en-un-mini.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description></description>
+  </item>
+  <item>
+    <title>Budgie 10.10.2: Mejoras en la Integración de Compositor Wayland</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-budgie-10102-mejoras-en-la-integración-de-composit.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-budgie-10102-mejoras-en-la-integración-de-composit.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión más reciente de Budgie, el entorno de escritorio de código abierto, ha sido lanzada con mejoras significativas en la integración con el compositor Wayland. Esta actualización es parte de la continua evolución de Solus Linux, el…</description>
+  </item>
+  <item>
+    <title>Error al instalar Pixi en AIC</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-error-al-instalar-pixi-en-aic.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-error-al-instalar-pixi-en-aic.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description></description>
+  </item>
+  <item>
+    <title>GEEKOM A5 Pro 2026 Edition: Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El mini PC GEEKOM A5 Pro 2026 Edition, equipado con un procesador AMD Ryzen 5 7530U, ha sido probado con Ubuntu 25.10. Esta review muestra cómo se comporta el sistema bajo Linux, incluyendo pruebas de rendimiento, temperatura y consumo de…</description>
+  </item>
+  <item>
+    <title>Mejora en Linux 7.0 para CPUs AMD Zen 2: mayor eficiencia en I/O multiplexing</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-mejora-en-linux-70-para-cpus-amd-zen-2-mayor-efici.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/linux/2026-03-08-mejora-en-linux-70-para-cpus-amd-zen-2-mayor-efici.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.0 de Linux ha incorporado una nueva optimización para mejorar la eficiencia en la multiplexación de I/O y el monitoreo de descritores de archivo en CPUs AMD Zen 2. Esto significa que los sistemas que utilizan estas CPUs pueden…</description>
+  </item>
+  <item>
+    <title>Grammarly incorpora 'revisión experta' que no incluye a expertos reales</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/robotica/2026-03-08-grammarly-incorpora-revisión-experta-que-no-incluy.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/robotica/2026-03-08-grammarly-incorpora-revisión-experta-que-no-incluy.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La herramienta de corrección gramatical Grammarly ha agregado una nueva función llamada 'revisión experta' que pretende mejorar la escritura de los usuarios con la ayuda de grandes escritores y pensadores. Sin embargo, parece que no…</description>
+  </item>
+  <item>
+    <title>LSEP: Protocolo abierto para comunicación estándar entre robots y humanos</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/robotica/2026-03-08-lsep-protocolo-abierto-para-comunicación-estándar-.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/robotica/2026-03-08-lsep-protocolo-abierto-para-comunicación-estándar-.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description></description>
+  </item>
+  <item>
+    <title>ROSCon Global 2026 y nuevas oportunidades en robótica</title>
+    <link>https://tu-usuario.github.io/tu-repo/detail.html?file=content/robotica/2026-03-08-roscon-global-2026-y-nuevas-oportunidades-en-robót.md</link>
+    <guid isPermaLink="true">https://tu-usuario.github.io/tu-repo/detail.html?file=content/robotica/2026-03-08-roscon-global-2026-y-nuevas-oportunidades-en-robót.md</guid>
+    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description></description>
+  </item>
+</channel>
+</rss>

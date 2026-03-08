@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sobre el proyecto — TechPulse ES</title>
+  <meta name="description" content="TechPulse ES es un curador automático de noticias tecnológicas en español, resumidas por IA.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=Fraunces:ital,wght@0,300;0,400;1,300&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="index.html" class="logo">
+      <span class="logo-mark">⬡</span>
+      <span class="logo-text">TechPulse<em>ES</em></span>
+    </a>
+    <a href="index.html" class="back-link">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m15 18-6-6 6-6"/></svg>
+      Volver
+    </a>
+    <div class="header-actions">
+      <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema">
+        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="container about-container">
+
+  <div class="about-hero">
+    <p class="hero-label">El proyecto</p>
+    <h1 class="hero-title">Tecnología explicada,<br><em>sin complicaciones</em></h1>
+  </div>
+
+  <div class="about-grid">
+
+    <div class="about-card">
+      <div class="about-icon">⬡</div>
+      <h2>¿Qué es TechPulse ES?</h2>
+      <p>Un curador automático de noticias tecnológicas en español. Cada día monitorizamos más de una decena de fuentes internacionales de referencia en robótica, Linux, IA y sistemas embebidos, y las resumimos para que puedas entenderlas sin necesidad de leer el artículo completo en inglés.</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">🤖</div>
+      <h2>¿Cómo funciona?</h2>
+      <p>Un script en Python recorre los feeds RSS de las fuentes seleccionadas, extrae el contenido y lo envía a un modelo de lenguaje (LLaMA 3.1 vía Groq). El modelo genera un resumen estructurado en español con contexto, explicación técnica y un consejo práctico. Todo se publica automáticamente.</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">📰</div>
+      <h2>¿De dónde vienen las noticias?</h2>
+      <p>Las fuentes son medios de referencia del sector tecnológico: Hackaday, Ars Technica, Phoronix, IEEE Spectrum, ROS Discourse, Adafruit, Raspberry Pi y más. El contenido original siempre está enlazado al final de cada artículo.</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">✅</div>
+      <h2>¿Es fiable?</h2>
+      <p>Los resúmenes son generados por IA a partir del contenido original. Son fieles al artículo fuente pero pueden contener imprecisiones. Siempre recomendamos consultar el artículo original para decisiones importantes. El enlace a la fuente está siempre disponible.</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">💸</div>
+      <h2>100% gratuito</h2>
+      <p>Este proyecto no tiene publicidad, no vende datos y no cobra nada. Está construido íntegramente con herramientas gratuitas: Groq API para la IA, GitHub Pages para el hosting y GitHub Actions para la automatización diaria.</p>
+    </div>
+
+    <div class="about-card">
+      <div class="about-icon">📡</div>
+      <h2>Suscríbete por RSS</h2>
+      <p>Si usas un lector de RSS puedes suscribirte a TechPulse ES y recibir los nuevos artículos automáticamente. Añade la siguiente URL a tu lector favorito:</p>
+      <div class="rss-box">
+        <code id="rss-url">TU_URL/feed.xml</code>
+        <button onclick="copyRSS()" class="copy-btn">Copiar</button>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="sources-section">
+    <h2 class="section-label" style="font-size:.75rem">Fuentes monitorizadas</h2>
+    <div class="sources-grid">
+      <span class="source-tag">Hackaday</span>
+      <span class="source-tag">CNX Software</span>
+      <span class="source-tag">Ars Technica</span>
+      <span class="source-tag">Phoronix</span>
+      <span class="source-tag">TechCrunch AI</span>
+      <span class="source-tag">IEEE Spectrum Robotics</span>
+      <span class="source-tag">ROS Discourse</span>
+      <span class="source-tag">LWN.net</span>
+      <span class="source-tag">Opensource.com</span>
+      <span class="source-tag">Adafruit Blog</span>
+      <span class="source-tag">Raspberry Pi News</span>
+    </div>
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <span class="logo-text small">TechPulse<em>ES</em></span>
+    <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+<script>
+function copyRSS() {
+  const url = document.getElementById('rss-url').textContent;
+  navigator.clipboard.writeText(url).then(() => {
+    const btn = document.querySelector('.copy-btn');
+    btn.textContent = '✓ Copiado';
+    setTimeout(() => btn.textContent = 'Copiar', 2000);
+  });
+}
+</script>
+</body>
+</html>
