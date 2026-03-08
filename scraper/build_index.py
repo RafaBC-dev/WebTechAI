@@ -92,7 +92,7 @@ def extract_metadata(path: str) -> dict:
         # file_path debe ser relativo desde web/ para que el frontend pueda fetch() correctamente
         # path es algo como: /repo/web/content/ia/articulo.md
         # queremos: content/ia/articulo.md
-        rel_path = Path(path).relative_to(BASE_DIR / "web")
+        rel_path = Path(path).relative_to(BASE_DIR / "docs")
         meta["file_path"]   = str(rel_path).replace("\\", "/")
 
     except Exception as e:
