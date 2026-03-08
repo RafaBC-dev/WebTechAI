@@ -197,7 +197,7 @@ def build_all():
     print(f"   Site URL: {site_url}")
     print("=" * 60)
 
-    content_dir = BASE_DIR / "web" / "content"
+    content_dir = BASE_DIR / "docs" / "content"
     if not content_dir.exists():
         print("⚠️  Carpeta 'content' no encontrada. Ejecuta main.py primero.")
         return
