@@ -53,7 +53,7 @@ def load_config() -> dict:
 
 
 CATEGORIES  = ["ia", "robotica", "linux", "embebidos", "diseño-3d"]
-CONTENT_DIR = BASE_DIR / "web" / "content"
+CONTENT_DIR = BASE_DIR / "docs" / "content"
 LOG_FILE    = BASE_DIR / "run_log.txt"
 
 

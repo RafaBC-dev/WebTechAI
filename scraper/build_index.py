@@ -19,7 +19,7 @@ from datetime import datetime, timezone
 
 # Ajustar rutas relativas desde scraper/ hacia arriba
 BASE_DIR = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = BASE_DIR / "web"
+OUTPUT_DIR = BASE_DIR / "docs"
 
 
 # ── CONFIGURACIÓN ────────────────────────────────────────────────
@@ -104,7 +104,7 @@ def extract_metadata(path: str) -> dict:
 # ── INDEX.JSON ───────────────────────────────────────────────────
 
 def build_index(news: list):
-    OUTPUT_DIR = BASE_DIR / "web"
+    OUTPUT_DIR = BASE_DIR / "docs"
     with open(OUTPUT_DIR / "index.json", "w", encoding="utf-8") as f:
         json.dump(news, f, indent=2, ensure_ascii=False)
     print(f"✅ index.json   — {len(news)} artículos")
