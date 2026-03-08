@@ -42,7 +42,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Actualización automática ${{ env.fecha }}"
-          file_pattern: 'content/**/*.md index.json sitemap.xml feed.xml run_log.txt'
+          file_pattern: 'docs/content/**/*.md docs/index.json docs/sitemap.xml docs/feed.xml run_log.txt'
         env:
           fecha: ${{ steps.date.outputs.date }}
 

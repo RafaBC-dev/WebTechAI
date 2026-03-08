@@ -5,7 +5,7 @@
 /* ── TOKENS ─────────────────────────────────────────────────── */
 :root {
   --font-display: 'Syne', sans-serif;
-  --font-body:    'Fraunces', serif;
+  --font-body: 'Inter', system-ui, sans-serif;
   --font-mono:    'JetBrains Mono', monospace;
 
   --radius-sm: 6px;
@@ -146,6 +146,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   color: var(--text-2);
   white-space: nowrap;
   transition: all var(--transition);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;  /* opcional, queda más limpio */
 }
 .nav-link:hover { color: var(--text); background: var(--surface); }
 .nav-link.active { color: var(--accent); background: var(--accent-bg); }
@@ -334,6 +336,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   white-space: nowrap;
   transition: all var(--transition);
   cursor: pointer;
+  text-transform: uppercase;
 }
 .pill:hover { border-color: var(--border-2); color: var(--text); }
 .pill.active { color: var(--bg); border-color: transparent; }
