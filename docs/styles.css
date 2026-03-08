@@ -927,3 +927,295 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 @media (max-width: 480px) {
   .related-grid  { grid-template-columns: 1fr; }
 }
+
+/* ══════════════════════════════════════════════════════════════
+   RESPONSIVE — TABLET (≤ 768 px)
+   Solo se añaden reglas nuevas; ningún estilo de escritorio
+   es modificado. Todos los cambios van dentro de @media.
+   ══════════════════════════════════════════════════════════════ */
+@media (max-width: 768px) {
+
+  /* ── HEADER ─────────────────────────────────────────────── */
+  /* Reducir altura para que quepan logo + acciones en una línea */
+  .header-inner {
+    height: 56px;
+    gap: 12px;
+  }
+
+  /* Ocultar la nav de categorías del header en móvil */
+  .header-nav {
+    display: none;
+  }
+
+  /* El logo no se encoge para que siempre sea legible */
+  .logo {
+    flex-shrink: 0;
+  }
+
+  /* Las acciones (búsqueda + tema) se quedan a la derecha */
+  .header-actions {
+    margin-left: auto;
+  }
+
+  /* En la página de detalle el back-link comparte header con logo */
+  .back-link {
+    margin-left: auto;
+    font-size: .68rem;
+    padding: 4px 10px;
+  }
+
+  /* ── HERO ────────────────────────────────────────────────── */
+  .hero {
+    padding: 32px 0 24px;
+  }
+
+  /* Forzar font-size más pequeño en móvil; clamp() ya ajusta
+     pero en pantallas muy pequeñas aún puede ser grande */
+  .hero-title {
+    font-size: clamp(1.6rem, 7vw, 2.4rem);
+    margin-bottom: 20px;
+  }
+
+  .hero-label {
+    font-size: .65rem;
+    margin-bottom: 12px;
+  }
+
+  /* Stats en columna si no caben en fila */
+  .stats-row {
+    gap: 14px;
+  }
+
+  /* ── FILTER STRIP — nav de categorías ───────────────────── */
+  /* El strip no se pega bajo un header que ya bajó de altura */
+  .filter-strip {
+    top: 56px;   /* igual que la nueva altura del header */
+  }
+
+  /* Evitar que filter-inner envuelva: dejarlo en fila con scroll */
+  .filter-inner {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 8px;
+  }
+  .filter-inner::-webkit-scrollbar { display: none; }
+
+  /* Las pills ya tienen overflow-x en su contenedor; aseguramos
+     que no se achiquen */
+  .category-pills {
+    flex-shrink: 0;
+    flex: none;
+  }
+
+  /* Cada pill se mantiene compacta pero legible */
+  .pill {
+    font-size: .65rem;
+    padding: 5px 11px;
+  }
+
+  /* ── CARDS GRID ──────────────────────────────────────────── */
+  .news-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .main-content {
+    padding-top: 24px;
+    padding-bottom: 48px;
+  }
+
+  /* ── ARTICLE / DETAIL PAGE ───────────────────────────────── */
+  .article-container {
+    padding-top: 32px;
+    padding-bottom: 56px;
+    /* max-width ya es 760px; en móvil ocupa el ancho completo
+       gracias al padding del .container */
+  }
+
+  .article-title {
+    font-size: clamp(1.4rem, 6vw, 2rem);
+    margin-bottom: 14px;
+  }
+
+  .article-intro {
+    font-size: 1rem;
+    padding-left: 14px;
+    margin-bottom: 28px;
+  }
+
+  .article-text {
+    font-size: .97rem;
+  }
+
+  .article-meta {
+    gap: 10px;
+    margin-bottom: 24px;
+  }
+
+  .tip-box {
+    padding: 16px 16px;
+  }
+
+  .code-block {
+    padding: 12px 14px;
+  }
+
+  .source-link-box {
+    flex-direction: column;
+    text-align: center;
+    padding: 14px 16px;
+  }
+
+  /* ── FOOTER ──────────────────────────────────────────────── */
+  .footer-inner {
+    flex-direction: column;
+    text-align: center;
+    gap: 8px;
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════
+   RESPONSIVE — MÓVIL PEQUEÑO (≤ 480 px)
+   ══════════════════════════════════════════════════════════════ */
+@media (max-width: 480px) {
+
+  /* ── LAYOUT BASE ─────────────────────────────────────────── */
+  .container {
+    padding: 0 14px;
+  }
+
+  /* ── HEADER ─────────────────────────────────────────────── */
+  .header-inner {
+    height: 52px;
+    gap: 8px;
+  }
+
+  .filter-strip {
+    top: 52px;
+  }
+
+  .logo-text {
+    font-size: .95rem;
+  }
+
+  /* ── HERO ────────────────────────────────────────────────── */
+  .hero {
+    padding: 24px 0 20px;
+  }
+
+  .hero-title {
+    font-size: clamp(1.4rem, 8vw, 1.9rem);
+    letter-spacing: -.02em;
+    margin-bottom: 16px;
+  }
+
+  /* Stats: números más pequeños */
+  .stats-row {
+    gap: 10px;
+  }
+
+  .stat span {
+    font-size: 1.5rem;
+  }
+
+  .stat-sep {
+    height: 28px;
+  }
+
+  /* ── FILTER STRIP ────────────────────────────────────────── */
+  .filter-inner {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    gap: 6px;
+  }
+
+  .pill {
+    font-size: .62rem;
+    padding: 4px 10px;
+  }
+
+  /* ── CARDS ───────────────────────────────────────────────── */
+  .news-grid {
+    gap: 10px;
+  }
+
+  .main-content {
+    padding-top: 16px;
+    padding-bottom: 40px;
+  }
+
+  /* Que la tarjeta tenga márgenes internos más ajustados */
+  .card-top {
+    padding: 14px 14px 0;
+  }
+
+  .card-body {
+    padding: 0 14px 10px;
+  }
+
+  .card-tags {
+    padding: 8px 14px 0;
+  }
+
+  .card-footer {
+    padding: 10px 14px 12px;
+  }
+
+  .card-title {
+    font-size: .97rem;
+  }
+
+  .card-preview {
+    font-size: .83rem;
+  }
+
+  /* ── ARTICLE / DETAIL PAGE ───────────────────────────────── */
+  .article-container {
+    padding-top: 24px;
+    padding-bottom: 40px;
+  }
+
+  .article-title {
+    font-size: clamp(1.25rem, 7vw, 1.7rem);
+  }
+
+  .article-intro {
+    font-size: .93rem;
+  }
+
+  .article-text {
+    font-size: .92rem;
+    line-height: 1.75;
+  }
+
+  .key-points li {
+    font-size: .9rem;
+  }
+
+  .section-label {
+    font-size: .62rem;
+  }
+
+  /* Related articles: una columna */
+  .related-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Source box */
+  .source-link-box {
+    padding: 12px 14px;
+    gap: 10px;
+  }
+
+  /* ── LOAD MORE ───────────────────────────────────────────── */
+  .load-more-btn {
+    padding: 10px 24px;
+    font-size: .75rem;
+  }
+}
+
