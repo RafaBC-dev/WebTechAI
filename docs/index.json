@@ -1,207 +1,265 @@
 [
   {
-    "title": "Echo Pyramid: habla inteligente para controladores IoT M5Stack Atom",
-    "category": "embebidos",
-    "date": "2026-03-08",
-    "slug": "echo-pyramid-habla-inteligente-para-controladores-iot-m",
+    "title": "Cámara de Raspberry Pi modular para experimentar con diferentes pantallas y lentes",
+    "category": "diseño-3d",
+    "date": "2026-03-09",
+    "slug": "camara-de-raspberry-pi-modular-para-experimentar-con-di",
     "tags": [
-      "ESP32",
-      "IoT",
-      "Habla inteligente"
+      "Raspberry Pi",
+      "cámara digital",
+      "3D impresión",
+      "modularidad",
+      "proyectos de hardware"
     ],
-    "preview": "La empresa M5Stack ha lanzado el Echo Pyramid, un dispositivo que permite la interacción de voz inteligente en aplicaciones IoT. Este dispositivo es compatible con los controladores M5Stack Atom, AtomS3 y AtomS3R, basados en el SoC ESP32 o…",
+    "preview": "La comunidad de hackers ha adoptado las cámaras de Raspberry Pi como herramienta estándar para proyectos de cámara digital. Sin embargo, la variedad de pantallas, lentes y módulos puede ser complicada de gestionar. Un ingeniero ha creado…",
     "has_command": false,
-    "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controladores-iot-m.md"
+    "file_path": "content/diseño-3d/2026-03-09-camara-de-raspberry-pi-modular-para-experimentar-con-di.md"
   },
   {
-    "title": "Echo Pyramid: habla inteligente para controles IoT M5Stack Atom",
-    "category": "embebidos",
-    "date": "2026-03-08",
-    "slug": "echo-pyramid-habla-inteligente-para-controles-iot-m5sta",
+    "title": "Descubren dinosaurio minúsculo con brazos largos que cuestiona la miniaturización de los dinosaurios",
+    "category": "robotica",
+    "date": "2026-03-09",
+    "slug": "descubren-dinosaurio-minusculo-con-brazos-largos-que-cu",
     "tags": [
-      "ESP32",
-      "IoT",
-      "Voz Inteligente",
-      "M5Stack"
+      "Paleontología",
+      "Dinosaurios",
+      "Evolución",
+      "Miniaturización"
     ],
-    "preview": "La tecnología de voz inteligente se vuelve más accesible con el Echo Pyramid, un módulo que permite a los controles IoT M5Stack Atom ejecutar aplicaciones de voz inteligente, como reconocimiento de voz a distancia, asistentes de voz y…",
-    "has_command": true,
-    "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controles-iot-m5sta.md"
+    "preview": "Un nuevo hallazgo en la paleontología cuestiona la teoría de que los dinosaurios pequeños se miniaturizaron para cazar hormigas y termitas. El descubrimiento de un dinosaurio minúsculo con brazos largos sugiere que la miniaturización no…",
+    "has_command": false,
+    "file_path": "content/robotica/2026-03-09-descubren-dinosaurio-minusculo-con-brazos-largos-que-cu.md"
   },
   {
-    "title": "Campamentos temporales para trabajadores de centros de datos con inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "campamentos-temporales-para-trabajadores-de-centros-de-",
+    "title": "La controversia del Pentagono y la tecnología Anthropic: ¿qué significa para startups?",
+    "category": "robotica",
+    "date": "2026-03-09",
+    "slug": "la-controversia-del-pentagono-y-la-tecnologia-anthropic",
     "tags": [
-      "AI",
-      "centros de datos",
-      "man camps",
-      "construcción",
-      "trabajadores"
-    ],
-    "preview": "En Estados Unidos, la construcción de centros de datos con inteligencia artificial está impulsando la creación de campamentos temporales para alojar a los trabajadores necesarios para su construcción. Estos campamentos, llamados 'man…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-de-centros-de-.md"
-  },
-  {
-    "title": "Campamentos temporales para trabajadores en centros de datos con inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "campamentos-temporales-para-trabajadores-en-centros-de-",
-    "tags": [
+      "LLM",
       "IA",
-      "centros de datos",
-      "man camps",
-      "sostenibilidad",
-      "eficiencia energética"
+      "Pentágono",
+      "Tecnología de Defensa"
     ],
-    "preview": "La construcción de centros de datos con inteligencia artificial (IA) está en auge en Estados Unidos, lo que ha llevado a la creación de campamentos temporales para alojar a los trabajadores que se necesitan para construir y operar estos…",
+    "preview": "La relación entre el Pentágono y la empresa Anthropic se ha vuelto tensa después de que el gobierno estadounidense designara a la empresa como un riesgo en la cadena de suministro. Esto ha llevado a que otras empresas de tecnología como…",
     "has_command": false,
-    "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-en-centros-de-.md"
+    "file_path": "content/robotica/2026-03-09-la-controversia-del-pentagono-y-la-tecnologia-anthropic.md"
   },
   {
-    "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
+    "title": "Desbloqueando la impresora de etiquetas Fichero: un protocolo Bluetooth desmontado",
     "category": "ia",
-    "date": "2026-03-08",
-    "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensac-2",
+    "date": "2026-03-09",
+    "slug": "desbloqueando-la-impresora-de-etiquetas-fichero-un-prot",
     "tags": [
-      "Google",
-      "Waymo",
-      "Wing",
-      "IA",
-      "Sistemas embebidos"
+      "reverse-engineering",
+      "protocolo BLE",
+      "impressora de etiquetas",
+      "IoT"
     ],
-    "preview": "Google ha otorgado a su CEO, Sundar Pichai, un paquete de compensación de $692 millones, que podría hacerlo uno de los ejecutivos mejor pagados del mundo. Sin embargo, la mayor parte de este paquete está condicionado a su desempeño,…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensac-2.md"
+    "preview": "Una impresora de etiquetas barata y accesible, pero con una interfaz de usuario limitada a una aplicación móvil propietaria. Un entusiasta de la tecnología ha decidido cambiar esto mediante la reverse-engineering del protocolo BLE.",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-09-desbloqueando-la-impresora-de-etiquetas-fichero-un-prot.md"
   },
   {
-    "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
+    "title": "Marvel revive Daredevil: Born Again con un nuevo capítulo",
     "category": "ia",
-    "date": "2026-03-08",
-    "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensacio",
+    "date": "2026-03-09",
+    "slug": "marvel-revive-daredevil-born-again-con-un-nuevo-capitul",
     "tags": [
-      "compensación",
-      "desempeño",
-      "crecimiento",
-      "innovación"
+      "Marvel",
+      "Daredevil",
+      "serie de televisión",
+      "Marvel Studios"
     ],
-    "preview": "El CEO de Google, Sundar Pichai, ha recibido un paquete de compensación de $692 millones, con la mayoría de la cantidad vinculada a su desempeño. A diferencia de los fundadores de Google, Larry Page y Sergey Brin, Pichai ha evitado la…",
+    "preview": "La serie de televisión Daredevil: Born Again regresa con un nuevo capítulo, reuniendo a personajes icónicos de la saga Marvel. La noticia ha generado expectación entre los fanáticos, que esperan ver a Matt Murdock/Daredevil y Wilson…",
     "has_command": false,
-    "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensacio.md"
+    "file_path": "content/ia/2026-03-09-marvel-revive-daredevil-born-again-con-un-nuevo-capitul.md"
   },
   {
-    "title": "Investigador busca una nueva especie de elefante en África: un reto en la conservación",
+    "title": "Un documental inmersivo busca a los elefantes fantasma del África",
     "category": "ia",
-    "date": "2026-03-08",
-    "slug": "investigador-busca-una-nueva-especie-de-elefante-en-afr",
+    "date": "2026-03-09",
+    "slug": "un-documental-inmersivo-busca-a-los-elefantes-fantasma-",
     "tags": [
       "conservación",
       "biodiversidad",
-      "ecología",
-      "elefantes",
-      "documental"
-    ],
-    "preview": "Un equipo de investigación liderado por Steve Boyes busca encontrar una nueva especie de elefante en la región de Angola. Esta búsqueda es un desafío en la conservación de la biodiversidad y puede revelar nuevos conocimientos sobre la…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-investigador-busca-una-nueva-especie-de-elefante-en-afr.md"
-  },
-  {
-    "title": "La búsqueda de los elefantes fantasmales en la selva angoleña",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an",
-    "tags": [
-      "conservacion",
-      "naturaleza",
-      "elefantes",
       "documental",
-      "biodiversidad"
+      "investigación científica"
     ],
-    "preview": "Un documental dirigido por Werner Herzog sigue a un conservacionista en su búsqueda de un nuevo tipo de elefante en la selva angoleña. La película, llamada 'Ghost Elephants', muestra la fascinación de Steve Boyes con estos animales y su…",
+    "preview": "Un equipo de documentalistas liderado por Werner Herzog busca en el África subsahariana a una especie de elefantes nunca antes vista. La búsqueda se basa en la investigación de Steve Boyes, un ornitólogo que ha dedicado años a estudiar a…",
     "has_command": false,
-    "file_path": "content/ia/2026-03-08-la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an.md"
+    "file_path": "content/ia/2026-03-09-un-documental-inmersivo-busca-a-los-elefantes-fantasma-.md"
   },
   {
-    "title": "Marvel revive a Daredevil: Born Again con una nueva temporada y nuevos personajes",
+    "title": "Man camps para trabajadores de centros de datos: la oportunidad de la IA",
     "category": "ia",
-    "date": "2026-03-08",
-    "slug": "marvel-revive-a-daredevil-born-again-con-una-nueva-temp",
+    "date": "2026-03-09",
+    "slug": "man-camps-para-trabajadores-de-centros-de-datos-la-opor",
     "tags": [
-      "Marvel",
-      "Daredevil",
-      "Nueva Temporada",
-      "Jessica Jones"
+      "man camps",
+      "centros de datos",
+      "IA",
+      "trabajadores temporales"
     ],
-    "preview": "La popular serie de televisión Daredevil: Born Again regresa con una nueva temporada, y con ella, nuevos personajes y tramas emocionantes. La serie sigue la historia de Matt Murdock/Daredevil y su archienemigo Wilson Fisk/Kingpin, y ahora…",
+    "preview": "La construcción de centros de datos impulsada por la IA está generando un boom en la demanda de trabajadores temporales. Para satisfacer esta demanda, se están construyendo campamentos temporales llamados 'man camps', que ofrecen…",
     "has_command": false,
-    "file_path": "content/ia/2026-03-08-marvel-revive-a-daredevil-born-again-con-una-nueva-temp.md"
+    "file_path": "content/ia/2026-03-09-man-camps-para-trabajadores-de-centros-de-datos-la-opor.md"
   },
   {
-    "title": "Marvel revive la serie Daredevil: Born Again con un nuevo capítulo emocionante",
+    "title": "Ring busca tranquilizar a sus usuarios sobre privacidad con Search Party",
     "category": "ia",
-    "date": "2026-03-08",
-    "slug": "marvel-revive-la-serie-daredevil-born-again-con-un-nuev",
+    "date": "2026-03-09",
+    "slug": "ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad",
     "tags": [
-      "Marvel",
-      "Daredevil",
-      "Netflix",
-      "serie de televisión",
-      "acción",
-      "suspenso"
+      "AI",
+      "Privacidad",
+      "Cámaras Inteligentes",
+      "Inteligencia Artificial"
     ],
-    "preview": "La serie Daredevil: Born Again, una de las mejores de la temporada pasada, regresa con un nuevo capítulo que promete emociones y acción. La serie sigue la historia de Matt Murdock/Daredevil y su enemigo, Wilson Fisk/Kingpin, en una batalla…",
+    "preview": "La empresa Ring ha lanzado un nuevo servicio llamado Search Party, que utiliza inteligencia artificial para ayudar a encontrar perros perdidos. Sin embargo, su anuncio en el Super Bowl ha generado una gran controversia y críticas sobre la…",
     "has_command": false,
-    "file_path": "content/ia/2026-03-08-marvel-revive-la-serie-daredevil-born-again-con-un-nuev.md"
+    "file_path": "content/ia/2026-03-09-ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad.md"
   },
   {
-    "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
+    "title": "Raspberry Pi 5 con pantalla táctil y cámaras: el Pironman 5 Pro Max",
     "category": "ia",
-    "date": "2026-03-08",
-    "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2",
+    "date": "2026-03-09",
+    "slug": "raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma",
     "tags": [
       "Raspberry Pi 5",
       "pantalla táctil",
-      "cámara de 5MP",
-      "altavoces estéreo",
-      "micrófono USB"
+      "cámaras",
+      "caso de Raspberry Pi"
     ],
-    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, una cámara de 5MP, altavoces estéreo y un micrófono USB. Este caso es ideal para proyectos de robótica y…",
+    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil, cámaras y otros accesorios. Este caso es ideal para proyectos de robótica y automatización.",
     "has_command": true,
-    "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2.md"
+    "file_path": "content/ia/2026-03-09-raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma.md"
   },
   {
-    "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
+    "title": "Simulando neuronas con un ordenador analógico innovador",
     "category": "ia",
-    "date": "2026-03-08",
-    "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant",
+    "date": "2026-03-09",
+    "slug": "simulando-neuronas-con-un-ordenador-analogico-innovador",
     "tags": [
-      "Raspberry Pi",
-      "IA",
-      "Automatización",
-      "Multimedia",
-      "Pantalla táctil"
+      "ordenador_analógico",
+      "neuronas",
+      "circuitos_electrónicos"
     ],
-    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, un módulo de cámara de 5MP y otros accesorios. Este caso es ideal para proyectos de Inteligencia Artificial,…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant.md"
-  },
-  {
-    "title": "Restauración de un Commodore PET 3032 en mal estado: un proyecto de robótica retro",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2",
-    "tags": [
-      "ordenadores",
-      "restauración",
-      "demoscene",
-      "electrónica",
-      "historia de la informática"
-    ],
-    "preview": "Un equipo de demoscene en Polonia ha restaurado un Commodore PET 3032, un ordenador de la década de 1970 que había estado almacenado durante décadas. Aunque parecía en buen estado al principio, la restauración reveló problemas…",
+    "preview": "Aunque los ordenadores digitales han dominado la escena, los ordenadores analógicos siguen siendo una fascinación para algunos. Recientemente, un ingeniero ha diseñado un ordenador analógico para simular neuronas, abriendo nuevas…",
     "has_command": false,
-    "file_path": "content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2.md"
+    "file_path": "content/ia/2026-03-09-simulando-neuronas-con-un-ordenador-analogico-innovador.md"
+  },
+  {
+    "title": "Rust Coreutils 0.7: Mejoras de rendimiento para herramientas de sistema",
+    "category": "linux",
+    "date": "2026-03-09",
+    "slug": "rust-coreutils-07-mejoras-de-rendimiento-para-herramien",
+    "tags": [
+      "Rust",
+      "Coreutils",
+      "GNU Test Suite",
+      "Mejoras de rendimiento",
+      "Seguridad"
+    ],
+    "preview": "La versión 0.7 de Rust Coreutils ha sido lanzada con un enfoque en la mejora del rendimiento de las herramientas de sistema. Esta actualización busca alcanzar la compatibilidad del 100% con el Test de GNU, pero también introduce cambios…",
+    "has_command": false,
+    "file_path": "content/linux/2026-03-09-rust-coreutils-07-mejoras-de-rendimiento-para-herramien.md"
+  },
+  {
+    "title": "Linux 7.0-rc3: El kernel más grande en recientes historias",
+    "category": "linux",
+    "date": "2026-03-09",
+    "slug": "linux-70-rc3-el-kernel-mas-grande-en-recientes-historia",
+    "tags": [
+      "kernel",
+      "Linux",
+      "rendimiento",
+      "seguridad",
+      "compatibilidad"
+    ],
+    "preview": "La versión 7.0 del kernel Linux está avanzando rápidamente hacia su lanzamiento estable en abril. La versión 7.0-rc3, lanzada recientemente, incluye una gran cantidad de cambios y arreglos de bugs, lo que ha generado preocupación en el…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-09-linux-70-rc3-el-kernel-mas-grande-en-recientes-historia.md"
+  },
+  {
+    "title": "CachyOS cambia a Wayland y mejora la experiencia de usuario",
+    "category": "linux",
+    "date": "2026-03-09",
+    "slug": "cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu",
+    "tags": [
+      "Linux",
+      "Wayland",
+      "Steam Deck",
+      "CachyOS",
+      "Arch Linux"
+    ],
+    "preview": "La distribución CachyOS, basada en Arch Linux, ha lanzado una actualización importante que incluye cambios significativos en la experiencia de usuario para dispositivos portátiles como el Steam Deck. Entre las mejoras destacan la…",
+    "has_command": false,
+    "file_path": "content/linux/2026-03-09-cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu.md"
+  },
+  {
+    "title": "Nueva Familia de Microcontroladores STM32C5 para Aplicaciones Industriales",
+    "category": "embebidos",
+    "date": "2026-03-09",
+    "slug": "nueva-familia-de-microcontroladores-stm32c5-para-aplica",
+    "tags": [
+      "STM32C5",
+      "Arm Cortex-M33",
+      "microcontroladores",
+      "industrial",
+      "domótica"
+    ],
+    "preview": "STMicro ha lanzado la familia de microcontroladores STM32C5, diseñada para aplicaciones industriales y domóticas. Estos microcontroladores ofrecen una gran variedad de características y opciones de configuración, lo que los hace ideales…",
+    "has_command": false,
+    "file_path": "content/embebidos/2026-03-09-nueva-familia-de-microcontroladores-stm32c5-para-aplica.md"
+  },
+  {
+    "title": "Generador de señal RF abierto y de alta gama a un precio asequible",
+    "category": "embebidos",
+    "date": "2026-03-09",
+    "slug": "generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci",
+    "tags": [
+      "RF",
+      "Generador de señal",
+      "Atek Midas",
+      "SCPI",
+      "Laboratorio"
+    ],
+    "preview": "La empresa turca Atek Midas ha lanzado un generador de señal RF de alta gama y abierto que ofrece una gama de frecuencia de 0.15 GHz a 22.6 GHz y puede ser controlado a través de una interfaz web o mediante comandos SCPI.",
+    "has_command": true,
+    "file_path": "content/embebidos/2026-03-09-generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci.md"
+  },
+  {
+    "title": "Un descubrimiento sorprendente sobre los dinosaurios miniaturizados",
+    "category": "robotica",
+    "date": "2026-03-08",
+    "slug": "un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi",
+    "tags": [
+      "evolución",
+      "paleontología",
+      "dinosaurios",
+      "miniaturización",
+      "alvarezsauridos"
+    ],
+    "preview": "Los paleontólogos han descubierto un fósil de un dinosaurio miniaturizado que desafía la teoría de que los alvarezsauridos se volvieron pequeños para cazar hormigas y termitas. El descubrimiento sugiere que la miniaturización de estos…",
+    "has_command": false,
+    "file_path": "content/robotica/2026-03-08-un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi.md"
+  },
+  {
+    "title": "El descubrimiento de un dinosaurio minúsculo desafía la teoría de la miniaturización",
+    "category": "robotica",
+    "date": "2026-03-08",
+    "slug": "el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la",
+    "tags": [
+      "Paleontología",
+      "Dinosaurios",
+      "Miniaturización",
+      "Alvarezsaurios",
+      "Cazadores"
+    ],
+    "preview": "Un nuevo fósil de un dinosaurio alvarezsaurio desafía la teoría de que estos animales se hicieron más pequeños para cazar hormigas y termitas. El fósil, llamado Alnashetri cerropoliciensis, pesaba solo 700 gramos y probablemente era un…",
+    "has_command": false,
+    "file_path": "content/robotica/2026-03-08-el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la.md"
   },
   {
     "title": "Restauración de un Commodore PET 3032 en mal estado: un logro de la comunidad retroinformática",
@@ -217,52 +275,6 @@
     "preview": "La comunidad de aficionados a la informática retro ha logrado restaurar un Commodore PET 3032 en mal estado, un ordenador clásico de la década de 1970. Este proyecto es relevante porque muestra la capacidad de la comunidad para recuperar y…",
     "has_command": false,
     "file_path": "content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-un-.md"
-  },
-  {
-    "title": "Spoofing señales de preeminencia de tráfico de emergencia: un hack posible en realidad",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "spoofing-senales-de-preeminencia-de-trafico-de-emergenc",
-    "tags": [
-      "EVP",
-      "hackeo",
-      "seguridad",
-      "semáforos",
-      "tráfico"
-    ],
-    "preview": "Un investigador ha logrado hackear sistemas de preeminencia de tráfico de emergencia en ciudades, lo que podría permitir a hackers controlar semáforos y crear situaciones de peligro en la vía pública. La noticia destaca la importancia de…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-spoofing-senales-de-preeminencia-de-trafico-de-emergenc.md"
-  },
-  {
-    "title": "Spoofing un Señal de Preempión de Tráfico de Emergencia: un Hack Real",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "spoofing-un-senal-de-preempion-de-trafico-de-emergencia",
-    "tags": [
-      "Linux",
-      "Robótica",
-      "Sistemas Embebidos",
-      "Seguridad de Sistemas"
-    ],
-    "preview": "Un hacker ha logrado controlar un sistema de preempión de tráfico de emergencia, lo que podría tener graves consecuencias en la seguridad vial. La noticia nos recuerda la importancia de la seguridad en los sistemas críticos. Aunque se…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-spoofing-un-senal-de-preempion-de-trafico-de-emergencia.md"
-  },
-  {
-    "title": "Un grupo de expertos presenta un marco para el desarrollo responsable de la inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "un-grupo-de-expertos-presenta-un-marco-para-el-desarrol",
-    "tags": [
-      "IA",
-      "Desarrollo responsable",
-      "Seguridad de la IA",
-      "Transparencia de la IA"
-    ],
-    "preview": "Un grupo de expertos ha presentado un marco para el desarrollo responsable de la inteligencia artificial, en respuesta a la falta de regulación en este campo. Este marco, conocido como la Declaración Pro-Humana, busca establecer límites…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-un-grupo-de-expertos-presenta-un-marco-para-el-desarrol.md"
   },
   {
     "title": "Un Jet Ski casero para combatir el aburrimiento del invierno",
@@ -295,6 +307,150 @@
     "file_path": "content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-sindrome-del-inviern.md"
   },
   {
+    "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant",
+    "tags": [
+      "Raspberry Pi",
+      "IA",
+      "Automatización",
+      "Multimedia",
+      "Pantalla táctil"
+    ],
+    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, un módulo de cámara de 5MP y otros accesorios. Este caso es ideal para proyectos de Inteligencia Artificial,…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant.md"
+  },
+  {
+    "title": "Marvel revive a Daredevil: Born Again con una nueva temporada y nuevos personajes",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "marvel-revive-a-daredevil-born-again-con-una-nueva-temp",
+    "tags": [
+      "Marvel",
+      "Daredevil",
+      "Nueva Temporada",
+      "Jessica Jones"
+    ],
+    "preview": "La popular serie de televisión Daredevil: Born Again regresa con una nueva temporada, y con ella, nuevos personajes y tramas emocionantes. La serie sigue la historia de Matt Murdock/Daredevil y su archienemigo Wilson Fisk/Kingpin, y ahora…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-marvel-revive-a-daredevil-born-again-con-una-nueva-temp.md"
+  },
+  {
+    "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensac-2",
+    "tags": [
+      "Google",
+      "Waymo",
+      "Wing",
+      "IA",
+      "Sistemas embebidos"
+    ],
+    "preview": "Google ha otorgado a su CEO, Sundar Pichai, un paquete de compensación de $692 millones, que podría hacerlo uno de los ejecutivos mejor pagados del mundo. Sin embargo, la mayor parte de este paquete está condicionado a su desempeño,…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensac-2.md"
+  },
+  {
+    "title": "Spoofing señales de preeminencia de tráfico de emergencia: un hack posible en realidad",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "spoofing-senales-de-preeminencia-de-trafico-de-emergenc",
+    "tags": [
+      "EVP",
+      "hackeo",
+      "seguridad",
+      "semáforos",
+      "tráfico"
+    ],
+    "preview": "Un investigador ha logrado hackear sistemas de preeminencia de tráfico de emergencia en ciudades, lo que podría permitir a hackers controlar semáforos y crear situaciones de peligro en la vía pública. La noticia destaca la importancia de…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-spoofing-senales-de-preeminencia-de-trafico-de-emergenc.md"
+  },
+  {
+    "title": "La búsqueda de los elefantes fantasmales en la selva angoleña",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an",
+    "tags": [
+      "conservacion",
+      "naturaleza",
+      "elefantes",
+      "documental",
+      "biodiversidad"
+    ],
+    "preview": "Un documental dirigido por Werner Herzog sigue a un conservacionista en su búsqueda de un nuevo tipo de elefante en la selva angoleña. La película, llamada 'Ghost Elephants', muestra la fascinación de Steve Boyes con estos animales y su…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an.md"
+  },
+  {
+    "title": "Marvel revive la serie Daredevil: Born Again con un nuevo capítulo emocionante",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "marvel-revive-la-serie-daredevil-born-again-con-un-nuev",
+    "tags": [
+      "Marvel",
+      "Daredevil",
+      "Netflix",
+      "serie de televisión",
+      "acción",
+      "suspenso"
+    ],
+    "preview": "La serie Daredevil: Born Again, una de las mejores de la temporada pasada, regresa con un nuevo capítulo que promete emociones y acción. La serie sigue la historia de Matt Murdock/Daredevil y su enemigo, Wilson Fisk/Kingpin, en una batalla…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-marvel-revive-la-serie-daredevil-born-again-con-un-nuev.md"
+  },
+  {
+    "title": "Campamentos temporales para trabajadores de centros de datos con inteligencia artificial",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "campamentos-temporales-para-trabajadores-de-centros-de-",
+    "tags": [
+      "AI",
+      "centros de datos",
+      "man camps",
+      "construcción",
+      "trabajadores"
+    ],
+    "preview": "En Estados Unidos, la construcción de centros de datos con inteligencia artificial está impulsando la creación de campamentos temporales para alojar a los trabajadores necesarios para su construcción. Estos campamentos, llamados 'man…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-de-centros-de-.md"
+  },
+  {
+    "title": "Restauración de un Commodore PET 3032 en mal estado: un proyecto de robótica retro",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2",
+    "tags": [
+      "ordenadores",
+      "restauración",
+      "demoscene",
+      "electrónica",
+      "historia de la informática"
+    ],
+    "preview": "Un equipo de demoscene en Polonia ha restaurado un Commodore PET 3032, un ordenador de la década de 1970 que había estado almacenado durante décadas. Aunque parecía en buen estado al principio, la restauración reveló problemas…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2.md"
+  },
+  {
+    "title": "Investigador busca una nueva especie de elefante en África: un reto en la conservación",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "investigador-busca-una-nueva-especie-de-elefante-en-afr",
+    "tags": [
+      "conservación",
+      "biodiversidad",
+      "ecología",
+      "elefantes",
+      "documental"
+    ],
+    "preview": "Un equipo de investigación liderado por Steve Boyes busca encontrar una nueva especie de elefante en la región de Angola. Esta búsqueda es un desafío en la conservación de la biodiversidad y puede revelar nuevos conocimientos sobre la…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-investigador-busca-una-nueva-especie-de-elefante-en-afr.md"
+  },
+  {
     "title": "Un llamado a la responsabilidad en el desarrollo de la inteligencia artificial",
     "category": "ia",
     "date": "2026-03-08",
@@ -311,67 +467,81 @@
     "file_path": "content/ia/2026-03-08-un-llamado-a-la-responsabilidad-en-el-desarrollo-de-la-.md"
   },
   {
-    "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
-    "category": "linux",
+    "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
+    "category": "ia",
     "date": "2026-03-08",
-    "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2",
+    "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2",
+    "tags": [
+      "Raspberry Pi 5",
+      "pantalla táctil",
+      "cámara de 5MP",
+      "altavoces estéreo",
+      "micrófono USB"
+    ],
+    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, una cámara de 5MP, altavoces estéreo y un micrófono USB. Este caso es ideal para proyectos de robótica y…",
+    "has_command": true,
+    "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2.md"
+  },
+  {
+    "title": "Un grupo de expertos presenta un marco para el desarrollo responsable de la inteligencia artificial",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "un-grupo-de-expertos-presenta-un-marco-para-el-desarrol",
+    "tags": [
+      "IA",
+      "Desarrollo responsable",
+      "Seguridad de la IA",
+      "Transparencia de la IA"
+    ],
+    "preview": "Un grupo de expertos ha presentado un marco para el desarrollo responsable de la inteligencia artificial, en respuesta a la falta de regulación en este campo. Este marco, conocido como la Declaración Pro-Humana, busca establecer límites…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-un-grupo-de-expertos-presenta-un-marco-para-el-desarrol.md"
+  },
+  {
+    "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensacio",
+    "tags": [
+      "compensación",
+      "desempeño",
+      "crecimiento",
+      "innovación"
+    ],
+    "preview": "El CEO de Google, Sundar Pichai, ha recibido un paquete de compensación de $692 millones, con la mayoría de la cantidad vinculada a su desempeño. A diferencia de los fundadores de Google, Larry Page y Sergey Brin, Pichai ha evitado la…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensacio.md"
+  },
+  {
+    "title": "Campamentos temporales para trabajadores en centros de datos con inteligencia artificial",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "campamentos-temporales-para-trabajadores-en-centros-de-",
+    "tags": [
+      "IA",
+      "centros de datos",
+      "man camps",
+      "sostenibilidad",
+      "eficiencia energética"
+    ],
+    "preview": "La construcción de centros de datos con inteligencia artificial (IA) está en auge en Estados Unidos, lo que ha llevado a la creación de campamentos temporales para alojar a los trabajadores que se necesitan para construir y operar estos…",
+    "has_command": false,
+    "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-en-centros-de-.md"
+  },
+  {
+    "title": "Spoofing un Señal de Preempión de Tráfico de Emergencia: un Hack Real",
+    "category": "ia",
+    "date": "2026-03-08",
+    "slug": "spoofing-un-senal-de-preempion-de-trafico-de-emergencia",
     "tags": [
       "Linux",
-      "Steam Deck",
-      "Wayland",
-      "CachyOS",
-      "Arch Linux"
+      "Robótica",
+      "Sistemas Embebidos",
+      "Seguridad de Sistemas"
     ],
-    "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition está disponible, con mejoras significativas en el instalador y la experiencia de usuario. Esta actualización es especialmente importante para propietarios de dispositivos de juego…",
+    "preview": "Un hacker ha logrado controlar un sistema de preempión de tráfico de emergencia, lo que podría tener graves consecuencias en la seguridad vial. La noticia nos recuerda la importancia de la seguridad en los sistemas críticos. Aunque se…",
     "has_command": true,
-    "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2.md"
-  },
-  {
-    "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca",
-    "tags": [
-      "Linux",
-      "CachyOS",
-      "Wayland",
-      "Bcachefs",
-      "Steam Deck"
-    ],
-    "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition, una distribución de Linux para dispositivos de juego portátiles como el Steam Deck, ha sido actualizada con varias mejoras y cambios importantes. Entre ellos, el cambio a Wayland…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca.md"
-  },
-  {
-    "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de gráficos y codificación de video",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2",
-    "tags": [
-      "FFmpeg",
-      "Vulkan",
-      "JPEG-XS",
-      "aceleración de gráficos",
-      "codificación de video"
-    ],
-    "preview": "Los desarrolladores de FFmpeg están preparando la próxima versión, FFmpeg 8.1, que traerá mejoras significativas en la aceleración de gráficos y la codificación de video. Entre las características nuevas se encuentran la aceleración de…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2.md"
-  },
-  {
-    "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de video y codificación",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci",
-    "tags": [
-      "Vulkan",
-      "JPEG-XS",
-      "aceleración de video",
-      "codificación de video"
-    ],
-    "preview": "Los desarrolladores de FFmpeg están preparando la versión 8.1 de este popular software de codificación y reproducción de video, que incluye mejoras significativas en la aceleración de video y la codificación. Entre las novedades destacan…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci.md"
+    "file_path": "content/ia/2026-03-08-spoofing-un-senal-de-preempion-de-trafico-de-emergencia.md"
   },
   {
     "title": "GEEKOM A5 Pro 2026 Edition: Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U",
@@ -390,6 +560,22 @@
     "file_path": "content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-pc-am.md"
   },
   {
+    "title": "Intel lanza soporte experimental para gráficos Intel Nova Lake P en Mesa 26.1",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "intel-lanza-soporte-experimental-para-graficos-intel-no",
+    "tags": [
+      "Mesa",
+      "Intel",
+      "NovaLakeP",
+      "Xe3P",
+      "gráficos"
+    ],
+    "preview": "La compañía Intel ha agregado soporte experimental para los gráficos Intel Nova Lake P a la versión de desarrollo de Mesa 26.1. Esta actualización permite a los desarrolladores trabajar con la tecnología de gráficos Intel más avanzada,…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel-no.md"
+  },
+  {
     "title": "Intel lanza soporte experimental para gráficos Intel Nova Lake P en Linux",
     "category": "linux",
     "date": "2026-03-08",
@@ -406,20 +592,67 @@
     "file_path": "content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel--2.md"
   },
   {
-    "title": "Intel lanza soporte experimental para gráficos Intel Nova Lake P en Mesa 26.1",
+    "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de video y codificación",
     "category": "linux",
     "date": "2026-03-08",
-    "slug": "intel-lanza-soporte-experimental-para-graficos-intel-no",
+    "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci",
     "tags": [
-      "Mesa",
-      "Intel",
-      "NovaLakeP",
-      "Xe3P",
-      "gráficos"
+      "Vulkan",
+      "JPEG-XS",
+      "aceleración de video",
+      "codificación de video"
     ],
-    "preview": "La compañía Intel ha agregado soporte experimental para los gráficos Intel Nova Lake P a la versión de desarrollo de Mesa 26.1. Esta actualización permite a los desarrolladores trabajar con la tecnología de gráficos Intel más avanzada,…",
+    "preview": "Los desarrolladores de FFmpeg están preparando la versión 8.1 de este popular software de codificación y reproducción de video, que incluye mejoras significativas en la aceleración de video y la codificación. Entre las novedades destacan…",
     "has_command": true,
-    "file_path": "content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel-no.md"
+    "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci.md"
+  },
+  {
+    "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca",
+    "tags": [
+      "Linux",
+      "CachyOS",
+      "Wayland",
+      "Bcachefs",
+      "Steam Deck"
+    ],
+    "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition, una distribución de Linux para dispositivos de juego portátiles como el Steam Deck, ha sido actualizada con varias mejoras y cambios importantes. Entre ellos, el cambio a Wayland…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca.md"
+  },
+  {
+    "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2",
+    "tags": [
+      "Linux",
+      "Steam Deck",
+      "Wayland",
+      "CachyOS",
+      "Arch Linux"
+    ],
+    "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition está disponible, con mejoras significativas en el instalador y la experiencia de usuario. Esta actualización es especialmente importante para propietarios de dispositivos de juego…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2.md"
+  },
+  {
+    "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de gráficos y codificación de video",
+    "category": "linux",
+    "date": "2026-03-08",
+    "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2",
+    "tags": [
+      "FFmpeg",
+      "Vulkan",
+      "JPEG-XS",
+      "aceleración de gráficos",
+      "codificación de video"
+    ],
+    "preview": "Los desarrolladores de FFmpeg están preparando la próxima versión, FFmpeg 8.1, que traerá mejoras significativas en la aceleración de gráficos y la codificación de video. Entre las características nuevas se encuentran la aceleración de…",
+    "has_command": true,
+    "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2.md"
   },
   {
     "title": "Revisión del GEEKOM A5 Pro 2026 con Ubuntu 25.10: rendimiento y características",
@@ -437,35 +670,32 @@
     "file_path": "content/linux/2026-03-08-revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi.md"
   },
   {
-    "title": "El descubrimiento de un dinosaurio minúsculo desafía la teoría de la miniaturización",
-    "category": "robotica",
+    "title": "Echo Pyramid: habla inteligente para controles IoT M5Stack Atom",
+    "category": "embebidos",
     "date": "2026-03-08",
-    "slug": "el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la",
+    "slug": "echo-pyramid-habla-inteligente-para-controles-iot-m5sta",
     "tags": [
-      "Paleontología",
-      "Dinosaurios",
-      "Miniaturización",
-      "Alvarezsaurios",
-      "Cazadores"
+      "ESP32",
+      "IoT",
+      "Voz Inteligente",
+      "M5Stack"
     ],
-    "preview": "Un nuevo fósil de un dinosaurio alvarezsaurio desafía la teoría de que estos animales se hicieron más pequeños para cazar hormigas y termitas. El fósil, llamado Alnashetri cerropoliciensis, pesaba solo 700 gramos y probablemente era un…",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-08-el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la.md"
+    "preview": "La tecnología de voz inteligente se vuelve más accesible con el Echo Pyramid, un módulo que permite a los controles IoT M5Stack Atom ejecutar aplicaciones de voz inteligente, como reconocimiento de voz a distancia, asistentes de voz y…",
+    "has_command": true,
+    "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controles-iot-m5sta.md"
   },
   {
-    "title": "Un descubrimiento sorprendente sobre los dinosaurios miniaturizados",
-    "category": "robotica",
+    "title": "Echo Pyramid: habla inteligente para controladores IoT M5Stack Atom",
+    "category": "embebidos",
     "date": "2026-03-08",
-    "slug": "un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi",
+    "slug": "echo-pyramid-habla-inteligente-para-controladores-iot-m",
     "tags": [
-      "evolución",
-      "paleontología",
-      "dinosaurios",
-      "miniaturización",
-      "alvarezsauridos"
+      "ESP32",
+      "IoT",
+      "Habla inteligente"
     ],
-    "preview": "Los paleontólogos han descubierto un fósil de un dinosaurio miniaturizado que desafía la teoría de que los alvarezsauridos se volvieron pequeños para cazar hormigas y termitas. El descubrimiento sugiere que la miniaturización de estos…",
+    "preview": "La empresa M5Stack ha lanzado el Echo Pyramid, un dispositivo que permite la interacción de voz inteligente en aplicaciones IoT. Este dispositivo es compatible con los controladores M5Stack Atom, AtomS3 y AtomS3R, basados en el SoC ESP32 o…",
     "has_command": false,
-    "file_path": "content/robotica/2026-03-08-un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi.md"
+    "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controladores-iot-m.md"
   }
 ]
