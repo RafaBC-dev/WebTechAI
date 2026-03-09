@@ -8,6 +8,8 @@ on:
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
+    contents: write
+    issues: write 
 
     steps:
       - name: Checkout del repositorio
