@@ -2,20 +2,22 @@ name: Scraper diario de noticias
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # 7:00 UTC = 9:00 España (invierno) / 8:00 (verano)
-  workflow_dispatch:        # permite lanzarlo manualmente desde GitHub
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
 
 jobs:
   scrape-and-deploy:
     runs-on: ubuntu-latest
-    contents: write
-    issues: write 
 
     steps:
       - name: Checkout del repositorio
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # historial completo para los commits
+          fetch-depth: 0
 
       - name: Configurar Python 3.11
         uses: actions/setup-python@v5
@@ -35,18 +37,16 @@ jobs:
       - name: Ejecutar scraper
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: python main.py
+        run: python scraper/main.py
 
       - name: Regenerar archivos estáticos
-        run: python build_index.py
+        run: python scraper/build_index.py
 
       - name: Publicar cambios
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Actualización automática ${{ env.fecha }}"
+          commit_message: "🤖 Actualización automática"
           file_pattern: 'docs/content/**/*.md docs/index.json docs/sitemap.xml docs/feed.xml run_log.txt'
-        env:
-          fecha: ${{ steps.date.outputs.date }}
 
       - name: Notificar si hay errores
         if: failure()
@@ -57,6 +57,6 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               title: `❌ Fallo en el scraper — ${new Date().toLocaleDateString('es-ES')}`,
-              body: `El workflow de scraping falló el ${new Date().toISOString()}.\n\nRevisa los [logs del Action](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}).`,
-              labels: ['bug', 'automated']
+              body: `El workflow falló. Ver logs: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              labels: ['bug']
             })
