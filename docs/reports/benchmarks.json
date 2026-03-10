@@ -1,48 +1,39 @@
 {
-  "informe": "El panorama actual de modelos de IA muestra un avance constante en la calidad y velocidad de los modelos, con la introducción de nuevas tecnologías y mejoras en la arquitectura de los modelos. Los modelos más recientes como GPT-5.4 y Gemini 3.1 Pro Preview destacan por su alta inteligencia y velocidad de salida. Sin embargo, la complejidad de los modelos también aumenta, lo que puede hacer que sean más difíciles de entrenar y depurar.",
+  "informe": "El panorama de los modelos de IA sigue evolucionando con rapidez, con nuevos lanzamientos y actualizaciones que mejoran la velocidad, la calidad y la eficiencia de los modelos. La competencia entre los proveedores de modelos de IA, como Anthropic, OpenAI y Google, sigue siendo intensa, con cada uno intentando superar a los demás en rendimiento y funcionalidad. A medida que los modelos de IA se vuelven más sofisticados, también lo es la necesidad de recursos y habilidades para desarrollar y mantenerlos.",
   "modelos": [
     {
-      "nombre": "GPT-5.4",
-      "puntuacion": 95,
-      "velocidad": "alta",
-      "precio": "alto",
-      "contexto": "128k",
-      "destacado": true,
-      "novedad": false
-    },
-    {
-      "nombre": "Gemini 3.1 Pro Preview",
-      "puntuacion": 92,
-      "velocidad": "alta",
-      "precio": "alto",
-      "contexto": "128k",
-      "destacado": false,
-      "novedad": false
-    },
-    {
-      "nombre": "Granite 4.0 H Small",
-      "puntuacion": 80,
+      "nombre": "Granite 4.0",
+      "puntuacion": 90,
       "velocidad": "alta",
       "precio": "medio",
+      "contexto": "128k",
+      "destacado": true,
+      "novedad": true
+    },
+    {
+      "nombre": "LeRobot v0.5.0",
+      "puntuacion": 80,
+      "velocidad": "media",
+      "precio": "bajo",
       "contexto": "64k",
       "destacado": false,
-      "novedad": false
+      "novedad": true
     },
     {
-      "nombre": "Mercury 2",
-      "puntuacion": 78,
+      "nombre": "Claude Code",
+      "puntuacion": 85,
       "velocidad": "alta",
-      "precio": "bajo",
-      "contexto": "32k",
+      "precio": "alto",
+      "contexto": "128k",
       "destacado": false,
       "novedad": false
     },
     {
-      "nombre": "Apriel-v1.5-15B-Thinker",
-      "puntuacion": 75,
+      "nombre": "Codex",
+      "puntuacion": 80,
       "velocidad": "media",
       "precio": "alto",
-      "contexto": "16k",
+      "contexto": "128k",
       "destacado": false,
       "novedad": false
     }

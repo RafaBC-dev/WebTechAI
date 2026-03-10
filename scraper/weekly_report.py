@@ -71,12 +71,19 @@ REPORTS = {
         "out": "benchmarks",
     },
     "agentes": {
-        "tema": "agentes de inteligencia artificial: frameworks de agentes (LangChain, "
-                "LangGraph, AutoGen, CrewAI, Swarm), casos de uso reales, noticias sobre "
-                "agentes autónomos, herramientas nuevas y tendencias en agentic AI",
+        "tema": "herramientas de agentes IA para developers",
+        # RSS fiables sobre coding agents, editores IA y desarrollo asistido
         "feeds": [
             "https://simonwillison.net/atom/everything/",
-            "https://huggingface.co/blog/feed.xml",
+            "https://github.blog/feed/",
+            "https://www.cursor.com/blog/changelog.xml",
+            "https://code.visualstudio.com/feed.xml",
+        ],
+        # Solo procesar entradas que mencionen estas herramientas/conceptos
+        "keywords": [
+            "agent", "aider", "cursor", "copilot", "claude code",
+            "windsurf", "codeium", "autonomous", "coding assistant",
+            "continue", "antigravity", "devin", "replit", "llm",
         ],
         "pages": [],
         "dynamic_pages": [],
@@ -244,6 +251,189 @@ def fetch_page_text(url: str, max_chars: int = 3000) -> str:
 
 
 # ── GENERACIÓN DEL INFORME ────────────────────────────────────────────────────
+
+# Knowledge base fija sobre herramientas de agentes IA para coding.
+# Se incluye siempre en el prompt de generate_agent_report() para garantizar
+# que el informe sea útil incluso semanas con pocas novedades.
+AGENT_KNOWLEDGE_BASE = """
+Herramientas principales de agentes IA en 2025-2026:
+
+- Claude Code: agente de terminal de Anthropic, opera sobre la base de código completa,
+  muy potente para refactoring, debugging y proyectos grandes. Modelo Claude Sonnet/Opus.
+  Precio: de pago (requiere cuenta Anthropic). Ideal para proyectos complejos.
+
+- Aider: agente open source para terminal, integra git automáticamente al hacer cambios,
+  compatible con múltiples LLMs (GPT-4, Claude, Gemini, Ollama). Gratuito.
+  Ideal para devs que prefieren terminal y control total sobre el agente.
+
+- Cursor: editor fork de VSCode con agente integrado, modo Composer para cambios masivos,
+  soporte multi-archivo. Tiene capa gratuita y planes de pago (~$20/mes).
+  Ideal para developers profesionales que quieren un IDE completo con IA.
+
+- Windsurf (Codeium): editor con agente Cascade, capa gratuita generosa,
+  buenas capacidades de contexto de proyecto. Alternativa a Cursor.
+  Ideal para equipos y developers con presupuesto limitado.
+
+- GitHub Copilot: extensión para VSCode, JetBrains y otros editores, de Microsoft.
+  Ahora incluye modo agente. Plan individual $10/mes, incluido en GitHub Education.
+  Ideal para developers ya integrados en el ecosistema GitHub/Microsoft.
+
+- Continue: extensión open source para VSCode y JetBrains, conecta con LLMs locales
+  (Ollama) o en la nube. Totalmente configurable. Gratuito.
+  Ideal para devs que quieren privacidad o modelos locales.
+
+- Antigravity (Google): editor con agentes IA de Google DeepMind, integración con
+  modelos Gemini. En desarrollo activo.
+"""
+
+
+def fetch_feed_text_filtered(url: str, keywords: list,
+                             max_entries: int = 10) -> str:
+    """
+    Variante de fetch_feed_text() que solo incluye entradas que mencionan
+    al menos una de las keywords (comparación case-insensitive).
+
+    Usada para la sección de agentes, donde queremos filtrar noticias genéricas
+    de feeds amplios (como github.blog o simonwillison.net) y quedarnos solo
+    con las relevantes para coding agents.
+
+    Args:
+        url:         URL del feed RSS/Atom.
+        keywords:    Lista de palabras clave a buscar (case-insensitive).
+        max_entries: Máximo de entradas a revisar antes del filtro.
+
+    Returns:
+        Texto markdown con las entradas filtradas. Cadena vacía si ninguna pasa.
+    """
+    headers = {"User-Agent": "Mozilla/5.0 TechPulseES-WeeklyReport/1.0"}
+    try:
+        resp = requests.get(url, headers=headers, timeout=20)
+        resp.raise_for_status()
+        feed = feedparser.parse(resp.text)
+        if not feed.entries:
+            print(f"  ⚠️  Sin entradas en {url}")
+            return ""
+
+        kw_lower = [k.lower() for k in keywords]
+        texts = []
+        skipped = 0
+
+        for entry in feed.entries[:max_entries]:
+            title = entry.get("title", "").strip()
+            body  = ""
+            if hasattr(entry, "content") and entry.content:
+                body = entry.content[0].get("value", "")
+            else:
+                body = entry.get("description", "")
+            body = BeautifulSoup(body, "html.parser").get_text(" ", strip=True)
+
+            # Filtrar: el título O los primeros 300 chars del body deben contener la keyword
+            searchable = (title + " " + body[:300]).lower()
+            if not any(kw in searchable for kw in kw_lower):
+                skipped += 1
+                continue
+
+            texts.append(f"### {title}\n{body[:600]}")
+
+        if skipped:
+            print(f"    (filtradas {skipped} entradas sin keywords relevantes)")
+
+        return "\n\n".join(texts)
+
+    except Exception as e:
+        print(f"  ✗ Error en feed {url}: {e}")
+        return ""
+
+
+def generate_agent_report(raw_text: str) -> str:
+    """
+    Genera la guía de referencia de herramientas de agentes IA.
+
+    A diferencia del informe de benchmarks (datos numéricos) y del informe
+    estándar (resumen de noticias), esta función produce una GUÍA ESTABLE de
+    referencia que combina:
+      1. Knowledge base fija (AGENT_KNOWLEDGE_BASE) — siempre actualizada
+      2. Novedades de la semana scrapeadas de los feeds — opcionales
+
+    El prompt indica explícitamente que si no hay novedades importantes,
+    mantenga la guía de referencia sin cambios drásticos, evitando que
+    un informe vacío sobreescriba contenido útil.
+
+    Args:
+        raw_text: Texto filtrado de los feeds sobre coding agents.
+
+    Returns:
+        String markdown con la guía completa.
+    """
+    key = os.getenv("GROQ_API_KEY")
+    if not key:
+        raise ValueError("Falta GROQ_API_KEY en el .env")
+    client = Groq(api_key=key)
+
+    prompt = f"""Eres un experto en herramientas de desarrollo asistido por IA y coding agents.
+
+Tienes acceso a esta base de conocimiento sobre las principales herramientas disponibles:
+
+{AGENT_KNOWLEDGE_BASE}
+
+Además, estas son las novedades y noticias de esta semana sobre agentes IA para developers:
+
+{raw_text[:3500] if raw_text.strip() else "(No hay novedades destacadas esta semana)"}
+
+Genera una guía de referencia completa en español con EXACTAMENTE estas secciones:
+
+## Stacks de agentes recomendados ahora mismo
+Incluye una tabla markdown comparativa con las herramientas principales:
+| Herramienta | Tipo | Precio | Ideal para | Puntuación comunidad |
+|-------------|------|--------|------------|---------------------|
+(Rellena con los datos de la base de conocimiento y actualiza si hay novedades esta semana)
+
+## Herramientas destacadas esta semana
+(Si hay novedades, actualizaciones o lanzamientos importantes de los feeds, descríbelos aquí.
+Si no hay novedades relevantes esta semana, escribe: "Sin cambios significativos esta semana.
+ La guía de referencia se mantiene actualizada.")
+
+## ¿Cuál elegir según tu caso?
+Da recomendaciones concretas y directas para:
+- **Si eres principiante**: ...
+- **Si eres developer profesional**: ...
+- **Si trabajas en equipo**: ...
+- **Si quieres privacidad / modelos locales**: ...
+
+## Recursos y documentación
+Lista de enlaces oficiales de cada herramienta (máximo 8):
+- [Nombre](url) — descripción en una línea
+
+NORMAS:
+- Escribe en español neutro y directo
+- La tabla debe ser markdown válido con | pipes |
+- No inventes datos que no tengas en la base de conocimiento o en los feeds
+- Si no hay novedades esta semana, mantén la guía estable sin cambios drásticos
+- Sé concreto: precios reales, nombres reales, ventajas reales"""
+
+    for intento in range(3):
+        try:
+            response = client.chat.completions.create(
+                model=MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.35,
+                max_tokens=2200,
+            )
+            return response.choices[0].message.content.strip()
+
+        except Exception as e:
+            msg = str(e)
+            if "429" in msg or "rate" in msg.lower():
+                if intento < 2:
+                    print(f"  ⏳ Rate limit. Esperando 30s...")
+                    time.sleep(30)
+                    continue
+                return "⚠️ No se pudo generar el informe por rate limit."
+            print(f"  ✗ Error Groq: {e}")
+            raise
+
+    return "⚠️ No se pudo generar el informe."
+
 
 def generate_report(tema: str, raw_text: str) -> str:
     """
@@ -469,11 +659,17 @@ def main():
     for report_id, cfg in REPORTS.items():
         print(f"\n─── {report_id.upper()} ───")
 
-        # Agregar texto de todos los feeds
+        # Agregar texto de todos los feeds.
+        # Para secciones con keywords (agentes) usamos el fetch filtrado que
+        # descarta entradas sin relevancia antes de enviarlas a Groq.
         raw_parts = []
+        keywords = cfg.get("keywords", [])
         for feed_url in cfg["feeds"]:
             print(f"  📡 Feed: {feed_url}")
-            text = fetch_feed_text(feed_url)
+            if keywords:
+                text = fetch_feed_text_filtered(feed_url, keywords)
+            else:
+                text = fetch_feed_text(feed_url)
             if text:
                 raw_parts.append(text)
 
@@ -515,6 +711,12 @@ def main():
                     _json.dump(bench_data, jf, ensure_ascii=False, indent=2)
                 print(f"  ✅ {json_path.relative_to(BASE_DIR)}")
                 print(f"     → {len(bench_data.get('modelos', []))} modelos extraídos")
+
+            elif report_id == "agentes":
+                # Agentes: guia de referencia con knowledge base fija
+                report_md = generate_agent_report(raw_text)
+                save_report(cfg["out"], report_md)
+
             else:
                 # El resto de secciones: markdown estándar
                 report_md = generate_report(cfg["tema"], raw_text)

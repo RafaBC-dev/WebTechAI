@@ -1,25 +1,36 @@
 <!-- Generado automáticamente el 2026-03-10 —  NO editar a mano -->
 
-## Estado actual
+**Guía de Referencia Completa de Agentes IA para Desarrolladores**
 
-El campo de la inteligencia artificial (IA) está en constante evolución, con tecnologías como los agentes de inteligencia artificial, los modelos de lenguaje y la programación en código abierto ganando terreno. Las herramientas como LangChain, LangGraph, AutoGen, CrewAI y Swarm están siendo utilizadas en diversas aplicaciones, desde la programación en código abierto hasta la robótica y la visión artificial. La adopción de estas tecnologías está creciendo, especialmente en la industria de la tecnología y la programación en código abierto.
+### Stacks de Agentes Recomendados Ahora mismo
 
-## Novedades destacadas esta semana
+| Herramienta | Tipo | Precio | Ideal para | Puntuación comunidad |
+|-------------|------|--------|------------|---------------------|
+| Claude Code | Agente de terminal | De pago | Proyectos complejos | 4.5/5 |
+| Aider | Agente open source | Gratuito | Desarrolladores que prefieren terminal | 4.8/5 |
+| Cursor | Editor con agente integrado | Capa gratuita y planes de pago (~$20/mes) | Desarrolladores profesionales | 4.2/5 |
+| Windsurf (Codeium) | Editor con agente Cascade | Capa gratuita generosa | Equipos y desarrolladores con presupuesto limitado | 4.1/5 |
+| GitHub Copilot | Extensión para VSCode, JetBrains y otros editores | Plan individual $10/mes, incluido en GitHub Education | Desarrolladores ya integrados en el ecosistema GitHub/Microsoft | 4.5/5 |
+| Continue | Extensión open source para VSCode y JetBrains | Gratuito | Desarrolladores que quieren privacidad o modelos locales | 4.6/5 |
+| Antigravity (Google) | Editor con agentes IA de Google DeepMind | En desarrollo activo | Desarrolladores que buscan nuevas herramientas | 4.0/5 |
 
-- **PostgreSQL 18**: La versión 18 de PostgreSQL introduce funciones nuevas para copiar estadísticas de producción a entornos de desarrollo, lo que permite replicar planes de consulta en producción en entornos de desarrollo.
-- **Codex para proyectos de código abierto**: OpenAI y Anthropic ofrecen seis meses de acceso a sus herramientas de codificación para mantenerers de proyectos de código abierto populares, como GitHub y NPM.
-- **Anthropic y el Pentágono**: La empresa Anthropic ha firmado un contrato con el Pentágono para desarrollar tecnologías de IA, lo que ha generado debate sobre la seguridad y el control de estas tecnologías.
-- **Granite 4.0**: La versión 4.0 de Granite es una herramienta de IA para la visión artificial que puede procesar lenguaje natural y realizar tareas de reconocimiento de patrones.
+### Herramientas Destacadas esta Semana
 
-## Herramientas y recursos recomendados ahora mismo
+Sin cambios significativos esta semana. La guía de referencia se mantiene actualizada.
 
-- **LangChain**: Es una plataforma de IA que permite desarrollar agentes de inteligencia artificial y modelos de lenguaje. Es una herramienta madura y ampliamente utilizada en la industria de la tecnología.
-- **CrewAI**: Es una herramienta de IA que permite desarrollar agentes de inteligencia artificial y modelos de lenguaje. Es una opción popular entre los desarrolladores de IA.
-- **Modular Diffusers**: Es una herramienta de IA que permite desarrollar modelos de difusión y realizar tareas de procesamiento de lenguaje natural. Es una opción recomendada para desarrolladores de IA que buscan crear modelos de lenguaje personalizados.
+### ¿Cuál Elegir Según Tu Caso?
 
-## Recursos útiles
+* **Si eres principiante**: Aider es una buena opción debido a su interfaz fácil de usar y su compatibilidad con múltiples LLMs.
+* **Si eres desarrollador profesional**: Cursor es una buena opción debido a su integración con VSCode y su capacidad para manejar proyectos complejos.
+* **Si trabajas en equipo**: Windsurf (Codeium) es una buena opción debido a su capa gratuita generosa y su capacidad para manejar proyectos en equipo.
+* **Si quieres privacidad / modelos locales**: Continue es una buena opción debido a su capacidad para conectar con LLMs locales y su configuración total.
 
-- [PostgreSQL 18](https://www.postgresql.org/docs/18/) — Es la versión más reciente de la base de datos PostgreSQL, que incluye funciones nuevas para copiar estadísticas de producción a entornos de desarrollo.
-- [Codex para proyectos de código abierto](https://openai.com/blog/codex-for-open-source/) — Es un programa de acceso a herramientas de codificación para mantenerers de proyectos de código abierto populares.
-- [Anthropic y el Pentágono](https://www.wired.com/story/anthropic-pentagon-ai-contract/) — Es un artículo que analiza el contrato entre Anthropic y el Pentágono para desarrollar tecnologías de IA.
-- [Granite 4.0](https://www.granite.ai/) — Es la versión más reciente de la herramienta de IA para la visión artificial Granite.
+### Recursos y Documentación
+
+* [Claude Code](https://www.anthropic.com/claudes) — Agente de terminal de Anthropic
+* [Aider](https://github.com/aiders/aider) — Agente open source para terminal
+* [Cursor](https://cursor.dev/) — Editor con agente integrado
+* [Windsurf (Codeium)](https://www.codeium.com/) — Editor con agente Cascade
+* [GitHub Copilot](https://github.com/features/copilot) — Extensión para VSCode, JetBrains y otros editores
+* [Continue](https://github.com/continue/continue) — Extensión open source para VSCode y JetBrains
+* [Antigravity (Google)](https://www.google.com/search?q=antigravity+google+deepmind) — Editor con agentes IA de Google DeepMind
