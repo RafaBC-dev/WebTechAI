@@ -422,6 +422,7 @@ NORMAS:
                     max_output_tokens=2200,
                 ),
             )
+            time.sleep(15)
             return response.text.strip()
 
         except Exception as e:
@@ -482,6 +483,7 @@ Escribe en español neutro y directo. No uses frases genéricas. Sé concreto.""
                     max_output_tokens=2000,
                 ),
             )
+            time.sleep(15)
             return response.text.strip()
 
         except Exception as e:
@@ -591,6 +593,7 @@ REGLAS PARA modelos[]:
                     max_output_tokens=3000,
                 ),
             )
+            time.sleep(15)
             raw = response.text.strip()
             # Limpiar bloques ```json si los hay
             raw = re.sub(r'^```(?:json)?\s*', '', raw)
