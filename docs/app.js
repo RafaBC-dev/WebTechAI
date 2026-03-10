@@ -35,6 +35,357 @@ function toggleTheme() {
 document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
 
 
+// ── SIDEBAR DE NAVEGACIÓN ─────────────────────────────────────────────────────
+/*
+   Módulo completamente independiente que gestiona el panel lateral.
+
+   Responsabilidades:
+     1. Abrir / cerrar el panel (botón ☰, botón ✕, overlay, tecla Escape).
+     2. Activar el ítem de sección clicado (resalte visual).
+     3. Expandir/colapsar los subfiltros de la sección (acordeón).
+     4. Comunicar la selección al motor de filtrado de la página de inicio.
+     5. Sincronizar el estado de la sidebar con los pills y el nav del header
+        cuando el usuario filtra desde esos controles externos.
+
+   Comunicación con el motor de filtrado:
+     - openSidebarFilter(cat, tag) es la función pública que recibe la
+       sección activa ('Ia', 'Embebidos', 'Linux', 'Todas') y el tag
+       de subfiltro adicional ('python', 'llms', etc. o '' para todos).
+     - Llama a window.setSidebarFilter(cat, tag) que es proporcionada
+       por initIndexPage() una vez que los datos están cargados.
+*/
+(function initSidebar() {
+  const toggle   = document.getElementById('sidebar-toggle');
+  const sidebar  = document.getElementById('sidebar');
+  const overlay  = document.getElementById('sidebar-overlay');
+  const closeBtn = document.getElementById('sidebar-close');
+
+  // Si no existe el sidebar en esta página (ej: detail.html) salimos silenciosamente
+  if (!sidebar) return;
+
+  /* ── Abrir / cerrar ─────────────────────────────────────────── */
+
+  function openSidebar() {
+    sidebar.classList.add('open');
+    overlay.classList.add('open');
+    document.body.classList.add('sidebar-open');
+    sidebar.setAttribute('aria-hidden', 'false');
+  }
+
+  function closeSidebar() {
+    sidebar.classList.remove('open');
+    overlay.classList.remove('open');
+    document.body.classList.remove('sidebar-open');
+    sidebar.setAttribute('aria-hidden', 'true');
+  }
+
+  toggle?.addEventListener('click', openSidebar);
+  closeBtn?.addEventListener('click', closeSidebar);
+  overlay.addEventListener('click', closeSidebar);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeSidebar(); });
+
+  /* ── Activación de sección y subfiltros ─────────────────────── */
+
+  const sidebarItems = sidebar.querySelectorAll('.sidebar-item[data-sidebar-cat]');
+  const subfilterPanels = sidebar.querySelectorAll('.sidebar-subfilters');
+
+  /**
+   * Aplica el estado visual activo al ítem de la sidebar indicado
+   * y muestra u oculta su panel de subfiltros.
+   *
+   * @param {Element} item  - El botón .sidebar-item clicado
+   * @param {boolean} expand - Si se deben mostrar los subfiltros
+   */
+  function activateSidebarItem(item, expand = true) {
+    // Quitamos el estado activo de todos los ítems
+    sidebarItems.forEach(i => {
+      i.classList.remove('active', 'expanded');
+    });
+
+    // Ocultamos todos los paneles de subfiltros
+    subfilterPanels.forEach(p => p.classList.remove('visible'));
+
+    // Marcamos el ítem actual como activo
+    item.classList.add('active');
+
+    // Si tiene subfiltros, los mostramos y rotamos el chevron
+    const cat = item.dataset.sidebarCat;
+    const subPanel = sidebar.querySelector(`.sidebar-subfilters[data-subfiltros-de="${cat}"]`);
+    if (subPanel && expand) {
+      item.classList.add('expanded');
+      subPanel.classList.add('visible');
+    }
+  }
+
+  /**
+   * Mapa de tags del sidebar → nombre del informe en docs/reports/.
+   * Solo los tags listados aquí abren el visor; el resto filtra tarjetas.
+   */
+  const REPORT_TAGS = {
+    'benchmarks': 'benchmarks',
+    'agentes':    'agentes',
+    'esp32':      'esp32',
+    'python':     'python',
+  };
+
+  /* ── Visor de informes markdown ─────────────────────────────────── */
+
+  const reportPanel   = document.getElementById('report-panel');
+  const reportContent = document.getElementById('report-content');
+  const reportBadge   = document.getElementById('report-badge');
+  const reportBackBtn = document.getElementById('report-back-btn');
+  const newsGridEl    = document.getElementById('news-grid');
+  const loadMoreEl    = document.getElementById('load-more-wrap');
+
+  /**
+   * Convierte markdown sencillo a HTML para el visor de informes.
+   * Cubre los elementos que genera el prompt de weekly_report.py.
+   */
+  function mdToHtml(md) {
+    md = md.replace(/^<!--.*?-->\s*/s, ''); // eliminar cabecera de generación
+    return md
+      .replace(/^#### (.+)$/gm, '<h4>$1</h4>')
+      .replace(/^### (.+)$/gm,  '<h3>$1</h3>')
+      .replace(/^## (.+)$/gm,   '<h2>$1</h2>')
+      .replace(/^# (.+)$/gm,    '<h1>$1</h1>')
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\*(.+?)\*/g,     '<em>$1</em>')
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g,
+        '<a href="$2" target="_blank" rel="noopener">$1</a>')
+      .replace(/^- (.+)$/gm, '<li>$1</li>')
+      .replace(/((?:<li>[\s\S]*?<\/li>\n?)+)/g, '<ul>$1</ul>')
+      .replace(/^---$/gm, '<hr>')
+      .replace(/^(?!<[a-z]).+$/gm, '<p>$&</p>')
+      .replace(/<p>\s*<\/p>/g, '');
+  }
+
+  /**
+   * Muestra informes markdown genéricos (agentes, esp32, python).
+   */
+  function _showMarkdownReport(reportName, label) {
+    fetch(`reports/${reportName}.md?t=${Date.now()}`)
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then(md => { if (reportContent) reportContent.innerHTML = mdToHtml(md); })
+      .catch(() => {
+        if (reportContent) reportContent.innerHTML = `
+          <div class="report-empty">
+            <p>📫 El informe <strong>${label}</strong> aún no se ha generado.</p>
+            <p>Se actualiza cada lunes o ejecuta:</p>
+            <div class="code-block"><code>python scraper/weekly_report.py</code></div>
+          </div>`;
+      });
+  }
+
+  /* ── Visor de benchmarks con Chart.js ────────────────────── */
+
+  /**
+   * Carga benchmarks.json y renderiza:
+   *   1. Fecha de actualización
+   *   2. Gráfica de barras horizontales (Chart.js)
+   *   3. Tabla de comparativa con iconos y badge NEW
+   *   4. Texto del informe markdown
+   */
+  function showBenchmarkReport(label) {
+    const speedIcon  = { alta: '⚡', media: '🔶', baja: '🐌' };
+    const precioIcon = { bajo: '💰', medio: '💰💰', alto: '💰💰💰' };
+
+    fetch(`reports/benchmarks.json?t=${Date.now()}`)
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(data => {
+        const modelos = data.modelos || [];
+        const semana  = data.semana  || '';
+        const informe = data.informe || '';
+
+        let html = semana
+          ? `<p class="bench-updated">✨ Actualizado: ${semana}</p>` : '';
+
+        /* Gráfica */
+        if (modelos.length > 0) {
+          html += `<div class="bench-chart-wrap">
+            <canvas id="bench-chart"></canvas>
+          </div>`;
+        }
+
+        /* Tabla */
+        if (modelos.length > 0) {
+          html += `<div class="bench-table-wrap"><table class="bench-table">
+            <thead><tr>
+              <th>Modelo</th><th>Puntuación</th>
+              <th>Velocidad</th><th>Precio</th><th>Contexto</th>
+            </tr></thead><tbody>`;
+
+          modelos.forEach(m => {
+            const score   = Number(m.puntuacion) || 0;
+            const badge   = m.novedad   ? '<span class="bench-new">NEW</span>' : '';
+            const star    = m.destacado ? '<span class="bench-star">★</span>' : '';
+            const rowCls  = m.destacado ? ' class="bench-row-top"' : '';
+
+            html += `<tr${rowCls}>
+              <td>${star} ${m.nombre || '—'} ${badge}</td>
+              <td><div class="bench-score-bar">
+                <div class="bench-score-fill${m.destacado ? ' accent' : ''}"
+                     style="width:${score}%"></div>
+                <span>${score}</span>
+              </div></td>
+              <td>${speedIcon[m.velocidad]  || m.velocidad  || '—'}</td>
+              <td>${precioIcon[m.precio]    || m.precio     || '—'}</td>
+              <td><code>${m.contexto || '—'}</code></td>
+            </tr>`;
+          });
+
+          html += `</tbody></table></div>`;
+        }
+
+        /* Markdown del informe */
+        if (informe) html += `<div class="bench-analysis">${mdToHtml(informe)}</div>`;
+
+        if (reportContent) reportContent.innerHTML = html;
+
+        /* Render Chart.js */
+        if (modelos.length > 0) {
+          const doChart = () => {
+            const canvas = document.getElementById('bench-chart');
+            if (!canvas || !window.Chart) return;
+            const accent = getComputedStyle(document.documentElement)
+              .getPropertyValue('--accent').trim() || '#00e5ff';
+            new window.Chart(canvas, {
+              type: 'bar',
+              data: {
+                labels: modelos.map(m => m.nombre),
+                datasets: [{ label: 'Puntuación',
+                  data:            modelos.map(m => m.puntuacion),
+                  backgroundColor: modelos.map(m => m.destacado ? accent : 'rgba(255,255,255,0.08)'),
+                  borderColor:     modelos.map(m => m.destacado ? accent : 'rgba(255,255,255,0.15)'),
+                  borderWidth: 1, borderRadius: 4 }],
+              },
+              options: {
+                indexAxis: 'y', responsive: true, maintainAspectRatio: false,
+                plugins: { legend: { display: false },
+                  tooltip: { callbacks: { label: c => ` ${c.parsed.x}/100` } } },
+                scales: {
+                  x: { min: 0, max: 100,
+                    grid: { color: 'rgba(255,255,255,0.05)' },
+                    ticks: { color: 'rgba(255,255,255,0.45)', font: { size: 11 } } },
+                  y: { grid: { display: false },
+                    ticks: { color: 'rgba(255,255,255,0.8)',  font: { size: 12 } } },
+                },
+              },
+            });
+          };
+          if (window.Chart) { doChart(); }
+          else {
+            let tries = 0;
+            const poll = setInterval(() => {
+              if (window.Chart) { clearInterval(poll); doChart(); }
+              if (++tries > 30)   clearInterval(poll);
+            }, 100);
+          }
+        }
+      })
+      .catch(() => _showMarkdownReport('benchmarks', label));
+  }
+
+  /**
+   * Punto de entrada único para mostrar un informe.
+   * Benchmarks usa el visor enriquecido; el resto usa markdown.
+   */
+  function showReport(reportName, label) {
+    if (reportPanel) reportPanel.style.display = 'block';
+    if (newsGridEl)  newsGridEl.style.display  = 'none';
+    if (loadMoreEl)  loadMoreEl.style.display  = 'none';
+    document.getElementById('empty-state').style.display = 'none';
+    if (reportBadge)   reportBadge.textContent = label || reportName;
+    if (reportContent) reportContent.innerHTML =
+      '<div class="report-loading"><div class="spinner"></div><p>Cargando informe…</p></div>';
+    if (reportName === 'benchmarks') showBenchmarkReport(label);
+    else _showMarkdownReport(reportName, label);
+  }
+
+  /** Oculta el panel y vuelve al grid de tarjetas. */
+  function hideReport() {
+    if (reportPanel) reportPanel.style.display = 'none';
+    if (newsGridEl)  newsGridEl.style.display  = '';
+  }
+
+  reportBackBtn?.addEventListener('click', hideReport);
+
+  /**
+   * Decide si el tag abre un informe o filtra tarjetas.
+   * @param {string} cat   - Categoría del sidebar
+   * @param {string} tag   - Tag del subfiltro
+   * @param {string} label - Texto legible del botón
+   */
+  function applyFilter(cat, tag, label) {
+    const reportName = tag ? REPORT_TAGS[tag] : null;
+    if (reportName) {
+      showReport(reportName, label || tag);
+    } else {
+      hideReport();
+      if (typeof window.setSidebarFilter === 'function') {
+        window.setSidebarFilter(cat, tag);
+      }
+    }
+  }
+
+  // Listener principal de cada ítem de sección
+  sidebarItems.forEach(item => {
+    item.addEventListener('click', () => {
+      const cat = item.dataset.sidebarCat;
+      activateSidebarItem(item, true);
+
+      // Reseteamos el subfiltro activo de esta categoría a "Todas"
+      const subPanel = sidebar.querySelector(`.sidebar-subfilters[data-subfiltros-de="${cat}"]`);
+      if (subPanel) {
+        subPanel.querySelectorAll('.subfilter').forEach(b => b.classList.remove('active'));
+        subPanel.querySelector('.subfilter[data-tag=""]')?.classList.add('active');
+      }
+
+      // Aplicamos el filtro (sin restricción de tag)
+      applyFilter(cat, '');
+
+      // En móvil cerramos el sidebar al seleccionar una sección sin subfiltros
+      // (Noticias). Las secciones con subfiltros permanecen abiertas para elegir.
+      if (cat === 'Todas') {
+        closeSidebar();
+      }
+    });
+  });
+
+  // Listeners de subfiltros
+  subfilterPanels.forEach(panel => {
+    panel.querySelectorAll('.subfilter').forEach(btn => {
+      btn.addEventListener('click', e => {
+        e.stopPropagation();
+        const tag   = btn.dataset.tag;
+        const cat   = panel.dataset.subfiltrosDe;
+        const label = btn.textContent.trim(); // texto del botón para el badge
+
+        panel.querySelectorAll('.subfilter').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        applyFilter(cat, tag, label);
+        closeSidebar();
+      });
+    });
+  });
+
+  /* ── API pública para sincronización externa ─────────────────── */
+
+  /**
+   * Permite que el motor de filtrado (pills, nav) actualice el estado
+   * visual del sidebar cuando el usuario filtra desde fuera del panel.
+   *
+   * @param {string} cat - Categoría activa
+   */
+  window.updateSidebarActive = function(cat) {
+    const normCat = cat.charAt(0).toUpperCase() + cat.slice(1).toLowerCase();
+    const item = sidebar.querySelector(`.sidebar-item[data-sidebar-cat="${normCat}"]`)
+               || sidebar.querySelector('.sidebar-item[data-sidebar-cat="Todas"]');
+    if (item) activateSidebarItem(item, normCat !== 'Todas');
+  };
+})();
+
+
 // ── UTILIDADES COMPARTIDAS ────────────────────────────────────────────────────
 
 /**
@@ -135,6 +486,7 @@ function initIndexPage() {
   // Estado de la interfaz: todos los datos y qué filtros están activos
   let allNews = [];             // array completo de artículos del index.json
   let activeCategory = 'Todas'; // categoría seleccionada en el filtro
+  let activeTag = '';           // tag de subfiltro del sidebar ('' = sin filtro de tag)
   let searchQuery = '';         // texto que el usuario ha escrito en el buscador
   let visibleCount = 12;        // cuántas tarjetas mostramos actualmente
   const PAGE_SIZE = 12;         // cuántas tarjetas cargar por cada "Ver más"
@@ -238,10 +590,12 @@ function initIndexPage() {
       a.addEventListener('click', e => {
         e.preventDefault(); // evitamos que el href="#" haga scroll arriba
         activeCategory = a.dataset.cat;
+        activeTag = ''; // al filtrar por nav reseteamos el subfiltro de tag
         // Quitamos "active" de todos los enlaces y se lo ponemos al clicado
         nav.querySelectorAll('.nav-link').forEach(x => x.classList.remove('active'));
         a.classList.add('active');
         syncPills(activeCategory); // sincronizamos los pills con el nav
+        window.updateSidebarActive?.(activeCategory); // sincronizamos el sidebar
         visibleCount = PAGE_SIZE;   // reiniciamos la paginación
         filterAndRender();
       });
@@ -280,11 +634,13 @@ function initIndexPage() {
     btn.innerHTML = `${label} <span class="count">${count}</span>`;
     btn.addEventListener('click', () => {
       activeCategory = label;
+      activeTag = ''; // al filtrar por pill reseteamos el subfiltro de tag
       syncPills(label);
       // También sincronizamos los enlaces de navegación del header
       document.querySelectorAll('.nav-link[data-cat]').forEach(a => {
         a.classList.toggle('active', a.dataset.cat === label);
       });
+      window.updateSidebarActive?.(label); // sincronizamos el sidebar
       visibleCount = PAGE_SIZE;
       filterAndRender();
     });
@@ -321,6 +677,12 @@ function initIndexPage() {
     let filtered = allNews;
     if (activeCategory !== 'Todas') {
       filtered = filtered.filter(n => n.category === activeCategory);
+    }
+    // Subfiltro por tag del sidebar (si hay uno activo)
+    if (activeTag) {
+      filtered = filtered.filter(n =>
+        (n.tags || []).some(t => t.toLowerCase() === activeTag.toLowerCase())
+      );
     }
     if (searchQuery) {
       filtered = filtered.filter(n => {
@@ -408,6 +770,7 @@ function initIndexPage() {
    */
   window.resetFilters = function () {
     activeCategory = 'Todas';
+    activeTag = '';
     searchQuery = '';
     visibleCount = PAGE_SIZE;
     if (searchInput) searchInput.value = '';
@@ -415,6 +778,27 @@ function initIndexPage() {
     document.querySelectorAll('.nav-link').forEach(a =>
       a.classList.toggle('active', a.dataset.cat === 'Todas')
     );
+    window.updateSidebarActive?.('Todas');
+    filterAndRender();
+  };
+
+  /**
+   * Función pública que expone el motor de filtrado al módulo initSidebar.
+   * Permite que la sidebar aplique un filtro de categoría + tag sin necesidad
+   * de acceder directamente a las variables de estado de initIndexPage.
+   *
+   * @param {string} cat - Categoría a activar ('Ia', 'Linux', 'Embebidos', 'Todas')
+   * @param {string} tag - Tag adicional ('python', 'llms', etc. o '' para todos)
+   */
+  window.setSidebarFilter = function(cat, tag) {
+    activeCategory = cat;
+    activeTag = tag || '';
+    visibleCount = PAGE_SIZE;
+    // Sincronizamos pills y nav del header con la categoría del sidebar
+    syncPills(cat);
+    document.querySelectorAll('.nav-link[data-cat]').forEach(a => {
+      a.classList.toggle('active', a.dataset.cat === cat);
+    });
     filterAndRender();
   };
 

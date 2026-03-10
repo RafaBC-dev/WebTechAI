@@ -2,7 +2,8 @@ name: Scraper diario de noticias
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 7 * * *'   # Captura diaria de noticias (07:00 UTC)
+    - cron: '0 8 * * 1'   # Informes semanales los lunes (08:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -60,3 +61,47 @@ jobs:
               body: `El workflow falló. Ver logs: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
               labels: ['bug']
             })
+
+  # ── JOB 2: Informes semanales (lunes 08:00 UTC) ──────────────────
+  weekly-report:
+    name: 📊 Informes semanales
+    runs-on: ubuntu-latest
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'schedule' && github.event.schedule == '0 8 * * 1')
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache de dependencias pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Instalar navegadores Playwright
+        run: .venv/bin/playwright install chromium || playwright install chromium
+
+      - name: Generar informes semanales
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        working-directory: scraper
+        run: python weekly_report.py
+
+      - name: Publicar informes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "\U0001f4ca Informes semanales"
+          file_pattern: 'docs/reports/*.md'

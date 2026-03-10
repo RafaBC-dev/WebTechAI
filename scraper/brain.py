@@ -97,7 +97,11 @@ Devuelve exactamente este JSON (todos los campos en español salvo comando y tag
 }}
 
 Reglas:
-- tags: 3-5 términos técnicos cortos, en inglés si son jerga estándar del sector (ej: ROS2, SLAM, Docker, LLM)
+- tags: elige MÁXIMO 3 tags de esta lista EXACTA (usa el valor exacto, en minúsculas con guiones):
+    IA y modelos:       llms | agentes | ia-local | benchmarks
+    Microcontroladores: esp32 | arduino | raspberry-pi
+    Software y Linux:   python | librerias | herramientas
+  Solo usa tags de esa lista. Si ninguno encaja, devuelve lista vacía [].
 - comando: solo si es realmente relevante y útil, no lo fuerces
 - Todo el contenido debe ser suficientemente detallado para que el lector NO necesite ir a la fuente original
 - Escribe en español neutro, claro y directo"""

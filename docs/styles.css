@@ -1010,6 +1010,504 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   overflow: hidden;
 }
 
+/* ── SIDEBAR DE NAVEGACIÓN ───────────────────────────────────── */
+/*
+   El sidebar se desliza desde el borde izquierdo de la pantalla.
+   En estado cerrado vive completamente fuera del viewport (translateX(-100%)),
+   por lo que no ocupa espacio ni interfiere con el layout.
+
+   Al añadir la clase .open (gestionada por app.js):
+     - El panel se desliza a su posición visible (translateX(0)).
+     - El overlay oscuro aparece con una opacidad que difumina el fondo.
+     - El scroll del body se bloquea (overflow: hidden) para que el
+       usuario no pueda hacer scroll mientras el menú está abierto.
+
+   z-index: 200 coloca el sidebar por encima de casi todo (header: 100,
+   filter-strip: 90), garantizando que siempre quede al frente.
+*/
+
+/* — Overlay —
+   Capa semitransparente que cubre el contenido principal.
+   pointer-events: none cuando está cerrado para no bloquear clicks. */
+.sidebar-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0);
+  z-index: 199;
+  pointer-events: none;
+  transition: background 0.3s ease;
+}
+.sidebar-overlay.open {
+  background: rgba(0, 0, 0, 0.6);
+  pointer-events: auto;
+}
+
+/* — Panel principal — */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 280px;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  z-index: 200;
+  transform: translateX(-100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  box-shadow: 4px 0 32px rgba(0, 0, 0, 0.4);
+}
+.sidebar.open {
+  transform: translateX(0);
+}
+
+/* — Cabecera del sidebar — */
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 20px 16px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.sidebar-title {
+  font-family: var(--font-mono);
+  font-size: .68rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+.sidebar-close {
+  color: var(--text-3);
+  font-size: 1rem;
+  width: 32px;
+  height: 32px;
+}
+.sidebar-close:hover {
+  color: var(--text);
+  background: var(--bg);
+}
+
+/* — Navegación interna — */
+.sidebar-nav {
+  padding: 12px 0;
+  flex: 1;
+}
+
+/*
+   Cada ítem de navegación lateral (botón o enlace).
+   La etiqueta width: 100% en botones los hace ocupar todo el ancho
+   del panel, creando un área clicable generosa y táctil.
+*/
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 12px 20px;
+  font-family: var(--font-body);
+  font-size: .95rem;
+  color: var(--text-2);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+  text-align: left;
+  text-decoration: none;
+  position: relative;
+}
+.sidebar-item:hover {
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* La sección activa recibe el color de acento y un fondo tintado */
+.sidebar-item.active {
+  color: var(--accent);
+  background: var(--accent-bg);
+  font-weight: 500;
+}
+
+/* Línea vertical de acento a la izquierda del ítem activo */
+.sidebar-item.active::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 6px;
+  bottom: 6px;
+  width: 3px;
+  background: var(--accent);
+  border-radius: 0 99px 99px 0;
+}
+
+.sidebar-icon {
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  width: 20px;
+  text-align: center;
+}
+
+/* El chevron rota 90° cuando los subfiltros están visibles */
+.sidebar-chevron {
+  margin-left: auto;
+  font-size: 1.2rem;
+  color: var(--text-3);
+  transition: transform var(--transition);
+  line-height: 1;
+}
+.sidebar-item.expanded .sidebar-chevron {
+  transform: rotate(90deg);
+}
+
+/* — Subfiltros — */
+.sidebar-subfilters {
+  display: none;
+  flex-direction: column;
+  padding: 4px 0;
+  background: var(--bg-2);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+.sidebar-subfilters.visible {
+  display: flex;
+}
+
+.subfilter {
+  display: block;
+  width: 100%;
+  padding: 10px 18px 10px 52px;
+  font-family: var(--font-mono);
+  font-size: .85rem;
+  letter-spacing: .03em;
+  color: var(--text);
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  border-radius: 0;
+  transition: color var(--transition), background var(--transition);
+}
+.subfilter:hover {
+  color: var(--text);
+  background: var(--surface);
+}
+.subfilter.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* — Divisor — */
+.sidebar-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 12px 20px;
+}
+
+/* Bloqueo del scroll del body cuando el sidebar está abierto */
+body.sidebar-open {
+  overflow: hidden;
+}
+
+/* ── VISOR DE INFORMES SEMANALES ─────────────────────────────── */
+/*
+   El panel de informes ocupa el mismo espacio que el grid de tarjetas.
+   Cuando el usuario selecciona un subfiltro con informe (Benchmarks,
+   Agentes, ESP32, Python), app.js oculta el grid y muestra este panel.
+   El botón "← Volver a noticias" invierte la operación.
+*/
+
+/* — Contenedor principal — */
+.report-panel {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 80px;
+}
+
+/* — Cabecera con botón de volver y badge de sección — */
+.report-panel-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 32px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.report-back-btn {
+  font-family: var(--font-mono);
+  font-size: .75rem;
+  color: var(--text-2);
+  border: 1px solid var(--border);
+  padding: 7px 14px;
+  border-radius: var(--radius-sm);
+  transition: all var(--transition);
+  flex-shrink: 0;
+}
+.report-back-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-bg);
+}
+
+.report-badge {
+  font-family: var(--font-mono);
+  font-size: .68rem;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-bg);
+  border: 1px solid var(--accent-glow);
+  padding: 4px 12px;
+  border-radius: 99px;
+}
+
+/* — Tipografía del contenido del informe — */
+.report-content h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 4vw, 2.2rem);
+  font-weight: 800;
+  letter-spacing: -.03em;
+  color: var(--text);
+  margin-bottom: 24px;
+  line-height: 1.15;
+}
+
+.report-content h2 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text);
+  margin: 36px 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.report-content h3 {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-2);
+  margin: 24px 0 8px;
+}
+
+.report-content h4 {
+  font-family: var(--font-mono);
+  font-size: .8rem;
+  color: var(--text-3);
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  margin: 16px 0 6px;
+}
+
+.report-content p {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text-2);
+  margin-bottom: 14px;
+}
+
+.report-content strong { color: var(--text); font-weight: 600; }
+
+.report-content a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity var(--transition);
+}
+.report-content a:hover { opacity: .75; }
+
+.report-content ul {
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 16px;
+}
+
+.report-content li {
+  font-size: .97rem;
+  line-height: 1.7;
+  color: var(--text-2);
+  padding: 4px 0 4px 20px;
+  position: relative;
+}
+.report-content li::before {
+  content: '▸';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-size: .8rem;
+}
+
+.report-content hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 28px 0;
+}
+
+.report-content .code-block {
+  margin-top: 12px;
+}
+
+/* — Estado de carga — */
+.report-loading {
+  text-align: center;
+  padding: 60px 0;
+  color: var(--text-3);
+}
+
+/* — Estado vacío (informe no generado aún) — */
+.report-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--text-3);
+}
+.report-empty p { margin-bottom: 12px; font-size: .95rem; }
+.report-empty .code-block { max-width: 420px; margin: 16px auto 0; text-align: left; }
+
+/* ── VISOR DE BENCHMARKS ─────────────────────────────────────── */
+
+/* — Fecha de actualización — */
+.bench-updated {
+  font-family: var(--font-mono);
+  font-size: .72rem;
+  letter-spacing: .08em;
+  color: var(--accent);
+  text-transform: uppercase;
+  margin-bottom: 28px;
+}
+
+/* — Header con gradiente solo disponible en benchmarks — */
+.bench-header {
+  padding: 28px 32px;
+  border-radius: var(--radius);
+  background: linear-gradient(135deg,
+    rgba(0,229,255,.10) 0%,
+    rgba(0,229,255,.03) 100%);
+  border: 1px solid var(--accent-glow);
+  margin-bottom: 28px;
+}
+
+/* — Contenedor de la gráfica Chart.js — */
+.bench-chart-wrap {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 28px;
+  box-sizing: border-box;
+}
+
+/* — Tabla de comparativa de modelos — */
+.bench-table-wrap {
+  overflow-x: auto;
+  margin-bottom: 36px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.bench-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .9rem;
+}
+
+.bench-table thead tr {
+  background: var(--bg-2);
+  border-bottom: 1px solid var(--border);
+}
+
+.bench-table th {
+  padding: 12px 16px;
+  text-align: left;
+  font-size: .68rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.bench-table td {
+  padding: 11px 16px;
+  border-bottom: 1px solid var(--border);
+  color: var(--text-2);
+  vertical-align: middle;
+}
+
+.bench-table tbody tr:last-child td { border-bottom: none; }
+
+.bench-table tbody tr:hover td {
+  background: var(--bg-2);
+}
+
+/* Fila del modelo destacado (#1 esta semana) */
+.bench-row-top td { color: var(--text); }
+.bench-row-top:hover td { background: rgba(0,229,255,.05); }
+
+/* — Barra de puntuación inline — */
+.bench-score-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 120px;
+}
+
+.bench-score-fill {
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.15);
+  flex: 1;
+}
+
+.bench-score-fill.accent {
+  background: var(--accent);
+  box-shadow: 0 0 8px var(--accent-glow);
+}
+
+.bench-score-bar span {
+  font-family: var(--font-mono);
+  font-size: .75rem;
+  color: var(--text-3);
+  min-width: 22px;
+  text-align: right;
+}
+
+/* — Badge NEW en cian — */
+.bench-new {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: .6rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  color: var(--accent);
+  border: 1px solid var(--accent-glow);
+  background: var(--accent-bg);
+  padding: 2px 7px;
+  border-radius: 99px;
+  vertical-align: middle;
+  margin-left: 4px;
+}
+
+/* — Estrella del modelo destacado — */
+.bench-star {
+  color: var(--accent);
+  font-size: .9rem;
+}
+
+/* — Sección de análisis markdown bajo la tabla — */
+.bench-analysis {
+  margin-top: 8px;
+  padding-top: 28px;
+  border-top: 1px solid var(--border);
+}
+
+
+
 /* ── ABOUT PAGE ──────────────────────────────────────────────── */
 .about-container {
   max-width: 960px;

@@ -63,6 +63,13 @@
 ════════════════════════════════════════════════════════════════ -->
   <header class="site-header">
     <div class="container header-inner">
+      <button class="icon-btn" id="sidebar-toggle" aria-label="Menú" title="Menú de navegación">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
       <a href="index.html" class="logo">
         <span class="logo-mark">⬡</span>
         <span class="logo-text">TechPulse<em>ES</em></span>
@@ -157,6 +164,18 @@
         que no existe en el índice.
 ════════════════════════════════════════════════════════════════ -->
   <main class="container main-content">
+
+    <!-- Panel de informe semanal: visible solo cuando el usuario selecciona
+         un subfiltro con informe (Benchmarks, Agentes, ESP32, Python).
+         app.js carga el markdown, lo renderiza aquí y oculta el news-grid. -->
+    <div class="report-panel" id="report-panel" style="display:none">
+      <div class="report-panel-header">
+        <button class="report-back-btn" id="report-back-btn">← Volver a noticias</button>
+        <span class="report-badge" id="report-badge"></span>
+      </div>
+      <div class="report-content" id="report-content"></div>
+    </div>
+
     <div class="news-grid" id="news-grid">
       <div class="loading-state">
         <div class="spinner"></div>
@@ -190,10 +209,84 @@
     </div>
   </footer>
 
+  <!-- ═══ SIDEBAR DE NAVEGACIÓN ═══════════════════════════════════
+     Panel lateral deslizante. Permanece oculto fuera de la pantalla
+     (translateX(-100%)) hasta que el botón ☰ del header lo activa.
+     El overlay oscuro cubre el contenido principal cuando el menú está
+     abierto, y al hacer clic en él se cierra el panel.
+  ════════════════════════════════════════════════════════════════ -->
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
+
+  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
+    <div class="sidebar-header">
+      <span class="sidebar-title">Navegación</span>
+      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
+    </div>
+
+    <nav class="sidebar-nav">
+      <!-- Noticias (todas) -->
+      <button class="sidebar-item active" data-sidebar-cat="Todas">
+        <span class="sidebar-icon">📰</span>
+        <span>Noticias</span>
+      </button>
+
+      <!-- IA -->
+      <button class="sidebar-item" data-sidebar-cat="Ia">
+        <span class="sidebar-icon">🤖</span>
+        <span>IA</span>
+        <span class="sidebar-chevron">›</span>
+      </button>
+      <div class="sidebar-subfilters" data-subfiltros-de="Ia">
+        <button class="subfilter active" data-tag="">Todas</button>
+        <button class="subfilter" data-tag="llms">LLMs</button>
+        <button class="subfilter" data-tag="agentes">Agentes</button>
+        <button class="subfilter" data-tag="ia-local">IA Local</button>
+        <button class="subfilter" data-tag="benchmarks">Benchmarks</button>
+      </div>
+
+      <!-- Microcontroladores -->
+      <button class="sidebar-item" data-sidebar-cat="Embebidos">
+        <span class="sidebar-icon">🔌</span>
+        <span>Microcontroladores</span>
+        <span class="sidebar-chevron">›</span>
+      </button>
+      <div class="sidebar-subfilters" data-subfiltros-de="Embebidos">
+        <button class="subfilter active" data-tag="">Todas</button>
+        <button class="subfilter" data-tag="esp32">ESP32</button>
+        <button class="subfilter" data-tag="arduino">Arduino</button>
+        <button class="subfilter" data-tag="raspberry-pi">Raspberry Pi</button>
+      </div>
+
+      <!-- Software Dev -->
+      <button class="sidebar-item" data-sidebar-cat="Linux">
+        <span class="sidebar-icon">💻</span>
+        <span>Software Dev</span>
+        <span class="sidebar-chevron">›</span>
+      </button>
+      <div class="sidebar-subfilters" data-subfiltros-de="Linux">
+        <button class="subfilter active" data-tag="">Todas</button>
+        <button class="subfilter" data-tag="python">Python</button>
+        <button class="subfilter" data-tag="librerias">Librerías</button>
+        <button class="subfilter" data-tag="herramientas">Herramientas</button>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
+      <!-- Sobre el proyecto -->
+      <a class="sidebar-item" href="about.html">
+        <span class="sidebar-icon">ℹ️</span>
+        <span>Sobre el proyecto</span>
+      </a>
+    </nav>
+  </aside>
+
   <!-- app.js cargado al final del body (no en el head) para que el
      HTML ya esté parseado cuando el JS empiece a ejecutarse. Así se
      evitan los errores de "elemento no encontrado" y la página se
      renderiza visualmente antes de que el JS haga nada. -->
+  <!-- Chart.js — solo se usa en el visor de benchmarks.
+       Cargado de forma diferida (defer) para no bloquear el render. -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js" defer></script>
   <script src="app.js"></script>
 </body>
 
