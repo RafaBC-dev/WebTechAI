@@ -142,20 +142,36 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
    * Cubre los elementos que genera el prompt de weekly_report.py.
    */
   function mdToHtml(md) {
+    if (!md) return '';
     md = md.replace(/^<!--.*?-->\s*/s, ''); // eliminar cabecera de generación
+
+    // 1. Tablas
+    md = md.replace(/(?:^\|.+\|(?:\n|$))+/gm, match => {
+      const lines = match.trim().split('\n');
+      let tableHtml = '<div class="table-wrap"><table>\n';
+      lines.forEach((line, index) => {
+        if (/^\|[:\- |]+\|$/.test(line)) return; // Ignorar fila separadora
+        const tag = index === 0 ? 'th' : 'td';
+        const cells = line.trim().replace(/^\||\|$/g, '').split('|');
+        tableHtml += '  <tr>' + cells.map(c => `<${tag}>${c.trim()}</${tag}>`).join('') + '</tr>\n';
+      });
+      tableHtml += '</table></div>\n';
+      return tableHtml;
+    });
+
     return md
-      .replace(/^#### (.+)$/gm, '<h4>$1</h4>')
-      .replace(/^### (.+)$/gm,  '<h3>$1</h3>')
-      .replace(/^## (.+)$/gm,   '<h2>$1</h2>')
-      .replace(/^# (.+)$/gm,    '<h1>$1</h1>')
+      .replace(/^#### (.*)$/gm, '<h4>$1</h4>')
+      .replace(/^### (.*)$/gm,  '<h3>$1</h3>')
+      .replace(/^## (.*)$/gm,   '<h2>$1</h2>')
+      .replace(/^# (.*)$/gm,    '<h1>$1</h1>')
       .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
       .replace(/\*(.+?)\*/g,     '<em>$1</em>')
-      .replace(/\[([^\]]+)\]\(([^)]+)\)/g,
-        '<a href="$2" target="_blank" rel="noopener">$1</a>')
-      .replace(/^- (.+)$/gm, '<li>$1</li>')
+      .replace(/`([^`]+)`/g,     '<code>$1</code>')
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+      .replace(/^[*-] (.+)$/gm, '<li>$1</li>')
       .replace(/((?:<li>[\s\S]*?<\/li>\n?)+)/g, '<ul>$1</ul>')
       .replace(/^---$/gm, '<hr>')
-      .replace(/^(?!<[a-z]).+$/gm, '<p>$&</p>')
+      .replace(/^(?!<(?:h[1-6]|ul|li|div|table|tr|td|th|p|hr|\/)).+$/gm, '<p>$&</p>')
       .replace(/<p>\s*<\/p>/g, '');
   }
 

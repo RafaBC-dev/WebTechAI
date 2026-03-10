@@ -1278,7 +1278,7 @@ body.sidebar-open {
   font-family: var(--font-display);
   font-size: 1.15rem;
   font-weight: 700;
-  color: var(--text);
+  color: var(--accent);
   margin: 36px 0 12px;
   padding-bottom: 8px;
   border-bottom: 1px solid var(--border);
@@ -1288,7 +1288,7 @@ body.sidebar-open {
   font-family: var(--font-display);
   font-size: 1rem;
   font-weight: 700;
-  color: var(--text-2);
+  color: var(--accent);
   margin: 24px 0 8px;
 }
 
@@ -1303,9 +1303,9 @@ body.sidebar-open {
 
 .report-content p {
   font-size: 1rem;
-  line-height: 1.8;
+  line-height: 1.9;
   color: var(--text-2);
-  margin-bottom: 14px;
+  margin-bottom: 16px;
 }
 
 .report-content strong { color: var(--text); font-weight: 600; }
@@ -1343,6 +1343,52 @@ body.sidebar-open {
   border: none;
   border-top: 1px solid var(--border);
   margin: 28px 0;
+}
+
+/* — Tablas de contenido — */
+.report-content .table-wrap {
+  overflow-x: auto;
+  margin: 24px 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--card);
+}
+
+.report-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .95rem;
+}
+
+.report-content th,
+.report-content td {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+}
+
+.report-content th {
+  background: var(--bg-2);
+  color: var(--text);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: .85rem;
+}
+
+.report-content tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.report-content tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+[data-theme="light"] .report-content tbody tr:nth-child(even) {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.report-content tbody tr:hover td {
+  background: var(--surface);
 }
 
 .report-content .code-block {
