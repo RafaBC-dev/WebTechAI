@@ -435,37 +435,5 @@
     "preview": "Después de analizar el hardware y probar el mini PC con Windows 11 Pro, ahora exploramos su rendimiento con Ubuntu 25.10. ¿Cómo se comporta el AMD Ryzen 5 7530U en Linux?",
     "has_command": true,
     "file_path": "content/linux/2026-03-08-revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi.md"
-  },
-  {
-    "title": "El descubrimiento de un dinosaurio minúsculo desafía la teoría de la miniaturización",
-    "category": "robotica",
-    "date": "2026-03-08",
-    "slug": "el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la",
-    "tags": [
-      "Paleontología",
-      "Dinosaurios",
-      "Miniaturización",
-      "Alvarezsaurios",
-      "Cazadores"
-    ],
-    "preview": "Un nuevo fósil de un dinosaurio alvarezsaurio desafía la teoría de que estos animales se hicieron más pequeños para cazar hormigas y termitas. El fósil, llamado Alnashetri cerropoliciensis, pesaba solo 700 gramos y probablemente era un…",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-08-el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la.md"
-  },
-  {
-    "title": "Un descubrimiento sorprendente sobre los dinosaurios miniaturizados",
-    "category": "robotica",
-    "date": "2026-03-08",
-    "slug": "un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi",
-    "tags": [
-      "evolución",
-      "paleontología",
-      "dinosaurios",
-      "miniaturización",
-      "alvarezsauridos"
-    ],
-    "preview": "Los paleontólogos han descubierto un fósil de un dinosaurio miniaturizado que desafía la teoría de que los alvarezsauridos se volvieron pequeños para cazar hormigas y termitas. El descubrimiento sugiere que la miniaturización de estos…",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-08-un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi.md"
   }
 ]

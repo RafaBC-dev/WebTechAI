@@ -4,17 +4,21 @@
   "site_desc": "Tecnología, robótica e IA explicada en español",
   "max_per_feed": 3,
   "max_per_run": 15,
+  "min_relevance_score": 3,
   "feeds": [
     "https://hackaday.com/feed/",
     "https://www.cnx-software.com/feed/",
-    "https://feeds.arstechnica.com/arstechnica/index",
     "https://www.phoronix.com/rss.php",
     "https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://discourse.ros.org/latest.rss",
     "https://spectrum.ieee.org/feeds/topic/robotics.rss",
     "https://lwn.net/headlines/rss",
-    "https://opensource.com/feed",
     "https://blog.adafruit.com/feed/",
-    "https://www.raspberrypi.com/news/feed/"
+    "https://www.raspberrypi.com/news/feed/",
+    "https://huggingface.co/blog/feed.xml",
+    "https://simonwillison.net/atom/everything/",
+    "https://randomnerdtutorials.com/feed/",
+    "https://embeddedartistry.com/feed/",
+    "https://interrupt.memfault.com/feed.xml"
   ]
 }

@@ -5,7 +5,7 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sun, 08 Mar 2026 18:05:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 07:48:44 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Echo Pyramid: habla inteligente para controladores IoT M5Stack Atom</title>
@@ -230,22 +230,6 @@
     <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Después de analizar el hardware y probar el mini PC con Windows 11 Pro, ahora exploramos su rendimiento con Ubuntu 25.10. ¿Cómo se comporta el AMD Ryzen 5 7530U en Linux?</description>
-  </item>
-  <item>
-    <title>El descubrimiento de un dinosaurio minúsculo desafía la teoría de la miniaturización</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-08-el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-08-el-descubrimiento-de-un-dinosaurio-minusculo-desafia-la.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un nuevo fósil de un dinosaurio alvarezsaurio desafía la teoría de que estos animales se hicieron más pequeños para cazar hormigas y termitas. El fósil, llamado Alnashetri cerropoliciensis, pesaba solo 700 gramos y probablemente era un…</description>
-  </item>
-  <item>
-    <title>Un descubrimiento sorprendente sobre los dinosaurios miniaturizados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-08-un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-08-un-descubrimiento-sorprendente-sobre-los-dinosaurios-mi.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los paleontólogos han descubierto un fósil de un dinosaurio miniaturizado que desafía la teoría de que los alvarezsauridos se volvieron pequeños para cazar hormigas y termitas. El descubrimiento sugiere que la miniaturización de estos…</description>
   </item>
 </channel>
 </rss>
