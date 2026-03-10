@@ -5,231 +5,247 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Mar 2026 07:48:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 07:35:18 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>Echo Pyramid: habla inteligente para controladores IoT M5Stack Atom</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controladores-iot-m.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controladores-iot-m.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>El lenguaje de programación más dulce: MNM</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-10-el-lenguaje-de-programacion-mas-dulce-mnm.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-10-el-lenguaje-de-programacion-mas-dulce-mnm.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un grupo de desarrolladores ha creado un lenguaje de programación único que utiliza caramelos M&amp;M como símbolos. Aunque puede parecer un juego, el lenguaje MNM tiene una estructura y reglas claras que lo convierten en un proyecto…</description>
+  </item>
+  <item>
+    <title>Diagnóstico de un fallo misterioso en un lector de discos de 5,25 pulgadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-10-diagnostico-de-un-fallo-misterioso-en-un-lector-de-disc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-10-diagnostico-de-un-fallo-misterioso-en-un-lector-de-disc.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de retroinformática descubre un comportamiento extraño en un lector de discos de 5,25 pulgadas Commodore 1541, que se inicia y luego se bloquea. ¿Qué está pasando y cómo se puede solucionar?</description>
+  </item>
+  <item>
+    <title>Anthropic lanza herramienta de revisión de código para detectar errores en código generado por IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-anthropic-lanza-herramienta-de-revision-de-codigo-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-anthropic-lanza-herramienta-de-revision-de-codigo-para-.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La creciente popularidad de los herramientas de 'vibe coding' ha cambiado la forma en que los desarrolladores trabajan, pero también ha introducido nuevos errores y riesgos de seguridad. Anthropic busca solucionar este problema con su…</description>
+  </item>
+  <item>
+    <title>Construyendo un laboratorio de limpieza para semiconductores en un cobertizo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-construyendo-un-laboratorio-de-limpieza-para-semiconduc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-construyendo-un-laboratorio-de-limpieza-para-semiconduc.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un ingeniero ha convertido un cobertizo de jardín en un laboratorio de limpieza para semiconductores, alcanzando niveles de limpieza similares a los de un centro de fabricación de alta tecnología. Esto demuestra que la tecnología de…</description>
+  </item>
+  <item>
+    <title>Quad Cortex mini: un modelador de amplificadores de guitarra más pequeño y potente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-quad-cortex-mini-un-modelador-de-amplificadores-de-guit.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-quad-cortex-mini-un-modelador-de-amplificadores-de-guit.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Neural DSP ha presentado el Quad Cortex mini, un dispositivo que puede modelar cientos de amplificadores de guitarra, cajas de resonancia y efectos en un solo dispositivo. Esto revoluciona la industria musical y ofrece una…</description>
+  </item>
+  <item>
+    <title>Blue Origin crea nuevo plan de opciones de acciones para retener talento</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-blue-origin-crea-nuevo-plan-de-opciones-de-acciones-par.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-blue-origin-crea-nuevo-plan-de-opciones-de-acciones-par.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Después de dos décadas, Blue Origin sigue sin ser rentable, pero ha logrado avances significativos en la industria espacial. Sin embargo, para retener talento, la empresa sigue rezagada en comparación con otras compañías como SpaceX.</description>
+  </item>
+  <item>
+    <title>Empleados de OpenAI y Google defienden a Anthropic en disputa con el DOD</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-empleados-de-openai-y-google-defienden-a-anthropic-en-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-empleados-de-openai-y-google-defienden-a-anthropic-en-d.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Anthropic ha sido etiquetada como un riesgo en la cadena de suministro por el DOD, lo que ha generado una reacción en cadena en la comunidad de inteligencia artificial. Más de 30 empleados de OpenAI y Google han presentado un…</description>
+  </item>
+  <item>
+    <title>AMI Labs recauda 1.03 mil millones de dólares para desarrollar modelos del mundo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-ami-labs-recauda-103-mil-millones-de-dolares-para-desar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-ami-labs-recauda-103-mil-millones-de-dolares-para-desar.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>AMI Labs, el nuevo proyecto cofundado por Yann LeCun, ha recaudado 1.03 mil millones de dólares para desarrollar modelos del mundo, una tecnología de inteligencia artificial que aprende de la realidad en lugar de solo de lenguaje. Esto…</description>
+  </item>
+  <item>
+    <title>NVIDIA lanza nuevo driver beta para Linux con características Vulkan</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-nvidia-lanza-nuevo-driver-beta-para-linux-con-caracteri.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-nvidia-lanza-nuevo-driver-beta-para-linux-con-caracteri.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>NVIDIA ha lanzado un nuevo driver beta para Linux que incluye características Vulkan importantes. Este driver es parte del programa de beta de desarrolladores de Vulkan y ofrece mejoras significativas en rendimiento y funcionalidad. La…</description>
+  </item>
+  <item>
+    <title>FreeBSD 14.4: Actualización de FreeBSD para usuarios reacios a pasar a 15</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-freebsd-144-actualizacion-de-freebsd-para-usuarios-reac.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-freebsd-144-actualizacion-de-freebsd-para-usuarios-reac.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>FreeBSD 14.4 ha sido lanzado como la última actualización de la serie FreeBSD 14, diseñada para usuarios que no están listos para migrar a la versión 15. Esta actualización incluye mejoras y correcciones para aquellos que planean seguir…</description>
+  </item>
+  <item>
+    <title>Ley de verificación de edad en Colorado: ¿excluye software libre?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-ley-de-verificacion-de-edad-en-colorado-excluye-softwar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-ley-de-verificacion-de-edad-en-colorado-excluye-softwar.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa System76 ha expresado su preocupación por la posible inclusión de software libre en la ley de verificación de edad en Colorado. Afortunadamente, hay esperanza de que se excluya a este tipo de software.</description>
+  </item>
+  <item>
+    <title>Apple M5 Max: El nuevo chip para laptops y desktops de Apple</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-apple-m5-max-el-nuevo-chip-para-laptops-y-desktops-de-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-apple-m5-max-el-nuevo-chip-para-laptops-y-desktops-de-a.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Apple ha lanzado su nuevo chip M5 Max, que ofrece mejor rendimiento y eficiencia en laptops y desktops. Este chip es el resultado de una arquitectura fusionada que combina dos piezas de silicio en una sola. Pero, ¿qué cambia en realidad?</description>
+  </item>
+  <item>
+    <title>Intel presenta una placa base industrial con soporte para hasta 256GB de RAM DDR5</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-intel-presenta-una-placa-base-industrial-con-soporte-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-intel-presenta-una-placa-base-industrial-con-soporte-pa.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
-    <description>La empresa M5Stack ha lanzado el Echo Pyramid, un dispositivo que permite la interacción de voz inteligente en aplicaciones IoT. Este dispositivo es compatible con los controladores M5Stack Atom, AtomS3 y AtomS3R, basados en el SoC ESP32 o…</description>
+    <description>La empresa Intel ha lanzado una placa base industrial llamada ATX-ARS1-W880, diseñada para aplicaciones de fábrica inteligente. Esta placa base es compatible con procesadores Intel Arrow Lake-S, que ofrecen hasta 24 núcleos y 36 TOPS de…</description>
   </item>
   <item>
-    <title>Echo Pyramid: habla inteligente para controles IoT M5Stack Atom</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controles-iot-m5sta.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controles-iot-m5sta.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Nueva placa Raspberry Pi CM0IQ: ultra compacta y potente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-nueva-placa-raspberry-pi-cm0iq-ultra-compacta-y-potente.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-nueva-placa-raspberry-pi-cm0iq-ultra-compacta-y-potente.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
-    <description>La tecnología de voz inteligente se vuelve más accesible con el Echo Pyramid, un módulo que permite a los controles IoT M5Stack Atom ejecutar aplicaciones de voz inteligente, como reconocimiento de voz a distancia, asistentes de voz y…</description>
+    <description>Makerfabs ha lanzado la CM0IQ, una placa ultra compacta basada en la Raspberry Pi CM0 Lite. Con un tamaño de apenas 42x36mm, esta placa es ideal para aplicaciones de robótica, dispositivos IoT y integraciones de hardware personalizadas. A…</description>
   </item>
   <item>
-    <title>Campamentos temporales para trabajadores de centros de datos con inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-campamentos-temporales-para-trabajadores-de-centros-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-campamentos-temporales-para-trabajadores-de-centros-de-.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Nordic Semi lanza SoCs de Bluetooth LE ultra-bajo consumo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-nordic-semi-lanza-socs-de-bluetooth-le-ultra-bajo-consu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-nordic-semi-lanza-socs-de-bluetooth-le-ultra-bajo-consu.md</guid>
+    <pubDate>Tue, 10 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Nordic Semiconductor ha presentado dos nuevos SoCs de Bluetooth Low Energy (LE) ultra-bajo consumo, diseñados para aplicaciones simples como sensores, etiquetas, beacons, remotos y periféricos de PC, o como dispositivos de Bluetooth LE…</description>
+  </item>
+  <item>
+    <title>Cámara de Raspberry Pi modular para experimentar con diferentes pantallas y lentes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-09-camara-de-raspberry-pi-modular-para-experimentar-con-di.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-09-camara-de-raspberry-pi-modular-para-experimentar-con-di.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>La comunidad de hackers ha adoptado las cámaras de Raspberry Pi como herramienta estándar para proyectos de cámara digital. Sin embargo, la variedad de pantallas, lentes y módulos puede ser complicada de gestionar. Un ingeniero ha creado…</description>
+  </item>
+  <item>
+    <title>Descubren dinosaurio minúsculo con brazos largos que cuestiona la miniaturización de los dinosaurios</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-09-descubren-dinosaurio-minusculo-con-brazos-largos-que-cu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-09-descubren-dinosaurio-minusculo-con-brazos-largos-que-cu.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un nuevo hallazgo en la paleontología cuestiona la teoría de que los dinosaurios pequeños se miniaturizaron para cazar hormigas y termitas. El descubrimiento de un dinosaurio minúsculo con brazos largos sugiere que la miniaturización no…</description>
+  </item>
+  <item>
+    <title>La controversia del Pentagono y la tecnología Anthropic: ¿qué significa para startups?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-09-la-controversia-del-pentagono-y-la-tecnologia-anthropic.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-09-la-controversia-del-pentagono-y-la-tecnologia-anthropic.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La relación entre el Pentágono y la empresa Anthropic se ha vuelto tensa después de que el gobierno estadounidense designara a la empresa como un riesgo en la cadena de suministro. Esto ha llevado a que otras empresas de tecnología como…</description>
+  </item>
+  <item>
+    <title>Desbloqueando la impresora de etiquetas Fichero: un protocolo Bluetooth desmontado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-desbloqueando-la-impresora-de-etiquetas-fichero-un-prot.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-desbloqueando-la-impresora-de-etiquetas-fichero-un-prot.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>En Estados Unidos, la construcción de centros de datos con inteligencia artificial está impulsando la creación de campamentos temporales para alojar a los trabajadores necesarios para su construcción. Estos campamentos, llamados 'man…</description>
+    <description>Una impresora de etiquetas barata y accesible, pero con una interfaz de usuario limitada a una aplicación móvil propietaria. Un entusiasta de la tecnología ha decidido cambiar esto mediante la reverse-engineering del protocolo BLE.</description>
   </item>
   <item>
-    <title>Campamentos temporales para trabajadores en centros de datos con inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-campamentos-temporales-para-trabajadores-en-centros-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-campamentos-temporales-para-trabajadores-en-centros-de-.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Marvel revive Daredevil: Born Again con un nuevo capítulo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-marvel-revive-daredevil-born-again-con-un-nuevo-capitul.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-marvel-revive-daredevil-born-again-con-un-nuevo-capitul.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>La construcción de centros de datos con inteligencia artificial (IA) está en auge en Estados Unidos, lo que ha llevado a la creación de campamentos temporales para alojar a los trabajadores que se necesitan para construir y operar estos…</description>
+    <description>La serie de televisión Daredevil: Born Again regresa con un nuevo capítulo, reuniendo a personajes icónicos de la saga Marvel. La noticia ha generado expectación entre los fanáticos, que esperan ver a Matt Murdock/Daredevil y Wilson…</description>
   </item>
   <item>
-    <title>Google otorga a Sundar Pichai un paquete de compensación de $692 millones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensac-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensac-2.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Un documental inmersivo busca a los elefantes fantasma del África</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-un-documental-inmersivo-busca-a-los-elefantes-fantasma-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-un-documental-inmersivo-busca-a-los-elefantes-fantasma-.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>Google ha otorgado a su CEO, Sundar Pichai, un paquete de compensación de $692 millones, que podría hacerlo uno de los ejecutivos mejor pagados del mundo. Sin embargo, la mayor parte de este paquete está condicionado a su desempeño,…</description>
+    <description>Un equipo de documentalistas liderado por Werner Herzog busca en el África subsahariana a una especie de elefantes nunca antes vista. La búsqueda se basa en la investigación de Steve Boyes, un ornitólogo que ha dedicado años a estudiar a…</description>
   </item>
   <item>
-    <title>Google otorga a Sundar Pichai un paquete de compensación de $692 millones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensacio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensacio.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Man camps para trabajadores de centros de datos: la oportunidad de la IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-man-camps-para-trabajadores-de-centros-de-datos-la-opor.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-man-camps-para-trabajadores-de-centros-de-datos-la-opor.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>El CEO de Google, Sundar Pichai, ha recibido un paquete de compensación de $692 millones, con la mayoría de la cantidad vinculada a su desempeño. A diferencia de los fundadores de Google, Larry Page y Sergey Brin, Pichai ha evitado la…</description>
+    <description>La construcción de centros de datos impulsada por la IA está generando un boom en la demanda de trabajadores temporales. Para satisfacer esta demanda, se están construyendo campamentos temporales llamados 'man camps', que ofrecen…</description>
   </item>
   <item>
-    <title>Investigador busca una nueva especie de elefante en África: un reto en la conservación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-investigador-busca-una-nueva-especie-de-elefante-en-afr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-investigador-busca-una-nueva-especie-de-elefante-en-afr.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Ring busca tranquilizar a sus usuarios sobre privacidad con Search Party</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>Un equipo de investigación liderado por Steve Boyes busca encontrar una nueva especie de elefante en la región de Angola. Esta búsqueda es un desafío en la conservación de la biodiversidad y puede revelar nuevos conocimientos sobre la…</description>
+    <description>La empresa Ring ha lanzado un nuevo servicio llamado Search Party, que utiliza inteligencia artificial para ayudar a encontrar perros perdidos. Sin embargo, su anuncio en el Super Bowl ha generado una gran controversia y críticas sobre la…</description>
   </item>
   <item>
-    <title>La búsqueda de los elefantes fantasmales en la selva angoleña</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Raspberry Pi 5 con pantalla táctil y cámaras: el Pironman 5 Pro Max</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>Un documental dirigido por Werner Herzog sigue a un conservacionista en su búsqueda de un nuevo tipo de elefante en la selva angoleña. La película, llamada 'Ghost Elephants', muestra la fascinación de Steve Boyes con estos animales y su…</description>
+    <description>SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil, cámaras y otros accesorios. Este caso es ideal para proyectos de robótica y automatización.</description>
   </item>
   <item>
-    <title>Marvel revive a Daredevil: Born Again con una nueva temporada y nuevos personajes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-marvel-revive-a-daredevil-born-again-con-una-nueva-temp.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-marvel-revive-a-daredevil-born-again-con-una-nueva-temp.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Simulando neuronas con un ordenador analógico innovador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-simulando-neuronas-con-un-ordenador-analogico-innovador.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-09-simulando-neuronas-con-un-ordenador-analogico-innovador.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>La popular serie de televisión Daredevil: Born Again regresa con una nueva temporada, y con ella, nuevos personajes y tramas emocionantes. La serie sigue la historia de Matt Murdock/Daredevil y su archienemigo Wilson Fisk/Kingpin, y ahora…</description>
+    <description>Aunque los ordenadores digitales han dominado la escena, los ordenadores analógicos siguen siendo una fascinación para algunos. Recientemente, un ingeniero ha diseñado un ordenador analógico para simular neuronas, abriendo nuevas…</description>
   </item>
   <item>
-    <title>Marvel revive la serie Daredevil: Born Again con un nuevo capítulo emocionante</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-marvel-revive-la-serie-daredevil-born-again-con-un-nuev.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-marvel-revive-la-serie-daredevil-born-again-con-un-nuev.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La serie Daredevil: Born Again, una de las mejores de la temporada pasada, regresa con un nuevo capítulo que promete emociones y acción. La serie sigue la historia de Matt Murdock/Daredevil y su enemigo, Wilson Fisk/Kingpin, en una batalla…</description>
-  </item>
-  <item>
-    <title>Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, una cámara de 5MP, altavoces estéreo y un micrófono USB. Este caso es ideal para proyectos de robótica y…</description>
-  </item>
-  <item>
-    <title>Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, un módulo de cámara de 5MP y otros accesorios. Este caso es ideal para proyectos de Inteligencia Artificial,…</description>
-  </item>
-  <item>
-    <title>Restauración de un Commodore PET 3032 en mal estado: un proyecto de robótica retro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de demoscene en Polonia ha restaurado un Commodore PET 3032, un ordenador de la década de 1970 que había estado almacenado durante décadas. Aunque parecía en buen estado al principio, la restauración reveló problemas…</description>
-  </item>
-  <item>
-    <title>Restauración de un Commodore PET 3032 en mal estado: un logro de la comunidad retroinformática</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-un-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-un-.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de aficionados a la informática retro ha logrado restaurar un Commodore PET 3032 en mal estado, un ordenador clásico de la década de 1970. Este proyecto es relevante porque muestra la capacidad de la comunidad para recuperar y…</description>
-  </item>
-  <item>
-    <title>Spoofing señales de preeminencia de tráfico de emergencia: un hack posible en realidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-spoofing-senales-de-preeminencia-de-trafico-de-emergenc.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-spoofing-senales-de-preeminencia-de-trafico-de-emergenc.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un investigador ha logrado hackear sistemas de preeminencia de tráfico de emergencia en ciudades, lo que podría permitir a hackers controlar semáforos y crear situaciones de peligro en la vía pública. La noticia destaca la importancia de…</description>
-  </item>
-  <item>
-    <title>Spoofing un Señal de Preempión de Tráfico de Emergencia: un Hack Real</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-spoofing-un-senal-de-preempion-de-trafico-de-emergencia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-spoofing-un-senal-de-preempion-de-trafico-de-emergencia.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un hacker ha logrado controlar un sistema de preempión de tráfico de emergencia, lo que podría tener graves consecuencias en la seguridad vial. La noticia nos recuerda la importancia de la seguridad en los sistemas críticos. Aunque se…</description>
-  </item>
-  <item>
-    <title>Un grupo de expertos presenta un marco para el desarrollo responsable de la inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-grupo-de-expertos-presenta-un-marco-para-el-desarrol.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-grupo-de-expertos-presenta-un-marco-para-el-desarrol.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un grupo de expertos ha presentado un marco para el desarrollo responsable de la inteligencia artificial, en respuesta a la falta de regulación en este campo. Este marco, conocido como la Declaración Pro-Humana, busca establecer límites…</description>
-  </item>
-  <item>
-    <title>Un Jet Ski casero para combatir el aburrimiento del invierno</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-aburrimiento-del-inv.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-aburrimiento-del-inv.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un invierno largo puede hacer que muchos de nosotros nos volvamos un poco locos. En este caso, lo suficientemente locos como para montar un motor de pulse jet casero en un patinete de niño y usarlo en un lago congelado. El resultado es un…</description>
-  </item>
-  <item>
-    <title>Un Jet Ski casero para combatir el síndrome del invierno</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-sindrome-del-inviern.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-sindrome-del-inviern.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un invierno largo puede hacer que los noruegos se vuelvan un poco locos. En este caso, lo suficientemente locos como para montar un motor de impulso de propano casero en un patinete de niño y usarlo en un lago helado para una experiencia…</description>
-  </item>
-  <item>
-    <title>Un llamado a la responsabilidad en el desarrollo de la inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-llamado-a-la-responsabilidad-en-el-desarrollo-de-la-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-08-un-llamado-a-la-responsabilidad-en-el-desarrollo-de-la-.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Una coalición bipartisan de expertos ha lanzado un documento que establece un marco para el desarrollo responsable de la inteligencia artificial. Este llamado a la acción surge en un momento en que la falta de regulación en el sector ha…</description>
-  </item>
-  <item>
-    <title>CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Rust Coreutils 0.7: Mejoras de rendimiento para herramientas de sistema</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-09-rust-coreutils-07-mejoras-de-rendimiento-para-herramien.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-09-rust-coreutils-07-mejoras-de-rendimiento-para-herramien.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>La versión de marzo de 2026 de CachyOS Handheld Edition está disponible, con mejoras significativas en el instalador y la experiencia de usuario. Esta actualización es especialmente importante para propietarios de dispositivos de juego…</description>
+    <description>La versión 0.7 de Rust Coreutils ha sido lanzada con un enfoque en la mejora del rendimiento de las herramientas de sistema. Esta actualización busca alcanzar la compatibilidad del 100% con el Test de GNU, pero también introduce cambios…</description>
   </item>
   <item>
-    <title>CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Linux 7.0-rc3: El kernel más grande en recientes historias</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-09-linux-70-rc3-el-kernel-mas-grande-en-recientes-historia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-09-linux-70-rc3-el-kernel-mas-grande-en-recientes-historia.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>La versión de marzo de 2026 de CachyOS Handheld Edition, una distribución de Linux para dispositivos de juego portátiles como el Steam Deck, ha sido actualizada con varias mejoras y cambios importantes. Entre ellos, el cambio a Wayland…</description>
+    <description>La versión 7.0 del kernel Linux está avanzando rápidamente hacia su lanzamiento estable en abril. La versión 7.0-rc3, lanzada recientemente, incluye una gran cantidad de cambios y arreglos de bugs, lo que ha generado preocupación en el…</description>
   </item>
   <item>
-    <title>FFmpeg 8.1: Nuevas características y mejoras en aceleración de gráficos y codificación de video</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
+    <title>CachyOS cambia a Wayland y mejora la experiencia de usuario</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-09-cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-09-cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>Los desarrolladores de FFmpeg están preparando la próxima versión, FFmpeg 8.1, que traerá mejoras significativas en la aceleración de gráficos y la codificación de video. Entre las características nuevas se encuentran la aceleración de…</description>
+    <description>La distribución CachyOS, basada en Arch Linux, ha lanzado una actualización importante que incluye cambios significativos en la experiencia de usuario para dispositivos portátiles como el Steam Deck. Entre las mejoras destacan la…</description>
   </item>
   <item>
-    <title>FFmpeg 8.1: Nuevas características y mejoras en aceleración de video y codificación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los desarrolladores de FFmpeg están preparando la versión 8.1 de este popular software de codificación y reproducción de video, que incluye mejoras significativas en la aceleración de video y la codificación. Entre las novedades destacan…</description>
+    <title>Nueva Familia de Microcontroladores STM32C5 para Aplicaciones Industriales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-09-nueva-familia-de-microcontroladores-stm32c5-para-aplica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-09-nueva-familia-de-microcontroladores-stm32c5-para-aplica.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>STMicro ha lanzado la familia de microcontroladores STM32C5, diseñada para aplicaciones industriales y domóticas. Estos microcontroladores ofrecen una gran variedad de características y opciones de configuración, lo que los hace ideales…</description>
   </item>
   <item>
-    <title>GEEKOM A5 Pro 2026 Edition: Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-pc-am.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-pc-am.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La empresa GEEKOM ha lanzado una versión actualizada de su mini PC A5 Pro, equipado con un procesador AMD Ryzen 5 7530U y 16 GB de memoria RAM. En este artículo, exploraremos cómo funciona el sistema con Ubuntu 25.10, una distribución de…</description>
-  </item>
-  <item>
-    <title>Intel lanza soporte experimental para gráficos Intel Nova Lake P en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel--2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel--2.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Intel ha lanzado soporte experimental para gráficos Intel Nova Lake P en el driver Mesa 26.1, lo que permitirá a los desarrolladores de Linux aprovechar al máximo la potencia gráfica de estos dispositivos. Este soporte es especialmente…</description>
-  </item>
-  <item>
-    <title>Intel lanza soporte experimental para gráficos Intel Nova Lake P en Mesa 26.1</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel-no.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel-no.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La compañía Intel ha agregado soporte experimental para los gráficos Intel Nova Lake P a la versión de desarrollo de Mesa 26.1. Esta actualización permite a los desarrolladores trabajar con la tecnología de gráficos Intel más avanzada,…</description>
-  </item>
-  <item>
-    <title>Revisión del GEEKOM A5 Pro 2026 con Ubuntu 25.10: rendimiento y características</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-08-revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi.md</guid>
-    <pubDate>Sun, 08 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Después de analizar el hardware y probar el mini PC con Windows 11 Pro, ahora exploramos su rendimiento con Ubuntu 25.10. ¿Cómo se comporta el AMD Ryzen 5 7530U en Linux?</description>
+    <title>Generador de señal RF abierto y de alta gama a un precio asequible</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-09-generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-09-generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci.md</guid>
+    <pubDate>Mon, 09 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa turca Atek Midas ha lanzado un generador de señal RF de alta gama y abierto que ofrece una gama de frecuencia de 0.15 GHz a 22.6 GHz y puede ser controlado a través de una interfaz web o mediante comandos SCPI.</description>
   </item>
 </channel>
 </rss>
