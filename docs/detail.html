@@ -1,53 +1,157 @@
 <!DOCTYPE html>
 <html lang="es" data-theme="dark">
+
 <head>
+  <!-- ═══ HEAD — METADATOS Y RECURSOS ═══════════════════════════
+       Esta página comparte la misma estructura de head que index.html,
+       con una diferencia importante: las meta tags de og:title,
+       og:description y <title> empiezan vacías. app.js las rellenará
+       dinámicamente con el título real del artículo una vez que lea
+       el archivo Markdown correspondiente desde la URL.
+
+       Así, cada artículo tiene su propia tarjeta enriquecida en redes
+       sin necesitar un servidor: una sola plantilla HTML sirve para
+       todos los artículos del sitio (arquitectura de sitio estático).
+
+       og:type = "article" (no "website"): indica a Facebook, LinkedIn
+       y similares que esta página es un artículo, activando el formato
+       de card enriquecida para lectores/publicaciones.
+  ════════════════════════════════════════════════════════════════ -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Artículo — TechPulse ES</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">  <meta name="description" content="">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;600&display=swap"
+    rel="stylesheet">
+  <meta name="description" content="">
   <meta property="og:title" content="">
   <meta property="og:description" content="">
   <meta property="og:type" content="article">
   <meta name="twitter:card" content="summary">
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body class="detail-page">
+  <!-- La clase .detail-page en <body> permite al CSS (o al JS)
+       identificar que estamos en la página de detalle y aplicar
+       estilos o comportamientos específicos si fuera necesario. -->
 
-<header class="site-header">
-  <div class="container header-inner">
-    <a href="index.html" class="logo">
-      <span class="logo-mark">⬡</span>
-      <span class="logo-text">TechPulse<em>ES</em></span>
-    </a>
-    <nav class="header-nav" style="display:flex;gap:4px"><a href="index.html" class="nav-link">Inicio</a><a href="about.html" class="nav-link">Sobre el proyecto</a></nav>
-    <a href="index.html" class="back-link">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m15 18-6-6 6-6"/></svg>
-      Volver
-    </a>
-    <div class="header-actions">
-      <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema">
-        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
-        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-      </button>
+  <!-- ═══ HEADER (versión de detalle) ══════════════════════════════
+     El header de la página de artículo es similar al de portada,
+     pero con algunas diferencias importantes:
+
+     1. La nav central muestra solo dos enlaces textuales: Inicio y
+        Sobre el proyecto. No hay filtros de categoría porque en la
+        página de artículo el usuario está leyendo, no filtrando.
+
+     2. Aparece el BACK LINK (← Volver) a la derecha de la nav.
+        Es un enlace visual prominente que invita al usuario a volver
+        al índice de noticias. Está en fuente mono, mayúsculas y con
+        la flecha SVG ← a la izquierda del texto.
+        Al hacer hover se pone en cian con fondo semitransparente:
+        el mismo patrón visual que el estado .active de los nav-link.
+
+     3. No hay botón de búsqueda (no tiene sentido buscar desde aquí)
+        pero sí el botón de tema (sol/luna) para cambiar el aspecto.
+════════════════════════════════════════════════════════════════ -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TechPulse<em>ES</em></span>
+      </a>
+      <nav class="header-nav" style="display:flex;gap:4px"><a href="index.html" class="nav-link">Inicio</a><a
+          href="about.html" class="nav-link">Sobre el proyecto</a></nav>
+      <!-- El back-link: botón prominente de regreso al índice.
+         Se coloca con margin-left: auto en el CSS para empujarlo
+         todo a la derecha, junto a los botones de acción. -->
+      <a href="index.html" class="back-link">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="m15 18-6-6 6-6" />
+        </svg>
+        Volver
+      </a>
+      <div class="header-actions">
+        <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema">
+          <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <circle cx="12" cy="12" r="5" />
+            <path
+              d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" />
+          </svg>
+          <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+          </svg>
+        </button>
+      </div>
     </div>
-  </div>
-</header>
+  </header>
 
-<main class="container article-container" id="article-container">
-  <div class="loading-state">
-    <div class="spinner"></div>
-    <p>Cargando artículo…</p>
-  </div>
-</main>
+  <!-- ═══ CONTENIDO DEL ARTÍCULO ════════════════════════════════════
+     El <main> es la zona donde app.js inyecta dinámicamente todo
+     el contenido del artículo. Cuando la página carga, solo hay
+     un spinner visible. app.js lee el parámetro "?slug=XXX" de la
+     URL, localiza el archivo Markdown correspondiente, parsea su
+     contenido y construye la estructura HTML completa:
 
-<footer class="site-footer">
-  <div class="container footer-inner">
-    <span class="logo-text small">TechPulse<em>ES</em></span>
-    <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas</p>
-  </div>
-</footer>
+       ┌─────────────────────────────────────────────┐
+       │  [BADGE categoría]  [fecha]  [tags]         │  ← .article-eyebrow
+       │                                             │
+       │  TÍTULO DEL ARTÍCULO EN ESPAÑOL             │  ← .article-title
+       │                                             │
+       │  ─────── meta: fecha | fuente | tags ────── │  ← .article-meta
+       │                                             │
+       │  ▌ Introducción destacada (borde cian)      │  ← .article-intro
+       │                                             │
+       │  ¿QUÉ ES? ───────────────────────────────── │  ← .section-label
+       │  Texto explicativo...                       │  ← .article-text
+       │                                             │
+       │  ¿CÓMO FUNCIONA? ────────────────────────── │
+       │  • Punto clave 1                            │  ← .key-points
+       │  • Punto clave 2                            │
+       │                                             │
+       │  CONSEJO TÉCNICO ────────────────────────── │
+       │  ┌──────────────────────────────────────┐   │  ← .tip-box
+       │  │ Texto del consejo                    │   │
+       │  │ $ comando-bash-opcional              │   │  ← .code-block
+       │  └──────────────────────────────────────┘   │
+       │                                             │
+       │  [Artículos relacionados]                   │  ← .related-section
+       │                                             │
+       │  [→ Ver fuente original]                    │  ← .source-link-box
+       └──────────────────────────────────────────── ┘
 
-<script src="app.js"></script>
+     Todo esto se construye en JavaScript: este HTML es solo el
+     contenedor vacío que da estructura semántica (el <main> y el id).
+════════════════════════════════════════════════════════════════ -->
+  <main class="container article-container" id="article-container">
+    <!-- Estado de carga inicial: visible hasta que app.js inyecte el artículo -->
+    <div class="loading-state">
+      <div class="spinner"></div>
+      <p>Cargando artículo…</p>
+    </div>
+  </main>
+
+  <!-- ═══ FOOTER ════════════════════════════════════════════════════
+     Idéntico al de index.html: logo pequeño + aviso de IA.
+     La coherencia entre páginas refuerza la identidad de marca
+     y el usuario sabe en todo momento en qué sitio está.
+════════════════════════════════════════════════════════════════ -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span class="logo-text small">TechPulse<em>ES</em></span>
+      <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas · Hecho por <a
+          href="https://github.com/RafaBC-dev" target="_blank" style="color:var(--accent)">RafaBC-dev</a></p>
+    </div>
+  </footer>
+
+  <!-- app.js al final del body: mismo razonamiento que en index.html.
+     El JS lee el parámetro "slug" de la URL y carga el artículo
+     correcto. También se encarga de actualizar el <title> y las
+     meta og: del <head> con los datos del artículo real. -->
+  <script src="app.js"></script>
 </body>
+
 </html>

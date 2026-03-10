@@ -1,8 +1,39 @@
 /* ═══════════════════════════════════════════════════════════════
    TechPulse ES — Design System
+   ═══════════════════════════════════════════════════════════════
+
+   Bienvenido al tour del CSS de TechPulse ES.
+   Todo el archivo sigue un orden lógico de arriba a abajo:
+   primero definimos los «tokens» (variables globales del diseño),
+   luego reseteamos los estilos del navegador, y a continuación
+   construimos cada pieza de la interfaz en el orden en que
+   aparece en la página: header → hero → filtros → cards → artículo → footer.
    ═══════════════════════════════════════════════════════════════ */
 
 /* ── TOKENS ─────────────────────────────────────────────────── */
+/*
+   Aquí definimos las «variables globales» del diseño: los ladrillos
+   que usaremos en todo el CSS. Cambiar un solo valor aquí (por
+   ejemplo --accent) actualiza el color principal en cientos de
+   sitios a la vez. Dividimos en tres grupos:
+
+   1. TIPOGRAFÍA: tres familias con personalidades distintas.
+      - Plus Jakarta Sans → títulos grandes y llamativos (display)
+      - Inter             → texto corrido, legible a cualquier tamaño (body)
+      - JetBrains Mono    → badges, fechas, etiquetas «técnicas» (mono)
+
+   2. RADIOS: cuánto se redondean las esquinas de los elementos.
+      --radius-sm para detalles pequeños (badges), --radius para cards,
+      --radius-lg para modales o elementos más grandes.
+
+   3. TRANSICIÓN: velocidad de todas las animaciones de hover.
+      0.2s es suficientemente rápido para sentirse ágil sin ser brusco.
+
+   4. COLORES POR CATEGORÍA: cada tema del sitio tiene su color.
+      El usuario los verá en los badges de las cards y en los filtros.
+      Morado → IA  |  Azul → Robótica  |  Verde → Linux
+      Naranja → Embebidos  |  Rosa → Diseño 3D
+*/
 :root {
   --font-display: 'Plus Jakarta Sans', sans-serif;
   --font-body: 'Inter', system-ui, sans-serif;
@@ -25,6 +56,21 @@
 
 }
 
+/*
+   TEMAS DE COLOR (claro / oscuro)
+   ---------------------------------
+   En lugar de codificar los colores directamente en cada regla CSS,
+   los definimos aquí como variables semánticas: --bg, --text, --accent…
+   Cuando el usuario pulse el botón de sol/luna en el header, el JS
+   cambia el atributo data-theme en <html> y el navegador aplica
+   automáticamente el grupo correcto de variables. Magia sin JavaScript
+   extra: solo una línea de JS y el resto lo hace el CSS.
+
+   El tema oscuro usa azules profundos casi negros (#080c14) para
+   reducir la fatiga visual en sesiones largas de lectura técnica.
+   El tema claro usa grises fríos (#f0f4f8) en lugar de blanco puro,
+   más cómodo para los ojos bajo luz artificial.
+*/
 /* Dark theme (default) */
 [data-theme="dark"] {
   --bg:        #080c14;
@@ -58,6 +104,18 @@
 }
 
 /* ── RESET ───────────────────────────────────────────────────── */
+/*
+   Borramos los estilos por defecto del navegador para partir de
+   cero. Sin esto, Chrome, Firefox y Safari renderizan márgenes y
+   rellenos distintos. Tres decisiones importantes aquí:
+   - scroll-behavior: smooth → el scroll a anclas (#sección) es
+     fluido en lugar de un salto brusco.
+   - body transition → cuando el usuario cambia de tema claro/oscuro
+     el fondo y el texto se desvanecen suavemente en 0.2s en lugar
+     de parpadear de golpe.
+   - min-height: 100vh → el body siempre ocupa al menos la pantalla
+     completa, así el footer no queda flotando en páginas cortas.
+*/
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html { scroll-behavior: smooth; }
@@ -78,6 +136,13 @@ a { color: inherit; text-decoration: none; }
 button { cursor: pointer; border: none; background: none; font: inherit; }
 
 /* ── LAYOUT ──────────────────────────────────────────────────── */
+/*
+   .container es el «carril central» de la página. Max-width 1240px
+   evita que el contenido se estire demasiado en pantallas grandes
+   (sería incómodo de leer). El margen automático lo centra siempre.
+   El padding horizontal de 24px garantiza que en móvil el contenido
+   no toque los bordes de la pantalla.
+*/
 .container {
   width: 100%;
   max-width: 1240px;
@@ -86,6 +151,24 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 }
 
 /* ── HEADER ──────────────────────────────────────────────────── */
+/*
+   Aquí construimos la barra de navegación fija que se queda pegada
+   en la parte superior de la pantalla mientras el usuario hace scroll.
+   Tres decisiones clave de diseño:
+
+   1. position: sticky + top: 0 + z-index: 100
+      El header «flota» sobre el contenido al hacer scroll, siempre
+      visible y por encima de todo lo demás.
+
+   2. backdrop-filter: blur(12px)
+      Produce el efecto «vidrio esmerilado» de macOS: el contenido
+      que pasa por debajo del header se desenfoca ligeramente,
+      dando profundidad y elegancia sin ocultar el contexto.
+
+   3. border-bottom: 1px solid var(--border)
+      Una línea sutil que separa el header del resto de la página
+      sin que parezca un recuadro duro.
+*/
 .site-header {
   position: sticky; top: 0; z-index: 100;
   background: var(--bg-2);
@@ -129,6 +212,13 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 
 .logo-text.small { font-size: .85rem; }
 
+/*
+   La navegación de categorías (IA, Robótica, Linux…) que aparece
+   en el centro del header. Con overflow-x: auto y scrollbar-width: none
+   conseguimos que en tablets medianas pueda desplazarse horizontalmente
+   sin mostrar una barra de scroll fea. En móvil se oculta por completo
+   y las categorías pasan a la tira de filtros bajo el hero.
+*/
 .header-nav {
   display: flex;
   gap: 4px;
@@ -138,6 +228,14 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 }
 .header-nav::-webkit-scrollbar { display: none; }
 
+/*
+   Cada enlace de categoría en el header. Usamos la fuente monoespaciada
+   en mayúsculas para darle ese toque técnico/terminal. Cuando el usuario
+   pasa el cursor encima (.nav-link:hover) el fondo se ilumina en
+   --surface y el texto se vuelve blanco puro: feedback claro de
+   que es clicable. El estado .active (categoría seleccionada) usa el
+   color de acento cian y un fondo semitransparente del mismo color.
+*/
 .nav-link {
   font-family: var(--font-mono);
   font-size: .72rem;
@@ -188,6 +286,17 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 }
 .back-link:hover { color: var(--accent); background: var(--accent-bg); }
 
+/*
+   BUSCADOR DESPLEGABLE
+   --------------------
+   La barra de búsqueda está escondida por defecto (max-height: 0).
+   Cuando el usuario pulsa el icono de lupa en el header, el JS añade
+   la clase .open y el buscador se despliega suavemente hacia abajo
+   gracias a la transición de max-height. Es el truco CSS clásico para
+   acordeones: animar de 0 a un valor fijo en lugar de usar display:none
+   (que no se puede animar). Al hacer foco en el input, el borde cambia
+   al color de acento cian, señalando visualmente que está activo.
+*/
 /* Search bar */
 .search-bar {
   background: var(--surface);
@@ -229,6 +338,25 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 .search-close:hover { color: var(--text); }
 
 /* ── HERO ────────────────────────────────────────────────────── */
+/*
+   La sección hero es lo primero que ve el usuario al llegar.
+   Tiene dos trabajos: comunicar de qué va el sitio en segundos
+   y mostrar las estadísticas en vivo (nº de artículos, categorías,
+   fecha del último artículo) que el JS rellena dinámicamente.
+
+   El título usa clamp(2.2rem, 5vw, 3.8rem): crece y encoge con la
+   pantalla sin necesidad de media queries, siempre entre 2.2rem
+   (mínimo legible en móvil) y 3.8rem (máximo estético en desktop).
+
+   La <em> dentro del título hereda el color acento cian y fuente
+   ligera, creando un contraste de peso visual que hace que "sin
+   perderte nada" destaque sobre el resto del titular.
+
+   Las stats (números grandes + etiqueta pequeña en mono) dan
+   credibilidad: el visitante ve de un vistazo cuánto contenido hay.
+   Los separadores verticales (.stat-sep) son líneas de 1px que
+   dividen los números sin añadir peso visual.
+*/
 .hero {
   padding: 64px 0 48px;
   border-bottom: 1px solid var(--border);
@@ -295,6 +423,22 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   background: var(--border);
 }
 
+/*
+   La tira de filtros es la segunda barra pegajosa de la página.
+   Se coloca en top: 64px, justo debajo del header (64px de alto),
+   de modo que al hacer scroll ambas barras se apilan visualmente
+   sin solaparse. z-index: 90 la mantiene un escalón por debajo del header.
+
+   Contiene las «pills» de categoría: cápsulas pill-shape (border-radius:
+   99px = el truco para obtener pastillas perfectas con cualquier texto)
+   con las que el usuario filtra las noticias al instante sin recargar.
+
+   Cuando una pill se activa (.pill.active) su fondo cambia al color
+   específico de la categoría y el texto pasa a oscuro: un indicador
+   de selección llamativo y claro. El contador de artículos dentro de
+   cada pill (.count) tiene un fondo casi negro semitransparente para
+   que se lea sobre cualquier color de fondo.
+*/
 /* ── FILTER STRIP ────────────────────────────────────────────── */
 .filter-strip {
   background: var(--bg-2);
@@ -366,6 +510,23 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   gap: 20px;
 }
 
+/*
+   Cada tarjeta de noticia. Es un contenedor flex en columna para
+   que el cuerpo crezca (flex: 1 en .card-body) y el footer siempre
+   quede pegado abajo, independientemente de la altura del texto.
+
+   El efecto hover es la joya de la corona: al pasar el ratón sobre
+   una card, tres cosas ocurren simultáneamente:
+   1. La card sube 4px (translateY(-4px)): sensación de que se eleva.
+   2. Aparece una sombra profunda: refuerza visualmente la elevación.
+   3. La línea de acento de la categoría (::before) se despliega de
+      izquierda a derecha (scaleX: 0 → 1): un subrayado de color que
+      revela de qué tema es el artículo de forma elegante.
+
+   La barra de color superior (::before) usa --card-accent, una
+   variable CSS interna que cada card sobreescribe según su categoría
+   (morado para IA, azul para Robótica, etc.).
+*/
 /* ── CARD ────────────────────────────────────────────────────── */
 .news-card {
   background: var(--card);
@@ -558,6 +719,28 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 }
 .empty-state button:hover { background: var(--accent-bg); }
 
+/*
+   Ahora entramos en la página de detalle: donde el usuario lee el
+   artículo completo generado por la IA a partir de la noticia original.
+   Aquí el diseño tiene un único objetivo: que leer sea cómodo y agradable.
+
+   Max-width: 760px es deliberadamente mucho más estrecho que el grid
+   de portada (1240px). Los estudios de lectura recomiendan 60-75 chars
+   por línea; 760px lo garantiza para font-size de 1rem en desktop.
+
+   El .article-intro lleva un borde cian de 3px a la izquierda: es la
+   señal visual de que ese párrafo es el «gancho» del artículo, el
+   resumen de una sola frase que decide si el usuario sigue leyendo.
+
+   Las etiquetas .section-label (ej: «¿QUÉ ES?») incluyen un ::after
+   que pinta una línea horizontal hasta el borde derecho, creando
+   separadores de sección elegantes con solo CSS, sin elementos extra.
+
+   El .tip-box (consejo técnico) usa el color de acento semitransparente
+   como fondo, reforzando que ese bloque es especial. El .code-block
+   muestra el comando bash en verde sobre fondo oscuro: referencia visual
+   directa a un terminal real, correcta para el público tech del sitio.
+*/
 /* ── ARTICLE PAGE ────────────────────────────────────────────── */
 .article-container {
   max-width: 760px;
@@ -743,6 +926,12 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 .source-link-box a:hover { background: var(--accent); color: var(--bg); }
 
 /* ── FOOTER ──────────────────────────────────────────────────── */
+/*
+   El pie de página es minimalista intencionalmente: solo el logo
+   pequeño y el aviso legal de que los resúmenes son generados por IA.
+   El espacio en blanco alrededor es el diseño: no queremos competir
+   con el contenido principal, solo cerrar la página con elegancia.
+*/
 .site-footer {
   background: var(--bg-2);
   border-top: 1px solid var(--border);
@@ -932,7 +1121,25 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
    RESPONSIVE — TABLET (≤ 768 px)
    Solo se añaden reglas nuevas; ningún estilo de escritorio
    es modificado. Todos los cambios van dentro de @media.
-   ══════════════════════════════════════════════════════════════ */
+   ══════════════════════════════════════════════════════════════
+
+   Aquí hacemos los ajustes para que el sitio sea cómodo en
+   tableta y móvil. La filosofía es desktop-first: diseñamos para
+   pantalla grande y SOLO corregimos lo que no funciona en pequeña.
+
+   Los cambios más importantes en tablet (≤ 768px):
+   - El header se reduce de 64 a 56px para ganar espacio vertical.
+   - La navegación de categorías del header desaparece (las pills
+     de la filter-strip ya las tienen, no hace falta duplicarlas).
+   - El grid de noticias pasa de multi-columna a una sola columna.
+   - La filter-strip se actualiza a top: 56px para seguir pegada
+     justo debajo del header ahora más corto.
+
+   En móvil pequeño (≤ 480px) afinamos aún más: paddings internos
+   de las cards más ajustados, títulos del hero y del artículo más
+   pequeños para aprovechar cada píxel, y los números del hero
+   reducidos para que quepan en una sola línea cómodamente.
+*/
 @media (max-width: 768px) {
 
   /* ── HEADER ─────────────────────────────────────────────── */

@@ -55,7 +55,7 @@ def load_config() -> dict:
             return json.load(f)
     # Valores por defecto cuando no hay config.json
     return {
-        "site_url":  "https://tu-usuario.github.io/tu-repo",
+        "site_url":  "https://RafaBC-dev.github.io/WebTechAI",
         "site_name": "TechPulse ES",
         "site_desc": "Tecnología, robótica e IA explicada en español"
     }

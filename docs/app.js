@@ -26,7 +26,7 @@
  *   4. Lo guarda en localStorage para la próxima visita.
  */
 function toggleTheme() {
-  const cur  = document.documentElement.getAttribute('data-theme');
+  const cur = document.documentElement.getAttribute('data-theme');
   const next = cur === 'dark' ? 'light' : 'dark';
   document.documentElement.setAttribute('data-theme', next);
   localStorage.setItem('theme', next);
@@ -43,9 +43,9 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
  * La clase CSS controla el color del badge y la tarjeta en el frontend.
  */
 const CAT_CLASS = {
-  'ia':        'cat-ia',
-  'robotica':  'cat-robotica',
-  'linux':     'cat-linux',
+  'ia': 'cat-ia',
+  'robotica': 'cat-robotica',
+  'linux': 'cat-linux',
   'embebidos': 'cat-embebidos',
   'diseño-3d': 'cat-diseno-3d',
   'diseno-3d': 'cat-diseno-3d',  // variante sin tilde (por si viene del JSON sin acento)
@@ -123,18 +123,27 @@ isDetailPage ? initDetailPage() : initIndexPage();
    Muestra la cuadrícula de tarjetas con filtros, búsqueda y paginación.
    ══════════════════════════════════════════════════════════════════════════════ */
 function initIndexPage() {
+  // Restaurar posición de scroll al volver de un artículo
+  const savedPos = sessionStorage.getItem('scrollPos');
+  if (savedPos) {
+    // Esperamos a que las tarjetas carguen antes de hacer scroll
+    setTimeout(() => {
+      window.scrollTo(0, parseInt(savedPos));
+      sessionStorage.removeItem('scrollPos');
+    }, 300);
+  }
   // Estado de la interfaz: todos los datos y qué filtros están activos
-  let allNews        = [];      // array completo de artículos del index.json
+  let allNews = [];             // array completo de artículos del index.json
   let activeCategory = 'Todas'; // categoría seleccionada en el filtro
-  let searchQuery    = '';      // texto que el usuario ha escrito en el buscador
-  let visibleCount   = 12;      // cuántas tarjetas mostramos actualmente
-  const PAGE_SIZE    = 12;      // cuántas tarjetas cargar por cada "Ver más"
+  let searchQuery = '';         // texto que el usuario ha escrito en el buscador
+  let visibleCount = 12;        // cuántas tarjetas mostramos actualmente
+  const PAGE_SIZE = 12;         // cuántas tarjetas cargar por cada "Ver más"
 
   // Referencias a los elementos del buscador (pueden no existir en algunas páginas)
   const searchToggle = document.getElementById('search-toggle');
-  const searchBar    = document.getElementById('search-bar');
-  const searchInput  = document.getElementById('search-input');
-  const searchClose  = document.getElementById('search-close');
+  const searchBar = document.getElementById('search-bar');
+  const searchInput = document.getElementById('search-input');
+  const searchClose = document.getElementById('search-close');
 
   // Mostrar/ocultar la barra de búsqueda al pulsar el icono de lupa
   searchToggle?.addEventListener('click', () => {
@@ -316,7 +325,7 @@ function initIndexPage() {
     if (searchQuery) {
       filtered = filtered.filter(n => {
         // Concatenamos los campos buscables en un único string en minúsculas
-        const hay = `${n.title} ${n.category} ${(n.tags||[]).join(' ')} ${n.preview||''}`.toLowerCase();
+        const hay = `${n.title} ${n.category} ${(n.tags || []).join(' ')} ${n.preview || ''}`.toLowerCase();
         return hay.includes(searchQuery);
       });
     }
@@ -333,9 +342,9 @@ function initIndexPage() {
    * @param {Array} items - Lista de artículos filtrados a mostrar
    */
   function renderCards(items) {
-    const grid     = document.getElementById('news-grid');
+    const grid = document.getElementById('news-grid');
     const loadWrap = document.getElementById('load-more-wrap');
-    const emptyEl  = document.getElementById('empty-state');
+    const emptyEl = document.getElementById('empty-state');
 
     if (items.length === 0) {
       // Sin resultados: mostramos el estado vacío y ocultamos todo lo demás
@@ -366,14 +375,14 @@ function initIndexPage() {
    * @returns {string} HTML de la tarjeta como string
    */
   function cardHTML(news) {
-    const cc   = catClass(news.category);
+    const cc = catClass(news.category);
     // Limitamos a 3 tags para no sobrecargar visualmente la tarjeta
     const tags = (news.tags || []).slice(0, 3).map(t => `<span class="tag">${esc(t)}</span>`).join('');
     const hasCmd = news.has_command ? `<span class="tag tag-code">⌨ código</span>` : '';
     // encodeURIComponent asegura que la ruta del archivo sea válida como query parameter de URL
     const href = `detail.html?file=${encodeURIComponent(news.file_path || '')}`;
     return `
-    <a class="news-card ${cc}" href="${href}">
+    <a class="news-card ${cc}" href="${href}" onclick="sessionStorage.setItem('scrollPos', window.scrollY)">
       <div class="card-top">
         <span class="cat-badge ${cc}">${esc(news.category)}</span>
         <span class="card-date">${formatDate(news.date)}</span>
@@ -399,8 +408,8 @@ function initIndexPage() {
    */
   window.resetFilters = function () {
     activeCategory = 'Todas';
-    searchQuery    = '';
-    visibleCount   = PAGE_SIZE;
+    searchQuery = '';
+    visibleCount = PAGE_SIZE;
     if (searchInput) searchInput.value = '';
     syncPills('Todas');
     document.querySelectorAll('.nav-link').forEach(a =>
@@ -420,8 +429,8 @@ function initIndexPage() {
    ══════════════════════════════════════════════════════════════════════════════ */
 function initDetailPage() {
   // Leemos el parámetro "file" de la URL: detail.html?file=content/ia/articulo.md
-  const params    = new URLSearchParams(location.search);
-  const filePath  = params.get('file') || '';
+  const params = new URLSearchParams(location.search);
+  const filePath = params.get('file') || '';
   const container = document.getElementById('article-container');
 
   if (!filePath) {
@@ -435,16 +444,16 @@ function initDetailPage() {
     fetch(filePath).then(r => { if (!r.ok) throw new Error('No se pudo cargar'); return r.text(); }),
     fetch('index.json').then(r => r.ok ? r.json() : [])
   ])
-  .then(([md, allNews]) => {
-    const article = parseMarkdown(md);   // parseamos el Markdown a un objeto estructurado
-    renderArticle(article, container);   // renderizamos el HTML del artículo
-    renderRelated(article, allNews, filePath); // renderizamos artículos relacionados
-    document.title = `${article.title} — TechPulse ES`; // actualizamos el título de la pestaña
-    updateMetaTags(article);             // actualizamos las meta tags para compartir en redes
-  })
-  .catch(err => {
-    container.innerHTML = `<p style="color:#f87171">⚠ ${err.message}</p>`;
-  });
+    .then(([md, allNews]) => {
+      const article = parseMarkdown(md);   // parseamos el Markdown a un objeto estructurado
+      renderArticle(article, container);   // renderizamos el HTML del artículo
+      renderRelated(article, allNews, filePath); // renderizamos artículos relacionados
+      document.title = `${article.title} — TechPulse ES`; // actualizamos el título de la pestaña
+      updateMetaTags(article);             // actualizamos las meta tags para compartir en redes
+    })
+    .catch(err => {
+      container.innerHTML = `<p style="color:#f87171">⚠ ${err.message}</p>`;
+    });
 }
 
 /**
@@ -475,27 +484,27 @@ function parseMarkdown(md) {
     return m ? m[1].trim() : '';
   };
 
-  const titleM     = md.match(/^#\s+(.+)$/m);
+  const titleM = md.match(/^#\s+(.+)$/m);
   const consejoRaw = section('Consejo técnico');
   // Extraemos el bloque de código del consejo si existe (entre ``` ... ```)
-  const comandoM   = consejoRaw.match(/```(?:bash)?\s*([\s\S]+?)```/);
+  const comandoM = consejoRaw.match(/```(?:bash)?\s*([\s\S]+?)```/);
   // Extraemos URL y texto del enlace "**Fuente original:** [texto](url)"
-  const fuenteM    = md.match(/\*\*Fuente original:\*\*\s*\[([^\]]+)\]\(([^)]+)\)/);
+  const fuenteM = md.match(/\*\*Fuente original:\*\*\s*\[([^\]]+)\]\(([^)]+)\)/);
 
   return {
-    title:           titleM ? titleM[1].trim() : 'Sin título',
-    category:        get('Categoría'),
-    date:            get('Fecha'),
-    tagsRaw:         get('Tags'),
-    original:        get('Título original'),
-    intro:           section('Introducción'),
-    que_es:          section('¿Qué es\\?'),          // el \? escapa el ? en la regex
-    como_funciona:   section('¿Cómo funciona\\?'),
+    title: titleM ? titleM[1].trim() : 'Sin título',
+    category: get('Categoría'),
+    date: get('Fecha'),
+    tagsRaw: get('Tags'),
+    original: get('Título original'),
+    intro: section('Introducción'),
+    que_es: section('¿Qué es\\?'),          // el \? escapa el ? en la regex
+    como_funciona: section('¿Cómo funciona\\?'),
     por_que_importa: section('¿Por qué importa\\?'),
-    consejo:         consejoRaw.replace(/```[\s\S]*?```/g, '').trim(), // sin el bloque de código
-    comando:         comandoM ? comandoM[1].trim() : '',
-    fuenteUrl:       fuenteM ? fuenteM[2] : '',
-    fuenteText:      fuenteM ? fuenteM[1] : '',
+    consejo: consejoRaw.replace(/```[\s\S]*?```/g, '').trim(), // sin el bloque de código
+    comando: comandoM ? comandoM[1].trim() : '',
+    fuenteUrl: fuenteM ? fuenteM[2] : '',
+    fuenteText: fuenteM ? fuenteM[1] : '',
   };
 }
 
@@ -511,7 +520,7 @@ function parseMarkdown(md) {
  * @param {Element} container - Elemento DOM donde insertar el artículo
  */
 function renderArticle(a, container) {
-  const cc   = catClass(a.category);
+  const cc = catClass(a.category);
   // Convertimos los tags separados por coma en spans individuales
   const tags = a.tagsRaw
     ? a.tagsRaw.split(',').map(t => `<span class="tag">${esc(t.trim())}</span>`).join('')
@@ -522,8 +531,8 @@ function renderArticle(a, container) {
     : '';
   // Filtramos las secciones vacías para no mostrar bloques sin contenido
   const sections = [
-    { label: '¿Qué es?',          content: a.que_es },
-    { label: '¿Cómo funciona?',   content: a.como_funciona },
+    { label: '¿Qué es?', content: a.que_es },
+    { label: '¿Cómo funciona?', content: a.como_funciona },
     { label: '¿Por qué importa?', content: a.por_que_importa },
   ].filter(s => s.content);
 
@@ -612,15 +621,15 @@ function renderRelated(current, allNews, currentFilePath) {
       <div class="section-label" style="margin-bottom:16px">Artículos relacionados</div>
       <div class="related-grid">
         ${related.map(n => {
-          const cc   = catClass(n.category);
-          const href = `detail.html?file=${encodeURIComponent(n.file_path || '')}`;
-          return `
+    const cc = catClass(n.category);
+    const href = `detail.html?file=${encodeURIComponent(n.file_path || '')}`;
+    return `
           <a class="related-card ${cc}" href="${href}">
             <span class="cat-badge ${cc}" style="margin-bottom:10px">${esc(n.category)}</span>
             <p class="related-title">${esc(n.title)}</p>
             <span class="read-link" style="font-size:.65rem;margin-top:8px">Leer →</span>
           </a>`;
-        }).join('')}
+  }).join('')}
       </div>
     </div>`;
 }
@@ -648,7 +657,7 @@ function updateMetaTags(article) {
    * @param {boolean} prop    - true para usar property= (Open Graph), false para name=
    */
   const setMeta = (name, content, prop = false) => {
-    const sel  = prop ? `meta[property="${name}"]` : `meta[name="${name}"]`;
+    const sel = prop ? `meta[property="${name}"]` : `meta[name="${name}"]`;
     let el = document.querySelector(sel);
     if (!el) {
       // Si no existe la meta tag, la creamos y la añadimos al <head>
@@ -662,11 +671,11 @@ function updateMetaTags(article) {
   // Meta tag estándar para buscadores (máx. ~160 chars recomendado por Google)
   setMeta('description', article.intro?.slice(0, 160) || article.title);
   // Open Graph: usado por Facebook, LinkedIn, WhatsApp, Telegram...
-  setMeta('og:title',       article.title, true);
+  setMeta('og:title', article.title, true);
   setMeta('og:description', article.intro?.slice(0, 200) || '', true);
-  setMeta('og:type',        'article', true);
+  setMeta('og:type', 'article', true);
   // Twitter Card: usado por Twitter/X
-  setMeta('twitter:card',        'summary');
-  setMeta('twitter:title',       article.title);
+  setMeta('twitter:card', 'summary');
+  setMeta('twitter:title', article.title);
   setMeta('twitter:description', article.intro?.slice(0, 200) || '');
 }

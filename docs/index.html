@@ -1,94 +1,200 @@
 <!DOCTYPE html>
 <html lang="es" data-theme="dark">
+
 <head>
+  <!-- ═══ HEAD — METADATOS Y RECURSOS ═══════════════════════════
+       Todo lo que cargamos aquí es invisible para el usuario pero
+       crítico para que la página funcione bien.
+
+       - charset UTF-8: necesario para que los caracteres especiales
+         (tildes, ñ, emojis) se muestren correctamente.
+       - viewport: hace que en móvil la página no se muestre como
+         una versión miniaturizada de escritorio. Es la instrucción
+         número uno del diseño responsive.
+       - Google Fonts preconnect: abre la conexión con los servidores
+         de Google antes de que el navegador necesite las fuentes,
+         reduciendo el tiempo de carga.
+       - Las tres familias tipográficas cargadas son exactamente
+         las que definimos en styles.css como tokens: Plus Jakarta
+         Sans (display), Inter (body) y JetBrains Mono (técnico).
+       - Las meta og: y twitter:card permiten que al compartir este
+         sitio en redes sociales aparezca una tarjeta enriquecida
+         en lugar de solo un enlace de texto.
+       - feed.xml: publicamos un feed RSS alternativo para que los
+         usuarios más técnicos puedan suscribirse con su lector RSS.
+  ════════════════════════════════════════════════════════════════ -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TechPulse ES — Tecnología explicada en español</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;600&display=swap"
+    rel="stylesheet">
   <meta property="og:title" content="TechPulse ES — Tecnología explicada en español">
-  <meta property="og:description" content="Resúmenes en español de las mejores noticias de tecnología, robótica, Linux e IA.">
+  <meta property="og:description"
+    content="Resúmenes en español de las mejores noticias de tecnología, robótica, Linux e IA.">
   <meta property="og:type" content="website">
   <meta name="twitter:card" content="summary">
   <link rel="alternate" type="application/rss+xml" title="TechPulse ES" href="feed.xml">
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
-<!-- ═══ HEADER ═══════════════════════════════════════════════ -->
-<header class="site-header">
-  <div class="container header-inner">
-    <a href="index.html" class="logo">
-      <span class="logo-mark">⬡</span>
-      <span class="logo-text">TechPulse<em>ES</em></span>
-    </a>
-    <nav class="header-nav" id="main-nav">
-      <a href="#" class="nav-link active" data-cat="Todas">Todas</a>
-      <!-- más links se generan dinámicamente -->
-    </nav>
-    <div class="header-actions">
-      <button class="icon-btn" id="search-toggle" aria-label="Buscar" title="Buscar">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-      </button>
-      <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema" title="Cambiar tema">
-        <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
-        <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-      </button>
+  <!-- ═══ HEADER ═══════════════════════════════════════════════════
+     La barra de navegación fija. Se mantiene pegada arriba mientras
+     el usuario hace scroll gracias a position: sticky en el CSS.
+
+     Contiene tres zonas horizontales:
+       1. LOGO (izquierda): el icono ⬡ + "TechPulse" + "ES" en cian.
+          Hace de enlace a la portada y da identidad visual inmediata.
+       2. NAV (centro): los enlaces de categoría generados por app.js.
+          En móvil esta sección se oculta; las categorías viven en la
+          filter-strip debajo del hero.
+       3. ACCIONES (derecha): botón de búsqueda + botón de tema.
+          - search-toggle: muestra/oculta la barra de búsqueda.
+          - theme-toggle: alterna entre tema oscuro y claro.
+            Los dos SVG (sol y luna) se alternan via CSS puro según
+            el data-theme del <html>, sin una sola línea extra de JS.
+
+     La barra de búsqueda (.search-bar) vive DENTRO del header pero
+     está colapsada por defecto (max-height: 0). Al pulsar la lupa,
+     app.js le añade la clase .open y el CSS la despliega suavemente.
+════════════════════════════════════════════════════════════════ -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TechPulse<em>ES</em></span>
+      </a>
+      <nav class="header-nav" id="main-nav">
+        <a href="#" class="nav-link active" data-cat="Todas">Todas</a>
+        <!-- más links se generan dinámicamente -->
+      </nav>
+      <div class="header-actions">
+        <button class="icon-btn" id="search-toggle" aria-label="Buscar" title="Buscar">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8" />
+            <path d="m21 21-4.35-4.35" />
+          </svg>
+        </button>
+        <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema" title="Cambiar tema">
+          <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <circle cx="12" cy="12" r="5" />
+            <path
+              d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" />
+          </svg>
+          <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+          </svg>
+        </button>
+      </div>
     </div>
-  </div>
-  <!-- Search bar (colapsable) -->
-  <div class="search-bar" id="search-bar">
+    <!-- Barra de búsqueda colapsable.
+       Está aquí dentro del header para que al abrirse empuje el
+       contenido hacia abajo sin romper el layout sticky. -->
+    <div class="search-bar" id="search-bar">
+      <div class="container">
+        <input type="text" id="search-input" placeholder="Buscar por título, tag o categoría…" autocomplete="off">
+        <button class="search-close" id="search-close">✕</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ═══ HERO / STATS ═════════════════════════════════════════════
+     La sección de bienvenida. Es lo primero que ve el usuario y
+     tiene dos objetivos: comunicar de qué trata el sitio en 3
+     segundos, y mostrar las estadísticas en tiempo real.
+
+     El <h1> es el único de la página (buenas prácticas SEO).
+     La <em> dentro del texto ("sin perderte nada") aparece en cian
+     e itálica: contraste de color + contraste de peso tipográfico.
+
+     Las tres estadísticas (Artículos, Categorías, Último artículo)
+     empiezan con "—" y app.js las rellena con valores reales al
+     cargar el índice JSON. Así el HTML es válido desde el primer
+     render aunque el JS tarde un momento en ejecutarse.
+════════════════════════════════════════════════════════════════ -->
+  <section class="hero">
     <div class="container">
-      <input type="text" id="search-input" placeholder="Buscar por título, tag o categoría…" autocomplete="off">
-      <button class="search-close" id="search-close">✕</button>
+      <p class="hero-label">Tecnología, robótica e IA · Resumido y explicado en español</p>
+      <h1 class="hero-title">Entiende la tecnología<br><em>sin perderte nada</em></h1>
+      <div class="stats-row">
+        <div class="stat"><span id="stat-total">—</span><small>Artículos</small></div>
+        <div class="stat-sep"></div>
+        <div class="stat"><span id="stat-cats">—</span><small>Categorías</small></div>
+        <div class="stat-sep"></div>
+        <div class="stat"><span id="stat-date">—</span><small>Último artículo</small></div>
+      </div>
     </div>
-  </div>
-</header>
+  </section>
 
-<!-- ═══ HERO / STATS ══════════════════════════════════════════ -->
-<section class="hero">
-  <div class="container">
-    <p class="hero-label">Tecnología, robótica e IA · Resumido y explicado en español</p>
-    <h1 class="hero-title">Entiende la tecnología<br><em>sin perderte nada</em></h1>
-    <div class="stats-row">
-      <div class="stat"><span id="stat-total">—</span><small>Artículos</small></div>
-      <div class="stat-sep"></div>
-      <div class="stat"><span id="stat-cats">—</span><small>Categorías</small></div>
-      <div class="stat-sep"></div>
-      <div class="stat"><span id="stat-date">—</span><small>Último artículo</small></div>
+  <!-- ═══ GRID DE NOTICIAS ══════════════════════════════════════════
+     El corazón de la página principal.
+
+     El <main> usa la clase .main-content para el espaciado vertical
+     y .container para el carril centrado de 1240px máximo.
+
+     Dentro viven tres estados que app.js alterna según la situación:
+
+     1. LOADING STATE: spinner giratorio + texto "Cargando noticias…"
+        Visible desde el primer renderizado hasta que el JSON cargue.
+        El spinner está en HTML puro (div + animación CSS), sin librerías.
+
+     2. NEWS GRID (#news-grid): el grid de tarjetas generado por JS.
+        app.js lee el índice JSON, crea los <a class="news-card"> con
+        toda su estructura y los inyecta aquí. Cuando el usuario filtra
+        o busca, app.js simplemente muestra/oculta las cards.
+
+     3. LOAD MORE: botón "Cargar más artículos" que aparece si hay
+        más artículos que el límite de la página inicial. Permite ver
+        más sin recargar la página.
+
+     4. EMPTY STATE: mensaje de "No se encontraron artículos" con un
+        botón para limpiar los filtros, por si el usuario busca algo
+        que no existe en el índice.
+════════════════════════════════════════════════════════════════ -->
+  <main class="container main-content">
+    <div class="news-grid" id="news-grid">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>Cargando noticias…</p>
+      </div>
     </div>
-  </div>
-</section>
 
-<!-- ═══ GRID ══════════════════════════════════════════════════ -->
-<main class="container main-content">
-  <div class="news-grid" id="news-grid">
-    <div class="loading-state">
-      <div class="spinner"></div>
-      <p>Cargando noticias…</p>
+    <!-- Load more: se muestra solo cuando hay más artículos que cargar -->
+    <div class="load-more-wrap" id="load-more-wrap" style="display:none">
+      <button class="load-more-btn" id="load-more-btn">Cargar más artículos</button>
     </div>
-  </div>
 
-  <!-- Load more -->
-  <div class="load-more-wrap" id="load-more-wrap" style="display:none">
-    <button class="load-more-btn" id="load-more-btn">Cargar más artículos</button>
-  </div>
+    <!-- Empty state: se muestra cuando la búsqueda/filtro no da resultados -->
+    <div class="empty-state" id="empty-state" style="display:none">
+      <p>No se encontraron artículos con esos filtros.</p>
+      <button onclick="resetFilters()">Limpiar filtros</button>
+    </div>
+  </main>
 
-  <!-- Empty state -->
-  <div class="empty-state" id="empty-state" style="display:none">
-    <p>No se encontraron artículos con esos filtros.</p>
-    <button onclick="resetFilters()">Limpiar filtros</button>
-  </div>
-</main>
+  <!-- ═══ FOOTER ════════════════════════════════════════════════════
+     Pie de página minimalista: solo el logo pequeño y el aviso
+     de que el contenido es generado por IA. Nada más. La austeridad
+     aquí es deliberada: no queremos distraer al usuario cuando está
+     terminando de leer, sino dejar que termine en calma.
+════════════════════════════════════════════════════════════════ -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span class="logo-text small">TechPulse<em>ES</em></span>
+      <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas · Hecho por <a
+          href="https://github.com/RafaBC-dev" target="_blank" style="color:var(--accent)">RafaBC-dev</a></p>
+    </div>
+  </footer>
 
-<!-- ═══ FOOTER ════════════════════════════════════════════════ -->
-<footer class="site-footer">
-  <div class="container footer-inner">
-    <span class="logo-text small">TechPulse<em>ES</em></span>
-    <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas</p>
-  </div>
-</footer>
-
-<script src="app.js"></script>
+  <!-- app.js cargado al final del body (no en el head) para que el
+     HTML ya esté parseado cuando el JS empiece a ejecutarse. Así se
+     evitan los errores de "elemento no encontrado" y la página se
+     renderiza visualmente antes de que el JS haga nada. -->
+  <script src="app.js"></script>
 </body>
+
 </html>
