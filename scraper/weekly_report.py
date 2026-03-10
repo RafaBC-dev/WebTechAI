@@ -26,7 +26,8 @@ import feedparser
 import requests
 from pathlib import Path
 from dotenv import load_dotenv
-from groq import Groq
+from google import genai
+from google.genai import types
 from bs4 import BeautifulSoup
 
 # ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
@@ -35,10 +36,10 @@ from bs4 import BeautifulSoup
 BASE_DIR    = Path(__file__).resolve().parent.parent
 REPORTS_DIR = BASE_DIR / "docs" / "reports"
 
-# Modelo Groq (igual que brain.py)
-MODEL = "llama-3.1-8b-instant"
+# Modelo Gemini. gemini-2.5-pro tiene 1M de contexto y muy alta calidad.
+GEMINI_MODEL = "gemini-2.5-pro"
 
-# Carga GROQ_API_KEY desde .env
+# Carga GEMINI_API_KEY desde .env
 load_dotenv()
 
 # UTF-8 en consola Windows
@@ -76,7 +77,6 @@ REPORTS = {
         "feeds": [
             "https://simonwillison.net/atom/everything/",
             "https://github.blog/feed/",
-            "https://www.cursor.com/blog/changelog.xml",
             "https://code.visualstudio.com/feed.xml",
         ],
         # Solo procesar entradas que mencionen estas herramientas/conceptos
@@ -413,38 +413,35 @@ NORMAS:
 
     for intento in range(3):
         try:
-            response = client.chat.completions.create(
-                model=MODEL,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.35,
-                max_tokens=2200,
+            client = _gemini_client()
+            response = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.35,
+                    max_output_tokens=2200,
+                ),
             )
-            return response.choices[0].message.content.strip()
+            return response.text.strip()
 
         except Exception as e:
             msg = str(e)
-            if "429" in msg or "rate" in msg.lower():
+            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
                 if intento < 2:
                     print(f"  ⏳ Rate limit. Esperando 30s...")
                     time.sleep(30)
                     continue
                 return "⚠️ No se pudo generar el informe por rate limit."
-            print(f"  ✗ Error Groq: {e}")
+            print(f"  ✗ Error Gemini: {e}")
             raise
 
     return "⚠️ No se pudo generar el informe."
 
-
 def generate_report(tema: str, raw_text: str) -> str:
     """
     Genera informe markdown estándar para las secciones no-benchmark.
-    Devuelve el texto markdown generado por Groq.
+    Devuelve el texto markdown generado por Gemini.
     """
-    key = os.getenv("GROQ_API_KEY")
-    if not key:
-        raise ValueError("Falta GROQ_API_KEY en el .env")
-    client = Groq(api_key=key)
-
     prompt = f"""Eres un experto en {tema}.
 
 Basándote en la siguiente información reciente obtenida de feeds y fuentes especializadas,
@@ -476,23 +473,26 @@ Escribe en español neutro y directo. No uses frases genéricas. Sé concreto.""
 
     for intento in range(3):
         try:
-            response = client.chat.completions.create(
-                model=MODEL,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.4,
-                max_tokens=2000,
+            client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+            response = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.4,
+                    max_output_tokens=2000,
+                ),
             )
-            return response.choices[0].message.content.strip()
+            return response.text.strip()
 
         except Exception as e:
             msg = str(e)
-            if "429" in msg or "rate" in msg.lower():
+            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
                 if intento < 2:
                     print(f"  ⏳ Rate limit. Esperando 30s...")
                     time.sleep(30)
                     continue
                 return "⚠️ No se pudo generar el informe por rate limit."
-            print(f"  ✗ Error Groq: {e}")
+            print(f"  ✗ Error Gemini: {e}")
             raise
 
     return "⚠️ No se pudo generar el informe."
@@ -517,69 +517,85 @@ def generate_benchmark_report(raw_text: str) -> dict:
     import json as _json
     from datetime import datetime
 
-    key = os.getenv("GROQ_API_KEY")
-    if not key:
-        raise ValueError("Falta GROQ_API_KEY en el .env")
-    client = Groq(api_key=key)
-
     semana_str = datetime.now().strftime("%d %b %Y").lstrip("0")
 
-    prompt = f"""Eres un analista experto en benchmarks y comparativas de modelos de IA.
+    prompt = f"""Eres un analista experto en benchmarks de LLMs. Tu trabajo es producir
+análisis concretos y accionables, NO artículos genéricos.
 
-Analiza la siguiente información reciente de fuentes especializadas y genera un informe
-completo sobre el estado actual de los modelos de IA esta semana.
-
-INFORMACIÓN RECIENTE:
+INFORMACIÓN RECIENTE DE FUENTES ESPECIALIZADAS:
 {raw_text[:5000]}
 
-Responde ÚNICAMENTE con JSON válido, sin bloques markdown, sin texto adicional.
-El JSON debe tener este formato exacto:
+Responde ÚNICAMENTE con JSON válido (sin bloques markdown, sin texto fuera del JSON).
+Formato exacto:
 {{
-  "informe": "## Estado actual\n(3-5 frases sobre el panorama actual de modelos de IA)\n\n## Novedades esta semana\n(lista de 3-5 novedades concretas de los feeds, con nombres reales)\n\n## Análisis de rendimiento\n(análisis de velocidad, precio y calidad de los modelos mencionados)\n\n## Recursos útiles\n(lista de 2-4 enlaces concretos de las fuentes scrapeadas)",
-  "modelos": [
-    {{
-      "nombre": "Nombre del modelo (ej: GPT-4o, Claude 3.5, Gemini 1.5 Pro)",
-      "puntuacion": 85,
-      "velocidad": "alta",
-      "precio": "medio",
-      "contexto": "128k",
-      "destacado": false,
-      "novedad": false
-    }}
-  ],
+  "informe": "<TEXTO MARKDOWN AQUÍ>",
+  "modelos": [ {{ "nombre": "...", "puntuacion": 85, "velocidad": "alta", "precio": "medio", "contexto": "128k", "destacado": false, "novedad": false }} ],
   "semana": "{semana_str}"
 }}
 
-REGLAS PARA modelos[]:
-- Incluye SOLO modelos mencionados explícitamente en el texto scrapeado
-- puntuacion: número 0-100 basado en resultados de benchmarks mencionados
-- velocidad: exactamente "alta", "media" o "baja"
-- precio: exactamente "bajo", "medio" o "alto"
-- contexto: tamaño de ventana de contexto (ej: "8k", "128k", "200k") o "desconocido"
-- destacado: true solo para el modelo con mejor rendimiento overall esta semana
-- novedad: true solo si fue lanzado o actualizado en los últimos 7 días
-- Incluye entre 3 y 8 modelos. Si no hay suficientes datos, incluye solo los que tengas
-- Si no hay datos de benchmarks en el texto, devuelve modelos: []
+EXIGENCIAS PARA el campo "informe" (OBLIGATORIAS, mínimo 400 palabras):
 
-REGLAS PARA informe:
-- Escribe en español neutro, concreto y útil para desarrolladores
-- Menciona nombres reales de modelos y benchmarks de las fuentes
-- No inventes datos que no estén en el texto scrapeado"""
+1. MENCIONA MODELOS ESPECÍFICOS: nombra cada modelo con su puntuación concreta
+   (ej: "GPT-4o alcanza 87/100 en MMLU", "Claude 3.5 Sonnet: 85/100").
+   No escribas solo "los modelos principales" sin nombres.
+
+2. COMPARA VELOCIDAD Y PRECIO CON DATOS:
+   Menciona tokens/segundo reales si los tienes, o al menos rangos de precio
+   (ej: "GPT-4o: ~$5/M tokens input", "Gemini Flash: <$1/M tokens").
+   No escribas "algunos son más rápidos" sin especificar cuáles ni cuánto.
+
+3. RECOMENDACIONES POR CASO DE USO (sección obligatoria):
+   Incluye párrafos concretos como:
+   - "Para programación y debugging: usa [modelo] porque su ventana de
+     contexto de [X]k tokens permite analizar proyectos completos y 
+     su puntuación en HumanEval es [Y]."
+   - "Para análisis de documentos largos: usa [modelo] porque..."
+   - "Para uso local sin coste: usa [modelo] porque..."
+   - "Para velocidad máxima en producción: usa [modelo] porque..."
+
+4. MODELOS NUEVOS ESTA SEMANA: si alguno es novedad (novedad:true),
+   dédica un párrafo explicando qué aporta respecto a los anteriores.
+
+5. SECCIÓN OBLIGATORIA ## Recomendación de la semana:
+   Un párrafo claro y directo: "Esta semana recomiendo [modelo] para [perfil]
+   porque [razón concreta con datos]". Sin ambigüedades.
+
+6. PROHIBIDO (será penalizado):
+   - Frases sin datos: "el panorama evoluciona rápidamente", "la competencia
+     es intensa", "hay avances significativos", "es un área en crecimiento"
+   - Generalidades sin nombres: "los modelos de vanguardia", "las principales
+     soluciones", "los líderes del mercado"
+   - Cualquier conclusión no respaldada por datos del texto scrapeado
+
+ESTRUCTURA EXACTA del campo "informe" (markdown dentro del JSON, usa \\n para saltos):
+"## Estado actual\\n[3-4 frases con nombres y cifras reales]\\n\\n## Comparativa de modelos esta semana\\n[análisis modelo a modelo]\\n\\n## Mejor opción según tu caso de uso\\n[recomendaciones por perfil]\\n\\n## Novedades destacadas\\n[modelos nuevos; si no hay, una frase]\\n\\n## Recomendación de la semana\\n[el modelo a usar AHORA con justificación]\\n\\n## Recursos\\n[2-3 enlaces]"
+
+REGLAS PARA modelos[]:
+- Solo modelos mencionados explícitamente en el texto scrapeado
+- puntuacion: 0-100 basado en benchmarks reales
+- velocidad: exactamente \"alta\", \"media\" o \"baja\"
+- precio: exactamente \"bajo\", \"medio\" o \"alto\"
+- contexto: ventana real (\"8k\", \"128k\", \"200k\") o \"desconocido\"
+- destacado: true solo para el modelo con mejor rendimiento overall
+- novedad: true solo si fue lanzado o actualizado en los últimos 7 días
+- Entre 3 y 8 modelos"""
 
     for intento in range(3):
         try:
-            response = client.chat.completions.create(
-                model=MODEL,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.3,
-                max_tokens=2500,
+            client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+            response = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    temperature=0.3,
+                    max_output_tokens=3000,
+                ),
             )
-            raw = response.choices[0].message.content.strip()
+            raw = response.text.strip()
             # Limpiar bloques ```json si los hay
             raw = re.sub(r'^```(?:json)?\s*', '', raw)
             raw = re.sub(r'\s*```$', '', raw)
             result = _json.loads(raw)
-            # Garantías mínimas de estructura
             result.setdefault("informe", "")
             result.setdefault("modelos", [])
             result.setdefault("semana", semana_str)
@@ -597,13 +613,14 @@ REGLAS PARA informe:
 
         except Exception as e:
             msg = str(e)
-            if "429" in msg or "rate" in msg.lower():
+            print(f"  [DEBUG Gemini exception]: {type(e).__name__} - {msg}")
+            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
                 if intento < 2:
-                    print(f"  ⏳ Rate limit. Esperando 30s...")
+                    print(f"  ⏳ Rate limit. Esperando 65s...")
                     time.sleep(30)
                     continue
                 return {"informe": "⚠️ Rate limit.", "modelos": [], "semana": semana_str}
-            print(f"  ✗ Error Groq: {e}")
+            print(f"  ✗ Error Gemini: {e}")
             raise
 
     return {"informe": "", "modelos": [], "semana": semana_str}
