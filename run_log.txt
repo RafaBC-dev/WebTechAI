@@ -49,3 +49,20 @@
   + Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl
   + Will the Pentagon’s Anthropic controversy scare startups away from defense work?
   + Owner of ICE detention facility sees big opportunity in AI man camps
+
+[2026-03-10 07:35:18] Nuevos: 15
+  + Diagnosing a Mysterious Fault with a Commodore 1541 Disk Drive
+  + The Sweetest Programming Language: MNM
+  + Building a Class 100 Semiconductor Cleanroom Inside a Shed
+  + Makerfabs CM0IQ – An ultra-compact (42x36mm) Raspberry Pi CM0 Lite board
+  + Intel Arrow Lake-S ATX motherboard supports up to 256GB CU-DIMM DDR5 RAM, featur
+  + Nordic Semi unveils nRF54LS05A and nRF54LS05B entry-level, ultra-low-power Bluet
+  + After falling far behind the rest of industry, Blue Origin creates new stock opt
+  + Quad Cortex mini amp modeler: All the power, half the size
+  + Testing Apple's 2026 16-inch MacBook Pro, M5 Max, and its new "performance" core
+  + FreeBSD 14.4 Released For Those Not Yet Ready To Move To FreeBSD 15
+  + There's Hope That At Least Colorado's Age Attestation Bill Could Exclude Open-So
+  + NVIDIA Releases New R595-Derived Vulkan Developer Beta For Linux With New Featur
+  + Yann LeCun’s AMI Labs raises $1.03 billion to build world models
+  + OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit
+  + Anthropic launches code review tool to check flood of AI-generated code

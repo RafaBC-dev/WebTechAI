@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-09</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-10-el-lenguaje-de-programacion-mas-dulce-mnm.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-10-diagnostico-de-un-fallo-misterioso-en-un-lector-de-disc.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-anthropic-lanza-herramienta-de-revision-de-codigo-para-.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-construyendo-un-laboratorio-de-limpieza-para-semiconduc.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-quad-cortex-mini-un-modelador-de-amplificadores-de-guit.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-blue-origin-crea-nuevo-plan-de-opciones-de-acciones-par.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-empleados-de-openai-y-google-defienden-a-anthropic-en-d.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-10-ami-labs-recauda-103-mil-millones-de-dolares-para-desar.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-nvidia-lanza-nuevo-driver-beta-para-linux-con-caracteri.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-freebsd-144-actualizacion-de-freebsd-para-usuarios-reac.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-ley-de-verificacion-de-edad-en-colorado-excluye-softwar.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-10-apple-m5-max-el-nuevo-chip-para-laptops-y-desktops-de-a.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-intel-presenta-una-placa-base-industrial-con-soporte-pa.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-nueva-placa-raspberry-pi-cm0iq-ultra-compacta-y-potente.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-10-nordic-semi-lanza-socs-de-bluetooth-le-ultra-bajo-consu.md</loc><lastmod>2026-03-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-09-camara-de-raspberry-pi-modular-para-experimentar-con-di.md</loc><lastmod>2026-03-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-09-descubren-dinosaurio-minusculo-con-brazos-largos-que-cu.md</loc><lastmod>2026-03-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-09-la-controversia-del-pentagono-y-la-tecnologia-anthropic.md</loc><lastmod>2026-03-09</lastmod><priority>0.8</priority></url>
