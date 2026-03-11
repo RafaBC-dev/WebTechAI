@@ -16,6 +16,8 @@ import re
 import unicodedata
 import requests
 import time
+import json
+from pathlib import Path
 from functools import wraps
 from bs4 import BeautifulSoup
 
@@ -226,42 +228,19 @@ def scrape_full_article(url: str, fallback_text: str = "", timeout: int = 15) ->
 # La clave es el slug de la categoría (coincide con el nombre de la carpeta
 # en docs/content/); el valor es la lista de términos técnicos asociados.
 # Las keywords se comparan en minúsculas contra el texto completo del artículo.
-CATEGORY_KEYWORDS = {
-    "ia": [
-        "ai", "artificial intelligence", "machine learning", "deep learning",
-        "neural network", "llm", "gpt", "gemini", "chatbot", "nlp",
-        "computer vision", "inference", "model", "training", "dataset",
-        "transformer", "diffusion", "generative", "reinforcement learning",
-        "agent", "rag", "fine-tuning", "embedding", "ollama", "hugging face",
-        "benchmark", "claude", "mistral", "llama", "openai", "stable diffusion"
-    ],
-    "robotica": [
-        "robot", "ros", "ros2", "gazebo", "navigation", "slam",
-        "manipulator", "arm", "autonomous", "mobile robot", "drone",
-        "actuator", "servo", "kinematics", "path planning", "lidar",
-        "behavior tree", "humanoid", "legged", "quadruped"
-    ],
-    "linux": [
-        "linux", "kernel", "ubuntu", "debian", "fedora", "arch",
-        "bash", "shell", "systemd", "docker", "container", "podman",
-        "terminal", "cli", "open source", "gnu", "distro", "package",
-        "wayland", "x11", "driver", "filesystem", "python", "programming",
-        "developer", "software", "open-source", "git", "devops"
-    ],
-    "embebidos": [
-        "embedded", "microcontroller", "arduino", "esp32", "stm32",
-        "fpga", "circuit", "sensor", "pcb", "firmware", "rtos",
-        "bare metal", "i2c", "spi", "uart", "gpio", "mcu",
-        "raspberry pi", "micropython", "zephyr", "freertos",
-        "esp8266", "pico", "teensy", "attiny", "iot", "internet of things",
-        "maker", "diy electronics", "breadboard", "soldering"
-    ],
-    "diseño-3d": [
-        "3d print", "3d printing", "cad", "cnc", "stl", "openscad",
-        "fusion 360", "slicer", "filament", "resin", "fdm", "sla",
-        "prusa", "bambu", "ender", "gcode", "mesh", "solidworks"
-    ]
-}
+def load_config() -> dict:
+    config_path = Path(__file__).resolve().parent / "config.json"
+    if not config_path.exists():
+        return {}
+    with open(config_path, encoding="utf-8") as f:
+        return json.load(f)
+
+def get_category_keywords() -> dict:
+    config = load_config()
+    categories = config.get("categories", {})
+    return {k: v.get("keywords", []) for k, v in categories.items()}
+
+CATEGORY_KEYWORDS = get_category_keywords()
 
 # Keywords que indican que el artículo es claramente irrelevante
 # para un sitio de tecnología/programación/makers.

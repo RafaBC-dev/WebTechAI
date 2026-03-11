@@ -156,9 +156,9 @@ def extract_metadata(path: str) -> dict:
 
 # ── INDEX.JSON ───────────────────────────────────────────────────
 
-def build_index(news: list):
+def build_index(news: list, config: dict):
     """
-    Genera docs/index.json con el array de todos los artículos.
+    Genera docs/index.json con el array de todos los artículos y categorías.
 
     Por qué existe:
         El frontend (app.js) necesita un único fichero JSON con todos los
@@ -166,16 +166,21 @@ def build_index(news: list):
         sin necesidad de un servidor backend. index.json actúa como una
         "base de datos" estática consumida directamente por el navegador.
 
-    Contenido: array JSON ordenado por fecha descendente (más reciente primero),
-    donde cada elemento es el diccionario devuelto por extract_metadata().
+    Contenido: objeto JSON {"news": [...], "categories": {...}} , ordenado
+    por fecha descendente.
 
     Args:
         news: lista de diccionarios de metadatos, ya ordenada por fecha
+        config: diccionario general con bloques opcionales adicionales
     """
     OUTPUT_DIR = BASE_DIR / "docs"
+    out_data = {
+        "news": news,
+        "categories": config.get("categories", {})
+    }
     with open(OUTPUT_DIR / "index.json", "w", encoding="utf-8") as f:
         # indent=2 para que sea legible por humanos; ensure_ascii=False para tildes
-        json.dump(news, f, indent=2, ensure_ascii=False)
+        json.dump(out_data, f, indent=2, ensure_ascii=False)
     print(f"✅ index.json   — {len(news)} artículos")
 
 
@@ -350,7 +355,7 @@ def build_all():
     news.sort(key=lambda x: x.get("date", ""), reverse=True)
 
     # Generamos los tres archivos estáticos
-    build_index(news)
+    build_index(news, config)
     build_sitemap(news, site_url)
     build_feed(news, site_url, site_name, site_desc)
 

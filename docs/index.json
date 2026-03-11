@@ -1,1106 +1,1266 @@
-[
-  {
-    "title": "Explorando el océano con robots marinos impulsados por Raspberry Pi",
-    "category": "robotica",
-    "date": "2026-03-11",
-    "slug": "explorando-el-oceano-con-robots-marinos-impulsados-por-",
-    "tags": [
-      "raspberry-pi",
-      "microcontroladores",
-      "software-y-linux"
-    ],
-    "preview": "La exploración del océano es crucial para la investigación marina, pero las condiciones extremas y el alto costo hacen que sea peligroso y difícil para los humanos. Los vehículos autónomos pueden manejar el trabajo, pero hardware asequible…",
-    "has_command": true,
-    "file_path": "content/robotica/2026-03-11-explorando-el-oceano-con-robots-marinos-impulsados-por-.md"
-  },
-  {
-    "title": "Robot perros transportan productos frescos desde el campo",
-    "category": "robotica",
-    "date": "2026-03-11",
-    "slug": "robot-perros-transportan-productos-frescos-desde-el-cam",
-    "tags": [
-      "robotica",
-      "microcontroladores",
-      "software-y-linux"
-    ],
-    "preview": "Los robots perros Lynx M20 de Deep Robotics están ayudando a transportar cosechas frescas desde los campos montañosos. Esto es especialmente relevante en áreas rurales donde la logística de la última milla es un desafío. Los robots perros…",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-11-robot-perros-transportan-productos-frescos-desde-el-cam.md"
-  },
-  {
-    "title": "Mano robótica con músculos artificiales y tendones, inspirada en la naturaleza",
-    "category": "robotica",
-    "date": "2026-03-11",
-    "slug": "mano-robotica-con-musculos-artificiales-y-tendones-insp",
-    "tags": [
-      "ia-local",
-      "herramientas",
-      "robotica"
-    ],
-    "preview": "Los investigadores han creado una mano robótica que imita la complejidad de la mano humana, con músculos artificiales y tendones. Esta innovación podría revolucionar la robótica y la medicina.",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-11-mano-robotica-con-musculos-artificiales-y-tendones-insp.md"
-  },
-  {
-    "title": "ros2_info: Herramienta de información para ROS2 en un solo comando",
-    "category": "robotica",
-    "date": "2026-03-11",
-    "slug": "ros2-info-herramienta-de-informacion-para-ros2-en-un-so",
-    "tags": [
-      "herramientas",
-      "ros2",
-      "linux"
-    ],
-    "preview": "Los desarrolladores de Open Robotics han creado una herramienta llamada ros2_info que permite obtener información detallada sobre el entorno de ROS2 con solo un comando. Esto incluye detalles sobre el distrito de ROS2, nodos, tópicos,…",
-    "has_command": true,
-    "file_path": "content/robotica/2026-03-11-ros2-info-herramienta-de-informacion-para-ros2-en-un-so.md"
-  },
-  {
-    "title": "Drones militares enseñan a los coches autónomos a manejar situaciones imprevistas",
-    "category": "ia",
-    "date": "2026-03-11",
-    "slug": "drones-militares-ensenan-a-los-coches-autonomos-a-manej",
-    "tags": [
-      "ia-local",
-      "herramientas",
-      "python"
-    ],
-    "preview": "Los coches autónomos a veces se estancan ante situaciones comunes para los conductores humanos. Desde zonas de construcción hasta peatones indisciplinados, estos vehículos pueden comportarse de manera impredecible, lo que lleva a…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-11-drones-militares-ensenan-a-los-coches-autonomos-a-manej.md"
-  },
-  {
-    "title": "Debian debate sobre contribuciones generadas por inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-11",
-    "slug": "debian-debate-sobre-contribuciones-generadas-por-inteli",
-    "tags": [
-      "llms",
-      "herramientas",
-      "software"
-    ],
-    "preview": "Debian, un proyecto de software libre, ha estado debatiendo sobre si aceptar contribuciones generadas por inteligencia artificial. El debate comenzó en febrero, después de que un desarrollador propuso una resolución general para discutir…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-11-debian-debate-sobre-contribuciones-generadas-por-inteli.md"
-  },
-  {
-    "title": "AMD expande su serie de SoCs de Edge AI con hasta 12 núcleos Zen 5",
-    "category": "ia",
-    "date": "2026-03-11",
-    "slug": "amd-expande-su-serie-de-socs-de-edge-ai-con-hasta-12-nu",
-    "tags": [
-      "ia-local",
-      "microcontroladores",
-      "software-y-linux"
-    ],
-    "preview": "AMD ha presentado seis nuevos SKUs para su serie de SoCs de Edge AI Ryzen AI Embedded P100, con hasta 12 núcleos Zen 5 y 80 TOPS de rendimiento AI. Estos SoCs están diseñados para aplicaciones de Edge AI en entornos comerciales e…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-11-amd-expande-su-serie-de-socs-de-edge-ai-con-hasta-12-nu.md"
-  },
-  {
-    "title": "Texas Instruments presenta nuevos MCUs con NPU para aplicaciones de IA al borde",
-    "category": "ia",
-    "date": "2026-03-11",
-    "slug": "texas-instruments-presenta-nuevos-mcus-con-npu-para-apl",
-    "tags": [
-      "ia-local",
-      "microcontroladores",
-      "python"
-    ],
-    "preview": "Texas Instruments ha lanzado dos nuevas familias de microcontroladores (MCUs) que integran un procesador neuromórfico unitario (NPU) llamado TinyEngine. Este avance permite la ejecución de modelos de inteligencia artificial (IA) con una…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-11-texas-instruments-presenta-nuevos-mcus-con-npu-para-apl.md"
-  },
-  {
-    "title": "MSI lanza una placa base para Linux y open-source a un precio asequible",
-    "category": "linux",
-    "date": "2026-03-11",
-    "slug": "msi-lanza-una-placa-base-para-linux-y-open-source-a-un-",
-    "tags": [
-      "ia-local",
-      "software y linux",
-      "python"
-    ],
-    "preview": "La empresa MSI ha lanzado una placa base AMD Ryzen AM5 para Linux y open-source, diseñada para entusiastas de la comunidad de código abierto. Esta placa base es competitiva en precio y ofrece una experiencia de firmware completamente…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-11-msi-lanza-una-placa-base-para-linux-y-open-source-a-un-.md"
-  },
-  {
-    "title": "Control de brazos robóticos de 7 DoF con MoveIt 2: una guía práctica",
-    "category": "linux",
-    "date": "2026-03-11",
-    "slug": "control-de-brazos-roboticos-de-7-dof-con-moveit-2-una-g",
-    "tags": [
-      "ros2",
-      "moveit2",
-      "robotic-arm"
-    ],
-    "preview": "El desarrollo de brazos robóticos de alta precisión es un campo en constante evolución. La tecnología MoveIt 2 ofrece una plataforma robusta para la planificación y control de movimiento de estos dispositivos. En este artículo,…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-11-control-de-brazos-roboticos-de-7-dof-con-moveit-2-una-g.md"
-  },
-  {
-    "title": "Desafío de velocidad con RISC-V: compilar Fedora es 5 veces más lento",
-    "category": "linux",
-    "date": "2026-03-11",
-    "slug": "desafio-de-velocidad-con-risc-v-compilar-fedora-es-5-ve",
-    "tags": [
-      "ia-local",
-      "herramientas",
-      "linux"
-    ],
-    "preview": "La comunidad de Fedora ha encontrado un problema importante con los procesadores RISC-V: son muy lentos. Esto significa que compilar paquetes de software puede llevar mucho tiempo, lo que puede ser un problema para los desarrolladores y…",
-    "has_command": false,
-    "file_path": "content/linux/2026-03-11-desafio-de-velocidad-con-risc-v-compilar-fedora-es-5-ve.md"
-  },
-  {
-    "title": "Sensor de temperatura ultra preciso con I2C y alta resolución",
-    "category": "embebidos",
-    "date": "2026-03-11",
-    "slug": "sensor-de-temperatura-ultra-preciso-con-i2c-y-alta-reso",
-    "tags": [
-      "ia-local",
-      "arduino",
-      "python"
-    ],
-    "preview": "Adafruit ha lanzado un nuevo sensor de temperatura ultra preciso que ofrece una resolución de 16 bits y una precisión de ±0.03°C en un rango de -55 a 155°C. Este sensor es ideal para aplicaciones que requieren una medición precisa de la…",
-    "has_command": true,
-    "file_path": "content/embebidos/2026-03-11-sensor-de-temperatura-ultra-preciso-con-i2c-y-alta-reso.md"
-  },
-  {
-    "title": "Crea un controlador de lucha personalizado con tecnología de última generación",
-    "category": "embebidos",
-    "date": "2026-03-11",
-    "slug": "crea-un-controlador-de-lucha-personalizado-con-tecnolog",
-    "tags": [
-      "llms",
-      "microcontroladores",
-      "software-y-linux"
-    ],
-    "preview": "Adafruit ha lanzado una guía para construir un controlador de lucha personalizado con tecnología de última generación. Este proyecto utiliza un microcontrolador RP2040 y firmware GP2040-CE para ofrecer una experiencia de juego inmersiva.…",
-    "has_command": true,
-    "file_path": "content/embebidos/2026-03-11-crea-un-controlador-de-lucha-personalizado-con-tecnolog.md"
-  },
-  {
-    "title": "PicoCPC: Un módulo de expansión para ordenadores Amstrad CPC",
-    "category": "embebidos",
-    "date": "2026-03-11",
-    "slug": "picocpc-un-modulo-de-expansion-para-ordenadores-amstrad",
-    "tags": [
-      "raspberry-pi",
-      "microcontroladores",
-      "software-y-linux"
-    ],
-    "preview": "Después de décadas de olvido, la comunidad de entusiastas de los ordenadores Amstrad CPC está reviviendo la popularidad de estas máquinas con proyectos innovadores que las llevan a nuevos niveles de capacidad.",
-    "has_command": false,
-    "file_path": "content/embebidos/2026-03-11-picocpc-un-modulo-de-expansion-para-ordenadores-amstrad.md"
-  },
-  {
-    "title": "Maker Monday: Compartiendo proyectos con Raspberry Pi",
-    "category": "embebidos",
-    "date": "2026-03-11",
-    "slug": "maker-monday-compartiendo-proyectos-con-raspberry-pi",
-    "tags": [
-      "raspberry-pi",
-      "maker",
-      "iot"
-    ],
-    "preview": "La comunidad de makers del mundo se reúne cada lunes para compartir sus proyectos con Raspberry Pi. ¿Qué es lo que les motiva a crear algo nuevo cada fin de semana?",
-    "has_command": false,
-    "file_path": "content/embebidos/2026-03-11-maker-monday-compartiendo-proyectos-con-raspberry-pi.md"
-  },
-  {
-    "title": "El lenguaje de programación más dulce: MNM",
-    "category": "diseño-3d",
-    "date": "2026-03-10",
-    "slug": "el-lenguaje-de-programacion-mas-dulce-mnm",
-    "tags": [
-      "programación",
-      "lenguajes de programación",
-      "caramelos M&M",
-      "educación"
-    ],
-    "preview": "Un grupo de desarrolladores ha creado un lenguaje de programación único que utiliza caramelos M&M como símbolos. Aunque puede parecer un juego, el lenguaje MNM tiene una estructura y reglas claras que lo convierten en un proyecto…",
-    "has_command": true,
-    "file_path": "content/diseño-3d/2026-03-10-el-lenguaje-de-programacion-mas-dulce-mnm.md"
-  },
-  {
-    "title": "Diagnóstico de un fallo misterioso en un lector de discos de 5,25 pulgadas",
-    "category": "robotica",
-    "date": "2026-03-10",
-    "slug": "diagnostico-de-un-fallo-misterioso-en-un-lector-de-disc",
-    "tags": [
-      "retroinformática",
-      "diagnóstico",
-      "lectores de discos"
-    ],
-    "preview": "Un equipo de retroinformática descubre un comportamiento extraño en un lector de discos de 5,25 pulgadas Commodore 1541, que se inicia y luego se bloquea. ¿Qué está pasando y cómo se puede solucionar?",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-10-diagnostico-de-un-fallo-misterioso-en-un-lector-de-disc.md"
-  },
-  {
-    "title": "Anthropic lanza herramienta de revisión de código para detectar errores en código generado por IA",
-    "category": "ia",
-    "date": "2026-03-10",
-    "slug": "anthropic-lanza-herramienta-de-revision-de-codigo-para-",
-    "tags": [
-      "vibe coding",
-      "IA",
-      "revisión de código",
-      "Claude Code"
-    ],
-    "preview": "La creciente popularidad de los herramientas de 'vibe coding' ha cambiado la forma en que los desarrolladores trabajan, pero también ha introducido nuevos errores y riesgos de seguridad. Anthropic busca solucionar este problema con su…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-10-anthropic-lanza-herramienta-de-revision-de-codigo-para-.md"
-  },
-  {
-    "title": "Construyendo un laboratorio de limpieza para semiconductores en un cobertizo",
-    "category": "ia",
-    "date": "2026-03-10",
-    "slug": "construyendo-un-laboratorio-de-limpieza-para-semiconduc",
-    "tags": [
-      "semiconductores",
-      "laboratorio de limpieza",
-      "HEPA",
-      "presión positiva"
-    ],
-    "preview": "Un ingeniero ha convertido un cobertizo de jardín en un laboratorio de limpieza para semiconductores, alcanzando niveles de limpieza similares a los de un centro de fabricación de alta tecnología. Esto demuestra que la tecnología de…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-10-construyendo-un-laboratorio-de-limpieza-para-semiconduc.md"
-  },
-  {
-    "title": "Quad Cortex mini: un modelador de amplificadores de guitarra más pequeño y potente",
-    "category": "ia",
-    "date": "2026-03-10",
-    "slug": "quad-cortex-mini-un-modelador-de-amplificadores-de-guit",
-    "tags": [
-      "Machine Learning",
-      "Aprendizaje Automático",
-      "Modelado de Amplificadores"
-    ],
-    "preview": "La empresa Neural DSP ha presentado el Quad Cortex mini, un dispositivo que puede modelar cientos de amplificadores de guitarra, cajas de resonancia y efectos en un solo dispositivo. Esto revoluciona la industria musical y ofrece una…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-10-quad-cortex-mini-un-modelador-de-amplificadores-de-guit.md"
-  },
-  {
-    "title": "Blue Origin crea nuevo plan de opciones de acciones para retener talento",
-    "category": "ia",
-    "date": "2026-03-10",
-    "slug": "blue-origin-crea-nuevo-plan-de-opciones-de-acciones-par",
-    "tags": [
-      "Blue Origin",
-      "Espacio",
-      "Tecnología",
-      "Industria espacial"
-    ],
-    "preview": "Después de dos décadas, Blue Origin sigue sin ser rentable, pero ha logrado avances significativos en la industria espacial. Sin embargo, para retener talento, la empresa sigue rezagada en comparación con otras compañías como SpaceX.",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-10-blue-origin-crea-nuevo-plan-de-opciones-de-acciones-par.md"
-  },
-  {
-    "title": "Empleados de OpenAI y Google defienden a Anthropic en disputa con el DOD",
-    "category": "ia",
-    "date": "2026-03-10",
-    "slug": "empleados-de-openai-y-google-defienden-a-anthropic-en-d",
-    "tags": [
-      "IA",
-      "DOD",
-      "Anthropic",
-      "seguridad",
-      "privacidad"
-    ],
-    "preview": "La empresa Anthropic ha sido etiquetada como un riesgo en la cadena de suministro por el DOD, lo que ha generado una reacción en cadena en la comunidad de inteligencia artificial. Más de 30 empleados de OpenAI y Google han presentado un…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-10-empleados-de-openai-y-google-defienden-a-anthropic-en-d.md"
-  },
-  {
-    "title": "AMI Labs recauda 1.03 mil millones de dólares para desarrollar modelos del mundo",
-    "category": "ia",
-    "date": "2026-03-10",
-    "slug": "ami-labs-recauda-103-mil-millones-de-dolares-para-desar",
-    "tags": [
-      "LLM",
-      "JEPA",
-      "Aprendizaje Profundo",
-      "Modelos del Mundo"
-    ],
-    "preview": "AMI Labs, el nuevo proyecto cofundado por Yann LeCun, ha recaudado 1.03 mil millones de dólares para desarrollar modelos del mundo, una tecnología de inteligencia artificial que aprende de la realidad en lugar de solo de lenguaje. Esto…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-10-ami-labs-recauda-103-mil-millones-de-dolares-para-desar.md"
-  },
-  {
-    "title": "NVIDIA lanza nuevo driver beta para Linux con características Vulkan",
-    "category": "linux",
-    "date": "2026-03-10",
-    "slug": "nvidia-lanza-nuevo-driver-beta-para-linux-con-caracteri",
-    "tags": [
-      "Vulkan",
-      "Linux",
-      "NVIDIA",
-      "driver beta"
-    ],
-    "preview": "NVIDIA ha lanzado un nuevo driver beta para Linux que incluye características Vulkan importantes. Este driver es parte del programa de beta de desarrolladores de Vulkan y ofrece mejoras significativas en rendimiento y funcionalidad. La…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-10-nvidia-lanza-nuevo-driver-beta-para-linux-con-caracteri.md"
-  },
-  {
-    "title": "FreeBSD 14.4: Actualización de FreeBSD para usuarios reacios a pasar a 15",
-    "category": "linux",
-    "date": "2026-03-10",
-    "slug": "freebsd-144-actualizacion-de-freebsd-para-usuarios-reac",
-    "tags": [
-      "FreeBSD",
-      "Linux",
-      "Unix",
-      "actualización",
-      "soporte de hardware"
-    ],
-    "preview": "FreeBSD 14.4 ha sido lanzado como la última actualización de la serie FreeBSD 14, diseñada para usuarios que no están listos para migrar a la versión 15. Esta actualización incluye mejoras y correcciones para aquellos que planean seguir…",
-    "has_command": false,
-    "file_path": "content/linux/2026-03-10-freebsd-144-actualizacion-de-freebsd-para-usuarios-reac.md"
-  },
-  {
-    "title": "Ley de verificación de edad en Colorado: ¿excluye software libre?",
-    "category": "linux",
-    "date": "2026-03-10",
-    "slug": "ley-de-verificacion-de-edad-en-colorado-excluye-softwar",
-    "tags": [
-      "software_libre",
-      "verificación_de_edad",
-      "IA",
-      "aprendizaje_autómático"
-    ],
-    "preview": "La empresa System76 ha expresado su preocupación por la posible inclusión de software libre en la ley de verificación de edad en Colorado. Afortunadamente, hay esperanza de que se excluya a este tipo de software.",
-    "has_command": false,
-    "file_path": "content/linux/2026-03-10-ley-de-verificacion-de-edad-en-colorado-excluye-softwar.md"
-  },
-  {
-    "title": "Apple M5 Max: El nuevo chip para laptops y desktops de Apple",
-    "category": "linux",
-    "date": "2026-03-10",
-    "slug": "apple-m5-max-el-nuevo-chip-para-laptops-y-desktops-de-a",
-    "tags": [
-      "Apple Silicon",
-      "M5 Max",
-      "Arquitectura Fusionada",
-      "Chip de Procesamiento"
-    ],
-    "preview": "Apple ha lanzado su nuevo chip M5 Max, que ofrece mejor rendimiento y eficiencia en laptops y desktops. Este chip es el resultado de una arquitectura fusionada que combina dos piezas de silicio en una sola. Pero, ¿qué cambia en realidad?",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-10-apple-m5-max-el-nuevo-chip-para-laptops-y-desktops-de-a.md"
-  },
-  {
-    "title": "Intel presenta una placa base industrial con soporte para hasta 256GB de RAM DDR5",
-    "category": "embebidos",
-    "date": "2026-03-10",
-    "slug": "intel-presenta-una-placa-base-industrial-con-soporte-pa",
-    "tags": [
-      "Intel",
-      "placa base industrial",
-      "DDR5",
-      "Arrow Lake-S",
-      "fábrica inteligente"
-    ],
-    "preview": "La empresa Intel ha lanzado una placa base industrial llamada ATX-ARS1-W880, diseñada para aplicaciones de fábrica inteligente. Esta placa base es compatible con procesadores Intel Arrow Lake-S, que ofrecen hasta 24 núcleos y 36 TOPS de…",
-    "has_command": false,
-    "file_path": "content/embebidos/2026-03-10-intel-presenta-una-placa-base-industrial-con-soporte-pa.md"
-  },
-  {
-    "title": "Nueva placa Raspberry Pi CM0IQ: ultra compacta y potente",
-    "category": "embebidos",
-    "date": "2026-03-10",
-    "slug": "nueva-placa-raspberry-pi-cm0iq-ultra-compacta-y-potente",
-    "tags": [
-      "Raspberry Pi",
-      "CM0 Lite",
-      "placa de desarrollo",
-      "robótica",
-      "dispositivos IoT"
-    ],
-    "preview": "Makerfabs ha lanzado la CM0IQ, una placa ultra compacta basada en la Raspberry Pi CM0 Lite. Con un tamaño de apenas 42x36mm, esta placa es ideal para aplicaciones de robótica, dispositivos IoT y integraciones de hardware personalizadas. A…",
-    "has_command": true,
-    "file_path": "content/embebidos/2026-03-10-nueva-placa-raspberry-pi-cm0iq-ultra-compacta-y-potente.md"
-  },
-  {
-    "title": "Nordic Semi lanza SoCs de Bluetooth LE ultra-bajo consumo",
-    "category": "embebidos",
-    "date": "2026-03-10",
-    "slug": "nordic-semi-lanza-socs-de-bluetooth-le-ultra-bajo-consu",
-    "tags": [
-      "Bluetooth LE",
-      "SoCs",
-      "microcontroladores",
-      "bajo consumo"
-    ],
-    "preview": "Nordic Semiconductor ha presentado dos nuevos SoCs de Bluetooth Low Energy (LE) ultra-bajo consumo, diseñados para aplicaciones simples como sensores, etiquetas, beacons, remotos y periféricos de PC, o como dispositivos de Bluetooth LE…",
-    "has_command": false,
-    "file_path": "content/embebidos/2026-03-10-nordic-semi-lanza-socs-de-bluetooth-le-ultra-bajo-consu.md"
-  },
-  {
-    "title": "Cámara de Raspberry Pi modular para experimentar con diferentes pantallas y lentes",
-    "category": "diseño-3d",
-    "date": "2026-03-09",
-    "slug": "camara-de-raspberry-pi-modular-para-experimentar-con-di",
-    "tags": [
-      "Raspberry Pi",
-      "cámara digital",
-      "3D impresión",
-      "modularidad",
-      "proyectos de hardware"
-    ],
-    "preview": "La comunidad de hackers ha adoptado las cámaras de Raspberry Pi como herramienta estándar para proyectos de cámara digital. Sin embargo, la variedad de pantallas, lentes y módulos puede ser complicada de gestionar. Un ingeniero ha creado…",
-    "has_command": false,
-    "file_path": "content/diseño-3d/2026-03-09-camara-de-raspberry-pi-modular-para-experimentar-con-di.md"
-  },
-  {
-    "title": "Descubren dinosaurio minúsculo con brazos largos que cuestiona la miniaturización de los dinosaurios",
-    "category": "robotica",
-    "date": "2026-03-09",
-    "slug": "descubren-dinosaurio-minusculo-con-brazos-largos-que-cu",
-    "tags": [
-      "Paleontología",
-      "Dinosaurios",
-      "Evolución",
-      "Miniaturización"
-    ],
-    "preview": "Un nuevo hallazgo en la paleontología cuestiona la teoría de que los dinosaurios pequeños se miniaturizaron para cazar hormigas y termitas. El descubrimiento de un dinosaurio minúsculo con brazos largos sugiere que la miniaturización no…",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-09-descubren-dinosaurio-minusculo-con-brazos-largos-que-cu.md"
-  },
-  {
-    "title": "La controversia del Pentagono y la tecnología Anthropic: ¿qué significa para startups?",
-    "category": "robotica",
-    "date": "2026-03-09",
-    "slug": "la-controversia-del-pentagono-y-la-tecnologia-anthropic",
-    "tags": [
-      "LLM",
-      "IA",
-      "Pentágono",
-      "Tecnología de Defensa"
-    ],
-    "preview": "La relación entre el Pentágono y la empresa Anthropic se ha vuelto tensa después de que el gobierno estadounidense designara a la empresa como un riesgo en la cadena de suministro. Esto ha llevado a que otras empresas de tecnología como…",
-    "has_command": false,
-    "file_path": "content/robotica/2026-03-09-la-controversia-del-pentagono-y-la-tecnologia-anthropic.md"
-  },
-  {
-    "title": "Desbloqueando la impresora de etiquetas Fichero: un protocolo Bluetooth desmontado",
-    "category": "ia",
-    "date": "2026-03-09",
-    "slug": "desbloqueando-la-impresora-de-etiquetas-fichero-un-prot",
-    "tags": [
-      "reverse-engineering",
-      "protocolo BLE",
-      "impressora de etiquetas",
-      "IoT"
-    ],
-    "preview": "Una impresora de etiquetas barata y accesible, pero con una interfaz de usuario limitada a una aplicación móvil propietaria. Un entusiasta de la tecnología ha decidido cambiar esto mediante la reverse-engineering del protocolo BLE.",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-09-desbloqueando-la-impresora-de-etiquetas-fichero-un-prot.md"
-  },
-  {
-    "title": "Marvel revive Daredevil: Born Again con un nuevo capítulo",
-    "category": "ia",
-    "date": "2026-03-09",
-    "slug": "marvel-revive-daredevil-born-again-con-un-nuevo-capitul",
-    "tags": [
-      "Marvel",
-      "Daredevil",
-      "serie de televisión",
-      "Marvel Studios"
-    ],
-    "preview": "La serie de televisión Daredevil: Born Again regresa con un nuevo capítulo, reuniendo a personajes icónicos de la saga Marvel. La noticia ha generado expectación entre los fanáticos, que esperan ver a Matt Murdock/Daredevil y Wilson…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-09-marvel-revive-daredevil-born-again-con-un-nuevo-capitul.md"
-  },
-  {
-    "title": "Un documental inmersivo busca a los elefantes fantasma del África",
-    "category": "ia",
-    "date": "2026-03-09",
-    "slug": "un-documental-inmersivo-busca-a-los-elefantes-fantasma-",
-    "tags": [
-      "conservación",
-      "biodiversidad",
-      "documental",
-      "investigación científica"
-    ],
-    "preview": "Un equipo de documentalistas liderado por Werner Herzog busca en el África subsahariana a una especie de elefantes nunca antes vista. La búsqueda se basa en la investigación de Steve Boyes, un ornitólogo que ha dedicado años a estudiar a…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-09-un-documental-inmersivo-busca-a-los-elefantes-fantasma-.md"
-  },
-  {
-    "title": "Man camps para trabajadores de centros de datos: la oportunidad de la IA",
-    "category": "ia",
-    "date": "2026-03-09",
-    "slug": "man-camps-para-trabajadores-de-centros-de-datos-la-opor",
-    "tags": [
-      "man camps",
-      "centros de datos",
-      "IA",
-      "trabajadores temporales"
-    ],
-    "preview": "La construcción de centros de datos impulsada por la IA está generando un boom en la demanda de trabajadores temporales. Para satisfacer esta demanda, se están construyendo campamentos temporales llamados 'man camps', que ofrecen…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-09-man-camps-para-trabajadores-de-centros-de-datos-la-opor.md"
-  },
-  {
-    "title": "Ring busca tranquilizar a sus usuarios sobre privacidad con Search Party",
-    "category": "ia",
-    "date": "2026-03-09",
-    "slug": "ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad",
-    "tags": [
-      "AI",
-      "Privacidad",
-      "Cámaras Inteligentes",
-      "Inteligencia Artificial"
-    ],
-    "preview": "La empresa Ring ha lanzado un nuevo servicio llamado Search Party, que utiliza inteligencia artificial para ayudar a encontrar perros perdidos. Sin embargo, su anuncio en el Super Bowl ha generado una gran controversia y críticas sobre la…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-09-ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad.md"
-  },
-  {
-    "title": "Raspberry Pi 5 con pantalla táctil y cámaras: el Pironman 5 Pro Max",
-    "category": "ia",
-    "date": "2026-03-09",
-    "slug": "raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma",
-    "tags": [
-      "Raspberry Pi 5",
-      "pantalla táctil",
-      "cámaras",
-      "caso de Raspberry Pi"
-    ],
-    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil, cámaras y otros accesorios. Este caso es ideal para proyectos de robótica y automatización.",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-09-raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma.md"
-  },
-  {
-    "title": "Simulando neuronas con un ordenador analógico innovador",
-    "category": "ia",
-    "date": "2026-03-09",
-    "slug": "simulando-neuronas-con-un-ordenador-analogico-innovador",
-    "tags": [
-      "ordenador_analógico",
-      "neuronas",
-      "circuitos_electrónicos"
-    ],
-    "preview": "Aunque los ordenadores digitales han dominado la escena, los ordenadores analógicos siguen siendo una fascinación para algunos. Recientemente, un ingeniero ha diseñado un ordenador analógico para simular neuronas, abriendo nuevas…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-09-simulando-neuronas-con-un-ordenador-analogico-innovador.md"
-  },
-  {
-    "title": "Rust Coreutils 0.7: Mejoras de rendimiento para herramientas de sistema",
-    "category": "linux",
-    "date": "2026-03-09",
-    "slug": "rust-coreutils-07-mejoras-de-rendimiento-para-herramien",
-    "tags": [
-      "Rust",
-      "Coreutils",
-      "GNU Test Suite",
-      "Mejoras de rendimiento",
-      "Seguridad"
-    ],
-    "preview": "La versión 0.7 de Rust Coreutils ha sido lanzada con un enfoque en la mejora del rendimiento de las herramientas de sistema. Esta actualización busca alcanzar la compatibilidad del 100% con el Test de GNU, pero también introduce cambios…",
-    "has_command": false,
-    "file_path": "content/linux/2026-03-09-rust-coreutils-07-mejoras-de-rendimiento-para-herramien.md"
-  },
-  {
-    "title": "Linux 7.0-rc3: El kernel más grande en recientes historias",
-    "category": "linux",
-    "date": "2026-03-09",
-    "slug": "linux-70-rc3-el-kernel-mas-grande-en-recientes-historia",
-    "tags": [
-      "kernel",
-      "Linux",
-      "rendimiento",
-      "seguridad",
-      "compatibilidad"
-    ],
-    "preview": "La versión 7.0 del kernel Linux está avanzando rápidamente hacia su lanzamiento estable en abril. La versión 7.0-rc3, lanzada recientemente, incluye una gran cantidad de cambios y arreglos de bugs, lo que ha generado preocupación en el…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-09-linux-70-rc3-el-kernel-mas-grande-en-recientes-historia.md"
-  },
-  {
-    "title": "CachyOS cambia a Wayland y mejora la experiencia de usuario",
-    "category": "linux",
-    "date": "2026-03-09",
-    "slug": "cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu",
-    "tags": [
-      "Linux",
-      "Wayland",
-      "Steam Deck",
-      "CachyOS",
-      "Arch Linux"
-    ],
-    "preview": "La distribución CachyOS, basada en Arch Linux, ha lanzado una actualización importante que incluye cambios significativos en la experiencia de usuario para dispositivos portátiles como el Steam Deck. Entre las mejoras destacan la…",
-    "has_command": false,
-    "file_path": "content/linux/2026-03-09-cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu.md"
-  },
-  {
-    "title": "Nueva Familia de Microcontroladores STM32C5 para Aplicaciones Industriales",
-    "category": "embebidos",
-    "date": "2026-03-09",
-    "slug": "nueva-familia-de-microcontroladores-stm32c5-para-aplica",
-    "tags": [
-      "STM32C5",
-      "Arm Cortex-M33",
-      "microcontroladores",
-      "industrial",
-      "domótica"
-    ],
-    "preview": "STMicro ha lanzado la familia de microcontroladores STM32C5, diseñada para aplicaciones industriales y domóticas. Estos microcontroladores ofrecen una gran variedad de características y opciones de configuración, lo que los hace ideales…",
-    "has_command": false,
-    "file_path": "content/embebidos/2026-03-09-nueva-familia-de-microcontroladores-stm32c5-para-aplica.md"
-  },
-  {
-    "title": "Generador de señal RF abierto y de alta gama a un precio asequible",
-    "category": "embebidos",
-    "date": "2026-03-09",
-    "slug": "generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci",
-    "tags": [
-      "RF",
-      "Generador de señal",
-      "Atek Midas",
-      "SCPI",
-      "Laboratorio"
-    ],
-    "preview": "La empresa turca Atek Midas ha lanzado un generador de señal RF de alta gama y abierto que ofrece una gama de frecuencia de 0.15 GHz a 22.6 GHz y puede ser controlado a través de una interfaz web o mediante comandos SCPI.",
-    "has_command": true,
-    "file_path": "content/embebidos/2026-03-09-generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci.md"
-  },
-  {
-    "title": "Restauración de un Commodore PET 3032 en mal estado: un logro de la comunidad retroinformática",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "restauracion-de-un-commodore-pet-3032-en-mal-estado-un-",
-    "tags": [
-      "Retroinformática",
-      "Restauración de ordenadores",
-      "Commodore PET 3032",
-      "Informática clásica"
-    ],
-    "preview": "La comunidad de aficionados a la informática retro ha logrado restaurar un Commodore PET 3032 en mal estado, un ordenador clásico de la década de 1970. Este proyecto es relevante porque muestra la capacidad de la comunidad para recuperar y…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-un-.md"
-  },
-  {
-    "title": "Un Jet Ski casero para combatir el aburrimiento del invierno",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "un-jet-ski-casero-para-combatir-el-aburrimiento-del-inv",
-    "tags": [
-      "pulse_jet",
-      "motor_de_pulso",
-      "jet_ski_casero",
-      "robótica",
-      "ingeniería"
-    ],
-    "preview": "Un invierno largo puede hacer que muchos de nosotros nos volvamos un poco locos. En este caso, lo suficientemente locos como para montar un motor de pulse jet casero en un patinete de niño y usarlo en un lago congelado. El resultado es un…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-aburrimiento-del-inv.md"
-  },
-  {
-    "title": "Un Jet Ski casero para combatir el síndrome del invierno",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "un-jet-ski-casero-para-combatir-el-sindrome-del-inviern",
-    "tags": [
-      "motor de impulso de propano",
-      "jet ski casero",
-      "ingeniería"
-    ],
-    "preview": "Un invierno largo puede hacer que los noruegos se vuelvan un poco locos. En este caso, lo suficientemente locos como para montar un motor de impulso de propano casero en un patinete de niño y usarlo en un lago helado para una experiencia…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-sindrome-del-inviern.md"
-  },
-  {
-    "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant",
-    "tags": [
-      "Raspberry Pi",
-      "IA",
-      "Automatización",
-      "Multimedia",
-      "Pantalla táctil"
-    ],
-    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, un módulo de cámara de 5MP y otros accesorios. Este caso es ideal para proyectos de Inteligencia Artificial,…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant.md"
-  },
-  {
-    "title": "Marvel revive a Daredevil: Born Again con una nueva temporada y nuevos personajes",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "marvel-revive-a-daredevil-born-again-con-una-nueva-temp",
-    "tags": [
-      "Marvel",
-      "Daredevil",
-      "Nueva Temporada",
-      "Jessica Jones"
-    ],
-    "preview": "La popular serie de televisión Daredevil: Born Again regresa con una nueva temporada, y con ella, nuevos personajes y tramas emocionantes. La serie sigue la historia de Matt Murdock/Daredevil y su archienemigo Wilson Fisk/Kingpin, y ahora…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-marvel-revive-a-daredevil-born-again-con-una-nueva-temp.md"
-  },
-  {
-    "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensac-2",
-    "tags": [
-      "Google",
-      "Waymo",
-      "Wing",
-      "IA",
-      "Sistemas embebidos"
-    ],
-    "preview": "Google ha otorgado a su CEO, Sundar Pichai, un paquete de compensación de $692 millones, que podría hacerlo uno de los ejecutivos mejor pagados del mundo. Sin embargo, la mayor parte de este paquete está condicionado a su desempeño,…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensac-2.md"
-  },
-  {
-    "title": "Spoofing señales de preeminencia de tráfico de emergencia: un hack posible en realidad",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "spoofing-senales-de-preeminencia-de-trafico-de-emergenc",
-    "tags": [
-      "EVP",
-      "hackeo",
-      "seguridad",
-      "semáforos",
-      "tráfico"
-    ],
-    "preview": "Un investigador ha logrado hackear sistemas de preeminencia de tráfico de emergencia en ciudades, lo que podría permitir a hackers controlar semáforos y crear situaciones de peligro en la vía pública. La noticia destaca la importancia de…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-spoofing-senales-de-preeminencia-de-trafico-de-emergenc.md"
-  },
-  {
-    "title": "La búsqueda de los elefantes fantasmales en la selva angoleña",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an",
-    "tags": [
-      "conservacion",
-      "naturaleza",
-      "elefantes",
-      "documental",
-      "biodiversidad"
-    ],
-    "preview": "Un documental dirigido por Werner Herzog sigue a un conservacionista en su búsqueda de un nuevo tipo de elefante en la selva angoleña. La película, llamada 'Ghost Elephants', muestra la fascinación de Steve Boyes con estos animales y su…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an.md"
-  },
-  {
-    "title": "Marvel revive la serie Daredevil: Born Again con un nuevo capítulo emocionante",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "marvel-revive-la-serie-daredevil-born-again-con-un-nuev",
-    "tags": [
-      "Marvel",
-      "Daredevil",
-      "Netflix",
-      "serie de televisión",
-      "acción",
-      "suspenso"
-    ],
-    "preview": "La serie Daredevil: Born Again, una de las mejores de la temporada pasada, regresa con un nuevo capítulo que promete emociones y acción. La serie sigue la historia de Matt Murdock/Daredevil y su enemigo, Wilson Fisk/Kingpin, en una batalla…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-marvel-revive-la-serie-daredevil-born-again-con-un-nuev.md"
-  },
-  {
-    "title": "Campamentos temporales para trabajadores de centros de datos con inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "campamentos-temporales-para-trabajadores-de-centros-de-",
-    "tags": [
-      "AI",
-      "centros de datos",
-      "man camps",
-      "construcción",
-      "trabajadores"
-    ],
-    "preview": "En Estados Unidos, la construcción de centros de datos con inteligencia artificial está impulsando la creación de campamentos temporales para alojar a los trabajadores necesarios para su construcción. Estos campamentos, llamados 'man…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-de-centros-de-.md"
-  },
-  {
-    "title": "Restauración de un Commodore PET 3032 en mal estado: un proyecto de robótica retro",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2",
-    "tags": [
-      "ordenadores",
-      "restauración",
-      "demoscene",
-      "electrónica",
-      "historia de la informática"
-    ],
-    "preview": "Un equipo de demoscene en Polonia ha restaurado un Commodore PET 3032, un ordenador de la década de 1970 que había estado almacenado durante décadas. Aunque parecía en buen estado al principio, la restauración reveló problemas…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2.md"
-  },
-  {
-    "title": "Investigador busca una nueva especie de elefante en África: un reto en la conservación",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "investigador-busca-una-nueva-especie-de-elefante-en-afr",
-    "tags": [
-      "conservación",
-      "biodiversidad",
-      "ecología",
-      "elefantes",
-      "documental"
-    ],
-    "preview": "Un equipo de investigación liderado por Steve Boyes busca encontrar una nueva especie de elefante en la región de Angola. Esta búsqueda es un desafío en la conservación de la biodiversidad y puede revelar nuevos conocimientos sobre la…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-investigador-busca-una-nueva-especie-de-elefante-en-afr.md"
-  },
-  {
-    "title": "Un llamado a la responsabilidad en el desarrollo de la inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "un-llamado-a-la-responsabilidad-en-el-desarrollo-de-la-",
-    "tags": [
-      "IA",
-      "Desarrollo responsable",
-      "Regulación",
-      "Superinteligencia",
-      "Pro-Human Declaration"
-    ],
-    "preview": "Una coalición bipartisan de expertos ha lanzado un documento que establece un marco para el desarrollo responsable de la inteligencia artificial. Este llamado a la acción surge en un momento en que la falta de regulación en el sector ha…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-un-llamado-a-la-responsabilidad-en-el-desarrollo-de-la-.md"
-  },
-  {
-    "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2",
-    "tags": [
-      "Raspberry Pi 5",
-      "pantalla táctil",
-      "cámara de 5MP",
-      "altavoces estéreo",
-      "micrófono USB"
-    ],
-    "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, una cámara de 5MP, altavoces estéreo y un micrófono USB. Este caso es ideal para proyectos de robótica y…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2.md"
-  },
-  {
-    "title": "Un grupo de expertos presenta un marco para el desarrollo responsable de la inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "un-grupo-de-expertos-presenta-un-marco-para-el-desarrol",
-    "tags": [
-      "IA",
-      "Desarrollo responsable",
-      "Seguridad de la IA",
-      "Transparencia de la IA"
-    ],
-    "preview": "Un grupo de expertos ha presentado un marco para el desarrollo responsable de la inteligencia artificial, en respuesta a la falta de regulación en este campo. Este marco, conocido como la Declaración Pro-Humana, busca establecer límites…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-un-grupo-de-expertos-presenta-un-marco-para-el-desarrol.md"
-  },
-  {
-    "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensacio",
-    "tags": [
-      "compensación",
-      "desempeño",
-      "crecimiento",
-      "innovación"
-    ],
-    "preview": "El CEO de Google, Sundar Pichai, ha recibido un paquete de compensación de $692 millones, con la mayoría de la cantidad vinculada a su desempeño. A diferencia de los fundadores de Google, Larry Page y Sergey Brin, Pichai ha evitado la…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensacio.md"
-  },
-  {
-    "title": "Campamentos temporales para trabajadores en centros de datos con inteligencia artificial",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "campamentos-temporales-para-trabajadores-en-centros-de-",
-    "tags": [
-      "IA",
-      "centros de datos",
-      "man camps",
-      "sostenibilidad",
-      "eficiencia energética"
-    ],
-    "preview": "La construcción de centros de datos con inteligencia artificial (IA) está en auge en Estados Unidos, lo que ha llevado a la creación de campamentos temporales para alojar a los trabajadores que se necesitan para construir y operar estos…",
-    "has_command": false,
-    "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-en-centros-de-.md"
-  },
-  {
-    "title": "Spoofing un Señal de Preempión de Tráfico de Emergencia: un Hack Real",
-    "category": "ia",
-    "date": "2026-03-08",
-    "slug": "spoofing-un-senal-de-preempion-de-trafico-de-emergencia",
-    "tags": [
-      "Linux",
-      "Robótica",
-      "Sistemas Embebidos",
-      "Seguridad de Sistemas"
-    ],
-    "preview": "Un hacker ha logrado controlar un sistema de preempión de tráfico de emergencia, lo que podría tener graves consecuencias en la seguridad vial. La noticia nos recuerda la importancia de la seguridad en los sistemas críticos. Aunque se…",
-    "has_command": true,
-    "file_path": "content/ia/2026-03-08-spoofing-un-senal-de-preempion-de-trafico-de-emergencia.md"
-  },
-  {
-    "title": "GEEKOM A5 Pro 2026 Edition: Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-pc-am",
-    "tags": [
-      "Ubuntu 25.10",
-      "GEEKOM A5 Pro",
-      "AMD Ryzen 5 7530U",
-      "mini PC",
-      "Linux"
-    ],
-    "preview": "La empresa GEEKOM ha lanzado una versión actualizada de su mini PC A5 Pro, equipado con un procesador AMD Ryzen 5 7530U y 16 GB de memoria RAM. En este artículo, exploraremos cómo funciona el sistema con Ubuntu 25.10, una distribución de…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-pc-am.md"
-  },
-  {
-    "title": "Intel lanza soporte experimental para gráficos Intel Nova Lake P en Mesa 26.1",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "intel-lanza-soporte-experimental-para-graficos-intel-no",
-    "tags": [
-      "Mesa",
-      "Intel",
-      "NovaLakeP",
-      "Xe3P",
-      "gráficos"
-    ],
-    "preview": "La compañía Intel ha agregado soporte experimental para los gráficos Intel Nova Lake P a la versión de desarrollo de Mesa 26.1. Esta actualización permite a los desarrolladores trabajar con la tecnología de gráficos Intel más avanzada,…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel-no.md"
-  },
-  {
-    "title": "Intel lanza soporte experimental para gráficos Intel Nova Lake P en Linux",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "intel-lanza-soporte-experimental-para-graficos-intel--2",
-    "tags": [
-      "Linux",
-      "Intel",
-      "NovaLakeP",
-      "Mesa",
-      "Xe3P"
-    ],
-    "preview": "Intel ha lanzado soporte experimental para gráficos Intel Nova Lake P en el driver Mesa 26.1, lo que permitirá a los desarrolladores de Linux aprovechar al máximo la potencia gráfica de estos dispositivos. Este soporte es especialmente…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel--2.md"
-  },
-  {
-    "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de video y codificación",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci",
-    "tags": [
-      "Vulkan",
-      "JPEG-XS",
-      "aceleración de video",
-      "codificación de video"
-    ],
-    "preview": "Los desarrolladores de FFmpeg están preparando la versión 8.1 de este popular software de codificación y reproducción de video, que incluye mejoras significativas en la aceleración de video y la codificación. Entre las novedades destacan…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci.md"
-  },
-  {
-    "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca",
-    "tags": [
-      "Linux",
-      "CachyOS",
-      "Wayland",
-      "Bcachefs",
-      "Steam Deck"
-    ],
-    "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition, una distribución de Linux para dispositivos de juego portátiles como el Steam Deck, ha sido actualizada con varias mejoras y cambios importantes. Entre ellos, el cambio a Wayland…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca.md"
-  },
-  {
-    "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2",
-    "tags": [
-      "Linux",
-      "Steam Deck",
-      "Wayland",
-      "CachyOS",
-      "Arch Linux"
-    ],
-    "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition está disponible, con mejoras significativas en el instalador y la experiencia de usuario. Esta actualización es especialmente importante para propietarios de dispositivos de juego…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2.md"
-  },
-  {
-    "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de gráficos y codificación de video",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2",
-    "tags": [
-      "FFmpeg",
-      "Vulkan",
-      "JPEG-XS",
-      "aceleración de gráficos",
-      "codificación de video"
-    ],
-    "preview": "Los desarrolladores de FFmpeg están preparando la próxima versión, FFmpeg 8.1, que traerá mejoras significativas en la aceleración de gráficos y la codificación de video. Entre las características nuevas se encuentran la aceleración de…",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2.md"
-  },
-  {
-    "title": "Revisión del GEEKOM A5 Pro 2026 con Ubuntu 25.10: rendimiento y características",
-    "category": "linux",
-    "date": "2026-03-08",
-    "slug": "revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi",
-    "tags": [
-      "Ubuntu",
-      "Linux",
-      "AMD Ryzen",
-      "Mini PC"
-    ],
-    "preview": "Después de analizar el hardware y probar el mini PC con Windows 11 Pro, ahora exploramos su rendimiento con Ubuntu 25.10. ¿Cómo se comporta el AMD Ryzen 5 7530U en Linux?",
-    "has_command": true,
-    "file_path": "content/linux/2026-03-08-revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi.md"
-  },
-  {
-    "title": "Echo Pyramid: habla inteligente para controles IoT M5Stack Atom",
-    "category": "embebidos",
-    "date": "2026-03-08",
-    "slug": "echo-pyramid-habla-inteligente-para-controles-iot-m5sta",
-    "tags": [
-      "ESP32",
-      "IoT",
-      "Voz Inteligente",
-      "M5Stack"
-    ],
-    "preview": "La tecnología de voz inteligente se vuelve más accesible con el Echo Pyramid, un módulo que permite a los controles IoT M5Stack Atom ejecutar aplicaciones de voz inteligente, como reconocimiento de voz a distancia, asistentes de voz y…",
-    "has_command": true,
-    "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controles-iot-m5sta.md"
-  },
-  {
-    "title": "Echo Pyramid: habla inteligente para controladores IoT M5Stack Atom",
-    "category": "embebidos",
-    "date": "2026-03-08",
-    "slug": "echo-pyramid-habla-inteligente-para-controladores-iot-m",
-    "tags": [
-      "ESP32",
-      "IoT",
-      "Habla inteligente"
-    ],
-    "preview": "La empresa M5Stack ha lanzado el Echo Pyramid, un dispositivo que permite la interacción de voz inteligente en aplicaciones IoT. Este dispositivo es compatible con los controladores M5Stack Atom, AtomS3 y AtomS3R, basados en el SoC ESP32 o…",
-    "has_command": false,
-    "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controladores-iot-m.md"
+{
+  "news": [
+    {
+      "title": "Crea un controlador de lucha personalizado con tecnología de última generación",
+      "category": "embebidos",
+      "date": "2026-03-11",
+      "slug": "crea-un-controlador-de-lucha-personalizado-con-tecnolog",
+      "tags": [
+        "llms",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Adafruit ha lanzado una guía para construir un controlador de lucha personalizado con tecnología de última generación. Este proyecto utiliza un microcontrolador RP2040 y firmware GP2040-CE para ofrecer una experiencia de juego inmersiva.…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-11-crea-un-controlador-de-lucha-personalizado-con-tecnolog.md"
+    },
+    {
+      "title": "Maker Monday: Compartiendo proyectos con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-03-11",
+      "slug": "maker-monday-compartiendo-proyectos-con-raspberry-pi",
+      "tags": [
+        "raspberry-pi",
+        "maker",
+        "iot"
+      ],
+      "preview": "La comunidad de makers del mundo se reúne cada lunes para compartir sus proyectos con Raspberry Pi. ¿Qué es lo que les motiva a crear algo nuevo cada fin de semana?",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-11-maker-monday-compartiendo-proyectos-con-raspberry-pi.md"
+    },
+    {
+      "title": "PicoCPC: Un módulo de expansión para ordenadores Amstrad CPC",
+      "category": "embebidos",
+      "date": "2026-03-11",
+      "slug": "picocpc-un-modulo-de-expansion-para-ordenadores-amstrad",
+      "tags": [
+        "raspberry-pi",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Después de décadas de olvido, la comunidad de entusiastas de los ordenadores Amstrad CPC está reviviendo la popularidad de estas máquinas con proyectos innovadores que las llevan a nuevos niveles de capacidad.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-11-picocpc-un-modulo-de-expansion-para-ordenadores-amstrad.md"
+    },
+    {
+      "title": "Sensor de temperatura ultra preciso con I2C y alta resolución",
+      "category": "embebidos",
+      "date": "2026-03-11",
+      "slug": "sensor-de-temperatura-ultra-preciso-con-i2c-y-alta-reso",
+      "tags": [
+        "ia-local",
+        "arduino",
+        "python"
+      ],
+      "preview": "Adafruit ha lanzado un nuevo sensor de temperatura ultra preciso que ofrece una resolución de 16 bits y una precisión de ±0.03°C en un rango de -55 a 155°C. Este sensor es ideal para aplicaciones que requieren una medición precisa de la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-11-sensor-de-temperatura-ultra-preciso-con-i2c-y-alta-reso.md"
+    },
+    {
+      "title": "AMD expande su serie de SoCs de Edge AI con hasta 12 núcleos Zen 5",
+      "category": "ia",
+      "date": "2026-03-11",
+      "slug": "amd-expande-su-serie-de-socs-de-edge-ai-con-hasta-12-nu",
+      "tags": [
+        "ia-local",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "AMD ha presentado seis nuevos SKUs para su serie de SoCs de Edge AI Ryzen AI Embedded P100, con hasta 12 núcleos Zen 5 y 80 TOPS de rendimiento AI. Estos SoCs están diseñados para aplicaciones de Edge AI en entornos comerciales e…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-11-amd-expande-su-serie-de-socs-de-edge-ai-con-hasta-12-nu.md"
+    },
+    {
+      "title": "Debian debate sobre contribuciones generadas por inteligencia artificial",
+      "category": "ia",
+      "date": "2026-03-11",
+      "slug": "debian-debate-sobre-contribuciones-generadas-por-inteli",
+      "tags": [
+        "llms",
+        "herramientas",
+        "software"
+      ],
+      "preview": "Debian, un proyecto de software libre, ha estado debatiendo sobre si aceptar contribuciones generadas por inteligencia artificial. El debate comenzó en febrero, después de que un desarrollador propuso una resolución general para discutir…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-11-debian-debate-sobre-contribuciones-generadas-por-inteli.md"
+    },
+    {
+      "title": "Drones militares enseñan a los coches autónomos a manejar situaciones imprevistas",
+      "category": "ia",
+      "date": "2026-03-11",
+      "slug": "drones-militares-ensenan-a-los-coches-autonomos-a-manej",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "Los coches autónomos a veces se estancan ante situaciones comunes para los conductores humanos. Desde zonas de construcción hasta peatones indisciplinados, estos vehículos pueden comportarse de manera impredecible, lo que lleva a…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-11-drones-militares-ensenan-a-los-coches-autonomos-a-manej.md"
+    },
+    {
+      "title": "Texas Instruments presenta nuevos MCUs con NPU para aplicaciones de IA al borde",
+      "category": "ia",
+      "date": "2026-03-11",
+      "slug": "texas-instruments-presenta-nuevos-mcus-con-npu-para-apl",
+      "tags": [
+        "ia-local",
+        "microcontroladores",
+        "python"
+      ],
+      "preview": "Texas Instruments ha lanzado dos nuevas familias de microcontroladores (MCUs) que integran un procesador neuromórfico unitario (NPU) llamado TinyEngine. Este avance permite la ejecución de modelos de inteligencia artificial (IA) con una…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-11-texas-instruments-presenta-nuevos-mcus-con-npu-para-apl.md"
+    },
+    {
+      "title": "Control de brazos robóticos de 7 DoF con MoveIt 2: una guía práctica",
+      "category": "linux",
+      "date": "2026-03-11",
+      "slug": "control-de-brazos-roboticos-de-7-dof-con-moveit-2-una-g",
+      "tags": [
+        "ros2",
+        "moveit2",
+        "robotic-arm"
+      ],
+      "preview": "El desarrollo de brazos robóticos de alta precisión es un campo en constante evolución. La tecnología MoveIt 2 ofrece una plataforma robusta para la planificación y control de movimiento de estos dispositivos. En este artículo,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-11-control-de-brazos-roboticos-de-7-dof-con-moveit-2-una-g.md"
+    },
+    {
+      "title": "Desafío de velocidad con RISC-V: compilar Fedora es 5 veces más lento",
+      "category": "linux",
+      "date": "2026-03-11",
+      "slug": "desafio-de-velocidad-con-risc-v-compilar-fedora-es-5-ve",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "La comunidad de Fedora ha encontrado un problema importante con los procesadores RISC-V: son muy lentos. Esto significa que compilar paquetes de software puede llevar mucho tiempo, lo que puede ser un problema para los desarrolladores y…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-11-desafio-de-velocidad-con-risc-v-compilar-fedora-es-5-ve.md"
+    },
+    {
+      "title": "MSI lanza una placa base para Linux y open-source a un precio asequible",
+      "category": "linux",
+      "date": "2026-03-11",
+      "slug": "msi-lanza-una-placa-base-para-linux-y-open-source-a-un-",
+      "tags": [
+        "ia-local",
+        "software y linux",
+        "python"
+      ],
+      "preview": "La empresa MSI ha lanzado una placa base AMD Ryzen AM5 para Linux y open-source, diseñada para entusiastas de la comunidad de código abierto. Esta placa base es competitiva en precio y ofrece una experiencia de firmware completamente…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-11-msi-lanza-una-placa-base-para-linux-y-open-source-a-un-.md"
+    },
+    {
+      "title": "Explorando el océano con robots marinos impulsados por Raspberry Pi",
+      "category": "robotica",
+      "date": "2026-03-11",
+      "slug": "explorando-el-oceano-con-robots-marinos-impulsados-por-",
+      "tags": [
+        "raspberry-pi",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La exploración del océano es crucial para la investigación marina, pero las condiciones extremas y el alto costo hacen que sea peligroso y difícil para los humanos. Los vehículos autónomos pueden manejar el trabajo, pero hardware asequible…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-11-explorando-el-oceano-con-robots-marinos-impulsados-por-.md"
+    },
+    {
+      "title": "Mano robótica con músculos artificiales y tendones, inspirada en la naturaleza",
+      "category": "robotica",
+      "date": "2026-03-11",
+      "slug": "mano-robotica-con-musculos-artificiales-y-tendones-insp",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "robotica"
+      ],
+      "preview": "Los investigadores han creado una mano robótica que imita la complejidad de la mano humana, con músculos artificiales y tendones. Esta innovación podría revolucionar la robótica y la medicina.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-11-mano-robotica-con-musculos-artificiales-y-tendones-insp.md"
+    },
+    {
+      "title": "Robot perros transportan productos frescos desde el campo",
+      "category": "robotica",
+      "date": "2026-03-11",
+      "slug": "robot-perros-transportan-productos-frescos-desde-el-cam",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Los robots perros Lynx M20 de Deep Robotics están ayudando a transportar cosechas frescas desde los campos montañosos. Esto es especialmente relevante en áreas rurales donde la logística de la última milla es un desafío. Los robots perros…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-11-robot-perros-transportan-productos-frescos-desde-el-cam.md"
+    },
+    {
+      "title": "ros2_info: Herramienta de información para ROS2 en un solo comando",
+      "category": "robotica",
+      "date": "2026-03-11",
+      "slug": "ros2-info-herramienta-de-informacion-para-ros2-en-un-so",
+      "tags": [
+        "herramientas",
+        "ros2",
+        "linux"
+      ],
+      "preview": "Los desarrolladores de Open Robotics han creado una herramienta llamada ros2_info que permite obtener información detallada sobre el entorno de ROS2 con solo un comando. Esto incluye detalles sobre el distrito de ROS2, nodos, tópicos,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-11-ros2-info-herramienta-de-informacion-para-ros2-en-un-so.md"
+    },
+    {
+      "title": "El lenguaje de programación más dulce: MNM",
+      "category": "diseño-3d",
+      "date": "2026-03-10",
+      "slug": "el-lenguaje-de-programacion-mas-dulce-mnm",
+      "tags": [
+        "programación",
+        "lenguajes de programación",
+        "caramelos M&M",
+        "educación"
+      ],
+      "preview": "Un grupo de desarrolladores ha creado un lenguaje de programación único que utiliza caramelos M&M como símbolos. Aunque puede parecer un juego, el lenguaje MNM tiene una estructura y reglas claras que lo convierten en un proyecto…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-03-10-el-lenguaje-de-programacion-mas-dulce-mnm.md"
+    },
+    {
+      "title": "Intel presenta una placa base industrial con soporte para hasta 256GB de RAM DDR5",
+      "category": "embebidos",
+      "date": "2026-03-10",
+      "slug": "intel-presenta-una-placa-base-industrial-con-soporte-pa",
+      "tags": [
+        "Intel",
+        "placa base industrial",
+        "DDR5",
+        "Arrow Lake-S",
+        "fábrica inteligente"
+      ],
+      "preview": "La empresa Intel ha lanzado una placa base industrial llamada ATX-ARS1-W880, diseñada para aplicaciones de fábrica inteligente. Esta placa base es compatible con procesadores Intel Arrow Lake-S, que ofrecen hasta 24 núcleos y 36 TOPS de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-10-intel-presenta-una-placa-base-industrial-con-soporte-pa.md"
+    },
+    {
+      "title": "Nordic Semi lanza SoCs de Bluetooth LE ultra-bajo consumo",
+      "category": "embebidos",
+      "date": "2026-03-10",
+      "slug": "nordic-semi-lanza-socs-de-bluetooth-le-ultra-bajo-consu",
+      "tags": [
+        "Bluetooth LE",
+        "SoCs",
+        "microcontroladores",
+        "bajo consumo"
+      ],
+      "preview": "Nordic Semiconductor ha presentado dos nuevos SoCs de Bluetooth Low Energy (LE) ultra-bajo consumo, diseñados para aplicaciones simples como sensores, etiquetas, beacons, remotos y periféricos de PC, o como dispositivos de Bluetooth LE…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-10-nordic-semi-lanza-socs-de-bluetooth-le-ultra-bajo-consu.md"
+    },
+    {
+      "title": "Nueva placa Raspberry Pi CM0IQ: ultra compacta y potente",
+      "category": "embebidos",
+      "date": "2026-03-10",
+      "slug": "nueva-placa-raspberry-pi-cm0iq-ultra-compacta-y-potente",
+      "tags": [
+        "Raspberry Pi",
+        "CM0 Lite",
+        "placa de desarrollo",
+        "robótica",
+        "dispositivos IoT"
+      ],
+      "preview": "Makerfabs ha lanzado la CM0IQ, una placa ultra compacta basada en la Raspberry Pi CM0 Lite. Con un tamaño de apenas 42x36mm, esta placa es ideal para aplicaciones de robótica, dispositivos IoT y integraciones de hardware personalizadas. A…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-10-nueva-placa-raspberry-pi-cm0iq-ultra-compacta-y-potente.md"
+    },
+    {
+      "title": "AMI Labs recauda 1.03 mil millones de dólares para desarrollar modelos del mundo",
+      "category": "ia",
+      "date": "2026-03-10",
+      "slug": "ami-labs-recauda-103-mil-millones-de-dolares-para-desar",
+      "tags": [
+        "LLM",
+        "JEPA",
+        "Aprendizaje Profundo",
+        "Modelos del Mundo"
+      ],
+      "preview": "AMI Labs, el nuevo proyecto cofundado por Yann LeCun, ha recaudado 1.03 mil millones de dólares para desarrollar modelos del mundo, una tecnología de inteligencia artificial que aprende de la realidad en lugar de solo de lenguaje. Esto…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-10-ami-labs-recauda-103-mil-millones-de-dolares-para-desar.md"
+    },
+    {
+      "title": "Anthropic lanza herramienta de revisión de código para detectar errores en código generado por IA",
+      "category": "ia",
+      "date": "2026-03-10",
+      "slug": "anthropic-lanza-herramienta-de-revision-de-codigo-para-",
+      "tags": [
+        "vibe coding",
+        "IA",
+        "revisión de código",
+        "Claude Code"
+      ],
+      "preview": "La creciente popularidad de los herramientas de 'vibe coding' ha cambiado la forma en que los desarrolladores trabajan, pero también ha introducido nuevos errores y riesgos de seguridad. Anthropic busca solucionar este problema con su…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-10-anthropic-lanza-herramienta-de-revision-de-codigo-para-.md"
+    },
+    {
+      "title": "Blue Origin crea nuevo plan de opciones de acciones para retener talento",
+      "category": "ia",
+      "date": "2026-03-10",
+      "slug": "blue-origin-crea-nuevo-plan-de-opciones-de-acciones-par",
+      "tags": [
+        "Blue Origin",
+        "Espacio",
+        "Tecnología",
+        "Industria espacial"
+      ],
+      "preview": "Después de dos décadas, Blue Origin sigue sin ser rentable, pero ha logrado avances significativos en la industria espacial. Sin embargo, para retener talento, la empresa sigue rezagada en comparación con otras compañías como SpaceX.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-10-blue-origin-crea-nuevo-plan-de-opciones-de-acciones-par.md"
+    },
+    {
+      "title": "Construyendo un laboratorio de limpieza para semiconductores en un cobertizo",
+      "category": "ia",
+      "date": "2026-03-10",
+      "slug": "construyendo-un-laboratorio-de-limpieza-para-semiconduc",
+      "tags": [
+        "semiconductores",
+        "laboratorio de limpieza",
+        "HEPA",
+        "presión positiva"
+      ],
+      "preview": "Un ingeniero ha convertido un cobertizo de jardín en un laboratorio de limpieza para semiconductores, alcanzando niveles de limpieza similares a los de un centro de fabricación de alta tecnología. Esto demuestra que la tecnología de…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-10-construyendo-un-laboratorio-de-limpieza-para-semiconduc.md"
+    },
+    {
+      "title": "Empleados de OpenAI y Google defienden a Anthropic en disputa con el DOD",
+      "category": "ia",
+      "date": "2026-03-10",
+      "slug": "empleados-de-openai-y-google-defienden-a-anthropic-en-d",
+      "tags": [
+        "IA",
+        "DOD",
+        "Anthropic",
+        "seguridad",
+        "privacidad"
+      ],
+      "preview": "La empresa Anthropic ha sido etiquetada como un riesgo en la cadena de suministro por el DOD, lo que ha generado una reacción en cadena en la comunidad de inteligencia artificial. Más de 30 empleados de OpenAI y Google han presentado un…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-10-empleados-de-openai-y-google-defienden-a-anthropic-en-d.md"
+    },
+    {
+      "title": "Quad Cortex mini: un modelador de amplificadores de guitarra más pequeño y potente",
+      "category": "ia",
+      "date": "2026-03-10",
+      "slug": "quad-cortex-mini-un-modelador-de-amplificadores-de-guit",
+      "tags": [
+        "Machine Learning",
+        "Aprendizaje Automático",
+        "Modelado de Amplificadores"
+      ],
+      "preview": "La empresa Neural DSP ha presentado el Quad Cortex mini, un dispositivo que puede modelar cientos de amplificadores de guitarra, cajas de resonancia y efectos en un solo dispositivo. Esto revoluciona la industria musical y ofrece una…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-10-quad-cortex-mini-un-modelador-de-amplificadores-de-guit.md"
+    },
+    {
+      "title": "Apple M5 Max: El nuevo chip para laptops y desktops de Apple",
+      "category": "linux",
+      "date": "2026-03-10",
+      "slug": "apple-m5-max-el-nuevo-chip-para-laptops-y-desktops-de-a",
+      "tags": [
+        "Apple Silicon",
+        "M5 Max",
+        "Arquitectura Fusionada",
+        "Chip de Procesamiento"
+      ],
+      "preview": "Apple ha lanzado su nuevo chip M5 Max, que ofrece mejor rendimiento y eficiencia en laptops y desktops. Este chip es el resultado de una arquitectura fusionada que combina dos piezas de silicio en una sola. Pero, ¿qué cambia en realidad?",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-10-apple-m5-max-el-nuevo-chip-para-laptops-y-desktops-de-a.md"
+    },
+    {
+      "title": "FreeBSD 14.4: Actualización de FreeBSD para usuarios reacios a pasar a 15",
+      "category": "linux",
+      "date": "2026-03-10",
+      "slug": "freebsd-144-actualizacion-de-freebsd-para-usuarios-reac",
+      "tags": [
+        "FreeBSD",
+        "Linux",
+        "Unix",
+        "actualización",
+        "soporte de hardware"
+      ],
+      "preview": "FreeBSD 14.4 ha sido lanzado como la última actualización de la serie FreeBSD 14, diseñada para usuarios que no están listos para migrar a la versión 15. Esta actualización incluye mejoras y correcciones para aquellos que planean seguir…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-10-freebsd-144-actualizacion-de-freebsd-para-usuarios-reac.md"
+    },
+    {
+      "title": "Ley de verificación de edad en Colorado: ¿excluye software libre?",
+      "category": "linux",
+      "date": "2026-03-10",
+      "slug": "ley-de-verificacion-de-edad-en-colorado-excluye-softwar",
+      "tags": [
+        "software_libre",
+        "verificación_de_edad",
+        "IA",
+        "aprendizaje_autómático"
+      ],
+      "preview": "La empresa System76 ha expresado su preocupación por la posible inclusión de software libre en la ley de verificación de edad en Colorado. Afortunadamente, hay esperanza de que se excluya a este tipo de software.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-10-ley-de-verificacion-de-edad-en-colorado-excluye-softwar.md"
+    },
+    {
+      "title": "NVIDIA lanza nuevo driver beta para Linux con características Vulkan",
+      "category": "linux",
+      "date": "2026-03-10",
+      "slug": "nvidia-lanza-nuevo-driver-beta-para-linux-con-caracteri",
+      "tags": [
+        "Vulkan",
+        "Linux",
+        "NVIDIA",
+        "driver beta"
+      ],
+      "preview": "NVIDIA ha lanzado un nuevo driver beta para Linux que incluye características Vulkan importantes. Este driver es parte del programa de beta de desarrolladores de Vulkan y ofrece mejoras significativas en rendimiento y funcionalidad. La…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-10-nvidia-lanza-nuevo-driver-beta-para-linux-con-caracteri.md"
+    },
+    {
+      "title": "Diagnóstico de un fallo misterioso en un lector de discos de 5,25 pulgadas",
+      "category": "robotica",
+      "date": "2026-03-10",
+      "slug": "diagnostico-de-un-fallo-misterioso-en-un-lector-de-disc",
+      "tags": [
+        "retroinformática",
+        "diagnóstico",
+        "lectores de discos"
+      ],
+      "preview": "Un equipo de retroinformática descubre un comportamiento extraño en un lector de discos de 5,25 pulgadas Commodore 1541, que se inicia y luego se bloquea. ¿Qué está pasando y cómo se puede solucionar?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-10-diagnostico-de-un-fallo-misterioso-en-un-lector-de-disc.md"
+    },
+    {
+      "title": "Cámara de Raspberry Pi modular para experimentar con diferentes pantallas y lentes",
+      "category": "diseño-3d",
+      "date": "2026-03-09",
+      "slug": "camara-de-raspberry-pi-modular-para-experimentar-con-di",
+      "tags": [
+        "Raspberry Pi",
+        "cámara digital",
+        "3D impresión",
+        "modularidad",
+        "proyectos de hardware"
+      ],
+      "preview": "La comunidad de hackers ha adoptado las cámaras de Raspberry Pi como herramienta estándar para proyectos de cámara digital. Sin embargo, la variedad de pantallas, lentes y módulos puede ser complicada de gestionar. Un ingeniero ha creado…",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-03-09-camara-de-raspberry-pi-modular-para-experimentar-con-di.md"
+    },
+    {
+      "title": "Generador de señal RF abierto y de alta gama a un precio asequible",
+      "category": "embebidos",
+      "date": "2026-03-09",
+      "slug": "generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci",
+      "tags": [
+        "RF",
+        "Generador de señal",
+        "Atek Midas",
+        "SCPI",
+        "Laboratorio"
+      ],
+      "preview": "La empresa turca Atek Midas ha lanzado un generador de señal RF de alta gama y abierto que ofrece una gama de frecuencia de 0.15 GHz a 22.6 GHz y puede ser controlado a través de una interfaz web o mediante comandos SCPI.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-09-generador-de-senal-rf-abierto-y-de-alta-gama-a-un-preci.md"
+    },
+    {
+      "title": "Nueva Familia de Microcontroladores STM32C5 para Aplicaciones Industriales",
+      "category": "embebidos",
+      "date": "2026-03-09",
+      "slug": "nueva-familia-de-microcontroladores-stm32c5-para-aplica",
+      "tags": [
+        "STM32C5",
+        "Arm Cortex-M33",
+        "microcontroladores",
+        "industrial",
+        "domótica"
+      ],
+      "preview": "STMicro ha lanzado la familia de microcontroladores STM32C5, diseñada para aplicaciones industriales y domóticas. Estos microcontroladores ofrecen una gran variedad de características y opciones de configuración, lo que los hace ideales…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-09-nueva-familia-de-microcontroladores-stm32c5-para-aplica.md"
+    },
+    {
+      "title": "Desbloqueando la impresora de etiquetas Fichero: un protocolo Bluetooth desmontado",
+      "category": "ia",
+      "date": "2026-03-09",
+      "slug": "desbloqueando-la-impresora-de-etiquetas-fichero-un-prot",
+      "tags": [
+        "reverse-engineering",
+        "protocolo BLE",
+        "impressora de etiquetas",
+        "IoT"
+      ],
+      "preview": "Una impresora de etiquetas barata y accesible, pero con una interfaz de usuario limitada a una aplicación móvil propietaria. Un entusiasta de la tecnología ha decidido cambiar esto mediante la reverse-engineering del protocolo BLE.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-09-desbloqueando-la-impresora-de-etiquetas-fichero-un-prot.md"
+    },
+    {
+      "title": "Man camps para trabajadores de centros de datos: la oportunidad de la IA",
+      "category": "ia",
+      "date": "2026-03-09",
+      "slug": "man-camps-para-trabajadores-de-centros-de-datos-la-opor",
+      "tags": [
+        "man camps",
+        "centros de datos",
+        "IA",
+        "trabajadores temporales"
+      ],
+      "preview": "La construcción de centros de datos impulsada por la IA está generando un boom en la demanda de trabajadores temporales. Para satisfacer esta demanda, se están construyendo campamentos temporales llamados 'man camps', que ofrecen…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-09-man-camps-para-trabajadores-de-centros-de-datos-la-opor.md"
+    },
+    {
+      "title": "Marvel revive Daredevil: Born Again con un nuevo capítulo",
+      "category": "ia",
+      "date": "2026-03-09",
+      "slug": "marvel-revive-daredevil-born-again-con-un-nuevo-capitul",
+      "tags": [
+        "Marvel",
+        "Daredevil",
+        "serie de televisión",
+        "Marvel Studios"
+      ],
+      "preview": "La serie de televisión Daredevil: Born Again regresa con un nuevo capítulo, reuniendo a personajes icónicos de la saga Marvel. La noticia ha generado expectación entre los fanáticos, que esperan ver a Matt Murdock/Daredevil y Wilson…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-09-marvel-revive-daredevil-born-again-con-un-nuevo-capitul.md"
+    },
+    {
+      "title": "Raspberry Pi 5 con pantalla táctil y cámaras: el Pironman 5 Pro Max",
+      "category": "ia",
+      "date": "2026-03-09",
+      "slug": "raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma",
+      "tags": [
+        "Raspberry Pi 5",
+        "pantalla táctil",
+        "cámaras",
+        "caso de Raspberry Pi"
+      ],
+      "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil, cámaras y otros accesorios. Este caso es ideal para proyectos de robótica y automatización.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-09-raspberry-pi-5-con-pantalla-tactil-y-camaras-el-pironma.md"
+    },
+    {
+      "title": "Ring busca tranquilizar a sus usuarios sobre privacidad con Search Party",
+      "category": "ia",
+      "date": "2026-03-09",
+      "slug": "ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad",
+      "tags": [
+        "AI",
+        "Privacidad",
+        "Cámaras Inteligentes",
+        "Inteligencia Artificial"
+      ],
+      "preview": "La empresa Ring ha lanzado un nuevo servicio llamado Search Party, que utiliza inteligencia artificial para ayudar a encontrar perros perdidos. Sin embargo, su anuncio en el Super Bowl ha generado una gran controversia y críticas sobre la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-09-ring-busca-tranquilizar-a-sus-usuarios-sobre-privacidad.md"
+    },
+    {
+      "title": "Simulando neuronas con un ordenador analógico innovador",
+      "category": "ia",
+      "date": "2026-03-09",
+      "slug": "simulando-neuronas-con-un-ordenador-analogico-innovador",
+      "tags": [
+        "ordenador_analógico",
+        "neuronas",
+        "circuitos_electrónicos"
+      ],
+      "preview": "Aunque los ordenadores digitales han dominado la escena, los ordenadores analógicos siguen siendo una fascinación para algunos. Recientemente, un ingeniero ha diseñado un ordenador analógico para simular neuronas, abriendo nuevas…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-09-simulando-neuronas-con-un-ordenador-analogico-innovador.md"
+    },
+    {
+      "title": "Un documental inmersivo busca a los elefantes fantasma del África",
+      "category": "ia",
+      "date": "2026-03-09",
+      "slug": "un-documental-inmersivo-busca-a-los-elefantes-fantasma-",
+      "tags": [
+        "conservación",
+        "biodiversidad",
+        "documental",
+        "investigación científica"
+      ],
+      "preview": "Un equipo de documentalistas liderado por Werner Herzog busca en el África subsahariana a una especie de elefantes nunca antes vista. La búsqueda se basa en la investigación de Steve Boyes, un ornitólogo que ha dedicado años a estudiar a…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-09-un-documental-inmersivo-busca-a-los-elefantes-fantasma-.md"
+    },
+    {
+      "title": "CachyOS cambia a Wayland y mejora la experiencia de usuario",
+      "category": "linux",
+      "date": "2026-03-09",
+      "slug": "cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu",
+      "tags": [
+        "Linux",
+        "Wayland",
+        "Steam Deck",
+        "CachyOS",
+        "Arch Linux"
+      ],
+      "preview": "La distribución CachyOS, basada en Arch Linux, ha lanzado una actualización importante que incluye cambios significativos en la experiencia de usuario para dispositivos portátiles como el Steam Deck. Entre las mejoras destacan la…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-09-cachyos-cambia-a-wayland-y-mejora-la-experiencia-de-usu.md"
+    },
+    {
+      "title": "Linux 7.0-rc3: El kernel más grande en recientes historias",
+      "category": "linux",
+      "date": "2026-03-09",
+      "slug": "linux-70-rc3-el-kernel-mas-grande-en-recientes-historia",
+      "tags": [
+        "kernel",
+        "Linux",
+        "rendimiento",
+        "seguridad",
+        "compatibilidad"
+      ],
+      "preview": "La versión 7.0 del kernel Linux está avanzando rápidamente hacia su lanzamiento estable en abril. La versión 7.0-rc3, lanzada recientemente, incluye una gran cantidad de cambios y arreglos de bugs, lo que ha generado preocupación en el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-09-linux-70-rc3-el-kernel-mas-grande-en-recientes-historia.md"
+    },
+    {
+      "title": "Rust Coreutils 0.7: Mejoras de rendimiento para herramientas de sistema",
+      "category": "linux",
+      "date": "2026-03-09",
+      "slug": "rust-coreutils-07-mejoras-de-rendimiento-para-herramien",
+      "tags": [
+        "Rust",
+        "Coreutils",
+        "GNU Test Suite",
+        "Mejoras de rendimiento",
+        "Seguridad"
+      ],
+      "preview": "La versión 0.7 de Rust Coreutils ha sido lanzada con un enfoque en la mejora del rendimiento de las herramientas de sistema. Esta actualización busca alcanzar la compatibilidad del 100% con el Test de GNU, pero también introduce cambios…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-09-rust-coreutils-07-mejoras-de-rendimiento-para-herramien.md"
+    },
+    {
+      "title": "Descubren dinosaurio minúsculo con brazos largos que cuestiona la miniaturización de los dinosaurios",
+      "category": "robotica",
+      "date": "2026-03-09",
+      "slug": "descubren-dinosaurio-minusculo-con-brazos-largos-que-cu",
+      "tags": [
+        "Paleontología",
+        "Dinosaurios",
+        "Evolución",
+        "Miniaturización"
+      ],
+      "preview": "Un nuevo hallazgo en la paleontología cuestiona la teoría de que los dinosaurios pequeños se miniaturizaron para cazar hormigas y termitas. El descubrimiento de un dinosaurio minúsculo con brazos largos sugiere que la miniaturización no…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-09-descubren-dinosaurio-minusculo-con-brazos-largos-que-cu.md"
+    },
+    {
+      "title": "La controversia del Pentagono y la tecnología Anthropic: ¿qué significa para startups?",
+      "category": "robotica",
+      "date": "2026-03-09",
+      "slug": "la-controversia-del-pentagono-y-la-tecnologia-anthropic",
+      "tags": [
+        "LLM",
+        "IA",
+        "Pentágono",
+        "Tecnología de Defensa"
+      ],
+      "preview": "La relación entre el Pentágono y la empresa Anthropic se ha vuelto tensa después de que el gobierno estadounidense designara a la empresa como un riesgo en la cadena de suministro. Esto ha llevado a que otras empresas de tecnología como…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-09-la-controversia-del-pentagono-y-la-tecnologia-anthropic.md"
+    },
+    {
+      "title": "Echo Pyramid: habla inteligente para controladores IoT M5Stack Atom",
+      "category": "embebidos",
+      "date": "2026-03-08",
+      "slug": "echo-pyramid-habla-inteligente-para-controladores-iot-m",
+      "tags": [
+        "ESP32",
+        "IoT",
+        "Habla inteligente"
+      ],
+      "preview": "La empresa M5Stack ha lanzado el Echo Pyramid, un dispositivo que permite la interacción de voz inteligente en aplicaciones IoT. Este dispositivo es compatible con los controladores M5Stack Atom, AtomS3 y AtomS3R, basados en el SoC ESP32 o…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controladores-iot-m.md"
+    },
+    {
+      "title": "Echo Pyramid: habla inteligente para controles IoT M5Stack Atom",
+      "category": "embebidos",
+      "date": "2026-03-08",
+      "slug": "echo-pyramid-habla-inteligente-para-controles-iot-m5sta",
+      "tags": [
+        "ESP32",
+        "IoT",
+        "Voz Inteligente",
+        "M5Stack"
+      ],
+      "preview": "La tecnología de voz inteligente se vuelve más accesible con el Echo Pyramid, un módulo que permite a los controles IoT M5Stack Atom ejecutar aplicaciones de voz inteligente, como reconocimiento de voz a distancia, asistentes de voz y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-08-echo-pyramid-habla-inteligente-para-controles-iot-m5sta.md"
+    },
+    {
+      "title": "Campamentos temporales para trabajadores de centros de datos con inteligencia artificial",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "campamentos-temporales-para-trabajadores-de-centros-de-",
+      "tags": [
+        "AI",
+        "centros de datos",
+        "man camps",
+        "construcción",
+        "trabajadores"
+      ],
+      "preview": "En Estados Unidos, la construcción de centros de datos con inteligencia artificial está impulsando la creación de campamentos temporales para alojar a los trabajadores necesarios para su construcción. Estos campamentos, llamados 'man…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-de-centros-de-.md"
+    },
+    {
+      "title": "Campamentos temporales para trabajadores en centros de datos con inteligencia artificial",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "campamentos-temporales-para-trabajadores-en-centros-de-",
+      "tags": [
+        "IA",
+        "centros de datos",
+        "man camps",
+        "sostenibilidad",
+        "eficiencia energética"
+      ],
+      "preview": "La construcción de centros de datos con inteligencia artificial (IA) está en auge en Estados Unidos, lo que ha llevado a la creación de campamentos temporales para alojar a los trabajadores que se necesitan para construir y operar estos…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-campamentos-temporales-para-trabajadores-en-centros-de-.md"
+    },
+    {
+      "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensac-2",
+      "tags": [
+        "Google",
+        "Waymo",
+        "Wing",
+        "IA",
+        "Sistemas embebidos"
+      ],
+      "preview": "Google ha otorgado a su CEO, Sundar Pichai, un paquete de compensación de $692 millones, que podría hacerlo uno de los ejecutivos mejor pagados del mundo. Sin embargo, la mayor parte de este paquete está condicionado a su desempeño,…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensac-2.md"
+    },
+    {
+      "title": "Google otorga a Sundar Pichai un paquete de compensación de $692 millones",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "google-otorga-a-sundar-pichai-un-paquete-de-compensacio",
+      "tags": [
+        "compensación",
+        "desempeño",
+        "crecimiento",
+        "innovación"
+      ],
+      "preview": "El CEO de Google, Sundar Pichai, ha recibido un paquete de compensación de $692 millones, con la mayoría de la cantidad vinculada a su desempeño. A diferencia de los fundadores de Google, Larry Page y Sergey Brin, Pichai ha evitado la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-google-otorga-a-sundar-pichai-un-paquete-de-compensacio.md"
+    },
+    {
+      "title": "Investigador busca una nueva especie de elefante en África: un reto en la conservación",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "investigador-busca-una-nueva-especie-de-elefante-en-afr",
+      "tags": [
+        "conservación",
+        "biodiversidad",
+        "ecología",
+        "elefantes",
+        "documental"
+      ],
+      "preview": "Un equipo de investigación liderado por Steve Boyes busca encontrar una nueva especie de elefante en la región de Angola. Esta búsqueda es un desafío en la conservación de la biodiversidad y puede revelar nuevos conocimientos sobre la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-investigador-busca-una-nueva-especie-de-elefante-en-afr.md"
+    },
+    {
+      "title": "La búsqueda de los elefantes fantasmales en la selva angoleña",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an",
+      "tags": [
+        "conservacion",
+        "naturaleza",
+        "elefantes",
+        "documental",
+        "biodiversidad"
+      ],
+      "preview": "Un documental dirigido por Werner Herzog sigue a un conservacionista en su búsqueda de un nuevo tipo de elefante en la selva angoleña. La película, llamada 'Ghost Elephants', muestra la fascinación de Steve Boyes con estos animales y su…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-la-busqueda-de-los-elefantes-fantasmales-en-la-selva-an.md"
+    },
+    {
+      "title": "Marvel revive a Daredevil: Born Again con una nueva temporada y nuevos personajes",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "marvel-revive-a-daredevil-born-again-con-una-nueva-temp",
+      "tags": [
+        "Marvel",
+        "Daredevil",
+        "Nueva Temporada",
+        "Jessica Jones"
+      ],
+      "preview": "La popular serie de televisión Daredevil: Born Again regresa con una nueva temporada, y con ella, nuevos personajes y tramas emocionantes. La serie sigue la historia de Matt Murdock/Daredevil y su archienemigo Wilson Fisk/Kingpin, y ahora…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-marvel-revive-a-daredevil-born-again-con-una-nueva-temp.md"
+    },
+    {
+      "title": "Marvel revive la serie Daredevil: Born Again con un nuevo capítulo emocionante",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "marvel-revive-la-serie-daredevil-born-again-con-un-nuev",
+      "tags": [
+        "Marvel",
+        "Daredevil",
+        "Netflix",
+        "serie de televisión",
+        "acción",
+        "suspenso"
+      ],
+      "preview": "La serie Daredevil: Born Again, una de las mejores de la temporada pasada, regresa con un nuevo capítulo que promete emociones y acción. La serie sigue la historia de Matt Murdock/Daredevil y su enemigo, Wilson Fisk/Kingpin, en una batalla…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-marvel-revive-la-serie-daredevil-born-again-con-un-nuev.md"
+    },
+    {
+      "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2",
+      "tags": [
+        "Raspberry Pi 5",
+        "pantalla táctil",
+        "cámara de 5MP",
+        "altavoces estéreo",
+        "micrófono USB"
+      ],
+      "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, una cámara de 5MP, altavoces estéreo y un micrófono USB. Este caso es ideal para proyectos de robótica y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-2.md"
+    },
+    {
+      "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla táctil y más",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant",
+      "tags": [
+        "Raspberry Pi",
+        "IA",
+        "Automatización",
+        "Multimedia",
+        "Pantalla táctil"
+      ],
+      "preview": "SunFounder ha lanzado el Pironman 5 Pro Max, un caso para Raspberry Pi 5 que incluye una pantalla táctil de 4,3 pulgadas, un módulo de cámara de 5MP y otros accesorios. Este caso es ideal para proyectos de Inteligencia Artificial,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-08-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pant.md"
+    },
+    {
+      "title": "Restauración de un Commodore PET 3032 en mal estado: un proyecto de robótica retro",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2",
+      "tags": [
+        "ordenadores",
+        "restauración",
+        "demoscene",
+        "electrónica",
+        "historia de la informática"
+      ],
+      "preview": "Un equipo de demoscene en Polonia ha restaurado un Commodore PET 3032, un ordenador de la década de 1970 que había estado almacenado durante décadas. Aunque parecía en buen estado al principio, la restauración reveló problemas…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-u-2.md"
+    },
+    {
+      "title": "Restauración de un Commodore PET 3032 en mal estado: un logro de la comunidad retroinformática",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "restauracion-de-un-commodore-pet-3032-en-mal-estado-un-",
+      "tags": [
+        "Retroinformática",
+        "Restauración de ordenadores",
+        "Commodore PET 3032",
+        "Informática clásica"
+      ],
+      "preview": "La comunidad de aficionados a la informática retro ha logrado restaurar un Commodore PET 3032 en mal estado, un ordenador clásico de la década de 1970. Este proyecto es relevante porque muestra la capacidad de la comunidad para recuperar y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-restauracion-de-un-commodore-pet-3032-en-mal-estado-un-.md"
+    },
+    {
+      "title": "Spoofing señales de preeminencia de tráfico de emergencia: un hack posible en realidad",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "spoofing-senales-de-preeminencia-de-trafico-de-emergenc",
+      "tags": [
+        "EVP",
+        "hackeo",
+        "seguridad",
+        "semáforos",
+        "tráfico"
+      ],
+      "preview": "Un investigador ha logrado hackear sistemas de preeminencia de tráfico de emergencia en ciudades, lo que podría permitir a hackers controlar semáforos y crear situaciones de peligro en la vía pública. La noticia destaca la importancia de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-08-spoofing-senales-de-preeminencia-de-trafico-de-emergenc.md"
+    },
+    {
+      "title": "Spoofing un Señal de Preempión de Tráfico de Emergencia: un Hack Real",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "spoofing-un-senal-de-preempion-de-trafico-de-emergencia",
+      "tags": [
+        "Linux",
+        "Robótica",
+        "Sistemas Embebidos",
+        "Seguridad de Sistemas"
+      ],
+      "preview": "Un hacker ha logrado controlar un sistema de preempión de tráfico de emergencia, lo que podría tener graves consecuencias en la seguridad vial. La noticia nos recuerda la importancia de la seguridad en los sistemas críticos. Aunque se…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-08-spoofing-un-senal-de-preempion-de-trafico-de-emergencia.md"
+    },
+    {
+      "title": "Un grupo de expertos presenta un marco para el desarrollo responsable de la inteligencia artificial",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "un-grupo-de-expertos-presenta-un-marco-para-el-desarrol",
+      "tags": [
+        "IA",
+        "Desarrollo responsable",
+        "Seguridad de la IA",
+        "Transparencia de la IA"
+      ],
+      "preview": "Un grupo de expertos ha presentado un marco para el desarrollo responsable de la inteligencia artificial, en respuesta a la falta de regulación en este campo. Este marco, conocido como la Declaración Pro-Humana, busca establecer límites…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-un-grupo-de-expertos-presenta-un-marco-para-el-desarrol.md"
+    },
+    {
+      "title": "Un Jet Ski casero para combatir el aburrimiento del invierno",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "un-jet-ski-casero-para-combatir-el-aburrimiento-del-inv",
+      "tags": [
+        "pulse_jet",
+        "motor_de_pulso",
+        "jet_ski_casero",
+        "robótica",
+        "ingeniería"
+      ],
+      "preview": "Un invierno largo puede hacer que muchos de nosotros nos volvamos un poco locos. En este caso, lo suficientemente locos como para montar un motor de pulse jet casero en un patinete de niño y usarlo en un lago congelado. El resultado es un…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-aburrimiento-del-inv.md"
+    },
+    {
+      "title": "Un Jet Ski casero para combatir el síndrome del invierno",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "un-jet-ski-casero-para-combatir-el-sindrome-del-inviern",
+      "tags": [
+        "motor de impulso de propano",
+        "jet ski casero",
+        "ingeniería"
+      ],
+      "preview": "Un invierno largo puede hacer que los noruegos se vuelvan un poco locos. En este caso, lo suficientemente locos como para montar un motor de impulso de propano casero en un patinete de niño y usarlo en un lago helado para una experiencia…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-un-jet-ski-casero-para-combatir-el-sindrome-del-inviern.md"
+    },
+    {
+      "title": "Un llamado a la responsabilidad en el desarrollo de la inteligencia artificial",
+      "category": "ia",
+      "date": "2026-03-08",
+      "slug": "un-llamado-a-la-responsabilidad-en-el-desarrollo-de-la-",
+      "tags": [
+        "IA",
+        "Desarrollo responsable",
+        "Regulación",
+        "Superinteligencia",
+        "Pro-Human Declaration"
+      ],
+      "preview": "Una coalición bipartisan de expertos ha lanzado un documento que establece un marco para el desarrollo responsable de la inteligencia artificial. Este llamado a la acción surge en un momento en que la falta de regulación en el sector ha…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-08-un-llamado-a-la-responsabilidad-en-el-desarrollo-de-la-.md"
+    },
+    {
+      "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2",
+      "tags": [
+        "Linux",
+        "Steam Deck",
+        "Wayland",
+        "CachyOS",
+        "Arch Linux"
+      ],
+      "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition está disponible, con mejoras significativas en el instalador y la experiencia de usuario. Esta actualización es especialmente importante para propietarios de dispositivos de juego…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-b-2.md"
+    },
+    {
+      "title": "CachyOS Handheld Edition cambia a Wayland y elimina Bcachefs",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca",
+      "tags": [
+        "Linux",
+        "CachyOS",
+        "Wayland",
+        "Bcachefs",
+        "Steam Deck"
+      ],
+      "preview": "La versión de marzo de 2026 de CachyOS Handheld Edition, una distribución de Linux para dispositivos de juego portátiles como el Steam Deck, ha sido actualizada con varias mejoras y cambios importantes. Entre ellos, el cambio a Wayland…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-cachyos-handheld-edition-cambia-a-wayland-y-elimina-bca.md"
+    },
+    {
+      "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de gráficos y codificación de video",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2",
+      "tags": [
+        "FFmpeg",
+        "Vulkan",
+        "JPEG-XS",
+        "aceleración de gráficos",
+        "codificación de video"
+      ],
+      "preview": "Los desarrolladores de FFmpeg están preparando la próxima versión, FFmpeg 8.1, que traerá mejoras significativas en la aceleración de gráficos y la codificación de video. Entre las características nuevas se encuentran la aceleración de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-acelera-2.md"
+    },
+    {
+      "title": "FFmpeg 8.1: Nuevas características y mejoras en aceleración de video y codificación",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci",
+      "tags": [
+        "Vulkan",
+        "JPEG-XS",
+        "aceleración de video",
+        "codificación de video"
+      ],
+      "preview": "Los desarrolladores de FFmpeg están preparando la versión 8.1 de este popular software de codificación y reproducción de video, que incluye mejoras significativas en la aceleración de video y la codificación. Entre las novedades destacan…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-ffmpeg-81-nuevas-caracteristicas-y-mejoras-en-aceleraci.md"
+    },
+    {
+      "title": "GEEKOM A5 Pro 2026 Edition: Ubuntu 25.10 en un mini PC AMD Ryzen 5 7530U",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-pc-am",
+      "tags": [
+        "Ubuntu 25.10",
+        "GEEKOM A5 Pro",
+        "AMD Ryzen 5 7530U",
+        "mini PC",
+        "Linux"
+      ],
+      "preview": "La empresa GEEKOM ha lanzado una versión actualizada de su mini PC A5 Pro, equipado con un procesador AMD Ryzen 5 7530U y 16 GB de memoria RAM. En este artículo, exploraremos cómo funciona el sistema con Ubuntu 25.10, una distribución de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-geekom-a5-pro-2026-edition-ubuntu-2510-en-un-mini-pc-am.md"
+    },
+    {
+      "title": "Intel lanza soporte experimental para gráficos Intel Nova Lake P en Linux",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "intel-lanza-soporte-experimental-para-graficos-intel--2",
+      "tags": [
+        "Linux",
+        "Intel",
+        "NovaLakeP",
+        "Mesa",
+        "Xe3P"
+      ],
+      "preview": "Intel ha lanzado soporte experimental para gráficos Intel Nova Lake P en el driver Mesa 26.1, lo que permitirá a los desarrolladores de Linux aprovechar al máximo la potencia gráfica de estos dispositivos. Este soporte es especialmente…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel--2.md"
+    },
+    {
+      "title": "Intel lanza soporte experimental para gráficos Intel Nova Lake P en Mesa 26.1",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "intel-lanza-soporte-experimental-para-graficos-intel-no",
+      "tags": [
+        "Mesa",
+        "Intel",
+        "NovaLakeP",
+        "Xe3P",
+        "gráficos"
+      ],
+      "preview": "La compañía Intel ha agregado soporte experimental para los gráficos Intel Nova Lake P a la versión de desarrollo de Mesa 26.1. Esta actualización permite a los desarrolladores trabajar con la tecnología de gráficos Intel más avanzada,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-intel-lanza-soporte-experimental-para-graficos-intel-no.md"
+    },
+    {
+      "title": "Revisión del GEEKOM A5 Pro 2026 con Ubuntu 25.10: rendimiento y características",
+      "category": "linux",
+      "date": "2026-03-08",
+      "slug": "revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi",
+      "tags": [
+        "Ubuntu",
+        "Linux",
+        "AMD Ryzen",
+        "Mini PC"
+      ],
+      "preview": "Después de analizar el hardware y probar el mini PC con Windows 11 Pro, ahora exploramos su rendimiento con Ubuntu 25.10. ¿Cómo se comporta el AMD Ryzen 5 7530U en Linux?",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-08-revision-del-geekom-a5-pro-2026-con-ubuntu-2510-rendimi.md"
+    }
+  ],
+  "categories": {
+    "ia": {
+      "label": "IA",
+      "color": "#a78bfa",
+      "keywords": [
+        "ai",
+        "artificial intelligence",
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "llm",
+        "gpt",
+        "gemini",
+        "chatbot",
+        "nlp",
+        "computer vision",
+        "inference",
+        "model",
+        "training",
+        "dataset",
+        "transformer",
+        "diffusion",
+        "generative",
+        "reinforcement learning",
+        "agent",
+        "rag",
+        "fine-tuning",
+        "embedding",
+        "ollama",
+        "hugging face",
+        "benchmark",
+        "claude",
+        "mistral",
+        "llama",
+        "openai",
+        "stable diffusion"
+      ]
+    },
+    "robotica": {
+      "label": "Robótica",
+      "color": "#38bdf8",
+      "keywords": [
+        "robot",
+        "ros",
+        "ros2",
+        "gazebo",
+        "navigation",
+        "slam",
+        "manipulator",
+        "arm",
+        "autonomous",
+        "mobile robot",
+        "drone",
+        "actuator",
+        "servo",
+        "kinematics",
+        "path planning",
+        "lidar",
+        "behavior tree",
+        "humanoid",
+        "legged",
+        "quadruped"
+      ]
+    },
+    "linux": {
+      "label": "Linux",
+      "color": "#34d399",
+      "keywords": [
+        "linux",
+        "kernel",
+        "ubuntu",
+        "debian",
+        "fedora",
+        "arch",
+        "bash",
+        "shell",
+        "systemd",
+        "docker",
+        "container",
+        "podman",
+        "terminal",
+        "cli",
+        "open source",
+        "gnu",
+        "distro",
+        "package",
+        "wayland",
+        "x11",
+        "driver",
+        "filesystem",
+        "python",
+        "programming",
+        "developer",
+        "software",
+        "git",
+        "devops"
+      ]
+    },
+    "embebidos": {
+      "label": "Embebidos",
+      "color": "#fb923c",
+      "keywords": [
+        "embedded",
+        "microcontroller",
+        "arduino",
+        "esp32",
+        "stm32",
+        "fpga",
+        "circuit",
+        "sensor",
+        "pcb",
+        "firmware",
+        "rtos",
+        "bare metal",
+        "i2c",
+        "spi",
+        "uart",
+        "gpio",
+        "mcu",
+        "raspberry pi",
+        "micropython",
+        "zephyr",
+        "freertos",
+        "esp8266",
+        "pico",
+        "teensy",
+        "attiny",
+        "iot",
+        "internet of things",
+        "maker",
+        "diy electronics"
+      ]
+    },
+    "diseño-3d": {
+      "label": "Diseño 3D",
+      "color": "#f472b6",
+      "keywords": [
+        "3d print",
+        "3d printing",
+        "cad",
+        "cnc",
+        "stl",
+        "openscad",
+        "fusion 360",
+        "slicer",
+        "filament",
+        "resin",
+        "fdm",
+        "sla",
+        "prusa",
+        "bambu",
+        "ender",
+        "gcode",
+        "mesh",
+        "solidworks"
+      ]
+    }
   }
-]
+}

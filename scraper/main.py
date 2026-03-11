@@ -95,7 +95,7 @@ def load_config() -> dict:
 # Categorías temáticas del sitio. Deben coincidir exactamente con las
 # claves de CATEGORY_KEYWORDS en utils.py y con los nombres de carpeta
 # dentro de docs/content/.
-CATEGORIES  = ["ia", "robotica", "linux", "embebidos", "diseño-3d"]
+CATEGORIES = list(load_config().get("categories", {}).keys())
 
 # Directorio raíz donde se guardan los artículos generados como Markdown
 CONTENT_DIR = BASE_DIR / "docs" / "content"

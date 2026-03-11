@@ -20,5 +20,53 @@
     "https://randomnerdtutorials.com/feed/",
     "https://embeddedartistry.com/feed/",
     "https://interrupt.memfault.com/feed.xml"
-  ]
+  ],
+  "categories": {
+    "ia": {
+      "label": "IA",
+      "color": "#a78bfa",
+      "keywords": ["ai", "artificial intelligence", "machine learning", 
+      "deep learning", "neural network", "llm", "gpt", "gemini", 
+      "chatbot", "nlp", "computer vision", "inference", "model", 
+      "training", "dataset", "transformer", "diffusion", "generative", 
+      "reinforcement learning", "agent", "rag", "fine-tuning", 
+      "embedding", "ollama", "hugging face", "benchmark", "claude", 
+      "mistral", "llama", "openai", "stable diffusion"]
+    },
+    "robotica": {
+      "label": "Robótica",
+      "color": "#38bdf8",
+      "keywords": ["robot", "ros", "ros2", "gazebo", "navigation", 
+      "slam", "manipulator", "arm", "autonomous", "mobile robot", 
+      "drone", "actuator", "servo", "kinematics", "path planning", 
+      "lidar", "behavior tree", "humanoid", "legged", "quadruped"]
+    },
+    "linux": {
+      "label": "Linux",
+      "color": "#34d399",
+      "keywords": ["linux", "kernel", "ubuntu", "debian", "fedora", 
+      "arch", "bash", "shell", "systemd", "docker", "container", 
+      "podman", "terminal", "cli", "open source", "gnu", "distro", 
+      "package", "wayland", "x11", "driver", "filesystem", "python", 
+      "programming", "developer", "software", "git", "devops"]
+    },
+    "embebidos": {
+      "label": "Embebidos",
+      "color": "#fb923c",
+      "keywords": ["embedded", "microcontroller", "arduino", "esp32", 
+      "stm32", "fpga", "circuit", "sensor", "pcb", "firmware", "rtos",
+      "bare metal", "i2c", "spi", "uart", "gpio", "mcu", 
+      "raspberry pi", "micropython", "zephyr", "freertos", "esp8266", 
+      "pico", "teensy", "attiny", "iot", "internet of things", 
+      "maker", "diy electronics"]
+    },
+    "diseño-3d": {
+      "label": "Diseño 3D",
+      "color": "#f472b6",
+      "keywords": ["3d print", "3d printing", "cad", "cnc", "stl", 
+      "openscad", "fusion 360", "slicer", "filament", "resin", 
+      "fdm", "sla", "prusa", "bambu", "ender", "gcode", "mesh", 
+      "solidworks"]
+    }
+  }
 }

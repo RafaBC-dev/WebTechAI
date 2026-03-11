@@ -409,14 +409,16 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
  * Centralizar este mapeo aquí evita duplicar strings en múltiples lugares.
  * La clase CSS controla el color del badge y la tarjeta en el frontend.
  */
-const CAT_CLASS = {
-  'ia': 'cat-ia',
-  'robotica': 'cat-robotica',
-  'linux': 'cat-linux',
-  'embebidos': 'cat-embebidos',
-  'diseño-3d': 'cat-diseno-3d',
-  'diseno-3d': 'cat-diseno-3d',  // variante sin tilde (por si viene del JSON sin acento)
-};
+let CAT_CLASS = {};
+
+function initCategories(categories) {
+  Object.entries(categories).forEach(([id, cat]) => {
+    document.documentElement.style.setProperty(
+      '--cat-' + id, cat.color
+    );
+    CAT_CLASS[id.toLowerCase()] = 'cat-' + id;
+  });
+}
 
 /**
  * Devuelve la clase CSS de color para una categoría dada.
@@ -425,7 +427,9 @@ const CAT_CLASS = {
  * @returns {string} Clase CSS (ej: "cat-linux") o "cat-default" si no reconoce la categoría
  */
 function catClass(cat = '') {
-  return CAT_CLASS[cat.toLowerCase()] || 'cat-default';
+  let c = cat.toLowerCase();
+  if (!CAT_CLASS[c] && c === 'diseño-3d') c = 'diseno-3d'; // fallback por si acaso
+  return CAT_CLASS[c] || 'cat-default';
 }
 
 /**
@@ -553,7 +557,13 @@ function initIndexPage() {
     try {
       const res = await fetch('index.json?t=' + Date.now());
       if (!res.ok) throw new Error('No se pudo cargar index.json');
-      allNews = await res.json();
+      const data = await res.json();
+      allNews = Array.isArray(data) ? data : (data.news || []);
+      
+      if (!Array.isArray(data) && data.categories) {
+        initCategories(data.categories);
+      }
+      
       updateStats();         // actualiza los contadores del header
       buildNav();            // construye los enlaces de navegación por categoría
       buildCategoryPills();  // construye los botones de filtro de categoría
@@ -844,7 +854,11 @@ function initDetailPage() {
     fetch(filePath).then(r => { if (!r.ok) throw new Error('No se pudo cargar'); return r.text(); }),
     fetch('index.json').then(r => r.ok ? r.json() : [])
   ])
-    .then(([md, allNews]) => {
+    .then(([md, data]) => {
+      const allNews = Array.isArray(data) ? data : (data.news || []);
+      if (!Array.isArray(data) && data.categories) {
+        initCategories(data.categories);
+      }
       const article = parseMarkdown(md);   // parseamos el Markdown a un objeto estructurado
       renderArticle(article, container);   // renderizamos el HTML del artículo
       renderRelated(article, allNews, filePath); // renderizamos artículos relacionados
