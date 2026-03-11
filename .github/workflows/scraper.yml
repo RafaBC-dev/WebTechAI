@@ -100,8 +100,8 @@ jobs:
         working-directory: scraper
         run: python weekly_report.py
 
-      - name: Publicar informes
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "\U0001f4ca Informes semanales"
-          file_pattern: 'docs/reports/*.md'
+          commit_message: "📊 Informes semanales"
+          file_pattern: 'docs/reports/*.md docs/reports/*.json'
+          push_options: '--force'
