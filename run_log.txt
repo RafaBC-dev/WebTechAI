@@ -66,3 +66,20 @@
   + Yann LeCun’s AMI Labs raises $1.03 billion to build world models
   + OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit
   + Anthropic launches code review tool to check flood of AI-generated code
+
+[2026-03-11 09:14:32] Nuevos: 15
+  + AMD Ryzen AI Embedded P100 series expands with up to 12 Zen 5 cores, 80 TOPS of 
+  + Texas Instruments MSPM0G5187 and AM13Ex MCUs integrate TinyEngine NPU for Edge A
+  + Current RISC-V CPUs Being Too Slow Causes Headaches For Fedora: ~5x Slower Build
+  + MSI PRO B850-P WiFi: A Special AMD Ryzen AM5 Motherboard For Linux / Open-Source
+  + Control NERO’s 7-DoF Effortlessly with MoveIt 2 (Part I)
+  + ros2_info — A fastfetch-like system info tool for ROS2
+  + Video Friday: A Robot Hand With Artificial Muscles and Tendons
+  + What Military Drones Can Teach Self-Driving Cars
+  + Video Friday: Robot Dogs Haul Produce From the Field
+  + [$] Debian decides not to decide on AI-generated contributions
+  + New Guide Alert: Arcade Fightstick #Gaming #AdafruitLearningSystem @Adafruit
+  + NEW PRODUCT – Adafruit TMP119 High-Precision ±0.03°C I2C Temperature Sensor – ST
+  + PicoCPC custom board
+  + Maker Monday: Your Raspberry Pi builds
+  + Exploring the ocean with Raspberry Pi–powered marine robots
