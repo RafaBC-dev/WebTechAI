@@ -15,6 +15,8 @@ fáciles de probar y reutilizar.
 import re
 import unicodedata
 import requests
+import time
+from functools import wraps
 from bs4 import BeautifulSoup
 
 
@@ -498,3 +500,21 @@ def generate_unique_slug(text: str, known_slugs: set, max_length: int = 55) -> s
 
     # Paso 4: devolver el slug único encontrado
     return slug
+
+def with_retries(max_retries=3, delay=15, exceptions=(Exception,)):
+    """
+    Decorador genérico para reintentar una función si lanza excepciones.
+    """
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            for intento in range(max_retries):
+                try:
+                    return func(*args, **kwargs)
+                except exceptions as e:
+                    if intento == max_retries - 1:
+                        raise e # Si es el último intento, lanza el error real
+                    print(f"⚠️ Error en {func.__name__} (Intento {intento+1}/{max_retries}). Reintentando en {delay}s...")
+                    time.sleep(delay)
+        return wrapper
+    return decorator

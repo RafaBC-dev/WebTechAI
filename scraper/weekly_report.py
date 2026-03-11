@@ -30,6 +30,8 @@ from google import genai
 from google.genai import types
 from bs4 import BeautifulSoup
 
+from utils import with_retries
+
 # ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
 
 # BASE_DIR apunta a la raíz del repositorio (igual que main.py)
@@ -345,6 +347,7 @@ def fetch_feed_text_filtered(url: str, keywords: list,
         return ""
 
 
+@with_retries(max_retries=3, delay=15)
 def generate_agent_report(raw_text: str) -> str:
     """
     Genera la guía de referencia de herramientas de agentes IA.
@@ -365,11 +368,6 @@ def generate_agent_report(raw_text: str) -> str:
     Returns:
         String markdown con la guía completa.
     """
-    key = os.getenv("GROQ_API_KEY")
-    if not key:
-        raise ValueError("Falta GROQ_API_KEY en el .env")
-    client = Groq(api_key=key)
-
     prompt = f"""Eres un experto en herramientas de desarrollo asistido por IA y coding agents.
 
 Tienes acceso a esta base de conocimiento sobre las principales herramientas disponibles:
@@ -411,33 +409,19 @@ NORMAS:
 - Si no hay novedades esta semana, mantén la guía estable sin cambios drásticos
 - Sé concreto: precios reales, nombres reales, ventajas reales"""
 
-    for intento in range(3):
-        try:
-            client = _gemini_client()
-            response = client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    temperature=0.35,
-                    max_output_tokens=2200,
-                ),
-            )
-            time.sleep(15)
-            return response.text.strip()
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            temperature=0.35,
+            max_output_tokens=2200,
+        ),
+    )
+    time.sleep(15)
+    return response.text.strip()
 
-        except Exception as e:
-            msg = str(e)
-            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
-                if intento < 2:
-                    print(f"  ⏳ Rate limit. Esperando 30s...")
-                    time.sleep(30)
-                    continue
-                return "⚠️ No se pudo generar el informe por rate limit."
-            print(f"  ✗ Error Gemini: {e}")
-            raise
-
-    return "⚠️ No se pudo generar el informe."
-
+@with_retries(max_retries=3, delay=15)
 def generate_report(tema: str, raw_text: str) -> str:
     """
     Genera informe markdown estándar para las secciones no-benchmark.
@@ -472,34 +456,20 @@ explicando qué aporta cada uno. Formato: - [texto](url) — descripción)
 
 Escribe en español neutro y directo. No uses frases genéricas. Sé concreto."""
 
-    for intento in range(3):
-        try:
-            client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-            response = client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    temperature=0.4,
-                    max_output_tokens=2000,
-                ),
-            )
-            time.sleep(15)
-            return response.text.strip()
-
-        except Exception as e:
-            msg = str(e)
-            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
-                if intento < 2:
-                    print(f"  ⏳ Rate limit. Esperando 30s...")
-                    time.sleep(30)
-                    continue
-                return "⚠️ No se pudo generar el informe por rate limit."
-            print(f"  ✗ Error Gemini: {e}")
-            raise
-
-    return "⚠️ No se pudo generar el informe."
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            temperature=0.4,
+            max_output_tokens=2000,
+        ),
+    )
+    time.sleep(15)
+    return response.text.strip()
 
 
+@with_retries(max_retries=3, delay=15)
 def generate_benchmark_report(raw_text: str) -> dict:
     """
     Genera el informe de benchmarks en formato JSON+markdown dual.
@@ -582,51 +552,27 @@ REGLAS PARA modelos[]:
 - novedad: true solo si fue lanzado o actualizado en los últimos 7 días
 - Entre 3 y 8 modelos"""
 
-    for intento in range(3):
-        try:
-            client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-            response = client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    temperature=0.3,
-                    max_output_tokens=3000,
-                ),
-            )
-            time.sleep(15)
-            raw = response.text.strip()
-            # Limpiar bloques ```json si los hay
-            raw = re.sub(r'^```(?:json)?\s*', '', raw)
-            raw = re.sub(r'\s*```$', '', raw)
-            result = _json.loads(raw)
-            result.setdefault("informe", "")
-            result.setdefault("modelos", [])
-            result.setdefault("semana", semana_str)
-            if not isinstance(result["modelos"], list):
-                result["modelos"] = []
-            return result
-
-        except _json.JSONDecodeError:
-            print(f"  ⚠️  JSON inválido en intento {intento+1}, reintentando...")
-            if intento == 2:
-                return {"informe": "⚠️ Error al generar el informe.",
-                        "modelos": [], "semana": semana_str}
-            time.sleep(3)
-            continue
-
-        except Exception as e:
-            msg = str(e)
-            print(f"  [DEBUG Gemini exception]: {type(e).__name__} - {msg}")
-            if "429" in msg or "quota" in msg.lower() or "rate" in msg.lower():
-                if intento < 2:
-                    print(f"  ⏳ Rate limit. Esperando 65s...")
-                    time.sleep(30)
-                    continue
-                return {"informe": "⚠️ Rate limit.", "modelos": [], "semana": semana_str}
-            print(f"  ✗ Error Gemini: {e}")
-            raise
-
-    return {"informe": "", "modelos": [], "semana": semana_str}
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            temperature=0.3,
+            max_output_tokens=3000,
+        ),
+    )
+    time.sleep(15)
+    raw = response.text.strip()
+    # Limpiar bloques ```json si los hay
+    raw = re.sub(r'^```(?:json)?\s*', '', raw)
+    raw = re.sub(r'\s*```$', '', raw)
+    result = _json.loads(raw)
+    result.setdefault("informe", "")
+    result.setdefault("modelos", [])
+    result.setdefault("semana", semana_str)
+    if not isinstance(result["modelos"], list):
+        result["modelos"] = []
+    return result
 
 
 # ── ESCRITURA ─────────────────────────────────────────────────────────────────

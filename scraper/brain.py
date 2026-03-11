@@ -13,6 +13,7 @@ API key:     https://console.groq.com → API Keys → Create key
 from groq import Groq
 from dotenv import load_dotenv
 import os, json, re, time
+from utils import with_retries
 
 # Carga las variables del fichero .env para que os.getenv() funcione
 load_dotenv()
@@ -44,6 +45,7 @@ def _client() -> Groq:
     return Groq(api_key=key)
 
 
+@with_retries(max_retries=3, delay=30)
 def summarize_with_groq(text: str) -> dict:
     """
     Genera un resumen estructurado de una noticia técnica usando Groq/LLaMA.
@@ -106,60 +108,27 @@ Reglas:
 - Todo el contenido debe ser suficientemente detallado para que el lector NO necesite ir a la fuente original
 - Escribe en español neutro, claro y directo"""
 
-    for intento in range(3):
-        try:
-            response = client.chat.completions.create(
-                model=MODEL,
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.4,
-                max_tokens=1200,
-            )
+    response = client.chat.completions.create(
+        model=MODEL,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.4,
+        max_tokens=1200,
+    )
 
-            raw = response.choices[0].message.content.strip()
-            # El modelo a veces envuelve el JSON en bloques ```json ... ```; los eliminamos
-            raw = re.sub(r'^```(?:json)?\s*', '', raw)
-            raw = re.sub(r'\s*```$', '', raw)
+    raw = response.choices[0].message.content.strip()
+    # El modelo a veces envuelve el JSON en bloques ```json ... ```; los eliminamos
+    raw = re.sub(r'^```(?:json)?\s*', '', raw)
+    raw = re.sub(r'\s*```$', '', raw)
 
-            result = json.loads(raw)
+    result = json.loads(raw)
 
-            # setdefault() añade la clave solo si NO existe, preservando el valor del modelo
-            for key in ("titulo", "intro", "que_es", "como_funciona",
-                        "por_que_importa", "consejo", "comando", "tags"):
-                result.setdefault(key, "")
+    # setdefault() añade la clave solo si NO existe, preservando el valor del modelo
+    for key in ("titulo", "intro", "que_es", "como_funciona",
+                "por_que_importa", "consejo", "comando", "tags"):
+        result.setdefault(key, "")
 
-            # Garantizamos que tags sea siempre una lista, nunca una cadena
-            if not isinstance(result["tags"], list):
-                result["tags"] = []
+    # Garantizamos que tags sea siempre una lista, nunca una cadena
+    if not isinstance(result["tags"], list):
+        result["tags"] = []
 
-            return result
-
-        except json.JSONDecodeError:
-            # El modelo devolvió texto que no es JSON válido; reintentamos
-            print("  ⚠️  JSON inválido, reintentando...")
-            if intento == 2:
-                # En el tercer fallo guardamos al menos el texto crudo en intro
-                raw_text = response.choices[0].message.content.strip()
-                return {
-                    "titulo": "", "intro": raw_text[:600],
-                    "que_es": "", "como_funciona": "", "por_que_importa": "",
-                    "consejo": "", "comando": "", "tags": []
-                }
-            time.sleep(2)
-            continue
-
-        except Exception as e:
-            msg = str(e)
-            if "429" in msg or "rate" in msg.lower():
-                # Rate limit de Groq: esperamos 30s antes de reintentar
-                if intento < 2:
-                    print(f"  ⏳ Rate limit. Esperando 30s...")
-                    time.sleep(30)
-                    continue
-                return {"titulo": "", "intro": "", "que_es": "", "como_funciona": "",
-                        "por_que_importa": "", "consejo": "", "comando": "", "tags": []}
-            print(f"  ✗ Error Groq: {e}")
-            raise
-
-    # Fallback final por si el bucle termina sin hacer return (no debería ocurrir)
-    return {"titulo": "", "intro": "", "que_es": "", "como_funciona": "",
-            "por_que_importa": "", "consejo": "", "comando": "", "tags": []}
+    return result
