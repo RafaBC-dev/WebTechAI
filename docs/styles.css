@@ -1042,22 +1042,22 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   pointer-events: auto;
 }
 
-/* — Panel principal — */
-.sidebar {
+/* — Panel principal (Móvil por defecto) — */
+  .sidebar {
     position: fixed;
     left: 0;
     top: 0;
     width: 240px;
     height: 100vh;
     overflow-y: auto;
-    /* Mismo fondo que la página, integrado */
     background: var(--bg);
-    /* Línea derecha muy sutil */
-    border-right: 1px solid rgba(255,255,255,0.06);
+    border-right: 1px solid var(--border);
     box-shadow: none;
-    transform: none;
-    z-index: 99; /* Por debajo del header para que la línea del header quede encima */
-    padding-top: 32px; 
+    
+    /* PARA MÓVIL: Lo oculta desplazándolo a la izquierda */
+    transform: translateX(-100%);
+    transition: transform 0.3s ease; /* Le da una animación de deslizamiento suave */
+    z-index: 200; /* Asegura que tape el header superior al abrirse */
   }
 
   .doc-layout .container {
@@ -1726,34 +1726,36 @@ body.sidebar-open {
         justify-content: space-between;
         align-items: center; 
     }
-    
+
   .doc-layout .hero-title {
         margin-bottom: 0;
     }
 
   .sidebar {
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 240px;
-    height: 100vh;
-    overflow-y: auto;
-    background: var(--bg);
-    /* Línea derecha muy sutil */
-    border-right: none;
-    box-shadow: none;
-    transform: none;
-    z-index: 99;
-    display: flex;
-    flex-direction: column;
-  }
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 240px;
+        height: 100vh;
+        overflow-y: auto;
+        background: var(--bg);
+        border-right: none; 
+        box-shadow: none;
+        
+        /* PARA PC: Anula el ocultamiento del móvil y lo deja fijo siempre */
+        transform: translateX(0) !important;
+        
+        z-index: 99; 
+        display: flex;
+        flex-direction: column;
+    }
 
   .doc-layout .sidebar-nav {
       flex: 1;
   }
 
   .sidebar-header {
-    padding: 5px 24px 20px; 
+    padding: 32px 24px 20px; 
     border-bottom: none;
   }
 
