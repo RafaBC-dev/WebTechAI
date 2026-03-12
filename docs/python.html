@@ -110,8 +110,10 @@
     .detail-section { margin-bottom: 20px; }
     .detail-label { font-family: var(--font-mono); font-size: .7rem; font-weight: 600; color: var(--text-3); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 8px; }
     .detail-text { font-size: .9rem; color: var(--text); line-height: 1.6; }
-    .lib-code { background: #0d1117; border: 1px solid var(--border-2); border-radius: var(--radius-sm); padding: 16px; overflow-x: auto; margin-top: 8px; }
+    .lib-code { background: #0d1117; border: 1px solid var(--border-2); border-radius: var(--radius-sm); padding: 16px; overflow-x: auto; margin-top: 8px; position: relative; }
     .lib-code pre { margin: 0; font-family: var(--font-mono); font-size: .85rem; }
+    .btn-copy-code { position: absolute; top: 8px; right: 8px; background: rgba(255, 255, 255, 0.1); border: 1px solid rgba(255, 255, 255, 0.2); color: var(--text-2); font-family: var(--font-mono); font-size: 0.7rem; padding: 4px 8px; border-radius: var(--radius-sm); cursor: pointer; transition: all var(--transition); z-index: 10; }
+    .btn-copy-code:hover { background: rgba(255, 255, 255, 0.2); color: var(--text); }
     .docs-link { display: inline-flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: .8rem; color: var(--text); background: var(--surface); border: 1px solid var(--border); padding: 8px 16px; border-radius: var(--radius-sm); margin-top: 16px; transition: all var(--transition); }
     .docs-link:hover { border-color: var(--text-2); background: var(--bg-2); }
   </style>

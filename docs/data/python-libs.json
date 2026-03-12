@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "id": "pandas",
+    "nombre": "Pandas",
+    "categoria": "datos",
+    "descripcion_corta": "Herramienta esencial para la manipulación y análisis de datos tabulares.",
+    "que_es": "Pandas es la librería más popular de Python para el análisis de datos estructurados. Proporciona estructuras de datos potentes, como el DataFrame, que permiten trabajar con tablas de forma similar a una hoja de cálculo o una base de datos SQL. Está construida sobre NumPy, lo que garantiza una gran velocidad en operaciones complejas. Es el estándar de la industria para la limpieza y preparación de datos antes de cualquier modelado.",
+    "para_que": "Se utiliza para cargar datos desde archivos CSV, Excel o SQL y transformarlos. Es ideal para limpiar datos incompletos, filtrar información relevante y realizar cálculos estadísticos agrupados. También permite unir diferentes fuentes de datos mediante operaciones de 'join' o 'merge' de manera muy eficiente.",
+    "cuando_usarla": "Cuando necesites manipular datos tabulares, realizar limpieza de 'datasets' ruidosos o preparar información para algoritmos de machine learning.",
+    "cuando_no": "Si el volumen de datos supera la memoria RAM disponible o si necesitas realizar cálculos matemáticos puramente matriciales sin etiquetas, donde NumPy es más ligero.",
+    "estado": "activa",
+    "docs": "https://pandas.pydata.org/docs/",
+    "tags": [
+      "dataframe",
+      "limpieza de datos",
+      "etl",
+      "analisis"
+    ],
+    "ejemplo": {
+      "titulo": "Agrupación y resumen de ventas",
+      "codigo": "import pandas as pd\n# Crear datos de ejemplo\ndatos = {'Producto': ['A', 'B', 'A', 'C', 'B'], 'Ventas': [100, 150, 200, 50, 300]}\ndf = pd.DataFrame(datos)\n# Agrupar por producto y sumar ventas\nresumen = df.groupby('Producto')['Ventas'].sum().reset_index()\n# Filtrar productos con ventas totales superiores a 150\ntop_ventas = resumen[resumen['Ventas'] > 150]\n# Mostrar el resultado final\nprint(top_ventas)"
+    }
+  },
+  {
+    "id": "numpy",
+    "nombre": "NumPy",
+    "categoria": "datos",
+    "descripcion_corta": "Base fundamental para el cálculo científico y manejo de matrices multidimensionales.",
+    "que_es": "NumPy es la librería base sobre la que se apoya casi todo el ecosistema de datos en Python. Introduce el objeto 'ndarray', un arreglo multidimensional extremadamente rápido comparado con las listas nativas de Python. Permite realizar operaciones matemáticas avanzadas de forma vectorizada, evitando bucles lentos. Es indispensable para cualquier tarea que involucre álgebra lineal o procesamiento numérico de alto rendimiento.",
+    "para_que": "Se usa para realizar cálculos matemáticos complejos sobre grandes colecciones de números. Es vital en el procesamiento de imágenes (que son matrices de píxeles) y en la implementación de algoritmos de inteligencia artificial desde cero. También sirve para generar datos aleatorios y realizar transformaciones de señales.",
+    "cuando_usarla": "Cuando trabajes con cálculos numéricos pesados, matrices, álgebra lineal o necesites optimizar el rendimiento de operaciones matemáticas.",
+    "cuando_no": "Para manejar datos tabulares con columnas de diferentes tipos (como nombres y fechas mezclados), donde Pandas es mucho más cómodo.",
+    "estado": "activa",
+    "docs": "https://numpy.org/doc/",
+    "tags": [
+      "matrices",
+      "calculo",
+      "vectores",
+      "matematicas"
+    ],
+    "ejemplo": {
+      "titulo": "Conversión masiva de temperaturas",
+      "codigo": "import numpy as np\n# Crear array con temperaturas en Celsius\ncelsius = np.array([0, 10, 20, 30, 40])\n# Convertir a Fahrenheit usando vectorización (sin bucles for)\nfahrenheit = (celsius * 9/5) + 32\n# Calcular estadísticas básicas de los datos\nmedia = np.mean(fahrenheit)\nmaximo = np.max(fahrenheit)\nprint(f'Temperaturas: {fahrenheit}')\nprint(f'Media: {media}, Máximo: {maximo}')"
+    }
+  },
+  {
+    "id": "polars",
+    "nombre": "Polars",
+    "categoria": "datos",
+    "descripcion_corta": "Librería de procesamiento de datos ultra rápida escrita en Rust.",
+    "que_es": "Polars es una alternativa moderna a Pandas diseñada para ofrecer el máximo rendimiento posible. Está escrita en Rust y utiliza la memoria de forma más eficiente mediante el formato Apache Arrow. A diferencia de otras librerías, procesa los datos de forma paralela aprovechando todos los núcleos de tu procesador. Su diseño evita copias innecesarias de datos, lo que la hace ideal para equipos con recursos limitados o datos masivos.",
+    "para_que": "Se emplea en proyectos donde el tiempo de procesamiento es crítico y los DataFrames son demasiado grandes para Pandas. Es perfecta para procesos de ingeniería de datos que requieren transformaciones rápidas. También se usa para realizar consultas perezosas (lazy evaluation), optimizando la ejecución de filtros y cálculos antes de aplicarlos.",
+    "cuando_usarla": "Cuando Pandas se queda lento o consume demasiada memoria en tu máquina al procesar millones de filas.",
+    "cuando_no": "Si necesitas librerías de terceros que solo aceptan objetos de Pandas como entrada o si el proyecto es pequeño y la simplicidad de Pandas es suficiente.",
+    "estado": "activa",
+    "docs": "https://docs.pola.rs/",
+    "tags": [
+      "rust",
+      "rendimiento",
+      "big data",
+      "lazy evaluation"
+    ],
+    "ejemplo": {
+      "titulo": "Filtrado rápido con expresiones",
+      "codigo": "import polars as pl\n# Crear un DataFrame de Polars\ndf = pl.DataFrame({'id': range(5), 'valor': [10.5, 20.0, 5.0, 30.2, 15.0]})\n# Filtrar y crear una nueva columna calculada\nresultado = (\n    df.filter(pl.col('valor') > 10)\n    .with_columns((pl.col('valor') * 2).alias('doble'))\n    .select(['id', 'doble'])\n)\nprint(resultado)"
+    }
+  },
+  {
+    "id": "matplotlib",
+    "nombre": "Matplotlib",
+    "categoria": "datos",
+    "descripcion_corta": "Librería estándar para la creación de gráficos y visualizaciones estáticas.",
+    "que_es": "Matplotlib es la herramienta de visualización más antigua y flexible de Python. Permite crear desde gráficos de líneas simples hasta diagramas complejos de nivel profesional para publicaciones científicas. Funciona mediante un sistema de capas que da control total sobre cada elemento del gráfico: ejes, etiquetas, colores y leyendas. Es la base sobre la que se construyen muchas otras librerías de visualización más modernas.",
+    "para_que": "Se usa para explorar datos visualmente y detectar tendencias o anomalías. Es ideal para generar figuras estáticas para informes, presentaciones o artículos de investigación. Permite personalizar hasta el más mínimo detalle de una gráfica para que se adapte a requisitos estéticos específicos.",
+    "cuando_usarla": "Cuando necesites un control absoluto sobre el diseño del gráfico o quieras crear visualizaciones personalizadas que no encajan en plantillas estándar.",
+    "cuando_no": "Si buscas crear gráficos interactivos para la web (mejor usar Plotly) o si quieres gráficos estadísticos complejos con muy poco código (mejor usar Seaborn).",
+    "estado": "activa",
+    "docs": "https://matplotlib.org/stable/contents.html",
+    "tags": [
+      "graficos",
+      "visualizacion",
+      "plots",
+      "charts"
+    ],
+    "ejemplo": {
+      "titulo": "Gráfico de líneas personalizado",
+      "codigo": "import matplotlib.pyplot as plt\n# Datos de ejemplo\nmeses = ['Ene', 'Feb', 'Mar', 'Abr', 'May']\nventas = [10, 25, 18, 40, 35]\n# Crear la figura y el trazado\nplt.figure(figsize=(8, 4))\nplt.plot(meses, ventas, color='green', marker='o', linestyle='--')\n# Configurar etiquetas y título en español\nplt.title('Evolución de Ventas Mensuales')\nplt.xlabel('Mes')\nplt.ylabel('Miles de Euros')\nplt.grid(True)\nplt.show()"
+    }
+  },
+  {
+    "id": "seaborn",
+    "nombre": "Seaborn",
+    "categoria": "datos",
+    "descripcion_corta": "Visualización de datos estadísticos con una interfaz elegante y sencilla.",
+    "que_es": "Seaborn es una librería de visualización construida sobre Matplotlib que simplifica enormemente la creación de gráficos complejos. Está diseñada para trabajar directamente con DataFrames de Pandas, entendiendo automáticamente las etiquetas de las columnas. Su principal ventaja es que genera gráficos estéticamente atractivos por defecto, con temas y paletas de colores profesionales. Se enfoca en la exploración estadística de los datos de manera rápida y efectiva.",
+    "para_que": "Se utiliza para visualizar relaciones entre múltiples variables, como diagramas de dispersión con regresión o mapas de calor de correlaciones. Es excelente para mostrar distribuciones de datos mediante histogramas suavizados o diagramas de caja. Facilita la comparación de categorías dentro de un 'dataset' mediante el uso de colores automáticos.",
+    "cuando_usarla": "Cuando necesites crear gráficos estadísticos elegantes de forma rápida y tus datos ya estén en un DataFrame de Pandas.",
+    "cuando_no": "Para visualizaciones muy personalizadas que requieren manipular elementos individuales del gráfico fuera de los estándares estadísticos.",
+    "estado": "activa",
+    "docs": "https://seaborn.pydata.org/",
+    "tags": [
+      "estadistica",
+      "visualizacion",
+      "pandas",
+      "estetica"
+    ],
+    "ejemplo": {
+      "titulo": "Gráfico de dispersión con regresión",
+      "codigo": "import seaborn as sns\nimport matplotlib.pyplot as plt\n# Cargar dataset de ejemplo integrado\ntips = sns.load_dataset('tips')\n# Crear gráfico con línea de tendencia\nsns.regplot(data=tips, x='total_bill', y='tip', scatter_kws={'alpha':0.5})\n# Añadir títulos claros\nplt.title('Relación entre Cuenta y Propina')\nplt.xlabel('Total de la Cuenta ($)')\nplt.ylabel('Propina ($)')\nplt.show()"
+    }
+  }
+]

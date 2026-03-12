@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="lib-header">
         <div class="lib-title-area">
           <div class="lib-badges">
-            <span class="cat-badge" style="color: ${cssVarCat}; background: ${cssVarCat}; background-opacity: 0.1;">${esc(lib.categoria || 'Otro')}</span>
+            <span class="cat-badge ${typeof catClass === 'function' ? catClass(lib.categoria) : 'cat-default'}">${esc(lib.categoria || 'Otro')}</span>
             <span class="status-badge ${isActiva ? 'activa' : 'deprecated'}">${isActiva ? 'Activa' : 'Deprecated'}</span>
           </div>
           <h2 class="lib-name">${esc(lib.nombre)}</h2>
@@ -242,16 +242,19 @@ document.addEventListener('DOMContentLoaded', () => {
       detailsHtml += `<div class="detail-section"><div class="detail-label">¿Para qué sirve?</div><div class="detail-text">${esc(lib.para_que)}</div></div>`;
     }
     if (lib.cuando_usarla) {
-      detailsHtml += `<div class="detail-section"><div class="detail-label">Cuándo usarla</div><div class="detail-text" style="color: #34d399">${esc(lib.cuando_usarla)}</div></div>`;
+      detailsHtml += `<div class="detail-section"><div class="detail-label">Cuándo usarla</div><div class="detail-text">${esc(lib.cuando_usarla)}</div></div>`;
     }
     if (lib.cuando_no) {
-      detailsHtml += `<div class="detail-section"><div class="detail-label">Cuándo NO usarla</div><div class="detail-text" style="color: #f87171">${esc(lib.cuando_no)}</div></div>`;
+      detailsHtml += `<div class="detail-section"><div class="detail-label">Cuándo NO usarla</div><div class="detail-text">${esc(lib.cuando_no)}</div></div>`;
     }
     
     if (lib.ejemplo && lib.ejemplo.codigo) {
        detailsHtml += `<div class="detail-section">
          <div class="detail-label">${esc(lib.ejemplo.titulo || 'Ejemplo')}</div>
-         <div class="lib-code"><pre><code class="language-python">${esc(lib.ejemplo.codigo)}</code></pre></div>
+         <div class="lib-code">
+           <button class="btn-copy-code" data-code="${esc(lib.ejemplo.codigo)}">Copiar</button>
+           <pre><code class="language-python">${esc(lib.ejemplo.codigo)}</code></pre>
+         </div>
        </div>`;
     }
     
@@ -285,10 +288,25 @@ document.addEventListener('DOMContentLoaded', () => {
       toggleDetails();
     });
     
-    div.addEventListener('click', (e) => {
-      if(!e.target.closest('button') && !e.target.closest('a')) {
-        toggleDetails();
-      }
+    const copyBtns = div.querySelectorAll('.btn-copy-code');
+    copyBtns.forEach(btn => {
+      btn.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        try {
+          await navigator.clipboard.writeText(btn.dataset.code);
+          const originalText = btn.textContent;
+          btn.textContent = '✓ Copiado';
+          btn.style.color = '#34d399';
+          btn.style.borderColor = 'rgba(52,211,153,.3)';
+          setTimeout(() => {
+            btn.textContent = originalText;
+            btn.style.color = '';
+            btn.style.borderColor = '';
+          }, 2000);
+        } catch (err) {
+          console.error('Error al copiar: ', err);
+        }
+      });
     });
     
     return div;
