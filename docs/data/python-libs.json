@@ -128,7 +128,7 @@
         ],
         "ejemplo": {
             "titulo": "Creación de una API con validación",
-            "codigo": "from fastapi import FastAPI\nfrom pydantic import BaseModel\n\napp = FastAPI()\n\nclass Producto(BaseModel):\n    nombre: str\n    precio: float\n\n@app.post(\"/productos/\")\nasync def crear_producto(producto: Producto):\n    # Pydantic valida automáticamente que los tipos sean correctos\n    return {\"mensaje\": f\"Producto {producto.nombre} guardado\", \"total\": producto.precio * 1.21}\n\n@app.get(\"/\")\nasync def inicio():\n    return {\"tech\": \"TechPulse ES\"}"
+            "codigo": "from fastapi import FastAPI\nfrom pydantic import BaseModel\n\napp = FastAPI()\n\nclass Producto(BaseModel):\n    nombre: str\n    precio: float\n\n@app.post('/productos/')\nasync def crear_producto(producto: Producto):\n    # Pydantic valida automáticamente que los tipos sean correctos\n    return {'mensaje': f'Producto {producto.nombre} guardado', 'total': producto.precio * 1.21}\n\n@app.get('/')\nasync def inicio():\n    return {'tech': 'TechPulse ES'}"
         }
     },
     {
@@ -150,7 +150,7 @@
         ],
         "ejemplo": {
             "titulo": "Servidor web básico con rutas dinámicas",
-            "codigo": "from flask import Flask, jsonify\n\napp = Flask(__name__)\n\n@app.route('/usuario/<nombre>')\ndef saludar(nombre):\n    # Retorna un JSON con un saludo personalizado\n    datos = {\"usuario\": nombre, \"estado\": \"conectado\", \"portal\": \"TechPulse ES\"}\n    return jsonify(datos)\n\nif __name__ == '__main__':\n    # Inicia el servidor en modo depuración\n    app.run(debug=True)"
+            "codigo": "from flask import Flask, jsonify\n\napp = Flask(__name__)\n\n@app.route('/usuario/<nombre>')\ndef saludar(nombre):\n    # Retorna un JSON con un saludo personalizado\n    datos = {'usuario': nombre, 'estado': 'conectado', 'portal': 'TechPulse ES'}\n    return jsonify(datos)\n\nif __name__ == '__main__':\n    # Inicia el servidor en modo depuración\n    app.run(debug=True)"
         }
     },
     {
@@ -172,7 +172,7 @@
         ],
         "ejemplo": {
             "titulo": "Extracción de enlaces de una web",
-            "codigo": "from bs4 import BeautifulSoup\nimport requests\n\n# Descargamos el contenido de la web\nurl = \"https://techpulse.es\"\nrespuesta = requests.get(url)\n\n# Creamos el objeto soup para analizar el HTML\nsoup = BeautifulSoup(respuesta.text, 'html.parser')\n\n# Buscamos todos los enlaces y filtramos los que tienen texto\nfor enlace in soup.find_all('a'):\n    url_texto = enlace.get('href')\n    if url_texto and \"http\" in url_texto:\n        print(f\"Enlace encontrado: {url_texto}\")"
+            "codigo": "from bs4 import BeautifulSoup\nimport requests\n\n# Descargamos el contenido de la web\nurl = 'https://techpulse.es'\nrespuesta = requests.get(url)\n\n# Creamos el objeto soup para analizar el HTML\nsoup = BeautifulSoup(respuesta.text, 'html.parser')\n\n# Buscamos todos los enlaces y filtramos los que tienen texto\nfor enlace in soup.find_all('a'):\n    url_texto = enlace.get('href')\n    if url_texto and 'http' in url_texto:\n        print(f'Enlace encontrado: {url_texto}')"
         }
     },
     {
@@ -216,7 +216,7 @@
         ],
         "ejemplo": {
             "titulo": "Petición asíncrona a una API",
-            "codigo": "import httpx\nimport asyncio\n\nasync def consultar_api():\n    # Usamos un cliente asíncrono para mejor rendimiento\n    async with httpx.AsyncClient() as cliente:\n        respuesta = await cliente.get(\"https://api.github.com/zen\")\n        if respuesta.status_code == 200:\n            print(f\"Frase del día: {respuesta.text}\")\n        print(f\"Protocolo usado: {respuesta.http_version}\")\n\n# Ejecutamos la función en el bucle de eventos\nasyncio.run(consultar_api())"
+            "codigo": "import httpx\nimport asyncio\n\nasync def consultar_api():\n    # Usamos un cliente asíncrono para mejor rendimiento\n    async with httpx.AsyncClient() as cliente:\n        respuesta = await cliente.get('https://api.github.com/zen')\n        if respuesta.status_code == 200:\n            print(f'Frase del día: {respuesta.text}')\n        print(f'Protocolo usado: {respuesta.http_version}')\n\n# Ejecutamos la función en el bucle de eventos\nasyncio.run(consultar_api())"
         }
     },
     {
@@ -238,7 +238,7 @@
         ],
         "ejemplo": {
             "titulo": "Contador interactivo en tiempo real",
-            "codigo": "import reflex as rx\n\nclass EstadoContador(rx.State):\n    valor: int = 0\n    def incrementar(self):\n        self.valor += 1\n\ndef index():\n    # Interfaz definida con componentes de Python\n    return rx.vstack(\n        rx.heading(f\"Valor actual: {EstadoContador.valor}\", size=\"8\"),\n        rx.button(\"Incrementar\", on_click=EstadoContador.incrementar),\n        padding=\"2em\"\n    )\n\napp = rx.App()\napp.add_page(index)"
+            "codigo": "import reflex as rx\n\nclass EstadoContador(rx.State):\n    valor: int = 0\n    def incrementar(self):\n        self.valor += 1\n\ndef index():\n    # Interfaz definida con componentes de Python\n    return rx.vstack(\n        rx.heading(f'Valor actual: {EstadoContador.valor}', size='8'),\n        rx.button('Incrementar', on_click=EstadoContador.incrementar),\n        padding='2em'\n    )\n\napp = rx.App()\napp.add_page(index)"
         }
     },
     {
@@ -304,7 +304,7 @@
         ],
         "ejemplo": {
             "titulo": "Análisis de sentimiento con dos líneas",
-            "codigo": "from transformers import pipeline\n\n# Cargar un modelo pre-entrenado para análisis de texto\nanalizador = pipeline('sentiment-analysis', lang='es')\n# Analizar una lista de comentarios de clientes\ntextos = ['Me encanta este producto', 'El servicio fue pésimo']\nresultados = analizador(textos)\n# Mostrar la etiqueta (Positivo/Negativo) y la confianza\nfor texto, res in zip(textos, resultados):\n    print(f'Texto: {texto} | Resultado: {res[\\\"label\\\"]} ({res[\\\"score\\\"]:.2f})')"
+            "codigo": "from transformers import pipeline\n\n# Cargar un modelo pre-entrenado para análisis de texto\nanalizador = pipeline('sentiment-analysis', lang='es')\n# Analizar una lista de comentarios de clientes\ntextos = ['Me encanta este producto', 'El servicio fue pésimo']\nresultados = analizador(textos)\n# Mostrar la etiqueta (Positivo/Negativo) y la confianza\nfor texto, res in zip(textos, resultados):\n    print(f'Texto: {texto} | Resultado: {res[\\'label\\']} ({res[\\'score\\']:.2f})')"
         }
     },
     {
@@ -326,7 +326,7 @@
         ],
         "ejemplo": {
             "titulo": "Cadena básica con plantilla de prompt",
-            "codigo": "from langchain.prompts import PromptTemplate\nfrom langchain_openai import ChatOpenAI\n\n# Definir cómo queremos que responda la IA\nplantilla = \"Eres un experto en {tema}. Explica {concepto} de forma breve.\"\nprompt = PromptTemplate(input_variables=['tema', 'concepto'], template=plantilla)\n# Configurar el modelo (requiere API KEY)\nllm = ChatOpenAI(model_name='gpt-3.5-turbo')\n# Combinar la plantilla con el modelo y ejecutar\ncadena = prompt | llm\nrespuesta = cadena.invoke({'tema': 'astronomía', 'concepto': 'agujeros negros'})\nprint(respuesta.content)"
+            "codigo": "from langchain.prompts import PromptTemplate\nfrom langchain_openai import ChatOpenAI\n\n# Definir cómo queremos que responda la IA\nplantilla = 'Eres un experto en {tema}. Explica {concepto} de forma breve.'\nprompt = PromptTemplate(input_variables=['tema', 'concepto'], template=plantilla)\n# Configurar el modelo (requiere API KEY)\nllm = ChatOpenAI(model_name='gpt-3.5-turbo')\n# Combinar la plantilla con el modelo y ejecutar\ncadena = prompt | llm\nrespuesta = cadena.invoke({'tema': 'astronomía', 'concepto': 'agujeros negros'})\nprint(respuesta.content)"
         }
     },
     {
@@ -503,6 +503,160 @@
         "ejemplo": {
             "titulo": "Programación de una tarea diaria",
             "codigo": "import schedule\nimport time\n\ndef tarea_limpieza():\n    print('Realizando limpieza de logs...')\n\n# Configuración intuitiva de los intervalos\nschedule.every(10).minutes.do(tarea_limpieza)\nschedule.every().day.at('03:00').do(tarea_limpieza)\n\nwhile True:\n    # Ejecuta las tareas que estén pendientes\n    schedule.run_pending()\n    time.sleep(1)"
+        }
+    },
+    {
+        "id": "sqlalchemy",
+        "nombre": "SQLAlchemy",
+        "categoria": "db",
+        "descripcion_corta": "El kit de herramientas SQL y ORM más potente para Python.",
+        "que_es": "Es una biblioteca que facilita la comunicación entre programas Python y bases de datos relacionales. Ofrece un mapeador objeto-relacional (ORM) que permite tratar las tablas de la base de datos como clases de Python. Es famosa por su flexibilidad y por permitir escribir consultas SQL complejas de forma programática. Se adapta tanto a scripts sencillos como a aplicaciones empresariales masivas.",
+        "para_que": "Se utiliza para construir el backend de aplicaciones web que requieren persistencia de datos estructurados en motores como PostgreSQL, MySQL o SQLite. Es ideal para gestionar relaciones complejas entre datos, como sistemas de usuarios, pedidos y productos en un comercio electrónico. También se usa para automatizar migraciones de esquemas de base de datos de forma segura.",
+        "cuando_usarla": "Cuando necesites una abstracción potente que te permita cambiar de motor de base de datos fácilmente o cuando quieras evitar escribir SQL puro manualmente.",
+        "cuando_no": "Para proyectos extremadamente simples donde una base de datos de documentos o el módulo sqlite3 nativo de Python sean suficientes sin añadir capas de complejidad.",
+        "estado": "activa",
+        "docs": "[https://www.sqlalchemy.org/](https://www.sqlalchemy.org/)",
+        "tags": [
+            "orm",
+            "sql",
+            "database",
+            "backend"
+        ],
+        "ejemplo": {
+            "titulo": "Definición de modelo e inserción de datos",
+            "codigo": "from sqlalchemy import create_engine, Column, Integer, String\nfrom sqlalchemy.orm import declarative_base, sessionmaker\n\nBase = declarative_base()\nclass Usuario(Base):\n    **tablename** = 'usuarios'\n    id = Column(Integer, primary_key=True)\n    nombre = Column(String)\n\n# Crear base de datos en memoria\nmotor = create_engine('sqlite:///:memory:')\nBase.metadata.create_all(motor)\nSesion = sessionmaker(bind=motor)\nsesion = Sesion()\n\n# Guardar un nuevo registro\nnuevo = Usuario(nombre='Juan')\nsesion.add(nuevo)\nsesion.commit()\nprint(f'Registrado: {nuevo.nombre}')"
+        }
+    },
+    {
+        "id": "pymongo",
+        "nombre": "PyMongo",
+        "categoria": "db",
+        "descripcion_corta": "Driver oficial de Python para interactuar con bases de datos MongoDB.",
+        "que_es": "Es la herramienta estándar para conectar aplicaciones Python con MongoDB, la base de datos NoSQL más popular. Permite trabajar con datos en formato similar a diccionarios de Python, lo que hace que el manejo de documentos JSON sea natural y fluido. Incluye todas las herramientas necesarias para realizar búsquedas, inserciones y agregaciones complejas. Es extremadamente eficiente para manejar grandes volúmenes de datos no estructurados.",
+        "para_que": "Se emplea en el desarrollo de sistemas de gestión de contenido, análisis de redes sociales o aplicaciones de mensajería donde los datos no tienen un esquema fijo. Es fundamental en proyectos de Big Data que requieren alta velocidad de escritura y lectura de documentos variados.",
+        "cuando_usarla": "Cuando el esquema de tus datos sea cambiante o necesites escalar horizontalmente una base de datos documental de forma sencilla.",
+        "cuando_no": "Si tu proyecto depende estrictamente de la integridad referencial y transacciones complejas entre múltiples tablas relacionadas, donde SQL es superior.",
+        "estado": "activa",
+        "docs": "[https://www.mongodb.com/docs/languages/python/pymongo/](https://www.google.com/search?q=https://www.mongodb.com/docs/languages/python/pymongo/)",
+        "tags": [
+            "nosql",
+            "mongodb",
+            "documentos",
+            "data"
+        ],
+        "ejemplo": {
+            "titulo": "Inserción y búsqueda de documentos",
+            "codigo": "from pymongo import MongoClient\n\n# Conectar al servidor local de MongoDB\ncliente = MongoClient('mongodb://localhost:27017/')\ndb = cliente['mi_base_datos']\ncoleccion = db['usuarios']\n\n# Insertar un documento con esquema flexible\nusuario = {'nombre': 'Ana', 'edad': 28, 'hobbies': ['tenis', 'cine']}\ncoleccion.insert_one(usuario)\n\n# Buscar el usuario en la coleccion\nresultado = coleccion.find_one({'nombre': 'Ana'})\nprint(f'Usuario encontrado: {resultado.get('nombre')}')"
+        }
+    },
+    {
+        "id": "redis-py",
+        "nombre": "redis-py",
+        "categoria": "db",
+        "descripcion_corta": "Interfaz de Python para Redis, el motor de almacenamiento en memoria ultra rápido.",
+        "que_es": "Es la librería que permite a Python comunicarse con Redis, un sistema de almacenamiento de estructuras de datos en memoria. Se utiliza principalmente como base de datos de clave-valor, caché y gestor de colas de mensajes. Al trabajar directamente sobre la memoria RAM, ofrece una latencia mínima en comparación con las bases de datos en disco. Es una pieza fundamental en la arquitectura de aplicaciones que requieren alta disponibilidad y velocidad extrema.",
+        "para_que": "Se utiliza para implementar sistemas de caché que aceleran la carga de páginas web almacenando resultados de consultas costosas. También es ideal para gestionar sesiones de usuario, contadores en tiempo real (como visualizaciones de un post) y para comunicar diferentes microservicios mediante sistemas de publicación/suscripción.",
+        "cuando_usarla": "Cuando necesites velocidad de respuesta en microsegundos o una estructura de datos compartida entre varios procesos.",
+        "cuando_no": "Como única base de datos para almacenar grandes cantidades de información histórica que no quepa en la memoria RAM o que requiera relaciones complejas.",
+        "estado": "activa",
+        "docs": "[https://redis-py.readthedocs.io/](https://redis-py.readthedocs.io/)",
+        "tags": [
+            "cache",
+            "key-value",
+            "performance",
+            "in-memory"
+        ],
+        "ejemplo": {
+            "titulo": "Uso de Redis como caché simple",
+            "codigo": "import redis\n\n# Conectar a la instancia local de Redis\nr = redis.Redis(host='localhost', port=6379, db=0)\n\n# Guardar un valor con tiempo de expiracion (60 segundos)\nr.set('token_sesion', 'xyz123', ex=60)\n\n# Recuperar el valor\nvalor = r.get('token_sesion')\nif valor:\n    print(f'Token recuperado: {valor.decode('utf-8')}')\nelse:\n    print('El token ha expirado o no existe')"
+        }
+    },
+    {
+        "id": "pytest",
+        "nombre": "pytest",
+        "categoria": "devtools",
+        "descripcion_corta": "El framework de pruebas más popular y potente para el ecosistema Python.",
+        "que_es": "Es una herramienta que facilita la escritura de pruebas pequeñas y legibles, escalando a tests complejos para aplicaciones completas. Elimina la necesidad de código repetitivo gracias a su sistema de 'fixtures' y su capacidad para detectar pruebas automáticamente. Proporciona informes de errores muy detallados que ayudan a identificar fallos rápidamente. Es compatible con los tests escritos para la librería nativa unittest, pero con una sintaxis mucho más limpia.",
+        "para_que": "Se usa en el flujo de desarrollo diario para asegurar que los cambios en el código no rompen funcionalidades existentes. Es esencial en sistemas de Integración Continua (CI/CD) para validar automáticamente el software antes de que llegue a producción.",
+        "cuando_usarla": "Siempre que desarrolles software profesional y quieras garantizar la calidad del código mediante pruebas unitarias, de integración o funcionales.",
+        "cuando_no": "Para scripts de una sola ejecución extremadamente triviales donde el tiempo de configurar el test supere al beneficio de la automatización.",
+        "estado": "activa",
+        "docs": "[https://docs.pytest.org/](https://docs.pytest.org/)",
+        "tags": [
+            "testing",
+            "qa",
+            "automation",
+            "desarrollo"
+        ],
+        "ejemplo": {
+            "titulo": "Prueba unitaria con aserciones simples",
+            "codigo": "def calcular_iva(precio):\n    return precio * 0.21\n\n# Test sencillo que verifica el calculo\ndef test_calcular_iva():\n    assert calcular_iva(100) == 21\n    assert calcular_iva(0) == 0\n\n# Test que verifica una condicion de error\ndef test_iva_valor_positivo():\n    resultado = calcular_iva(50)\n    assert resultado > 0\n\n# Para ejecutar: escribir 'pytest' en la terminal"
+        }
+    },
+    {
+        "id": "pydantic",
+        "nombre": "Pydantic",
+        "categoria": "devtools",
+        "descripcion_corta": "Validación de datos y gestión de configuraciones usando tipos de Python.",
+        "que_es": "Es una librería que utiliza las anotaciones de tipo de Python para validar que los datos que recibe un programa son correctos. Si los datos no cumplen con el formato esperado, Pydantic lanza errores claros y detallados. Es extremadamente rápido debido a que su núcleo está escrito en Rust. Se ha convertido en un estándar gracias a su integración profunda con frameworks modernos como FastAPI.",
+        "para_que": "Se utiliza para validar la información que llega a una API desde un formulario web o un JSON externo. También es excelente para gestionar archivos de configuración de aplicaciones, asegurando que todas las variables necesarias estén presentes y tengan el formato adecuado (por ejemplo, que un puerto sea realmente un número).",
+        "cuando_usarla": "Cuando tu aplicación reciba datos externos y necesites garantizar que son válidos antes de procesarlos.",
+        "cuando_no": "Para operaciones matemáticas puras o procesamiento interno donde ya tienes control total sobre los tipos de datos y la velocidad extrema sin validación sea prioritaria.",
+        "estado": "activa",
+        "docs": "[https://docs.pydantic.dev/](https://www.google.com/search?q=https://docs.pydantic.dev/)",
+        "tags": [
+            "validacion",
+            "tipado",
+            "schema",
+            "api"
+        ],
+        "ejemplo": {
+            "titulo": "Validación automática de un modelo de usuario",
+            "codigo": "from pydantic import BaseModel, EmailStr, Field\n\nclass PerfilUsuario(BaseModel):\n    id: int\n    nombre: str = Field(min_length=2)\n    email: EmailStr\n\n# Datos que podrian venir de una API\ndatos_externos = {'id': 10, 'nombre': 'Luis', 'email': 'correo@test.com'}\n\n# Validacion y creacion del objeto\nuser = PerfilUsuario(**datos_externos)\nprint(f'Usuario validado: {user.nombre} con ID {user.id}')\n# Si el email fuera invalido, Pydantic lanzaria un error"
+        }
+    },
+    {
+        "id": "loguru",
+        "nombre": "Loguru",
+        "categoria": "devtools",
+        "descripcion_corta": "Logging en Python hecho de forma sencilla y elegante.",
+        "que_es": "Es una biblioteca diseñada para hacer que el registro de eventos (logging) sea agradable y extremadamente fácil de configurar. A diferencia del módulo logging estándar de Python, Loguru no requiere configuraciones complejas para empezar a funcionar. Ofrece colores en la terminal, rotación automática de archivos y captura de errores detallada por defecto. Su objetivo es que el desarrollador se enfoque en qué registrar, no en cómo configurarlo.",
+        "para_que": "Se utiliza en scripts de automatización y aplicaciones de servidor para dejar constancia de qué está ocurriendo en cada momento. Es vital para diagnosticar errores en producción, ya que permite guardar logs estructurados que incluyen información precisa sobre dónde y por qué falló el código.",
+        "cuando_usarla": "En cualquier proyecto donde necesites visibilidad sobre el comportamiento de tu código sin perder tiempo configurando manejadores de logs complejos.",
+        "cuando_no": "En librerías de terceros destinadas a ser instaladas por otros, donde es mejor usar el logging estándar para no imponer una dependencia visual al usuario final.",
+        "estado": "activa",
+        "docs": "[https://loguru.readthedocs.io/](https://loguru.readthedocs.io/)",
+        "tags": [
+            "logging",
+            "debug",
+            "logs",
+            "monitorizacion"
+        ],
+        "ejemplo": {
+            "titulo": "Registro de eventos y errores en archivo",
+            "codigo": "from loguru import logger\n\n# Configurar registro en archivo con rotacion por tamaño\nlogger.add('archivo_log.log', rotation='500 MB', level='INFO')\n\nlogger.info('Iniciando el proceso de importacion')\n\ntry:\n    # Simulacion de una division por cero\n    resultado = 1 / 0\nexcept Exception:\n    # Captura automaticamente el error con toda la traza\n    logger.exception('Ha ocurrido un error inesperado')\n\nlogger.success('Script finalizado correctamente')"
+        }
+    },
+    {
+        "id": "python-dotenv",
+        "nombre": "python-dotenv",
+        "categoria": "devtools",
+        "descripcion_corta": "Carga variables de entorno desde un archivo .env de forma segura.",
+        "que_es": "Es una librería sencilla que lee pares clave-valor de un archivo llamado .env y los añade a las variables de entorno de tu sistema. Esto permite separar la configuración técnica y las credenciales sensibles del código fuente de la aplicación. Es una herramienta básica para seguir las buenas prácticas de seguridad y despliegue de software. Facilita que un mismo código funcione en diferentes entornos (desarrollo, pruebas, producción) simplemente cambiando el archivo .env.",
+        "para_que": "Se usa para ocultar claves de API, contraseñas de bases de datos y tokens de seguridad, evitando que se suban accidentalmente a repositorios públicos como GitHub. Es indispensable en cualquier proyecto web profesional para gestionar configuraciones locales de manera privada.",
+        "cuando_usarla": "Siempre que tu proyecto maneje credenciales o configuraciones que varíen entre el ordenador del desarrollador y el servidor final.",
+        "cuando_no": "Para aplicaciones que no manejan ningún tipo de configuración externa o secreto, aunque siempre es una buena práctica tenerla presente.",
+        "estado": "activa",
+        "docs": "[https://saurabh-kumar.com/python-dotenv/](https://saurabh-kumar.com/python-dotenv/)",
+        "tags": [
+            "env",
+            "configuracion",
+            "seguridad",
+            "devops"
+        ],
+        "ejemplo": {
+            "titulo": "Carga de credenciales seguras",
+            "codigo": "import os\nfrom dotenv import load_dotenv\n\n# Cargar las variables desde el archivo .env\nload_dotenv()\n\n# Acceder a las variables de forma segura\napi_key = os.getenv('API_SECRET_KEY')\ndb_url = os.getenv('DATABASE_URL', 'sqlite:///default.db')\n\nif api_key:\n    print('Conexion autorizada con la API')\nelse:\n    print('Error: Falta la clave de API en el archivo .env')"
         }
     }
 ]
