@@ -83,3 +83,20 @@
   + PicoCPC custom board
   + Maker Monday: Your Raspberry Pi builds
   + Exploring the ocean with Raspberry Pi–powered marine robots
+
+[2026-03-12 07:40:27] Nuevos: 15
+  + Hands on with Creality’s new M1 Filament Maker
+  + Printing an Underwater Diving Helmet With Floating Air Supply
+  + SolidRun P100 COM Express Type 6 module features LPCAMM2 memory, up to 12-core A
+  + Blues Notecard for Skylo IoT module offers 5G NTN satellite, NB-IoT/LTE-M cellul
+  + AMD Ryzen AI NPUs Are Finally Useful Under Linux For Running LLMs
+  + I've been reverse engineering the environment for rapid testing, what I've learn
+  + Question about available robot models in the toolkit
+  + Video Friday: A Robot Hand With Artificial Muscles and Tendons
+  + What Military Drones Can Teach Self-Driving Cars
+  + Video Friday: Robot Dogs Haul Produce From the Field
+  + [$] LWN.net Weekly Edition for March 12, 2026
+  + [$] California's Digital Age Assurance Act and Linux distributions
+  + Introducing Moonforge: a Yocto-based Linux OS (Igalia Blog)
+  + SKADIS Multi-Panel Mount System #3DThursday #3DPrinting
+  + Warp Pipes Pot #3DThursday #3DPrinting
