@@ -5,3 +5,15 @@ __pycache__/
 *.pyc
 scraper/__pycache__/
 web/__pycache__/
+# Archivos de contexto para IA
+contexto_*.txt
+code_to_txt.py
+
+# Logs y errores
+error.txt
+run_log.txt
+
+# Carpetas de IDE y Python
+.idea/
+__pycache__/
+*.pyc
