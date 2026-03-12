@@ -327,6 +327,10 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
       window.location.href = 'python.html';
       return;
     }
+    if (tag === 'llms') {
+      window.location.href = 'llms.html';
+      return;
+    }
     const reportName = tag ? REPORT_TAGS[tag] : null;
     if (reportName) {
       showReport(reportName, label || tag);

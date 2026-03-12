@@ -115,6 +115,19 @@ REPORTS = {
         "dynamic_pages": [],
         "out": "python",
     },
+    "llms": {
+        "tema": "modelos de lenguaje grandes (LLMs), actualizaciones de modelos fundacionales",
+        "feeds": [
+            "https://huggingface.co/blog/feed.xml",
+            "https://simonwillison.net/atom/everything/",
+        ],
+        "pages": [],
+        "dynamic_pages": [
+            "https://lmarena.ai/?leaderboard",
+            "https://artificialanalysis.ai/models",
+        ],
+        "out": "../data/llms",
+    },
 }
 
 
@@ -575,6 +588,74 @@ REGLAS PARA modelos[]:
     return result
 
 
+@with_retries(max_retries=3, delay=15)
+def generate_llm_report(raw_text: str) -> list:
+    """
+    Genera el json listado de modelos LLM (docs/data/llms.json).
+    """
+    import json as _json
+
+    prompt = f"""Eres un experto analizando y catalogando modelos de Inteligencia Artificial (LLMs).
+
+INFORMACIÓN RECIENTE DE FUENTES ESPECIALIZADAS:
+{raw_text[:5000]}
+
+Devuelve SOLO JSON válido. Para cada modelo incluye datos reales y actualizados.
+mejor_para debe ser un array de strings.
+novedad:true solo si el modelo salió esta semana.
+destacado:true solo para el mejor modelo de cada empresa.
+
+Genera una lista JSON con los 8-12 modelos más relevantes de esta semana siguiendo EXACTAMENTE esta estructura:
+[
+  {{
+    "id": "claude-sonnet-4",
+    "nombre": "Claude Sonnet 4.6",
+    "empresa": "Anthropic",
+    "logo_emoji": "🟠",
+    "descripcion_corta": "",
+    "que_es": "",
+    "mejor_para": [],
+    "no_usar_para": "",
+    "contexto": "200k",
+    "precio_input": "3$/M tokens",
+    "precio_output": "15$/M tokens",
+    "precio_tier": "medio",
+    "velocidad": "alta",
+    "disponible_en": ["API", "claude.ai"],
+    "modelo_similar": "gpt-4o",
+    "novedad": false,
+    "destacado": false,
+    "acceso_gratuito": false,
+    "fecha_lanzamiento": "2025",
+    "tags": []
+  }}
+]
+"""
+
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    response = client.models.generate_content(
+        model=GEMINI_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            temperature=0.3,
+            max_output_tokens=3000,
+        ),
+    )
+    time.sleep(15)
+    raw = response.text.strip()
+    # Limpiar bloques ```json si los hay
+    raw = re.sub(r'^```(?:json)?\s*', '', raw)
+    raw = re.sub(r'\s*```$', '', raw)
+    try:
+        result = _json.loads(raw)
+        if not isinstance(result, list):
+            result = []
+    except _json.JSONDecodeError as e:
+        print(f"  ✗ Error parseando JSON de LLMs: {e}")
+        result = []
+    return result
+
+
 # ── ESCRITURA ─────────────────────────────────────────────────────────────────
 
 def save_report(name: str, content: str) -> None:
@@ -682,6 +763,18 @@ def main():
                 # Agentes: guia de referencia con knowledge base fija
                 report_md = generate_agent_report(raw_text)
                 save_report(cfg["out"], report_md)
+
+            elif report_id == "llms":
+                # LLMs: array JSON para la página interactiva
+                llms_data = generate_llm_report(raw_text)
+                
+                import json as _json
+                json_path = REPORTS_DIR / f"{cfg['out']}.json"
+                
+                with open(json_path, "w", encoding="utf-8") as jf:
+                    _json.dump(llms_data, jf, ensure_ascii=False, indent=2)
+                print(f"  ✅ {json_path.relative_to(BASE_DIR)}")
+                print(f"     → {len(llms_data)} modelos extraídos")
 
             else:
                 # El resto de secciones: markdown estándar

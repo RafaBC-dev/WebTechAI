@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modelos de IA — TechPulse ES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;600&display=swap"
+    rel="stylesheet">
+  <meta property="og:title" content="Modelos de IA — TechPulse ES">
+  <meta property="og:description" content="Referencia actualizada de los mejores modelos de lenguaje (LLMs).">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary">
+  <link rel="stylesheet" href="styles.css">
+
+  <style>
+    /* Estilos específicos para la página de LLMs */
+    .llm-hero {
+      padding: 64px 0 32px;
+      border-bottom: 1px solid var(--border);
+    }
+    .llm-search-wrap {
+      margin-top: 32px;
+      max-width: 600px;
+      position: relative;
+    }
+    .llm-search-icon {
+      position: absolute;
+      left: 16px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-3);
+    }
+    .llm-search-input {
+      width: 100%;
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 14px 16px 14px 48px;
+      color: var(--text);
+      font-family: var(--font-body);
+      font-size: 1rem;
+      outline: none;
+      transition: all var(--transition);
+      box-shadow: 0 4px 12px rgba(0,0,0,.05);
+    }
+    .llm-search-input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 4px 20px var(--accent-glow);
+    }
+    .list-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+    }
+    .results-count {
+      font-family: var(--font-mono);
+      font-size: .8rem;
+      color: var(--text-3);
+    }
+    .llms-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 24px;
+    }
+    .llm-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      transition: all var(--transition);
+      position: relative;
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .llm-card:hover { border-color: var(--border-2); transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,.15); }
+    .llm-card-accent {
+      position: absolute;
+      top: 0; left: 0; bottom: 0;
+      width: 4px;
+      background: var(--card-color, var(--accent));
+    }
+    .llm-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+    .llm-title-area { display: flex; align-items: center; gap: 12px; }
+    .llm-logo { font-size: 2rem; line-height: 1; }
+    .llm-title-text { display: flex; flex-direction: column; gap: 4px; }
+    .llm-company { font-family: var(--font-mono); font-size: .75rem; color: var(--text-3); text-transform: uppercase; letter-spacing: .05em; }
+    .llm-name { font-family: var(--font-display); font-size: 1.4rem; font-weight: 700; color: var(--text); line-height: 1.2; }
+    
+    .llm-badges-top { display: flex; gap: 8px; align-items: flex-start; }
+    .badge { font-family: var(--font-mono); font-size: .62rem; padding: 3px 9px; border-radius: var(--radius-sm); border: 1px solid var(--border); font-weight: 600; text-transform: uppercase; letter-spacing: .05em; display: inline-flex; align-items: center; gap: 4px; }
+    .badge-new { color: #34d399; border-color: rgba(52,211,153,.3); background: rgba(52,211,153,.05); }
+    .badge-star { color: #fbbf24; border-color: rgba(251,191,36,.3); background: rgba(251,191,36,.05); }
+    .badge-free { color: #a78bfa; border-color: rgba(167,139,250,.3); background: rgba(167,139,250,.05); }
+    
+    .llm-desc { font-size: .95rem; color: var(--text-2); line-height: 1.6; }
+    
+    .llm-metrics { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 4px; background: var(--bg-2); padding: 12px; border-radius: var(--radius-sm); border: 1px solid var(--border); }
+    .metric { display: flex; align-items: center; gap: 6px; font-family: var(--font-mono); font-size: .75rem; color: var(--text-2); }
+    .metric-icon { font-size: .9rem; }
+    .metric-val { color: var(--text); font-weight: 600; }
+    
+    .llm-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+    .llm-tag { font-family: var(--font-mono); font-size: .65rem; color: var(--text-3); background: var(--surface); border: 1px solid var(--border); padding: 3px 8px; border-radius: var(--radius-sm); cursor: pointer; transition: all var(--transition); }
+    .llm-tag:hover, .llm-tag.active { color: var(--accent); border-color: var(--accent); background: var(--accent-bg); }
+    
+    .llm-actions { display: flex; align-items: center; justify-content: space-between; margin-top: 8px; }
+    .btn-expand { font-family: var(--font-mono); font-size: .75rem; color: var(--text-2); background: var(--bg-2); border: 1px solid var(--border); padding: 6px 14px; border-radius: var(--radius-sm); transition: all var(--transition); display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+    .btn-expand:hover { background: var(--surface); color: var(--text); border-color: var(--border-2); }
+    .btn-expand svg { transition: transform var(--transition); }
+    .btn-expand.open svg { transform: rotate(180deg); }
+    
+    .llm-details { display: none; padding-top: 20px; margin-top: 8px; border-top: 1px solid var(--border); animation: fadeIn 0.3s ease; }
+    .llm-details.open { display: block; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
+    
+    .detail-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 24px; margin-bottom: 20px; }
+    .detail-section { margin-bottom: 20px; }
+    .detail-label { font-family: var(--font-mono); font-size: .7rem; font-weight: 600; color: var(--text-3); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 8px; }
+    .detail-text { font-size: .9rem; color: var(--text); line-height: 1.6; }
+    
+    .detail-list { padding-left: 20px; font-size: .9rem; color: var(--text); line-height: 1.6; }
+    .detail-list li { margin-bottom: 4px; }
+    
+    .detail-badges { display: flex; flex-wrap: wrap; gap: 6px; }
+    .detail-badge { font-family: var(--font-mono); font-size: .7rem; background: var(--bg-2); border: 1px solid var(--border); padding: 3px 10px; border-radius: 99px; color: var(--text-2); }
+    
+    .price-box { background: var(--bg-2); border: 1px solid var(--border); border-radius: var(--radius-sm); padding: 12px; display: flex; flex-direction: column; gap: 8px; }
+    .price-row { display: flex; justify-content: space-between; font-family: var(--font-mono); font-size: .8rem; }
+    .price-label { color: var(--text-3); }
+    .price-val { color: var(--text); font-weight: 600; }
+  </style>
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <button class="icon-btn" id="sidebar-toggle" aria-label="Menú" title="Menú de navegación">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="3" y1="6" x2="21" y2="6"/>
+          <line x1="3" y1="12" x2="21" y2="12"/>
+          <line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+      </button>
+      <a href="index.html" class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TechPulse<em>ES</em></span>
+      </a>
+      <nav class="header-nav" id="main-nav">
+        <a href="index.html" class="nav-link">Todas</a>
+        <a href="llms.html" class="nav-link active" data-cat="LLMs">LLMs</a>
+      </nav>
+      <div class="header-actions">
+        <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema" title="Cambiar tema">
+          <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="5" />
+            <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" />
+          </svg>
+          <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <section class="llm-hero">
+    <div class="container">
+      <p class="hero-label"><span style="color:var(--accent)">Actualizado semanalmente</span></p>
+      <h1 class="hero-title">Modelos de IA<br><em>LLMs</em></h1>
+      
+      <div class="llm-search-wrap">
+        <svg class="llm-search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <path d="M21 21l-4.35-4.35"></path>
+        </svg>
+        <input type="text" id="lib-search" placeholder="Buscar por nombre, empresa o características..." autocomplete="off" class="llm-search-input">
+      </div>
+    </div>
+  </section>
+
+  <!-- FILTER STRIP -->
+  <div class="filter-strip">
+    <div class="container filter-inner">
+      <div class="category-pills" id="lib-pills">
+        <!-- Generado dinámicamente -->
+      </div>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <main class="container main-content">
+    <div class="list-header" id="list-header" style="display: none;">
+      <div class="results-count" id="results-count">Mostrando 0 de 0 modelos</div>
+      <button class="empty-state button" id="btn-clear-filters" style="display: none; font-family: var(--font-mono); font-size: 0.75rem; color: var(--accent); border: 1px solid var(--accent); padding: 6px 16px; border-radius: var(--radius-sm); background: transparent; cursor: pointer; transition: background 0.2s ease;">Limpiar filtros</button>
+    </div>
+
+    <div class="llms-grid" id="libs-grid">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>Cargando modelos...</p>
+      </div>
+    </div>
+    
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <p>No se encontraron modelos con esos filtros.</p>
+      <button onclick="document.getElementById('btn-clear-filters').click()" style="margin-top: 16px; font-family: var(--font-mono); font-size: .75rem; color: var(--accent); border: 1px solid var(--accent); padding: 8px 20px; border-radius: var(--radius-sm);">Limpiar filtros</button>
+    </div>
+    
+    <div class="empty-state" id="build-state" style="display: none; padding: 60px 0;">
+      <p style="font-size: 1.2rem; color: var(--text);">Contenido actualizándose...</p>
+      <p style="color: var(--text-3); font-size: 0.9rem; margin-top: 8px;">El informe semanal de modelos está en proceso.</p>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <span class="logo-text small">TechPulse<em>ES</em></span>
+      <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas · Hecho por <a href="https://github.com/RafaBC-dev" target="_blank" style="color:var(--accent)">RafaBC-dev</a></p>
+    </div>
+  </footer>
+
+  <!-- SIDEBAR -->
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
+
+  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
+    <div class="sidebar-header">
+      <span class="sidebar-title">Navegación</span>
+      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
+    </div>
+
+    <nav class="sidebar-nav">
+      <button class="sidebar-item" data-sidebar-cat="Todas" onclick="window.location.href='index.html'">
+        <span class="sidebar-icon">📰</span>
+        <span>Noticias</span>
+      </button>
+
+      <!-- IA -->
+      <button class="sidebar-item active expanded" data-sidebar-cat="Ia">
+        <span class="sidebar-icon">🤖</span>
+        <span>IA</span>
+        <span class="sidebar-chevron">›</span>
+      </button>
+      <div class="sidebar-subfilters visible" data-subfiltros-de="Ia">
+        <button class="subfilter" data-tag="" onclick="window.location.href='index.html'">Todas</button>
+        <button class="subfilter active" data-tag="llms">LLMs</button>
+        <button class="subfilter" data-tag="agentes" onclick="window.location.href='index.html'">Agentes & Herramientas</button>
+        <button class="subfilter" data-tag="benchmarks" onclick="window.location.href='index.html'">Benchmarks</button>
+      </div>
+
+      <!-- Microcontroladores -->
+      <button class="sidebar-item" data-sidebar-cat="Embebidos">
+        <span class="sidebar-icon">🔌</span>
+        <span>Microcontroladores</span>
+        <span class="sidebar-chevron">›</span>
+      </button>
+      <div class="sidebar-subfilters" data-subfiltros-de="Embebidos">
+        <button class="subfilter active" data-tag="" onclick="window.location.href='index.html'">Todas</button>
+      </div>
+
+      <!-- Software Dev -->
+      <button class="sidebar-item" data-sidebar-cat="Linux">
+        <span class="sidebar-icon">💻</span>
+        <span>Software Dev</span>
+        <span class="sidebar-chevron">›</span>
+      </button>
+      <div class="sidebar-subfilters" data-subfiltros-de="Linux">
+        <button class="subfilter active" data-tag="" onclick="window.location.href='index.html'">Todas</button>
+        <button class="subfilter" data-tag="python" onclick="window.location.href='python.html'">Python</button>
+      </div>
+
+      <div class="sidebar-divider"></div>
+
+      <a class="sidebar-item" href="about.html">
+        <span class="sidebar-icon">ℹ️</span>
+        <span>Sobre el proyecto</span>
+      </a>
+    </nav>
+  </aside>
+
+  <!-- SCRIPTS -->
+  <script src="app.js"></script>
+  <script>
+    'use strict';
+
+    document.addEventListener('DOMContentLoaded', () => {
+      let allModels = [];
+      let filteredModels = [];
+      let activeCompany = 'Todas';
+      let activeTags = new Set();
+      let searchQuery = '';
+      
+      const predefinedCompanies = [
+        'Todas', 'OpenAI', 'Anthropic', 'Google', 'Meta', 'Mistral', 'DeepSeek', 'Local/Open'
+      ];
+      
+      const companyColors = {
+        'openai': '#10a37f',
+        'anthropic': '#d97757',
+        'google': '#4285f4',
+        'meta': '#0668E1',
+        'mistral': '#f97316',
+        'deepseek': '#4f46e5',
+        'local/open': '#8b5cf6'
+      };
+
+      const speedIcons = { 'alta': '⚡', 'media': '🏃', 'baja': '🐌' };
+      const priceIcons = { 'bajo': '💰', 'medio': '💰💰', 'alto': '💰💰💰', 'gratis': '🆓' };
+      
+      const grid = document.getElementById('libs-grid');
+      const searchInput = document.getElementById('lib-search');
+      const pillsContainer = document.getElementById('lib-pills');
+      const listHeader = document.getElementById('list-header');
+      const resultsCount = document.getElementById('results-count');
+      const buildState = document.getElementById('build-state');
+      const emptyState = document.getElementById('empty-state');
+      const btnClearFilters = document.getElementById('btn-clear-filters');
+      
+      function esc(str) {
+        if (!str) return '';
+        const d = document.createElement('div');
+        d.textContent = str;
+        return d.innerHTML;
+      }
+      
+      async function init() {
+        try {
+          const res = await fetch('data/llms.json?t=' + Date.now());
+          if (!res.ok) throw new Error('Error de red');
+          allModels = await res.json();
+          
+          if (!Array.isArray(allModels)) allModels = [];
+          
+          if (allModels.length === 0) {
+            grid.style.display = 'none';
+            buildState.style.display = 'block';
+            renderPills();
+            return;
+          }
+          
+          renderPills();
+          applyFilters();
+          
+        } catch (error) {
+          grid.innerHTML = `<div class="empty-state"><p style="color:#f87171">⚠ No se pudo cargar el archivo JSON.</p></div>`;
+        }
+      }
+      
+      searchInput.addEventListener('input', (e) => {
+        searchQuery = e.target.value.toLowerCase().trim();
+        applyFilters();
+      });
+      
+      btnClearFilters.addEventListener('click', () => {
+        activeCompany = 'Todas';
+        activeTags.clear();
+        searchQuery = '';
+        searchInput.value = '';
+        renderPills();
+        applyFilters();
+      });
+      
+      function renderPills() {
+        pillsContainer.innerHTML = '';
+        
+        predefinedCompanies.forEach(comp => {
+          let count = 0;
+          if (comp === 'Todas') {
+            count = allModels.length;
+          } else {
+            count = allModels.filter(m => (m.empresa || '').toLowerCase().includes(comp.toLowerCase())).length;
+          }
+          
+          const btn = document.createElement('button');
+          btn.className = `pill ${activeCompany === comp ? 'active' : ''}`;
+          btn.innerHTML = `${comp} <span class="count">${count}</span>`;
+          
+          const lowerComp = comp.toLowerCase();
+          
+          if (activeCompany === comp && comp !== 'Todas') {
+              btn.style.backgroundColor = companyColors[lowerComp] || 'var(--text)';
+              btn.style.color = '#fff';
+              btn.style.border = '1px solid transparent';
+          } else if (activeCompany === 'Todas' && comp === 'Todas') {
+              btn.style.backgroundColor = 'var(--text)';
+              btn.style.color = 'var(--bg)';
+          }
+          
+          btn.addEventListener('click', () => {
+            activeCompany = comp;
+            activeTags.clear();
+            renderPills();
+            applyFilters();
+          });
+          pillsContainer.appendChild(btn);
+        });
+      }
+      
+      function toggleTag(tag) {
+        if (activeTags.has(tag)) {
+          activeTags.delete(tag);
+        } else {
+          activeTags.add(tag);
+        }
+        applyFilters();
+      }
+      
+      function applyFilters() {
+        if (allModels.length === 0) return;
+        
+        filteredModels = allModels.filter(m => {
+          if (activeCompany !== 'Todas' && !(m.empresa || '').toLowerCase().includes(activeCompany.toLowerCase())) {
+            return false;
+          }
+          
+          if (activeTags.size > 0) {
+            const mTags = m.tags || [];
+            const hasAllTags = Array.from(activeTags).every(t => mTags.includes(t));
+            if (!hasAllTags) return false;
+          }
+          
+          if (searchQuery) {
+            const searchStr = [
+              m.nombre,
+              m.empresa,
+              m.descripcion_corta,
+              ...(m.tags || [])
+            ].join(' ').toLowerCase();
+            if (!searchStr.includes(searchQuery)) return false;
+          }
+          
+          return true;
+        });
+        
+        renderGrid();
+      }
+      
+      function renderGrid() {
+        grid.innerHTML = '';
+        
+        listHeader.style.display = 'flex';
+        resultsCount.textContent = `Mostrando ${filteredModels.length} de ${allModels.length} modelos`;
+        
+        if (activeCompany !== 'Todas' || activeTags.size > 0 || searchQuery !== '') {
+          btnClearFilters.style.display = 'inline-flex';
+        } else {
+          btnClearFilters.style.display = 'none';
+        }
+        
+        if (filteredModels.length === 0) {
+          emptyState.style.display = 'block';
+        } else {
+          emptyState.style.display = 'none';
+          filteredModels.forEach(m => {
+            const card = createCard(m);
+            grid.appendChild(card);
+          });
+        }
+      }
+      
+      function createCard(m) {
+        const div = document.createElement('div');
+        div.className = 'llm-card';
+        
+        const compLower = (m.empresa || '').toLowerCase();
+        let matchedColor = 'var(--accent)';
+        for (const key in companyColors) {
+            if (compLower.includes(key)) {
+                matchedColor = companyColors[key];
+                break;
+            }
+        }
+        
+        div.style.setProperty('--card-color', matchedColor);
+        
+        let tagsHtml = (m.tags || []).map(t => 
+           `<button class="llm-tag ${activeTags.has(t) ? 'active' : ''}" data-tag="${esc(t)}">#${esc(t)}</button>`
+        ).join('');
+        
+        let badgesHtml = '';
+        if (m.novedad) badgesHtml += `<span class="badge badge-new">🆕 Nuevo</span>`;
+        if (m.destacado) badgesHtml += `<span class="badge badge-star">⭐ Destacado</span>`;
+        if (m.acceso_gratuito) badgesHtml += `<span class="badge badge-free">🆓 Gratuito</span>`;
+
+        let headerHtml = `
+          <div class="llm-card-accent"></div>
+          <div class="llm-header">
+            <div class="llm-title-area">
+              <div class="llm-logo">${m.logo_emoji || '🤖'}</div>
+              <div class="llm-title-text">
+                <span class="llm-company">${esc(m.empresa)}</span>
+                <h2 class="llm-name">${esc(m.nombre)}</h2>
+              </div>
+            </div>
+            ${badgesHtml ? `<div class="llm-badges-top">${badgesHtml}</div>` : ''}
+          </div>
+          
+          <div class="llm-desc">${esc(m.descripcion_corta)}</div>
+          
+          <div class="llm-metrics">
+            <div class="metric" title="Ventana de contexto">
+                <span class="metric-icon">📐</span>
+                <span class="metric-val">${esc(m.contexto || '-')}</span>
+            </div>
+            <div class="metric" title="Velocidad">
+                <span class="metric-icon">${speedIcons[m.velocidad?.toLowerCase()] || '⚡'}</span>
+                <span class="metric-val">${esc(m.velocidad || '-')}</span>
+            </div>
+            <div class="metric" title="Precio">
+                <span class="metric-icon">${priceIcons[m.precio_tier?.toLowerCase()] || '💰'}</span>
+                <span class="metric-val">${esc(m.precio_tier || '-')}</span>
+            </div>
+          </div>
+          
+          ${tagsHtml ? `<div class="llm-tags">${tagsHtml}</div>` : ''}
+          
+          <div class="llm-actions">
+            <button class="btn-expand">
+              <span>Ver más</span>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9l6 6 6-6"/></svg>
+            </button>
+          </div>
+        `;
+        
+        div.innerHTML = headerHtml;
+        
+        if (tagsHtml) {
+          div.querySelectorAll('.llm-tag').forEach(tagBtn => {
+            tagBtn.addEventListener('click', (e) => {
+              e.stopPropagation();
+              toggleTag(tagBtn.dataset.tag);
+            });
+          });
+        }
+        
+        const details = document.createElement('div');
+        details.className = 'llm-details';
+        
+        let detailsHtml = '';
+        
+        if (m.que_es) {
+          detailsHtml += `<div class="detail-section"><div class="detail-label">¿Qué es?</div><div class="detail-text">${esc(m.que_es)}</div></div>`;
+        }
+        
+        if (m.mejor_para && m.mejor_para.length > 0) {
+          detailsHtml += `<div class="detail-section"><div class="detail-label">Mejor para</div><ul class="detail-list">`;
+          m.mejor_para.forEach(item => {
+             detailsHtml += `<li>${esc(item)}</li>`;
+          });
+          detailsHtml += `</ul></div>`;
+        }
+        
+        if (m.no_usar_para) {
+          detailsHtml += `<div class="detail-section"><div class="detail-label">No usar para</div><div class="detail-text">${esc(m.no_usar_para)}</div></div>`;
+        }
+        
+        detailsHtml += `<div class="detail-grid">`;
+        
+        detailsHtml += `
+            <div class="price-box">
+                <div class="detail-label" style="margin:0">Precios por 1M tokens</div>
+                ${m.precio_input ? `<div class="price-row"><span class="price-label">Input</span><span class="price-val">${esc(m.precio_input)}</span></div>` : ''}
+                ${m.precio_output ? `<div class="price-row"><span class="price-label">Output</span><span class="price-val">${esc(m.precio_output)}</span></div>` : ''}
+            </div>
+        `;
+        
+        let metaHtml = `<div style="display:flex;flex-direction:column;gap:16px;">`;
+        
+        if (m.disponible_en && m.disponible_en.length > 0) {
+            metaHtml += `<div><div class="detail-label">Disponible en</div><div class="detail-badges">`;
+            m.disponible_en.forEach(plat => {
+                metaHtml += `<span class="detail-badge">${esc(plat)}</span>`;
+            });
+            metaHtml += `</div></div>`;
+        }
+        
+        if (m.modelo_similar) {
+            metaHtml += `<div><div class="detail-label">Comparado con</div><div class="detail-text">${esc(m.modelo_similar)}</div></div>`;
+        }
+        
+        metaHtml += `</div>`;
+        
+        detailsHtml += metaHtml;
+        detailsHtml += `</div>`;
+        
+        details.innerHTML = detailsHtml;
+        div.appendChild(details);
+        
+        const expandBtn = div.querySelector('.btn-expand');
+        
+        function toggleDetails() {
+          const isOpen = details.classList.contains('open');
+          if (isOpen) {
+            details.classList.remove('open');
+            expandBtn.classList.remove('open');
+            expandBtn.querySelector('span').textContent = 'Ver más';
+          } else {
+            details.classList.add('open');
+            expandBtn.classList.add('open');
+            expandBtn.querySelector('span').textContent = 'Ver menos';
+          }
+        }
+        
+        expandBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          toggleDetails();
+        });
+        
+        return div;
+      }
+      
+      init();
+    });
+  </script>
+</body>
+</html>
