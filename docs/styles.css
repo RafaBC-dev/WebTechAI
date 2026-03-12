@@ -493,9 +493,9 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 }
 
 /* Active pill per category */
-.pill[data-cat="Todas"].active    { background: var(--text); }
-.pill[data-cat="Ia"].active       { background: var(--cat-ia); }
-.pill[data-cat="Robotica"].active { background: var(--cat-robotica); }
+.pill[data-cat="Todas"].active    { background: var(--text); color: var(--bg); }
+.pill[data-cat="Ia"].active       { background: var(--cat-ia); color: #0a0a0f; }
+.pill[data-cat="Robotica"].active { background: var(--cat-robotica); color: #0a0a0f; }
 .pill[data-cat="Linux"].active    { background: var(--cat-linux); }
 .pill[data-cat="Embebidos"].active{ background: var(--cat-embebidos); }
 .pill[data-cat="Diseño-3d"].active{ background: var(--cat-diseno-3d); }

@@ -124,11 +124,8 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
   const REPORT_TAGS = {
     'benchmarks': 'benchmarks',
     'agentes':    'agentes',
-    'esp32':      'esp32',
-    'python':     'python',
+    'esp32':      'esp32'
   };
-
-  /* ── Visor de informes markdown ─────────────────────────────────── */
 
   const reportPanel   = document.getElementById('report-panel');
   const reportContent = document.getElementById('report-content');
@@ -325,13 +322,11 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
 
   reportBackBtn?.addEventListener('click', hideReport);
 
-  /**
-   * Decide si el tag abre un informe o filtra tarjetas.
-   * @param {string} cat   - Categoría del sidebar
-   * @param {string} tag   - Tag del subfiltro
-   * @param {string} label - Texto legible del botón
-   */
   function applyFilter(cat, tag, label) {
+    if (tag === 'python') {
+      window.location.href = 'python.html';
+      return;
+    }
     const reportName = tag ? REPORT_TAGS[tag] : null;
     if (reportName) {
       showReport(reportName, label || tag);
