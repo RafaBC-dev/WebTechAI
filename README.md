@@ -2,7 +2,7 @@
 
 > Curador automático de noticias tecnológicas en español, generadas y resumidas por IA.
 
-Monitoriza más de 10 fuentes internacionales de referencia, extrae el contenido completo de cada artículo, lo resume en español con estructura clara y lo publica como web estática. Completamente gratuito, sin publicidad y sin servidor.
+Monitoriza más de 10 fuentes internacionales de referencia, extrae el contenido completo de cada artículo, lo resume en español con estructura clara y lo publica como web estática. Acceso libre, respetuoso con tu privacidad y sin servidor.
 
 ---
 
@@ -30,7 +30,7 @@ El objetivo de TechPulse ES es actuar de **intermediario inteligente** entre las
 La propuesta de valor es concreta:
 - El lector llega, lee el resumen en español y **entiende completamente** el tema sin necesidad de ir a la fuente original.
 - Si quiere profundizar, el enlace al artículo original siempre está disponible al final.
-- No hay publicidad, no hay tracking, no hay paywalls.
+- Sin rastreo invasivo (tracking), sin muros de pago (paywalls) que bloqueen la lectura y yendo directo al grano.
 
 Cada artículo generado tiene **cuatro secciones fijas**: introducción, qué es, cómo funciona y por qué importa, más un consejo técnico práctico y, cuando aplica, un ejemplo de código o comando.
 
