@@ -1,112 +1,508 @@
 [
-  {
-    "id": "pandas",
-    "nombre": "Pandas",
-    "categoria": "datos",
-    "descripcion_corta": "Herramienta esencial para la manipulación y análisis de datos tabulares.",
-    "que_es": "Pandas es la librería más popular de Python para el análisis de datos estructurados. Proporciona estructuras de datos potentes, como el DataFrame, que permiten trabajar con tablas de forma similar a una hoja de cálculo o una base de datos SQL. Está construida sobre NumPy, lo que garantiza una gran velocidad en operaciones complejas. Es el estándar de la industria para la limpieza y preparación de datos antes de cualquier modelado.",
-    "para_que": "Se utiliza para cargar datos desde archivos CSV, Excel o SQL y transformarlos. Es ideal para limpiar datos incompletos, filtrar información relevante y realizar cálculos estadísticos agrupados. También permite unir diferentes fuentes de datos mediante operaciones de 'join' o 'merge' de manera muy eficiente.",
-    "cuando_usarla": "Cuando necesites manipular datos tabulares, realizar limpieza de 'datasets' ruidosos o preparar información para algoritmos de machine learning.",
-    "cuando_no": "Si el volumen de datos supera la memoria RAM disponible o si necesitas realizar cálculos matemáticos puramente matriciales sin etiquetas, donde NumPy es más ligero.",
-    "estado": "activa",
-    "docs": "https://pandas.pydata.org/docs/",
-    "tags": [
-      "dataframe",
-      "limpieza de datos",
-      "etl",
-      "analisis"
-    ],
-    "ejemplo": {
-      "titulo": "Agrupación y resumen de ventas",
-      "codigo": "import pandas as pd\n# Crear datos de ejemplo\ndatos = {'Producto': ['A', 'B', 'A', 'C', 'B'], 'Ventas': [100, 150, 200, 50, 300]}\ndf = pd.DataFrame(datos)\n# Agrupar por producto y sumar ventas\nresumen = df.groupby('Producto')['Ventas'].sum().reset_index()\n# Filtrar productos con ventas totales superiores a 150\ntop_ventas = resumen[resumen['Ventas'] > 150]\n# Mostrar el resultado final\nprint(top_ventas)"
+    {
+        "id": "pandas",
+        "nombre": "Pandas",
+        "categoria": "datos",
+        "descripcion_corta": "Herramienta esencial para la manipulación y análisis de datos tabulares.",
+        "que_es": "Pandas es la librería más popular de Python para el análisis de datos estructurados. Proporciona estructuras de datos potentes, como el DataFrame, que permiten trabajar con tablas de forma similar a una hoja de cálculo o una base de datos SQL. Está construida sobre NumPy, lo que garantiza una gran velocidad en operaciones complejas. Es el estándar de la industria para la limpieza y preparación de datos antes de cualquier modelado.",
+        "para_que": "Se utiliza para cargar datos desde archivos CSV, Excel o SQL y transformarlos. Es ideal para limpiar datos incompletos, filtrar información relevante y realizar cálculos estadísticos agrupados. También permite unir diferentes fuentes de datos mediante operaciones de 'join' o 'merge' de manera muy eficiente.",
+        "cuando_usarla": "Cuando necesites manipular datos tabulares, realizar limpieza de 'datasets' ruidosos o preparar información para algoritmos de machine learning.",
+        "cuando_no": "Si el volumen de datos supera la memoria RAM disponible o si necesitas realizar cálculos matemáticos puramente matriciales sin etiquetas, donde NumPy es más ligero.",
+        "estado": "activa",
+        "docs": "https://pandas.pydata.org/docs/",
+        "tags": [
+            "dataframe",
+            "limpieza de datos",
+            "etl",
+            "analisis"
+        ],
+        "ejemplo": {
+            "titulo": "Agrupación y resumen de ventas",
+            "codigo": "import pandas as pd\n# Crear datos de ejemplo\ndatos = {'Producto': ['A', 'B', 'A', 'C', 'B'], 'Ventas': [100, 150, 200, 50, 300]}\ndf = pd.DataFrame(datos)\n# Agrupar por producto y sumar ventas\nresumen = df.groupby('Producto')['Ventas'].sum().reset_index()\n# Filtrar productos con ventas totales superiores a 150\ntop_ventas = resumen[resumen['Ventas'] > 150]\n# Mostrar el resultado final\nprint(top_ventas)"
+        }
+    },
+    {
+        "id": "numpy",
+        "nombre": "NumPy",
+        "categoria": "datos",
+        "descripcion_corta": "Base fundamental para el cálculo científico y manejo de matrices multidimensionales.",
+        "que_es": "NumPy es la librería base sobre la que se apoya casi todo el ecosistema de datos en Python. Introduce el objeto 'ndarray', un arreglo multidimensional extremadamente rápido comparado con las listas nativas de Python. Permite realizar operaciones matemáticas avanzadas de forma vectorizada, evitando bucles lentos. Es indispensable para cualquier tarea que involucre álgebra lineal o procesamiento numérico de alto rendimiento.",
+        "para_que": "Se usa para realizar cálculos matemáticos complejos sobre grandes colecciones de números. Es vital en el procesamiento de imágenes (que son matrices de píxeles) y en la implementación de algoritmos de inteligencia artificial desde cero. También sirve para generar datos aleatorios y realizar transformaciones de señales.",
+        "cuando_usarla": "Cuando trabajes con cálculos numéricos pesados, matrices, álgebra lineal o necesites optimizar el rendimiento de operaciones matemáticas.",
+        "cuando_no": "Para manejar datos tabulares con columnas de diferentes tipos (como nombres y fechas mezclados), donde Pandas es mucho más cómodo.",
+        "estado": "activa",
+        "docs": "https://numpy.org/doc/",
+        "tags": [
+            "matrices",
+            "calculo",
+            "vectores",
+            "matematicas"
+        ],
+        "ejemplo": {
+            "titulo": "Conversión masiva de temperaturas",
+            "codigo": "import numpy as np\n# Crear array con temperaturas en Celsius\ncelsius = np.array([0, 10, 20, 30, 40])\n# Convertir a Fahrenheit usando vectorización (sin bucles for)\nfahrenheit = (celsius * 9/5) + 32\n# Calcular estadísticas básicas de los datos\nmedia = np.mean(fahrenheit)\nmaximo = np.max(fahrenheit)\nprint(f'Temperaturas: {fahrenheit}')\nprint(f'Media: {media}, Máximo: {maximo}')"
+        }
+    },
+    {
+        "id": "polars",
+        "nombre": "Polars",
+        "categoria": "datos",
+        "descripcion_corta": "Librería de procesamiento de datos ultra rápida escrita en Rust.",
+        "que_es": "Polars es una alternativa moderna a Pandas diseñada para ofrecer el máximo rendimiento posible. Está escrita en Rust y utiliza la memoria de forma más eficiente mediante el formato Apache Arrow. A diferencia de otras librerías, procesa los datos de forma paralela aprovechando todos los núcleos de tu procesador. Su diseño evita copias innecesarias de datos, lo que la hace ideal para equipos con recursos limitados o datos masivos.",
+        "para_que": "Se emplea en proyectos donde el tiempo de procesamiento es crítico y los DataFrames son demasiado grandes para Pandas. Es perfecta para procesos de ingeniería de datos que requieren transformaciones rápidas. También se usa para realizar consultas perezosas (lazy evaluation), optimizando la ejecución de filtros y cálculos antes de aplicarlos.",
+        "cuando_usarla": "Cuando Pandas se queda lento o consume demasiada memoria en tu máquina al procesar millones de filas.",
+        "cuando_no": "Si necesitas librerías de terceros que solo aceptan objetos de Pandas como entrada o si el proyecto es pequeño y la simplicidad de Pandas es suficiente.",
+        "estado": "activa",
+        "docs": "https://docs.pola.rs/",
+        "tags": [
+            "rust",
+            "rendimiento",
+            "big data",
+            "lazy evaluation"
+        ],
+        "ejemplo": {
+            "titulo": "Filtrado rápido con expresiones",
+            "codigo": "import polars as pl\n# Crear un DataFrame de Polars\ndf = pl.DataFrame({'id': range(5), 'valor': [10.5, 20.0, 5.0, 30.2, 15.0]})\n# Filtrar y crear una nueva columna calculada\nresultado = (\n    df.filter(pl.col('valor') > 10)\n    .with_columns((pl.col('valor') * 2).alias('doble'))\n    .select(['id', 'doble'])\n)\nprint(resultado)"
+        }
+    },
+    {
+        "id": "matplotlib",
+        "nombre": "Matplotlib",
+        "categoria": "datos",
+        "descripcion_corta": "Librería estándar para la creación de gráficos y visualizaciones estáticas.",
+        "que_es": "Matplotlib es la herramienta de visualización más antigua y flexible de Python. Permite crear desde gráficos de líneas simples hasta diagramas complejos de nivel profesional para publicaciones científicas. Funciona mediante un sistema de capas que da control total sobre cada elemento del gráfico: ejes, etiquetas, colores y leyendas. Es la base sobre la que se construyen muchas otras librerías de visualización más modernas.",
+        "para_que": "Se usa para explorar datos visualmente y detectar tendencias o anomalías. Es ideal para generar figuras estáticas para informes, presentaciones o artículos de investigación. Permite personalizar hasta el más mínimo detalle de una gráfica para que se adapte a requisitos estéticos específicos.",
+        "cuando_usarla": "Cuando necesites un control absoluto sobre el diseño del gráfico o quieras crear visualizaciones personalizadas que no encajan en plantillas estándar.",
+        "cuando_no": "Si buscas crear gráficos interactivos para la web (mejor usar Plotly) o si quieres gráficos estadísticos complejos con muy poco código (mejor usar Seaborn).",
+        "estado": "activa",
+        "docs": "https://matplotlib.org/stable/contents.html",
+        "tags": [
+            "graficos",
+            "visualizacion",
+            "plots",
+            "charts"
+        ],
+        "ejemplo": {
+            "titulo": "Gráfico de líneas personalizado",
+            "codigo": "import matplotlib.pyplot as plt\n# Datos de ejemplo\nmeses = ['Ene', 'Feb', 'Mar', 'Abr', 'May']\nventas = [10, 25, 18, 40, 35]\n# Crear la figura y el trazado\nplt.figure(figsize=(8, 4))\nplt.plot(meses, ventas, color='green', marker='o', linestyle='--')\n# Configurar etiquetas y título en español\nplt.title('Evolución de Ventas Mensuales')\nplt.xlabel('Mes')\nplt.ylabel('Miles de Euros')\nplt.grid(True)\nplt.show()"
+        }
+    },
+    {
+        "id": "seaborn",
+        "nombre": "Seaborn",
+        "categoria": "datos",
+        "descripcion_corta": "Visualización de datos estadísticos con una interfaz elegante y sencilla.",
+        "que_es": "Seaborn es una librería de visualización construida sobre Matplotlib que simplifica enormemente la creación de gráficos complejos. Está diseñada para trabajar directamente con DataFrames de Pandas, entendiendo automáticamente las etiquetas de las columnas. Su principal ventaja es que genera gráficos estéticamente atractivos por defecto, con temas y paletas de colores profesionales. Se enfoca en la exploración estadística de los datos de manera rápida y efectiva.",
+        "para_que": "Se utiliza para visualizar relaciones entre múltiples variables, como diagramas de dispersión con regresión o mapas de calor de correlaciones. Es excelente para mostrar distribuciones de datos mediante histogramas suavizados o diagramas de caja. Facilita la comparación de categorías dentro de un 'dataset' mediante el uso de colores automáticos.",
+        "cuando_usarla": "Cuando necesites crear gráficos estadísticos elegantes de forma rápida y tus datos ya estén en un DataFrame de Pandas.",
+        "cuando_no": "Para visualizaciones muy personalizadas que requieren manipular elementos individuales del gráfico fuera de los estándares estadísticos.",
+        "estado": "activa",
+        "docs": "https://seaborn.pydata.org/",
+        "tags": [
+            "estadistica",
+            "visualizacion",
+            "pandas",
+            "estetica"
+        ],
+        "ejemplo": {
+            "titulo": "Gráfico de dispersión con regresión",
+            "codigo": "import seaborn as sns\nimport matplotlib.pyplot as plt\n# Cargar dataset de ejemplo integrado\ntips = sns.load_dataset('tips')\n# Crear gráfico con línea de tendencia\nsns.regplot(data=tips, x='total_bill', y='tip', scatter_kws={'alpha':0.5})\n# Añadir títulos claros\nplt.title('Relación entre Cuenta y Propina')\nplt.xlabel('Total de la Cuenta ($)')\nplt.ylabel('Propina ($)')\nplt.show()"
+        }
+    },
+    {
+        "id": "fastapi",
+        "nombre": "FastAPI",
+        "categoria": "web",
+        "descripcion_corta": "Framework moderno y de alto rendimiento para construir APIs con Python.",
+        "que_es": "FastAPI es un framework web de última generación basado en las anotaciones de tipos estándar de Python 3.8+. Destaca por ser uno de los frameworks más rápidos disponibles gracias a su arquitectura asíncrona construida sobre Starlette y Pydantic. Además, genera de forma automática documentación interactiva bajo los estándares OpenAPI y JSON Schema.",
+        "para_que": "Se utiliza para desarrollar microservicios de alto rendimiento y backends escalables que requieren validación de datos estricta. Es la opción preferida para exponer modelos de Inteligencia Artificial como servicios web debido a su eficiencia procesando peticiones concurrentes.",
+        "cuando_usarla": "Cuando necesites construir una API profesional de forma rápida, con validación automática y soporte nativo para programación asíncrona.",
+        "cuando_no": "Para aplicaciones monolíticas muy tradicionales que no requieren asincronía o si prefieres un ecosistema con todo integrado como el que ofrece Django.",
+        "estado": "activa",
+        "docs": "https://fastapi.tiangolo.com/",
+        "tags": [
+            "api",
+            "async",
+            "pydantic",
+            "backend"
+        ],
+        "ejemplo": {
+            "titulo": "Creación de una API con validación",
+            "codigo": "from fastapi import FastAPI\nfrom pydantic import BaseModel\n\napp = FastAPI()\n\nclass Producto(BaseModel):\n    nombre: str\n    precio: float\n\n@app.post(\"/productos/\")\nasync def crear_producto(producto: Producto):\n    # Pydantic valida automáticamente que los tipos sean correctos\n    return {\"mensaje\": f\"Producto {producto.nombre} guardado\", \"total\": producto.precio * 1.21}\n\n@app.get(\"/\")\nasync def inicio():\n    return {\"tech\": \"TechPulse ES\"}"
+        }
+    },
+    {
+        "id": "flask",
+        "nombre": "Flask",
+        "categoria": "web",
+        "descripcion_corta": "Microframework flexible y ligero para el desarrollo web minimalista.",
+        "que_es": "Flask es un framework minimalista que proporciona las herramientas esenciales para poner en marcha una aplicación web. A diferencia de otros sistemas, no impone una estructura de archivos ni obliga a usar bases de datos específicas, dejando total libertad al desarrollador. Es extremadamente modular y cuenta con una vasta colección de extensiones creadas por la comunidad.",
+        "para_que": "Es ideal para crear prototipos rápidos, herramientas internas sencillas y aplicaciones web donde se desea tener control absoluto sobre cada componente utilizado. Se usa frecuentemente para construir servicios REST simples que no requieren la complejidad de frameworks más pesados.",
+        "cuando_usarla": "Cuando el proyecto sea de tamaño pequeño o mediano y prefieras la simplicidad y la flexibilidad sobre las soluciones preconfiguradas.",
+        "cuando_no": "En proyectos empresariales de gran envergadura donde la falta de una estructura definida por defecto pueda dificultar la colaboración entre grandes equipos.",
+        "estado": "activa",
+        "docs": "https://flask.palletsprojects.com/",
+        "tags": [
+            "microframework",
+            "web",
+            "servidor",
+            "minimalista"
+        ],
+        "ejemplo": {
+            "titulo": "Servidor web básico con rutas dinámicas",
+            "codigo": "from flask import Flask, jsonify\n\napp = Flask(__name__)\n\n@app.route('/usuario/<nombre>')\ndef saludar(nombre):\n    # Retorna un JSON con un saludo personalizado\n    datos = {\"usuario\": nombre, \"estado\": \"conectado\", \"portal\": \"TechPulse ES\"}\n    return jsonify(datos)\n\nif __name__ == '__main__':\n    # Inicia el servidor en modo depuración\n    app.run(debug=True)"
+        }
+    },
+    {
+        "id": "beautifulsoup4",
+        "nombre": "BeautifulSoup4",
+        "categoria": "web",
+        "descripcion_corta": "Librería líder para extraer información de archivos HTML y XML.",
+        "que_es": "BeautifulSoup es una herramienta diseñada para facilitar el 'web scraping' mediante la navegación del código fuente de las páginas. Transforma documentos HTML complejos en un árbol de objetos de Python fáciles de manipular y buscar. Es famosa por su capacidad para procesar código HTML mal formado o con errores sin romperse.",
+        "para_que": "Se emplea para extraer datos específicos de sitios web, como precios de productos, noticias o información estadística de páginas que no ofrecen una API oficial. También es útil para limpiar y reformatear archivos XML o HTML antiguos.",
+        "cuando_usarla": "Cuando necesites extraer datos de una página web estática de forma rápida y sencilla sin complicaciones de red avanzadas.",
+        "cuando_no": "Para rastrear sitios web que dependen totalmente de JavaScript para mostrar su contenido (SPAs), donde herramientas como Selenium o Playwright son necesarias.",
+        "estado": "activa",
+        "docs": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
+        "tags": [
+            "scraping",
+            "html",
+            "parser",
+            "datos"
+        ],
+        "ejemplo": {
+            "titulo": "Extracción de enlaces de una web",
+            "codigo": "from bs4 import BeautifulSoup\nimport requests\n\n# Descargamos el contenido de la web\nurl = \"https://techpulse.es\"\nrespuesta = requests.get(url)\n\n# Creamos el objeto soup para analizar el HTML\nsoup = BeautifulSoup(respuesta.text, 'html.parser')\n\n# Buscamos todos los enlaces y filtramos los que tienen texto\nfor enlace in soup.find_all('a'):\n    url_texto = enlace.get('href')\n    if url_texto and \"http\" in url_texto:\n        print(f\"Enlace encontrado: {url_texto}\")"
+        }
+    },
+    {
+        "id": "scrapy",
+        "nombre": "Scrapy",
+        "categoria": "web",
+        "descripcion_corta": "Framework robusto para el rastreo web y extracción de datos masiva.",
+        "que_es": "Scrapy es un framework completo de alto nivel diseñado para rastrear sitios web y extraer datos estructurados de manera eficiente. A diferencia de simples librerías de scraping, Scrapy gestiona de forma nativa la concurrencia, el manejo de cookies y el almacenamiento de resultados. Permite construir 'spiders' (arañas) que pueden navegar por miles de páginas siguiendo reglas definidas.",
+        "para_que": "Se utiliza en proyectos de minería de datos a gran escala, monitoreo competitivo de precios en múltiples portales y creación de motores de búsqueda especializados. Es la herramienta estándar para empresas que basan su negocio en la recolección masiva de datos web.",
+        "cuando_usarla": "Cuando necesites realizar scraping a gran escala de forma organizada, rápida y con procesamiento automático de los datos extraídos.",
+        "cuando_no": "Para scripts pequeños de una sola vez donde configurar un proyecto completo de Scrapy resulte excesivo comparado con BeautifulSoup.",
+        "estado": "activa",
+        "docs": "https://docs.scrapy.org/",
+        "tags": [
+            "crawler",
+            "spiders",
+            "big data",
+            "scraping"
+        ],
+        "ejemplo": {
+            "titulo": "Spider básico para extraer títulos",
+            "codigo": "import scrapy\n\nclass BlogSpider(scrapy.Spider):\n    name = 'blog_spider'\n    start_urls = ['https://techpulse.es/blog']\n\n    def parse(self, response):\n        # Extraemos todos los títulos de artículos usando selectores CSS\n        for articulo in response.css('article.post'):\n            yield {\n                'titulo': articulo.css('h2::text').get(),\n                'link': articulo.css('a::attr(href)').get(),\n            }\n        # El framework gestiona la exportación a JSON o CSV automáticamente"
+        }
+    },
+    {
+        "id": "httpx",
+        "nombre": "HTTPX",
+        "categoria": "web",
+        "descripcion_corta": "Cliente HTTP de nueva generación con soporte asíncrono y HTTP/2.",
+        "que_es": "HTTPX es un cliente HTTP completo para Python que mejora las capacidades de la clásica librería 'Requests'. Ofrece una interfaz casi idéntica pero añade soporte nativo para programación asíncrona (async/await) y para el protocolo HTTP/2. Es una herramienta esencial en el ecosistema moderno de Python para realizar peticiones de red de alto rendimiento.",
+        "para_que": "Se usa para consumir APIs externas desde aplicaciones asíncronas sin bloquear el hilo principal de ejecución. Es ideal para realizar múltiples peticiones en paralelo de forma eficiente, reduciendo drásticamente el tiempo total de espera en procesos de red.",
+        "cuando_usarla": "Siempre que estés trabajando en un entorno asíncrono (como FastAPI) o cuando necesites las ventajas de rendimiento de HTTP/2.",
+        "cuando_no": "Si tu aplicación es puramente síncrona y sencilla, donde la librería 'Requests' tradicional sigue siendo la opción más ligera y conocida.",
+        "estado": "activa",
+        "docs": "https://www.python-httpx.org/",
+        "tags": [
+            "http",
+            "client",
+            "async",
+            "http2"
+        ],
+        "ejemplo": {
+            "titulo": "Petición asíncrona a una API",
+            "codigo": "import httpx\nimport asyncio\n\nasync def consultar_api():\n    # Usamos un cliente asíncrono para mejor rendimiento\n    async with httpx.AsyncClient() as cliente:\n        respuesta = await cliente.get(\"https://api.github.com/zen\")\n        if respuesta.status_code == 200:\n            print(f\"Frase del día: {respuesta.text}\")\n        print(f\"Protocolo usado: {respuesta.http_version}\")\n\n# Ejecutamos la función en el bucle de eventos\nasyncio.run(consultar_api())"
+        }
+    },
+    {
+        "id": "reflex",
+        "nombre": "Reflex",
+        "categoria": "web",
+        "descripcion_corta": "Framework para crear aplicaciones web interactivas usando solo Python.",
+        "que_es": "Reflex es un framework innovador que permite desarrollar aplicaciones web completas (frontend y backend) sin necesidad de escribir una sola línea de JavaScript. El código escrito en Python se compila automáticamente en una arquitectura moderna basada en React y Next.js. Permite crear interfaces de usuario altamente interactivas y profesionales utilizando componentes puramente de Python.",
+        "para_que": "Se utiliza para crear cuadros de mando (dashboards) de datos, herramientas internas de gestión y aplicaciones web de prototipado rápido. Es perfecto para desarrolladores que dominan Python y quieren lanzar productos web sin aprender frameworks de frontend complejos.",
+        "cuando_usarla": "Cuando quieras crear una web moderna y reactiva de forma extremadamente rápida utilizando solo tus conocimientos de Python.",
+        "cuando_no": "Para sitios web con requisitos de diseño extremadamente específicos que requieran un control total sobre el ecosistema JavaScript/React.",
+        "estado": "activa",
+        "docs": "https://reflex.dev/docs/",
+        "tags": [
+            "frontend",
+            "fullstack",
+            "react",
+            "python-only"
+        ],
+        "ejemplo": {
+            "titulo": "Contador interactivo en tiempo real",
+            "codigo": "import reflex as rx\n\nclass EstadoContador(rx.State):\n    valor: int = 0\n    def incrementar(self):\n        self.valor += 1\n\ndef index():\n    # Interfaz definida con componentes de Python\n    return rx.vstack(\n        rx.heading(f\"Valor actual: {EstadoContador.valor}\", size=\"8\"),\n        rx.button(\"Incrementar\", on_click=EstadoContador.incrementar),\n        padding=\"2em\"\n    )\n\napp = rx.App()\napp.add_page(index)"
+        }
+    },
+    {
+        "id": "scikit-learn",
+        "nombre": "scikit-learn",
+        "categoria": "ml",
+        "descripcion_corta": "La librería estándar para algoritmos de aprendizaje automático tradicional en Python.",
+        "que_es": "Es la herramienta más completa para realizar machine learning clásico sobre datos estructurados. Proporciona una interfaz consistente para tareas de clasificación, regresión, agrupamiento y reducción de dimensionalidad. Está construida sobre NumPy y SciPy, lo que la hace extremadamente eficiente y confiable. Es el punto de partida ideal para cualquier científico de datos.",
+        "para_que": "Se utiliza para predecir si un cliente cancelará una suscripción, clasificar correos electrónicos como spam o segmentar usuarios de una web por comportamiento. También es clave para predecir precios de viviendas basándose en características históricas o reducir la complejidad de grandes conjuntos de datos.",
+        "cuando_usarla": "Cuando trabajes con datos en formato tabla (CSV, Excel, SQL) y necesites modelos rápidos, interpretables y con una base matemática sólida.",
+        "cuando_no": "Si el problema requiere procesar imágenes complejas, audio o lenguaje natural profundo, donde las redes neuronales de PyTorch o TensorFlow son superiores.",
+        "estado": "activa",
+        "docs": "[https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)",
+        "tags": [
+            "estadistica",
+            "clasificacion",
+            "regresion",
+            "mineria de datos"
+        ],
+        "ejemplo": {
+            "titulo": "Entrenamiento de un clasificador básico",
+            "codigo": "from sklearn.ensemble import RandomForestClassifier\nfrom sklearn.model_selection import train_test_split\nimport pandas as pd\n\n# Cargar datos y separar características de la etiqueta\ndf = pd.read_csv('datos.csv')\nX, y = df.drop('objetivo', axis=1), df['objetivo']\n# Dividir el dataset: 80% entrenamiento y 20% prueba\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)\n# Crear y entrenar el modelo de Bosques Aleatorios\nmodelo = RandomForestClassifier(n_estimators=100)\nmodelo.fit(X_train, y_train)\n# Realizar una predicción con los datos de prueba\nprecision = modelo.score(X_test, y_test)\nprint(f'Precisión del modelo: {precision:.2f}')"
+        }
+    },
+    {
+        "id": "pytorch",
+        "nombre": "PyTorch",
+        "categoria": "ml",
+        "descripcion_corta": "Framework de deep learning flexible y preferido por la comunidad de investigación.",
+        "que_es": "Es una librería de aprendizaje profundo basada en tensores que ofrece una flexibilidad total mediante su gráfico de computación dinámico. Permite a los desarrolladores cambiar el comportamiento de la red neuronal en tiempo de ejecución, facilitando la depuración y la experimentación. Es la herramienta líder en la investigación de IA moderna y el desarrollo de redes neuronales complejas. Su sintaxis es muy similar a NumPy, lo que reduce la curva de aprendizaje.",
+        "para_que": "Se emplea para crear sistemas de visión artificial que detectan objetos en video, motores de traducción automática y modelos de generación de imágenes. Es la base para entrenar modelos de lenguaje avanzados y aplicaciones de conducción autónoma que procesan múltiples sensores en tiempo real.",
+        "cuando_usarla": "Cuando necesites diseñar arquitecturas de redes neuronales personalizadas o realizar investigaciones donde la flexibilidad del código sea prioritaria.",
+        "cuando_no": "Para aplicaciones de analítica simple sobre datos tabulares pequeños donde un modelo de scikit-learn se entrena en segundos con menos código.",
+        "estado": "activa",
+        "docs": "[https://pytorch.org/docs/](https://pytorch.org/docs/)",
+        "tags": [
+            "deep learning",
+            "redes neuronales",
+            "tensores",
+            "gpu"
+        ],
+        "ejemplo": {
+            "titulo": "Creación y transformación de tensores en GPU",
+            "codigo": "import torch\n\n# Crear un tensor de datos aleatorios\ndatos = torch.randn(3, 3)\n# Mover el cálculo a la GPU si está disponible para mayor velocidad\ndispositivo = 'cuda' if torch.cuda.is_available() else 'cpu'\ndatos = datos.to(dispositivo)\n# Realizar una operación matricial compleja\nresultado = torch.matmul(datos, datos.T)\n# Aplicar una función de activación (ReLU)\nactivacion = torch.relu(resultado)\nprint(f'Resultado en {dispositivo}:\n{activacion}')"
+        }
+    },
+    {
+        "id": "transformers",
+        "nombre": "Transformers (HuggingFace)",
+        "categoria": "ml",
+        "descripcion_corta": "Acceso simplificado a los modelos de IA pre-entrenados más potentes del mundo.",
+        "que_es": "Es la librería definitiva para trabajar con modelos de lenguaje, visión y audio de última generación sin necesidad de entrenarlos desde cero. Proporciona una interfaz unificada para descargar y ejecutar modelos famosos como BERT, GPT o Llama. Permite realizar 'fine-tuning' para adaptar modelos gigantes a necesidades específicas de una empresa con muy pocos datos. Es el estándar de facto para la transferencia de aprendizaje en inteligencia artificial.",
+        "para_que": "Se usa para automatizar el soporte al cliente mediante análisis de sentimiento, resumir miles de documentos legales en segundos o clasificar imágenes médicas. También es ideal para crear sistemas de respuesta a preguntas basados en bases de conocimientos específicas.",
+        "cuando_usarla": "Cuando quieras obtener resultados de nivel profesional en tareas de lenguaje o visión aprovechando modelos que ya han sido entrenados por grandes empresas.",
+        "cuando_no": "Si necesitas una solución que funcione en dispositivos con hardware extremadamente pobre y sin conexión a internet, donde los modelos pesados no caben.",
+        "estado": "activa",
+        "docs": "[https://huggingface.co/docs/transformers/index](https://huggingface.co/docs/transformers/index)",
+        "tags": [
+            "nlp",
+            "llm",
+            "bert",
+            "ia generativa"
+        ],
+        "ejemplo": {
+            "titulo": "Análisis de sentimiento con dos líneas",
+            "codigo": "from transformers import pipeline\n\n# Cargar un modelo pre-entrenado para análisis de texto\nanalizador = pipeline('sentiment-analysis', lang='es')\n# Analizar una lista de comentarios de clientes\ntextos = ['Me encanta este producto', 'El servicio fue pésimo']\nresultados = analizador(textos)\n# Mostrar la etiqueta (Positivo/Negativo) y la confianza\nfor texto, res in zip(textos, resultados):\n    print(f'Texto: {texto} | Resultado: {res[\\\"label\\\"]} ({res[\\\"score\\\"]:.2f})')"
+        }
+    },
+    {
+        "id": "langchain",
+        "nombre": "LangChain",
+        "categoria": "ml",
+        "descripcion_corta": "Framework para crear aplicaciones interactivas que utilizan modelos de lenguaje.",
+        "que_es": "Es un ecosistema diseñado para conectar modelos de lenguaje (LLMs) con datos externos, APIs y herramientas de lógica. Facilita la creación de cadenas de pensamiento donde la IA puede consultar documentos privados o ejecutar código para resolver un problema. Es importante notar que evoluciona muy rápido, lo que implica cambios frecuentes en su estructura. Para proyectos centrados exclusivamente en la búsqueda eficiente sobre documentos, existen alternativas sólidas como LlamaIndex.",
+        "para_que": "Se utiliza para construir chatbots inteligentes que 'leen' los manuales de una empresa para responder dudas o agentes que automatizan tareas administrativas conectándose al calendario y correo. Es la herramienta principal para implementar sistemas de Generación Aumentada por Recuperación (RAG).",
+        "cuando_usarla": "Cuando necesites que un modelo de lenguaje interactúe con el mundo real, use herramientas externas o mantenga una memoria compleja de la conversación.",
+        "cuando_no": "Si solo necesitas hacer una llamada directa a una API de chat como OpenAI para una respuesta simple, ya que LangChain añade una capa de complejidad innecesaria.",
+        "estado": "activa",
+        "docs": "[https://python.langchain.com/docs/get_started/introduction](https://python.langchain.com/docs/get_started/introduction)",
+        "tags": [
+            "agentes",
+            "rag",
+            "llm",
+            "chatbots"
+        ],
+        "ejemplo": {
+            "titulo": "Cadena básica con plantilla de prompt",
+            "codigo": "from langchain.prompts import PromptTemplate\nfrom langchain_openai import ChatOpenAI\n\n# Definir cómo queremos que responda la IA\nplantilla = \"Eres un experto en {tema}. Explica {concepto} de forma breve.\"\nprompt = PromptTemplate(input_variables=['tema', 'concepto'], template=plantilla)\n# Configurar el modelo (requiere API KEY)\nllm = ChatOpenAI(model_name='gpt-3.5-turbo')\n# Combinar la plantilla con el modelo y ejecutar\ncadena = prompt | llm\nrespuesta = cadena.invoke({'tema': 'astronomía', 'concepto': 'agujeros negros'})\nprint(respuesta.content)"
+        }
+    },
+    {
+        "id": "opencv-python",
+        "nombre": "OpenCV",
+        "categoria": "vision",
+        "descripcion_corta": "La librería líder para visión artificial y procesamiento de imágenes en tiempo real.",
+        "que_es": "OpenCV es una biblioteca de código abierto que contiene cientos de algoritmos de visión artificial. Permite realizar desde tareas básicas como el filtrado de imágenes hasta procesos complejos como el reconocimiento facial o el seguimiento de objetos en video. Es conocida por su enorme velocidad ya que está escrita originalmente en C++ y optimizada para aprovechar el hardware. Se ha convertido en el estándar de la industria para cualquier aplicación que requiera 'entender' contenido visual.",
+        "para_que": "Se utiliza en sistemas de seguridad para detectar intrusos, en la industria automotriz para el guiado de vehículos autónomos y en aplicaciones médicas para el análisis de radiografías. También es común verla en filtros de redes sociales y aplicaciones de realidad aumentada que deben superponer objetos sobre el rostro del usuario en tiempo real.",
+        "cuando_usarla": "Cuando necesites procesar video en vivo, realizar detección de bordes, transformaciones geométricas complejas o trabajar con flujos de cámara de alta velocidad.",
+        "cuando_no": "Si solo necesitas cambiar el tamaño de una imagen o convertir formatos de archivo sencillos, donde Pillow es mucho más ligero y fácil de usar.",
+        "estado": "activa",
+        "docs": "[https://docs.opencv.org/4.x/](https://docs.opencv.org/4.x/)",
+        "tags": [
+            "computervision",
+            "video",
+            "procesamiento",
+            "filtros"
+        ],
+        "ejemplo": {
+            "titulo": "Conversión de imagen a escala de grises",
+            "codigo": "import cv2\n\n# Cargar la imagen desde el disco\nimagen = cv2.imread('foto.jpg')\n# Convertir el espacio de color de BGR a Gris\ngris = cv2.cvtColor(imagen, cv2.COLOR_BGR2GRAY)\n# Aplicar un desenfoque para reducir el ruido visual\nsuave = cv2.GaussianBlur(gris, (5, 5), 0)\n# Guardar el resultado procesado\ncv2.imwrite('foto_procesada.jpg', suave)\n# Mostrar en una ventana (requiere entorno gráfico)\ncv2.imshow('Imagen Gris', suave)\ncv2.waitKey(0)"
+        }
+    },
+    {
+        "id": "pillow",
+        "nombre": "Pillow",
+        "categoria": "vision",
+        "descripcion_corta": "Librería amigable para la edición y manipulación básica de imágenes.",
+        "que_es": "Pillow es una bifurcación moderna de la antigua librería PIL (Python Imaging Library). Es la herramienta preferida para realizar ediciones rápidas de imágenes de manera sencilla y eficiente. Soporta una amplia variedad de formatos de archivo como JPEG, PNG, BMP y GIF. Su facilidad de uso la hace ideal para tareas automatizadas de servidor donde no se requiere la potencia de la visión artificial avanzada.",
+        "para_que": "Se emplea habitualmente en servidores web para generar miniaturas de fotos subidas por usuarios o para añadir marcas de agua automáticamente. También es útil para crear collages, ajustar el brillo de fotos por lotes o convertir formatos de imagen de manera masiva en scripts de automatización.",
+        "cuando_usarla": "Cuando necesites manipular fotos estáticas, recortar, redimensionar o aplicar filtros artísticos simples de forma rápida.",
+        "cuando_no": "Para tareas que involucren análisis de video, reconocimiento de patrones complejos o detección de objetos, donde OpenCV es la opción correcta.",
+        "estado": "activa",
+        "docs": "[https://pillow.readthedocs.io/en/stable/](https://pillow.readthedocs.io/en/stable/)",
+        "tags": [
+            "imagenes",
+            "edicion",
+            "formatos",
+            "thumbnails"
+        ],
+        "ejemplo": {
+            "titulo": "Redimensionar y rotar una imagen",
+            "codigo": "from PIL import Image\n\n# Abrir un archivo de imagen existente\nwith Image.open('entrada.png') as img:\n    # Redimensionar manteniendo la calidad\n    img_pequena = img.resize((800, 600))\n    # Girar la imagen 90 grados a la izquierda\n    img_girada = img_pequena.rotate(90)\n    # Guardar con optimización de peso\n    img_girada.save('salida_editada.png', optimize=True)\n    print('Imagen procesada con éxito')"
+        }
+    },
+    {
+        "id": "ultralytics",
+        "nombre": "Ultralytics (YOLO)",
+        "categoria": "vision",
+        "descripcion_corta": "Detección de objetos de alta precisión y velocidad mediante IA.",
+        "que_es": "La librería de Ultralytics es la implementación oficial de los modelos YOLO (You Only Look Once), famosos por detectar objetos en milisegundos. Permite realizar detección, segmentación y clasificación de imágenes mediante redes neuronales pre-entrenadas. Es extremadamente sencilla de usar, permitiendo implementar visión artificial avanzada con apenas unas líneas de código. Se adapta automáticamente tanto a potentes GPUs como a CPUs convencionales.",
+        "para_que": "Se utiliza en sistemas de conteo de personas en tiendas, detección de piezas defectuosas en líneas de producción y análisis de tráfico urbano. También es muy popular en aplicaciones que necesitan identificar qué tipo de objetos hay en una foto para categorizar contenido automáticamente.",
+        "cuando_usarla": "Cuando necesites detectar objetos específicos (como perros, coches o personas) con una precisión de nivel profesional y alta velocidad.",
+        "cuando_no": "Si el proyecto no requiere inteligencia artificial o si la detección debe hacerse en hardware extremadamente limitado donde un modelo de IA no pueda ejecutarse.",
+        "estado": "activa",
+        "docs": "[https://docs.ultralytics.com/](https://docs.ultralytics.com/)",
+        "tags": [
+            "yolo",
+            "deteccion",
+            "ia",
+            "deeplearning"
+        ],
+        "ejemplo": {
+            "titulo": "Detección de objetos en una imagen",
+            "codigo": "from ultralytics import YOLO\n\n# Cargar un modelo pre-entrenado (n=nano, rápido)\nmodelo = YOLO('yolov8n.pt')\n# Ejecutar la detección sobre una imagen o URL\nresultados = modelo('[https://ultralytics.com/images/bus.jpg](https://www.google.com/search?q=https://ultralytics.com/images/bus.jpg)')\n# Procesar cada objeto detectado\nfor r in resultados:\n    print(f'Objetos detectados: {len(r.boxes)}')\n    # Mostrar el resultado visualmente\n    r.show()\n    r.save(filename='resultado_yolo.jpg')"
+        }
+    },
+    {
+        "id": "playwright",
+        "nombre": "Playwright",
+        "categoria": "automatizacion",
+        "descripcion_corta": "Automatización de navegadores moderna, rápida y fiable.",
+        "que_es": "Playwright es una librería desarrollada por Microsoft para automatizar navegadores como Chromium, Firefox y WebKit con una sola API. Está diseñada para la web moderna, gestionando automáticamente las esperas de carga y elementos dinámicos que suelen romper otros scripts. Soporta ejecución en paralelo y permite grabar acciones del usuario para generar código automáticamente. Es considerada la sucesora más estable y rápida de herramientas más antiguas.",
+        "para_que": "Se utiliza principalmente para pruebas automatizadas de aplicaciones web asegurando que todo funcione antes de publicar. También es excelente para hacer 'scraping' de sitios que dependen mucho de JavaScript o para automatizar tareas repetitivas en portales corporativos que no tienen API.",
+        "cuando_usarla": "Cuando necesites automatizar una web compleja con mucho contenido dinámico (React, Vue) y busques rapidez y robustez.",
+        "cuando_no": "Para realizar peticiones sencillas a una API, donde usar un navegador completo con Playwright sería un desperdicio masivo de recursos.",
+        "estado": "activa",
+        "docs": "[https://playwright.dev/python/docs/intro](https://playwright.dev/python/docs/intro)",
+        "tags": [
+            "testing",
+            "browser",
+            "automation",
+            "scraping"
+        ],
+        "ejemplo": {
+            "titulo": "Captura de pantalla de una web dinámica",
+            "codigo": "from playwright.sync_api import sync_playwright\n\nwith sync_playwright() as p:\n    # Lanzar el navegador en segundo plano\n    browser = p.chromium.launch()\n    page = browser.new_page()\n    # Navegar a la web y esperar a que esté lista\n    page.goto('[https://techpulse.es](https://www.google.com/search?q=https://techpulse.es)')\n    # Realizar una captura de pantalla completa\n    page.screenshot(path='web_screenshot.png', full_page=True)\n    print(f'Título de la web: {page.title()}')\n    browser.close()"
+        }
+    },
+    {
+        "id": "selenium",
+        "nombre": "Selenium",
+        "categoria": "automatizacion",
+        "descripcion_corta": "El estándar clásico para la automatización de navegadores web.",
+        "que_es": "Selenium es la herramienta de automatización web más veterana y utilizada del mundo. Permite controlar un navegador real mediante programación para simular clics, rellenos de formularios y navegación humana. Al ser un estándar, tiene soporte para casi todos los lenguajes de programación y navegadores existentes. Aunque es más lenta que las opciones modernas, su ecosistema es inmenso y muy fiable.",
+        "para_que": "Se usa para realizar pruebas de compatibilidad entre diferentes navegadores y para automatizar procesos en sistemas antiguos que requieren versiones específicas de Internet Explorer o navegadores legados. Muchas empresas la usan para monitorizar el estado de sus servicios web simulando rutas de usuario reales.",
+        "cuando_usarla": "Cuando necesites compatibilidad absoluta con navegadores antiguos o cuando el equipo ya tenga una infraestructura basada en Selenium Grid.",
+        "cuando_no": "Para nuevos proyectos de automatización o pruebas de apps modernas, donde Playwright ofrece una mejor experiencia y mayor velocidad.",
+        "estado": "activa",
+        "docs": "[https://www.selenium.dev/documentation/](https://www.selenium.dev/documentation/)",
+        "tags": [
+            "web",
+            "testing",
+            "browser",
+            "legacy"
+        ],
+        "ejemplo": {
+            "titulo": "Búsqueda automatizada en Google",
+            "codigo": "from selenium import webdriver\nfrom selenium.webdriver.common.by import By\nfrom selenium.webdriver.common.keys import Keys\n\n# Configurar el driver del navegador\ndriver = webdriver.Chrome()\ntry:\n    driver.get('[https://www.google.com](https://www.google.com)')\n    # Localizar el cuadro de búsqueda por nombre\n    busqueda = driver.find_element(By.NAME, 'q')\n    busqueda.send_keys('TechPulse ES' + Keys.RETURN)\n    print('Búsqueda completada')\nfinally:\n    driver.quit()"
+        }
+    },
+    {
+        "id": "typer",
+        "nombre": "Typer",
+        "categoria": "automatizacion",
+        "descripcion_corta": "Librería para crear aplicaciones de terminal (CLI) intuitivas y profesionales.",
+        "que_es": "Typer es una biblioteca para construir interfaces de línea de comandos basada en las anotaciones de tipos de Python. Es increíblemente sencilla de usar porque utiliza funciones estándar para definir comandos, argumentos y opciones. Automáticamente genera la ayuda del programa (--help) y ofrece autocompletado en la terminal. Está desarrollada por el mismo creador de FastAPI, compartiendo su filosofía de rapidez y simplicidad.",
+        "para_que": "Se utiliza para crear herramientas internas de empresa que gestionan despliegues, limpian bases de datos o procesan archivos desde la terminal. Es ideal para programadores que quieren convertir sus scripts individuales en una suite de herramientas profesional y fácil de compartir con otros.",
+        "cuando_usarla": "Cuando quieras crear un script de terminal que sea fácil de mantener, documentar y que deba ser usado por otras personas.",
+        "cuando_no": "Si tu script es extremadamente simple (una sola función sin argumentos dinámicos), donde usar una librería externa sea innecesario.",
+        "estado": "activa",
+        "docs": "[https://typer.tiangolo.com/](https://typer.tiangolo.com/)",
+        "tags": [
+            "cli",
+            "terminal",
+            "args",
+            "backend"
+        ],
+        "ejemplo": {
+            "titulo": "Herramienta CLI con comandos",
+            "codigo": "import typer\n\napp = typer.Typer()\n\n@app.command()\ndef saludar(nombre: str, formal: bool = False):\n    # El tipo de 'nombre' y el valor por defecto de 'formal' crean el CLI\n    if formal:\n        typer.echo(f'Buenos días, Licenciado {nombre}.')\n    else:\n        typer.echo(f'¡Hola {nombre}!')\n\nif __name__ == '__main__':\n    app()"
+        }
+    },
+    {
+        "id": "rich",
+        "nombre": "Rich",
+        "categoria": "automatizacion",
+        "descripcion_corta": "Formateo visual avanzado y estético para la terminal.",
+        "que_es": "Rich es una librería de Python para escribir texto con colores y estilos en la terminal, además de renderizar tablas, barras de progreso, sintaxis de código y más. Facilita enormemente la creación de salidas visuales atractivas que ayudan a entender mejor lo que está haciendo un script. Funciona en la mayoría de terminales modernas y se integra perfectamente con otras librerías de automatización. Convierte una terminal aburrida en una consola profesional con un diseño cuidado.",
+        "para_que": "Se usa para mostrar logs detallados de procesos de servidor, crear tablas de resumen de datos rápidas o mostrar barras de progreso en procesos que tardan mucho tiempo. Es muy común verla en instaladores de software y herramientas de diagnóstico para resaltar errores en rojo o éxitos en verde.",
+        "cuando_usarla": "Cuando tu aplicación de terminal necesite mostrar información estructurada de forma clara y visualmente agradable para el usuario.",
+        "cuando_no": "En entornos donde la terminal sea muy limitada (como sistemas embebidos antiguos) o cuando la salida deba ser puramente texto plano para ser procesada por otros programas.",
+        "estado": "activa",
+        "docs": "[https://rich.readthedocs.io/en/stable/introduction.html](https://rich.readthedocs.io/en/stable/introduction.html)",
+        "tags": [
+            "terminal",
+            "estetica",
+            "ui",
+            "console"
+        ],
+        "ejemplo": {
+            "titulo": "Creación de una tabla visual en consola",
+            "codigo": "from rich.console import Console\nfrom rich.table import Table\n\nconsole = Console()\ntabla = Table(title='Servidores TechPulse ES')\n\ntabla.add_column('ID', style='cyan', no_wrap=True)\ntabla.add_column('Estado', style='green')\ntabla.add_column('Carga', justify='right')\n\ntabla.add_row('Srv-01', 'Online', '12%')\ntabla.add_row('Srv-02', 'Mantenimiento', '0%')\n\nconsole.print(tabla)"
+        }
+    },
+    {
+        "id": "schedule",
+        "nombre": "schedule",
+        "categoria": "automatizacion",
+        "descripcion_corta": "Planificación de tareas periódicas con sintaxis humana.",
+        "que_es": "Schedule es una librería ligera que permite programar la ejecución de funciones de Python en intervalos de tiempo específicos. Su principal característica es que utiliza una sintaxis que parece lenguaje natural, lo que hace que el código sea muy fácil de leer y mantener. No requiere configurar complejos servicios del sistema como 'cron' de Linux para tareas internas simples. Es perfecta para scripts que deben estar siempre encendidos realizando labores repetitivas.",
+        "para_que": "Se utiliza para automatizar el envío de reportes diarios por email, limpiar archivos temporales cada hora o realizar copias de seguridad cada madrugada. También es útil en bots de mensajería para enviar recordatorios periódicos o actualizar datos de una API externa cada pocos minutos.",
+        "cuando_usarla": "Cuando necesites programar tareas sencillas dentro de un script de Python que se ejecuta de forma continua.",
+        "cuando_no": "Para sistemas críticos donde la tarea deba ejecutarse incluso si el script de Python falla, o para procesos distribuidos complejos donde Celery es mejor opción.",
+        "estado": "activa",
+        "docs": "[https://schedule.readthedocs.io/en/stable/](https://schedule.readthedocs.io/en/stable/)",
+        "tags": [
+            "cron",
+            "tareas",
+            "tiempo",
+            "automatizacion"
+        ],
+        "ejemplo": {
+            "titulo": "Programación de una tarea diaria",
+            "codigo": "import schedule\nimport time\n\ndef tarea_limpieza():\n    print('Realizando limpieza de logs...')\n\n# Configuración intuitiva de los intervalos\nschedule.every(10).minutes.do(tarea_limpieza)\nschedule.every().day.at('03:00').do(tarea_limpieza)\n\nwhile True:\n    # Ejecuta las tareas que estén pendientes\n    schedule.run_pending()\n    time.sleep(1)"
+        }
     }
-  },
-  {
-    "id": "numpy",
-    "nombre": "NumPy",
-    "categoria": "datos",
-    "descripcion_corta": "Base fundamental para el cálculo científico y manejo de matrices multidimensionales.",
-    "que_es": "NumPy es la librería base sobre la que se apoya casi todo el ecosistema de datos en Python. Introduce el objeto 'ndarray', un arreglo multidimensional extremadamente rápido comparado con las listas nativas de Python. Permite realizar operaciones matemáticas avanzadas de forma vectorizada, evitando bucles lentos. Es indispensable para cualquier tarea que involucre álgebra lineal o procesamiento numérico de alto rendimiento.",
-    "para_que": "Se usa para realizar cálculos matemáticos complejos sobre grandes colecciones de números. Es vital en el procesamiento de imágenes (que son matrices de píxeles) y en la implementación de algoritmos de inteligencia artificial desde cero. También sirve para generar datos aleatorios y realizar transformaciones de señales.",
-    "cuando_usarla": "Cuando trabajes con cálculos numéricos pesados, matrices, álgebra lineal o necesites optimizar el rendimiento de operaciones matemáticas.",
-    "cuando_no": "Para manejar datos tabulares con columnas de diferentes tipos (como nombres y fechas mezclados), donde Pandas es mucho más cómodo.",
-    "estado": "activa",
-    "docs": "https://numpy.org/doc/",
-    "tags": [
-      "matrices",
-      "calculo",
-      "vectores",
-      "matematicas"
-    ],
-    "ejemplo": {
-      "titulo": "Conversión masiva de temperaturas",
-      "codigo": "import numpy as np\n# Crear array con temperaturas en Celsius\ncelsius = np.array([0, 10, 20, 30, 40])\n# Convertir a Fahrenheit usando vectorización (sin bucles for)\nfahrenheit = (celsius * 9/5) + 32\n# Calcular estadísticas básicas de los datos\nmedia = np.mean(fahrenheit)\nmaximo = np.max(fahrenheit)\nprint(f'Temperaturas: {fahrenheit}')\nprint(f'Media: {media}, Máximo: {maximo}')"
-    }
-  },
-  {
-    "id": "polars",
-    "nombre": "Polars",
-    "categoria": "datos",
-    "descripcion_corta": "Librería de procesamiento de datos ultra rápida escrita en Rust.",
-    "que_es": "Polars es una alternativa moderna a Pandas diseñada para ofrecer el máximo rendimiento posible. Está escrita en Rust y utiliza la memoria de forma más eficiente mediante el formato Apache Arrow. A diferencia de otras librerías, procesa los datos de forma paralela aprovechando todos los núcleos de tu procesador. Su diseño evita copias innecesarias de datos, lo que la hace ideal para equipos con recursos limitados o datos masivos.",
-    "para_que": "Se emplea en proyectos donde el tiempo de procesamiento es crítico y los DataFrames son demasiado grandes para Pandas. Es perfecta para procesos de ingeniería de datos que requieren transformaciones rápidas. También se usa para realizar consultas perezosas (lazy evaluation), optimizando la ejecución de filtros y cálculos antes de aplicarlos.",
-    "cuando_usarla": "Cuando Pandas se queda lento o consume demasiada memoria en tu máquina al procesar millones de filas.",
-    "cuando_no": "Si necesitas librerías de terceros que solo aceptan objetos de Pandas como entrada o si el proyecto es pequeño y la simplicidad de Pandas es suficiente.",
-    "estado": "activa",
-    "docs": "https://docs.pola.rs/",
-    "tags": [
-      "rust",
-      "rendimiento",
-      "big data",
-      "lazy evaluation"
-    ],
-    "ejemplo": {
-      "titulo": "Filtrado rápido con expresiones",
-      "codigo": "import polars as pl\n# Crear un DataFrame de Polars\ndf = pl.DataFrame({'id': range(5), 'valor': [10.5, 20.0, 5.0, 30.2, 15.0]})\n# Filtrar y crear una nueva columna calculada\nresultado = (\n    df.filter(pl.col('valor') > 10)\n    .with_columns((pl.col('valor') * 2).alias('doble'))\n    .select(['id', 'doble'])\n)\nprint(resultado)"
-    }
-  },
-  {
-    "id": "matplotlib",
-    "nombre": "Matplotlib",
-    "categoria": "datos",
-    "descripcion_corta": "Librería estándar para la creación de gráficos y visualizaciones estáticas.",
-    "que_es": "Matplotlib es la herramienta de visualización más antigua y flexible de Python. Permite crear desde gráficos de líneas simples hasta diagramas complejos de nivel profesional para publicaciones científicas. Funciona mediante un sistema de capas que da control total sobre cada elemento del gráfico: ejes, etiquetas, colores y leyendas. Es la base sobre la que se construyen muchas otras librerías de visualización más modernas.",
-    "para_que": "Se usa para explorar datos visualmente y detectar tendencias o anomalías. Es ideal para generar figuras estáticas para informes, presentaciones o artículos de investigación. Permite personalizar hasta el más mínimo detalle de una gráfica para que se adapte a requisitos estéticos específicos.",
-    "cuando_usarla": "Cuando necesites un control absoluto sobre el diseño del gráfico o quieras crear visualizaciones personalizadas que no encajan en plantillas estándar.",
-    "cuando_no": "Si buscas crear gráficos interactivos para la web (mejor usar Plotly) o si quieres gráficos estadísticos complejos con muy poco código (mejor usar Seaborn).",
-    "estado": "activa",
-    "docs": "https://matplotlib.org/stable/contents.html",
-    "tags": [
-      "graficos",
-      "visualizacion",
-      "plots",
-      "charts"
-    ],
-    "ejemplo": {
-      "titulo": "Gráfico de líneas personalizado",
-      "codigo": "import matplotlib.pyplot as plt\n# Datos de ejemplo\nmeses = ['Ene', 'Feb', 'Mar', 'Abr', 'May']\nventas = [10, 25, 18, 40, 35]\n# Crear la figura y el trazado\nplt.figure(figsize=(8, 4))\nplt.plot(meses, ventas, color='green', marker='o', linestyle='--')\n# Configurar etiquetas y título en español\nplt.title('Evolución de Ventas Mensuales')\nplt.xlabel('Mes')\nplt.ylabel('Miles de Euros')\nplt.grid(True)\nplt.show()"
-    }
-  },
-  {
-    "id": "seaborn",
-    "nombre": "Seaborn",
-    "categoria": "datos",
-    "descripcion_corta": "Visualización de datos estadísticos con una interfaz elegante y sencilla.",
-    "que_es": "Seaborn es una librería de visualización construida sobre Matplotlib que simplifica enormemente la creación de gráficos complejos. Está diseñada para trabajar directamente con DataFrames de Pandas, entendiendo automáticamente las etiquetas de las columnas. Su principal ventaja es que genera gráficos estéticamente atractivos por defecto, con temas y paletas de colores profesionales. Se enfoca en la exploración estadística de los datos de manera rápida y efectiva.",
-    "para_que": "Se utiliza para visualizar relaciones entre múltiples variables, como diagramas de dispersión con regresión o mapas de calor de correlaciones. Es excelente para mostrar distribuciones de datos mediante histogramas suavizados o diagramas de caja. Facilita la comparación de categorías dentro de un 'dataset' mediante el uso de colores automáticos.",
-    "cuando_usarla": "Cuando necesites crear gráficos estadísticos elegantes de forma rápida y tus datos ya estén en un DataFrame de Pandas.",
-    "cuando_no": "Para visualizaciones muy personalizadas que requieren manipular elementos individuales del gráfico fuera de los estándares estadísticos.",
-    "estado": "activa",
-    "docs": "https://seaborn.pydata.org/",
-    "tags": [
-      "estadistica",
-      "visualizacion",
-      "pandas",
-      "estetica"
-    ],
-    "ejemplo": {
-      "titulo": "Gráfico de dispersión con regresión",
-      "codigo": "import seaborn as sns\nimport matplotlib.pyplot as plt\n# Cargar dataset de ejemplo integrado\ntips = sns.load_dataset('tips')\n# Crear gráfico con línea de tendencia\nsns.regplot(data=tips, x='total_bill', y='tip', scatter_kws={'alpha':0.5})\n# Añadir títulos claros\nplt.title('Relación entre Cuenta y Propina')\nplt.xlabel('Total de la Cuenta ($)')\nplt.ylabel('Propina ($)')\nplt.show()"
-    }
-  }
 ]
