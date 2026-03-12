@@ -14,8 +14,50 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body class="doc-layout">
 
+  <!-- ═══ SIDEBAR DE NAVEGACIÓN ═══════════════════════════════════ -->
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
+
+  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
+    <div class="sidebar-header">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TechPulse<em>ES</em></span>
+      </a>
+      <span class="sidebar-title">Navegación</span>
+      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-section-label">General</div>
+      <a href="index.html" class="sidebar-item">Todas las noticias</a>
+
+      <div class="nav-section-label">IA</div>
+      <a href="llms.html" class="sidebar-item">LLMs</a>
+      <a href="index.html?tag=agentes" class="sidebar-item">Agentes</a>
+      <a href="index.html?tag=ia-local" class="sidebar-item">IA Local</a>
+      <a href="index.html?tag=benchmarks" class="sidebar-item">Benchmarks</a>
+
+      <div class="nav-section-label">Microcontroladores</div>
+      <a href="index.html?tag=esp32" class="sidebar-item">ESP32</a>
+      <a href="index.html?tag=arduino" class="sidebar-item">Arduino</a>
+      <a href="index.html?tag=raspberry-pi" class="sidebar-item">Raspberry Pi</a>
+
+      <div class="nav-section-label">Software Dev</div>
+      <a href="python.html" class="sidebar-item">Python</a>
+      <a href="index.html?tag=devtools" class="sidebar-item">DevTools</a>
+
+      <div class="sidebar-divider"></div>
+
+      <a class="sidebar-item active" href="about.html">
+        <span class="sidebar-icon">ℹ️</span>
+        <span>Sobre el proyecto</span>
+      </a>
+    </nav>
+  </aside>
+
+  <div class="page-wrapper">
   <header class="site-header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
@@ -145,6 +187,7 @@
       });
     }
   </script>
+  </div>
 </body>
 
 </html>

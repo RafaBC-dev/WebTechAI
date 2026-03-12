@@ -1044,21 +1044,25 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 
 /* — Panel principal — */
 .sidebar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 280px;
-  background: var(--surface);
-  border-right: 1px solid var(--border);
-  z-index: 200;
-  transform: translateX(-100%);
-  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  display: flex;
-  flex-direction: column;
-  overflow-y: auto;
-  box-shadow: 4px 0 32px rgba(0, 0, 0, 0.4);
-}
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 240px;
+    height: 100vh;
+    overflow-y: auto;
+    /* Mismo fondo que la página, integrado */
+    background: var(--bg);
+    /* Línea derecha muy sutil */
+    border-right: 1px solid rgba(255,255,255,0.06);
+    box-shadow: none;
+    transform: none;
+    z-index: 99; /* Por debajo del header para que la línea del header quede encima */
+    padding-top: 32px; 
+  }
+
+  .doc-layout .container {
+      max-width: 95%; 
+  }
 .sidebar.open {
   transform: translateX(0);
 }
@@ -1106,7 +1110,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   align-items: center;
   gap: 12px;
   width: 100%;
-  padding: 12px 20px;
+  padding: 8px 16px;
   font-family: var(--font-body);
   font-size: .95rem;
   color: var(--text-2);
@@ -1119,14 +1123,17 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   position: relative;
 }
 .sidebar-item:hover {
-  background: var(--bg);
+  background: rgba(255, 255, 255, 0.05);
   color: var(--text);
 }
 
-/* La sección activa recibe el color de acento y un fondo tintado */
+[data-theme="light"] .sidebar-item:hover {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+/* La sección activa recibe el color de acento y un fondo interno leve */
 .sidebar-item.active {
   color: var(--accent);
-  background: var(--accent-bg);
   font-weight: 500;
 }
 
@@ -1135,9 +1142,9 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   content: '';
   position: absolute;
   left: 0;
-  top: 6px;
-  bottom: 6px;
-  width: 3px;
+  top: 4px;
+  bottom: 4px;
+  width: 2px;
   background: var(--accent);
   border-radius: 0 99px 99px 0;
 }
@@ -1149,7 +1156,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   text-align: center;
 }
 
-/* El chevron rota 90° cuando los subfiltros están visibles */
+/* El chevron ya no se usa en desktop, pero se mantiene rule por si acaso en móvil */
 .sidebar-chevron {
   margin-left: auto;
   font-size: 1.2rem;
@@ -1161,7 +1168,18 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   transform: rotate(90deg);
 }
 
-/* — Subfiltros — */
+.nav-section-label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-3);
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  font-weight: 600;
+  padding: 16px 16px 6px;
+  margin-top: 8px;
+}
+
+/* — Subfiltros (ocultos en version doc, mantenidos para móvil) — */
 .sidebar-subfilters {
   display: none;
   flex-direction: column;
@@ -1202,10 +1220,10 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 .sidebar-divider {
   height: 1px;
   background: var(--border);
-  margin: 12px 20px;
+  margin: 16px 16px;
 }
 
-/* Bloqueo del scroll del body cuando el sidebar está abierto */
+/* Bloqueo del scroll del body cuando el sidebar está abierto en móvil */
 body.sidebar-open {
   overflow: hidden;
 }
@@ -1662,28 +1680,139 @@ body.sidebar-open {
 }
 
 /* ══════════════════════════════════════════════════════════════
-   RESPONSIVE — TABLET (≤ 768 px)
-   Solo se añaden reglas nuevas; ningún estilo de escritorio
-   es modificado. Todos los cambios van dentro de @media.
+   DESKTOP SIDEBAR (> 1024 px)
+   Estilos específicos para layout documental
    ══════════════════════════════════════════════════════════════
-
-   Aquí hacemos los ajustes para que el sitio sea cómodo en
-   tableta y móvil. La filosofía es desktop-first: diseñamos para
-   pantalla grande y SOLO corregimos lo que no funciona en pequeña.
-
-   Los cambios más importantes en tablet (≤ 768px):
-   - El header se reduce de 64 a 56px para ganar espacio vertical.
-   - La navegación de categorías del header desaparece (las pills
-     de la filter-strip ya las tienen, no hace falta duplicarlas).
-   - El grid de noticias pasa de multi-columna a una sola columna.
-   - La filter-strip se actualiza a top: 56px para seguir pegada
-     justo debajo del header ahora más corto.
-
-   En móvil pequeño (≤ 480px) afinamos aún más: paddings internos
-   de las cards más ajustados, títulos del hero y del artículo más
-   pequeños para aprovechar cada píxel, y los números del hero
-   reducidos para que quepan en una sola línea cómodamente.
 */
+@media (min-width: 1025px) {
+  /* Sidebar ocupa el margen izquierdo, mismo fondo que la página */
+  .doc-layout {
+    display: block;
+    padding-left: 240px;
+  }
+
+  /* page-wrapper sin margin — sidebar flota sobre el margen natural */
+  .page-wrapper {
+    margin-left: 0;
+  }
+
+  /* Grid de noticias con tarjetas más grandes */
+  .doc-layout .news-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  /* Recuperar el nav de categorías en el header */
+  .doc-layout .header-nav {
+    display: flex;
+  }
+
+  /* Logo del header se mantiene */
+  .doc-layout .site-header .logo {
+    display: none;
+  }
+
+  /* Logo del sidebar oculto — no duplicar */
+  .doc-layout .sidebar-header .logo {
+    display: flex;
+  }
+
+  .doc-layout .header-inner {
+    justify-content: flex-start;
+  }
+
+  .doc-layout .hero-split {
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+    }
+    
+  .doc-layout .hero-title {
+        margin-bottom: 0;
+    }
+
+  .sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 240px;
+    height: 100vh;
+    overflow-y: auto;
+    background: var(--bg);
+    /* Línea derecha muy sutil */
+    border-right: none;
+    box-shadow: none;
+    transform: none;
+    z-index: 99;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .doc-layout .sidebar-nav {
+      flex: 1;
+  }
+
+  .sidebar-header {
+    padding: 5px 24px 20px; 
+    border-bottom: none;
+  }
+
+  /* Logo del sidebar: pequeño y sutil */
+  .sidebar-header .logo {
+    display: flex;
+  }
+
+  .sidebar-header .logo .logo-mark {
+    font-size: 1.6rem;
+  }
+
+  .sidebar-header .logo .logo-text {
+    font-size: 1.3rem;
+  }
+
+  .sidebar-close, .sidebar-title {
+    display: none;
+  }
+
+  .sidebar-overlay {
+    display: none !important;
+  }
+
+  #sidebar-toggle {
+    display: none;
+  }
+
+  /* Items del sidebar compactos */
+  .sidebar-item {
+    font-size: 0.875rem;
+    padding: 6px 16px;
+  }
+
+  .nav-section-label {
+    padding: 14px 16px 4px;
+    margin-top: 4px;
+  }
+  .sidebar-footer {
+    margin-top: auto; 
+    padding: 12px 0 24px 0;
+    border-top: 1px solid var(--border); 
+    background: transparent; 
+  }
+}
+
+/* ══════════════════════════════════════════════════════════════
+   RESPONSIVE — TABLET (≤ 1024 px)
+   ══════════════════════════════════════════════════════════════
+*/
+@media (max-width: 1024px) {
+  .sidebar-header .logo {
+    display: none;
+  }
+  .doc-layout {
+    display: block;
+  }
+}
+
 @media (max-width: 768px) {
 
   /* ── HEADER ─────────────────────────────────────────────── */

@@ -91,29 +91,37 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
 
   /**
    * Aplica el estado visual activo al ítem de la sidebar indicado
-   * y muestra u oculta su panel de subfiltros.
+   * y muestra u oculta su panel de subfiltros (solo en móvil).
    *
    * @param {Element} item  - El botón .sidebar-item clicado
    * @param {boolean} expand - Si se deben mostrar los subfiltros
    */
   function activateSidebarItem(item, expand = true) {
+    // Si estamos en layout desktop, los items son todos estáticos, no hacemos toggle
+    const isDesktop = window.innerWidth > 1024;
+    
     // Quitamos el estado activo de todos los ítems
     sidebarItems.forEach(i => {
-      i.classList.remove('active', 'expanded');
+      i.classList.remove('active');
+      if (!isDesktop) i.classList.remove('expanded');
     });
 
-    // Ocultamos todos los paneles de subfiltros
-    subfilterPanels.forEach(p => p.classList.remove('visible'));
+    // Ocultamos todos los paneles de subfiltros (solo aplica en móvil)
+    if (!isDesktop) {
+        subfilterPanels.forEach(p => p.classList.remove('visible'));
+    }
 
     // Marcamos el ítem actual como activo
     item.classList.add('active');
 
-    // Si tiene subfiltros, los mostramos y rotamos el chevron
-    const cat = item.dataset.sidebarCat;
-    const subPanel = sidebar.querySelector(`.sidebar-subfilters[data-subfiltros-de="${cat}"]`);
-    if (subPanel && expand) {
-      item.classList.add('expanded');
-      subPanel.classList.add('visible');
+    // Si tiene subfiltros, los mostramos y rotamos el chevron (solo en móvil)
+    if (!isDesktop) {
+      const cat = item.dataset.sidebarCat;
+      const subPanel = sidebar.querySelector(`.sidebar-subfilters[data-subfiltros-de="${cat}"]`);
+      if (subPanel && expand) {
+        item.classList.add('expanded');
+        subPanel.classList.add('visible');
+      }
     }
   }
 
@@ -828,7 +836,27 @@ function initIndexPage() {
   };
 
   // Punto de entrada: cargamos los datos y arrancamos la UI
-  loadNews();
+  loadNews().then(() => {
+    // Leer ?tag= de la URL y aplicar filtro/informe automáticamente
+    const urlParams = new URLSearchParams(location.search);
+    const urlTag = urlParams.get('tag');
+    if (urlTag) {
+      const reportName = REPORT_TAGS[urlTag];
+      if (reportName) {
+        showReport(reportName, urlTag);
+      } else {
+        activeTag = urlTag;
+        filterAndRender();
+      }
+      // Marcar item activo en sidebar
+      const sidebarEl = document.getElementById('sidebar');
+      if (sidebarEl) {
+        sidebarEl.querySelectorAll('.sidebar-item').forEach(a => a.classList.remove('active'));
+        const match = sidebarEl.querySelector(`.sidebar-item[href*="tag=${urlTag}"]`);
+        if (match) match.classList.add('active');
+      }
+    }
+  });
 }
 
 

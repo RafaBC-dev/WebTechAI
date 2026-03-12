@@ -119,7 +119,48 @@
   </style>
 </head>
 
-<body>
+<body class="doc-layout">
+
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
+
+  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
+    <div class="sidebar-header">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TechPulse<em>ES</em></span>
+      </a>
+      <span class="sidebar-title">Navegación</span>
+      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="nav-section-label">General</div>
+      <a href="index.html" class="sidebar-item">Todas las noticias</a>
+
+      <div class="nav-section-label">IA</div>
+      <a href="llms.html" class="sidebar-item">LLMs</a>
+      <a href="index.html?tag=agentes" class="sidebar-item">Agentes</a>
+      <a href="index.html?tag=ia-local" class="sidebar-item">IA Local</a>
+      <a href="index.html?tag=benchmarks" class="sidebar-item">Benchmarks</a>
+
+      <div class="nav-section-label">Microcontroladores</div>
+      <a href="index.html?tag=esp32" class="sidebar-item">ESP32</a>
+      <a href="index.html?tag=arduino" class="sidebar-item">Arduino</a>
+      <a href="index.html?tag=raspberry-pi" class="sidebar-item">Raspberry Pi</a>
+
+      <div class="nav-section-label">Software Dev</div>
+      <a href="python.html" class="sidebar-item active">Python</a>
+      <a href="index.html?tag=devtools" class="sidebar-item">DevTools</a>
+
+      <div class="sidebar-divider"></div>
+      <a class="sidebar-item" href="about.html">
+        <span class="sidebar-icon">ℹ️</span>
+        <span>Sobre el proyecto</span>
+      </a>
+    </nav>
+  </aside>
+
+  <div class="page-wrapper">
+
   <!-- HEADER -->
   <header class="site-header">
     <div class="container header-inner">
@@ -136,7 +177,7 @@
       </a>
       <nav class="header-nav" id="main-nav">
         <a href="index.html" class="nav-link">Todas</a>
-        <a href="python.html" class="nav-link active" data-cat="Python">Python</a>
+        <a href="python.html" class="nav-link active">Python</a>
       </nav>
       <div class="header-actions">
         <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema" title="Cambiar tema">
@@ -210,62 +251,7 @@
     </div>
   </footer>
 
-  <!-- SIDEBAR -->
-  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
-
-  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
-    <div class="sidebar-header">
-      <span class="sidebar-title">Navegación</span>
-      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
-    </div>
-
-    <nav class="sidebar-nav">
-      <button class="sidebar-item" data-sidebar-cat="Todas" onclick="window.location.href='index.html'">
-        <span class="sidebar-icon">📰</span>
-        <span>Noticias</span>
-      </button>
-
-      <!-- IA -->
-      <button class="sidebar-item" data-sidebar-cat="Ia">
-        <span class="sidebar-icon">🤖</span>
-        <span>IA</span>
-        <span class="sidebar-chevron">›</span>
-      </button>
-      <div class="sidebar-subfilters" data-subfiltros-de="Ia">
-        <button class="subfilter active" data-tag="" onclick="window.location.href='index.html'">Todas</button>
-      </div>
-
-      <!-- Microcontroladores -->
-      <button class="sidebar-item" data-sidebar-cat="Embebidos">
-        <span class="sidebar-icon">🔌</span>
-        <span>Microcontroladores</span>
-        <span class="sidebar-chevron">›</span>
-      </button>
-      <div class="sidebar-subfilters" data-subfiltros-de="Embebidos">
-        <button class="subfilter active" data-tag="" onclick="window.location.href='index.html'">Todas</button>
-      </div>
-
-      <!-- Software Dev -->
-      <button class="sidebar-item active expanded" data-sidebar-cat="Linux">
-        <span class="sidebar-icon">💻</span>
-        <span>Software Dev</span>
-        <span class="sidebar-chevron">›</span>
-      </button>
-      <div class="sidebar-subfilters visible" data-subfiltros-de="Linux">
-        <button class="subfilter" data-tag="" onclick="window.location.href='index.html'">Todas</button>
-        <button class="subfilter active" data-tag="python">Python</button>
-        <button class="subfilter" data-tag="librerias" onclick="window.location.href='index.html'">Librerías</button>
-        <button class="subfilter" data-tag="herramientas" onclick="window.location.href='index.html'">Herramientas</button>
-      </div>
-
-      <div class="sidebar-divider"></div>
-
-      <a class="sidebar-item" href="about.html">
-        <span class="sidebar-icon">ℹ️</span>
-        <span>Sobre el proyecto</span>
-      </a>
-    </nav>
-  </aside>
+  </div><!-- /page-wrapper -->
 
   <!-- SCRIPTS -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
@@ -273,5 +259,6 @@
   
   <script src="app.js"></script>
   <script src="python-app.js"></script>
+  </div>
 </body>
 </html>

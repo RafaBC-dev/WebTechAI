@@ -39,28 +39,52 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body class="doc-layout">
 
-  <!-- ═══ HEADER ═══════════════════════════════════════════════════
-     La barra de navegación fija. Se mantiene pegada arriba mientras
-     el usuario hace scroll gracias a position: sticky en el CSS.
+  <!-- ═══ SIDEBAR DE NAVEGACIÓN ═══════════════════════════════════ -->
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
 
-     Contiene tres zonas horizontales:
-       1. LOGO (izquierda): el icono ⬡ + "TechPulse" + "ES" en cian.
-          Hace de enlace a la portada y da identidad visual inmediata.
-       2. NAV (centro): los enlaces de categoría generados por app.js.
-          En móvil esta sección se oculta; las categorías viven en la
-          filter-strip debajo del hero.
-       3. ACCIONES (derecha): botón de búsqueda + botón de tema.
-          - search-toggle: muestra/oculta la barra de búsqueda.
-          - theme-toggle: alterna entre tema oscuro y claro.
-            Los dos SVG (sol y luna) se alternan via CSS puro según
-            el data-theme del <html>, sin una sola línea extra de JS.
+  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
+    <div class="sidebar-header">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TechPulse<em>ES</em></span>
+      </a>
+      <span class="sidebar-title">Navegación</span>
+      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
+    </div>
 
-     La barra de búsqueda (.search-bar) vive DENTRO del header pero
-     está colapsada por defecto (max-height: 0). Al pulsar la lupa,
-     app.js le añade la clase .open y el CSS la despliega suavemente.
-════════════════════════════════════════════════════════════════ -->
+    <nav class="sidebar-nav">
+      <div class="nav-section-label">General</div>
+      <a href="index.html" class="sidebar-item active">Todas las noticias</a>
+
+      <div class="nav-section-label">IA</div>
+      <a href="llms.html" class="sidebar-item">LLMs</a>
+      <a href="index.html?tag=agentes" class="sidebar-item">Agentes</a>
+      <a href="index.html?tag=ia-local" class="sidebar-item">IA Local</a>
+      <a href="index.html?tag=benchmarks" class="sidebar-item">Benchmarks</a>
+
+      <div class="nav-section-label">Microcontroladores</div>
+      <a href="index.html?tag=esp32" class="sidebar-item">ESP32</a>
+      <a href="index.html?tag=arduino" class="sidebar-item">Arduino</a>
+      <a href="index.html?tag=raspberry-pi" class="sidebar-item">Raspberry Pi</a>
+
+      <div class="nav-section-label">Software Dev</div>
+      <a href="python.html" class="sidebar-item">Python</a>
+      <a href="index.html?tag=devtools" class="sidebar-item">DevTools</a>
+    </nav>
+
+    <!-- Footer sidebar con about proyect -->
+    <div class="sidebar-footer">
+      <a class="sidebar-item" href="about.html">
+        <span class="sidebar-icon">ℹ️</span>
+        <span>Sobre el proyecto</span>
+      </a>
+    </div>
+
+  </aside>
+
+  <div class="page-wrapper">
   <header class="site-header">
     <div class="container header-inner">
       <button class="icon-btn" id="sidebar-toggle" aria-label="Menú" title="Menú de navegación">
@@ -124,10 +148,15 @@
      cargar el índice JSON. Así el HTML es válido desde el primer
      render aunque el JS tarde un momento en ejecutarse.
 ════════════════════════════════════════════════════════════════ -->
-  <section class="hero">
-    <div class="container">
-      <p class="hero-label">Tecnología, robótica e IA · Resumido y explicado en español</p>
-      <h1 class="hero-title">Entiende la tecnología<br><em>sin perderte nada</em></h1>
+ <section class="hero">
+
+    <div class="container hero-split">
+      
+      <div class="hero-text">
+        <p class="hero-label">Tecnología, robótica e IA · Resumido y explicado en español</p>
+        <h1 class="hero-title">Entiende la tecnología<br><em>sin perderte nada</em></h1>
+      </div>
+
       <div class="stats-row">
         <div class="stat"><span id="stat-total">—</span><small>Artículos</small></div>
         <div class="stat-sep"></div>
@@ -135,6 +164,7 @@
         <div class="stat-sep"></div>
         <div class="stat"><span id="stat-date">—</span><small>Último artículo</small></div>
       </div>
+
     </div>
   </section>
 
@@ -209,77 +239,6 @@
     </div>
   </footer>
 
-  <!-- ═══ SIDEBAR DE NAVEGACIÓN ═══════════════════════════════════
-     Panel lateral deslizante. Permanece oculto fuera de la pantalla
-     (translateX(-100%)) hasta que el botón ☰ del header lo activa.
-     El overlay oscuro cubre el contenido principal cuando el menú está
-     abierto, y al hacer clic en él se cierra el panel.
-  ════════════════════════════════════════════════════════════════ -->
-  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
-
-  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
-    <div class="sidebar-header">
-      <span class="sidebar-title">Navegación</span>
-      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
-    </div>
-
-    <nav class="sidebar-nav">
-      <!-- Noticias (todas) -->
-      <button class="sidebar-item active" data-sidebar-cat="Todas">
-        <span class="sidebar-icon">📰</span>
-        <span>Noticias</span>
-      </button>
-
-      <!-- IA -->
-      <button class="sidebar-item" data-sidebar-cat="Ia">
-        <span class="sidebar-icon">🤖</span>
-        <span>IA</span>
-        <span class="sidebar-chevron">›</span>
-      </button>
-      <div class="sidebar-subfilters" data-subfiltros-de="Ia">
-        <button class="subfilter active" data-tag="">Todas</button>
-        <button class="subfilter" data-tag="llms">LLMs</button>
-        <button class="subfilter" data-tag="agentes">Agentes</button>
-        <button class="subfilter" data-tag="ia-local">IA Local</button>
-        <button class="subfilter" data-tag="benchmarks">Benchmarks</button>
-      </div>
-
-      <!-- Microcontroladores -->
-      <button class="sidebar-item" data-sidebar-cat="Embebidos">
-        <span class="sidebar-icon">🔌</span>
-        <span>Microcontroladores</span>
-        <span class="sidebar-chevron">›</span>
-      </button>
-      <div class="sidebar-subfilters" data-subfiltros-de="Embebidos">
-        <button class="subfilter active" data-tag="">Todas</button>
-        <button class="subfilter" data-tag="esp32">ESP32</button>
-        <button class="subfilter" data-tag="arduino">Arduino</button>
-        <button class="subfilter" data-tag="raspberry-pi">Raspberry Pi</button>
-      </div>
-
-      <!-- Software Dev -->
-      <button class="sidebar-item" data-sidebar-cat="Linux">
-        <span class="sidebar-icon">💻</span>
-        <span>Software Dev</span>
-        <span class="sidebar-chevron">›</span>
-      </button>
-      <div class="sidebar-subfilters" data-subfiltros-de="Linux">
-        <button class="subfilter active" data-tag="">Todas</button>
-        <button class="subfilter" data-tag="python">Python</button>
-        <button class="subfilter" data-tag="librerias">Librerías</button>
-        <button class="subfilter" data-tag="herramientas">Herramientas</button>
-      </div>
-
-      <div class="sidebar-divider"></div>
-
-      <!-- Sobre el proyecto -->
-      <a class="sidebar-item" href="about.html">
-        <span class="sidebar-icon">ℹ️</span>
-        <span>Sobre el proyecto</span>
-      </a>
-    </nav>
-  </aside>
-
   <!-- app.js cargado al final del body (no en el head) para que el
      HTML ya esté parseado cuando el JS empiece a ejecutarse. Así se
      evitan los errores de "elemento no encontrado" y la página se
@@ -288,6 +247,7 @@
        Cargado de forma diferida (defer) para no bloquear el render. -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js" defer></script>
   <script src="app.js"></script>
+  </div>
 </body>
 
 </html>

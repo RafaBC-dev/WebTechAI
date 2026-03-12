@@ -144,8 +144,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const searchStr = [
           lib.nombre,
           lib.descripcion_corta,
+          lib.que_es,
+          lib.para_que,
+          lib.cuando_usarla,
+          lib.categoria,
           ...(lib.tags || [])
-        ].join(' ').toLowerCase();
+        ].filter(Boolean).join(' ').toLowerCase();
         if (!searchStr.includes(searchQuery)) return false;
       }
       
