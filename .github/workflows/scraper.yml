@@ -93,7 +93,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Instalar navegadores Playwright
-        run: .venv/bin/playwright install chromium || playwright install chromium
+        run: playwright install chromium --with-deps
 
       - name: Generar informes semanales
         env:
@@ -105,8 +105,7 @@ jobs:
         run: |
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git fetch origin main
-          git reset --hard origin/main
+          git pull origin main --rebase
           git add docs/reports/
           git diff --staged --quiet || git commit -m "📊 Informes semanales actualizados"
           git push origin main
