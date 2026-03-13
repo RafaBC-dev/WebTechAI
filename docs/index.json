@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Cubito de frutas inteligente que cambia de forma",
+      "category": "diseño-3d",
+      "date": "2026-03-13",
+      "slug": "cubito-de-frutas-inteligente-que-cambia-de-forma",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "Una innovadora cubeta de frutas que se adapta a la cantidad de frutas que contiene, resolviendo el problema de que las frutas siempre estén demasiado separadas o demasiado apretadas. Esta solución es especialmente útil para aquellos que…",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-03-13-cubito-de-frutas-inteligente-que-cambia-de-forma.md"
+    },
+    {
+      "title": "Robótica: Auto-recharge desplegado en robots descomisionados",
+      "category": "robotica",
+      "date": "2026-03-13",
+      "slug": "robotica-auto-recharge-desplegado-en-robots-descomision",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "Un usuario ha descubierto un comportamiento inesperado en robots descomisionados con ROS2 Jazzy. A pesar de estar descomisionados, estos robots siguen recibiendo tareas de recarga automática si su batería está por debajo de un umbral…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-13-robotica-auto-recharge-desplegado-en-robots-descomision.md"
+    },
+    {
+      "title": "Mano robótica con músculos artificiales y tendones revoluciona la robótica",
+      "category": "robotica",
+      "date": "2026-03-13",
+      "slug": "mano-robotica-con-musculos-artificiales-y-tendones-revo",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "robotica"
+      ],
+      "preview": "La robótica ha dado un paso importante con la creación de una mano robótica que imita la complejidad de la mano humana. Esta innovación podría revolucionar la forma en que los robots interactúan con el entorno y realizan tareas complejas.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-13-mano-robotica-con-musculos-artificiales-y-tendones-revo.md"
+    },
+    {
+      "title": "Perros robóticos transportan frutas y verduras desde el campo",
+      "category": "robotica",
+      "date": "2026-03-13",
+      "slug": "perros-roboticos-transportan-frutas-y-verduras-desde-el",
+      "tags": [
+        "robotica",
+        "logistica",
+        "tecnologia-avanzada"
+      ],
+      "preview": "Los robots perros Lynx M20 de la empresa Deep Robotics están ayudando a transportar productos frescos desde las granjas hasta los mercados. Este proyecto busca resolver el desafío de la logística en áreas rurales, donde la infraestructura…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-13-perros-roboticos-transportan-frutas-y-verduras-desde-el.md"
+    },
+    {
+      "title": "Convierte registros de robótica a formatos más fáciles de trabajar",
+      "category": "robotica",
+      "date": "2026-03-13",
+      "slug": "convierte-registros-de-robotica-a-formatos-mas-faciles-",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "Un proyecto de código abierto llamado Hephaes ha sido creado para simplificar la conversión de registros de robótica a formatos más fáciles de analizar y procesar. Esto puede ser especialmente útil para desarrolladores de robótica que…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-13-convierte-registros-de-robotica-a-formatos-mas-faciles-.md"
+    },
+    {
+      "title": "Reunión de la comunidad ROS OE: cambios en la agenda",
+      "category": "robotica",
+      "date": "2026-03-13",
+      "slug": "reunion-de-la-comunidad-ros-oe-cambios-en-la-agenda",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "librerias"
+      ],
+      "preview": "La comunidad ROS OE ha anunciado cambios en su agenda de reuniones debido a la modificación del horario de verano. Esta modificación afecta a la hora de reunión y busca incluir a los miembros de California.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-13-reunion-de-la-comunidad-ros-oe-cambios-en-la-agenda.md"
+    },
+    {
+      "title": "Drones militares enseñan a los coches autónomos a manejar situaciones impredecibles",
+      "category": "ia",
+      "date": "2026-03-13",
+      "slug": "drones-militares-ensenan-a-los-coches-autonomos-a-man-3",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "Los coches autónomos se estrellan o se congelan en situaciones comunes para los humanos. ¿Qué pueden aprender de los drones militares?",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-13-drones-militares-ensenan-a-los-coches-autonomos-a-man-3.md"
+    },
+    {
+      "title": "Anthropic se opone a su designación como amenaza de seguridad nacional",
+      "category": "ia",
+      "date": "2026-03-13",
+      "slug": "anthropic-se-opone-a-su-designacion-como-amenaza-de-seg",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La empresa de inteligencia artificial Anthropic ha presentado declaraciones juradas en un tribunal federal para evitar ser designada como amenaza de seguridad nacional. Esto podría tener consecuencias importantes para la industria de la IA…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-13-anthropic-se-opone-a-su-designacion-como-amenaza-de-seg.md"
+    },
+    {
+      "title": "Un filesystem vacío, ¿para qué sirve?",
+      "category": "linux",
+      "date": "2026-03-13",
+      "slug": "un-filesystem-vacio-para-que-sirve",
+      "tags": [
+        "herramientas",
+        "software y Linux",
+        "python"
+      ],
+      "preview": "La próxima versión 7.0 del kernel Linux incluye un filesystem vacío llamado nullfs, que puede parecer un concepto extraño a primera vista. Sin embargo, tiene aplicaciones prácticas que pueden hacer la vida más fácil a los desarrolladores.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-13-un-filesystem-vacio-para-que-sirve.md"
+    },
+    {
+      "title": "CyberGrid: transforma tu pantalla en un display físico de píxeles",
+      "category": "linux",
+      "date": "2026-03-13",
+      "slug": "cybergrid-transforma-tu-pantalla-en-un-display-fisico-d",
+      "tags": [
+        "ia-local",
+        "arduino",
+        "herramientas"
+      ],
+      "preview": "Adafruit presenta CyberGrid, un proyecto innovador que permite convertir la pantalla de tu smartphone en un display físico de píxeles en tiempo real. Esta tecnología revolucionaria utiliza la estructura de una malla para proyectar los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-13-cybergrid-transforma-tu-pantalla-en-un-display-fisico-d.md"
+    },
+    {
+      "title": "Solución a problemas de consumo de energía en tarjetas gráficas AMD",
+      "category": "linux",
+      "date": "2026-03-13",
+      "slug": "solucion-a-problemas-de-consumo-de-energia-en-tarjetas-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa AMD está trabajando en solucionar un problema de consumo de energía excesivo en sus tarjetas gráficas RDNA4 después de realizar tareas de cómputo intensivas. Este problema ha sido detectado en sistemas que utilizan Linux y ha…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-13-solucion-a-problemas-de-consumo-de-energia-en-tarjetas-.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-03-13",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos",
+      "tags": [
+        "python",
+        "herramientas",
+        "librerias"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos y aplicaciones, incluyendo AlmaLinux, Debian, Fedora, Slackware, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades críticas y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-13-actualizaciones-de-seguridad-para-sistemas-operativos.md"
+    },
+    {
+      "title": "Intel lanza actualización de su NPU Driver para Linux",
+      "category": "linux",
+      "date": "2026-03-13",
+      "slug": "intel-lanza-actualizacion-de-su-npu-driver-para-linux",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Intel ha lanzado la versión 1.30 de su NPU Driver para Linux, lo que mejora la compatibilidad con SoCs Core Ultra y ofrece soporte para openSUSE.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-13-intel-lanza-actualizacion-de-su-npu-driver-para-linux.md"
+    },
+    {
+      "title": "Actualización de teclado de Nintendo Family BASIC a USB",
+      "category": "embebidos",
+      "date": "2026-03-13",
+      "slug": "actualizacion-de-teclado-de-nintendo-family-basic-a-usb",
+      "tags": [
+        "ia-local",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un aficionado ha encontrado una forma de conectar un teclado de Nintendo Family BASIC a un ordenador moderno mediante una actualización USB. Esto permite utilizar este teclado en dispositivos actuales, como Raspberry Pi o ordenadores con…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-13-actualizacion-de-teclado-de-nintendo-family-basic-a-usb.md"
+    },
+    {
+      "title": "Descubre el Discovery Drive: un rotador de antena para satélites y SDR",
+      "category": "embebidos",
+      "date": "2026-03-13",
+      "slug": "descubre-el-discovery-drive-un-rotador-de-antena-para-s",
+      "tags": [
+        "esp32",
+        "arduino",
+        "python"
+      ],
+      "preview": "KrakenRF ha diseñado un dispositivo innovador para controlar antenas de satélites y SDR, llamado Discovery Drive. Este dispositivo es un rotador de antena automático que puede seguir satélites y SDR con precisión, y es fácil de configurar…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-13-descubre-el-discovery-drive-un-rotador-de-antena-para-s.md"
+    },
+    {
       "title": "Creality M1: El filamento maker que revoluciona la impresión 3D",
       "category": "diseño-3d",
       "date": "2026-03-12",

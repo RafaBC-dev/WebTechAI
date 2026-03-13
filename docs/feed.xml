@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Mar 2026 07:40:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 12:01:13 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Cubito de frutas inteligente que cambia de forma</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-13-cubito-de-frutas-inteligente-que-cambia-de-forma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-13-cubito-de-frutas-inteligente-que-cambia-de-forma.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Una innovadora cubeta de frutas que se adapta a la cantidad de frutas que contiene, resolviendo el problema de que las frutas siempre estén demasiado separadas o demasiado apretadas. Esta solución es especialmente útil para aquellos que…</description>
+  </item>
+  <item>
+    <title>Robótica: Auto-recharge desplegado en robots descomisionados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-robotica-auto-recharge-desplegado-en-robots-descomision.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-robotica-auto-recharge-desplegado-en-robots-descomision.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un usuario ha descubierto un comportamiento inesperado en robots descomisionados con ROS2 Jazzy. A pesar de estar descomisionados, estos robots siguen recibiendo tareas de recarga automática si su batería está por debajo de un umbral…</description>
+  </item>
+  <item>
+    <title>Mano robótica con músculos artificiales y tendones revoluciona la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-mano-robotica-con-musculos-artificiales-y-tendones-revo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-mano-robotica-con-musculos-artificiales-y-tendones-revo.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica ha dado un paso importante con la creación de una mano robótica que imita la complejidad de la mano humana. Esta innovación podría revolucionar la forma en que los robots interactúan con el entorno y realizan tareas complejas.</description>
+  </item>
+  <item>
+    <title>Perros robóticos transportan frutas y verduras desde el campo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-perros-roboticos-transportan-frutas-y-verduras-desde-el.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-perros-roboticos-transportan-frutas-y-verduras-desde-el.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los robots perros Lynx M20 de la empresa Deep Robotics están ayudando a transportar productos frescos desde las granjas hasta los mercados. Este proyecto busca resolver el desafío de la logística en áreas rurales, donde la infraestructura…</description>
+  </item>
+  <item>
+    <title>Convierte registros de robótica a formatos más fáciles de trabajar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-convierte-registros-de-robotica-a-formatos-mas-faciles-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-convierte-registros-de-robotica-a-formatos-mas-faciles-.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un proyecto de código abierto llamado Hephaes ha sido creado para simplificar la conversión de registros de robótica a formatos más fáciles de analizar y procesar. Esto puede ser especialmente útil para desarrolladores de robótica que…</description>
+  </item>
+  <item>
+    <title>Reunión de la comunidad ROS OE: cambios en la agenda</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-reunion-de-la-comunidad-ros-oe-cambios-en-la-agenda.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-reunion-de-la-comunidad-ros-oe-cambios-en-la-agenda.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad ROS OE ha anunciado cambios en su agenda de reuniones debido a la modificación del horario de verano. Esta modificación afecta a la hora de reunión y busca incluir a los miembros de California.</description>
+  </item>
+  <item>
+    <title>Drones militares enseñan a los coches autónomos a manejar situaciones impredecibles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-13-drones-militares-ensenan-a-los-coches-autonomos-a-man-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-13-drones-militares-ensenan-a-los-coches-autonomos-a-man-3.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los coches autónomos se estrellan o se congelan en situaciones comunes para los humanos. ¿Qué pueden aprender de los drones militares?</description>
+  </item>
+  <item>
+    <title>Anthropic se opone a su designación como amenaza de seguridad nacional</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-13-anthropic-se-opone-a-su-designacion-como-amenaza-de-seg.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-13-anthropic-se-opone-a-su-designacion-como-amenaza-de-seg.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa de inteligencia artificial Anthropic ha presentado declaraciones juradas en un tribunal federal para evitar ser designada como amenaza de seguridad nacional. Esto podría tener consecuencias importantes para la industria de la IA…</description>
+  </item>
+  <item>
+    <title>Un filesystem vacío, ¿para qué sirve?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-un-filesystem-vacio-para-que-sirve.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-un-filesystem-vacio-para-que-sirve.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La próxima versión 7.0 del kernel Linux incluye un filesystem vacío llamado nullfs, que puede parecer un concepto extraño a primera vista. Sin embargo, tiene aplicaciones prácticas que pueden hacer la vida más fácil a los desarrolladores.</description>
+  </item>
+  <item>
+    <title>CyberGrid: transforma tu pantalla en un display físico de píxeles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-cybergrid-transforma-tu-pantalla-en-un-display-fisico-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-cybergrid-transforma-tu-pantalla-en-un-display-fisico-d.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Adafruit presenta CyberGrid, un proyecto innovador que permite convertir la pantalla de tu smartphone en un display físico de píxeles en tiempo real. Esta tecnología revolucionaria utiliza la estructura de una malla para proyectar los…</description>
+  </item>
+  <item>
+    <title>Solución a problemas de consumo de energía en tarjetas gráficas AMD</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-solucion-a-problemas-de-consumo-de-energia-en-tarjetas-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-solucion-a-problemas-de-consumo-de-energia-en-tarjetas-.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa AMD está trabajando en solucionar un problema de consumo de energía excesivo en sus tarjetas gráficas RDNA4 después de realizar tareas de cómputo intensivas. Este problema ha sido detectado en sistemas que utilizan Linux y ha…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-actualizaciones-de-seguridad-para-sistemas-operativos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-actualizaciones-de-seguridad-para-sistemas-operativos.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos y aplicaciones, incluyendo AlmaLinux, Debian, Fedora, Slackware, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades críticas y…</description>
+  </item>
+  <item>
+    <title>Intel lanza actualización de su NPU Driver para Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-intel-lanza-actualizacion-de-su-npu-driver-para-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-13-intel-lanza-actualizacion-de-su-npu-driver-para-linux.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Intel ha lanzado la versión 1.30 de su NPU Driver para Linux, lo que mejora la compatibilidad con SoCs Core Ultra y ofrece soporte para openSUSE.</description>
+  </item>
+  <item>
+    <title>Actualización de teclado de Nintendo Family BASIC a USB</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-13-actualizacion-de-teclado-de-nintendo-family-basic-a-usb.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-13-actualizacion-de-teclado-de-nintendo-family-basic-a-usb.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un aficionado ha encontrado una forma de conectar un teclado de Nintendo Family BASIC a un ordenador moderno mediante una actualización USB. Esto permite utilizar este teclado en dispositivos actuales, como Raspberry Pi o ordenadores con…</description>
+  </item>
+  <item>
+    <title>Descubre el Discovery Drive: un rotador de antena para satélites y SDR</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-13-descubre-el-discovery-drive-un-rotador-de-antena-para-s.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-13-descubre-el-discovery-drive-un-rotador-de-antena-para-s.md</guid>
+    <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>KrakenRF ha diseñado un dispositivo innovador para controlar antenas de satélites y SDR, llamado Discovery Drive. Este dispositivo es un rotador de antena automático que puede seguir satélites y SDR con precisión, y es fácil de configurar…</description>
+  </item>
   <item>
     <title>Creality M1: El filamento maker que revoluciona la impresión 3D</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-12-creality-m1-el-filamento-maker-que-revoluciona-la-impre.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>La empresa Blues Notecard ha lanzado un módulo de IoT que combina conectividad satelital y celular para aplicaciones de seguimiento en transporte, logística, energía y equipo comercial. Este módulo revoluciona la forma en que se conectan…</description>
-  </item>
-  <item>
-    <title>Explorando el océano con robots marinos impulsados por Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-explorando-el-oceano-con-robots-marinos-impulsados-por-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-explorando-el-oceano-con-robots-marinos-impulsados-por-.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La exploración del océano es crucial para la investigación marina, pero las condiciones extremas y el alto costo hacen que sea peligroso y difícil para los humanos. Los vehículos autónomos pueden manejar el trabajo, pero hardware asequible…</description>
-  </item>
-  <item>
-    <title>Robot perros transportan productos frescos desde el campo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-robot-perros-transportan-productos-frescos-desde-el-cam.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-robot-perros-transportan-productos-frescos-desde-el-cam.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los robots perros Lynx M20 de Deep Robotics están ayudando a transportar cosechas frescas desde los campos montañosos. Esto es especialmente relevante en áreas rurales donde la logística de la última milla es un desafío. Los robots perros…</description>
-  </item>
-  <item>
-    <title>Mano robótica con músculos artificiales y tendones, inspirada en la naturaleza</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-mano-robotica-con-musculos-artificiales-y-tendones-insp.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-mano-robotica-con-musculos-artificiales-y-tendones-insp.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores han creado una mano robótica que imita la complejidad de la mano humana, con músculos artificiales y tendones. Esta innovación podría revolucionar la robótica y la medicina.</description>
-  </item>
-  <item>
-    <title>ros2_info: Herramienta de información para ROS2 en un solo comando</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-ros2-info-herramienta-de-informacion-para-ros2-en-un-so.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-11-ros2-info-herramienta-de-informacion-para-ros2-en-un-so.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los desarrolladores de Open Robotics han creado una herramienta llamada ros2_info que permite obtener información detallada sobre el entorno de ROS2 con solo un comando. Esto incluye detalles sobre el distrito de ROS2, nodos, tópicos,…</description>
-  </item>
-  <item>
-    <title>Drones militares enseñan a los coches autónomos a manejar situaciones imprevistas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-drones-militares-ensenan-a-los-coches-autonomos-a-manej.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-drones-militares-ensenan-a-los-coches-autonomos-a-manej.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos a veces se estancan ante situaciones comunes para los conductores humanos. Desde zonas de construcción hasta peatones indisciplinados, estos vehículos pueden comportarse de manera impredecible, lo que lleva a…</description>
-  </item>
-  <item>
-    <title>Debian debate sobre contribuciones generadas por inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-debian-debate-sobre-contribuciones-generadas-por-inteli.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-debian-debate-sobre-contribuciones-generadas-por-inteli.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Debian, un proyecto de software libre, ha estado debatiendo sobre si aceptar contribuciones generadas por inteligencia artificial. El debate comenzó en febrero, después de que un desarrollador propuso una resolución general para discutir…</description>
-  </item>
-  <item>
-    <title>AMD expande su serie de SoCs de Edge AI con hasta 12 núcleos Zen 5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-amd-expande-su-serie-de-socs-de-edge-ai-con-hasta-12-nu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-amd-expande-su-serie-de-socs-de-edge-ai-con-hasta-12-nu.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>AMD ha presentado seis nuevos SKUs para su serie de SoCs de Edge AI Ryzen AI Embedded P100, con hasta 12 núcleos Zen 5 y 80 TOPS de rendimiento AI. Estos SoCs están diseñados para aplicaciones de Edge AI en entornos comerciales e…</description>
-  </item>
-  <item>
-    <title>Texas Instruments presenta nuevos MCUs con NPU para aplicaciones de IA al borde</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-texas-instruments-presenta-nuevos-mcus-con-npu-para-apl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-11-texas-instruments-presenta-nuevos-mcus-con-npu-para-apl.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Texas Instruments ha lanzado dos nuevas familias de microcontroladores (MCUs) que integran un procesador neuromórfico unitario (NPU) llamado TinyEngine. Este avance permite la ejecución de modelos de inteligencia artificial (IA) con una…</description>
-  </item>
-  <item>
-    <title>MSI lanza una placa base para Linux y open-source a un precio asequible</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-11-msi-lanza-una-placa-base-para-linux-y-open-source-a-un-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-11-msi-lanza-una-placa-base-para-linux-y-open-source-a-un-.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La empresa MSI ha lanzado una placa base AMD Ryzen AM5 para Linux y open-source, diseñada para entusiastas de la comunidad de código abierto. Esta placa base es competitiva en precio y ofrece una experiencia de firmware completamente…</description>
-  </item>
-  <item>
-    <title>Control de brazos robóticos de 7 DoF con MoveIt 2: una guía práctica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-11-control-de-brazos-roboticos-de-7-dof-con-moveit-2-una-g.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-11-control-de-brazos-roboticos-de-7-dof-con-moveit-2-una-g.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El desarrollo de brazos robóticos de alta precisión es un campo en constante evolución. La tecnología MoveIt 2 ofrece una plataforma robusta para la planificación y control de movimiento de estos dispositivos. En este artículo,…</description>
-  </item>
-  <item>
-    <title>Desafío de velocidad con RISC-V: compilar Fedora es 5 veces más lento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-11-desafio-de-velocidad-con-risc-v-compilar-fedora-es-5-ve.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-11-desafio-de-velocidad-con-risc-v-compilar-fedora-es-5-ve.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Fedora ha encontrado un problema importante con los procesadores RISC-V: son muy lentos. Esto significa que compilar paquetes de software puede llevar mucho tiempo, lo que puede ser un problema para los desarrolladores y…</description>
-  </item>
-  <item>
-    <title>Sensor de temperatura ultra preciso con I2C y alta resolución</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-sensor-de-temperatura-ultra-preciso-con-i2c-y-alta-reso.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-sensor-de-temperatura-ultra-preciso-con-i2c-y-alta-reso.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado un nuevo sensor de temperatura ultra preciso que ofrece una resolución de 16 bits y una precisión de ±0.03°C en un rango de -55 a 155°C. Este sensor es ideal para aplicaciones que requieren una medición precisa de la…</description>
-  </item>
-  <item>
-    <title>Crea un controlador de lucha personalizado con tecnología de última generación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-crea-un-controlador-de-lucha-personalizado-con-tecnolog.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-crea-un-controlador-de-lucha-personalizado-con-tecnolog.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado una guía para construir un controlador de lucha personalizado con tecnología de última generación. Este proyecto utiliza un microcontrolador RP2040 y firmware GP2040-CE para ofrecer una experiencia de juego inmersiva.…</description>
-  </item>
-  <item>
-    <title>PicoCPC: Un módulo de expansión para ordenadores Amstrad CPC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-picocpc-un-modulo-de-expansion-para-ordenadores-amstrad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-picocpc-un-modulo-de-expansion-para-ordenadores-amstrad.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Después de décadas de olvido, la comunidad de entusiastas de los ordenadores Amstrad CPC está reviviendo la popularidad de estas máquinas con proyectos innovadores que las llevan a nuevos niveles de capacidad.</description>
-  </item>
-  <item>
-    <title>Maker Monday: Compartiendo proyectos con Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-maker-monday-compartiendo-proyectos-con-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-11-maker-monday-compartiendo-proyectos-con-raspberry-pi.md</guid>
-    <pubDate>Wed, 11 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de makers del mundo se reúne cada lunes para compartir sus proyectos con Raspberry Pi. ¿Qué es lo que les motiva a crear algo nuevo cada fin de semana?</description>
   </item>
 </channel>
 </rss>
