@@ -47,7 +47,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Actualización automática"
-          file_pattern: 'docs/content/**/*.md docs/index.json docs/sitemap.xml docs/feed.xml run_log.txt'
+          file_pattern: docs/content/**/*.md docs/index.json docs/sitemap.xml docs/feed.xml
 
       - name: Notificar si hay errores
         if: failure()
