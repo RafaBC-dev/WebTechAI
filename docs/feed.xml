@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 13 Mar 2026 12:01:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 07:30:43 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Un generador sin aspas, inspirado en Tesla, construido con Lego</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-14-un-generador-sin-aspas-inspirado-en-tesla-construido-co.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-14-un-generador-sin-aspas-inspirado-en-tesla-construido-co.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un ingeniero ha construido un generador sin aspas utilizando Lego, basado en la tecnología de la turbina de Tesla. Esta innovadora creación demuestra la eficiencia de la turbina de Tesla y su potencial para generar energía.</description>
+  </item>
+  <item>
+    <title>Descomisión de robots con auto-recarga: una sorpresa en ROS2 Jazzy</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-descomision-de-robots-con-auto-recarga-una-sorpresa-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-descomision-de-robots-con-auto-recarga-una-sorpresa-en-.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un usuario ha descubierto que cuando se descomisiona un robot con la configuración de auto-recarga activada, el sistema aún envía una tarea de recarga automática si la batería está por debajo de un umbral determinado. Esto podría ser un…</description>
+  </item>
+  <item>
+    <title>La mano robótica con músculos artificiales y tendones: un paso hacia la imitación de la naturaleza</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-la-mano-robotica-con-musculos-artificiales-y-tendones-u.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-la-mano-robotica-con-musculos-artificiales-y-tendones-u.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones que la permiten moverse de manera similar a un ser humano. Esta innovación podría tener aplicaciones en la robótica y la medicina.</description>
+  </item>
+  <item>
+    <title>ROSCon Global 2026: Convocatoria de propuestas ya está abierta</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-roscon-global-2026-convocatoria-de-propuestas-ya-esta-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-roscon-global-2026-convocatoria-de-propuestas-ya-esta-a.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROSCon está preparando su evento anual en Toronto, y ya está abierta la convocatoria de propuestas para presentaciones, talleres y becas de diversidad. Este evento es una oportunidad única para conectarse con otros…</description>
+  </item>
+  <item>
+    <title>Robótica modular y autónoma: nace el robot ideal para entornos inexplorados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-robotica-modular-y-autonoma-nace-el-robot-ideal-para-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-robotica-modular-y-autonoma-nace-el-robot-ideal-para-en.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los investigadores de la Northwestern University han desarrollado un sistema de módulos robóticos modulares que permite la creación de robots autónomos y ágiles para entornos inexplorados. Este avance revoluciona la forma en que se diseñan…</description>
+  </item>
+  <item>
+    <title>¿Qué pueden enseñarnos los drones militares sobre los coches autónomos?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-que-pueden-ensenarnos-los-drones-militares-sobre-los-co.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-que-pueden-ensenarnos-los-drones-militares-sobre-los-co.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los coches autónomos suelen tener problemas con situaciones comunes para los conductores humanos, como zonas de construcción, autobuses escolares o personas que no siguen las reglas. Esto puede llevar a accidentes o a que los vehículos se…</description>
+  </item>
+  <item>
+    <title>Nyne: la plataforma que da contexto a los agentes de IA para entender a las personas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-nyne-la-plataforma-que-da-contexto-a-los-agentes-de-ia-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-nyne-la-plataforma-que-da-contexto-a-los-agentes-de-ia-.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un padre e hijo han fundado Nyne, una startup que busca resolver un problema crítico en la inteligencia artificial: entender a las personas a través de su huella digital. Los agentes de IA están a punto de tomar decisiones autónomas en…</description>
+  </item>
+  <item>
+    <title>Alerta sobre riesgos de masacres por chatbots de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-alerta-sobre-riesgos-de-masacres-por-chatbots-de-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-alerta-sobre-riesgos-de-masacres-por-chatbots-de-ia.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un abogado alerta sobre la creciente preocupación de que chatbots de IA puedan influir en la violencia y los delitos. Casos recientes en Canadá, Finlandia y Estados Unidos muestran cómo estos chatbots pueden validar y reforzar creencias…</description>
+  </item>
+  <item>
+    <title>Mejoras en el manejo de energía de Intel Core Ultra Series 3 en Linux 7.1</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-mejoras-en-el-manejo-de-energia-de-intel-core-ultra-ser.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-mejoras-en-el-manejo-de-energia-de-intel-core-ultra-ser.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.1 del kernel de Linux está a punto de llegar con una mejora significativa en el manejo de energía de los procesadores Intel Core Ultra Series 3. Esta actualización permitirá a los dispositivos alcanzar estados de bajo consumo…</description>
+  </item>
+  <item>
+    <title>NVIDIA lanza nuevo driver Vulkan para Linux con soporte a VK_KHR_device_address_commands</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-nvidia-lanza-nuevo-driver-vulkan-para-linux-con-soporte.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-nvidia-lanza-nuevo-driver-vulkan-para-linux-con-soporte.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>NVIDIA ha lanzado un nuevo driver Vulkan beta para Linux y Windows que agrega soporte a la extensión VK_KHR_device_address_commands. Esta extensión permite a los desarrolladores pasar direcciones de dispositivo en lugar de manejadores de…</description>
+  </item>
+  <item>
+    <title>Portando MS-DOS 2.0 a la Apple IIe: un proyecto de emulación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-portando-ms-dos-20-a-la-apple-iie-un-proyecto-de-emulac.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-portando-ms-dos-20-a-la-apple-iie-un-proyecto-de-emulac.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un entusiasta de la tecnología ha decidido portar MS-DOS 2.0 a la Apple IIe, una computadora clásica que utiliza un procesador 6502. Aunque la Apple IIe no es compatible con software x86 de forma nativa, se puede hacer mediante expansiones…</description>
+  </item>
+  <item>
+    <title>Debaudit: herramienta para verificar la integridad de paquetes Debian</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-debaudit-herramienta-para-verificar-la-integridad-de-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-debaudit-herramienta-para-verificar-la-integridad-de-pa.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La seguridad del software es cada vez más importante, y Debian ha anunciado una herramienta para ayudar a proteger la cadena de suministro de software. Debaudit es un conjunto de herramientas diseñadas para verificar la integridad y…</description>
+  </item>
+  <item>
+    <title>Amplificador de audio de alta calidad con ESP32 y Home Assistant</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-amplificador-de-audio-de-alta-calidad-con-esp32-y-home-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-amplificador-de-audio-de-alta-calidad-con-esp32-y-home-.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El desarrollador de Esparagus ha lanzado un nuevo proyecto: un amplificador de audio de alta calidad basado en ESP32 que soporta Home Assistant y Squeezelite. Este módulo compacto puede ser utilizado para crear sistemas de audio en todo el…</description>
+  </item>
+  <item>
+    <title>Máscaras de máscara con n00ds: un proyecto de iluminación innovador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-mascaras-de-mascara-con-n00ds-un-proyecto-de-iluminacio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-mascaras-de-mascara-con-n00ds-un-proyecto-de-iluminacio.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha lanzado un nuevo proyecto que combina la tecnología de iluminación con la creatividad. Las máscaras de máscara con n00ds son un proyecto divertido y fácil de hacer que puede agregar un toque de innovación a cualquier evento o…</description>
+  </item>
+  <item>
+    <title>Descubre el Discovery Drive: un rotador automático para antenas satelitales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-descubre-el-discovery-drive-un-rotador-automatico-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-descubre-el-discovery-drive-un-rotador-automatico-para-.md</guid>
+    <pubDate>Sat, 14 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>KrakenRF ha lanzado el Discovery Drive, un rotador automático para antenas satelitales y SDR que simplifica la tarea de seguir satélites y antenas en movimiento.</description>
+  </item>
   <item>
     <title>Cubito de frutas inteligente que cambia de forma</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-13-cubito-de-frutas-inteligente-que-cambia-de-forma.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 13 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>KrakenRF ha diseñado un dispositivo innovador para controlar antenas de satélites y SDR, llamado Discovery Drive. Este dispositivo es un rotador de antena automático que puede seguir satélites y SDR con precisión, y es fácil de configurar…</description>
-  </item>
-  <item>
-    <title>Creality M1: El filamento maker que revoluciona la impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-12-creality-m1-el-filamento-maker-que-revoluciona-la-impre.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-12-creality-m1-el-filamento-maker-que-revoluciona-la-impre.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>La impresión 3D ha revolucionado la creación de prototipos, pero también genera un gran volumen de residuos. El proyecto Creality M1 busca cambiar esto con un filamento maker que permite reciclar y reutilizar materiales.</description>
-  </item>
-  <item>
-    <title>Robot perros transportan productos frescos desde el campo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-12-robot-perros-transportan-productos-frescos-desde-el-c-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-12-robot-perros-transportan-productos-frescos-desde-el-c-2.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los robots perros Lynx M20 están ayudando a transportar productos frescos desde el campo en terrenos montañosos, abordando el desafío logístico de la 'última milla' en áreas rurales.</description>
-  </item>
-  <item>
-    <title>Nueva familia de módulos de computadora en un módulo (COM Express) con SoC de AMD Ryzen AI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-12-nueva-familia-de-modulos-de-computadora-en-un-modulo-co.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-12-nueva-familia-de-modulos-de-computadora-en-un-modulo-co.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa SolidRun ha anunciado una nueva familia de módulos de computadora en un módulo (COM Express) que integran SoC de AMD Ryzen AI, lo que los hace ideales para aplicaciones de inteligencia artificial y automatización.</description>
-  </item>
-  <item>
-    <title>Robot de mano con músculos artificiales y tendones: un paso hacia la imitación de la naturaleza</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-12-robot-de-mano-con-musculos-artificiales-y-tendones-un-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-12-robot-de-mano-con-musculos-artificiales-y-tendones-un-p.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores han creado un robot de mano que imita la complejidad de la naturaleza, con músculos artificiales y tendones que permiten una mayor flexibilidad y precisión. Este avance podría tener aplicaciones en la robótica, la…</description>
-  </item>
-  <item>
-    <title>AIC Toolkit: ¿Cuáles son las opciones de robots disponibles?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-12-aic-toolkit-cuales-son-las-opciones-de-robots-disponibl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-12-aic-toolkit-cuales-son-las-opciones-de-robots-disponibl.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El AIC Toolkit es una herramienta de simulación que incluye modelos de robots y sensores, pero no todos los modelos deseados están disponibles. ¿Qué modelos de robots están incluidos y cómo se pueden agregar más?</description>
-  </item>
-  <item>
-    <title>Drones militares enseñan a los coches autónomos a manejar situaciones impredecibles</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-12-drones-militares-ensenan-a-los-coches-autonomos-a-man-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-12-drones-militares-ensenan-a-los-coches-autonomos-a-man-2.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos se estrellan o se congelan en situaciones comunes para los conductores humanos, como zonas de construcción o camiones escolares. Los desarrolladores de estos vehículos recurren a supervisores humanos remotos para…</description>
-  </item>
-  <item>
-    <title>Impresión de un casco de buceo subacuático con suministro de aire flotante</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-12-impresion-de-un-casco-de-buceo-subacuatico-con-suminist.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-12-impresion-de-un-casco-de-buceo-subacuatico-con-suminist.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un experimento innovador combina la impresión 3D con la tecnología de buceo para crear un casco de buceo seguro y funcional. El proyecto, liderado por Hyperspace Pirate, busca demostrar la viabilidad de un sistema de buceo subacuático…</description>
-  </item>
-  <item>
-    <title>Nueva ley en California obliga a Linux a implementar verificación de edad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-nueva-ley-en-california-obliga-a-linux-a-implementar-ve.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-nueva-ley-en-california-obliga-a-linux-a-implementar-ve.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La ley Digital Age Assurance Act de California obliga a proveedores de sistemas operativos a implementar verificación de edad. Esto afecta no solo a sistemas propietarios, sino también a proyectos de Linux como Debian y Fedora.</description>
-  </item>
-  <item>
-    <title>Desarrollo de un entorno de pruebas rápido para robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-desarrollo-de-un-entorno-de-pruebas-rapido-para-robotic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-desarrollo-de-un-entorno-de-pruebas-rapido-para-robotic.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un experto en robótica ha estado trabajando en la creación de un entorno de pruebas rápido para robots, pero ha encontrado varios desafíos en el camino. El objetivo es mejorar la velocidad y la fiabilidad de las pruebas, pero para…</description>
-  </item>
-  <item>
-    <title>Noticias de Linux y robótica: avances y actualizaciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-noticias-de-linux-y-robotica-avances-y-actualizaciones.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-noticias-de-linux-y-robotica-avances-y-actualizaciones.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux y robótica ha estado muy activa últimamente, con varias actualizaciones y avances en diferentes áreas. En este artículo, exploraremos algunas de las noticias más relevantes y cómo afectan a los desarrolladores y…</description>
-  </item>
-  <item>
-    <title>Moonforge: un marco para crear sistemas operativos Linux personalizados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-moonforge-un-marco-para-crear-sistemas-operativos-linux.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-moonforge-un-marco-para-crear-sistemas-operativos-linux.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Igalia ha lanzado Moonforge, un marco para crear sistemas operativos Linux personalizados que simplifica la creación y mantenimiento de sistemas operativos para dispositivos Linux.</description>
-  </item>
-  <item>
-    <title>AMD Ryzen AI NPUs se vuelven útiles en Linux para ejecutar LLMs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-amd-ryzen-ai-npus-se-vuelven-utiles-en-linux-para-ejecu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-12-amd-ryzen-ai-npus-se-vuelven-utiles-en-linux-para-ejecu.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Después de dos años de desarrollo, AMD ha logrado hacer que sus procesadores Ryzen AI NPUs sean útiles en Linux para ejecutar modelos de lenguaje grande (LLMs). Esto es un gran avance para la comunidad de desarrolladores de Linux y abre…</description>
-  </item>
-  <item>
-    <title>Impresión 3D de un contenedor para plantas inspirado en Super Mario</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-12-impresion-3d-de-un-contenedor-para-plantas-inspirado-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-12-impresion-3d-de-un-contenedor-para-plantas-inspirado-en.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto Warp Pipes Pot es un ejemplo de cómo la impresión 3D puede ser utilizada para crear objetos únicos y funcionales. El diseño es inspirado en la serie de videojuegos Super Mario y consiste en un contenedor para plantas con forma…</description>
-  </item>
-  <item>
-    <title>Sistema de montaje modular para paneles IKEA SKADIS en 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-12-sistema-de-montaje-modular-para-paneles-ikea-skadis-en-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-12-sistema-de-montaje-modular-para-paneles-ikea-skadis-en-.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado un sistema de montaje modular para paneles IKEA SKADIS, permitiendo a los usuarios personalizar y conectar sus proyectos de manera flexible.</description>
-  </item>
-  <item>
-    <title>Módulo de IoT con conectividad satelital y celular para aplicaciones de seguimiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-12-modulo-de-iot-con-conectividad-satelital-y-celular-para.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-12-modulo-de-iot-con-conectividad-satelital-y-celular-para.md</guid>
-    <pubDate>Thu, 12 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Blues Notecard ha lanzado un módulo de IoT que combina conectividad satelital y celular para aplicaciones de seguimiento en transporte, logística, energía y equipo comercial. Este módulo revoluciona la forma en que se conectan…</description>
   </item>
 </channel>
 </rss>

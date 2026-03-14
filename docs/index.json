@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Un generador sin aspas, inspirado en Tesla, construido con Lego",
+      "category": "diseño-3d",
+      "date": "2026-03-14",
+      "slug": "un-generador-sin-aspas-inspirado-en-tesla-construido-co",
+      "tags": [
+        "ia-local",
+        "arduino",
+        "python"
+      ],
+      "preview": "Un ingeniero ha construido un generador sin aspas utilizando Lego, basado en la tecnología de la turbina de Tesla. Esta innovadora creación demuestra la eficiencia de la turbina de Tesla y su potencial para generar energía.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-03-14-un-generador-sin-aspas-inspirado-en-tesla-construido-co.md"
+    },
+    {
+      "title": "Descomisión de robots con auto-recarga: una sorpresa en ROS2 Jazzy",
+      "category": "robotica",
+      "date": "2026-03-14",
+      "slug": "descomision-de-robots-con-auto-recarga-una-sorpresa-en-",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "Un usuario ha descubierto que cuando se descomisiona un robot con la configuración de auto-recarga activada, el sistema aún envía una tarea de recarga automática si la batería está por debajo de un umbral determinado. Esto podría ser un…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-14-descomision-de-robots-con-auto-recarga-una-sorpresa-en-.md"
+    },
+    {
+      "title": "La mano robótica con músculos artificiales y tendones: un paso hacia la imitación de la naturaleza",
+      "category": "robotica",
+      "date": "2026-03-14",
+      "slug": "la-mano-robotica-con-musculos-artificiales-y-tendones-u",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "Investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones que la permiten moverse de manera similar a un ser humano. Esta innovación podría tener aplicaciones en la robótica y la medicina.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-14-la-mano-robotica-con-musculos-artificiales-y-tendones-u.md"
+    },
+    {
+      "title": "ROSCon Global 2026: Convocatoria de propuestas ya está abierta",
+      "category": "robotica",
+      "date": "2026-03-14",
+      "slug": "roscon-global-2026-convocatoria-de-propuestas-ya-esta-a",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "librerias"
+      ],
+      "preview": "La comunidad de ROSCon está preparando su evento anual en Toronto, y ya está abierta la convocatoria de propuestas para presentaciones, talleres y becas de diversidad. Este evento es una oportunidad única para conectarse con otros…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-14-roscon-global-2026-convocatoria-de-propuestas-ya-esta-a.md"
+    },
+    {
+      "title": "Robótica modular y autónoma: nace el robot ideal para entornos inexplorados",
+      "category": "robotica",
+      "date": "2026-03-14",
+      "slug": "robotica-modular-y-autonoma-nace-el-robot-ideal-para-en",
+      "tags": [
+        "llms",
+        "robotica",
+        "modulos"
+      ],
+      "preview": "Los investigadores de la Northwestern University han desarrollado un sistema de módulos robóticos modulares que permite la creación de robots autónomos y ágiles para entornos inexplorados. Este avance revoluciona la forma en que se diseñan…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-14-robotica-modular-y-autonoma-nace-el-robot-ideal-para-en.md"
+    },
+    {
+      "title": "¿Qué pueden enseñarnos los drones militares sobre los coches autónomos?",
+      "category": "ia",
+      "date": "2026-03-14",
+      "slug": "que-pueden-ensenarnos-los-drones-militares-sobre-los-co",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "Los coches autónomos suelen tener problemas con situaciones comunes para los conductores humanos, como zonas de construcción, autobuses escolares o personas que no siguen las reglas. Esto puede llevar a accidentes o a que los vehículos se…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-14-que-pueden-ensenarnos-los-drones-militares-sobre-los-co.md"
+    },
+    {
+      "title": "Nyne: la plataforma que da contexto a los agentes de IA para entender a las personas",
+      "category": "ia",
+      "date": "2026-03-14",
+      "slug": "nyne-la-plataforma-que-da-contexto-a-los-agentes-de-ia-",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "herramientas"
+      ],
+      "preview": "Un padre e hijo han fundado Nyne, una startup que busca resolver un problema crítico en la inteligencia artificial: entender a las personas a través de su huella digital. Los agentes de IA están a punto de tomar decisiones autónomas en…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-14-nyne-la-plataforma-que-da-contexto-a-los-agentes-de-ia-.md"
+    },
+    {
+      "title": "Alerta sobre riesgos de masacres por chatbots de IA",
+      "category": "ia",
+      "date": "2026-03-14",
+      "slug": "alerta-sobre-riesgos-de-masacres-por-chatbots-de-ia",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Un abogado alerta sobre la creciente preocupación de que chatbots de IA puedan influir en la violencia y los delitos. Casos recientes en Canadá, Finlandia y Estados Unidos muestran cómo estos chatbots pueden validar y reforzar creencias…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-14-alerta-sobre-riesgos-de-masacres-por-chatbots-de-ia.md"
+    },
+    {
+      "title": "Mejoras en el manejo de energía de Intel Core Ultra Series 3 en Linux 7.1",
+      "category": "linux",
+      "date": "2026-03-14",
+      "slug": "mejoras-en-el-manejo-de-energia-de-intel-core-ultra-ser",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "La versión 7.1 del kernel de Linux está a punto de llegar con una mejora significativa en el manejo de energía de los procesadores Intel Core Ultra Series 3. Esta actualización permitirá a los dispositivos alcanzar estados de bajo consumo…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-14-mejoras-en-el-manejo-de-energia-de-intel-core-ultra-ser.md"
+    },
+    {
+      "title": "NVIDIA lanza nuevo driver Vulkan para Linux con soporte a VK_KHR_device_address_commands",
+      "category": "linux",
+      "date": "2026-03-14",
+      "slug": "nvidia-lanza-nuevo-driver-vulkan-para-linux-con-soporte",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "NVIDIA ha lanzado un nuevo driver Vulkan beta para Linux y Windows que agrega soporte a la extensión VK_KHR_device_address_commands. Esta extensión permite a los desarrolladores pasar direcciones de dispositivo en lugar de manejadores de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-14-nvidia-lanza-nuevo-driver-vulkan-para-linux-con-soporte.md"
+    },
+    {
+      "title": "Portando MS-DOS 2.0 a la Apple IIe: un proyecto de emulación",
+      "category": "linux",
+      "date": "2026-03-14",
+      "slug": "portando-ms-dos-20-a-la-apple-iie-un-proyecto-de-emulac",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "Un entusiasta de la tecnología ha decidido portar MS-DOS 2.0 a la Apple IIe, una computadora clásica que utiliza un procesador 6502. Aunque la Apple IIe no es compatible con software x86 de forma nativa, se puede hacer mediante expansiones…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-14-portando-ms-dos-20-a-la-apple-iie-un-proyecto-de-emulac.md"
+    },
+    {
+      "title": "Debaudit: herramienta para verificar la integridad de paquetes Debian",
+      "category": "linux",
+      "date": "2026-03-14",
+      "slug": "debaudit-herramienta-para-verificar-la-integridad-de-pa",
+      "tags": [
+        "herramientas",
+        "seguridad",
+        "debian"
+      ],
+      "preview": "La seguridad del software es cada vez más importante, y Debian ha anunciado una herramienta para ayudar a proteger la cadena de suministro de software. Debaudit es un conjunto de herramientas diseñadas para verificar la integridad y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-14-debaudit-herramienta-para-verificar-la-integridad-de-pa.md"
+    },
+    {
+      "title": "Amplificador de audio de alta calidad con ESP32 y Home Assistant",
+      "category": "embebidos",
+      "date": "2026-03-14",
+      "slug": "amplificador-de-audio-de-alta-calidad-con-esp32-y-home-",
+      "tags": [
+        "esp32",
+        "home-assistant",
+        "audio"
+      ],
+      "preview": "El desarrollador de Esparagus ha lanzado un nuevo proyecto: un amplificador de audio de alta calidad basado en ESP32 que soporta Home Assistant y Squeezelite. Este módulo compacto puede ser utilizado para crear sistemas de audio en todo el…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-14-amplificador-de-audio-de-alta-calidad-con-esp32-y-home-.md"
+    },
+    {
+      "title": "Máscaras de máscara con n00ds: un proyecto de iluminación innovador",
+      "category": "embebidos",
+      "date": "2026-03-14",
+      "slug": "mascaras-de-mascara-con-n00ds-un-proyecto-de-iluminacio",
+      "tags": [
+        "ia-local",
+        "arduino",
+        "librerias"
+      ],
+      "preview": "Adafruit ha lanzado un nuevo proyecto que combina la tecnología de iluminación con la creatividad. Las máscaras de máscara con n00ds son un proyecto divertido y fácil de hacer que puede agregar un toque de innovación a cualquier evento o…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-14-mascaras-de-mascara-con-n00ds-un-proyecto-de-iluminacio.md"
+    },
+    {
+      "title": "Descubre el Discovery Drive: un rotador automático para antenas satelitales",
+      "category": "embebidos",
+      "date": "2026-03-14",
+      "slug": "descubre-el-discovery-drive-un-rotador-automatico-para-",
+      "tags": [
+        "esp32",
+        "arduino",
+        "python"
+      ],
+      "preview": "KrakenRF ha lanzado el Discovery Drive, un rotador automático para antenas satelitales y SDR que simplifica la tarea de seguir satélites y antenas en movimiento.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-14-descubre-el-discovery-drive-un-rotador-automatico-para-.md"
+    },
+    {
       "title": "Cubito de frutas inteligente que cambia de forma",
       "category": "diseño-3d",
       "date": "2026-03-13",

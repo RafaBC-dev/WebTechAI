@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-13</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-14</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-14-un-generador-sin-aspas-inspirado-en-tesla-construido-co.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-descomision-de-robots-con-auto-recarga-una-sorpresa-en-.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-la-mano-robotica-con-musculos-artificiales-y-tendones-u.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-roscon-global-2026-convocatoria-de-propuestas-ya-esta-a.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-14-robotica-modular-y-autonoma-nace-el-robot-ideal-para-en.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-que-pueden-ensenarnos-los-drones-militares-sobre-los-co.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-nyne-la-plataforma-que-da-contexto-a-los-agentes-de-ia-.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-14-alerta-sobre-riesgos-de-masacres-por-chatbots-de-ia.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-mejoras-en-el-manejo-de-energia-de-intel-core-ultra-ser.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-nvidia-lanza-nuevo-driver-vulkan-para-linux-con-soporte.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-portando-ms-dos-20-a-la-apple-iie-un-proyecto-de-emulac.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-14-debaudit-herramienta-para-verificar-la-integridad-de-pa.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-amplificador-de-audio-de-alta-calidad-con-esp32-y-home-.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-mascaras-de-mascara-con-n00ds-un-proyecto-de-iluminacio.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-14-descubre-el-discovery-drive-un-rotador-automatico-para-.md</loc><lastmod>2026-03-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-13-cubito-de-frutas-inteligente-que-cambia-de-forma.md</loc><lastmod>2026-03-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-robotica-auto-recharge-desplegado-en-robots-descomision.md</loc><lastmod>2026-03-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-13-mano-robotica-con-musculos-artificiales-y-tendones-revo.md</loc><lastmod>2026-03-13</lastmod><priority>0.8</priority></url>
