@@ -101,10 +101,17 @@ Devuelve exactamente este JSON (todos los campos en español salvo comando y tag
 Reglas:
 - tags: elige MÁXIMO 3 tags de esta lista EXACTA (usa el valor exacto, en minúsculas con guiones):
     IA y modelos:       llms | agentes | ia-local | benchmarks
-    Microcontroladores: esp32 | arduino | raspberry-pi
-    Software y Linux:   python | librerias | herramientas
-  Solo usa tags de esa lista. Si ninguno encaja, devuelve lista vacía [].
-- comando: solo si es realmente relevante y útil, no lo fuerces
+    Robótica:           robotica | drones | automatizacion
+    Microcontroladores: esp32 | arduino | raspberry-pi | embebidos
+    Software y Linux:   python | librerias | herramientas | linux | codigo
+    Diseño y hardware:  diseño-3d | hardware | electronica
+  IMPORTANTE: elige los tags que mejor describen el TEMA PRINCIPAL del artículo.
+  Si el artículo es sobre robótica → usa "robotica". Si es sobre impresión 3D → usa "diseño-3d".
+  Si es sobre Linux → usa "linux". Solo usa tags de esa lista. Si ninguno encaja, devuelve [].
+- consejo: debe ser ESPECÍFICO al tema de este artículo concreto. 
+  Menciona herramientas, librerías, comandos o recursos reales del artículo.
+  NUNCA des un consejo genérico como "investiga más sobre el tema" o "consulta la documentación".
+  Si no hay un consejo útil y concreto que dar, deja el campo vacío.
 - Todo el contenido debe ser suficientemente detallado para que el lector NO necesite ir a la fuente original
 - Escribe en español neutro, claro y directo"""
 

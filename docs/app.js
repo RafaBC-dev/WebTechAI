@@ -406,6 +406,18 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
                || sidebar.querySelector('.sidebar-item[data-sidebar-cat="Todas"]');
     if (item) activateSidebarItem(item, normCat !== 'Todas');
   };
+
+  // Exponer showReport globalmente para que loadNews().then() pueda usarlo
+  window.showReportByTag = function(tag) {
+    const reportName = { 'benchmarks': 'benchmarks', 'agentes': 'agentes', 'esp32': 'esp32' }[tag];
+    if (reportName) {
+      showReport(reportName, tag);
+      // Marcar item activo en sidebar
+      sidebar.querySelectorAll('.sidebar-item').forEach(a => a.classList.remove('active'));
+      const match = sidebar.querySelector(`.sidebar-item[href*="tag=${tag}"]`);
+      if (match) match.classList.add('active');
+    }
+  };
 })();
 
 
@@ -837,23 +849,14 @@ function initIndexPage() {
 
   // Punto de entrada: cargamos los datos y arrancamos la UI
   loadNews().then(() => {
-    // Leer ?tag= de la URL y aplicar filtro/informe automáticamente
     const urlParams = new URLSearchParams(location.search);
     const urlTag = urlParams.get('tag');
     if (urlTag) {
-      const reportName = REPORT_TAGS[urlTag];
-      if (reportName) {
-        showReport(reportName, urlTag);
+      if (typeof window.showReportByTag === 'function') {
+        window.showReportByTag(urlTag);
       } else {
         activeTag = urlTag;
         filterAndRender();
-      }
-      // Marcar item activo en sidebar
-      const sidebarEl = document.getElementById('sidebar');
-      if (sidebarEl) {
-        sidebarEl.querySelectorAll('.sidebar-item').forEach(a => a.classList.remove('active'));
-        const match = sidebarEl.querySelector(`.sidebar-item[href*="tag=${urlTag}"]`);
-        if (match) match.classList.add('active');
       }
     }
   });

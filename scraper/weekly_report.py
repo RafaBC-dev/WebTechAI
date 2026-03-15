@@ -18,6 +18,7 @@ DEPENDENCIAS:
   pip install groq python-dotenv feedparser requests beautifulsoup4
 """
 
+import json
 import sys
 import os
 import time
@@ -38,8 +39,8 @@ from utils import with_retries
 BASE_DIR    = Path(__file__).resolve().parent.parent
 REPORTS_DIR = BASE_DIR / "docs" / "reports"
 
-# Modelo Gemini. gemini-2.5-pro tiene 1M de contexto y muy alta calidad.
-GEMINI_MODEL = "gemini-2.5-pro"
+# Modelo Gemini. gemini-2.5-flash .
+GEMINI_MODEL = "gemini-2.5-flash"
 
 # Carga GEMINI_API_KEY desde .env
 load_dotenv()
@@ -431,7 +432,7 @@ NORMAS:
             max_output_tokens=2200,
         ),
     )
-    time.sleep(15)
+    time.sleep(35)
     return response.text.strip()
 
 @with_retries(max_retries=3, delay=15)
@@ -478,7 +479,7 @@ Escribe en español neutro y directo. No uses frases genéricas. Sé concreto.""
             max_output_tokens=2000,
         ),
     )
-    time.sleep(15)
+    time.sleep(35)
     return response.text.strip()
 
 
@@ -510,7 +511,7 @@ análisis concretos y accionables, NO artículos genéricos.
 INFORMACIÓN RECIENTE DE FUENTES ESPECIALIZADAS:
 {raw_text[:5000]}
 
-Responde ÚNICAMENTE con JSON válido (sin bloques markdown, sin texto fuera del JSON).
+⚠️ REGLA CRÍTICA: NO uses saltos de línea literales (Enters) dentro del campo "informe". Usa ESTRICTAMENTE la secuencia de escape "\\n" para separar párrafos. Escapa cualquier comilla doble interna con "\\\"".
 Formato exacto:
 {{
   "informe": "<TEXTO MARKDOWN AQUÍ>",
@@ -566,20 +567,47 @@ REGLAS PARA modelos[]:
 - Entre 3 y 8 modelos"""
 
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    
+    # 1. Definimos la estructura estricta que la API debe respetar
+    schema_benchmarks = {
+        "type": "OBJECT",
+        "properties": {
+            "informe": {"type": "STRING"},
+            "modelos": {
+                "type": "ARRAY",
+                "items": {
+                    "type": "OBJECT",
+                    "properties": {
+                        "nombre": {"type": "STRING"},
+                        "puntuacion": {"type": "INTEGER"},
+                        "velocidad": {"type": "STRING"},
+                        "precio": {"type": "STRING"},
+                        "contexto": {"type": "STRING"},
+                        "destacado": {"type": "BOOLEAN"},
+                        "novedad": {"type": "BOOLEAN"}
+                    }
+                }
+            },
+            "semana": {"type": "STRING"}
+        },
+        "required": ["informe", "modelos", "semana"]
+    }
+
+    # 2. Llamamos a la API forzando el formato
     response = client.models.generate_content(
-        model=GEMINI_MODEL,
+        model=GEMINI_MODEL, # Nos aseguramos de que arriba cambiaste a "gemini-2.5-flash"
         contents=prompt,
         config=types.GenerateContentConfig(
             temperature=0.3,
-            max_output_tokens=3000,
+            max_output_tokens=8000, # 🚀 Ampliado para que no se corte el texto
+            response_mime_type="application/json",
+            response_schema=schema_benchmarks # 🚀 Obliga al motor a cerrar el JSON
         ),
     )
-    time.sleep(15)
+    time.sleep(35)
     raw = response.text.strip()
-    # Limpiar bloques ```json si los hay
-    raw = re.sub(r'^```(?:json)?\s*', '', raw)
-    raw = re.sub(r'\s*```$', '', raw)
-    result = _json.loads(raw)
+    result = _json.loads(raw, strict=False)
+    
     result.setdefault("informe", "")
     result.setdefault("modelos", [])
     result.setdefault("semana", semana_str)
@@ -639,9 +667,10 @@ Genera una lista JSON con los 8-12 modelos más relevantes de esta semana siguie
         config=types.GenerateContentConfig(
             temperature=0.3,
             max_output_tokens=3000,
+            response_mime_type="application/json",
         ),
     )
-    time.sleep(15)
+    time.sleep(35)
     raw = response.text.strip()
     # Limpiar bloques ```json si los hay
     raw = re.sub(r'^```(?:json)?\s*', '', raw)

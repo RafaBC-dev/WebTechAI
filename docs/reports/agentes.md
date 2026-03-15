@@ -1,36 +1,33 @@
-<!-- Generado automáticamente el 2026-03-10 —  NO editar a mano -->
+<!-- Generado automáticamente el 2026-03-13 —  NO editar a mano -->
 
-**Guía de Referencia de Agentes IA para Desarrolladores**
+Aquí tienes una guía de referencia completa sobre herramientas de desarrollo asistido por IA y coding agents, actualizada con las últimas novedades:
 
-**Stacks de Agentes Recomendados Ahora mismo**
+## Stacks de agentes recomendados ahora mismo
 
 | Herramienta | Tipo | Precio | Ideal para | Puntuación comunidad |
 |-------------|------|--------|------------|---------------------|
-| Claude Code | Agente de terminal | De pago | Proyectos complejos | 4.5/5 |
-| Aider | Agente open source | Gratuito | Desarrolladores que prefieren terminal | 4.2/5 |
-| Cursor | Editor con agente integrado | Capa gratuita, planes de pago (~$20/mes) | Desarrolladores profesionales | 4.8/5 |
-| Windsurf (Codeium) | Editor con agente Cascade | Capa gratuita generosa | Equipos y desarrolladores con presupuesto limitado | 4.5/5 |
-| GitHub Copilot | Extensión para VSCode, JetBrains y otros editores | Plan individual $10/mes, incluido en GitHub Education | Desarrolladores ya integrados en el ecosistema GitHub/Microsoft | 4.9/5 |
-| Continue | Extensión open source para VSCode y JetBrains | Gratuito | Desarrolladores que quieren privacidad o modelos locales | 4.3/5 |
-| Antigravity (Google) | Editor con agentes IA de Google DeepMind | En desarrollo activo | Desarrolladores que buscan nuevas herramientas | 4.1/5 |
+| Claude Code | Agente de terminal | De pago (cuenta Anthropic) | Refactoring, debugging, proyectos complejos y grandes | N/A |
+| Aider | Agente de terminal (open source) | Gratuito | Devs que prefieren terminal y control total, integración Git | N/A |
+| Cursor | Editor (fork de VSCode) con agente | Capa gratuita, planes de pago (~$20/mes) | Developers profesionales que quieren un IDE completo con IA | N/A |
+| Windsurf (Codeium) | Editor con agente Cascade | Capa gratuita generosa | Equipos y developers con presupuesto limitado, alternativa a Cursor | N/A |
+| GitHub Copilot | Extensión (VSCode, JetBrains, etc.) | $10/mes (individual), incluido en GitHub Education | Developers ya integrados en el ecosistema GitHub/Microsoft | N/A |
+| Continue | Extensión (VSCode, JetBrains) (open source) | Gratuito | Devs que quieren privacidad o modelos locales, alta configurabilidad | N/A |
+| Antigravity (Google) | Editor con agentes IA | En desarrollo activo | Futura integración con modelos Gemini de Google DeepMind | N/A |
 
-**Herramientas Destacadas Esta Semana**
+## Herramientas destacadas esta semana
 
-Sin cambios significativos esta semana. La guía de referencia se mantiene actualizada.
+Esta semana, las novedades giran en torno a la evolución y el impacto de los agentes IA, especialmente en el ecosistema de GitHub:
 
-**¿Cuál Elegir Según Tu Caso?**
+*   **GitHub Copilot y flujos de trabajo agénticos**: Se ha confirmado que GitHub Copilot ha adoptado una arquitectura agéntica que recupera el contexto del repositorio y razona sobre los cambios. Su uso en revisiones de código (Copilot Code Review) ha crecido 10 veces desde su lanzamiento, representando ahora más de una de cada cinco revisiones en GitHub, con más de 60 millones de revisiones asistidas. Esto subraya su madurez y adopción masiva.
+*   **Seguridad en agentes de GitHub**: GitHub está poniendo un fuerte énfasis en la seguridad de los flujos de trabajo agénticos, implementando arquitecturas que permiten poner límites y asegurar la predictibilidad de las automatizaciones. Esto incluye la capacidad de escanear vulnerabilidades con el framework de código abierto AI-powered de GitHub Security Lab, que ha demostrado ser muy exitoso en encontrar vulnerabilidades de alto impacto en proyectos open source.
+*   **Eventos de comunidad**: GitHub está organizando eventos "Copilot Dev Days" para fomentar la adopción y el aprendizaje sobre cómo la IA está transformando el desarrollo de software.
+*   **Calidad del código**: Se refuerza la idea de que la IA debe ayudar a producir código de mejor calidad, y que la adopción de agentes no debe ser una excusa para reducir los estándares. La elección de enviar código de peor calidad con agentes es una decisión que se puede revertir.
+*   **Diversidad tecnológica**: Los modelos más recientes, cuando se utilizan con buenos agentes de codificación, están mostrando excelentes resultados incluso con herramientas y lenguajes menos representados en sus datos de entrenamiento, lo que sugiere que la IA no necesariamente empujará a los desarrolladores hacia tecnologías "aburridas" o más comunes.
 
-* **Si eres principiante**: Aider es una buena opción debido a su facilidad de uso y compatibilidad con múltiples LLMs.
-* **Si eres desarrollador profesional**: Cursor es una excelente opción debido a su capacidad para refactoring y debugging, así como su integración con VSCode.
-* **Si trabajas en equipo**: Windsurf (Codeium) es una buena opción debido a su capa gratuita generosa y su capacidad para trabajar en proyectos grandes.
-* **Si quieres privacidad / modelos locales**: Continue es una buena opción debido a su capacidad para conectarse con LLMs locales y su configuración total.
+## ¿Cuál elegir según tu caso?
 
-**Recursos y Documentación**
-
-* [Claude Code](https://anthropic.ai/claudes) — Agente de terminal de Anthropic
-* [Aider](https://github.com/aiders/aider) — Agente open source para terminal
-* [Cursor](https://cursor.dev/) — Editor con agente integrado
-* [Windsurf (Codeium)](https://codeium.dev/) — Editor con agente Cascade
-* [GitHub Copilot](https://github.com/features/copilot) — Extensión para VSCode, JetBrains y otros editores
-* [Continue](https://github.com/continue/continue) — Extensión open source para VSCode y JetBrains
-* [Antigravity (Google)](https://antigravity.dev/) — Editor con agentes IA de Google DeepMind
+-   **Si eres principiante**:
+    *   **Cursor** o **Windsurf (Codeium)**: Ofrecen una experiencia de IDE familiar (basada en VSCode) con integración de IA, lo que facilita el aprendizaje y la experimentación sin salir de un entorno conocido. Ambos tienen capas gratuitas generosas.
+    *   **GitHub Copilot**: Si tienes acceso a GitHub Education, es una excelente opción por su integración directa y su precio.
+-   **Si eres developer profesional**:
+    *   **Claude Code**: Para proyectos complejos, refactoring a gran escala y debugging profundo, aprovechando la potencia de los modelos de Anthropic sobre la base de código completa.
