@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Reparar cierre de cremallera mediante impresión 3D sin desarmar",
+      "category": "diseño-3d",
+      "date": "2026-03-15",
+      "slug": "reparar-cierre-de-cremallera-mediante-impresion-3d-sin-",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "Un ingeniero ha creado un diseño de impresión 3D para reparar cremalleras rotas sin necesidad de desarmarlas. Esto puede ser una solución útil para aquellos que no tienen experiencia en reparaciones de textil.",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-03-15-reparar-cierre-de-cremallera-mediante-impresion-3d-sin-.md"
+    },
+    {
+      "title": "Robotas autónomas que pueden diseñarse y construirse en el campo",
+      "category": "robotica",
+      "date": "2026-03-15",
+      "slug": "robotas-autonomas-que-pueden-disenarse-y-construirse-en",
+      "tags": [
+        "llms",
+        "agentes",
+        "python"
+      ],
+      "preview": "Los investigadores de la Northwestern University han desarrollado un sistema que permite a los robots autónomos diseñarse y construirse en el campo, lo que podría revolucionar la forma en que se utilizan en la exploración y la entrega de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-15-robotas-autonomas-que-pueden-disenarse-y-construirse-en.md"
+    },
+    {
+      "title": "Una mano robótica con músculos artificiales y tendones",
+      "category": "robotica",
+      "date": "2026-03-15",
+      "slug": "una-mano-robotica-con-musculos-artificiales-y-tendones",
+      "tags": [
+        "ia-local",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos y tendones artificiales. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales y abrir nuevas posibilidades para…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-15-una-mano-robotica-con-musculos-artificiales-y-tendones.md"
+    },
+    {
+      "title": "Celebra el Día de Pi con proyectos emocionantes de Raspberry Pi",
+      "category": "robotica",
+      "date": "2026-03-15",
+      "slug": "celebra-el-dia-de-pi-con-proyectos-emocionantes-de-rasp",
+      "tags": [
+        "raspberry-pi",
+        "ia-local",
+        "python"
+      ],
+      "preview": "El 14 de marzo se celebra el Día de Pi, y para conmemorar, hemos seleccionado algunos de los proyectos más interesantes de Raspberry Pi de todo el mundo. Descubre cómo esta tecnología ha revolucionado industrias y ha sido utilizada en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-15-celebra-el-dia-de-pi-con-proyectos-emocionantes-de-rasp.md"
+    },
+    {
+      "title": "Benchmark de eficiencia energética en navegación autónoma",
+      "category": "robotica",
+      "date": "2026-03-15",
+      "slug": "benchmark-de-eficiencia-energetica-en-navegacion-autono",
+      "tags": [
+        "benchmarks",
+        "ia-local",
+        "robotica"
+      ],
+      "preview": "Un estudiante de la Universidad Estatal de Ohio está desarrollando un marco de referencia para evaluar la eficiencia energética de plataformas autónomas. Este proyecto busca encontrar el punto óptimo de eficiencia energética en la robótica…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-15-benchmark-de-eficiencia-energetica-en-navegacion-autono.md"
+    },
+    {
+      "title": "ROSCon Global 2026: Llamada a propuestas y eventos relacionados",
+      "category": "robotica",
+      "date": "2026-03-15",
+      "slug": "roscon-global-2026-llamada-a-propuestas-y-eventos-relac",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "La comunidad de ROSCon Global 2026 ha lanzado la llamada a propuestas para la edición de este año en Toronto. Además, se han programado varios eventos relacionados con la robótica y la inteligencia artificial.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-15-roscon-global-2026-llamada-a-propuestas-y-eventos-relac.md"
+    },
+    {
+      "title": "Drones militares enseñan a los coches autónomos",
+      "category": "ia",
+      "date": "2026-03-15",
+      "slug": "drones-militares-ensenan-a-los-coches-autonomos",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "python"
+      ],
+      "preview": "Los coches autónomos se estrellan o se congelan en situaciones comunes para los conductores humanos. La supervisión remota es la solución, pero ¿qué podemos aprender de los drones militares?",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-15-drones-militares-ensenan-a-los-coches-autonomos.md"
+    },
+    {
+      "title": "GreenBoost: Un driver open-source para aumentar la memoria de NVIDIA",
+      "category": "ia",
+      "date": "2026-03-15",
+      "slug": "greenboost-un-driver-open-source-para-aumentar-la-memor",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Un desarrollador independiente ha creado un driver open-source llamado GreenBoost que busca aumentar la memoria de NVIDIA en sistemas Linux. Esto permitirá ejecutar modelos de LLM más grandes que no encajan en la memoria dedicada de la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-15-greenboost-un-driver-open-source-para-aumentar-la-memor.md"
+    },
+    {
+      "title": "La ley de verificación de edad en Brasil: un desafío para la privacidad",
+      "category": "linux",
+      "date": "2026-03-15",
+      "slug": "la-ley-de-verificacion-de-edad-en-brasil-un-desafio-par",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La ley brasileña de verificación de edad, conocida como 'Lei 15.211', entrará en vigor el 17 de marzo de 2026. Esta ley requiere que los sistemas operativos, tiendas de aplicaciones y software entregados electrónicamente implementen…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-15-la-ley-de-verificacion-de-edad-en-brasil-un-desafio-par.md"
+    },
+    {
+      "title": "GNU Radio se renueva con PimpMyGRC: temas personalizables",
+      "category": "linux",
+      "date": "2026-03-15",
+      "slug": "gnu-radio-se-renueva-con-pimpmygrc-temas-personalizable",
+      "tags": [
+        "python",
+        "herramientas",
+        "librerias"
+      ],
+      "preview": "GNU Radio Companion, un poderoso herramienta para SDR, ha recibido un nuevo look gracias a PimpMyGRC. Esta herramienta permite personalizar la interfaz de usuario con temas y efectos animados.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-15-gnu-radio-se-renueva-con-pimpmygrc-temas-personalizable.md"
+    },
+    {
+      "title": "Relojes de palabras: un reloj de pared con tecnología de última generación",
+      "category": "embebidos",
+      "date": "2026-03-15",
+      "slug": "relojes-de-palabras-un-reloj-de-pared-con-tecnologia-de",
+      "tags": [
+        "esp32",
+        "arduino",
+        "python"
+      ],
+      "preview": "Un reloj tradicional puede ser fácil de leer, pero ¿qué pasa si no quieres aprender a leerlo? Un reloj de palabras es la solución perfecta para contar el tiempo sin tener que aprender una habilidad extra. Un entusiasta de la tecnología ha…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-15-relojes-de-palabras-un-reloj-de-pared-con-tecnologia-de.md"
+    },
+    {
+      "title": "Maker Monday: Compartir proyectos con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-03-15",
+      "slug": "maker-monday-compartir-proyectos-con-raspberry-pi",
+      "tags": [
+        "raspberry-pi",
+        "maker",
+        "comunidad"
+      ],
+      "preview": "La comunidad de makers de todo el mundo comparte sus creaciones con Raspberry Pi, y cada lunes se publican las mejores obras. ¿Qué es lo que hace tan especial a estos proyectos?",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-15-maker-monday-compartir-proyectos-con-raspberry-pi.md"
+    },
+    {
+      "title": "Esparagus Audio Brick: Amplificador de Audio Hi-Fi para Home Assistant",
+      "category": "embebidos",
+      "date": "2026-03-15",
+      "slug": "esparagus-audio-brick-amplificador-de-audio-hi-fi-para-",
+      "tags": [
+        "esp32",
+        "arduino",
+        "home-assistant"
+      ],
+      "preview": "El desarrollador de Esparagus ha lanzado un nuevo proyecto en Crowd Supply: Esparagus Audio Brick, un módulo de amplificación de audio Hi-Fi basado en ESP32 que soporta Home Assistant y Squeezelite. Este dispositivo compacto puede ser…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-15-esparagus-audio-brick-amplificador-de-audio-hi-fi-para-.md"
+    },
+    {
+      "title": "PicoCPC: un dispositivo de expansión para ordenadores Amstrad CPC",
+      "category": "embebidos",
+      "date": "2026-03-15",
+      "slug": "picocpc-un-dispositivo-de-expansion-para-ordenadores-am",
+      "tags": [
+        "raspberry-pi",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La comunidad de aficionados a los ordenadores Amstrad CPC ha crecido en los últimos años, y ahora hay una variedad de dispositivos de expansión disponibles para mejorar el rendimiento de estos equipos. El PicoCPC es uno de los más…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-15-picocpc-un-dispositivo-de-expansion-para-ordenadores-am.md"
+    },
+    {
+      "title": "Radar de alta precisión de código abierto para seguimiento de objetos a 20km",
+      "category": "embebidos",
+      "date": "2026-03-15",
+      "slug": "radar-de-alta-precision-de-codigo-abierto-para-seguimie",
+      "tags": [
+        "ia-local",
+        "python",
+        "herramientas"
+      ],
+      "preview": "Un equipo de desarrolladores ha lanzado un sistema de radar de código abierto llamado AERIS-10, capaz de seguir múltiples objetos a una distancia de hasta 20km. Este proyecto es relevante debido a su potencial para ser utilizado en…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-15-radar-de-alta-precision-de-codigo-abierto-para-seguimie.md"
+    },
+    {
       "title": "Un generador sin aspas, inspirado en Tesla, construido con Lego",
       "category": "diseño-3d",
       "date": "2026-03-14",
