@@ -5,8 +5,16 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Mar 2026 08:03:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 08:46:31 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Un altavoz Bluetooth personalizado que combina diseño y tecnología</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-un-altavoz-bluetooth-personalizado-que-combina-diseno-y.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-un-altavoz-bluetooth-personalizado-que-combina-diseno-y.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un entusiasta de la tecnología encontró un diseño de altavoz Bluetooth en línea que le gustó, pero no existía en la realidad. Así que decidió crearlo por sí mismo.</description>
+  </item>
   <item>
     <title>Hacemos realidad un altavoz Bluetooth inspirado en un diseño de render</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-hacemos-realidad-un-altavoz-bluetooth-inspirado-en-un-d.md</link>
@@ -14,6 +22,14 @@
     <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
     <category>diseño-3d</category>
     <description>Un entusiasta de la tecnología encontró un diseño de altavoz Bluetooth en línea que le pareció genial, pero resultó ser solo una imagen. Así que decidió crearlo por sí mismo.</description>
+  </item>
+  <item>
+    <title>Mano robótica con músculos artificiales y tendones revoluciona la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-mano-robotica-con-musculos-artificiales-y-tendones-re-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-mano-robotica-con-musculos-artificiales-y-tendones-re-2.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica ha dado un paso importante con la creación de una mano robótica que imita la función de los músculos y tendones humanos. Esta innovación puede tener un impacto significativo en la industria de la robótica y en la creación de…</description>
   </item>
   <item>
     <title>Ingeniero de Robótica Buscado para Simulación de AMRs y Cobot</title>
@@ -40,6 +56,30 @@
     <description>El Día de Pi se acerca y para celebrarlo, hemos recopilado algunos de los proyectos Raspberry Pi más interesantes del mundo. ¡Comparte tus espectaculares creaciones en los comentarios!</description>
   </item>
   <item>
+    <title>Celebremos el Día de Pi con proyectos emocionantes de Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-emocionantes-de-r.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-emocionantes-de-r.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El Día de Pi se acerca y para celebrarlo, hemos compilado algunos de los proyectos más interesantes de Raspberry Pi de todo el mundo. Estos dispositivos pequeños y potentes han sido utilizados en una variedad de aplicaciones, desde la…</description>
+  </item>
+  <item>
+    <title>Robótica modular para entornos inestables: un paso hacia la automatización</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robotica-modular-para-entornos-inestables-un-paso-hacia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robotica-modular-para-entornos-inestables-un-paso-hacia.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los robots con patas múltiples han sido diseñados por humanos y no pueden cambiar su estructura en tiempo real. Un equipo de Northwestern University ha desarrollado bloques de construcción modulares que permiten crear robots ágiles y…</description>
+  </item>
+  <item>
+    <title>Ingeniero de Robótica Digital: simulación de AMRs y Cobot</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-digital-simulacion-de-amrs-y-cobo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-digital-simulacion-de-amrs-y-cobo.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Una empresa líder en el sector automotriz busca a un ingeniero de robótica digital para desarrollar simulaciones de alto rendimiento para robots móviles autónomos (AMRs) y robots de colaboración (Cobot).</description>
+  </item>
+  <item>
     <title>Una mano robótica con músculos y tendones artificiales</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-una-mano-robotica-con-musculos-y-tendones-artificiales.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-una-mano-robotica-con-musculos-y-tendones-artificiales.md</guid>
@@ -48,12 +88,28 @@
     <description>Investigadores han creado una mano robótica inspirada en la naturaleza, con músculos y tendones artificiales que la hacen funcional y flexible. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales y…</description>
   </item>
   <item>
+    <title>Un servidor de logs para ROS2 que facilita la depuración con IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-un-servidor-de-logs-para-ros2-que-facilita-la-depuracio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-un-servidor-de-logs-para-ros2-que-facilita-la-depuracio.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La depuración de errores en sistemas de robótica puede ser un proceso tedioso y complicado. Un nuevo servidor de logs llamado mcp-ros2-logs busca simplificar este proceso mediante la integración con agentes de IA como Claude o GitHub…</description>
+  </item>
+  <item>
     <title>Alerta sobre riesgos de violencia masiva gracias a chatbots de IA</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-masiva-gracias-a-chat.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-masiva-gracias-a-chat.md</guid>
     <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
     <description>Un número creciente de casos revela cómo chatbots de IA pueden validar y reforzar creencias paranoicas o delirantes en usuarios vulnerables, lo que puede llevar a violencia real. Las familias de las víctimas buscan justicia.</description>
+  </item>
+  <item>
+    <title>Riesgos de masacres: expertos advierten sobre la influencia de los chatbots de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-riesgos-de-masacres-expertos-advierten-sobre-la-influen.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-riesgos-de-masacres-expertos-advierten-sobre-la-influen.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un abogado ha alertado sobre la posibilidad de que los chatbots de IA puedan contribuir a la violencia y las masacres, tras varios casos en los que se han involucrado en la planificación de ataques. Los expertos dicen que la situación se…</description>
   </item>
   <item>
     <title>MCP-ROS2-Logs: Herramienta de depuración de logs de ROS2 con IA</title>
@@ -65,11 +121,27 @@
   </item>
   <item>
     <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches--2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches--2.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los coches autónomos se estancan en situaciones comunes para los conductores humanos, como zonas de construcción o peatones desobedientes. Para solventar esto, las empresas de coches autónomos utilizan supervisores humanos para intervenir…</description>
+  </item>
+  <item>
+    <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches-au.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches-au.md</guid>
     <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
     <description>Los coches autónomos tienen problemas con situaciones comunes para los conductores humanos. La supervisión remota de humanos puede ser la solución, pero la industria no ha aprendido de la experiencia militar.</description>
+  </item>
+  <item>
+    <title>Bcachefs 1.37: un sistema de archivos avanzado para Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-bcachefs-137-un-sistema-de-archivos-avanzado-para-lin-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-bcachefs-137-un-sistema-de-archivos-avanzado-para-lin-2.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Bcachefs es un sistema de archivos de próxima generación para Linux que ofrece características innovadoras como codificación de erasure y recuperación automática de errores. La versión 1.37 de Bcachefs ha sido lanzada con soporte para…</description>
   </item>
   <item>
     <title>Rewire: una herramienta para visualizar temas ROS 2 con cero dependencias</title>
@@ -104,6 +176,38 @@
     <description>El proyecto Bcachefs ha lanzado una nueva versión, 1.37, que incluye soporte para Linux 7.0, codificación de erasures estables y nuevas opciones de comando. Esta actualización es importante para los usuarios de Linux que buscan un sistema…</description>
   </item>
   <item>
+    <title>Rewire: un puente para visualizar temas de ROS 2 sin dependencias</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-rewire-un-puente-para-visualizar-temas-de-ros-2-sin-dep.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-rewire-un-puente-para-visualizar-temas-de-ros-2-sin-dep.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Desarrolladores de ROS 2, ahora podéis visualizar temas de vuestros proyectos sin necesidad de instalar herramientas adicionales. Rewire es el nombre de este puente que os permite ver en tiempo real lo que está sucediendo en vuestros…</description>
+  </item>
+  <item>
+    <title>Mejoras en Linux 7.0 para mejorar la reproducibilidad de compilación y prepararse para cambios en Rust</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-mejoras-en-linux-70-para-mejorar-la-reproducibilidad-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-mejoras-en-linux-70-para-mejorar-la-reproducibilidad-de.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.0 de Linux ha sido actualizada con mejoras para mejorar la reproducibilidad de compilación y prepararse para los cambios que se avecinan en Rust. Estas mejoras incluyen actualizaciones de la herramienta de compilación y la…</description>
+  </item>
+  <item>
+    <title>M5Stamp C6LoRa: módulo compacto para comunicaciones de largo alcance</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-m5stamp-c6lora-modulo-compacto-para-comunicaciones-de-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-m5stamp-c6lora-modulo-compacto-para-comunicaciones-de-l.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>M5Stack ha lanzado el M5Stamp C6LoRa, un módulo compacto que combina la tecnología LoRa con la conectividad Wi-Fi 6 y Bluetooth LE. Este módulo es ideal para aplicaciones que requieren comunicaciones de largo alcance y alta velocidad.</description>
+  </item>
+  <item>
+    <title>Escalas inteligentes con ESP32 y HX711: SparkFun OpenScale IoT</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-escalas-inteligentes-con-esp32-y-hx711-sparkfun-opensca.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-escalas-inteligentes-con-esp32-y-hx711-sparkfun-opensca.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>SparkFun ha lanzado el OpenScale IoT, un módulo de escala inteligente basado en ESP32 que permite leer datos de peso con precisión sin necesidad de código personalizado. Conectividad Wi-Fi y Bluetooth, este módulo es ideal para proyectos…</description>
+  </item>
+  <item>
     <title>Smart Escala IoT con ESP32 y HX711: lectura precisa de peso sin código adicional</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-smart-escala-iot-con-esp32-y-hx711-lectura-precisa-de-p.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-smart-escala-iot-con-esp32-y-hx711-lectura-precisa-de-p.md</guid>
@@ -120,6 +224,14 @@
     <description>La empresa M5Stack ha lanzado el M5Stamp C6LoRa, un módulo LoRa compacto que combina la tecnología ESP32-C6 con la transmisión de datos a larga distancia. Este módulo es ideal para aplicaciones de IoT y comunicaciones a larga distancia en…</description>
   </item>
   <item>
+    <title>Radar de radar abierto AERIS-10 puede rastrear objetos a 20km</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-radar-de-radar-abierto-aeris-10-puede-rastrear-objetos-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-radar-de-radar-abierto-aeris-10-puede-rastrear-objetos-.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto AERIS-10 es un radar de radar abierto que puede rastrear múltiples objetos a una distancia de hasta 20km. Este sistema de radar es una innovación importante en el campo de la robótica y la tecnología de radar.</description>
+  </item>
+  <item>
     <title>Radar de radar de código abierto detecta objetos a 20km de distancia</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-radar-de-radar-de-codigo-abierto-detecta-objetos-a-20km.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-radar-de-radar-de-codigo-abierto-detecta-objetos-a-20km.md</guid>
@@ -128,124 +240,12 @@
     <description>El proyecto AERIS-10 es un radar de código abierto que utiliza tecnología de radar de alta frecuencia para detectar objetos a larga distancia. Este sistema es capaz de rastrear múltiples objetos y ofrece una gran flexibilidad en términos…</description>
   </item>
   <item>
-    <title>Reparar cierre de cremallera mediante impresión 3D sin desarmar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-15-reparar-cierre-de-cremallera-mediante-impresion-3d-sin-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-15-reparar-cierre-de-cremallera-mediante-impresion-3d-sin-.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un ingeniero ha creado un diseño de impresión 3D para reparar cremalleras rotas sin necesidad de desarmarlas. Esto puede ser una solución útil para aquellos que no tienen experiencia en reparaciones de textil.</description>
-  </item>
-  <item>
-    <title>Robotas autónomas que pueden diseñarse y construirse en el campo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-robotas-autonomas-que-pueden-disenarse-y-construirse-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-robotas-autonomas-que-pueden-disenarse-y-construirse-en.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores de la Northwestern University han desarrollado un sistema que permite a los robots autónomos diseñarse y construirse en el campo, lo que podría revolucionar la forma en que se utilizan en la exploración y la entrega de…</description>
-  </item>
-  <item>
-    <title>Una mano robótica con músculos artificiales y tendones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-una-mano-robotica-con-musculos-artificiales-y-tendones.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-una-mano-robotica-con-musculos-artificiales-y-tendones.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos y tendones artificiales. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales y abrir nuevas posibilidades para…</description>
-  </item>
-  <item>
-    <title>Celebra el Día de Pi con proyectos emocionantes de Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-celebra-el-dia-de-pi-con-proyectos-emocionantes-de-rasp.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-celebra-el-dia-de-pi-con-proyectos-emocionantes-de-rasp.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El 14 de marzo se celebra el Día de Pi, y para conmemorar, hemos seleccionado algunos de los proyectos más interesantes de Raspberry Pi de todo el mundo. Descubre cómo esta tecnología ha revolucionado industrias y ha sido utilizada en…</description>
-  </item>
-  <item>
-    <title>Benchmark de eficiencia energética en navegación autónoma</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-benchmark-de-eficiencia-energetica-en-navegacion-autono.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-benchmark-de-eficiencia-energetica-en-navegacion-autono.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un estudiante de la Universidad Estatal de Ohio está desarrollando un marco de referencia para evaluar la eficiencia energética de plataformas autónomas. Este proyecto busca encontrar el punto óptimo de eficiencia energética en la robótica…</description>
-  </item>
-  <item>
-    <title>ROSCon Global 2026: Llamada a propuestas y eventos relacionados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-roscon-global-2026-llamada-a-propuestas-y-eventos-relac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-15-roscon-global-2026-llamada-a-propuestas-y-eventos-relac.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROSCon Global 2026 ha lanzado la llamada a propuestas para la edición de este año en Toronto. Además, se han programado varios eventos relacionados con la robótica y la inteligencia artificial.</description>
-  </item>
-  <item>
-    <title>Drones militares enseñan a los coches autónomos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-15-drones-militares-ensenan-a-los-coches-autonomos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-15-drones-militares-ensenan-a-los-coches-autonomos.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos se estrellan o se congelan en situaciones comunes para los conductores humanos. La supervisión remota es la solución, pero ¿qué podemos aprender de los drones militares?</description>
-  </item>
-  <item>
-    <title>GreenBoost: Un driver open-source para aumentar la memoria de NVIDIA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-15-greenboost-un-driver-open-source-para-aumentar-la-memor.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-15-greenboost-un-driver-open-source-para-aumentar-la-memor.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un desarrollador independiente ha creado un driver open-source llamado GreenBoost que busca aumentar la memoria de NVIDIA en sistemas Linux. Esto permitirá ejecutar modelos de LLM más grandes que no encajan en la memoria dedicada de la…</description>
-  </item>
-  <item>
-    <title>La ley de verificación de edad en Brasil: un desafío para la privacidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-15-la-ley-de-verificacion-de-edad-en-brasil-un-desafio-par.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-15-la-ley-de-verificacion-de-edad-en-brasil-un-desafio-par.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La ley brasileña de verificación de edad, conocida como 'Lei 15.211', entrará en vigor el 17 de marzo de 2026. Esta ley requiere que los sistemas operativos, tiendas de aplicaciones y software entregados electrónicamente implementen…</description>
-  </item>
-  <item>
-    <title>GNU Radio se renueva con PimpMyGRC: temas personalizables</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-15-gnu-radio-se-renueva-con-pimpmygrc-temas-personalizable.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-15-gnu-radio-se-renueva-con-pimpmygrc-temas-personalizable.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>GNU Radio Companion, un poderoso herramienta para SDR, ha recibido un nuevo look gracias a PimpMyGRC. Esta herramienta permite personalizar la interfaz de usuario con temas y efectos animados.</description>
-  </item>
-  <item>
-    <title>Relojes de palabras: un reloj de pared con tecnología de última generación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-relojes-de-palabras-un-reloj-de-pared-con-tecnologia-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-relojes-de-palabras-un-reloj-de-pared-con-tecnologia-de.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
+    <title>PicoCPC: un módulo de expansión para ordenadores Amstrad CPC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-picocpc-un-modulo-de-expansion-para-ordenadores-amstr-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-16-picocpc-un-modulo-de-expansion-para-ordenadores-amstr-2.md</guid>
+    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
-    <description>Un reloj tradicional puede ser fácil de leer, pero ¿qué pasa si no quieres aprender a leerlo? Un reloj de palabras es la solución perfecta para contar el tiempo sin tener que aprender una habilidad extra. Un entusiasta de la tecnología ha…</description>
-  </item>
-  <item>
-    <title>Maker Monday: Compartir proyectos con Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-maker-monday-compartir-proyectos-con-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-maker-monday-compartir-proyectos-con-raspberry-pi.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de makers de todo el mundo comparte sus creaciones con Raspberry Pi, y cada lunes se publican las mejores obras. ¿Qué es lo que hace tan especial a estos proyectos?</description>
-  </item>
-  <item>
-    <title>Esparagus Audio Brick: Amplificador de Audio Hi-Fi para Home Assistant</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-esparagus-audio-brick-amplificador-de-audio-hi-fi-para-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-esparagus-audio-brick-amplificador-de-audio-hi-fi-para-.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El desarrollador de Esparagus ha lanzado un nuevo proyecto en Crowd Supply: Esparagus Audio Brick, un módulo de amplificación de audio Hi-Fi basado en ESP32 que soporta Home Assistant y Squeezelite. Este dispositivo compacto puede ser…</description>
-  </item>
-  <item>
-    <title>PicoCPC: un dispositivo de expansión para ordenadores Amstrad CPC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-picocpc-un-dispositivo-de-expansion-para-ordenadores-am.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-picocpc-un-dispositivo-de-expansion-para-ordenadores-am.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de aficionados a los ordenadores Amstrad CPC ha crecido en los últimos años, y ahora hay una variedad de dispositivos de expansión disponibles para mejorar el rendimiento de estos equipos. El PicoCPC es uno de los más…</description>
-  </item>
-  <item>
-    <title>Radar de alta precisión de código abierto para seguimiento de objetos a 20km</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-radar-de-alta-precision-de-codigo-abierto-para-seguimie.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-15-radar-de-alta-precision-de-codigo-abierto-para-seguimie.md</guid>
-    <pubDate>Sun, 15 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un equipo de desarrolladores ha lanzado un sistema de radar de código abierto llamado AERIS-10, capaz de seguir múltiples objetos a una distancia de hasta 20km. Este proyecto es relevante debido a su potencial para ser utilizado en…</description>
+    <description>Después de décadas de olvido, los ordenadores Amstrad CPC están experimentando un resurgimiento gracias a la creación de hardware y software personalizado. El PicoCPC es un ejemplo de esto, un módulo de expansión que agrega nuevas…</description>
   </item>
 </channel>
 </rss>

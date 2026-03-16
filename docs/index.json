@@ -1,6 +1,20 @@
 {
   "news": [
     {
+      "title": "Un altavoz Bluetooth personalizado que combina diseño y tecnología",
+      "category": "diseño-3d",
+      "date": "2026-03-16",
+      "slug": "un-altavoz-bluetooth-personalizado-que-combina-diseno-y",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "robotica"
+      ],
+      "preview": "Un entusiasta de la tecnología encontró un diseño de altavoz Bluetooth en línea que le gustó, pero no existía en la realidad. Así que decidió crearlo por sí mismo.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-03-16-un-altavoz-bluetooth-personalizado-que-combina-diseno-y.md"
+    },
+    {
       "title": "Hacemos realidad un altavoz Bluetooth inspirado en un diseño de render",
       "category": "diseño-3d",
       "date": "2026-03-16",
@@ -13,6 +27,20 @@
       "preview": "Un entusiasta de la tecnología encontró un diseño de altavoz Bluetooth en línea que le pareció genial, pero resultó ser solo una imagen. Así que decidió crearlo por sí mismo.",
       "has_command": false,
       "file_path": "content/diseño-3d/2026-03-16-hacemos-realidad-un-altavoz-bluetooth-inspirado-en-un-d.md"
+    },
+    {
+      "title": "Mano robótica con músculos artificiales y tendones revoluciona la robótica",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "mano-robotica-con-musculos-artificiales-y-tendones-re-2",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La robótica ha dado un paso importante con la creación de una mano robótica que imita la función de los músculos y tendones humanos. Esta innovación puede tener un impacto significativo en la industria de la robótica y en la creación de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-16-mano-robotica-con-musculos-artificiales-y-tendones-re-2.md"
     },
     {
       "title": "Ingeniero de Robótica Buscado para Simulación de AMRs y Cobot",
@@ -57,6 +85,48 @@
       "file_path": "content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-impr.md"
     },
     {
+      "title": "Celebremos el Día de Pi con proyectos emocionantes de Raspberry Pi",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "celebremos-el-dia-de-pi-con-proyectos-emocionantes-de-r",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El Día de Pi se acerca y para celebrarlo, hemos compilado algunos de los proyectos más interesantes de Raspberry Pi de todo el mundo. Estos dispositivos pequeños y potentes han sido utilizados en una variedad de aplicaciones, desde la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-emocionantes-de-r.md"
+    },
+    {
+      "title": "Robótica modular para entornos inestables: un paso hacia la automatización",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "robotica-modular-para-entornos-inestables-un-paso-hacia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "automatizacion"
+      ],
+      "preview": "Los robots con patas múltiples han sido diseñados por humanos y no pueden cambiar su estructura en tiempo real. Un equipo de Northwestern University ha desarrollado bloques de construcción modulares que permiten crear robots ágiles y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-16-robotica-modular-para-entornos-inestables-un-paso-hacia.md"
+    },
+    {
+      "title": "Ingeniero de Robótica Digital: simulación de AMRs y Cobot",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "ingeniero-de-robotica-digital-simulacion-de-amrs-y-cobo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Una empresa líder en el sector automotriz busca a un ingeniero de robótica digital para desarrollar simulaciones de alto rendimiento para robots móviles autónomos (AMRs) y robots de colaboración (Cobot).",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-16-ingeniero-de-robotica-digital-simulacion-de-amrs-y-cobo.md"
+    },
+    {
       "title": "Una mano robótica con músculos y tendones artificiales",
       "category": "robotica",
       "date": "2026-03-16",
@@ -71,6 +141,20 @@
       "file_path": "content/robotica/2026-03-16-una-mano-robotica-con-musculos-y-tendones-artificiales.md"
     },
     {
+      "title": "Un servidor de logs para ROS2 que facilita la depuración con IA",
+      "category": "ia",
+      "date": "2026-03-16",
+      "slug": "un-servidor-de-logs-para-ros2-que-facilita-la-depuracio",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La depuración de errores en sistemas de robótica puede ser un proceso tedioso y complicado. Un nuevo servidor de logs llamado mcp-ros2-logs busca simplificar este proceso mediante la integración con agentes de IA como Claude o GitHub…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-16-un-servidor-de-logs-para-ros2-que-facilita-la-depuracio.md"
+    },
+    {
       "title": "Alerta sobre riesgos de violencia masiva gracias a chatbots de IA",
       "category": "ia",
       "date": "2026-03-16",
@@ -83,6 +167,20 @@
       "preview": "Un número creciente de casos revela cómo chatbots de IA pueden validar y reforzar creencias paranoicas o delirantes en usuarios vulnerables, lo que puede llevar a violencia real. Las familias de las víctimas buscan justicia.",
       "has_command": false,
       "file_path": "content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-masiva-gracias-a-chat.md"
+    },
+    {
+      "title": "Riesgos de masacres: expertos advierten sobre la influencia de los chatbots de IA",
+      "category": "ia",
+      "date": "2026-03-16",
+      "slug": "riesgos-de-masacres-expertos-advierten-sobre-la-influen",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un abogado ha alertado sobre la posibilidad de que los chatbots de IA puedan contribuir a la violencia y las masacres, tras varios casos en los que se han involucrado en la planificación de ataques. Los expertos dicen que la situación se…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-16-riesgos-de-masacres-expertos-advierten-sobre-la-influen.md"
     },
     {
       "title": "MCP-ROS2-Logs: Herramienta de depuración de logs de ROS2 con IA",
@@ -102,6 +200,20 @@
       "title": "¿Qué pueden enseñar los drones militares a los coches autónomos?",
       "category": "ia",
       "date": "2026-03-16",
+      "slug": "que-pueden-ensenar-los-drones-militares-a-los-coches--2",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Los coches autónomos se estancan en situaciones comunes para los conductores humanos, como zonas de construcción o peatones desobedientes. Para solventar esto, las empresas de coches autónomos utilizan supervisores humanos para intervenir…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches--2.md"
+    },
+    {
+      "title": "¿Qué pueden enseñar los drones militares a los coches autónomos?",
+      "category": "ia",
+      "date": "2026-03-16",
       "slug": "que-pueden-ensenar-los-drones-militares-a-los-coches-au",
       "tags": [
         "robotica",
@@ -111,6 +223,20 @@
       "preview": "Los coches autónomos tienen problemas con situaciones comunes para los conductores humanos. La supervisión remota de humanos puede ser la solución, pero la industria no ha aprendido de la experiencia militar.",
       "has_command": true,
       "file_path": "content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches-au.md"
+    },
+    {
+      "title": "Bcachefs 1.37: un sistema de archivos avanzado para Linux",
+      "category": "linux",
+      "date": "2026-03-16",
+      "slug": "bcachefs-137-un-sistema-de-archivos-avanzado-para-lin-2",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Bcachefs es un sistema de archivos de próxima generación para Linux que ofrece características innovadoras como codificación de erasure y recuperación automática de errores. La versión 1.37 de Bcachefs ha sido lanzada con soporte para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-16-bcachefs-137-un-sistema-de-archivos-avanzado-para-lin-2.md"
     },
     {
       "title": "Rewire: una herramienta para visualizar temas ROS 2 con cero dependencias",
@@ -167,6 +293,62 @@
       "file_path": "content/linux/2026-03-16-bcachefs-137-un-sistema-de-archivos-avanzado-para-linux.md"
     },
     {
+      "title": "Rewire: un puente para visualizar temas de ROS 2 sin dependencias",
+      "category": "linux",
+      "date": "2026-03-16",
+      "slug": "rewire-un-puente-para-visualizar-temas-de-ros-2-sin-dep",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Desarrolladores de ROS 2, ahora podéis visualizar temas de vuestros proyectos sin necesidad de instalar herramientas adicionales. Rewire es el nombre de este puente que os permite ver en tiempo real lo que está sucediendo en vuestros…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-16-rewire-un-puente-para-visualizar-temas-de-ros-2-sin-dep.md"
+    },
+    {
+      "title": "Mejoras en Linux 7.0 para mejorar la reproducibilidad de compilación y prepararse para cambios en Rust",
+      "category": "linux",
+      "date": "2026-03-16",
+      "slug": "mejoras-en-linux-70-para-mejorar-la-reproducibilidad-de",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.0 de Linux ha sido actualizada con mejoras para mejorar la reproducibilidad de compilación y prepararse para los cambios que se avecinan en Rust. Estas mejoras incluyen actualizaciones de la herramienta de compilación y la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-16-mejoras-en-linux-70-para-mejorar-la-reproducibilidad-de.md"
+    },
+    {
+      "title": "M5Stamp C6LoRa: módulo compacto para comunicaciones de largo alcance",
+      "category": "embebidos",
+      "date": "2026-03-16",
+      "slug": "m5stamp-c6lora-modulo-compacto-para-comunicaciones-de-l",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "M5Stack ha lanzado el M5Stamp C6LoRa, un módulo compacto que combina la tecnología LoRa con la conectividad Wi-Fi 6 y Bluetooth LE. Este módulo es ideal para aplicaciones que requieren comunicaciones de largo alcance y alta velocidad.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-16-m5stamp-c6lora-modulo-compacto-para-comunicaciones-de-l.md"
+    },
+    {
+      "title": "Escalas inteligentes con ESP32 y HX711: SparkFun OpenScale IoT",
+      "category": "embebidos",
+      "date": "2026-03-16",
+      "slug": "escalas-inteligentes-con-esp32-y-hx711-sparkfun-opensca",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "SparkFun ha lanzado el OpenScale IoT, un módulo de escala inteligente basado en ESP32 que permite leer datos de peso con precisión sin necesidad de código personalizado. Conectividad Wi-Fi y Bluetooth, este módulo es ideal para proyectos…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-16-escalas-inteligentes-con-esp32-y-hx711-sparkfun-opensca.md"
+    },
+    {
       "title": "Smart Escala IoT con ESP32 y HX711: lectura precisa de peso sin código adicional",
       "category": "embebidos",
       "date": "2026-03-16",
@@ -195,6 +377,20 @@
       "file_path": "content/embebidos/2026-03-16-m5stamp-c6lora-modulo-lora-compacto-para-iot-y-comunica.md"
     },
     {
+      "title": "Radar de radar abierto AERIS-10 puede rastrear objetos a 20km",
+      "category": "embebidos",
+      "date": "2026-03-16",
+      "slug": "radar-de-radar-abierto-aeris-10-puede-rastrear-objetos-",
+      "tags": [
+        "robotica",
+        "electronica",
+        "linux"
+      ],
+      "preview": "El proyecto AERIS-10 es un radar de radar abierto que puede rastrear múltiples objetos a una distancia de hasta 20km. Este sistema de radar es una innovación importante en el campo de la robótica y la tecnología de radar.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-16-radar-de-radar-abierto-aeris-10-puede-rastrear-objetos-.md"
+    },
+    {
       "title": "Radar de radar de código abierto detecta objetos a 20km de distancia",
       "category": "embebidos",
       "date": "2026-03-16",
@@ -207,6 +403,20 @@
       "preview": "El proyecto AERIS-10 es un radar de código abierto que utiliza tecnología de radar de alta frecuencia para detectar objetos a larga distancia. Este sistema es capaz de rastrear múltiples objetos y ofrece una gran flexibilidad en términos…",
       "has_command": true,
       "file_path": "content/embebidos/2026-03-16-radar-de-radar-de-codigo-abierto-detecta-objetos-a-20km.md"
+    },
+    {
+      "title": "PicoCPC: un módulo de expansión para ordenadores Amstrad CPC",
+      "category": "embebidos",
+      "date": "2026-03-16",
+      "slug": "picocpc-un-modulo-de-expansion-para-ordenadores-amstr-2",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Después de décadas de olvido, los ordenadores Amstrad CPC están experimentando un resurgimiento gracias a la creación de hardware y software personalizado. El PicoCPC es un ejemplo de esto, un módulo de expansión que agrega nuevas…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-16-picocpc-un-modulo-de-expansion-para-ordenadores-amstr-2.md"
     },
     {
       "title": "Reparar cierre de cremallera mediante impresión 3D sin desarmar",
