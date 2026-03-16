@@ -33,6 +33,13 @@ from bs4 import BeautifulSoup
 
 from utils import with_retries
 
+from datetime import datetime, timezone
+
+# Solo ejecutar los lunes (0 = lunes en Python)
+if datetime.now(timezone.utc).weekday() != 0:
+    print("No es lunes, saltando informes semanales.")
+    exit(0)
+
 # ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
 
 # BASE_DIR apunta a la raíz del repositorio (igual que main.py)
