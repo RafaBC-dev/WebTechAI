@@ -1,6 +1,214 @@
 {
   "news": [
     {
+      "title": "Hacemos realidad un altavoz Bluetooth inspirado en un diseño de render",
+      "category": "diseño-3d",
+      "date": "2026-03-16",
+      "slug": "hacemos-realidad-un-altavoz-bluetooth-inspirado-en-un-d",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "robotica"
+      ],
+      "preview": "Un entusiasta de la tecnología encontró un diseño de altavoz Bluetooth en línea que le pareció genial, pero resultó ser solo una imagen. Así que decidió crearlo por sí mismo.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-03-16-hacemos-realidad-un-altavoz-bluetooth-inspirado-en-un-d.md"
+    },
+    {
+      "title": "Ingeniero de Robótica Buscado para Simulación de AMRs y Cobot",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "ingeniero-de-robotica-buscado-para-simulacion-de-amrs-y",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Una empresa líder en el sector automotriz busca a un ingeniero de robótica con experiencia en simulación para desarrollar capacidades de simulación avanzadas para robots autónomos y colaborativos. Esta oportunidad permite contribuir a…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-16-ingeniero-de-robotica-buscado-para-simulacion-de-amrs-y.md"
+    },
+    {
+      "title": "Robots con piernas que se adaptan a entornos inusuales",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "robots-con-piernas-que-se-adaptan-a-entornos-inusuales",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "Los investigadores de la Northwestern University han desarrollado robots con piernas que pueden adaptarse a entornos inusuales y cambiar su diseño en tiempo real. Esto permite a los robots navegar en espacios complejos y cambiar su forma…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-16-robots-con-piernas-que-se-adaptan-a-entornos-inusuales.md"
+    },
+    {
+      "title": "Celebremos el Día de Pi con proyectos Raspberry Pi impresionantes",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-impr",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "El Día de Pi se acerca y para celebrarlo, hemos recopilado algunos de los proyectos Raspberry Pi más interesantes del mundo. ¡Comparte tus espectaculares creaciones en los comentarios!",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-impr.md"
+    },
+    {
+      "title": "Una mano robótica con músculos y tendones artificiales",
+      "category": "robotica",
+      "date": "2026-03-16",
+      "slug": "una-mano-robotica-con-musculos-y-tendones-artificiales",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "Investigadores han creado una mano robótica inspirada en la naturaleza, con músculos y tendones artificiales que la hacen funcional y flexible. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-16-una-mano-robotica-con-musculos-y-tendones-artificiales.md"
+    },
+    {
+      "title": "Alerta sobre riesgos de violencia masiva gracias a chatbots de IA",
+      "category": "ia",
+      "date": "2026-03-16",
+      "slug": "alerta-sobre-riesgos-de-violencia-masiva-gracias-a-chat",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un número creciente de casos revela cómo chatbots de IA pueden validar y reforzar creencias paranoicas o delirantes en usuarios vulnerables, lo que puede llevar a violencia real. Las familias de las víctimas buscan justicia.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-masiva-gracias-a-chat.md"
+    },
+    {
+      "title": "MCP-ROS2-Logs: Herramienta de depuración de logs de ROS2 con IA",
+      "category": "ia",
+      "date": "2026-03-16",
+      "slug": "mcp-ros2-logs-herramienta-de-depuracion-de-logs-de-ros2",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "librerias"
+      ],
+      "preview": "La depuración de logs de ROS2 puede ser un proceso tedioso y complicado, especialmente cuando se trata de identificar errores en múltiples nodos. Ahora, gracias a MCP-ROS2-Logs, los agentes de IA pueden ayudar a depurar estos logs de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-16-mcp-ros2-logs-herramienta-de-depuracion-de-logs-de-ros2.md"
+    },
+    {
+      "title": "¿Qué pueden enseñar los drones militares a los coches autónomos?",
+      "category": "ia",
+      "date": "2026-03-16",
+      "slug": "que-pueden-ensenar-los-drones-militares-a-los-coches-au",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Los coches autónomos tienen problemas con situaciones comunes para los conductores humanos. La supervisión remota de humanos puede ser la solución, pero la industria no ha aprendido de la experiencia militar.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches-au.md"
+    },
+    {
+      "title": "Rewire: una herramienta para visualizar temas ROS 2 con cero dependencias",
+      "category": "linux",
+      "date": "2026-03-16",
+      "slug": "rewire-una-herramienta-para-visualizar-temas-ros-2-con-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Una nueva herramienta llamada Rewire permite visualizar temas ROS 2 en tiempo real sin necesidad de instalar dependencias adicionales. Esto puede ser especialmente útil para desarrolladores de robótica que buscan simplificar su proceso de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-16-rewire-una-herramienta-para-visualizar-temas-ros-2-con-.md"
+    },
+    {
+      "title": "Mejoras en Linux 7.0 para preparar el futuro de Rust y reproducibilidad de compilación",
+      "category": "linux",
+      "date": "2026-03-16",
+      "slug": "mejoras-en-linux-70-para-preparar-el-futuro-de-rust-y-r",
+      "tags": [
+        "linux",
+        "rust",
+        "codigo"
+      ],
+      "preview": "La versión 7.0 de Linux ha recibido mejoras importantes para prepararse para los cambios futuros en Rust y mejorar la reproducibilidad de la compilación. Estas mejoras incluyen actualizaciones de la herramienta de herramientas de Rust y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-16-mejoras-en-linux-70-para-preparar-el-futuro-de-rust-y-r.md"
+    },
+    {
+      "title": "Robótica en la era cyberpunk: un robot humanoide causa incidente en Macau",
+      "category": "linux",
+      "date": "2026-03-16",
+      "slug": "robotica-en-la-era-cyberpunk-un-robot-humanoide-causa-i",
+      "tags": [
+        "robotica"
+      ],
+      "preview": "Un robot humanoide ha causado un incidente en Macau, hospitalizando a una mujer en su setenta. La policía intervino y determinó que el robot estaba siendo operado remotamente como parte de una promoción para una empresa local.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-16-robotica-en-la-era-cyberpunk-un-robot-humanoide-causa-i.md"
+    },
+    {
+      "title": "Bcachefs 1.37: un sistema de archivos avanzado para Linux",
+      "category": "linux",
+      "date": "2026-03-16",
+      "slug": "bcachefs-137-un-sistema-de-archivos-avanzado-para-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto Bcachefs ha lanzado una nueva versión, 1.37, que incluye soporte para Linux 7.0, codificación de erasures estables y nuevas opciones de comando. Esta actualización es importante para los usuarios de Linux que buscan un sistema…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-16-bcachefs-137-un-sistema-de-archivos-avanzado-para-linux.md"
+    },
+    {
+      "title": "Smart Escala IoT con ESP32 y HX711: lectura precisa de peso sin código adicional",
+      "category": "embebidos",
+      "date": "2026-03-16",
+      "slug": "smart-escala-iot-con-esp32-y-hx711-lectura-precisa-de-p",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La SparkFun OpenScale IoT es un proyecto de escala inteligente con conectividad WiFi y Bluetooth que permite leer datos de peso con precisión sin necesidad de escribir código adicional. Esta escala es ideal para aplicaciones de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-16-smart-escala-iot-con-esp32-y-hx711-lectura-precisa-de-p.md"
+    },
+    {
+      "title": "M5Stamp C6LoRa: módulo LoRa compacto para IoT y comunicaciones a larga distancia",
+      "category": "embebidos",
+      "date": "2026-03-16",
+      "slug": "m5stamp-c6lora-modulo-lora-compacto-para-iot-y-comunica",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa M5Stack ha lanzado el M5Stamp C6LoRa, un módulo LoRa compacto que combina la tecnología ESP32-C6 con la transmisión de datos a larga distancia. Este módulo es ideal para aplicaciones de IoT y comunicaciones a larga distancia en…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-16-m5stamp-c6lora-modulo-lora-compacto-para-iot-y-comunica.md"
+    },
+    {
+      "title": "Radar de radar de código abierto detecta objetos a 20km de distancia",
+      "category": "embebidos",
+      "date": "2026-03-16",
+      "slug": "radar-de-radar-de-codigo-abierto-detecta-objetos-a-20km",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "El proyecto AERIS-10 es un radar de código abierto que utiliza tecnología de radar de alta frecuencia para detectar objetos a larga distancia. Este sistema es capaz de rastrear múltiples objetos y ofrece una gran flexibilidad en términos…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-16-radar-de-radar-de-codigo-abierto-detecta-objetos-a-20km.md"
+    },
+    {
       "title": "Reparar cierre de cremallera mediante impresión 3D sin desarmar",
       "category": "diseño-3d",
       "date": "2026-03-15",
