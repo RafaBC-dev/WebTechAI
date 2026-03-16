@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IA Local — TechPulse ES</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Inter:wght@300;400;500&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <meta property="og:title" content="IA Local — TechPulse ES">
+  <meta property="og:description" content="Guía completa para correr IA en tu propio hardware sin APIs ni coste por token.">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="styles.css">
+
+  <style>
+    .ial-hero {
+      padding: 56px 0 40px;
+      border-bottom: 1px solid var(--border);
+    }
+    .ial-badge {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: .65rem;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--accent);
+      border: 1px solid rgba(6,182,212,.3);
+      background: rgba(6,182,212,.07);
+      padding: 4px 12px;
+      border-radius: var(--radius-sm);
+      margin-bottom: 20px;
+    }
+    .ial-intro {
+      margin-top: 16px;
+      color: var(--text-2);
+      font-size: .95rem;
+      line-height: 1.75;
+      max-width: 680px;
+    }
+    .ial-toc {
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 20px 24px;
+      margin: 40px 0;
+      max-width: 460px;
+    }
+    .ial-toc-title {
+      font-family: var(--font-mono);
+      font-size: .65rem;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      color: var(--text-3);
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    .ial-toc ol { margin: 0; padding-left: 18px; }
+    .ial-toc li { margin-bottom: 6px; }
+    .ial-toc a { font-size: .88rem; color: var(--text-2); text-decoration: none; transition: color var(--transition); }
+    .ial-toc a:hover { color: var(--accent); }
+    .ial-toc li ol { margin-top: 6px; }
+    .ial-toc li ol li { margin-bottom: 4px; }
+    .ial-toc li ol a { font-size: .82rem; color: var(--text-3); }
+    .ial-section {
+      padding-top: 48px;
+      border-top: 1px solid var(--border);
+      margin-top: 48px;
+    }
+    .ial-section-title {
+      font-family: var(--font-display);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .ial-section-sub {
+      color: var(--text-2);
+      font-size: .92rem;
+      line-height: 1.7;
+      margin-bottom: 32px;
+      max-width: 680px;
+    }
+    .tool-doc {
+      margin-bottom: 48px;
+      padding-bottom: 48px;
+      border-bottom: 1px solid var(--border);
+    }
+    .tool-doc:last-child { border-bottom: none; margin-bottom: 0; }
+    .tool-doc-header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 4px;
+    }
+    .tool-doc-name {
+      font-family: var(--font-display);
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--text);
+    }
+    .tool-doc-platforms { display: flex; gap: 5px; }
+    .pbadge {
+      font-family: var(--font-mono);
+      font-size: .58rem;
+      padding: 2px 7px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      color: var(--text-3);
+    }
+    .tool-doc-tagline {
+      font-size: .85rem;
+      color: var(--accent);
+      font-family: var(--font-mono);
+      margin-bottom: 14px;
+    }
+    .tool-doc-desc {
+      color: var(--text-2);
+      font-size: .92rem;
+      line-height: 1.75;
+      margin-bottom: 22px;
+      max-width: 720px;
+    }
+    .doc-block { margin-bottom: 18px; }
+    .doc-block-label {
+      font-family: var(--font-mono);
+      font-size: .65rem;
+      font-weight: 600;
+      color: var(--text-3);
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      margin-bottom: 7px;
+    }
+    .doc-block-body {
+      font-size: .9rem;
+      color: var(--text-2);
+      line-height: 1.75;
+    }
+    .doc-block-body ul { margin: 8px 0 0 18px; padding: 0; }
+    .doc-block-body li { margin-bottom: 5px; }
+    .doc-block-body strong { color: var(--text); font-weight: 500; }
+    code {
+      font-family: var(--font-mono);
+      font-size: .82em;
+      background: var(--bg-2);
+      border: 1px solid var(--border);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: var(--accent);
+    }
+    .code-block {
+      background: #0d1117;
+      border: 1px solid var(--border-2);
+      border-radius: var(--radius-sm);
+      padding: 14px 18px;
+      margin: 10px 0;
+      overflow-x: auto;
+    }
+    .code-block code {
+      background: none;
+      border: none;
+      padding: 0;
+      font-size: .84rem;
+      color: #e6edf3;
+      display: block;
+      line-height: 1.7;
+    }
+    .cc { color: #6e7681; }
+    .tool-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: var(--font-mono);
+      font-size: .78rem;
+      color: var(--text-2);
+      text-decoration: none;
+      border: 1px solid var(--border);
+      padding: 6px 14px;
+      border-radius: var(--radius-sm);
+      transition: all var(--transition);
+      margin-top: 4px;
+    }
+    .tool-link:hover { color: var(--accent); border-color: rgba(6,182,212,.4); }
+    .ial-note {
+      background: rgba(6,182,212,.05);
+      border: 1px solid rgba(6,182,212,.2);
+      border-left: 3px solid var(--accent);
+      border-radius: var(--radius-sm);
+      padding: 13px 17px;
+      font-size: .88rem;
+      color: var(--text-2);
+      line-height: 1.65;
+      margin: 14px 0;
+    }
+    .ial-note strong { color: var(--accent); }
+    .ial-warning {
+      background: rgba(251,191,36,.04);
+      border: 1px solid rgba(251,191,36,.2);
+      border-left: 3px solid #fbbf24;
+      border-radius: var(--radius-sm);
+      padding: 13px 17px;
+      font-size: .88rem;
+      color: var(--text-2);
+      line-height: 1.65;
+      margin: 14px 0;
+    }
+    /* TABLA */
+    .models-wrap {
+      overflow-x: auto;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin: 24px 0;
+    }
+    .models-table { width: 100%; border-collapse: collapse; font-size: .875rem; }
+    .models-table th {
+      font-family: var(--font-mono);
+      font-size: .62rem;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--text-3);
+      font-weight: 600;
+      padding: 11px 16px;
+      text-align: left;
+      background: var(--bg-2);
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    .models-table td {
+      padding: 11px 16px;
+      color: var(--text-2);
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    .models-table tr:last-child td { border-bottom: none; }
+    .models-table tr:hover td { background: rgba(255,255,255,.02); }
+    .mname { font-family: var(--font-mono); font-size: .84rem; color: var(--text); font-weight: 600; white-space: nowrap; }
+    .mdots { display: flex; gap: 3px; align-items: center; }
+    .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--border-2); }
+    .dot.on { background: var(--accent); }
+    .spd { font-family: var(--font-mono); font-size: .62rem; padding: 2px 8px; border-radius: var(--radius-sm); white-space: nowrap; }
+    .spd-a { color: #34d399; background: rgba(52,211,153,.08); border: 1px solid rgba(52,211,153,.2); }
+    .spd-m { color: #fbbf24; background: rgba(251,191,36,.08); border: 1px solid rgba(251,191,36,.2); }
+    .mrec { font-family: var(--font-mono); font-size: .62rem; color: var(--text-3); }
+    .highlight-row td { background: rgba(6,182,212,.03); }
+    .highlight-row .mname { color: var(--accent); }
+    /* FLUJOS */
+    .workflow-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      margin-bottom: 16px;
+    }
+    .workflow-title {
+      font-family: var(--font-display);
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .workflow-tag {
+      font-family: var(--font-mono);
+      font-size: .6rem;
+      color: var(--text-3);
+      border: 1px solid var(--border);
+      padding: 2px 8px;
+      border-radius: var(--radius-sm);
+    }
+    .workflow-desc {
+      font-size: .88rem;
+      color: var(--text-2);
+      line-height: 1.7;
+      margin-bottom: 16px;
+    }
+    .workflow-steps { display: flex; flex-direction: column; gap: 10px; }
+    .workflow-step { display: flex; gap: 12px; align-items: flex-start; font-size: .87rem; color: var(--text-2); line-height: 1.6; }
+    .step-num {
+      font-family: var(--font-mono);
+      font-size: .68rem;
+      color: var(--accent);
+      background: rgba(6,182,212,.1);
+      border: 1px solid rgba(6,182,212,.2);
+      border-radius: 50%;
+      width: 22px; height: 22px;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+  </style>
+</head>
+
+<body class="doc-layout">
+
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
+
+  <aside class="sidebar" id="sidebar" aria-label="Menú de navegación">
+    <div class="sidebar-header">
+      <a href="index.html" class="logo">
+        <span class="logo-mark">⬡</span>
+        <span class="logo-text">TechPulse<em>ES</em></span>
+      </a>
+      <span class="sidebar-title">Navegación</span>
+      <button class="sidebar-close icon-btn" id="sidebar-close" aria-label="Cerrar menú">✕</button>
+    </div>
+    <nav class="sidebar-nav">
+      <div class="nav-section-label">General</div>
+      <a href="index.html" class="sidebar-item">Todas las noticias</a>
+      <div class="nav-section-label">IA</div>
+      <a href="llms.html" class="sidebar-item">LLMs</a>
+      <a href="index.html?tag=agentes" class="sidebar-item">Agentes</a>
+      <a href="ia-local.html" class="sidebar-item active">IA Local</a>
+      <a href="index.html?tag=benchmarks" class="sidebar-item">Benchmarks</a>
+      <div class="nav-section-label">Microcontroladores</div>
+      <a href="index.html?tag=esp32" class="sidebar-item">ESP32</a>
+      <a href="index.html?tag=arduino" class="sidebar-item">Arduino</a>
+      <a href="index.html?tag=raspberry-pi" class="sidebar-item">Raspberry Pi</a>
+      <div class="nav-section-label">Software Dev</div>
+      <a href="python.html" class="sidebar-item">Python</a>
+      <a href="index.html?tag=devtools" class="sidebar-item">DevTools</a>
+      <div class="sidebar-divider"></div>
+      <a class="sidebar-item" href="about.html">
+        <span class="sidebar-icon">ℹ️</span>
+        <span>Sobre el proyecto</span>
+      </a>
+    </nav>
+  </aside>
+
+  <div class="page-wrapper">
+
+    <header class="site-header">
+      <div class="container header-inner">
+        <button class="icon-btn" id="sidebar-toggle" aria-label="Menú">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+          </svg>
+        </button>
+        <a href="index.html" class="logo">
+          <span class="logo-mark">⬡</span>
+          <span class="logo-text">TechPulse<em>ES</em></span>
+        </a>
+        <nav class="header-nav">
+          <a href="index.html" class="nav-link">Todas</a>
+          <a href="ia-local.html" class="nav-link active">IA Local</a>
+        </nav>
+        <div class="header-actions">
+          <button class="icon-btn" id="theme-toggle" aria-label="Cambiar tema">
+            <svg class="icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="5"/>
+              <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+            </svg>
+            <svg class="icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <section class="ial-hero">
+      <div class="container">
+        <div class="ial-badge">Guía de referencia</div>
+        <p class="hero-label">IA</p>
+        <h1 class="hero-title">IA Local<br><em>Corre IA en tu hardware</em></h1>
+        <p class="ial-intro">Sin APIs externas, sin coste por token, sin límites de privacidad. Esta guía cubre las herramientas principales para ejecutar LLMs localmente, qué modelos elegir según tu hardware y cómo integrarlos en tu flujo de trabajo.</p>
+      </div>
+    </section>
+
+    <main class="container main-content">
+
+      <div class="ial-toc">
+        <div class="ial-toc-title">Contenido</div>
+        <ol>
+          <li><a href="#herramientas">Herramientas</a>
+            <ol>
+              <li><a href="#ollama">Ollama</a></li>
+              <li><a href="#lmstudio">LM Studio</a></li>
+              <li><a href="#jan">Jan</a></li>
+              <li><a href="#gpt4all">GPT4All</a></li>
+              <li><a href="#llamafile">Llamafile</a></li>
+            </ol>
+          </li>
+          <li><a href="#modelos">Modelos recomendados</a></li>
+          <li><a href="#flujos">Flujos de trabajo</a></li>
+        </ol>
+      </div>
+
+      <!-- HERRAMIENTAS -->
+      <div class="ial-section" id="herramientas">
+        <div class="ial-section-title">1. Herramientas</div>
+        <div class="ial-section-sub">Las cinco opciones principales para ejecutar LLMs localmente. Todas son gratuitas y funcionan en Windows, macOS y Linux.</div>
+
+        <!-- OLLAMA -->
+        <div class="tool-doc" id="ollama">
+          <div class="tool-doc-header">
+            <div class="tool-doc-name">Ollama</div>
+            <div class="tool-doc-platforms">
+              <span class="pbadge">Windows</span><span class="pbadge">macOS</span><span class="pbadge">Linux</span>
+            </div>
+          </div>
+          <div class="tool-doc-tagline">La opción más popular para desarrolladores</div>
+          <div class="tool-doc-desc">Herramienta de línea de comandos que gestiona la descarga, instalación y ejecución de modelos LLM. Expone una API REST compatible con OpenAI, lo que permite conectarlo con cualquier cliente sin cambios.</div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Instalación</div>
+            <div class="doc-block-body">
+              Descarga desde <a href="https://ollama.com" target="_blank" style="color:var(--accent)">ollama.com</a>. En Linux:
+              <div class="code-block"><code>curl -fsSL https://ollama.com/install.sh | sh</code></div>
+              Descarga y ejecuta un modelo en un solo comando:
+              <div class="code-block"><code><span class="cc"># Descarga y ejecuta Qwen3 9B</span>
+ollama run qwen3:9b
+
+<span class="cc"># Para hardware modesto</span>
+ollama run llama3.2:3b</code></div>
+            </div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">API local</div>
+            <div class="doc-block-body">
+              Disponible en <code>http://localhost:11434</code>, compatible con OpenAI. Úsala desde Python, Aider, Continue u Open WebUI:
+              <div class="code-block"><code><span class="cc"># Listar modelos</span>
+ollama list
+
+<span class="cc"># Ver modelos en ejecución</span>
+ollama ps
+
+<span class="cc"># Eliminar modelo</span>
+ollama rm nombre-modelo</code></div>
+            </div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Ventajas</div>
+            <div class="doc-block-body"><ul>
+              <li>Catálogo enorme: Llama, Qwen, Mistral, Gemma, DeepSeek, Phi...</li>
+              <li>API compatible con OpenAI — funciona con Aider, Continue y Open WebUI sin configuración extra</li>
+              <li>Gestión automática de VRAM/RAM si el modelo no cabe en GPU</li>
+              <li>Mantiene el modelo en memoria entre llamadas</li>
+            </ul></div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Limitaciones</div>
+            <div class="doc-block-body">Sin interfaz gráfica nativa. Para chatear visualmente necesitas Open WebUI u otro frontend.</div>
+          </div>
+
+          <a href="https://ollama.com" target="_blank" class="tool-link">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            ollama.com
+          </a>
+        </div>
+
+        <!-- LM STUDIO -->
+        <div class="tool-doc" id="lmstudio">
+          <div class="tool-doc-header">
+            <div class="tool-doc-name">LM Studio</div>
+            <div class="tool-doc-platforms">
+              <span class="pbadge">Windows</span><span class="pbadge">macOS</span><span class="pbadge">Linux</span>
+            </div>
+          </div>
+          <div class="tool-doc-tagline">Interfaz gráfica completa — la más amigable</div>
+          <div class="tool-doc-desc">Aplicación de escritorio para buscar, descargar y ejecutar modelos desde Hugging Face con una interfaz de chat integrada. Ideal para usuarios que prefieren no usar la terminal.</div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Instalación</div>
+            <div class="doc-block-body">Descarga el instalador desde <a href="https://lmstudio.ai" target="_blank" style="color:var(--accent)">lmstudio.ai</a> y ejecuta. Sin línea de comandos. Busca modelos por nombre directamente desde la app.</div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Servidor local</div>
+            <div class="doc-block-body">
+              Activa el servidor desde la pestaña "Local Server". Queda disponible en <code>http://localhost:1234</code>, compatible con OpenAI. Conéctalo a las mismas herramientas que usarías con Ollama.
+            </div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Ventajas</div>
+            <div class="doc-block-body"><ul>
+              <li>Búsqueda integrada en Hugging Face con miles de modelos GGUF</li>
+              <li>Indicadores de VRAM en tiempo real al seleccionar modelo</li>
+              <li>Interfaz de chat sin configuración</li>
+            </ul></div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Limitaciones</div>
+            <div class="doc-block-body">Gratuito solo para uso no comercial. Más pesado en recursos que Ollama.</div>
+          </div>
+
+          <a href="https://lmstudio.ai" target="_blank" class="tool-link">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            lmstudio.ai
+          </a>
+        </div>
+
+        <!-- JAN -->
+        <div class="tool-doc" id="jan">
+          <div class="tool-doc-header">
+            <div class="tool-doc-name">Jan</div>
+            <div class="tool-doc-platforms">
+              <span class="pbadge">Windows</span><span class="pbadge">macOS</span><span class="pbadge">Linux</span>
+            </div>
+          </div>
+          <div class="tool-doc-tagline">Alternativa open source a LM Studio — licencia MIT</div>
+          <div class="tool-doc-desc">Aplicación de escritorio 100% open source. Todo el código es auditable, los datos no salen de tu máquina y no hay restricciones de uso comercial.</div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Instalación</div>
+            <div class="doc-block-body">Descarga desde <a href="https://jan.ai" target="_blank" style="color:var(--accent)">jan.ai</a>. API local en <code>http://localhost:1337</code>, compatible con OpenAI.</div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Ventajas</div>
+            <div class="doc-block-body"><ul>
+              <li>100% open source (MIT) — uso comercial libre</li>
+              <li>Sistema de extensiones</li>
+              <li>Sin telemetría — datos completamente locales</li>
+            </ul></div>
+          </div>
+
+          <a href="https://jan.ai" target="_blank" class="tool-link">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            jan.ai
+          </a>
+        </div>
+
+        <!-- GPT4ALL -->
+        <div class="tool-doc" id="gpt4all">
+          <div class="tool-doc-header">
+            <div class="tool-doc-name">GPT4All</div>
+            <div class="tool-doc-platforms">
+              <span class="pbadge">Windows</span><span class="pbadge">macOS</span><span class="pbadge">Linux</span>
+            </div>
+          </div>
+          <div class="tool-doc-tagline">La mejor opción si no tienes GPU dedicada</div>
+          <div class="tool-doc-desc">Optimizado para correr en CPU. Incluye LocalDocs para chatear con tus propios documentos PDF y archivos de texto usando RAG, sin configuración adicional.</div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Instalación</div>
+            <div class="doc-block-body">Descarga desde <a href="https://gpt4all.io" target="_blank" style="color:var(--accent)">gpt4all.io</a>. Instalación como cualquier aplicación de escritorio.</div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">LocalDocs — Chat con tus documentos</div>
+            <div class="doc-block-body">
+              Ve a LocalDocs, crea una colección apuntando a tu carpeta. GPT4All indexa los archivos y usa RAG para responder preguntas sobre su contenido.
+              <div class="ial-note"><strong>Caso de uso:</strong> documentación de un proyecto, manuales técnicos o código fuente — pregúntale directamente sin copiar y pegar.</div>
+            </div>
+          </div>
+
+          <a href="https://gpt4all.io" target="_blank" class="tool-link">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            gpt4all.io
+          </a>
+        </div>
+
+        <!-- LLAMAFILE -->
+        <div class="tool-doc" id="llamafile">
+          <div class="tool-doc-header">
+            <div class="tool-doc-name">Llamafile</div>
+            <div class="tool-doc-platforms">
+              <span class="pbadge">Windows</span><span class="pbadge">macOS</span><span class="pbadge">Linux</span>
+            </div>
+          </div>
+          <div class="tool-doc-tagline">Un archivo, cero dependencias, máxima portabilidad</div>
+          <div class="tool-doc-desc">Proyecto de Mozilla que empaqueta el modelo y el runtime completo en un único binario ejecutable. Sin instalar nada — copia el archivo a cualquier máquina y funciona.</div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Uso</div>
+            <div class="doc-block-body">
+              Descarga el <code>.llamafile</code> desde <a href="https://github.com/Mozilla-Ocho/llamafile/releases" target="_blank" style="color:var(--accent)">GitHub Releases</a>:
+              <div class="code-block"><code><span class="cc"># Linux / macOS</span>
+chmod +x mistral-7b.llamafile
+./mistral-7b.llamafile
+
+<span class="cc"># Windows: renombra a .exe y ejecuta</span></code></div>
+              Al ejecutarlo abre automáticamente una interfaz web en <code>localhost:8080</code>.
+            </div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Ventajas</div>
+            <div class="doc-block-body"><ul>
+              <li>Cero dependencias — todo en un solo archivo</li>
+              <li>Portabilidad total entre sistemas operativos</li>
+              <li>Ideal para entornos sin internet o air-gap</li>
+            </ul></div>
+          </div>
+
+          <div class="doc-block">
+            <div class="doc-block-label">Limitaciones</div>
+            <div class="doc-block-body">Archivos muy grandes (incluyen el modelo). Menos modelos disponibles que en GGUF. Actualizaciones manuales.</div>
+          </div>
+
+          <a href="https://github.com/Mozilla-Ocho/llamafile" target="_blank" class="tool-link">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            GitHub — Mozilla-Ocho/llamafile
+          </a>
+        </div>
+      </div>
+
+      <!-- MODELOS -->
+      <div class="ial-section" id="modelos">
+        <div class="ial-section-title">2. Modelos recomendados</div>
+        <div class="ial-section-sub">Qué modelo elegir según tu hardware. El factor limitante suele ser la VRAM de tu GPU.</div>
+
+        <div class="ial-note">
+          <strong>Referencia:</strong> Una RTX 4060 con 8 GB VRAM corre modelos de hasta ~8B cómodamente. Para 14B necesitas RTX 4070 o superior. Sin GPU dedicada, usa modelos de 3-4B.
+        </div>
+
+        <div class="models-wrap">
+          <table class="models-table">
+            <thead>
+              <tr>
+                <th>Modelo</th><th>VRAM mín.</th><th>RAM mín.</th><th>Calidad</th><th>Velocidad</th><th>Mejor para</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><div class="mname">Llama 3.2 3B</div></td>
+                <td>2 GB</td><td>4 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot"></div><div class="dot"></div><div class="dot"></div></div></td>
+                <td><span class="spd spd-a">Muy rápida</span></td>
+                <td><div class="mrec">Hardware modesto · Respuestas rápidas</div></td>
+              </tr>
+              <tr>
+                <td><div class="mname">Phi-3 Mini 3.8B</div></td>
+                <td>2.5 GB</td><td>4 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot"></div><div class="dot"></div></div></td>
+                <td><span class="spd spd-a">Muy rápida</span></td>
+                <td><div class="mrec">Razonamiento · Código sencillo</div></td>
+              </tr>
+              <tr>
+                <td><div class="mname">Mistral 7B</div></td>
+                <td>4.5 GB</td><td>8 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot"></div></div></td>
+                <td><span class="spd spd-a">Rápida</span></td>
+                <td><div class="mrec">Uso general · Texto · Código</div></td>
+              </tr>
+              <tr class="highlight-row">
+                <td><div class="mname">Qwen2.5 7B</div></td>
+                <td>5 GB</td><td>8 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot"></div></div></td>
+                <td><span class="spd spd-a">Rápida</span></td>
+                <td><div class="mrec">Código · Multilingüe · RTX 4060</div></td>
+              </tr>
+              <tr>
+                <td><div class="mname">Gemma 2 9B</div></td>
+                <td>6 GB</td><td>10 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot"></div></div></td>
+                <td><span class="spd spd-m">Media</span></td>
+                <td><div class="mrec">Razonamiento · Análisis de texto</div></td>
+              </tr>
+              <tr class="highlight-row">
+                <td><div class="mname">Qwen3 9B</div></td>
+                <td>6 GB</td><td>10 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div></div></td>
+                <td><span class="spd spd-m">Media</span></td>
+                <td><div class="mrec">Thinking mode · Código avanzado · RTX 4060</div></td>
+              </tr>
+              <tr>
+                <td><div class="mname">DeepSeek-R1 8B</div></td>
+                <td>6 GB</td><td>10 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div></div></td>
+                <td><span class="spd spd-m">Media</span></td>
+                <td><div class="mrec">Razonamiento complejo · Matemáticas</div></td>
+              </tr>
+              <tr>
+                <td><div class="mname">Qwen2.5 14B</div></td>
+                <td>10 GB</td><td>16 GB</td>
+                <td><div class="mdots"><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div><div class="dot on"></div></div></td>
+                <td><span class="spd spd-m">Media</span></td>
+                <td><div class="mrec">Máxima calidad local · RTX 4070+</div></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="ial-warning">
+          Los modelos con thinking mode (Qwen3, DeepSeek-R1) son más lentos pero mejores en razonamiento. Para tareas rutinarias desactívalo con <code>/no_think</code> en Aider.
+        </div>
+      </div>
+
+      <!-- FLUJOS -->
+      <div class="ial-section" id="flujos">
+        <div class="ial-section-title">3. Flujos de trabajo</div>
+        <div class="ial-section-sub">Cómo combinar las herramientas locales con tu entorno de desarrollo.</div>
+
+        <div class="workflow-card">
+          <div class="workflow-title">
+            Asistente de código en VSCode
+            <span class="workflow-tag">Continue + Ollama</span>
+          </div>
+          <div class="workflow-desc">Autocompletado y chat dentro del editor conectado a Ollama. Sin coste ni límites de peticiones.</div>
+          <div class="workflow-steps">
+            <div class="workflow-step"><div class="step-num">1</div><div>Instala Ollama y descarga el modelo: <code>ollama pull qwen3:9b</code></div></div>
+            <div class="workflow-step"><div class="step-num">2</div><div>Instala la extensión <strong>Continue</strong> en VSCode desde el marketplace.</div></div>
+            <div class="workflow-step"><div class="step-num">3</div><div>En la configuración de Continue añade proveedor Ollama, model <code>qwen3:9b</code> y base URL <code>http://localhost:11434</code>.</div></div>
+            <div class="workflow-step"><div class="step-num">4</div><div>Usa <code>Ctrl+I</code> para inline chat y <code>Ctrl+L</code> para el panel lateral. Selecciona código y pregúntale directamente.</div></div>
+          </div>
+        </div>
+
+        <div class="workflow-card">
+          <div class="workflow-title">
+            Agente de código con Aider
+            <span class="workflow-tag">Aider + Ollama</span>
+          </div>
+          <div class="workflow-desc">Aider edita archivos directamente desde terminal. Conectado a Ollama tienes un flujo de desarrollo completamente local.</div>
+          <div class="workflow-steps">
+            <div class="workflow-step"><div class="step-num">1</div><div>Instala Aider: <code>pip install aider-chat</code></div></div>
+            <div class="workflow-step"><div class="step-num">2</div><div>Asegúrate de que Ollama está corriendo con el modelo.</div></div>
+            <div class="workflow-step">
+              <div class="step-num">3</div>
+              <div>Lanza con el modelo local:
+                <div class="code-block"><code>aider --model ollama/qwen3:9b archivo.py</code></div>
+              </div>
+            </div>
+            <div class="workflow-step"><div class="step-num">4</div><div>Para tareas de razonamiento sin prisa usa <code>ollama/qwen3:27b</code>. Para tareas rápidas el 9B es suficiente.</div></div>
+          </div>
+          <div class="ial-note" style="margin-top:16px"><strong>Tip:</strong> Añade <code>/no_think</code> al inicio del mensaje en Aider para desactivar el thinking mode en tareas simples.</div>
+        </div>
+
+        <div class="workflow-card">
+          <div class="workflow-title">
+            Chat con documentos propios
+            <span class="workflow-tag">GPT4All LocalDocs</span>
+          </div>
+          <div class="workflow-desc">Consulta documentación técnica, manuales o código de un proyecto sin conexión a internet.</div>
+          <div class="workflow-steps">
+            <div class="workflow-step"><div class="step-num">1</div><div>Instala GPT4All y descarga un modelo (Mistral 7B funciona bien para RAG).</div></div>
+            <div class="workflow-step"><div class="step-num">2</div><div>Ve a <strong>LocalDocs</strong> y crea una colección apuntando a tu carpeta de documentos.</div></div>
+            <div class="workflow-step"><div class="step-num">3</div><div>En el chat activa la colección y haz preguntas sobre el contenido indexado.</div></div>
+          </div>
+        </div>
+
+        <div class="workflow-card">
+          <div class="workflow-title">
+            Interfaz web para Ollama
+            <span class="workflow-tag">Open WebUI + Ollama</span>
+          </div>
+          <div class="workflow-desc">Interfaz visual tipo ChatGPT para Ollama. La opción más completa para chatear con modelos locales.</div>
+          <div class="workflow-steps">
+            <div class="workflow-step">
+              <div class="step-num">1</div>
+              <div>Con Docker:
+                <div class="code-block"><code>docker run -d -p 3000:8080 \
+  --add-host=host.docker.internal:host-gateway \
+  -v open-webui:/app/backend/data \
+  ghcr.io/open-webui/open-webui:main</code></div>
+              </div>
+            </div>
+            <div class="workflow-step"><div class="step-num">2</div><div>Abre <code>http://localhost:3000</code>. Detecta Ollama automáticamente y muestra todos tus modelos.</div></div>
+            <div class="workflow-step"><div class="step-num">3</div><div>Desde Open WebUI puedes gestionar conversaciones, subir archivos y comparar modelos en paralelo.</div></div>
+          </div>
+        </div>
+
+      </div>
+
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <span class="logo-text small">TechPulse<em>ES</em></span>
+        <p>Resúmenes generados por IA · Contenido original en las fuentes enlazadas · Hecho por <a href="https://github.com/RafaBC-dev" target="_blank" style="color:var(--accent)">RafaBC-dev</a></p>
+      </div>
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+
+</body>
+</html>
