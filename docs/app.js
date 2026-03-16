@@ -852,11 +852,17 @@ function initIndexPage() {
     const urlParams = new URLSearchParams(location.search);
     const urlTag = urlParams.get('tag');
     if (urlTag) {
-      if (typeof window.showReportByTag === 'function') {
+      // Solo los tags con informe propio usan showReportByTag
+      const TAGS_CON_INFORME = { 'benchmarks': true, 'agentes': true, 'esp32': true };
+      if (typeof window.showReportByTag === 'function' && TAGS_CON_INFORME[urlTag]) {
         window.showReportByTag(urlTag);
       } else {
         activeTag = urlTag;
         filterAndRender();
+        // Marcar ítem activo en el sidebar
+        document.querySelectorAll('.sidebar-item').forEach(a => a.classList.remove('active'));
+        const match = document.querySelector(`.sidebar-item[href*="tag=${urlTag}"]`);
+        if (match) match.classList.add('active');
       }
     }
   });
