@@ -517,7 +517,17 @@ isDetailPage ? initDetailPage() : initIndexPage();
    PÁGINA DE INICIO (index.html)
    Muestra la cuadrícula de tarjetas con filtros, búsqueda y paginación.
    ══════════════════════════════════════════════════════════════════════════════ */
-function initIndexPage() {
+
+   // Estado de la interfaz: todos los datos y qué filtros están activos
+ function initIndexPage() {
+  // Estado de la interfaz
+  let allNews = [];
+  let activeCategory = 'Todas';
+  let activeTag = '';
+  let searchQuery = '';
+  let visibleCount = 24;
+  const PAGE_SIZE = 24;
+
   // Restaurar posición de scroll al volver de un artículo
   const savedPos = sessionStorage.getItem('scrollPos');
   const savedCount = sessionStorage.getItem('visibleCount');
@@ -531,13 +541,6 @@ function initIndexPage() {
       sessionStorage.removeItem('scrollPos');
     }, 300);
   }
-  // Estado de la interfaz: todos los datos y qué filtros están activos
-  let allNews = [];             // array completo de artículos del index.json
-  let activeCategory = 'Todas'; // categoría seleccionada en el filtro
-  let activeTag = '';           // tag de subfiltro del sidebar ('' = sin filtro de tag)
-  let searchQuery = '';         // texto que el usuario ha escrito en el buscador
-  let visibleCount = 24;        // cuántas tarjetas mostramos actualmente
-  const PAGE_SIZE = 24;         // cuántas tarjetas cargar por cada "Ver más"
 
   // Referencias a los elementos del buscador (pueden no existir en algunas páginas)
   const searchToggle = document.getElementById('search-toggle');
