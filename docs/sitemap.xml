@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-16</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-de-.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-nuevos-robots-modulares-para-explorar-entornos-inexplor.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-una-mano-robotica-con-musculos-artificiales-y-tendone-2.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-celebra-el-dia-de-pi-con-proyectos-innovadores-de-raspb.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-picsart-lanza-marketplace-de-agentes-ai-para-ayudar-a-c.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-un-libro-de-texto-sobre-sistemas-de-aprendizaje-automat.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-que-pueden-ensenar-los-drones-militares-a-los-coches--4.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-galeria-visual-de-llm-una-referencia-para-entender-la-e.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-17-ros-pmc-actualizaciones-y-discusiones-sobre-la-platafor.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-17-canonical-integra-doca-ofed-de-nvidia-en-ubuntu-para-hp.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-picocpc-una-tarjeta-de-expansion-para-ordenadores-ams-2.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-nueva-mini-pc-fanless-con-raspberry-pi-cm5-y-25gbe.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-procesador-ternario-alcanza-la-computacion-no-binaria-c.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-flipper-zero-esp32-c5-una-placa-de-expansion-con-wi-fi-.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-raspberry-pi-nuevos-productos-y-tecnologias-para-la-edu.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-un-altavoz-bluetooth-personalizado-que-combina-diseno-y.md</loc><lastmod>2026-03-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-hacemos-realidad-un-altavoz-bluetooth-inspirado-en-un-d.md</loc><lastmod>2026-03-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-recrea-un-altavoz-bluetooth-con-diseno-impresionante.md</loc><lastmod>2026-03-16</lastmod><priority>0.8</priority></url>

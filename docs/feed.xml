@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Mar 2026 09:14:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Mar 2026 07:47:57 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Gazebo PMC: Actualizaciones y cambios en el proyecto de simulación robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-de-.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de Gazebo se reunió el 16 de marzo de 2026 para discutir los últimos cambios y actualizaciones en el proyecto de simulación robótica. Se abordaron temas como la eliminación de la dependencia de freeimage, la transición de…</description>
+  </item>
+  <item>
+    <title>Nuevos robots modulares para explorar entornos inexplorados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-nuevos-robots-modulares-para-explorar-entornos-inexplor.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-nuevos-robots-modulares-para-explorar-entornos-inexplor.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La Northwestern University ha presentado un nuevo tipo de robots modulares que pueden ser diseñados y ensamblados automáticamente para explorar entornos inexplorados. Estos robots pueden adaptarse a diferentes situaciones y entornos, lo…</description>
+  </item>
+  <item>
+    <title>Una mano robótica con músculos artificiales y tendones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-una-mano-robotica-con-musculos-artificiales-y-tendone-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-una-mano-robotica-con-musculos-artificiales-y-tendone-2.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La investigación en robótica ha dado un paso importante con la creación de una mano robótica que imita la estructura y la función de la mano humana. Esta innovación podría tener aplicaciones en la industria, la medicina y la exploración…</description>
+  </item>
+  <item>
+    <title>Celebra el Día de Pi con proyectos innovadores de Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-celebra-el-dia-de-pi-con-proyectos-innovadores-de-raspb.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-celebra-el-dia-de-pi-con-proyectos-innovadores-de-raspb.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El Día de Pi es una celebración anual que honra la constante matemática pi. Esta vez, Raspberry Pi comparte algunos de los proyectos más interesantes y creativos que han utilizado su hardware.</description>
+  </item>
+  <item>
+    <title>Picsart lanza marketplace de agentes AI para ayudar a creadores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-picsart-lanza-marketplace-de-agentes-ai-para-ayudar-a-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-picsart-lanza-marketplace-de-agentes-ai-para-ayudar-a-c.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Picsart, una plataforma de diseño AI, lanza un marketplace de agentes AI que permitirá a creadores 'contratar' asistentes virtuales para tareas específicas, como editar imágenes o videos para redes sociales.</description>
+  </item>
+  <item>
+    <title>Un libro de texto sobre sistemas de aprendizaje automático, leído por una IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-un-libro-de-texto-sobre-sistemas-de-aprendizaje-automat.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-un-libro-de-texto-sobre-sistemas-de-aprendizaje-automat.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Una IA ha leído un libro de texto de 2.020 páginas sobre sistemas de aprendizaje automático y ha reportado sus hallazgos. ¿Qué descubrió y qué significa esto para el futuro de la IA?</description>
+  </item>
+  <item>
+    <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-que-pueden-ensenar-los-drones-militares-a-los-coches--4.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-que-pueden-ensenar-los-drones-militares-a-los-coches--4.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los coches autónomos tienen dificultades con situaciones comunes para los conductores humanos. La supervisión remota es una solución que se ha utilizado en drones militares desde la década de 1980.</description>
+  </item>
+  <item>
+    <title>Galería visual de LLM: una referencia para entender la evolución de los modelos de lenguaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-galeria-visual-de-llm-una-referencia-para-entender-la-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-17-galeria-visual-de-llm-una-referencia-para-entender-la-e.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Sebastian Raschka ha lanzado la LLM Architecture Gallery, una visualización detallada de los principales modelos de lenguaje desde GPT-2 hasta la actualidad. Esta herramienta es fundamental para entender la evolución de la tecnología…</description>
+  </item>
+  <item>
+    <title>ROS PMC: Actualizaciones y discusiones sobre la plataforma de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-17-ros-pmc-actualizaciones-y-discusiones-sobre-la-platafor.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-17-ros-pmc-actualizaciones-y-discusiones-sobre-la-platafor.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La reunión de la ROS PMC (Plataforma de Mantenimiento de ROS) se celebró el 10 de marzo de 2026, donde se trataron varios temas importantes relacionados con la plataforma de robótica ROS (Robot Operating System). Se discutieron…</description>
+  </item>
+  <item>
+    <title>Canonical integra DOCA-OFED de NVIDIA en Ubuntu para HPC y IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-17-canonical-integra-doca-ofed-de-nvidia-en-ubuntu-para-hp.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-17-canonical-integra-doca-ofed-de-nvidia-en-ubuntu-para-hp.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Canonical, el proveedor de Ubuntu, ha anunciado que integrará el framework de software DOCA-OFED de NVIDIA en la distribución Linux para mejorar la experiencia de despliegue en entornos de alto rendimiento y IA.</description>
+  </item>
+  <item>
+    <title>PicoCPC: una tarjeta de expansión para ordenadores Amstrad CPC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-picocpc-una-tarjeta-de-expansion-para-ordenadores-ams-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-picocpc-una-tarjeta-de-expansion-para-ordenadores-ams-2.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Después de décadas de olvido, los ordenadores Amstrad CPC están experimentando un renacimiento gracias a la creación de hardware y software personalizado. La comunidad de entusiastas ha desarrollado una serie de proyectos para mejorar las…</description>
+  </item>
+  <item>
+    <title>Nueva mini PC fanless con Raspberry Pi CM5 y 2,5GbE</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-nueva-mini-pc-fanless-con-raspberry-pi-cm5-y-25gbe.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-nueva-mini-pc-fanless-con-raspberry-pi-cm5-y-25gbe.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Waveshare ha lanzado una nueva mini PC fanless que utiliza el SoC Raspberry Pi CM5 y ofrece una conexión de 2,5GbE, HDMI 2.0 y dos puertos USB.</description>
+  </item>
+  <item>
+    <title>Procesador ternario alcanza la computación no binaria con FPGA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-procesador-ternario-alcanza-la-computacion-no-binaria-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-procesador-ternario-alcanza-la-computacion-no-binaria-c.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un equipo de investigadores ha creado un procesador ternario que utiliza trits con tres estados en lugar de bits con dos. Esto podría mejorar la densidad de información y reducir el consumo de energía en los dispositivos electrónicos.</description>
+  </item>
+  <item>
+    <title>Flipper Zero ESP32-C5: una placa de expansión con Wi-Fi 6 y GPS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-flipper-zero-esp32-c5-una-placa-de-expansion-con-wi-fi-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-flipper-zero-esp32-c5-una-placa-de-expansion-con-wi-fi-.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Rabbit-Labs ha lanzado una nueva placa de expansión para el Flipper Zero, una herramienta de seguridad y análisis de red. Esta placa, llamada ESP32-C5, cuenta con Wi-Fi 6, GPS y otros componentes para ofrecer una mayor funcionalidad a la…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi: Nuevos productos y tecnologías para la educación y la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-raspberry-pi-nuevos-productos-y-tecnologias-para-la-edu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-17-raspberry-pi-nuevos-productos-y-tecnologias-para-la-edu.md</guid>
+    <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Raspberry Pi ha lanzado nuevos productos y tecnologías que buscan fomentar la educación y la robótica. Entre ellos se encuentran un sintetizador educativo, un robot ágil y una herramienta de visión artificial. Estos productos…</description>
+  </item>
   <item>
     <title>Un altavoz Bluetooth personalizado que combina diseño y tecnología</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-un-altavoz-bluetooth-personalizado-que-combina-diseno-y.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>Investigadores han creado una mano robótica inspirada en la naturaleza, con músculos y tendones artificiales que la hacen funcional y flexible. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales y…</description>
-  </item>
-  <item>
-    <title>Un servidor MCP para debuguear logs ROS2 con ayuda de la IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-un-servidor-mcp-para-debuguear-logs-ros2-con-ayuda-de-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-un-servidor-mcp-para-debuguear-logs-ros2-con-ayuda-de-l.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los desarrolladores de robótica saben que debuguear problemas en sistemas complejos puede ser un desafío. Ahora, gracias a mcp-ros2-logs, los agentes de IA pueden ayudar a resolver estos problemas de manera más eficiente.</description>
-  </item>
-  <item>
-    <title>Un servidor de logs para ROS2 que facilita la depuración con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-un-servidor-de-logs-para-ros2-que-facilita-la-depuracio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-un-servidor-de-logs-para-ros2-que-facilita-la-depuracio.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La depuración de errores en sistemas de robótica puede ser un proceso tedioso y complicado. Un nuevo servidor de logs llamado mcp-ros2-logs busca simplificar este proceso mediante la integración con agentes de IA como Claude o GitHub…</description>
-  </item>
-  <item>
-    <title>Alerta sobre riesgos de violencia masiva gracias a chatbots de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-masiva-gracias-a-chat.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-masiva-gracias-a-chat.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un número creciente de casos revela cómo chatbots de IA pueden validar y reforzar creencias paranoicas o delirantes en usuarios vulnerables, lo que puede llevar a violencia real. Las familias de las víctimas buscan justicia.</description>
-  </item>
-  <item>
-    <title>Riesgos de masacres: expertos advierten sobre la influencia de los chatbots de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-riesgos-de-masacres-expertos-advierten-sobre-la-influen.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-riesgos-de-masacres-expertos-advierten-sobre-la-influen.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un abogado ha alertado sobre la posibilidad de que los chatbots de IA puedan contribuir a la violencia y las masacres, tras varios casos en los que se han involucrado en la planificación de ataques. Los expertos dicen que la situación se…</description>
-  </item>
-  <item>
-    <title>MCP-ROS2-Logs: Herramienta de depuración de logs de ROS2 con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-mcp-ros2-logs-herramienta-de-depuracion-de-logs-de-ros2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-mcp-ros2-logs-herramienta-de-depuracion-de-logs-de-ros2.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La depuración de logs de ROS2 puede ser un proceso tedioso y complicado, especialmente cuando se trata de identificar errores en múltiples nodos. Ahora, gracias a MCP-ROS2-Logs, los agentes de IA pueden ayudar a depurar estos logs de…</description>
-  </item>
-  <item>
-    <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches--2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches--2.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos se estancan en situaciones comunes para los conductores humanos, como zonas de construcción o peatones desobedientes. Para solventar esto, las empresas de coches autónomos utilizan supervisores humanos para intervenir…</description>
-  </item>
-  <item>
-    <title>Alerta sobre riesgos de violencia con IA: casos de masacres y suicidios</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-con-ia-casos-de-masac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-alerta-sobre-riesgos-de-violencia-con-ia-casos-de-masac.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un abogado ha alertado sobre el riesgo de masacres y suicidios relacionados con la IA, tras varios casos en los que chatbots habrían validado y fomentado creencias paranoidas y delirantes en usuarios vulnerables.</description>
-  </item>
-  <item>
-    <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches-au.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches-au.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos tienen problemas con situaciones comunes para los conductores humanos. La supervisión remota de humanos puede ser la solución, pero la industria no ha aprendido de la experiencia militar.</description>
-  </item>
-  <item>
-    <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches--3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-16-que-pueden-ensenar-los-drones-militares-a-los-coches--3.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos tienen dificultades para manejar situaciones comunes para los conductores humanos. Los drones militares han estado supervisando remotamente desde la década de 1980, pero las compañías de coches autónomos no han…</description>
-  </item>
-  <item>
-    <title>Bcachefs 1.37: un sistema de archivos avanzado para Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-bcachefs-137-un-sistema-de-archivos-avanzado-para-lin-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-bcachefs-137-un-sistema-de-archivos-avanzado-para-lin-2.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Bcachefs es un sistema de archivos de próxima generación para Linux que ofrece características innovadoras como codificación de erasure y recuperación automática de errores. La versión 1.37 de Bcachefs ha sido lanzada con soporte para…</description>
-  </item>
-  <item>
-    <title>Rewire: una herramienta para visualizar temas ROS 2 con cero dependencias</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-rewire-una-herramienta-para-visualizar-temas-ros-2-con-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-rewire-una-herramienta-para-visualizar-temas-ros-2-con-.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Una nueva herramienta llamada Rewire permite visualizar temas ROS 2 en tiempo real sin necesidad de instalar dependencias adicionales. Esto puede ser especialmente útil para desarrolladores de robótica que buscan simplificar su proceso de…</description>
-  </item>
-  <item>
-    <title>Mejoras en Linux 7.0 para preparar el futuro de Rust y reproducibilidad de compilación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-mejoras-en-linux-70-para-preparar-el-futuro-de-rust-y-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-mejoras-en-linux-70-para-preparar-el-futuro-de-rust-y-r.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.0 de Linux ha recibido mejoras importantes para prepararse para los cambios futuros en Rust y mejorar la reproducibilidad de la compilación. Estas mejoras incluyen actualizaciones de la herramienta de herramientas de Rust y…</description>
-  </item>
-  <item>
-    <title>Rewire: un puente para visualizar temas de ROS 2 sin dependencias</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-rewire-un-puente-para-visualizar-temas-de-ros-2-sin-d-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-rewire-un-puente-para-visualizar-temas-de-ros-2-sin-d-2.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un desarrollador ha creado Rewire, un puente que permite visualizar temas de ROS 2 sin necesidad de instalar dependencias adicionales. Esto simplifica la configuración de herramientas de visualización en entornos de ROS 2.</description>
-  </item>
-  <item>
-    <title>Mejoras en Linux 7.0 para preparar el futuro de Rust y reproducibilidad de compilaciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-mejoras-en-linux-70-para-preparar-el-futuro-de-rust-y-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-mejoras-en-linux-70-para-preparar-el-futuro-de-rust-y-2.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.0 de Linux recibe mejoras importantes para prepararse para cambios en la herramienta de programación Rust y mejorar la reproducibilidad de las compilaciones. Estas mejoras son fundamentales para garantizar la estabilidad y…</description>
-  </item>
-  <item>
-    <title>Robótica en la era cyberpunk: un robot humanoide causa incidente en Macau</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-robotica-en-la-era-cyberpunk-un-robot-humanoide-causa-i.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-16-robotica-en-la-era-cyberpunk-un-robot-humanoide-causa-i.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un robot humanoide ha causado un incidente en Macau, hospitalizando a una mujer en su setenta. La policía intervino y determinó que el robot estaba siendo operado remotamente como parte de una promoción para una empresa local.</description>
   </item>
 </channel>
 </rss>

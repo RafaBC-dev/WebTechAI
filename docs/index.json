@@ -1,6 +1,218 @@
 {
   "news": [
     {
+      "title": "Gazebo PMC: Actualizaciones y cambios en el proyecto de simulación robótica",
+      "category": "robotica",
+      "date": "2026-03-17",
+      "slug": "gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-de-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Gazebo se reunió el 16 de marzo de 2026 para discutir los últimos cambios y actualizaciones en el proyecto de simulación robótica. Se abordaron temas como la eliminación de la dependencia de freeimage, la transición de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-17-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-de-.md"
+    },
+    {
+      "title": "Nuevos robots modulares para explorar entornos inexplorados",
+      "category": "robotica",
+      "date": "2026-03-17",
+      "slug": "nuevos-robots-modulares-para-explorar-entornos-inexplor",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La Northwestern University ha presentado un nuevo tipo de robots modulares que pueden ser diseñados y ensamblados automáticamente para explorar entornos inexplorados. Estos robots pueden adaptarse a diferentes situaciones y entornos, lo…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-17-nuevos-robots-modulares-para-explorar-entornos-inexplor.md"
+    },
+    {
+      "title": "Una mano robótica con músculos artificiales y tendones",
+      "category": "robotica",
+      "date": "2026-03-17",
+      "slug": "una-mano-robotica-con-musculos-artificiales-y-tendone-2",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "python"
+      ],
+      "preview": "La investigación en robótica ha dado un paso importante con la creación de una mano robótica que imita la estructura y la función de la mano humana. Esta innovación podría tener aplicaciones en la industria, la medicina y la exploración…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-17-una-mano-robotica-con-musculos-artificiales-y-tendone-2.md"
+    },
+    {
+      "title": "Celebra el Día de Pi con proyectos innovadores de Raspberry Pi",
+      "category": "robotica",
+      "date": "2026-03-17",
+      "slug": "celebra-el-dia-de-pi-con-proyectos-innovadores-de-raspb",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "El Día de Pi es una celebración anual que honra la constante matemática pi. Esta vez, Raspberry Pi comparte algunos de los proyectos más interesantes y creativos que han utilizado su hardware.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-17-celebra-el-dia-de-pi-con-proyectos-innovadores-de-raspb.md"
+    },
+    {
+      "title": "Picsart lanza marketplace de agentes AI para ayudar a creadores",
+      "category": "ia",
+      "date": "2026-03-17",
+      "slug": "picsart-lanza-marketplace-de-agentes-ai-para-ayudar-a-c",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Picsart, una plataforma de diseño AI, lanza un marketplace de agentes AI que permitirá a creadores 'contratar' asistentes virtuales para tareas específicas, como editar imágenes o videos para redes sociales.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-17-picsart-lanza-marketplace-de-agentes-ai-para-ayudar-a-c.md"
+    },
+    {
+      "title": "Un libro de texto sobre sistemas de aprendizaje automático, leído por una IA",
+      "category": "ia",
+      "date": "2026-03-17",
+      "slug": "un-libro-de-texto-sobre-sistemas-de-aprendizaje-automat",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "Una IA ha leído un libro de texto de 2.020 páginas sobre sistemas de aprendizaje automático y ha reportado sus hallazgos. ¿Qué descubrió y qué significa esto para el futuro de la IA?",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-17-un-libro-de-texto-sobre-sistemas-de-aprendizaje-automat.md"
+    },
+    {
+      "title": "¿Qué pueden enseñar los drones militares a los coches autónomos?",
+      "category": "ia",
+      "date": "2026-03-17",
+      "slug": "que-pueden-ensenar-los-drones-militares-a-los-coches--4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Los coches autónomos tienen dificultades con situaciones comunes para los conductores humanos. La supervisión remota es una solución que se ha utilizado en drones militares desde la década de 1980.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-17-que-pueden-ensenar-los-drones-militares-a-los-coches--4.md"
+    },
+    {
+      "title": "Galería visual de LLM: una referencia para entender la evolución de los modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-03-17",
+      "slug": "galeria-visual-de-llm-una-referencia-para-entender-la-e",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Sebastian Raschka ha lanzado la LLM Architecture Gallery, una visualización detallada de los principales modelos de lenguaje desde GPT-2 hasta la actualidad. Esta herramienta es fundamental para entender la evolución de la tecnología…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-17-galeria-visual-de-llm-una-referencia-para-entender-la-e.md"
+    },
+    {
+      "title": "ROS PMC: Actualizaciones y discusiones sobre la plataforma de robótica",
+      "category": "linux",
+      "date": "2026-03-17",
+      "slug": "ros-pmc-actualizaciones-y-discusiones-sobre-la-platafor",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La reunión de la ROS PMC (Plataforma de Mantenimiento de ROS) se celebró el 10 de marzo de 2026, donde se trataron varios temas importantes relacionados con la plataforma de robótica ROS (Robot Operating System). Se discutieron…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-17-ros-pmc-actualizaciones-y-discusiones-sobre-la-platafor.md"
+    },
+    {
+      "title": "Canonical integra DOCA-OFED de NVIDIA en Ubuntu para HPC y IA",
+      "category": "linux",
+      "date": "2026-03-17",
+      "slug": "canonical-integra-doca-ofed-de-nvidia-en-ubuntu-para-hp",
+      "tags": [
+        "ia-local",
+        "hpc",
+        "linux"
+      ],
+      "preview": "Canonical, el proveedor de Ubuntu, ha anunciado que integrará el framework de software DOCA-OFED de NVIDIA en la distribución Linux para mejorar la experiencia de despliegue en entornos de alto rendimiento y IA.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-17-canonical-integra-doca-ofed-de-nvidia-en-ubuntu-para-hp.md"
+    },
+    {
+      "title": "PicoCPC: una tarjeta de expansión para ordenadores Amstrad CPC",
+      "category": "embebidos",
+      "date": "2026-03-17",
+      "slug": "picocpc-una-tarjeta-de-expansion-para-ordenadores-ams-2",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica",
+        "embebidos"
+      ],
+      "preview": "Después de décadas de olvido, los ordenadores Amstrad CPC están experimentando un renacimiento gracias a la creación de hardware y software personalizado. La comunidad de entusiastas ha desarrollado una serie de proyectos para mejorar las…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-17-picocpc-una-tarjeta-de-expansion-para-ordenadores-ams-2.md"
+    },
+    {
+      "title": "Nueva mini PC fanless con Raspberry Pi CM5 y 2,5GbE",
+      "category": "embebidos",
+      "date": "2026-03-17",
+      "slug": "nueva-mini-pc-fanless-con-raspberry-pi-cm5-y-25gbe",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Waveshare ha lanzado una nueva mini PC fanless que utiliza el SoC Raspberry Pi CM5 y ofrece una conexión de 2,5GbE, HDMI 2.0 y dos puertos USB.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-17-nueva-mini-pc-fanless-con-raspberry-pi-cm5-y-25gbe.md"
+    },
+    {
+      "title": "Procesador ternario alcanza la computación no binaria con FPGA",
+      "category": "embebidos",
+      "date": "2026-03-17",
+      "slug": "procesador-ternario-alcanza-la-computacion-no-binaria-c",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Un equipo de investigadores ha creado un procesador ternario que utiliza trits con tres estados en lugar de bits con dos. Esto podría mejorar la densidad de información y reducir el consumo de energía en los dispositivos electrónicos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-17-procesador-ternario-alcanza-la-computacion-no-binaria-c.md"
+    },
+    {
+      "title": "Flipper Zero ESP32-C5: una placa de expansión con Wi-Fi 6 y GPS",
+      "category": "embebidos",
+      "date": "2026-03-17",
+      "slug": "flipper-zero-esp32-c5-una-placa-de-expansion-con-wi-fi-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Rabbit-Labs ha lanzado una nueva placa de expansión para el Flipper Zero, una herramienta de seguridad y análisis de red. Esta placa, llamada ESP32-C5, cuenta con Wi-Fi 6, GPS y otros componentes para ofrecer una mayor funcionalidad a la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-17-flipper-zero-esp32-c5-una-placa-de-expansion-con-wi-fi-.md"
+    },
+    {
+      "title": "Raspberry Pi: Nuevos productos y tecnologías para la educación y la robótica",
+      "category": "embebidos",
+      "date": "2026-03-17",
+      "slug": "raspberry-pi-nuevos-productos-y-tecnologias-para-la-edu",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux",
+        "microcontroladores"
+      ],
+      "preview": "La empresa Raspberry Pi ha lanzado nuevos productos y tecnologías que buscan fomentar la educación y la robótica. Entre ellos se encuentran un sintetizador educativo, un robot ágil y una herramienta de visión artificial. Estos productos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-17-raspberry-pi-nuevos-productos-y-tecnologias-para-la-edu.md"
+    },
+    {
       "title": "Un altavoz Bluetooth personalizado que combina diseño y tecnología",
       "category": "diseño-3d",
       "date": "2026-03-16",
