@@ -536,7 +536,7 @@ function initIndexPage() {
   let activeCategory = 'Todas'; // categoría seleccionada en el filtro
   let activeTag = '';           // tag de subfiltro del sidebar ('' = sin filtro de tag)
   let searchQuery = '';         // texto que el usuario ha escrito en el buscador
-  let visibleCount = 12;        // cuántas tarjetas mostramos actualmente
+  let visibleCount = 24;        // cuántas tarjetas mostramos actualmente
   const PAGE_SIZE = 24;         // cuántas tarjetas cargar por cada "Ver más"
 
   // Referencias a los elementos del buscador (pueden no existir en algunas páginas)
