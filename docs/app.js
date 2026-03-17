@@ -520,8 +520,12 @@ isDetailPage ? initDetailPage() : initIndexPage();
 function initIndexPage() {
   // Restaurar posición de scroll al volver de un artículo
   const savedPos = sessionStorage.getItem('scrollPos');
+  const savedCount = sessionStorage.getItem('visibleCount');
+  if (savedCount) {
+    visibleCount = parseInt(savedCount);
+    sessionStorage.removeItem('visibleCount');
+  }
   if (savedPos) {
-    // Esperamos a que las tarjetas carguen antes de hacer scroll
     setTimeout(() => {
       window.scrollTo(0, parseInt(savedPos));
       sessionStorage.removeItem('scrollPos');
@@ -533,7 +537,7 @@ function initIndexPage() {
   let activeTag = '';           // tag de subfiltro del sidebar ('' = sin filtro de tag)
   let searchQuery = '';         // texto que el usuario ha escrito en el buscador
   let visibleCount = 12;        // cuántas tarjetas mostramos actualmente
-  const PAGE_SIZE = 12;         // cuántas tarjetas cargar por cada "Ver más"
+  const PAGE_SIZE = 24;         // cuántas tarjetas cargar por cada "Ver más"
 
   // Referencias a los elementos del buscador (pueden no existir en algunas páginas)
   const searchToggle = document.getElementById('search-toggle');
@@ -794,7 +798,7 @@ function initIndexPage() {
     // encodeURIComponent asegura que la ruta del archivo sea válida como query parameter de URL
     const href = `detail.html?file=${encodeURIComponent(news.file_path || '')}`;
     return `
-    <a class="news-card ${cc}" href="${href}" onclick="sessionStorage.setItem('scrollPos', window.scrollY)">
+    <a class="news-card ${cc}" href="${href}" onclick="sessionStorage.setItem('scrollPos', window.scrollY); sessionStorage.setItem('visibleCount', ${visibleCount})">
       <div class="card-top">
         <span class="cat-badge ${cc}">${esc(news.category)}</span>
         <span class="card-date">${formatDate(news.date)}</span>
