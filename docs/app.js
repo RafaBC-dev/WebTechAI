@@ -339,6 +339,11 @@ document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
       window.location.href = 'llms.html';
       return;
     }
+    if (tag === 'ia-local') {
+      window.location.href = 'ia-local.html';
+      return;
+    }
+
     const reportName = tag ? REPORT_TAGS[tag] : null;
     if (reportName) {
       showReport(reportName, label || tag);
