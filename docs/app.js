@@ -877,6 +877,10 @@ isDetailPage ? initDetailPage() : initIndexPage();
         if (match) match.classList.add('active');
       }
     }
+    if (savedPos) {
+      window.scrollTo({ top: parseInt(savedPos), behavior: 'instant' });
+      sessionStorage.removeItem('scrollPos');
+    }
   });
 }
 
