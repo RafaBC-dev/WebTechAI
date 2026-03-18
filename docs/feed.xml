@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Mar 2026 07:47:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 07:46:33 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Pruebas de cámaras calentadas para filamentos frágiles en impresión 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-18-pruebas-de-camaras-calentadas-para-filamentos-fragiles-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-18-pruebas-de-camaras-calentadas-para-filamentos-fragiles-.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un experimento de impresión 3D busca determinar si calentar la cámara de impresión puede prevenir que los filamentos se rompan durante el proceso de impresión. Los resultados sorprenden.</description>
+  </item>
+  <item>
+    <title>ROS Meetup en Abuja, Nigeria: robótica y automatización</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-ros-meetup-en-abuja-nigeria-robotica-y-automatizacion.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-ros-meetup-en-abuja-nigeria-robotica-y-automatizacion.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de robótica de Nigeria se reúne en Abuja para discutir la última tecnología en robótica y automatización. El evento, organizado por ROS Meetup, contará con charlas y sesiones prácticas sobre ROS2, un framework de robótica…</description>
+  </item>
+  <item>
+    <title>Robótica avanzada: una mano artificial con músculos y tendones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotica-avanzada-una-mano-artificial-con-musculos-y-te.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotica-avanzada-una-mano-artificial-con-musculos-y-te.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Investigadores han creado una mano robótica con músculos y tendones artificiales, inspirada en la anatomía humana. Esta innovación podría revolucionar la robótica y la medicina, permitiendo a los robots realizar tareas más complejas y…</description>
+  </item>
+  <item>
+    <title>ADLINK DLAP-701: plataforma de AI de borde para robots humanoides</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-adlink-dlap-701-plataforma-de-ai-de-borde-para-robots-h.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-adlink-dlap-701-plataforma-de-ai-de-borde-para-robots-h.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>ADLINK ha lanzado la plataforma de AI de borde DLAP-701, diseñada para robots humanoides, robots móviles autónomos y sistemas de visión. Esta plataforma se basa en la tecnología NVIDIA Jetson T5000/T4000 y ofrece una amplia gama de…</description>
+  </item>
+  <item>
+    <title>Connext Robotics Toolkit para ROS 2: mejora el desarrollo de sistemas robóticos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-connext-robotics-toolkit-para-ros-2-mejora-el-desarroll.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-connext-robotics-toolkit-para-ros-2-mejora-el-desarroll.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS 2 ha recibido una noticia importante: RTI ha lanzado el Connext Robotics Toolkit, una herramienta que facilita el desarrollo de sistemas robóticos utilizando ROS 2 y Connext. Esto es especialmente relevante para…</description>
+  </item>
+  <item>
+    <title>Robotas modulares que pueden diseñarse y ensamblarse automáticamente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotas-modulares-que-pueden-disenarse-y-ensamblarse-au.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotas-modulares-que-pueden-disenarse-y-ensamblarse-au.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los investigadores de la Northwestern University han desarrollado un sistema de robotas modulares que pueden diseñarse y ensamblarse automáticamente para adaptarse a entornos inesperados. Esto abre nuevas posibilidades para la creación de…</description>
+  </item>
+  <item>
+    <title>Mistral Forge: una plataforma para crear modelos de IA personalizados en la empresa</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-mistral-forge-una-plataforma-para-crear-modelos-de-ia-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-mistral-forge-una-plataforma-para-crear-modelos-de-ia-p.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Mistral, una startup francesa de IA, ha lanzado Mistral Forge, una plataforma que permite a las empresas crear modelos de IA personalizados entrenados con sus propios datos. Esto se espera que resuelva el problema de que los modelos de IA…</description>
+  </item>
+  <item>
+    <title>Garry Tan comparte su configuración de Claude Code: ¿qué hay detrás de la locura por la IA?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-garry-tan-comparte-su-configuracion-de-claude-code-que-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-garry-tan-comparte-su-configuracion-de-claude-code-que-.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El CEO de Y Combinator, Garry Tan, ha compartido su configuración de Claude Code, un conjunto de habilidades para agentes de IA que ha generado gran emoción y debate en la comunidad de tecnología. Tan ha admitido que está experimentando…</description>
+  </item>
+  <item>
+    <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-que-pueden-ensenar-los-drones-militares-a-los-coches--5.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-que-pueden-ensenar-los-drones-militares-a-los-coches--5.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los coches autónomos se estrellan o se congelan en situaciones comunes para los conductores humanos, como zonas de construcción o peatones desobedientes. ¿Por qué?</description>
+  </item>
+  <item>
+    <title>Systemd 260: el nuevo lanzamiento de la iniciativa de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-systemd-260-el-nuevo-lanzamiento-de-la-iniciativa-de-li.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-systemd-260-el-nuevo-lanzamiento-de-la-iniciativa-de-li.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La iniciativa systemd ha lanzado su versión 260, que trae consigo nuevas características y mejoras para el sistema de arranque y gestor de servicios de Linux. Esta versión es importante porque marca la eliminación de los scripts de…</description>
+  </item>
+  <item>
+    <title>Sashiko: el sistema de revisión de parches que supera a los humanos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-sashiko-el-sistema-de-revision-de-parches-que-supera-a-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-sashiko-el-sistema-de-revision-de-parches-que-supera-a-.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un sistema de revisión de parches llamado Sashiko ha demostrado ser capaz de encontrar un 53% de errores en un conjunto de 1,000 problemas recientes de Linux, mientras que los revisores humanos solo encontraron el 0%. Esto plantea…</description>
+  </item>
+  <item>
+    <title>AMD lanza nuevo compilador C++ para acelerar trabajo de procesamiento en Ryzen AI NPUs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-amd-lanza-nuevo-compilador-c-para-acelerar-trabajo-de-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-amd-lanza-nuevo-compilador-c-para-acelerar-trabajo-de-p.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>AMD ha lanzado una actualización importante para su herramienta MLIR-AIE, que permite a los desarrolladores aprovechar al máximo las capacidades de procesamiento de sus Ryzen AI NPUs. Esta actualización incluye un nuevo compilador C++ que…</description>
+  </item>
+  <item>
+    <title>CMake 4.3: Mejoras en interoperabilidad y herramientas de depuración</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-18-cmake-43-mejoras-en-interoperabilidad-y-herramientas-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-18-cmake-43-mejoras-en-interoperabilidad-y-herramientas-de.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 4.3 de CMake ha sido lanzada, ofreciendo mejoras significativas en interoperabilidad y herramientas de depuración. Esto permitirá a los desarrolladores crear proyectos más complejos y manejables.</description>
+  </item>
+  <item>
+    <title>Cámara de alta gama para Inteligencia Artificial en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-camara-de-alta-gama-para-inteligencia-artificial-en-tie.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-camara-de-alta-gama-para-inteligencia-artificial-en-tie.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Leopard Imaging ha lanzado una cámara de alta gama con resolución de 25MP y función de disparo global, diseñada específicamente para la plataforma NVIDIA Holoscan. Esta cámara es ideal para aplicaciones de Inteligencia…</description>
+  </item>
+  <item>
+    <title>Revisa las pantallas HMI Open Nextion con ESP32-S3 y Arduino IDE</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-revisa-las-pantallas-hmi-open-nextion-con-esp32-s3-y-ar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-revisa-las-pantallas-hmi-open-nextion-con-esp32-s3-y-ar.md</guid>
+    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>ITEAD ha enviado muestras de las pantallas HMI Open Nextion ONX3248G035 y ONX2432G028 para su revisión. Estas pantallas son parte de la nueva línea de productos Open Nextion, que se diferencia de la familia Nextion original en su uso de un…</description>
+  </item>
   <item>
     <title>Gazebo PMC: Actualizaciones y cambios en el proyecto de simulación robótica</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-de-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 17 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>La empresa Raspberry Pi ha lanzado nuevos productos y tecnologías que buscan fomentar la educación y la robótica. Entre ellos se encuentran un sintetizador educativo, un robot ágil y una herramienta de visión artificial. Estos productos…</description>
-  </item>
-  <item>
-    <title>Un altavoz Bluetooth personalizado que combina diseño y tecnología</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-un-altavoz-bluetooth-personalizado-que-combina-diseno-y.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-un-altavoz-bluetooth-personalizado-que-combina-diseno-y.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un entusiasta de la tecnología encontró un diseño de altavoz Bluetooth en línea que le gustó, pero no existía en la realidad. Así que decidió crearlo por sí mismo.</description>
-  </item>
-  <item>
-    <title>Hacemos realidad un altavoz Bluetooth inspirado en un diseño de render</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-hacemos-realidad-un-altavoz-bluetooth-inspirado-en-un-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-hacemos-realidad-un-altavoz-bluetooth-inspirado-en-un-d.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un entusiasta de la tecnología encontró un diseño de altavoz Bluetooth en línea que le pareció genial, pero resultó ser solo una imagen. Así que decidió crearlo por sí mismo.</description>
-  </item>
-  <item>
-    <title>Recrea un altavoz Bluetooth con diseño impresionante</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-recrea-un-altavoz-bluetooth-con-diseno-impresionante.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-16-recrea-un-altavoz-bluetooth-con-diseno-impresionante.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un usuario de internet encontró un diseño de altavoz Bluetooth en línea, pero con una sorpresa: no existía en la realidad. Así que decidió hacerlo realidad.</description>
-  </item>
-  <item>
-    <title>Ingeniero de Robótica busca desarrollar simulaciones para AMRs y Cobots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-busca-desarrollar-simulaciones-pa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-busca-desarrollar-simulaciones-pa.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una empresa líder en automoción busca a un ingeniero de robótica para desarrollar simulaciones avanzadas para robots móviles autónomos (AMRs) y robots de colaboración (Cobots). Esta oportunidad permitirá al candidato contribuir a proyectos…</description>
-  </item>
-  <item>
-    <title>Mano robótica con músculos artificiales y tendones revoluciona la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-mano-robotica-con-musculos-artificiales-y-tendones-re-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-mano-robotica-con-musculos-artificiales-y-tendones-re-2.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica ha dado un paso importante con la creación de una mano robótica que imita la función de los músculos y tendones humanos. Esta innovación puede tener un impacto significativo en la industria de la robótica y en la creación de…</description>
-  </item>
-  <item>
-    <title>Ingeniero de Robótica Buscado para Simulación de AMRs y Cobot</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-buscado-para-simulacion-de-amrs-y.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-buscado-para-simulacion-de-amrs-y.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una empresa líder en el sector automotriz busca a un ingeniero de robótica con experiencia en simulación para desarrollar capacidades de simulación avanzadas para robots autónomos y colaborativos. Esta oportunidad permite contribuir a…</description>
-  </item>
-  <item>
-    <title>Robots con piernas que se adaptan a entornos inusuales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robots-con-piernas-que-se-adaptan-a-entornos-inusuales.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robots-con-piernas-que-se-adaptan-a-entornos-inusuales.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores de la Northwestern University han desarrollado robots con piernas que pueden adaptarse a entornos inusuales y cambiar su diseño en tiempo real. Esto permite a los robots navegar en espacios complejos y cambiar su forma…</description>
-  </item>
-  <item>
-    <title>Mano robótica con músculos y tendones artificiales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-mano-robotica-con-musculos-y-tendones-artificiales.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-mano-robotica-con-musculos-y-tendones-artificiales.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La investigación en robótica ha dado un paso importante con la creación de una mano robótica que imita la estructura y la movilidad de la mano humana. Esta innovación podría tener aplicaciones en la industria y en la vida diaria.</description>
-  </item>
-  <item>
-    <title>Celebremos el Día de Pi con proyectos Raspberry Pi impresionantes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-impr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-impr.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El Día de Pi se acerca y para celebrarlo, hemos recopilado algunos de los proyectos Raspberry Pi más interesantes del mundo. ¡Comparte tus espectaculares creaciones en los comentarios!</description>
-  </item>
-  <item>
-    <title>Celebremos el Día de Pi con proyectos emocionantes de Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-emocionantes-de-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebremos-el-dia-de-pi-con-proyectos-emocionantes-de-r.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El Día de Pi se acerca y para celebrarlo, hemos compilado algunos de los proyectos más interesantes de Raspberry Pi de todo el mundo. Estos dispositivos pequeños y potentes han sido utilizados en una variedad de aplicaciones, desde la…</description>
-  </item>
-  <item>
-    <title>Celebrando el Día de Pi con proyectos emocionantes de Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebrando-el-dia-de-pi-con-proyectos-emocionantes-de-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-celebrando-el-dia-de-pi-con-proyectos-emocionantes-de-r.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El Día de Pi se acerca y para celebrarlo, hemos recopilado algunos de los proyectos más interesantes de Raspberry Pi de todo el mundo. Desde bicicletas plegables hasta iniciativas para salvar al océano, descubre algunas de las creaciones…</description>
-  </item>
-  <item>
-    <title>Robótica autónoma: robots que pueden diseñarse y ensamblarse automáticamente</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robotica-autonoma-robots-que-pueden-disenarse-y-ensambl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robotica-autonoma-robots-que-pueden-disenarse-y-ensambl.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores de la Northwestern University han desarrollado un sistema que permite la creación de robots autónomos que pueden diseñarse y ensamblarse automáticamente en entornos no estructurados. Esto podría revolucionar la forma en…</description>
-  </item>
-  <item>
-    <title>Robótica modular para entornos inestables: un paso hacia la automatización</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robotica-modular-para-entornos-inestables-un-paso-hacia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-robotica-modular-para-entornos-inestables-un-paso-hacia.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los robots con patas múltiples han sido diseñados por humanos y no pueden cambiar su estructura en tiempo real. Un equipo de Northwestern University ha desarrollado bloques de construcción modulares que permiten crear robots ágiles y…</description>
-  </item>
-  <item>
-    <title>Ingeniero de Robótica Digital: simulación de AMRs y Cobot</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-digital-simulacion-de-amrs-y-cobo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-ingeniero-de-robotica-digital-simulacion-de-amrs-y-cobo.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una empresa líder en el sector automotriz busca a un ingeniero de robótica digital para desarrollar simulaciones de alto rendimiento para robots móviles autónomos (AMRs) y robots de colaboración (Cobot).</description>
-  </item>
-  <item>
-    <title>Una mano robótica con músculos y tendones artificiales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-una-mano-robotica-con-musculos-y-tendones-artificiales.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-16-una-mano-robotica-con-musculos-y-tendones-artificiales.md</guid>
-    <pubDate>Mon, 16 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Investigadores han creado una mano robótica inspirada en la naturaleza, con músculos y tendones artificiales que la hacen funcional y flexible. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales y…</description>
   </item>
 </channel>
 </rss>

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-17</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-18</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-18-pruebas-de-camaras-calentadas-para-filamentos-fragiles-.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-ros-meetup-en-abuja-nigeria-robotica-y-automatizacion.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotica-avanzada-una-mano-artificial-con-musculos-y-te.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-adlink-dlap-701-plataforma-de-ai-de-borde-para-robots-h.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-connext-robotics-toolkit-para-ros-2-mejora-el-desarroll.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotas-modulares-que-pueden-disenarse-y-ensamblarse-au.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-mistral-forge-una-plataforma-para-crear-modelos-de-ia-p.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-garry-tan-comparte-su-configuracion-de-claude-code-que-.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-que-pueden-ensenar-los-drones-militares-a-los-coches--5.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-systemd-260-el-nuevo-lanzamiento-de-la-iniciativa-de-li.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-sashiko-el-sistema-de-revision-de-parches-que-supera-a-.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-amd-lanza-nuevo-compilador-c-para-acelerar-trabajo-de-p.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-18-cmake-43-mejoras-en-interoperabilidad-y-herramientas-de.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-camara-de-alta-gama-para-inteligencia-artificial-en-tie.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-revisa-las-pantallas-hmi-open-nextion-con-esp32-s3-y-ar.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-de-.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-nuevos-robots-modulares-para-explorar-entornos-inexplor.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-17-una-mano-robotica-con-musculos-artificiales-y-tendone-2.md</loc><lastmod>2026-03-17</lastmod><priority>0.8</priority></url>

@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Pruebas de cámaras calentadas para filamentos frágiles en impresión 3D",
+      "category": "diseño-3d",
+      "date": "2026-03-18",
+      "slug": "pruebas-de-camaras-calentadas-para-filamentos-fragiles-",
+      "tags": [
+        "diseño-3d",
+        "impresion-3d",
+        "filamentos"
+      ],
+      "preview": "Un experimento de impresión 3D busca determinar si calentar la cámara de impresión puede prevenir que los filamentos se rompan durante el proceso de impresión. Los resultados sorprenden.",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-03-18-pruebas-de-camaras-calentadas-para-filamentos-fragiles-.md"
+    },
+    {
+      "title": "ROS Meetup en Abuja, Nigeria: robótica y automatización",
+      "category": "robotica",
+      "date": "2026-03-18",
+      "slug": "ros-meetup-en-abuja-nigeria-robotica-y-automatizacion",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica de Nigeria se reúne en Abuja para discutir la última tecnología en robótica y automatización. El evento, organizado por ROS Meetup, contará con charlas y sesiones prácticas sobre ROS2, un framework de robótica…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-18-ros-meetup-en-abuja-nigeria-robotica-y-automatizacion.md"
+    },
+    {
+      "title": "Robótica avanzada: una mano artificial con músculos y tendones",
+      "category": "robotica",
+      "date": "2026-03-18",
+      "slug": "robotica-avanzada-una-mano-artificial-con-musculos-y-te",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electonica"
+      ],
+      "preview": "Investigadores han creado una mano robótica con músculos y tendones artificiales, inspirada en la anatomía humana. Esta innovación podría revolucionar la robótica y la medicina, permitiendo a los robots realizar tareas más complejas y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-18-robotica-avanzada-una-mano-artificial-con-musculos-y-te.md"
+    },
+    {
+      "title": "ADLINK DLAP-701: plataforma de AI de borde para robots humanoides",
+      "category": "robotica",
+      "date": "2026-03-18",
+      "slug": "adlink-dlap-701-plataforma-de-ai-de-borde-para-robots-h",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "ADLINK ha lanzado la plataforma de AI de borde DLAP-701, diseñada para robots humanoides, robots móviles autónomos y sistemas de visión. Esta plataforma se basa en la tecnología NVIDIA Jetson T5000/T4000 y ofrece una amplia gama de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-18-adlink-dlap-701-plataforma-de-ai-de-borde-para-robots-h.md"
+    },
+    {
+      "title": "Connext Robotics Toolkit para ROS 2: mejora el desarrollo de sistemas robóticos",
+      "category": "robotica",
+      "date": "2026-03-18",
+      "slug": "connext-robotics-toolkit-para-ros-2-mejora-el-desarroll",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha recibido una noticia importante: RTI ha lanzado el Connext Robotics Toolkit, una herramienta que facilita el desarrollo de sistemas robóticos utilizando ROS 2 y Connext. Esto es especialmente relevante para…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-18-connext-robotics-toolkit-para-ros-2-mejora-el-desarroll.md"
+    },
+    {
+      "title": "Robotas modulares que pueden diseñarse y ensamblarse automáticamente",
+      "category": "robotica",
+      "date": "2026-03-18",
+      "slug": "robotas-modulares-que-pueden-disenarse-y-ensamblarse-au",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Los investigadores de la Northwestern University han desarrollado un sistema de robotas modulares que pueden diseñarse y ensamblarse automáticamente para adaptarse a entornos inesperados. Esto abre nuevas posibilidades para la creación de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-18-robotas-modulares-que-pueden-disenarse-y-ensamblarse-au.md"
+    },
+    {
+      "title": "Mistral Forge: una plataforma para crear modelos de IA personalizados en la empresa",
+      "category": "ia",
+      "date": "2026-03-18",
+      "slug": "mistral-forge-una-plataforma-para-crear-modelos-de-ia-p",
+      "tags": [
+        "llms",
+        "ia-local",
+        "aprendizaje-automatico"
+      ],
+      "preview": "Mistral, una startup francesa de IA, ha lanzado Mistral Forge, una plataforma que permite a las empresas crear modelos de IA personalizados entrenados con sus propios datos. Esto se espera que resuelva el problema de que los modelos de IA…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-18-mistral-forge-una-plataforma-para-crear-modelos-de-ia-p.md"
+    },
+    {
+      "title": "Garry Tan comparte su configuración de Claude Code: ¿qué hay detrás de la locura por la IA?",
+      "category": "ia",
+      "date": "2026-03-18",
+      "slug": "garry-tan-comparte-su-configuracion-de-claude-code-que-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python",
+        "linux"
+      ],
+      "preview": "El CEO de Y Combinator, Garry Tan, ha compartido su configuración de Claude Code, un conjunto de habilidades para agentes de IA que ha generado gran emoción y debate en la comunidad de tecnología. Tan ha admitido que está experimentando…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-18-garry-tan-comparte-su-configuracion-de-claude-code-que-.md"
+    },
+    {
+      "title": "¿Qué pueden enseñar los drones militares a los coches autónomos?",
+      "category": "ia",
+      "date": "2026-03-18",
+      "slug": "que-pueden-ensenar-los-drones-militares-a-los-coches--5",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "Los coches autónomos se estrellan o se congelan en situaciones comunes para los conductores humanos, como zonas de construcción o peatones desobedientes. ¿Por qué?",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-18-que-pueden-ensenar-los-drones-militares-a-los-coches--5.md"
+    },
+    {
+      "title": "Systemd 260: el nuevo lanzamiento de la iniciativa de Linux",
+      "category": "ia",
+      "date": "2026-03-18",
+      "slug": "systemd-260-el-nuevo-lanzamiento-de-la-iniciativa-de-li",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La iniciativa systemd ha lanzado su versión 260, que trae consigo nuevas características y mejoras para el sistema de arranque y gestor de servicios de Linux. Esta versión es importante porque marca la eliminación de los scripts de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-18-systemd-260-el-nuevo-lanzamiento-de-la-iniciativa-de-li.md"
+    },
+    {
+      "title": "Sashiko: el sistema de revisión de parches que supera a los humanos",
+      "category": "ia",
+      "date": "2026-03-18",
+      "slug": "sashiko-el-sistema-de-revision-de-parches-que-supera-a-",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un sistema de revisión de parches llamado Sashiko ha demostrado ser capaz de encontrar un 53% de errores en un conjunto de 1,000 problemas recientes de Linux, mientras que los revisores humanos solo encontraron el 0%. Esto plantea…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-18-sashiko-el-sistema-de-revision-de-parches-que-supera-a-.md"
+    },
+    {
+      "title": "AMD lanza nuevo compilador C++ para acelerar trabajo de procesamiento en Ryzen AI NPUs",
+      "category": "ia",
+      "date": "2026-03-18",
+      "slug": "amd-lanza-nuevo-compilador-c-para-acelerar-trabajo-de-p",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "AMD ha lanzado una actualización importante para su herramienta MLIR-AIE, que permite a los desarrolladores aprovechar al máximo las capacidades de procesamiento de sus Ryzen AI NPUs. Esta actualización incluye un nuevo compilador C++ que…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-18-amd-lanza-nuevo-compilador-c-para-acelerar-trabajo-de-p.md"
+    },
+    {
+      "title": "CMake 4.3: Mejoras en interoperabilidad y herramientas de depuración",
+      "category": "linux",
+      "date": "2026-03-18",
+      "slug": "cmake-43-mejoras-en-interoperabilidad-y-herramientas-de",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 4.3 de CMake ha sido lanzada, ofreciendo mejoras significativas en interoperabilidad y herramientas de depuración. Esto permitirá a los desarrolladores crear proyectos más complejos y manejables.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-18-cmake-43-mejoras-en-interoperabilidad-y-herramientas-de.md"
+    },
+    {
+      "title": "Cámara de alta gama para Inteligencia Artificial en tiempo real",
+      "category": "embebidos",
+      "date": "2026-03-18",
+      "slug": "camara-de-alta-gama-para-inteligencia-artificial-en-tie",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Leopard Imaging ha lanzado una cámara de alta gama con resolución de 25MP y función de disparo global, diseñada específicamente para la plataforma NVIDIA Holoscan. Esta cámara es ideal para aplicaciones de Inteligencia…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-18-camara-de-alta-gama-para-inteligencia-artificial-en-tie.md"
+    },
+    {
+      "title": "Revisa las pantallas HMI Open Nextion con ESP32-S3 y Arduino IDE",
+      "category": "embebidos",
+      "date": "2026-03-18",
+      "slug": "revisa-las-pantallas-hmi-open-nextion-con-esp32-s3-y-ar",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "ITEAD ha enviado muestras de las pantallas HMI Open Nextion ONX3248G035 y ONX2432G028 para su revisión. Estas pantallas son parte de la nueva línea de productos Open Nextion, que se diferencia de la familia Nextion original en su uso de un…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-18-revisa-las-pantallas-hmi-open-nextion-con-esp32-s3-y-ar.md"
+    },
+    {
       "title": "Gazebo PMC: Actualizaciones y cambios en el proyecto de simulación robótica",
       "category": "robotica",
       "date": "2026-03-17",
