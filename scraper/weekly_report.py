@@ -180,7 +180,8 @@ def fetch_feed_text(url: str, max_entries: int = 6) -> str:
             # Limpiar HTML con BeautifulSoup
             body = BeautifulSoup(body, "html.parser").get_text(" ", strip=True)
             # Limitar cada entrada para no saturar el contexto
-            texts.append(f"### {title}\n{body[:600]}")
+            link = entry.get("link", "").strip()
+            texts.append(f"### {title}\n{link}\n{body[:600]}")
 
         return "\n\n".join(texts)
 
@@ -358,7 +359,8 @@ def fetch_feed_text_filtered(url: str, keywords: list,
                 skipped += 1
                 continue
 
-            texts.append(f"### {title}\n{body[:600]}")
+            link = entry.get("link", "").strip()
+            texts.append(f"### {title}\n{link}\n{body[:600]}")
 
         if skipped:
             print(f"    (filtradas {skipped} entradas sin keywords relevantes)")
@@ -477,7 +479,9 @@ Sé específico: nombres, versiones si aplica, por qué son buenos ahora.)
 (Lista de 3-5 enlaces o referencias mencionados en la información, con una línea
 explicando qué aporta cada uno. Formato: - [texto](url) — descripción)
 
-Escribe en español neutro y directo. No uses frases genéricas. Sé concreto."""
+Escribe en español neutro y directo. No uses frases genéricas. Sé concreto. 
+IMPORTANTE: En "Recursos útiles" usa SOLO las URLs que aparecen literalmente en la información proporcionada. 
+NO construyas ni inventes URLs."""
 
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     response = client.models.generate_content(
