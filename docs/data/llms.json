@@ -1,1 +1,264 @@
-[]
+[
+  {
+    "id": "gpt-5.4",
+    "nombre": "GPT-5.4",
+    "empresa": "OpenAI",
+    "logo_emoji": "⚡",
+    "descripcion_corta": "El modelo insignia de la serie GPT-5.4, ofreciendo capacidades avanzadas de razonamiento.",
+    "que_es": "El modelo de lenguaje más potente de la serie GPT-5.4, diseñado para tareas que requieren el máximo rendimiento y calidad en razonamiento y generación de contenido.",
+    "mejor_para": [
+      "razonamiento complejo",
+      "generación de contenido de alta calidad",
+      "investigación y desarrollo"
+    ],
+    "no_usar_para": "aplicaciones de bajo costo",
+    "contexto": "desconocido",
+    "precio_input": "2.50$/M tokens",
+    "precio_output": "15.00$/M tokens",
+    "precio_tier": "alto",
+    "velocidad": "alta",
+    "disponible_en": [
+      "API"
+    ],
+    "modelo_similar": "Claude Opus",
+    "novedad": false,
+    "destacado": true,
+    "acceso_gratuito": false,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "flagship",
+      "potente",
+      "razonamiento"
+    ]
+  },
+  {
+    "id": "gpt-5.4-mini",
+    "nombre": "GPT-5.4 mini",
+    "empresa": "OpenAI",
+    "logo_emoji": "⚡",
+    "descripcion_corta": "Modelo de la serie GPT-5.4, 2 veces más rápido que el mini anterior, con un buen equilibrio entre costo y rendimiento.",
+    "que_es": "Un modelo de lenguaje grande que ofrece un equilibrio entre rendimiento y costo, con mejoras significativas en velocidad para aplicaciones generales.",
+    "mejor_para": [
+      "aplicaciones de costo moderado",
+      "tareas que requieren velocidad",
+      "desarrollo general"
+    ],
+    "no_usar_para": "razonamiento de máxima complejidad",
+    "contexto": "desconocido",
+    "precio_input": "0.75$/M tokens",
+    "precio_output": "4.50$/M tokens",
+    "precio_tier": "medio",
+    "velocidad": "muy alta",
+    "disponible_en": [
+      "API"
+    ],
+    "modelo_similar": "gpt-4o-mini",
+    "novedad": true,
+    "destacado": false,
+    "acceso_gratuito": false,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "velocidad",
+      "eficiente",
+      "generalista"
+    ]
+  },
+  {
+    "id": "gpt-5.4-nano",
+    "nombre": "GPT-5.4 nano",
+    "empresa": "OpenAI",
+    "logo_emoji": "⚡",
+    "descripcion_corta": "El modelo más pequeño y económico de la serie GPT-5.4, superando a GPT-5 mini en razonamiento y siendo más barato que Gemini 3.1 Flash-Lite.",
+    "que_es": "Un modelo de lenguaje grande optimizado para costo y eficiencia, ideal para tareas que requieren un buen rendimiento a un precio extremadamente bajo.",
+    "mejor_para": [
+      "tareas de bajo costo",
+      "aplicaciones de alta escala",
+      "comparaciones de precios"
+    ],
+    "no_usar_para": "razonamiento de máxima complejidad",
+    "contexto": "desconocido",
+    "precio_input": "0.20$/M tokens",
+    "precio_output": "1.25$/M tokens",
+    "precio_tier": "bajo",
+    "velocidad": "alta",
+    "disponible_en": [
+      "API"
+    ],
+    "modelo_similar": "Gemini 3.1 Flash-Lite",
+    "novedad": true,
+    "destacado": false,
+    "acceso_gratuito": false,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "costo-efectivo",
+      "pequeño",
+      "eficiente"
+    ]
+  },
+  {
+    "id": "claude-sonnet-4",
+    "nombre": "Claude Sonnet 4.6",
+    "empresa": "Anthropic",
+    "logo_emoji": "🟠",
+    "descripcion_corta": "Modelo de Anthropic de tier medio, equilibrado en inteligencia y costo.",
+    "que_es": "Un modelo de lenguaje grande de Anthropic, conocido por su seguridad y capacidad de razonamiento, posicionado como una opción equilibrada para diversas aplicaciones.",
+    "mejor_para": [
+      "tareas generales",
+      "aplicaciones empresariales",
+      "seguridad en IA"
+    ],
+    "no_usar_para": "tareas de bajo costo extremo",
+    "contexto": "200k",
+    "precio_input": "3$/M tokens",
+    "precio_output": "15$/M tokens",
+    "precio_tier": "medio",
+    "velocidad": "alta",
+    "disponible_en": [
+      "API",
+      "claude.ai"
+    ],
+    "modelo_similar": "gpt-4o",
+    "novedad": false,
+    "destacado": true,
+    "acceso_gratuito": false,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "generalista",
+      "seguridad",
+      "conversacional"
+    ]
+  },
+  {
+    "id": "gemini-3.1-flash-lite",
+    "nombre": "Gemini 3.1 Flash-Lite",
+    "empresa": "Google",
+    "logo_emoji": "♊",
+    "descripcion_corta": "Versión ligera y económica de Gemini, superada en precio por GPT-5.4 nano.",
+    "que_es": "Un modelo de lenguaje grande de Google, diseñado para ser rápido y rentable, aunque ahora existen alternativas con precios más competitivos.",
+    "mejor_para": [
+      "aplicaciones de bajo costo",
+      "integración en productos de Google",
+      "velocidad"
+    ],
+    "no_usar_para": "razonamiento de máxima complejidad",
+    "contexto": "desconocido",
+    "precio_input": "0.25$/M tokens",
+    "precio_output": "1.50$/M tokens",
+    "precio_tier": "bajo",
+    "velocidad": "muy alta",
+    "disponible_en": [
+      "API",
+      "Google Cloud"
+    ],
+    "modelo_similar": "gpt-5.4-nano",
+    "novedad": false,
+    "destacado": true,
+    "acceso_gratuito": false,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "costo-efectivo",
+      "rápido",
+      "Google"
+    ]
+  },
+  {
+    "id": "holotron-12b",
+    "nombre": "Holotron-12B",
+    "empresa": "Comunidad Open Source",
+    "logo_emoji": "🤖",
+    "descripcion_corta": "Agente de IA de alto rendimiento para uso informático.",
+    "que_es": "Un modelo diseñado para actuar como agente de uso informático con alta capacidad de procesamiento, enfocado en la automatización de tareas.",
+    "mejor_para": [
+      "automatización de tareas informáticas",
+      "agentes autónomos",
+      "procesamiento de alto rendimiento"
+    ],
+    "no_usar_para": "conversaciones generales",
+    "contexto": "desconocido",
+    "precio_input": "N/A",
+    "precio_output": "N/A",
+    "precio_tier": "N/A",
+    "velocidad": "alta",
+    "disponible_en": [
+      "Hugging Face"
+    ],
+    "modelo_similar": "otro modelo de agente",
+    "novedad": true,
+    "destacado": false,
+    "acceso_gratuito": true,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "agente",
+      "open-source",
+      "alto rendimiento"
+    ]
+  },
+  {
+    "id": "granite-4.0-1b-speech",
+    "nombre": "Granite 4.0 1B Speech",
+    "empresa": "IBM",
+    "logo_emoji": "🗣️",
+    "descripcion_corta": "Modelo de voz compacto, multilingüe y optimizado para dispositivos edge.",
+    "que_es": "Un modelo de IA especializado en procesamiento de voz, diseñado para ser eficiente en recursos y funcionar en entornos con limitaciones de hardware, soportando múltiples idiomas.",
+    "mejor_para": [
+      "aplicaciones de voz en dispositivos edge",
+      "transcripción multilingüe",
+      "asistentes de voz offline"
+    ],
+    "no_usar_para": "generación de texto",
+    "contexto": "N/A",
+    "precio_input": "N/A",
+    "precio_output": "N/A",
+    "precio_tier": "bajo",
+    "velocidad": "alta",
+    "disponible_en": [
+      "API",
+      "dispositivos edge"
+    ],
+    "modelo_similar": "Whisper",
+    "novedad": true,
+    "destacado": false,
+    "acceso_gratuito": false,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "voz",
+      "multilingüe",
+      "edge",
+      "compacto"
+    ]
+  },
+  {
+    "id": "qwen-3.5-397b-a17b",
+    "nombre": "Qwen3.5-397B-A17B",
+    "empresa": "Alibaba",
+    "logo_emoji": "💻",
+    "descripcion_corta": "Modelo MoE masivo optimizado para ejecución local eficiente en hardware limitado.",
+    "que_es": "Un modelo Mixture-of-Experts (MoE) de gran tamaño (397B parámetros) que puede ejecutarse localmente en hardware con RAM limitada (como un MacBook Pro M3 Max) gracias a técnicas de streaming de pesos desde SSD.",
+    "mejor_para": [
+      "ejecución local de LLMs grandes",
+      "investigación de eficiencia de hardware",
+      "aplicaciones que requieren modelos grandes sin acceso a la nube"
+    ],
+    "no_usar_para": "despliegue en la nube estándar",
+    "contexto": "209GB (120GB cuantizado) en disco, 48GB RAM",
+    "precio_input": "N/A",
+    "precio_output": "N/A",
+    "precio_tier": "N/A",
+    "velocidad": "5.5+ tokens/segundo (local)",
+    "disponible_en": [
+      "Hugging Face",
+      "local"
+    ],
+    "modelo_similar": "Mixtral",
+    "novedad": false,
+    "destacado": false,
+    "acceso_gratuito": true,
+    "fecha_lanzamiento": "2024",
+    "tags": [
+      "MoE",
+      "local",
+      "eficiencia",
+      "open-source"
+    ]
+  }
+]

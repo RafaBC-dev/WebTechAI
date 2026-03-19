@@ -35,10 +35,10 @@ from utils import with_retries
 
 from datetime import datetime, timezone
 
-# Solo ejecutar los lunes (0 = lunes en Python)
+"""# Solo ejecutar los lunes (0 = lunes en Python)
 if datetime.now(timezone.utc).weekday() != 0:
     print("No es lunes, saltando informes semanales.")
-    exit(0)
+    exit(0)"""
 
 # ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
 
@@ -48,6 +48,7 @@ REPORTS_DIR = BASE_DIR / "docs" / "reports"
 
 # Modelo Gemini. gemini-2.5-flash .
 GEMINI_MODEL = "gemini-2.5-flash"
+MAX_OUTPUT_TOKENS = 8192
 
 # Carga GEMINI_API_KEY desde .env
 load_dotenv()
@@ -436,7 +437,7 @@ NORMAS:
         contents=prompt,
         config=types.GenerateContentConfig(
             temperature=0.35,
-            max_output_tokens=2200,
+            max_output_tokens=MAX_OUTPUT_TOKENS,
         ),
     )
     time.sleep(35)
@@ -455,7 +456,7 @@ genera un informe semanal de referencia en español. El informe debe ser concret
 actualizado y útil para un desarrollador que quiere saber el estado actual del tema.
 
 INFORMACIÓN RECIENTE:
-{raw_text[:4000]}
+{raw_text[:12000]}
 
 Genera el informe con EXACTAMENTE estas secciones en markdown:
 
@@ -483,7 +484,7 @@ Escribe en español neutro y directo. No uses frases genéricas. Sé concreto.""
         contents=prompt,
         config=types.GenerateContentConfig(
             temperature=0.4,
-            max_output_tokens=2000,
+            max_output_tokens=MAX_OUTPUT_TOKENS,
         ),
     )
     time.sleep(35)
@@ -606,7 +607,7 @@ REGLAS PARA modelos[]:
         contents=prompt,
         config=types.GenerateContentConfig(
             temperature=0.3,
-            max_output_tokens=8000, # 🚀 Ampliado para que no se corte el texto
+            max_output_tokens=MAX_OUTPUT_TOKENS, # 🚀 Ampliado para que no se corte el texto
             response_mime_type="application/json",
             response_schema=schema_benchmarks # 🚀 Obliga al motor a cerrar el JSON
         ),
@@ -673,7 +674,7 @@ Genera una lista JSON con los 8-12 modelos más relevantes de esta semana siguie
         contents=prompt,
         config=types.GenerateContentConfig(
             temperature=0.3,
-            max_output_tokens=3000,
+            max_output_tokens=MAX_OUTPUT_TOKENS,
             response_mime_type="application/json",
         ),
     )
@@ -688,6 +689,7 @@ Genera una lista JSON con los 8-12 modelos más relevantes de esta semana siguie
             result = []
     except _json.JSONDecodeError as e:
         print(f"  ✗ Error parseando JSON de LLMs: {e}")
+        print(f"  DEBUG raw (últimos 200 chars): {raw[-200:]}")  # añade esto
         result = []
     return result
 
