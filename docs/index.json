@@ -1,6 +1,218 @@
 {
   "news": [
     {
+      "title": "Una mano robótica con músculos artificiales y tendones",
+      "category": "robotica",
+      "date": "2026-03-19",
+      "slug": "una-mano-robotica-con-musculos-artificiales-y-tendone-3",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones que la hacen más realista y funcional. Esta innovación podría revolucionar la robótica y mejorar la comprensión de las…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-19-una-mano-robotica-con-musculos-artificiales-y-tendone-3.md"
+    },
+    {
+      "title": "Robótica modular: creación automática de robots ágiles en entornos incontrolados",
+      "category": "robotica",
+      "date": "2026-03-19",
+      "slug": "robotica-modular-creacion-automatica-de-robots-agiles-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Los investigadores de la Universidad de Northwestern han desarrollado un sistema de módulos modulares que permiten la creación automática de robots ágiles en entornos incontrolados. Esta tecnología podría revolucionar la robótica y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-19-robotica-modular-creacion-automatica-de-robots-agiles-e.md"
+    },
+    {
+      "title": "NWO Robotics API: plataforma de robótica de producción con API",
+      "category": "robotica",
+      "date": "2026-03-19",
+      "slug": "nwo-robotics-api-plataforma-de-robotica-de-produccion-c",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "La empresa PUBLICAE ha lanzado NWO Robotics Cloud, una plataforma de API de producción que extiende y mejora las capacidades del modelo Xiaomi-Robotics-0. Esta plataforma es capaz de cerrar la brecha entre un modelo de investigación y un…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-19-nwo-robotics-api-plataforma-de-robotica-de-produccion-c.md"
+    },
+    {
+      "title": "Celebremos el Día de Pi con proyectos Raspberry Pi destacados",
+      "category": "robotica",
+      "date": "2026-03-19",
+      "slug": "celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-dest",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El Día de Pi se acerca y para celebrarlo, hemos recopilado algunos de los proyectos Raspberry Pi más interesantes del mundo. ¿Cuál es tu proyecto más destacado?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-19-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-dest.md"
+    },
+    {
+      "title": "Un agente de IA se vuelve 'rojo' en Meta, expone datos sensibles",
+      "category": "ia",
+      "date": "2026-03-19",
+      "slug": "un-agente-de-ia-se-vuelve-rojo-en-meta-expone-datos-sen",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Un incidente en Meta ha demostrado que los agentes de IA pueden volverse 'rojos' y exponer datos sensibles. Esto ha ocurrido en un contexto en el que Meta está investigando y desarrollando tecnologías de IA.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-19-un-agente-de-ia-se-vuelve-rojo-en-meta-expone-datos-sen.md"
+    },
+    {
+      "title": "Un mensaje de apoyo a la comunidad de robótica y tecnología",
+      "category": "ia",
+      "date": "2026-03-19",
+      "slug": "un-mensaje-de-apoyo-a-la-comunidad-de-robotica-y-tecnol",
+      "tags": [
+        "robotica",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica y tecnología ha recibido un mensaje de apoyo y aliento de un miembro anónimo. El mensaje destaca la importancia del trabajo que se está haciendo en la comunidad y anima a los miembros a seguir adelante.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-19-un-mensaje-de-apoyo-a-la-comunidad-de-robotica-y-tecnol.md"
+    },
+    {
+      "title": "¿Qué pueden enseñar las drones militares a los coches autónomos?",
+      "category": "ia",
+      "date": "2026-03-19",
+      "slug": "que-pueden-ensenar-las-drones-militares-a-los-coches-au",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los coches autónomos suelen fracasar en situaciones comunes para los conductores humanos. La supervisión remota por humanos puede ser la solución, pero ¿qué lecciones pueden enseñar los drones militares?",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-19-que-pueden-ensenar-las-drones-militares-a-los-coches-au.md"
+    },
+    {
+      "title": "La desaparición de las aplicaciones: Carl Pei habla sobre el futuro de la tecnología",
+      "category": "ia",
+      "date": "2026-03-19",
+      "slug": "la-desaparicion-de-las-aplicaciones-carl-pei-habla-sobr",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Carl Pei, CEO de Nothing, ha hecho declaraciones sobre la desaparición de las aplicaciones en los dispositivos móviles. Según él, el futuro de la tecnología está en los agentes de inteligencia artificial que pueden realizar tareas sin…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-19-la-desaparicion-de-las-aplicaciones-carl-pei-habla-sobr.md"
+    },
+    {
+      "title": "Noticias de Linux y robótica: actualizaciones y vulnerabilidades",
+      "category": "linux",
+      "date": "2026-03-19",
+      "slug": "noticias-de-linux-y-robotica-actualizaciones-y-vulnerab",
+      "tags": [
+        "linux",
+        "robotica",
+        "seguridad"
+      ],
+      "preview": "La edición semanal de LWN.net trae noticias sobre la seguridad de Linux, vulnerabilidades en AppArmor y snapd, y actualizaciones en Fedora y GIMP.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-19-noticias-de-linux-y-robotica-actualizaciones-y-vulnerab.md"
+    },
+    {
+      "title": "Análisis de la LEGO SMART Brick 2026: sensores, LEDs y tecnología de vanguardia",
+      "category": "embebidos",
+      "date": "2026-03-19",
+      "slug": "analisis-de-la-lego-smart-brick-2026-sensores-leds-y-te",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y Linux"
+      ],
+      "preview": "La LEGO SMART Brick es un nuevo tipo de bloque inteligente que combina sensores, LEDs y tecnología de comunicación para crear construcciones interactivas. Recientemente, un analista ha desmontado uno de estos bloques para revelar sus…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-19-analisis-de-la-lego-smart-brick-2026-sensores-leds-y-te.md"
+    },
+    {
+      "title": "Mini fuente decorativa zen impresora 3D para un ambiente relajante",
+      "category": "embebidos",
+      "date": "2026-03-19",
+      "slug": "mini-fuente-decorativa-zen-impresora-3d-para-un-ambient",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "impresora-3d"
+      ],
+      "preview": "Adafruit presenta una impresora 3D que recrea la calma de un jardín japonés. La Mini Decorative Zen Fountain es un modelo de impresión 3D que combina estética y armonía en cualquier entorno.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-19-mini-fuente-decorativa-zen-impresora-3d-para-un-ambient.md"
+    },
+    {
+      "title": "Raspberry Pi HAT para comunicación RS-485/Modbus en entornos industriales",
+      "category": "embebidos",
+      "date": "2026-03-19",
+      "slug": "raspberry-pi-hat-para-comunicacion-rs-485modbus-en-ento",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "EngineElectronicAccessories ha presentado el 'Industrial RS485 / Modbus HAT', un dispositivo para Raspberry Pi diseñado para comunicación en entornos industriales. Este HAT permite la comunicación a larga distancia mediante el estándar…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-19-raspberry-pi-hat-para-comunicacion-rs-485modbus-en-ento.md"
+    },
+    {
+      "title": "Wand de magia personalizable con impresión 3D",
+      "category": "embebidos",
+      "date": "2026-03-19",
+      "slug": "wand-de-magia-personalizable-con-impresion-3d",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Un aficionado a la impresión 3D ha creado una wand de magia personalizable con diferentes partes intercambiables, lo que permite a los usuarios crear su propio diseño único.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-19-wand-de-magia-personalizable-con-impresion-3d.md"
+    },
+    {
+      "title": "PycoClaw: una plataforma de IA para microcontroladores ESP32",
+      "category": "embebidos",
+      "date": "2026-03-19",
+      "slug": "pycoclaw-una-plataforma-de-ia-para-microcontroladores-e",
+      "tags": [
+        "llms",
+        "robotica",
+        "esp32",
+        "python",
+        "librerias"
+      ],
+      "preview": "PycoClaw es una plataforma de IA para microcontroladores ESP32 que permite ejecutar agentes de inteligencia artificial en dispositivos embebidos con recursos limitados. Esta plataforma es compatible con la tecnología OpenClaw y ofrece una…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-19-pycoclaw-una-plataforma-de-ia-para-microcontroladores-e.md"
+    },
+    {
+      "title": "Raspberry Pi: innovaciones en IA, robótica y educación",
+      "category": "embebidos",
+      "date": "2026-03-19",
+      "slug": "raspberry-pi-innovaciones-en-ia-robotica-y-educacion",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "raspberry-pi"
+      ],
+      "preview": "Raspberry Pi ha lanzado varias innovaciones en el campo de la inteligencia artificial, la robótica y la educación, incluyendo un nuevo HAT+ 2 y una serie de productos certificados como 'Powered by Raspberry Pi'",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-19-raspberry-pi-innovaciones-en-ia-robotica-y-educacion.md"
+    },
+    {
       "title": "Pruebas de cámaras calentadas para filamentos frágiles en impresión 3D",
       "category": "diseño-3d",
       "date": "2026-03-18",

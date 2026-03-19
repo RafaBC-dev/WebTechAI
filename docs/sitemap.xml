@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-18</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-19</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-una-mano-robotica-con-musculos-artificiales-y-tendone-3.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-robotica-modular-creacion-automatica-de-robots-agiles-e.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-nwo-robotics-api-plataforma-de-robotica-de-produccion-c.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-dest.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-un-agente-de-ia-se-vuelve-rojo-en-meta-expone-datos-sen.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-un-mensaje-de-apoyo-a-la-comunidad-de-robotica-y-tecnol.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-que-pueden-ensenar-las-drones-militares-a-los-coches-au.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-la-desaparicion-de-las-aplicaciones-carl-pei-habla-sobr.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-19-noticias-de-linux-y-robotica-actualizaciones-y-vulnerab.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-analisis-de-la-lego-smart-brick-2026-sensores-leds-y-te.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-mini-fuente-decorativa-zen-impresora-3d-para-un-ambient.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-raspberry-pi-hat-para-comunicacion-rs-485modbus-en-ento.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-wand-de-magia-personalizable-con-impresion-3d.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-pycoclaw-una-plataforma-de-ia-para-microcontroladores-e.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-raspberry-pi-innovaciones-en-ia-robotica-y-educacion.md</loc><lastmod>2026-03-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-18-pruebas-de-camaras-calentadas-para-filamentos-fragiles-.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-ros-meetup-en-abuja-nigeria-robotica-y-automatizacion.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotica-avanzada-una-mano-artificial-con-musculos-y-te.md</loc><lastmod>2026-03-18</lastmod><priority>0.8</priority></url>
