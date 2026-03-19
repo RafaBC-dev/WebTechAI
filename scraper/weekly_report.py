@@ -49,6 +49,7 @@ REPORTS_DIR = BASE_DIR / "docs" / "reports"
 # Modelo Gemini. gemini-2.5-flash .
 GEMINI_MODEL = "gemini-2.5-flash"
 MAX_OUTPUT_TOKENS = 8192
+MAX_CONTEXT_CHARS = 12000
 
 # Carga GEMINI_API_KEY desde .env
 load_dotenv()
@@ -398,7 +399,7 @@ Tienes acceso a esta base de conocimiento sobre las principales herramientas dis
 
 Además, estas son las novedades y noticias de esta semana sobre agentes IA para developers:
 
-{raw_text[:3500] if raw_text.strip() else "(No hay novedades destacadas esta semana)"}
+{raw_text[:MAX_CONTEXT_CHARS] if raw_text.strip() else "(No hay novedades destacadas esta semana)"}
 
 Genera una guía de referencia completa en español con EXACTAMENTE estas secciones:
 
@@ -456,7 +457,7 @@ genera un informe semanal de referencia en español. El informe debe ser concret
 actualizado y útil para un desarrollador que quiere saber el estado actual del tema.
 
 INFORMACIÓN RECIENTE:
-{raw_text[:12000]}
+{raw_text[:MAX_CONTEXT_CHARS]}
 
 Genera el informe con EXACTAMENTE estas secciones en markdown:
 
@@ -517,7 +518,7 @@ def generate_benchmark_report(raw_text: str) -> dict:
 análisis concretos y accionables, NO artículos genéricos.
 
 INFORMACIÓN RECIENTE DE FUENTES ESPECIALIZADAS:
-{raw_text[:5000]}
+{raw_text[:MAX_CONTEXT_CHARS]}
 
 ⚠️ REGLA CRÍTICA: NO uses saltos de línea literales (Enters) dentro del campo "informe". Usa ESTRICTAMENTE la secuencia de escape "\\n" para separar párrafos. Escapa cualquier comilla doble interna con "\\\"".
 Formato exacto:
@@ -634,7 +635,7 @@ def generate_llm_report(raw_text: str) -> list:
     prompt = f"""Eres un experto analizando y catalogando modelos de Inteligencia Artificial (LLMs).
 
 INFORMACIÓN RECIENTE DE FUENTES ESPECIALIZADAS:
-{raw_text[:5000]}
+{raw_text[:MAX_CONTEXT_CHARS]}
 
 Devuelve SOLO JSON válido. Para cada modelo incluye datos reales y actualizados.
 mejor_para debe ser un array de strings.
