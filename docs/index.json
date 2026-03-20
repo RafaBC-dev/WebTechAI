@@ -1,6 +1,214 @@
 {
   "news": [
     {
+      "title": "Nuevos robots capaces de correr y adaptarse a entornos inesperados",
+      "category": "robotica",
+      "date": "2026-03-20",
+      "slug": "nuevos-robots-capaces-de-correr-y-adaptarse-a-entornos-",
+      "tags": [
+        "robotica",
+        "automatizacion",
+        "llms"
+      ],
+      "preview": "Los científicos de la Universidad de Northwestern han desarrollado un sistema de robots capaces de correr y adaptarse a entornos inesperados, lo que podría revolucionar la robótica y la automatización. Este avance podría tener aplicaciones…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-20-nuevos-robots-capaces-de-correr-y-adaptarse-a-entornos-.md"
+    },
+    {
+      "title": "Superar barreras en robótica humana: un análisis técnico",
+      "category": "robotica",
+      "date": "2026-03-20",
+      "slug": "superar-barreras-en-robotica-humana-un-analisis-tecnico",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La robótica humana avanza rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de potencia. Entender…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-20-superar-barreras-en-robotica-humana-un-analisis-tecnico.md"
+    },
+    {
+      "title": "Un robot real recrea un juego de programación para niños",
+      "category": "robotica",
+      "date": "2026-03-20",
+      "slug": "un-robot-real-recrea-un-juego-de-programacion-para-nino",
+      "tags": [
+        "robotica",
+        "python",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha creado un robot que reproduce un juego de programación para niños, utilizando una aplicación de Python y una interfaz de usuario personalizada. Este proyecto busca fomentar la experimentación y el descubrimiento de la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-20-un-robot-real-recrea-un-juego-de-programacion-para-nino.md"
+    },
+    {
+      "title": "Mano robótica con músculos artificiales y tendones",
+      "category": "robotica",
+      "date": "2026-03-20",
+      "slug": "mano-robotica-con-musculos-artificiales-y-tendones",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-20-mano-robotica-con-musculos-artificiales-y-tendones.md"
+    },
+    {
+      "title": "Bots de IA superarán el tráfico humano en la web en 2027, según CEO de Cloudflare",
+      "category": "ia",
+      "date": "2026-03-20",
+      "slug": "bots-de-ia-superaran-el-trafico-humano-en-la-web-en-202",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El tráfico de bots en la web está aumentando a un ritmo alarmante, según el CEO de Cloudflare. Esto se debe a la creciente capacidad de los bots para visitar múltiples sitios web en busca de información para usuarios de chatbots.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-20-bots-de-ia-superaran-el-trafico-humano-en-la-web-en-202.md"
+    },
+    {
+      "title": "Google detalla nuevo proceso para instalar aplicaciones no verificadas en Android",
+      "category": "linux",
+      "date": "2026-03-20",
+      "slug": "google-detalla-nuevo-proceso-para-instalar-aplicaciones",
+      "tags": [
+        "android",
+        "seguridad",
+        "desarrollo"
+      ],
+      "preview": "Google ha anunciado un nuevo proceso para instalar aplicaciones no verificadas en Android, que requiere una serie de pasos y una espera de 24 horas. Este cambio busca mejorar la seguridad del sistema operativo.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-20-google-detalla-nuevo-proceso-para-instalar-aplicaciones.md"
+    },
+    {
+      "title": "Microsoft actualiza DXGKRNL para Linux: cambios significativos después de cuatro años",
+      "category": "linux",
+      "date": "2026-03-20",
+      "slug": "microsoft-actualiza-dxgkrnl-para-linux-cambios-signific",
+      "tags": [
+        "linux",
+        "wsld",
+        "ia-local"
+      ],
+      "preview": "Microsoft ha lanzado una nueva versión de la driver DXGKRNL para Linux, que incluye cambios significativos después de cuatro años de inactividad. Esta actualización se enfoca en mejorar la compatibilidad con el entorno de desarrollo de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-20-microsoft-actualiza-dxgkrnl-para-linux-cambios-signific.md"
+    },
+    {
+      "title": "AMD prepara más funcionalidades para Linux 7.1 con GFX12.1 y VCN 5.0.2",
+      "category": "linux",
+      "date": "2026-03-20",
+      "slug": "amd-prepara-mas-funcionalidades-para-linux-71-con-gfx12",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "AMD ha enviado una nueva serie de parches para el kernel de Linux 7.1, que incluyen la habilitación de la tecnología GFX12.1 y actualizaciones para la VCN 5.0.2 y JPEG 5.0.2. Esto supone un paso importante en la preparación de la próxima…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-20-amd-prepara-mas-funcionalidades-para-linux-71-con-gfx12.md"
+    },
+    {
+      "title": "Grabar video HDR con Raspberry Pi",
+      "category": "linux",
+      "date": "2026-03-20",
+      "slug": "grabar-video-hdr-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "El equipo de Raspberry Pi puede conectarse a una variedad de cámaras compatibles. Un usuario llamado Collimated Beard ha estado explorando el uso del sensor de cámara IMX585 de Sony, que puede capturar contenido HDR en resolución 4K.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-20-grabar-video-hdr-con-raspberry-pi.md"
+    },
+    {
+      "title": "Controlador de movimiento en ruedas de giro: una solución para la robótica",
+      "category": "linux",
+      "date": "2026-03-20",
+      "slug": "controlador-de-movimiento-en-ruedas-de-giro-una-solucio",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un usuario de la comunidad de ROS busca un controlador de movimiento en ruedas de giro para su proyecto de robótica. Después de una búsqueda en línea, no encontró una solución preexistente que le dé confianza. ¿Hay alguna solución…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-20-controlador-de-movimiento-en-ruedas-de-giro-una-solucio.md"
+    },
+    {
+      "title": "ReTerminal D1001: un display táctil de 8 pulgadas con ESP32-P4 y WiFi 6",
+      "category": "embebidos",
+      "date": "2026-03-20",
+      "slug": "reterminal-d1001-un-display-tactil-de-8-pulgadas-con-es",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Seeed Studio ha lanzado el reTerminal D1001, un display táctil de 8 pulgadas con conectividad WiFi 6, Bluetooth 5.x y 802.15.4. Este dispositivo está diseñado para aplicaciones de HMI y puede ser utilizado como kit de desarrollo.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-20-reterminal-d1001-un-display-tactil-de-8-pulgadas-con-es.md"
+    },
+    {
+      "title": "Caja de cinta de cassette impresora en 3D",
+      "category": "embebidos",
+      "date": "2026-03-20",
+      "slug": "caja-de-cinta-de-cassette-impresora-en-3d",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Adafruit ha compartido un proyecto de impresión 3D que recrea una caja de cinta de cassette. Este diseño es una muestra de la creatividad y la dedicación de la comunidad de impresión 3D.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-20-caja-de-cinta-de-cassette-impresora-en-3d.md"
+    },
+    {
+      "title": "Un par de detenciones para puertas con impresión 3D",
+      "category": "embebidos",
+      "date": "2026-03-20",
+      "slug": "un-par-de-detenciones-para-puertas-con-impresion-3d",
+      "tags": [
+        "diseño-3d",
+        "robotica"
+      ],
+      "preview": "Adafruit ha compartido un proyecto de impresión 3D que resuelve un problema común en las puertas: mantenerlas abiertas sin problemas. Con una solución sencilla y rápida de imprimir, los usuarios pueden evitar el desgaste de los frenos de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-20-un-par-de-detenciones-para-puertas-con-impresion-3d.md"
+    },
+    {
+      "title": "Un silbato de aves 3D que imita el canto de las aves",
+      "category": "embebidos",
+      "date": "2026-03-20",
+      "slug": "un-silbato-de-aves-3d-que-imita-el-canto-de-las-aves",
+      "tags": [
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado un silbato de aves que puede imitar el canto de las aves al mover un slider. Esta creación es un ejemplo de la creatividad y la innovación en el mundo de la impresión 3D.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-20-un-silbato-de-aves-3d-que-imita-el-canto-de-las-aves.md"
+    },
+    {
+      "title": "Clintech Pico: el primer desarrollo de Raspberry Pi RP2354B con 48 GPIOs",
+      "category": "embebidos",
+      "date": "2026-03-20",
+      "slug": "clintech-pico-el-primer-desarrollo-de-raspberry-pi-rp23",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa Clintech Ltd. ha lanzado el Clintech Pico, un desarrollo de Raspberry Pi RP2354B con una forma factor similar a la Raspberry Pi Pico 2, pero con 48 GPIOs adicionales.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-20-clintech-pico-el-primer-desarrollo-de-raspberry-pi-rp23.md"
+    },
+    {
       "title": "Una mano robótica con músculos artificiales y tendones",
       "category": "robotica",
       "date": "2026-03-19",

@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Mar 2026 07:41:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 07:40:49 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nuevos robots capaces de correr y adaptarse a entornos inesperados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-nuevos-robots-capaces-de-correr-y-adaptarse-a-entornos-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-nuevos-robots-capaces-de-correr-y-adaptarse-a-entornos-.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los científicos de la Universidad de Northwestern han desarrollado un sistema de robots capaces de correr y adaptarse a entornos inesperados, lo que podría revolucionar la robótica y la automatización. Este avance podría tener aplicaciones…</description>
+  </item>
+  <item>
+    <title>Superar barreras en robótica humana: un análisis técnico</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-superar-barreras-en-robotica-humana-un-analisis-tecnico.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-superar-barreras-en-robotica-humana-un-analisis-tecnico.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica humana avanza rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de potencia. Entender…</description>
+  </item>
+  <item>
+    <title>Un robot real recrea un juego de programación para niños</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-un-robot-real-recrea-un-juego-de-programacion-para-nino.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-un-robot-real-recrea-un-juego-de-programacion-para-nino.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un ingeniero ha creado un robot que reproduce un juego de programación para niños, utilizando una aplicación de Python y una interfaz de usuario personalizada. Este proyecto busca fomentar la experimentación y el descubrimiento de la…</description>
+  </item>
+  <item>
+    <title>Mano robótica con músculos artificiales y tendones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-mano-robotica-con-musculos-artificiales-y-tendones.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-mano-robotica-con-musculos-artificiales-y-tendones.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones. Esta innovación podría mejorar nuestra comprensión de las estructuras cinemáticas naturales.</description>
+  </item>
+  <item>
+    <title>Bots de IA superarán el tráfico humano en la web en 2027, según CEO de Cloudflare</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-20-bots-de-ia-superaran-el-trafico-humano-en-la-web-en-202.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-20-bots-de-ia-superaran-el-trafico-humano-en-la-web-en-202.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El tráfico de bots en la web está aumentando a un ritmo alarmante, según el CEO de Cloudflare. Esto se debe a la creciente capacidad de los bots para visitar múltiples sitios web en busca de información para usuarios de chatbots.</description>
+  </item>
+  <item>
+    <title>Google detalla nuevo proceso para instalar aplicaciones no verificadas en Android</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-google-detalla-nuevo-proceso-para-instalar-aplicaciones.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-google-detalla-nuevo-proceso-para-instalar-aplicaciones.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Google ha anunciado un nuevo proceso para instalar aplicaciones no verificadas en Android, que requiere una serie de pasos y una espera de 24 horas. Este cambio busca mejorar la seguridad del sistema operativo.</description>
+  </item>
+  <item>
+    <title>Microsoft actualiza DXGKRNL para Linux: cambios significativos después de cuatro años</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-microsoft-actualiza-dxgkrnl-para-linux-cambios-signific.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-microsoft-actualiza-dxgkrnl-para-linux-cambios-signific.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Microsoft ha lanzado una nueva versión de la driver DXGKRNL para Linux, que incluye cambios significativos después de cuatro años de inactividad. Esta actualización se enfoca en mejorar la compatibilidad con el entorno de desarrollo de…</description>
+  </item>
+  <item>
+    <title>AMD prepara más funcionalidades para Linux 7.1 con GFX12.1 y VCN 5.0.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-amd-prepara-mas-funcionalidades-para-linux-71-con-gfx12.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-amd-prepara-mas-funcionalidades-para-linux-71-con-gfx12.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>AMD ha enviado una nueva serie de parches para el kernel de Linux 7.1, que incluyen la habilitación de la tecnología GFX12.1 y actualizaciones para la VCN 5.0.2 y JPEG 5.0.2. Esto supone un paso importante en la preparación de la próxima…</description>
+  </item>
+  <item>
+    <title>Grabar video HDR con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-grabar-video-hdr-con-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-grabar-video-hdr-con-raspberry-pi.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El equipo de Raspberry Pi puede conectarse a una variedad de cámaras compatibles. Un usuario llamado Collimated Beard ha estado explorando el uso del sensor de cámara IMX585 de Sony, que puede capturar contenido HDR en resolución 4K.</description>
+  </item>
+  <item>
+    <title>Controlador de movimiento en ruedas de giro: una solución para la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-controlador-de-movimiento-en-ruedas-de-giro-una-solucio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-20-controlador-de-movimiento-en-ruedas-de-giro-una-solucio.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un usuario de la comunidad de ROS busca un controlador de movimiento en ruedas de giro para su proyecto de robótica. Después de una búsqueda en línea, no encontró una solución preexistente que le dé confianza. ¿Hay alguna solución…</description>
+  </item>
+  <item>
+    <title>ReTerminal D1001: un display táctil de 8 pulgadas con ESP32-P4 y WiFi 6</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-reterminal-d1001-un-display-tactil-de-8-pulgadas-con-es.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-reterminal-d1001-un-display-tactil-de-8-pulgadas-con-es.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Seeed Studio ha lanzado el reTerminal D1001, un display táctil de 8 pulgadas con conectividad WiFi 6, Bluetooth 5.x y 802.15.4. Este dispositivo está diseñado para aplicaciones de HMI y puede ser utilizado como kit de desarrollo.</description>
+  </item>
+  <item>
+    <title>Caja de cinta de cassette impresora en 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-caja-de-cinta-de-cassette-impresora-en-3d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-caja-de-cinta-de-cassette-impresora-en-3d.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha compartido un proyecto de impresión 3D que recrea una caja de cinta de cassette. Este diseño es una muestra de la creatividad y la dedicación de la comunidad de impresión 3D.</description>
+  </item>
+  <item>
+    <title>Un par de detenciones para puertas con impresión 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-un-par-de-detenciones-para-puertas-con-impresion-3d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-un-par-de-detenciones-para-puertas-con-impresion-3d.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha compartido un proyecto de impresión 3D que resuelve un problema común en las puertas: mantenerlas abiertas sin problemas. Con una solución sencilla y rápida de imprimir, los usuarios pueden evitar el desgaste de los frenos de…</description>
+  </item>
+  <item>
+    <title>Un silbato de aves 3D que imita el canto de las aves</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-un-silbato-de-aves-3d-que-imita-el-canto-de-las-aves.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-un-silbato-de-aves-3d-que-imita-el-canto-de-las-aves.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado un silbato de aves que puede imitar el canto de las aves al mover un slider. Esta creación es un ejemplo de la creatividad y la innovación en el mundo de la impresión 3D.</description>
+  </item>
+  <item>
+    <title>Clintech Pico: el primer desarrollo de Raspberry Pi RP2354B con 48 GPIOs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-clintech-pico-el-primer-desarrollo-de-raspberry-pi-rp23.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-20-clintech-pico-el-primer-desarrollo-de-raspberry-pi-rp23.md</guid>
+    <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Clintech Ltd. ha lanzado el Clintech Pico, un desarrollo de Raspberry Pi RP2354B con una forma factor similar a la Raspberry Pi Pico 2, pero con 48 GPIOs adicionales.</description>
+  </item>
   <item>
     <title>Una mano robótica con músculos artificiales y tendones</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-una-mano-robotica-con-musculos-artificiales-y-tendone-3.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>Raspberry Pi ha lanzado varias innovaciones en el campo de la inteligencia artificial, la robótica y la educación, incluyendo un nuevo HAT+ 2 y una serie de productos certificados como 'Powered by Raspberry Pi'</description>
-  </item>
-  <item>
-    <title>Pruebas de cámaras calentadas para filamentos frágiles en impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-18-pruebas-de-camaras-calentadas-para-filamentos-fragiles-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-18-pruebas-de-camaras-calentadas-para-filamentos-fragiles-.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un experimento de impresión 3D busca determinar si calentar la cámara de impresión puede prevenir que los filamentos se rompan durante el proceso de impresión. Los resultados sorprenden.</description>
-  </item>
-  <item>
-    <title>ROS Meetup en Abuja, Nigeria: robótica y automatización</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-ros-meetup-en-abuja-nigeria-robotica-y-automatizacion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-ros-meetup-en-abuja-nigeria-robotica-y-automatizacion.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de robótica de Nigeria se reúne en Abuja para discutir la última tecnología en robótica y automatización. El evento, organizado por ROS Meetup, contará con charlas y sesiones prácticas sobre ROS2, un framework de robótica…</description>
-  </item>
-  <item>
-    <title>Robótica avanzada: una mano artificial con músculos y tendones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotica-avanzada-una-mano-artificial-con-musculos-y-te.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotica-avanzada-una-mano-artificial-con-musculos-y-te.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Investigadores han creado una mano robótica con músculos y tendones artificiales, inspirada en la anatomía humana. Esta innovación podría revolucionar la robótica y la medicina, permitiendo a los robots realizar tareas más complejas y…</description>
-  </item>
-  <item>
-    <title>ADLINK DLAP-701: plataforma de AI de borde para robots humanoides</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-adlink-dlap-701-plataforma-de-ai-de-borde-para-robots-h.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-adlink-dlap-701-plataforma-de-ai-de-borde-para-robots-h.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>ADLINK ha lanzado la plataforma de AI de borde DLAP-701, diseñada para robots humanoides, robots móviles autónomos y sistemas de visión. Esta plataforma se basa en la tecnología NVIDIA Jetson T5000/T4000 y ofrece una amplia gama de…</description>
-  </item>
-  <item>
-    <title>Connext Robotics Toolkit para ROS 2: mejora el desarrollo de sistemas robóticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-connext-robotics-toolkit-para-ros-2-mejora-el-desarroll.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-connext-robotics-toolkit-para-ros-2-mejora-el-desarroll.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS 2 ha recibido una noticia importante: RTI ha lanzado el Connext Robotics Toolkit, una herramienta que facilita el desarrollo de sistemas robóticos utilizando ROS 2 y Connext. Esto es especialmente relevante para…</description>
-  </item>
-  <item>
-    <title>Robotas modulares que pueden diseñarse y ensamblarse automáticamente</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotas-modulares-que-pueden-disenarse-y-ensamblarse-au.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-18-robotas-modulares-que-pueden-disenarse-y-ensamblarse-au.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores de la Northwestern University han desarrollado un sistema de robotas modulares que pueden diseñarse y ensamblarse automáticamente para adaptarse a entornos inesperados. Esto abre nuevas posibilidades para la creación de…</description>
-  </item>
-  <item>
-    <title>Mistral Forge: una plataforma para crear modelos de IA personalizados en la empresa</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-mistral-forge-una-plataforma-para-crear-modelos-de-ia-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-mistral-forge-una-plataforma-para-crear-modelos-de-ia-p.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Mistral, una startup francesa de IA, ha lanzado Mistral Forge, una plataforma que permite a las empresas crear modelos de IA personalizados entrenados con sus propios datos. Esto se espera que resuelva el problema de que los modelos de IA…</description>
-  </item>
-  <item>
-    <title>Garry Tan comparte su configuración de Claude Code: ¿qué hay detrás de la locura por la IA?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-garry-tan-comparte-su-configuracion-de-claude-code-que-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-garry-tan-comparte-su-configuracion-de-claude-code-que-.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El CEO de Y Combinator, Garry Tan, ha compartido su configuración de Claude Code, un conjunto de habilidades para agentes de IA que ha generado gran emoción y debate en la comunidad de tecnología. Tan ha admitido que está experimentando…</description>
-  </item>
-  <item>
-    <title>¿Qué pueden enseñar los drones militares a los coches autónomos?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-que-pueden-ensenar-los-drones-militares-a-los-coches--5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-que-pueden-ensenar-los-drones-militares-a-los-coches--5.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos se estrellan o se congelan en situaciones comunes para los conductores humanos, como zonas de construcción o peatones desobedientes. ¿Por qué?</description>
-  </item>
-  <item>
-    <title>Systemd 260: el nuevo lanzamiento de la iniciativa de Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-systemd-260-el-nuevo-lanzamiento-de-la-iniciativa-de-li.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-systemd-260-el-nuevo-lanzamiento-de-la-iniciativa-de-li.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La iniciativa systemd ha lanzado su versión 260, que trae consigo nuevas características y mejoras para el sistema de arranque y gestor de servicios de Linux. Esta versión es importante porque marca la eliminación de los scripts de…</description>
-  </item>
-  <item>
-    <title>Sashiko: el sistema de revisión de parches que supera a los humanos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-sashiko-el-sistema-de-revision-de-parches-que-supera-a-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-sashiko-el-sistema-de-revision-de-parches-que-supera-a-.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un sistema de revisión de parches llamado Sashiko ha demostrado ser capaz de encontrar un 53% de errores en un conjunto de 1,000 problemas recientes de Linux, mientras que los revisores humanos solo encontraron el 0%. Esto plantea…</description>
-  </item>
-  <item>
-    <title>AMD lanza nuevo compilador C++ para acelerar trabajo de procesamiento en Ryzen AI NPUs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-amd-lanza-nuevo-compilador-c-para-acelerar-trabajo-de-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-18-amd-lanza-nuevo-compilador-c-para-acelerar-trabajo-de-p.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>AMD ha lanzado una actualización importante para su herramienta MLIR-AIE, que permite a los desarrolladores aprovechar al máximo las capacidades de procesamiento de sus Ryzen AI NPUs. Esta actualización incluye un nuevo compilador C++ que…</description>
-  </item>
-  <item>
-    <title>CMake 4.3: Mejoras en interoperabilidad y herramientas de depuración</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-18-cmake-43-mejoras-en-interoperabilidad-y-herramientas-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-18-cmake-43-mejoras-en-interoperabilidad-y-herramientas-de.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 4.3 de CMake ha sido lanzada, ofreciendo mejoras significativas en interoperabilidad y herramientas de depuración. Esto permitirá a los desarrolladores crear proyectos más complejos y manejables.</description>
-  </item>
-  <item>
-    <title>Cámara de alta gama para Inteligencia Artificial en tiempo real</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-camara-de-alta-gama-para-inteligencia-artificial-en-tie.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-camara-de-alta-gama-para-inteligencia-artificial-en-tie.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Leopard Imaging ha lanzado una cámara de alta gama con resolución de 25MP y función de disparo global, diseñada específicamente para la plataforma NVIDIA Holoscan. Esta cámara es ideal para aplicaciones de Inteligencia…</description>
-  </item>
-  <item>
-    <title>Revisa las pantallas HMI Open Nextion con ESP32-S3 y Arduino IDE</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-revisa-las-pantallas-hmi-open-nextion-con-esp32-s3-y-ar.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-18-revisa-las-pantallas-hmi-open-nextion-con-esp32-s3-y-ar.md</guid>
-    <pubDate>Wed, 18 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>ITEAD ha enviado muestras de las pantallas HMI Open Nextion ONX3248G035 y ONX2432G028 para su revisión. Estas pantallas son parte de la nueva línea de productos Open Nextion, que se diferencia de la familia Nextion original en su uso de un…</description>
   </item>
 </channel>
 </rss>
