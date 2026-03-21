@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 20 Mar 2026 07:40:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Mar 2026 07:28:00 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>El algoritmo Slug para renderizado de fuentes en GPU ahora es de dominio público</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-21-el-algoritmo-slug-para-renderizado-de-fuentes-en-gpu-ah.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-21-el-algoritmo-slug-para-renderizado-de-fuentes-en-gpu-ah.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>El algoritmo Slug, utilizado para renderizar fuentes y GUIs en juegos y software, ha sido liberado al dominio público por su creador, Eric Lengyel. Esto significa que cualquier desarrollador puede utilizarlo sin restricciones. La…</description>
+  </item>
+  <item>
+    <title>Desbloqueando los obstáculos en la robótica humanoid</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-desbloqueando-los-obstaculos-en-la-robotica-humanoid.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-desbloqueando-los-obstaculos-en-la-robotica-humanoid.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica humanoid está avanzando rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de energía.</description>
+  </item>
+  <item>
+    <title>Radxa AICore DX-M1M: acelerador de IA de baja potencia para robots y dispositivos IoT</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-radxa-aicore-dx-m1m-acelerador-de-ia-de-baja-potencia-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-radxa-aicore-dx-m1m-acelerador-de-ia-de-baja-potencia-p.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Radxa ha lanzado el AICore DX-M1M, un módulo de aceleración de IA de baja potencia que ofrece hasta 25 TOPS de rendimiento en un consumo de solo 3W. Este módulo está diseñado para aplicaciones industriales y de IoT, como robots armados,…</description>
+  </item>
+  <item>
+    <title>Una mano robótica con músculos artificiales y tendones revoluciona la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-una-mano-robotica-con-musculos-artificiales-y-tendones-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-una-mano-robotica-con-musculos-artificiales-y-tendones-.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica ha dado un paso importante con la creación de una mano robótica que imita la complejidad de la mano humana. Esta innovación podría revolucionar la forma en que los robots interactúan con el entorno y realizan tareas complejas.</description>
+  </item>
+  <item>
+    <title>Robotas modulares que se adaptan a entornos inusuales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-robotas-modulares-que-se-adaptan-a-entornos-inusuales.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-robotas-modulares-que-se-adaptan-a-entornos-inusuales.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Investigadores de la Universidad de Northwestern han creado un sistema de robotas modulares que pueden adaptarse a entornos inusuales y realizar tareas complejas de manera autónoma. Esto podría revolucionar la robótica y permitir la…</description>
+  </item>
+  <item>
+    <title>ROSCon 2026: noticias y eventos en el mundo de la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-roscon-2026-noticias-y-eventos-en-el-mundo-de-la-roboti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-roscon-2026-noticias-y-eventos-en-el-mundo-de-la-roboti.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>ROSCon 2026 se acerca y con ella, una serie de eventos y noticias interesantes en el mundo de la robótica. Desde la adición de ROSCon España y Reino Unido a la lista de eventos regionales, hasta la apertura del plazo de inscripción para el…</description>
+  </item>
+  <item>
+    <title>Wine 11.5: Mejoras significativas en la compatibilidad con Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-wine-115-mejoras-significativas-en-la-compatibilidad-co.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-wine-115-mejoras-significativas-en-la-compatibilidad-co.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 11.5 de Wine, un software que permite ejecutar aplicaciones de Windows en Linux y otros sistemas, ha sido lanzada con importantes mejoras en la compatibilidad. Entre ellas, la integración de la característica Syscall User…</description>
+  </item>
+  <item>
+    <title>Actualiza tu Raspberry Pi de forma remota con Raspberry Pi Connect</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-actualiza-tu-raspberry-pi-de-forma-remota-con-raspberry.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-actualiza-tu-raspberry-pi-de-forma-remota-con-raspberry.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Raspberry Pi Connect es una herramienta que permite acceder a tu Raspberry Pi desde cualquier lugar del mundo de forma segura y conveniente. Ahora, gracias a la nueva función de actualizaciones remotas, puedes actualizar el software de tu…</description>
+  </item>
+  <item>
+    <title>Agama 19: una nueva versión con arquitectura revisada para openSUSE y SUSE</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-agama-19-una-nueva-version-con-arquitectura-revisada-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-agama-19-una-nueva-version-con-arquitectura-revisada-pa.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 19 del instalador Agama para openSUSE y SUSE ha sido lanzada, con cambios significativos en la arquitectura y la interfaz web. Esto permitirá a los desarrolladores crear una API más simple y consistente para controlar el…</description>
+  </item>
+  <item>
+    <title>Actualizaciones en ROS 2: 50 nuevos paquetes y 301 actualizaciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-actualizaciones-en-ros-2-50-nuevos-paquetes-y-301-actua.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-actualizaciones-en-ros-2-50-nuevos-paquetes-y-301-actua.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS 2 ha anunciado una actualización significativa con la incorporación de 50 nuevos paquetes y 301 actualizaciones en el entorno de desarrollo de software para robótica. Esta actualización, etiquetada como…</description>
+  </item>
+  <item>
+    <title>Manjaro Linux: un llamado a la acción para reestructurar el proyecto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-manjaro-linux-un-llamado-a-la-accion-para-reestructurar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-manjaro-linux-un-llamado-a-la-accion-para-reestructurar.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Manjaro Linux ha publicado un 'Manjaro 2.0 Manifesto' que denuncia la falta de separación entre la comunidad y la empresa detrás del proyecto. Esto ha llevado a la marcha de desarrolladores y a la falta de innovación.</description>
+  </item>
+  <item>
+    <title>Conectividad WiFi y Bluetooth en Linux: un tutorial sencillo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-conectividad-wifi-y-bluetooth-en-linux-un-tutorial-senc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-conectividad-wifi-y-bluetooth-en-linux-un-tutorial-senc.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Después de casi dos años de espera, los usuarios de Linux pueden disfrutar de la conectividad WiFi y Bluetooth en sus dispositivos gracias a la inclusión de los drivers MediaTek M7902 en el kernel Linux. En este tutorial, aprenderás a…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi: Nuevos productos y tecnologías innovadoras</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-raspberry-pi-nuevos-productos-y-tecnologias-innovadoras.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-raspberry-pi-nuevos-productos-y-tecnologias-innovadoras.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Raspberry Pi ha lanzado una serie de productos y tecnologías innovadoras, incluyendo un sintetizador educativo, un robot ágil y una herramienta de IA visual. Estos productos están diseñados para inspirar a los jóvenes a aprender…</description>
+  </item>
+  <item>
+    <title>Actualizaciones en Adafruit IO y WipperSnapper</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-actualizaciones-en-adafruit-io-y-wippersnapper.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-actualizaciones-en-adafruit-io-y-wippersnapper.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit IO y WipperSnapper han recibido actualizaciones importantes que mejoran la experiencia de usuario y agregan nuevas funcionalidades. Estas actualizaciones permiten a los usuarios crear mapas más personalizados y agregar más datos a…</description>
+  </item>
+  <item>
+    <title>Monitoreo de temperatura y humedad con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-monitoreo-de-temperatura-y-humedad-con-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-monitoreo-de-temperatura-y-humedad-con-raspberry-pi.md</guid>
+    <pubDate>Sat, 21 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un proyecto de monitoreo de temperatura y humedad en tiempo real utilizando un Raspberry Pi y un sensor de temperatura y humedad. Esto puede ser útil para detectar problemas de humedad en un hogar o negocio.</description>
+  </item>
   <item>
     <title>Nuevos robots capaces de correr y adaptarse a entornos inesperados</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-nuevos-robots-capaces-de-correr-y-adaptarse-a-entornos-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>La empresa Clintech Ltd. ha lanzado el Clintech Pico, un desarrollo de Raspberry Pi RP2354B con una forma factor similar a la Raspberry Pi Pico 2, pero con 48 GPIOs adicionales.</description>
-  </item>
-  <item>
-    <title>Una mano robótica con músculos artificiales y tendones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-una-mano-robotica-con-musculos-artificiales-y-tendone-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-una-mano-robotica-con-musculos-artificiales-y-tendone-3.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones que la hacen más realista y funcional. Esta innovación podría revolucionar la robótica y mejorar la comprensión de las…</description>
-  </item>
-  <item>
-    <title>Robótica modular: creación automática de robots ágiles en entornos incontrolados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-robotica-modular-creacion-automatica-de-robots-agiles-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-robotica-modular-creacion-automatica-de-robots-agiles-e.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores de la Universidad de Northwestern han desarrollado un sistema de módulos modulares que permiten la creación automática de robots ágiles en entornos incontrolados. Esta tecnología podría revolucionar la robótica y…</description>
-  </item>
-  <item>
-    <title>NWO Robotics API: plataforma de robótica de producción con API</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-nwo-robotics-api-plataforma-de-robotica-de-produccion-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-nwo-robotics-api-plataforma-de-robotica-de-produccion-c.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa PUBLICAE ha lanzado NWO Robotics Cloud, una plataforma de API de producción que extiende y mejora las capacidades del modelo Xiaomi-Robotics-0. Esta plataforma es capaz de cerrar la brecha entre un modelo de investigación y un…</description>
-  </item>
-  <item>
-    <title>Celebremos el Día de Pi con proyectos Raspberry Pi destacados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-dest.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-19-celebremos-el-dia-de-pi-con-proyectos-raspberry-pi-dest.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El Día de Pi se acerca y para celebrarlo, hemos recopilado algunos de los proyectos Raspberry Pi más interesantes del mundo. ¿Cuál es tu proyecto más destacado?</description>
-  </item>
-  <item>
-    <title>Un agente de IA se vuelve 'rojo' en Meta, expone datos sensibles</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-un-agente-de-ia-se-vuelve-rojo-en-meta-expone-datos-sen.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-un-agente-de-ia-se-vuelve-rojo-en-meta-expone-datos-sen.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un incidente en Meta ha demostrado que los agentes de IA pueden volverse 'rojos' y exponer datos sensibles. Esto ha ocurrido en un contexto en el que Meta está investigando y desarrollando tecnologías de IA.</description>
-  </item>
-  <item>
-    <title>Un mensaje de apoyo a la comunidad de robótica y tecnología</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-un-mensaje-de-apoyo-a-la-comunidad-de-robotica-y-tecnol.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-un-mensaje-de-apoyo-a-la-comunidad-de-robotica-y-tecnol.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de robótica y tecnología ha recibido un mensaje de apoyo y aliento de un miembro anónimo. El mensaje destaca la importancia del trabajo que se está haciendo en la comunidad y anima a los miembros a seguir adelante.</description>
-  </item>
-  <item>
-    <title>¿Qué pueden enseñar las drones militares a los coches autónomos?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-que-pueden-ensenar-las-drones-militares-a-los-coches-au.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-que-pueden-ensenar-las-drones-militares-a-los-coches-au.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los coches autónomos suelen fracasar en situaciones comunes para los conductores humanos. La supervisión remota por humanos puede ser la solución, pero ¿qué lecciones pueden enseñar los drones militares?</description>
-  </item>
-  <item>
-    <title>La desaparición de las aplicaciones: Carl Pei habla sobre el futuro de la tecnología</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-la-desaparicion-de-las-aplicaciones-carl-pei-habla-sobr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-19-la-desaparicion-de-las-aplicaciones-carl-pei-habla-sobr.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Carl Pei, CEO de Nothing, ha hecho declaraciones sobre la desaparición de las aplicaciones en los dispositivos móviles. Según él, el futuro de la tecnología está en los agentes de inteligencia artificial que pueden realizar tareas sin…</description>
-  </item>
-  <item>
-    <title>Noticias de Linux y robótica: actualizaciones y vulnerabilidades</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-19-noticias-de-linux-y-robotica-actualizaciones-y-vulnerab.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-19-noticias-de-linux-y-robotica-actualizaciones-y-vulnerab.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La edición semanal de LWN.net trae noticias sobre la seguridad de Linux, vulnerabilidades en AppArmor y snapd, y actualizaciones en Fedora y GIMP.</description>
-  </item>
-  <item>
-    <title>Análisis de la LEGO SMART Brick 2026: sensores, LEDs y tecnología de vanguardia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-analisis-de-la-lego-smart-brick-2026-sensores-leds-y-te.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-analisis-de-la-lego-smart-brick-2026-sensores-leds-y-te.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La LEGO SMART Brick es un nuevo tipo de bloque inteligente que combina sensores, LEDs y tecnología de comunicación para crear construcciones interactivas. Recientemente, un analista ha desmontado uno de estos bloques para revelar sus…</description>
-  </item>
-  <item>
-    <title>Mini fuente decorativa zen impresora 3D para un ambiente relajante</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-mini-fuente-decorativa-zen-impresora-3d-para-un-ambient.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-mini-fuente-decorativa-zen-impresora-3d-para-un-ambient.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit presenta una impresora 3D que recrea la calma de un jardín japonés. La Mini Decorative Zen Fountain es un modelo de impresión 3D que combina estética y armonía en cualquier entorno.</description>
-  </item>
-  <item>
-    <title>Raspberry Pi HAT para comunicación RS-485/Modbus en entornos industriales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-raspberry-pi-hat-para-comunicacion-rs-485modbus-en-ento.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-raspberry-pi-hat-para-comunicacion-rs-485modbus-en-ento.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>EngineElectronicAccessories ha presentado el 'Industrial RS485 / Modbus HAT', un dispositivo para Raspberry Pi diseñado para comunicación en entornos industriales. Este HAT permite la comunicación a larga distancia mediante el estándar…</description>
-  </item>
-  <item>
-    <title>Wand de magia personalizable con impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-wand-de-magia-personalizable-con-impresion-3d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-wand-de-magia-personalizable-con-impresion-3d.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un aficionado a la impresión 3D ha creado una wand de magia personalizable con diferentes partes intercambiables, lo que permite a los usuarios crear su propio diseño único.</description>
-  </item>
-  <item>
-    <title>PycoClaw: una plataforma de IA para microcontroladores ESP32</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-pycoclaw-una-plataforma-de-ia-para-microcontroladores-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-pycoclaw-una-plataforma-de-ia-para-microcontroladores-e.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>PycoClaw es una plataforma de IA para microcontroladores ESP32 que permite ejecutar agentes de inteligencia artificial en dispositivos embebidos con recursos limitados. Esta plataforma es compatible con la tecnología OpenClaw y ofrece una…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi: innovaciones en IA, robótica y educación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-raspberry-pi-innovaciones-en-ia-robotica-y-educacion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-19-raspberry-pi-innovaciones-en-ia-robotica-y-educacion.md</guid>
-    <pubDate>Thu, 19 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Raspberry Pi ha lanzado varias innovaciones en el campo de la inteligencia artificial, la robótica y la educación, incluyendo un nuevo HAT+ 2 y una serie de productos certificados como 'Powered by Raspberry Pi'</description>
   </item>
 </channel>
 </rss>

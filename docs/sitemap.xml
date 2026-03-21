@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-20</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-20</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-21</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-21-el-algoritmo-slug-para-renderizado-de-fuentes-en-gpu-ah.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-desbloqueando-los-obstaculos-en-la-robotica-humanoid.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-radxa-aicore-dx-m1m-acelerador-de-ia-de-baja-potencia-p.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-una-mano-robotica-con-musculos-artificiales-y-tendones-.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-robotas-modulares-que-se-adaptan-a-entornos-inusuales.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-roscon-2026-noticias-y-eventos-en-el-mundo-de-la-roboti.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-wine-115-mejoras-significativas-en-la-compatibilidad-co.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-actualiza-tu-raspberry-pi-de-forma-remota-con-raspberry.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-agama-19-una-nueva-version-con-arquitectura-revisada-pa.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-actualizaciones-en-ros-2-50-nuevos-paquetes-y-301-actua.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-manjaro-linux-un-llamado-a-la-accion-para-reestructurar.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-21-conectividad-wifi-y-bluetooth-en-linux-un-tutorial-senc.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-raspberry-pi-nuevos-productos-y-tecnologias-innovadoras.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-actualizaciones-en-adafruit-io-y-wippersnapper.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-21-monitoreo-de-temperatura-y-humedad-con-raspberry-pi.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-nuevos-robots-capaces-de-correr-y-adaptarse-a-entornos-.md</loc><lastmod>2026-03-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-superar-barreras-en-robotica-humana-un-analisis-tecnico.md</loc><lastmod>2026-03-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-20-un-robot-real-recrea-un-juego-de-programacion-para-nino.md</loc><lastmod>2026-03-20</lastmod><priority>0.8</priority></url>

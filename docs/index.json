@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "El algoritmo Slug para renderizado de fuentes en GPU ahora es de dominio público",
+      "category": "diseño-3d",
+      "date": "2026-03-21",
+      "slug": "el-algoritmo-slug-para-renderizado-de-fuentes-en-gpu-ah",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El algoritmo Slug, utilizado para renderizar fuentes y GUIs en juegos y software, ha sido liberado al dominio público por su creador, Eric Lengyel. Esto significa que cualquier desarrollador puede utilizarlo sin restricciones. La…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-03-21-el-algoritmo-slug-para-renderizado-de-fuentes-en-gpu-ah.md"
+    },
+    {
+      "title": "Desbloqueando los obstáculos en la robótica humanoid",
+      "category": "robotica",
+      "date": "2026-03-21",
+      "slug": "desbloqueando-los-obstaculos-en-la-robotica-humanoid",
+      "tags": [
+        "robotica",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "La robótica humanoid está avanzando rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de energía.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-21-desbloqueando-los-obstaculos-en-la-robotica-humanoid.md"
+    },
+    {
+      "title": "Radxa AICore DX-M1M: acelerador de IA de baja potencia para robots y dispositivos IoT",
+      "category": "robotica",
+      "date": "2026-03-21",
+      "slug": "radxa-aicore-dx-m1m-acelerador-de-ia-de-baja-potencia-p",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Radxa ha lanzado el AICore DX-M1M, un módulo de aceleración de IA de baja potencia que ofrece hasta 25 TOPS de rendimiento en un consumo de solo 3W. Este módulo está diseñado para aplicaciones industriales y de IoT, como robots armados,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-21-radxa-aicore-dx-m1m-acelerador-de-ia-de-baja-potencia-p.md"
+    },
+    {
+      "title": "Una mano robótica con músculos artificiales y tendones revoluciona la robótica",
+      "category": "robotica",
+      "date": "2026-03-21",
+      "slug": "una-mano-robotica-con-musculos-artificiales-y-tendones-",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La robótica ha dado un paso importante con la creación de una mano robótica que imita la complejidad de la mano humana. Esta innovación podría revolucionar la forma en que los robots interactúan con el entorno y realizan tareas complejas.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-21-una-mano-robotica-con-musculos-artificiales-y-tendones-.md"
+    },
+    {
+      "title": "Robotas modulares que se adaptan a entornos inusuales",
+      "category": "robotica",
+      "date": "2026-03-21",
+      "slug": "robotas-modulares-que-se-adaptan-a-entornos-inusuales",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Investigadores de la Universidad de Northwestern han creado un sistema de robotas modulares que pueden adaptarse a entornos inusuales y realizar tareas complejas de manera autónoma. Esto podría revolucionar la robótica y permitir la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-21-robotas-modulares-que-se-adaptan-a-entornos-inusuales.md"
+    },
+    {
+      "title": "ROSCon 2026: noticias y eventos en el mundo de la robótica",
+      "category": "robotica",
+      "date": "2026-03-21",
+      "slug": "roscon-2026-noticias-y-eventos-en-el-mundo-de-la-roboti",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "ROSCon 2026 se acerca y con ella, una serie de eventos y noticias interesantes en el mundo de la robótica. Desde la adición de ROSCon España y Reino Unido a la lista de eventos regionales, hasta la apertura del plazo de inscripción para el…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-21-roscon-2026-noticias-y-eventos-en-el-mundo-de-la-roboti.md"
+    },
+    {
+      "title": "Wine 11.5: Mejoras significativas en la compatibilidad con Linux",
+      "category": "linux",
+      "date": "2026-03-21",
+      "slug": "wine-115-mejoras-significativas-en-la-compatibilidad-co",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 11.5 de Wine, un software que permite ejecutar aplicaciones de Windows en Linux y otros sistemas, ha sido lanzada con importantes mejoras en la compatibilidad. Entre ellas, la integración de la característica Syscall User…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-21-wine-115-mejoras-significativas-en-la-compatibilidad-co.md"
+    },
+    {
+      "title": "Actualiza tu Raspberry Pi de forma remota con Raspberry Pi Connect",
+      "category": "linux",
+      "date": "2026-03-21",
+      "slug": "actualiza-tu-raspberry-pi-de-forma-remota-con-raspberry",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Raspberry Pi Connect es una herramienta que permite acceder a tu Raspberry Pi desde cualquier lugar del mundo de forma segura y conveniente. Ahora, gracias a la nueva función de actualizaciones remotas, puedes actualizar el software de tu…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-21-actualiza-tu-raspberry-pi-de-forma-remota-con-raspberry.md"
+    },
+    {
+      "title": "Agama 19: una nueva versión con arquitectura revisada para openSUSE y SUSE",
+      "category": "linux",
+      "date": "2026-03-21",
+      "slug": "agama-19-una-nueva-version-con-arquitectura-revisada-pa",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 19 del instalador Agama para openSUSE y SUSE ha sido lanzada, con cambios significativos en la arquitectura y la interfaz web. Esto permitirá a los desarrolladores crear una API más simple y consistente para controlar el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-21-agama-19-una-nueva-version-con-arquitectura-revisada-pa.md"
+    },
+    {
+      "title": "Actualizaciones en ROS 2: 50 nuevos paquetes y 301 actualizaciones",
+      "category": "linux",
+      "date": "2026-03-21",
+      "slug": "actualizaciones-en-ros-2-50-nuevos-paquetes-y-301-actua",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha anunciado una actualización significativa con la incorporación de 50 nuevos paquetes y 301 actualizaciones en el entorno de desarrollo de software para robótica. Esta actualización, etiquetada como…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-21-actualizaciones-en-ros-2-50-nuevos-paquetes-y-301-actua.md"
+    },
+    {
+      "title": "Manjaro Linux: un llamado a la acción para reestructurar el proyecto",
+      "category": "linux",
+      "date": "2026-03-21",
+      "slug": "manjaro-linux-un-llamado-a-la-accion-para-reestructurar",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Manjaro Linux ha publicado un 'Manjaro 2.0 Manifesto' que denuncia la falta de separación entre la comunidad y la empresa detrás del proyecto. Esto ha llevado a la marcha de desarrolladores y a la falta de innovación.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-21-manjaro-linux-un-llamado-a-la-accion-para-reestructurar.md"
+    },
+    {
+      "title": "Conectividad WiFi y Bluetooth en Linux: un tutorial sencillo",
+      "category": "linux",
+      "date": "2026-03-21",
+      "slug": "conectividad-wifi-y-bluetooth-en-linux-un-tutorial-senc",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Después de casi dos años de espera, los usuarios de Linux pueden disfrutar de la conectividad WiFi y Bluetooth en sus dispositivos gracias a la inclusión de los drivers MediaTek M7902 en el kernel Linux. En este tutorial, aprenderás a…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-21-conectividad-wifi-y-bluetooth-en-linux-un-tutorial-senc.md"
+    },
+    {
+      "title": "Raspberry Pi: Nuevos productos y tecnologías innovadoras",
+      "category": "embebidos",
+      "date": "2026-03-21",
+      "slug": "raspberry-pi-nuevos-productos-y-tecnologias-innovadoras",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa Raspberry Pi ha lanzado una serie de productos y tecnologías innovadoras, incluyendo un sintetizador educativo, un robot ágil y una herramienta de IA visual. Estos productos están diseñados para inspirar a los jóvenes a aprender…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-21-raspberry-pi-nuevos-productos-y-tecnologias-innovadoras.md"
+    },
+    {
+      "title": "Actualizaciones en Adafruit IO y WipperSnapper",
+      "category": "embebidos",
+      "date": "2026-03-21",
+      "slug": "actualizaciones-en-adafruit-io-y-wippersnapper",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Adafruit IO y WipperSnapper han recibido actualizaciones importantes que mejoran la experiencia de usuario y agregan nuevas funcionalidades. Estas actualizaciones permiten a los usuarios crear mapas más personalizados y agregar más datos a…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-21-actualizaciones-en-adafruit-io-y-wippersnapper.md"
+    },
+    {
+      "title": "Monitoreo de temperatura y humedad con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-03-21",
+      "slug": "monitoreo-de-temperatura-y-humedad-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un proyecto de monitoreo de temperatura y humedad en tiempo real utilizando un Raspberry Pi y un sensor de temperatura y humedad. Esto puede ser útil para detectar problemas de humedad en un hogar o negocio.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-21-monitoreo-de-temperatura-y-humedad-con-raspberry-pi.md"
+    },
+    {
       "title": "Nuevos robots capaces de correr y adaptarse a entornos inesperados",
       "category": "robotica",
       "date": "2026-03-20",
