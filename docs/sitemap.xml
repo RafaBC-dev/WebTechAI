@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-21</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-22</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-una-mano-robotica-con-musculos-artificiales-y-tendone-4.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-robotas-autonomas-que-pueden-disenarse-y-ensamblarse-en.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-roscon-2026-noticias-y-eventos-de-la-comunidad-de-robot.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-desbloqueando-los-obstaculos-en-el-desarrollo-de-robots.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-radxa-aicore-dx-m1m-acelerador-de-ia-de-bajo-consumo-pa.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-editorial-retira-novela-shy-girl-debido-a-preocupacione.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-sashiko-un-servicio-de-revision-de-codigo-ai-para-el-nu.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-nvidia-y-la-polemica-de-dlss-5-ha-ido-demasiado-lejos-l.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-conecta-tu-laptop-con-wifi-y-bluetooth-en-ubuntu-2404.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-desarrolladores-crean-un-driver-linux-para-ratones-de-j.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-agama-19-una-nueva-arquitectura-para-el-instalador-de-o.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-manjaro-busca-una-nueva-forma-de-gobernanza-para-su-dis.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-actualizaciones-de-paquetes-en-ros-2-humble-hawksbill.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-actualizaciones-remotas-en-raspberry-pi-connect.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-22-raspberry-pi-innovaciones-en-robotica-musica-y-hardware.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-21-el-algoritmo-slug-para-renderizado-de-fuentes-en-gpu-ah.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-desbloqueando-los-obstaculos-en-la-robotica-humanoid.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-21-radxa-aicore-dx-m1m-acelerador-de-ia-de-baja-potencia-p.md</loc><lastmod>2026-03-21</lastmod><priority>0.8</priority></url>

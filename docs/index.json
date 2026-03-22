@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Una mano robótica con músculos artificiales y tendones",
+      "category": "robotica",
+      "date": "2026-03-22",
+      "slug": "una-mano-robotica-con-musculos-artificiales-y-tendone-4",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones. Esta innovación podría revolucionar la robótica y la medicina.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-22-una-mano-robotica-con-musculos-artificiales-y-tendone-4.md"
+    },
+    {
+      "title": "Robotas autónomas que pueden diseñarse y ensamblarse en el campo",
+      "category": "robotica",
+      "date": "2026-03-22",
+      "slug": "robotas-autonomas-que-pueden-disenarse-y-ensamblarse-en",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La Northwestern University ha presentado un sistema de módulos de construcción modular que permite diseñar y ensamblar robots autónomos en el campo. Esto abre nuevas posibilidades para la creación de robots que pueden adaptarse a entornos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-22-robotas-autonomas-que-pueden-disenarse-y-ensamblarse-en.md"
+    },
+    {
+      "title": "ROSCon 2026: Noticias y Eventos de la Comunidad de Robótica",
+      "category": "robotica",
+      "date": "2026-03-22",
+      "slug": "roscon-2026-noticias-y-eventos-de-la-comunidad-de-robot",
+      "tags": [
+        "robotica",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "La comunidad de ROSCon se prepara para una serie de eventos y actualizaciones importantes en el mundo de la robótica. Desde la adición de ROSCon España y Reino Unido a la lista de eventos regionales, hasta la apertura del plazo de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-22-roscon-2026-noticias-y-eventos-de-la-comunidad-de-robot.md"
+    },
+    {
+      "title": "Desbloqueando los obstáculos en el desarrollo de robots humanoides",
+      "category": "robotica",
+      "date": "2026-03-22",
+      "slug": "desbloqueando-los-obstaculos-en-el-desarrollo-de-robots",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La robótica humanoida avanza rápidamente, pero los ingenieros siguen enfrentando desafíos en estabilidad de locomoción, percepción en tiempo real y seguridad en la interacción humana. Un nuevo informe técnico explora las barreras clave en…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-22-desbloqueando-los-obstaculos-en-el-desarrollo-de-robots.md"
+    },
+    {
+      "title": "Radxa AICore DX-M1M: acelerador de IA de bajo consumo para aplicaciones de borde",
+      "category": "robotica",
+      "date": "2026-03-22",
+      "slug": "radxa-aicore-dx-m1m-acelerador-de-ia-de-bajo-consumo-pa",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Radxa ha lanzado el AICore DX-M1M, un módulo de aceleración de IA de bajo consumo que ofrece hasta 25 TOPS de rendimiento AI mientras consume solo 3W de potencia. Este módulo está diseñado para aplicaciones de borde como robots…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-22-radxa-aicore-dx-m1m-acelerador-de-ia-de-bajo-consumo-pa.md"
+    },
+    {
+      "title": "Editorial retira novela 'Shy Girl' debido a preocupaciones sobre IA",
+      "category": "ia",
+      "date": "2026-03-22",
+      "slug": "editorial-retira-novela-shy-girl-debido-a-preocupacione",
+      "tags": [
+        "ia-local",
+        "codigo",
+        "linux"
+      ],
+      "preview": "La editorial Hachette Book Group ha decidido no publicar la novela 'Shy Girl' debido a sospechas de que el texto fue generado por inteligencia artificial. La novela ya estaba disponible en el Reino Unido.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-22-editorial-retira-novela-shy-girl-debido-a-preocupacione.md"
+    },
+    {
+      "title": "Sashiko: un servicio de revisión de código AI para el núcleo de Linux en Rust",
+      "category": "ia",
+      "date": "2026-03-22",
+      "slug": "sashiko-un-servicio-de-revision-de-codigo-ai-para-el-nu",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Google ha lanzado un servicio de revisión de código AI llamado Sashiko, que se enfoca en el núcleo de Linux y ahora también en el código Rust. Este servicio utiliza agencia AI para revisar y mejorar el código, lo que puede ayudar a reducir…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-22-sashiko-un-servicio-de-revision-de-codigo-ai-para-el-nu.md"
+    },
+    {
+      "title": "Nvidia y la polémica de DLSS 5: ¿ha ido demasiado lejos la IA en la gráfica?",
+      "category": "ia",
+      "date": "2026-03-22",
+      "slug": "nvidia-y-la-polemica-de-dlss-5-ha-ido-demasiado-lejos-l",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Nvidia ha presentado DLSS 5, una tecnología de gráficos que utiliza IA para mejorar la calidad de las imágenes. Sin embargo, muchos jugadores y expertos han criticado la tecnología por considerarla 'slop' (suciedad) y por sobreescribir la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-22-nvidia-y-la-polemica-de-dlss-5-ha-ido-demasiado-lejos-l.md"
+    },
+    {
+      "title": "Conecta tu laptop con WiFi y Bluetooth en Ubuntu 24.04",
+      "category": "linux",
+      "date": "2026-03-22",
+      "slug": "conecta-tu-laptop-con-wifi-y-bluetooth-en-ubuntu-2404",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Después de dos años de espera, los usuarios de Linux pueden disfrutar de la conectividad WiFi y Bluetooth en sus laptops con chipsets MediaTek MT7902. Un desarrollador ha creado un método sencillo para instalar los drivers en Ubuntu 24.04.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-22-conecta-tu-laptop-con-wifi-y-bluetooth-en-ubuntu-2404.md"
+    },
+    {
+      "title": "Desarrolladores crean un driver Linux para ratones de juego Pulsar",
+      "category": "linux",
+      "date": "2026-03-22",
+      "slug": "desarrolladores-crean-un-driver-linux-para-ratones-de-j",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "Los desarrolladores de Linux están trabajando en un nuevo driver para ratones de juego Pulsar, que permitirá a los usuarios acceder a características adicionales y mejorar la experiencia de juego.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-22-desarrolladores-crean-un-driver-linux-para-ratones-de-j.md"
+    },
+    {
+      "title": "Agama 19: Una Nueva Arquitectura para el Instalador de openSUSE y SUSE",
+      "category": "linux",
+      "date": "2026-03-22",
+      "slug": "agama-19-una-nueva-arquitectura-para-el-instalador-de-o",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 19 del instalador Agama para openSUSE y SUSE ha sido lanzada, con cambios significativos en su diseño arquitectónico y organización de la interfaz web. Estos cambios permiten una mayor simplicidad y consistencia en la…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-22-agama-19-una-nueva-arquitectura-para-el-instalador-de-o.md"
+    },
+    {
+      "title": "Manjaro busca una nueva forma de gobernanza para su distribución Linux",
+      "category": "linux",
+      "date": "2026-03-22",
+      "slug": "manjaro-busca-una-nueva-forma-de-gobernanza-para-su-dis",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Manjaro Linux ha publicado un manifiesto que demanda una reestructuración del proyecto para separar la comunidad de la empresa Manjaro. Esto se debe a que la dirección actual no está actuando en el interés de la comunidad,…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-22-manjaro-busca-una-nueva-forma-de-gobernanza-para-su-dis.md"
+    },
+    {
+      "title": "Actualizaciones de paquetes en ROS 2 Humble Hawksbill",
+      "category": "linux",
+      "date": "2026-03-22",
+      "slug": "actualizaciones-de-paquetes-en-ros-2-humble-hawksbill",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha anunciado la actualización de 50 paquetes y 301 actualizaciones en la rama Humble Hawksbill. Esta actualización es importante para los usuarios de ROS 2 que buscan mantenerse actualizados con las últimas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-22-actualizaciones-de-paquetes-en-ros-2-humble-hawksbill.md"
+    },
+    {
+      "title": "Actualizaciones remotas en Raspberry Pi Connect",
+      "category": "linux",
+      "date": "2026-03-22",
+      "slug": "actualizaciones-remotas-en-raspberry-pi-connect",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Raspberry Pi Connect es una herramienta para acceder a tu Raspberry Pi de manera remota desde cualquier lugar del mundo. Ahora, se ha agregado la capacidad de realizar actualizaciones remotas de manera segura y conveniente.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-22-actualizaciones-remotas-en-raspberry-pi-connect.md"
+    },
+    {
+      "title": "Raspberry Pi: innovaciones en robótica, música y hardware educativo",
+      "category": "embebidos",
+      "date": "2026-03-22",
+      "slug": "raspberry-pi-innovaciones-en-robotica-musica-y-hardware",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux",
+        "python"
+      ],
+      "preview": "Raspberry Pi ha lanzado varias innovaciones en el campo de la robótica, la música y el hardware educativo, destacando su compromiso con la educación y la innovación. Estas nuevas tecnologías están diseñadas para inspirar a los jóvenes y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-22-raspberry-pi-innovaciones-en-robotica-musica-y-hardware.md"
+    },
+    {
       "title": "El algoritmo Slug para renderizado de fuentes en GPU ahora es de dominio público",
       "category": "diseño-3d",
       "date": "2026-03-21",
