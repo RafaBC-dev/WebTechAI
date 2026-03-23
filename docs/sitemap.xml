@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-22</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-23</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-23</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-23-kicad-10-software-de-diseno-de-pcb-con-mejoras-signific.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-desbloqueando-los-obstaculos-en-la-robotica-humanoid-un.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-robot-humanoide-aprende-habilidades-de-tenis-jugando-a-.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-robotas-modulares-para-entornos-inestables-y-desafiante.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-revision-de-arquitectura-de-robots-experto-ofrece-sesio.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-polka-una-herramienta-unificada-para-pre-procesar-punto.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-23-cursor-admite-que-su-modelo-de-codigo-se-basa-en-kimi-d.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-23-amazon-vuelve-a-la-carga-con-un-nuevo-telefono-intelige.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-linux-70-se-acerca-a-su-version-estable-con-linux-70-rc.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-manjaro-busca-un-equilibrio-entre-comunidad-y-empresa.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-nueva-version-de-agama-un-instalador-mas-solido-y-facil.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-nueva-version-del-esp32-p4-requiere-diseno-de-pcb-y-fir.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-zephyr-y-zenoh-se-integran-en-ros2-para-control-de-micr.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-la-3dfx-voodoo-revive-en-un-fpga-con-tecnologia-de-la-d.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-neuro-n6-un-desarrollo-de-ai-vision-modular-y-compacto-.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-una-mano-robotica-con-musculos-artificiales-y-tendone-4.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-robotas-autonomas-que-pueden-disenarse-y-ensamblarse-en.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-roscon-2026-noticias-y-eventos-de-la-comunidad-de-robot.md</loc><lastmod>2026-03-22</lastmod><priority>0.8</priority></url>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "KiCad 10: software de diseño de PCB con mejoras significativas",
+      "category": "diseño-3d",
+      "date": "2026-03-23",
+      "slug": "kicad-10-software-de-diseno-de-pcb-con-mejoras-signific",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "herramientas"
+      ],
+      "preview": "La versión 10 del software de diseño de PCB KiCad ha sido lanzada con varias mejoras importantes, incluyendo soporte para modo oscuro, editores gráficos de reglas de diseño y nuevos importadores de archivos. Esto significa que los…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-03-23-kicad-10-software-de-diseno-de-pcb-con-mejoras-signific.md"
+    },
+    {
+      "title": "Desbloqueando los obstáculos en la robótica humanoid: un avance crítico",
+      "category": "robotica",
+      "date": "2026-03-23",
+      "slug": "desbloqueando-los-obstaculos-en-la-robotica-humanoid-un",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica humanoid está avanzando rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de potencia.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-23-desbloqueando-los-obstaculos-en-la-robotica-humanoid-un.md"
+    },
+    {
+      "title": "Robot humanoide aprende habilidades de tenis jugando a los humanos",
+      "category": "robotica",
+      "date": "2026-03-23",
+      "slug": "robot-humanoide-aprende-habilidades-de-tenis-jugando-a-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automático"
+      ],
+      "preview": "Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a un robot humanoide aprender habilidades de tenis jugando a los humanos. Este sistema es capaz de aprender de datos imperfectos y mejorar su rendimiento en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-23-robot-humanoide-aprende-habilidades-de-tenis-jugando-a-.md"
+    },
+    {
+      "title": "Robotas modulares para entornos inestables y desafiantes",
+      "category": "robotica",
+      "date": "2026-03-23",
+      "slug": "robotas-modulares-para-entornos-inestables-y-desafiante",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion",
+        "ia-local"
+      ],
+      "preview": "Los investigadores de la Northwestern University han desarrollado un sistema de robots modulares que pueden adaptarse a entornos inestables y desafiantes, como entornos urbanos o terrenos accidentados. Esto permite la creación de robots…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-23-robotas-modulares-para-entornos-inestables-y-desafiante.md"
+    },
+    {
+      "title": "Revisión de arquitectura de robots: experto ofrece sesiones de retroalimentación",
+      "category": "robotica",
+      "date": "2026-03-23",
+      "slug": "revision-de-arquitectura-de-robots-experto-ofrece-sesio",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Un ingeniero de sistemas y arquitectura de robots ofrece sesiones de retroalimentación para proyectos de robots en desarrollo. Si estás trabajando en un proyecto de robot y necesitas orientación, este experto puede ayudarte a definir la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-23-revision-de-arquitectura-de-robots-experto-ofrece-sesio.md"
+    },
+    {
+      "title": "Polka: una herramienta unificada para pre-procesar puntos de nube",
+      "category": "robotica",
+      "date": "2026-03-23",
+      "slug": "polka-una-herramienta-unificada-para-pre-procesar-punto",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La pre-procesación de puntos de nube es un proceso complejo que requiere una cadena de nodos que trabajan en conjunto. Sin embargo, configurar estos nodos individuales puede consumir demasiados recursos de CPU y banda de ancho de banda.…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-23-polka-una-herramienta-unificada-para-pre-procesar-punto.md"
+    },
+    {
+      "title": "Cursor admite que su modelo de código se basa en Kimi de Moonshot AI",
+      "category": "ia",
+      "date": "2026-03-23",
+      "slug": "cursor-admite-que-su-modelo-de-codigo-se-basa-en-kimi-d",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "La empresa de código asistido por IA Cursor ha lanzado un nuevo modelo llamado Composer 2, que prometía 'inteligencia de código en la frontera'. Sin embargo, un usuario ha revelado que se basa en Kimi 2.5, un modelo abierto recientemente…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-23-cursor-admite-que-su-modelo-de-codigo-se-basa-en-kimi-d.md"
+    },
+    {
+      "title": "Amazon vuelve a la carga con un nuevo teléfono inteligente con IA",
+      "category": "ia",
+      "date": "2026-03-23",
+      "slug": "amazon-vuelve-a-la-carga-con-un-nuevo-telefono-intelige",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Amazon está desarrollando un nuevo teléfono inteligente llamado 'Transformer' que incluirá características de inteligencia artificial. Esto podría significar que la compañía está intentando volver a entrar en el mercado de los teléfonos…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-23-amazon-vuelve-a-la-carga-con-un-nuevo-telefono-intelige.md"
+    },
+    {
+      "title": "Linux 7.0 se acerca a su versión estable con Linux 7.0-rc5",
+      "category": "linux",
+      "date": "2026-03-23",
+      "slug": "linux-70-se-acerca-a-su-version-estable-con-linux-70-rc",
+      "tags": [
+        "linux",
+        "codigo"
+      ],
+      "preview": "Linus Torvalds ha lanzado Linux 7.0-rc5, un paso más hacia la versión estable de Linux 7.0 en abril. Esta versión incluye correcciones de errores y mejoras en drivers y hardware.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-23-linux-70-se-acerca-a-su-version-estable-con-linux-70-rc.md"
+    },
+    {
+      "title": "Manjaro busca un equilibrio entre comunidad y empresa",
+      "category": "linux",
+      "date": "2026-03-23",
+      "slug": "manjaro-busca-un-equilibrio-entre-comunidad-y-empresa",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Manjaro Linux ha publicado un manifiesto que demanda una mayor separación entre la comunidad y la empresa detrás del proyecto. Esto se debe a que los desarrolladores han abandonado el proyecto y la innovación ha disminuido.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-23-manjaro-busca-un-equilibrio-entre-comunidad-y-empresa.md"
+    },
+    {
+      "title": "Nueva versión de Agama: un instalador más sólido y fácil de usar",
+      "category": "linux",
+      "date": "2026-03-23",
+      "slug": "nueva-version-de-agama-un-instalador-mas-solido-y-facil",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 19 de Agama, un instalador para openSUSE y SUSE, ha sido lanzada con cambios significativos en su diseño arquitectónico y la organización de la interfaz web. Esto permitirá una mayor flexibilidad y personalización en la…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-23-nueva-version-de-agama-un-instalador-mas-solido-y-facil.md"
+    },
+    {
+      "title": "Nueva versión del ESP32-P4 requiere diseño de PCB y firmware actualizados",
+      "category": "embebidos",
+      "date": "2026-03-23",
+      "slug": "nueva-version-del-esp32-p4-requiere-diseno-de-pcb-y-fir",
+      "tags": [
+        "esp32",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Espressif ha lanzado una nueva versión del ESP32-P4, un microcontrolador dual-core de 400 MHz, que incluye cambios importantes en la configuración de pines y la necesidad de una actualización del firmware. Esto afecta a…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-23-nueva-version-del-esp32-p4-requiere-diseno-de-pcb-y-fir.md"
+    },
+    {
+      "title": "Zephyr y Zenoh se integran en ROS2 para control de microcontroladores",
+      "category": "embebidos",
+      "date": "2026-03-23",
+      "slug": "zephyr-y-zenoh-se-integran-en-ros2-para-control-de-micr",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Un proyecto en curso busca integrar Zephyr y Zenoh en ROS2 para crear un controlador de microcontroladores que permita la comunicación directa con ROS2 sin necesidad de un agente intermedio. Esto podría mejorar la eficiencia y la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-23-zephyr-y-zenoh-se-integran-en-ros2-para-control-de-micr.md"
+    },
+    {
+      "title": "La 3DFX Voodoo revive en un FPGA con tecnología de la década de 1990",
+      "category": "embebidos",
+      "date": "2026-03-23",
+      "slug": "la-3dfx-voodoo-revive-en-un-fpga-con-tecnologia-de-la-d",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "La 3DFX Voodoo, una tarjeta gráfica de la década de 1990, ha sido implementada en un FPGA gracias a la iniciativa de Francisco Ayala Le Brun. Esta noticia es relevante ahora mismo porque muestra cómo la tecnología antigua puede ser…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-23-la-3dfx-voodoo-revive-en-un-fpga-con-tecnologia-de-la-d.md"
+    },
+    {
+      "title": "Neuro N6: un desarrollo de AI vision modular y compacto para proyectos de robótica",
+      "category": "embebidos",
+      "date": "2026-03-23",
+      "slug": "neuro-n6-un-desarrollo-de-ai-vision-modular-y-compacto-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Ohm Lab ha lanzado el Neuro N6, un desarrollo de AI vision compacto y modular que permite a los desarrolladores crear proyectos de robótica avanzados con facilidad. Este módulo está diseñado para trabajar con cámaras de diferentes tipos y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-23-neuro-n6-un-desarrollo-de-ai-vision-modular-y-compacto-.md"
+    },
+    {
       "title": "Una mano robótica con músculos artificiales y tendones",
       "category": "robotica",
       "date": "2026-03-22",
