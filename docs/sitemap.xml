@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-23</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-23</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-24</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-kuka-lbrs-ahora-disponibles-en-robostack.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-superar-obstaculos-en-la-robotica-humana-un-paso-hacia-.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-la-armada-robotica-china-como-empresas-estadounidenses-.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-nueva-herramienta-de-registro-para-ros2-un-marco-de-tra.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-error-de-gazebo-harmonic-crashes-constantes-con-error-d.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-robotas-autonomas-que-pueden-disenarse-y-construirse--2.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-bernie-sanders-y-la-ciberpsicosis-como-los-chatbots-de-.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-cix-lanza-la-familia-de-cpus-clawcore-armv92-para-openc.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-flipper-zero-con-inteligencia-artificial-un-paso-hacia-.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-actualizaciones-de-seguridad-para-sistemas-operativos-2.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-patch-de-intel-fred-ahora-habilitado-por-defecto-en-lin.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-reemplazo-para-el-famoso-procesador-zilog-z80.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-ampisu-un-laboratorio-de-poder-compacto-y-aislado-para-.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-esp-idf-v60-soporte-estable-para-esp32-c5-y-esp32-c61.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-23-kicad-10-software-de-diseno-de-pcb-con-mejoras-signific.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-desbloqueando-los-obstaculos-en-la-robotica-humanoid-un.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-robot-humanoide-aprende-habilidades-de-tenis-jugando-a-.md</loc><lastmod>2026-03-23</lastmod><priority>0.8</priority></url>

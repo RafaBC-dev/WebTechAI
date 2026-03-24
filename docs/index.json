@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Un robot humanoide aprende a jugar tenis gracias a la IA",
+      "category": "robotica",
+      "date": "2026-03-24",
+      "slug": "un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a un robot humanoide aprender a jugar tenis de manera autónoma. El robot puede observar a un jugador humano y aprender a imitar sus movimientos, lo que…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md"
+    },
+    {
+      "title": "KUKA LBRs ahora disponibles en RoboStack",
+      "category": "robotica",
+      "date": "2026-03-24",
+      "slug": "kuka-lbrs-ahora-disponibles-en-robostack",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La noticia es que los robots KUKA iiwa y med ahora pueden ser instalados fácilmente en sistemas Linux gracias a RoboStack. Esto abre nuevas posibilidades para la robótica y la automatización en diversas industrias.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-24-kuka-lbrs-ahora-disponibles-en-robostack.md"
+    },
+    {
+      "title": "Superar obstáculos en la robótica humana: un paso hacia la comercialización",
+      "category": "robotica",
+      "date": "2026-03-24",
+      "slug": "superar-obstaculos-en-la-robotica-humana-un-paso-hacia-",
+      "tags": [
+        "robotica",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "La robótica humana avanza rápidamente, pero los ingenieros enfrentan desafíos significativos en estabilidad de locomoción, percepción en tiempo real y seguridad en la interacción humana. Entender los componentes clave para lograr sistemas…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-24-superar-obstaculos-en-la-robotica-humana-un-paso-hacia-.md"
+    },
+    {
+      "title": "La armada robótica china: cómo empresas estadounidenses financian la revolución robótica",
+      "category": "robotica",
+      "date": "2026-03-24",
+      "slug": "la-armada-robotica-china-como-empresas-estadounidenses-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La industria robótica china está experimentando un crecimiento explosivo, con más de 140 empresas trabajando en humanoides. Pero detrás de esta revolución, hay una fuerza invisible que la hace posible: una red de trabajadores jóvenes que…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-24-la-armada-robotica-china-como-empresas-estadounidenses-.md"
+    },
+    {
+      "title": "Nueva herramienta de registro para ROS2: un marco de trabajo compuesto para C++",
+      "category": "robotica",
+      "date": "2026-03-24",
+      "slug": "nueva-herramienta-de-registro-para-ros2-un-marco-de-tra",
+      "tags": [
+        "robotica",
+        "codigo",
+        "linux"
+      ],
+      "preview": "Después de sentirse abrumado por la verbosidad de los macros de registro de ROS2, un desarrollador ha creado una alternativa más concisa y compuesta basada en flujos de C++.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-24-nueva-herramienta-de-registro-para-ros2-un-marco-de-tra.md"
+    },
+    {
+      "title": "Error de Gazebo Harmonic: Crashes Constantes con Error de Hilo de Renderizado GUI",
+      "category": "robotica",
+      "date": "2026-03-24",
+      "slug": "error-de-gazebo-harmonic-crashes-constantes-con-error-d",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un usuario de Gazebo Harmonic (v8.10.0) está experimentando problemas de estabilidad con el simulador TurtleBot 4. Después de mover el robot simulado, el programa se cae constantemente con un error de segmentación. ¿Qué está pasando y cómo…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-24-error-de-gazebo-harmonic-crashes-constantes-con-error-d.md"
+    },
+    {
+      "title": "Robotas autónomas que pueden diseñarse y construirse en el campo",
+      "category": "robotica",
+      "date": "2026-03-24",
+      "slug": "robotas-autonomas-que-pueden-disenarse-y-construirse--2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La investigación en robótica ha dado un paso importante con la creación de robots autónomos que pueden diseñarse y construirse en el campo, sin la necesidad de un plan predefinido por humanos. Esto abre nuevas posibilidades para la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-24-robotas-autonomas-que-pueden-disenarse-y-construirse--2.md"
+    },
+    {
+      "title": "Bernie Sanders y la ciberpsicosis: cómo los chatbots de IA pueden engañar",
+      "category": "ia",
+      "date": "2026-03-24",
+      "slug": "bernie-sanders-y-la-ciberpsicosis-como-los-chatbots-de-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El senador estadounidense Bernie Sanders ha lanzado un video viral para denunciar los peligros de la industria de la IA, pero ha terminado demostrando cómo los chatbots pueden volverse reflejos de las creencias de sus usuarios. Esto puede…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-24-bernie-sanders-y-la-ciberpsicosis-como-los-chatbots-de-.md"
+    },
+    {
+      "title": "CIX lanza la familia de CPUs ClawCore Armv9.2 para OpenClaw",
+      "category": "ia",
+      "date": "2026-03-24",
+      "slug": "cix-lanza-la-familia-de-cpus-clawcore-armv92-para-openc",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "CIX ha presentado la familia de CPUs ClawCore Armv9.2, diseñadas específicamente para OpenClaw. Esta tecnología promete mejorar la eficiencia y la seguridad en la implementación de inteligencia artificial en dispositivos de bordo.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-24-cix-lanza-la-familia-de-cpus-clawcore-armv92-para-openc.md"
+    },
+    {
+      "title": "Flipper Zero con inteligencia artificial: un paso hacia la automatización",
+      "category": "linux",
+      "date": "2026-03-24",
+      "slug": "flipper-zero-con-inteligencia-artificial-un-paso-hacia-",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "La herramienta de hacking Flipper Zero acaba de recibir un upgrade significativo con la integración de una inteligencia artificial (IA) que permite controlarla mediante comandos naturales. Esto podría cambiar la forma en que se utiliza…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-24-flipper-zero-con-inteligencia-artificial-un-paso-hacia-.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-03-24",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos-2",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Mageia, Red Hat, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades críticas en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-24-actualizaciones-de-seguridad-para-sistemas-operativos-2.md"
+    },
+    {
+      "title": "Patch de Intel FRED ahora habilitado por defecto en Linux",
+      "category": "linux",
+      "date": "2026-03-24",
+      "slug": "patch-de-intel-fred-ahora-habilitado-por-defecto-en-lin",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Intel ha publicado un parche para habilitar por defecto la tecnología FRED en Linux, lo que puede mejorar el rendimiento en sistemas con procesadores Core Ultra Series 3 y Xeon Diamond Rapids.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-24-patch-de-intel-fred-ahora-habilitado-por-defecto-en-lin.md"
+    },
+    {
+      "title": "Reemplazo para el famoso procesador Zilog Z80",
+      "category": "embebidos",
+      "date": "2026-03-24",
+      "slug": "reemplazo-para-el-famoso-procesador-zilog-z80",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "El procesador Zilog Z80 ha sido una pieza clave en la historia de la informática, pero su producción se ha detenido. Sin embargo, un ingeniero ha creado un reemplazo que ofrece más funcionalidades y compatibilidad con sistemas antiguos.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-24-reemplazo-para-el-famoso-procesador-zilog-z80.md"
+    },
+    {
+      "title": "Ampisu: un laboratorio de poder compacto y aislado para el trabajo de campo",
+      "category": "embebidos",
+      "date": "2026-03-24",
+      "slug": "ampisu-un-laboratorio-de-poder-compacto-y-aislado-para-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La tecnología de los suministros de poder USB-C se ha vuelto más accesible y asequible, pero la mayoría de los dispositivos disponibles tienen limitaciones. El Ampisu es un laboratorio de poder compacto y aislado diseñado para el trabajo…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-24-ampisu-un-laboratorio-de-poder-compacto-y-aislado-para-.md"
+    },
+    {
+      "title": "ESP-IDF v6.0: soporte estable para ESP32-C5 y ESP32-C61",
+      "category": "embebidos",
+      "date": "2026-03-24",
+      "slug": "esp-idf-v60-soporte-estable-para-esp32-c5-y-esp32-c61",
+      "tags": [
+        "esp32",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Espressif Systems ha lanzado el framework ESP-IDF v6.0 con soporte estable para los microcontroladores ESP32-C5 y ESP32-C61. Además, se incluye soporte previo para ESP32-H21 y ESP32-H4, así como mejoras en la instalación, seguridad y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-24-esp-idf-v60-soporte-estable-para-esp32-c5-y-esp32-c61.md"
+    },
+    {
       "title": "KiCad 10: software de diseño de PCB con mejoras significativas",
       "category": "diseño-3d",
       "date": "2026-03-23",

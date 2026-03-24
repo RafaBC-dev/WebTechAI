@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 23 Mar 2026 07:56:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 07:48:03 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Un robot humanoide aprende a jugar tenis gracias a la IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a un robot humanoide aprender a jugar tenis de manera autónoma. El robot puede observar a un jugador humano y aprender a imitar sus movimientos, lo que…</description>
+  </item>
+  <item>
+    <title>KUKA LBRs ahora disponibles en RoboStack</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-kuka-lbrs-ahora-disponibles-en-robostack.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-kuka-lbrs-ahora-disponibles-en-robostack.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La noticia es que los robots KUKA iiwa y med ahora pueden ser instalados fácilmente en sistemas Linux gracias a RoboStack. Esto abre nuevas posibilidades para la robótica y la automatización en diversas industrias.</description>
+  </item>
+  <item>
+    <title>Superar obstáculos en la robótica humana: un paso hacia la comercialización</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-superar-obstaculos-en-la-robotica-humana-un-paso-hacia-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-superar-obstaculos-en-la-robotica-humana-un-paso-hacia-.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica humana avanza rápidamente, pero los ingenieros enfrentan desafíos significativos en estabilidad de locomoción, percepción en tiempo real y seguridad en la interacción humana. Entender los componentes clave para lograr sistemas…</description>
+  </item>
+  <item>
+    <title>La armada robótica china: cómo empresas estadounidenses financian la revolución robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-la-armada-robotica-china-como-empresas-estadounidenses-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-la-armada-robotica-china-como-empresas-estadounidenses-.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La industria robótica china está experimentando un crecimiento explosivo, con más de 140 empresas trabajando en humanoides. Pero detrás de esta revolución, hay una fuerza invisible que la hace posible: una red de trabajadores jóvenes que…</description>
+  </item>
+  <item>
+    <title>Nueva herramienta de registro para ROS2: un marco de trabajo compuesto para C++</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-nueva-herramienta-de-registro-para-ros2-un-marco-de-tra.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-nueva-herramienta-de-registro-para-ros2-un-marco-de-tra.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Después de sentirse abrumado por la verbosidad de los macros de registro de ROS2, un desarrollador ha creado una alternativa más concisa y compuesta basada en flujos de C++.</description>
+  </item>
+  <item>
+    <title>Error de Gazebo Harmonic: Crashes Constantes con Error de Hilo de Renderizado GUI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-error-de-gazebo-harmonic-crashes-constantes-con-error-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-error-de-gazebo-harmonic-crashes-constantes-con-error-d.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un usuario de Gazebo Harmonic (v8.10.0) está experimentando problemas de estabilidad con el simulador TurtleBot 4. Después de mover el robot simulado, el programa se cae constantemente con un error de segmentación. ¿Qué está pasando y cómo…</description>
+  </item>
+  <item>
+    <title>Robotas autónomas que pueden diseñarse y construirse en el campo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-robotas-autonomas-que-pueden-disenarse-y-construirse--2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-robotas-autonomas-que-pueden-disenarse-y-construirse--2.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La investigación en robótica ha dado un paso importante con la creación de robots autónomos que pueden diseñarse y construirse en el campo, sin la necesidad de un plan predefinido por humanos. Esto abre nuevas posibilidades para la…</description>
+  </item>
+  <item>
+    <title>Bernie Sanders y la ciberpsicosis: cómo los chatbots de IA pueden engañar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-bernie-sanders-y-la-ciberpsicosis-como-los-chatbots-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-bernie-sanders-y-la-ciberpsicosis-como-los-chatbots-de-.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El senador estadounidense Bernie Sanders ha lanzado un video viral para denunciar los peligros de la industria de la IA, pero ha terminado demostrando cómo los chatbots pueden volverse reflejos de las creencias de sus usuarios. Esto puede…</description>
+  </item>
+  <item>
+    <title>CIX lanza la familia de CPUs ClawCore Armv9.2 para OpenClaw</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-cix-lanza-la-familia-de-cpus-clawcore-armv92-para-openc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-cix-lanza-la-familia-de-cpus-clawcore-armv92-para-openc.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>CIX ha presentado la familia de CPUs ClawCore Armv9.2, diseñadas específicamente para OpenClaw. Esta tecnología promete mejorar la eficiencia y la seguridad en la implementación de inteligencia artificial en dispositivos de bordo.</description>
+  </item>
+  <item>
+    <title>Flipper Zero con inteligencia artificial: un paso hacia la automatización</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-flipper-zero-con-inteligencia-artificial-un-paso-hacia-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-flipper-zero-con-inteligencia-artificial-un-paso-hacia-.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La herramienta de hacking Flipper Zero acaba de recibir un upgrade significativo con la integración de una inteligencia artificial (IA) que permite controlarla mediante comandos naturales. Esto podría cambiar la forma en que se utiliza…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-actualizaciones-de-seguridad-para-sistemas-operativos-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-actualizaciones-de-seguridad-para-sistemas-operativos-2.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Mageia, Red Hat, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades críticas en…</description>
+  </item>
+  <item>
+    <title>Patch de Intel FRED ahora habilitado por defecto en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-patch-de-intel-fred-ahora-habilitado-por-defecto-en-lin.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-patch-de-intel-fred-ahora-habilitado-por-defecto-en-lin.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Intel ha publicado un parche para habilitar por defecto la tecnología FRED en Linux, lo que puede mejorar el rendimiento en sistemas con procesadores Core Ultra Series 3 y Xeon Diamond Rapids.</description>
+  </item>
+  <item>
+    <title>Reemplazo para el famoso procesador Zilog Z80</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-reemplazo-para-el-famoso-procesador-zilog-z80.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-reemplazo-para-el-famoso-procesador-zilog-z80.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El procesador Zilog Z80 ha sido una pieza clave en la historia de la informática, pero su producción se ha detenido. Sin embargo, un ingeniero ha creado un reemplazo que ofrece más funcionalidades y compatibilidad con sistemas antiguos.</description>
+  </item>
+  <item>
+    <title>Ampisu: un laboratorio de poder compacto y aislado para el trabajo de campo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-ampisu-un-laboratorio-de-poder-compacto-y-aislado-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-ampisu-un-laboratorio-de-poder-compacto-y-aislado-para-.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La tecnología de los suministros de poder USB-C se ha vuelto más accesible y asequible, pero la mayoría de los dispositivos disponibles tienen limitaciones. El Ampisu es un laboratorio de poder compacto y aislado diseñado para el trabajo…</description>
+  </item>
+  <item>
+    <title>ESP-IDF v6.0: soporte estable para ESP32-C5 y ESP32-C61</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-esp-idf-v60-soporte-estable-para-esp32-c5-y-esp32-c61.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-esp-idf-v60-soporte-estable-para-esp32-c5-y-esp32-c61.md</guid>
+    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Espressif Systems ha lanzado el framework ESP-IDF v6.0 con soporte estable para los microcontroladores ESP32-C5 y ESP32-C61. Además, se incluye soporte previo para ESP32-H21 y ESP32-H4, así como mejoras en la instalación, seguridad y…</description>
+  </item>
   <item>
     <title>KiCad 10: software de diseño de PCB con mejoras significativas</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-23-kicad-10-software-de-diseno-de-pcb-con-mejoras-signific.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>Ohm Lab ha lanzado el Neuro N6, un desarrollo de AI vision compacto y modular que permite a los desarrolladores crear proyectos de robótica avanzados con facilidad. Este módulo está diseñado para trabajar con cámaras de diferentes tipos y…</description>
-  </item>
-  <item>
-    <title>Una mano robótica con músculos artificiales y tendones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-una-mano-robotica-con-musculos-artificiales-y-tendone-4.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-una-mano-robotica-con-musculos-artificiales-y-tendone-4.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores han creado una mano robótica inspirada en la naturaleza, con músculos artificiales y tendones. Esta innovación podría revolucionar la robótica y la medicina.</description>
-  </item>
-  <item>
-    <title>Robotas autónomas que pueden diseñarse y ensamblarse en el campo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-robotas-autonomas-que-pueden-disenarse-y-ensamblarse-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-robotas-autonomas-que-pueden-disenarse-y-ensamblarse-en.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La Northwestern University ha presentado un sistema de módulos de construcción modular que permite diseñar y ensamblar robots autónomos en el campo. Esto abre nuevas posibilidades para la creación de robots que pueden adaptarse a entornos…</description>
-  </item>
-  <item>
-    <title>ROSCon 2026: Noticias y Eventos de la Comunidad de Robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-roscon-2026-noticias-y-eventos-de-la-comunidad-de-robot.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-roscon-2026-noticias-y-eventos-de-la-comunidad-de-robot.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROSCon se prepara para una serie de eventos y actualizaciones importantes en el mundo de la robótica. Desde la adición de ROSCon España y Reino Unido a la lista de eventos regionales, hasta la apertura del plazo de…</description>
-  </item>
-  <item>
-    <title>Desbloqueando los obstáculos en el desarrollo de robots humanoides</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-desbloqueando-los-obstaculos-en-el-desarrollo-de-robots.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-desbloqueando-los-obstaculos-en-el-desarrollo-de-robots.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica humanoida avanza rápidamente, pero los ingenieros siguen enfrentando desafíos en estabilidad de locomoción, percepción en tiempo real y seguridad en la interacción humana. Un nuevo informe técnico explora las barreras clave en…</description>
-  </item>
-  <item>
-    <title>Radxa AICore DX-M1M: acelerador de IA de bajo consumo para aplicaciones de borde</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-radxa-aicore-dx-m1m-acelerador-de-ia-de-bajo-consumo-pa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-22-radxa-aicore-dx-m1m-acelerador-de-ia-de-bajo-consumo-pa.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Radxa ha lanzado el AICore DX-M1M, un módulo de aceleración de IA de bajo consumo que ofrece hasta 25 TOPS de rendimiento AI mientras consume solo 3W de potencia. Este módulo está diseñado para aplicaciones de borde como robots…</description>
-  </item>
-  <item>
-    <title>Editorial retira novela 'Shy Girl' debido a preocupaciones sobre IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-editorial-retira-novela-shy-girl-debido-a-preocupacione.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-editorial-retira-novela-shy-girl-debido-a-preocupacione.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La editorial Hachette Book Group ha decidido no publicar la novela 'Shy Girl' debido a sospechas de que el texto fue generado por inteligencia artificial. La novela ya estaba disponible en el Reino Unido.</description>
-  </item>
-  <item>
-    <title>Sashiko: un servicio de revisión de código AI para el núcleo de Linux en Rust</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-sashiko-un-servicio-de-revision-de-codigo-ai-para-el-nu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-sashiko-un-servicio-de-revision-de-codigo-ai-para-el-nu.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google ha lanzado un servicio de revisión de código AI llamado Sashiko, que se enfoca en el núcleo de Linux y ahora también en el código Rust. Este servicio utiliza agencia AI para revisar y mejorar el código, lo que puede ayudar a reducir…</description>
-  </item>
-  <item>
-    <title>Nvidia y la polémica de DLSS 5: ¿ha ido demasiado lejos la IA en la gráfica?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-nvidia-y-la-polemica-de-dlss-5-ha-ido-demasiado-lejos-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-22-nvidia-y-la-polemica-de-dlss-5-ha-ido-demasiado-lejos-l.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Nvidia ha presentado DLSS 5, una tecnología de gráficos que utiliza IA para mejorar la calidad de las imágenes. Sin embargo, muchos jugadores y expertos han criticado la tecnología por considerarla 'slop' (suciedad) y por sobreescribir la…</description>
-  </item>
-  <item>
-    <title>Conecta tu laptop con WiFi y Bluetooth en Ubuntu 24.04</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-conecta-tu-laptop-con-wifi-y-bluetooth-en-ubuntu-2404.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-conecta-tu-laptop-con-wifi-y-bluetooth-en-ubuntu-2404.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Después de dos años de espera, los usuarios de Linux pueden disfrutar de la conectividad WiFi y Bluetooth en sus laptops con chipsets MediaTek MT7902. Un desarrollador ha creado un método sencillo para instalar los drivers en Ubuntu 24.04.</description>
-  </item>
-  <item>
-    <title>Desarrolladores crean un driver Linux para ratones de juego Pulsar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-desarrolladores-crean-un-driver-linux-para-ratones-de-j.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-desarrolladores-crean-un-driver-linux-para-ratones-de-j.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los desarrolladores de Linux están trabajando en un nuevo driver para ratones de juego Pulsar, que permitirá a los usuarios acceder a características adicionales y mejorar la experiencia de juego.</description>
-  </item>
-  <item>
-    <title>Agama 19: Una Nueva Arquitectura para el Instalador de openSUSE y SUSE</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-agama-19-una-nueva-arquitectura-para-el-instalador-de-o.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-agama-19-una-nueva-arquitectura-para-el-instalador-de-o.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 19 del instalador Agama para openSUSE y SUSE ha sido lanzada, con cambios significativos en su diseño arquitectónico y organización de la interfaz web. Estos cambios permiten una mayor simplicidad y consistencia en la…</description>
-  </item>
-  <item>
-    <title>Manjaro busca una nueva forma de gobernanza para su distribución Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-manjaro-busca-una-nueva-forma-de-gobernanza-para-su-dis.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-manjaro-busca-una-nueva-forma-de-gobernanza-para-su-dis.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Manjaro Linux ha publicado un manifiesto que demanda una reestructuración del proyecto para separar la comunidad de la empresa Manjaro. Esto se debe a que la dirección actual no está actuando en el interés de la comunidad,…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de paquetes en ROS 2 Humble Hawksbill</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-actualizaciones-de-paquetes-en-ros-2-humble-hawksbill.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-actualizaciones-de-paquetes-en-ros-2-humble-hawksbill.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ROS 2 ha anunciado la actualización de 50 paquetes y 301 actualizaciones en la rama Humble Hawksbill. Esta actualización es importante para los usuarios de ROS 2 que buscan mantenerse actualizados con las últimas…</description>
-  </item>
-  <item>
-    <title>Actualizaciones remotas en Raspberry Pi Connect</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-actualizaciones-remotas-en-raspberry-pi-connect.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-22-actualizaciones-remotas-en-raspberry-pi-connect.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Raspberry Pi Connect es una herramienta para acceder a tu Raspberry Pi de manera remota desde cualquier lugar del mundo. Ahora, se ha agregado la capacidad de realizar actualizaciones remotas de manera segura y conveniente.</description>
-  </item>
-  <item>
-    <title>Raspberry Pi: innovaciones en robótica, música y hardware educativo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-22-raspberry-pi-innovaciones-en-robotica-musica-y-hardware.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-22-raspberry-pi-innovaciones-en-robotica-musica-y-hardware.md</guid>
-    <pubDate>Sun, 22 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Raspberry Pi ha lanzado varias innovaciones en el campo de la robótica, la música y el hardware educativo, destacando su compromiso con la educación y la innovación. Estas nuevas tecnologías están diseñadas para inspirar a los jóvenes y…</description>
   </item>
 </channel>
 </rss>
