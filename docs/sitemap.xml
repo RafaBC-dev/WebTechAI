@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-24</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-25</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-25-prueba-de-un-filamento-de-nylon-reforzado-con-grafito-e.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-fusioncore-un-paquete-de-fusion-de-sensores-para-ros-2-.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-la-proxima-inflexion-en-la-guerra-de-drones-en-ucrania.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-robot-humanoide-aprende-habilidades-de-tenis-jugando-co.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-un-brazo-robotico-3d-impreso-para-aprender-sobre-roboti.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-camara-de-vision-ai-autonoma-para-robots-con-procesamie.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-desbloqueando-los-obstaculos-en-el-desarrollo-de-roboti.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-roscon-global-2026-llamado-a-patrocinadores-para-la-con.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-openai-cierra-su-aplicacion-de-ia-sora-por-falta-de-int.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-reachy-mini-un-robot-de-ia-abierto-para-computadoras-y-.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-litellm-en-pypi-comprometido-una-amenaza-para-la-seguri.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-mejora-en-el-rendimiento-de-juegos-dx12-en-linux-gracia.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-controladores-de-impresion-termica-con-markdown-y-webui.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-oracle-lanza-el-nucleo-empresarial-inquebrantable-82-so.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-25-esp32-s31-un-microcontrolador-dual-core-risc-v-con-cone.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-kuka-lbrs-ahora-disponibles-en-robostack.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-superar-obstaculos-en-la-robotica-humana-un-paso-hacia-.md</loc><lastmod>2026-03-24</lastmod><priority>0.8</priority></url>

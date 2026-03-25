@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Mar 2026 07:48:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 07:47:48 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Prueba de un filamento de nylon reforzado con grafito extremadamente caro</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-25-prueba-de-un-filamento-de-nylon-reforzado-con-grafito-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-25-prueba-de-un-filamento-de-nylon-reforzado-con-grafito-e.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un investigador ha probado un filamento de nylon reforzado con grafito de alta calidad, conocido como PA1205, que cuesta $150 por kilogramo. Aunque es más fuerte y ligero que otros filamentos de nylon, su precio es prohibitivo.</description>
+  </item>
+  <item>
+    <title>FusionCore: un paquete de fusión de sensores para ROS 2 Jazzy</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-fusioncore-un-paquete-de-fusion-de-sensores-para-ros-2-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-fusioncore-un-paquete-de-fusion-de-sensores-para-ros-2-.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El paquete de fusión de sensores FusionCore ha sido creado para resolver el problema de la falta de una herramienta de fusión de sensores fácil de usar para ROS 2 Jazzy. Con la desaparición de robot_localization, los desarrolladores de…</description>
+  </item>
+  <item>
+    <title>La próxima inflexión en la guerra de drones en Ucrania</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-la-proxima-inflexion-en-la-guerra-de-drones-en-ucrania.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-la-proxima-inflexion-en-la-guerra-de-drones-en-ucrania.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La invasión rusa en Ucrania ha llevado a la creación de un ejército de drones autónomos que están cambiando la forma en que se libran las batallas. Los técnicos ucranianos están utilizando drones para realizar misiones de vigilancia y…</description>
+  </item>
+  <item>
+    <title>Robot humanoide aprende habilidades de tenis jugando con humanos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-robot-humanoide-aprende-habilidades-de-tenis-jugando-co.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-robot-humanoide-aprende-habilidades-de-tenis-jugando-co.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a un robot humanoide aprender habilidades de tenis jugando con humanos. Este sistema es capaz de aprender de datos imperfectos y reproducir comportamientos…</description>
+  </item>
+  <item>
+    <title>Un brazo robótico 3D impreso para aprender sobre robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-un-brazo-robotico-3d-impreso-para-aprender-sobre-roboti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-un-brazo-robotico-3d-impreso-para-aprender-sobre-roboti.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un entusiasta de la robótica ha construido un brazo robótico 3D impreso para aprender sobre el control y la programación de robots. Este proyecto es una excelente oportunidad para que los interesados en la robótica puedan practicar y…</description>
+  </item>
+  <item>
+    <title>Cámara de visión AI autónoma para robots con procesamiento en el propio dispositivo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-camara-de-vision-ai-autonoma-para-robots-con-procesamie.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-camara-de-vision-ai-autonoma-para-robots-con-procesamie.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>LooperRobotics ha lanzado una cámara de visión AI autónoma llamada Insight 9, diseñada para robots y plataformas móviles. Esta cámara puede realizar tareas como mapeo de espacios y detección de profundidad sin necesidad de un ordenador…</description>
+  </item>
+  <item>
+    <title>Desbloqueando los obstáculos en el desarrollo de robótica humana</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-desbloqueando-los-obstaculos-en-el-desarrollo-de-roboti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-desbloqueando-los-obstaculos-en-el-desarrollo-de-roboti.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica humana avanza rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de potencia. Entender…</description>
+  </item>
+  <item>
+    <title>ROSCon Global 2026: Llamado a patrocinadores para la conferencia de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-roscon-global-2026-llamado-a-patrocinadores-para-la-con.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-roscon-global-2026-llamado-a-patrocinadores-para-la-con.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROSCon ha lanzado un llamado a patrocinadores para la conferencia ROSCon Global 2026, que se celebrará en Toronto del 22 al 24 de septiembre. Esta conferencia es una oportunidad única para conectar con desarrolladores de…</description>
+  </item>
+  <item>
+    <title>OpenAI cierra su aplicación de IA Sora por falta de interés</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-openai-cierra-su-aplicacion-de-ia-sora-por-falta-de-int.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-openai-cierra-su-aplicacion-de-ia-sora-por-falta-de-int.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha anunciado el cierre de Sora, una aplicación de IA que permitía crear contenido como TikTok con la ayuda de modelos de aprendizaje automático. Aunque inicialmente hubo un gran interés en la aplicación, no logró mantener una…</description>
+  </item>
+  <item>
+    <title>Reachy Mini: un robot de IA abierto para computadoras y Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-reachy-mini-un-robot-de-ia-abierto-para-computadoras-y-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-reachy-mini-un-robot-de-ia-abierto-para-computadoras-y-.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Hugging Face ha lanzado Reachy Mini, un robot de IA abierto que se puede conectar a computadoras y Raspberry Pi. Con una cámara, micrófonos y un altavoz, puede interactuar con el mundo físico y ejecutar aplicaciones de IA.</description>
+  </item>
+  <item>
+    <title>LiteLLM en PyPI comprometido: una amenaza para la seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-litellm-en-pypi-comprometido-una-amenaza-para-la-seguri.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-25-litellm-en-pypi-comprometido-una-amenaza-para-la-seguri.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>LiteLLM, una biblioteca de inteligencia artificial, ha sido comprometida en la tienda de paquetes PyPI. Esto significa que cualquier persona que haya instalado la versión 1.82.8 del paquete puede haber sido víctima de un ataque de robo de…</description>
+  </item>
+  <item>
+    <title>Mejora en el rendimiento de juegos DX12 en Linux gracias a Intel</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-mejora-en-el-rendimiento-de-juegos-dx12-en-linux-gracia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-mejora-en-el-rendimiento-de-juegos-dx12-en-linux-gracia.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Intel ha lanzado una actualización para su driver Vulkan Linux que mejora el rendimiento de juegos que utilizan Direct3D 12 (DX12) en Linux. Esta mejora se logra gracias a una característica llamada BTP+BTI RCC Keying.</description>
+  </item>
+  <item>
+    <title>Controladores de impresión térmica con Markdown y WebUI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-controladores-de-impresion-termica-con-markdown-y-webui.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-controladores-de-impresion-termica-con-markdown-y-webui.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>¿Tienes un controlador de impresión térmica que se ha quedado sin uso? ThermalMarky es aquí para ayudarte a darle una segunda vida con soporte básico para Markdown y una interfaz web intuitiva.</description>
+  </item>
+  <item>
+    <title>Oracle lanza el núcleo empresarial inquebrantable 8.2 sobre Linux 6.12 LTS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-oracle-lanza-el-nucleo-empresarial-inquebrantable-82-so.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-25-oracle-lanza-el-nucleo-empresarial-inquebrantable-82-so.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Oracle ha lanzado el Unbreakable Enterprise Kernel 8.2 (UEK 8.2) para su distribución Oracle Linux. Este núcleo empresarial es una alternativa al kernel RHEL-clone y ofrece características adicionales y hardening. El UEK 8.2 sigue…</description>
+  </item>
+  <item>
+    <title>ESP32-S31: un microcontrolador dual-core RISC-V con conectividad inalámbrica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-25-esp32-s31-un-microcontrolador-dual-core-risc-v-con-cone.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-25-esp32-s31-un-microcontrolador-dual-core-risc-v-con-cone.md</guid>
+    <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Espressif Systems ha lanzado un nuevo microcontrolador inalámbrico potente, el ESP32-S31, que cuenta con una arquitectura dual-core RISC-V y conectividad Gigabit Ethernet, WiFi, Bluetooth y 802.15.4.</description>
+  </item>
   <item>
     <title>Un robot humanoide aprende a jugar tenis gracias a la IA</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>Espressif Systems ha lanzado el framework ESP-IDF v6.0 con soporte estable para los microcontroladores ESP32-C5 y ESP32-C61. Además, se incluye soporte previo para ESP32-H21 y ESP32-H4, así como mejoras en la instalación, seguridad y…</description>
-  </item>
-  <item>
-    <title>KiCad 10: software de diseño de PCB con mejoras significativas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-23-kicad-10-software-de-diseno-de-pcb-con-mejoras-signific.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-23-kicad-10-software-de-diseno-de-pcb-con-mejoras-signific.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>La versión 10 del software de diseño de PCB KiCad ha sido lanzada con varias mejoras importantes, incluyendo soporte para modo oscuro, editores gráficos de reglas de diseño y nuevos importadores de archivos. Esto significa que los…</description>
-  </item>
-  <item>
-    <title>Desbloqueando los obstáculos en la robótica humanoid: un avance crítico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-desbloqueando-los-obstaculos-en-la-robotica-humanoid-un.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-desbloqueando-los-obstaculos-en-la-robotica-humanoid-un.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica humanoid está avanzando rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de potencia.</description>
-  </item>
-  <item>
-    <title>Robot humanoide aprende habilidades de tenis jugando a los humanos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-robot-humanoide-aprende-habilidades-de-tenis-jugando-a-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-robot-humanoide-aprende-habilidades-de-tenis-jugando-a-.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a un robot humanoide aprender habilidades de tenis jugando a los humanos. Este sistema es capaz de aprender de datos imperfectos y mejorar su rendimiento en…</description>
-  </item>
-  <item>
-    <title>Robotas modulares para entornos inestables y desafiantes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-robotas-modulares-para-entornos-inestables-y-desafiante.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-robotas-modulares-para-entornos-inestables-y-desafiante.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los investigadores de la Northwestern University han desarrollado un sistema de robots modulares que pueden adaptarse a entornos inestables y desafiantes, como entornos urbanos o terrenos accidentados. Esto permite la creación de robots…</description>
-  </item>
-  <item>
-    <title>Revisión de arquitectura de robots: experto ofrece sesiones de retroalimentación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-revision-de-arquitectura-de-robots-experto-ofrece-sesio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-revision-de-arquitectura-de-robots-experto-ofrece-sesio.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un ingeniero de sistemas y arquitectura de robots ofrece sesiones de retroalimentación para proyectos de robots en desarrollo. Si estás trabajando en un proyecto de robot y necesitas orientación, este experto puede ayudarte a definir la…</description>
-  </item>
-  <item>
-    <title>Polka: una herramienta unificada para pre-procesar puntos de nube</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-polka-una-herramienta-unificada-para-pre-procesar-punto.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-23-polka-una-herramienta-unificada-para-pre-procesar-punto.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La pre-procesación de puntos de nube es un proceso complejo que requiere una cadena de nodos que trabajan en conjunto. Sin embargo, configurar estos nodos individuales puede consumir demasiados recursos de CPU y banda de ancho de banda.…</description>
-  </item>
-  <item>
-    <title>Cursor admite que su modelo de código se basa en Kimi de Moonshot AI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-23-cursor-admite-que-su-modelo-de-codigo-se-basa-en-kimi-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-23-cursor-admite-que-su-modelo-de-codigo-se-basa-en-kimi-d.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa de código asistido por IA Cursor ha lanzado un nuevo modelo llamado Composer 2, que prometía 'inteligencia de código en la frontera'. Sin embargo, un usuario ha revelado que se basa en Kimi 2.5, un modelo abierto recientemente…</description>
-  </item>
-  <item>
-    <title>Amazon vuelve a la carga con un nuevo teléfono inteligente con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-23-amazon-vuelve-a-la-carga-con-un-nuevo-telefono-intelige.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-23-amazon-vuelve-a-la-carga-con-un-nuevo-telefono-intelige.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Amazon está desarrollando un nuevo teléfono inteligente llamado 'Transformer' que incluirá características de inteligencia artificial. Esto podría significar que la compañía está intentando volver a entrar en el mercado de los teléfonos…</description>
-  </item>
-  <item>
-    <title>Linux 7.0 se acerca a su versión estable con Linux 7.0-rc5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-linux-70-se-acerca-a-su-version-estable-con-linux-70-rc.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-linux-70-se-acerca-a-su-version-estable-con-linux-70-rc.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Linus Torvalds ha lanzado Linux 7.0-rc5, un paso más hacia la versión estable de Linux 7.0 en abril. Esta versión incluye correcciones de errores y mejoras en drivers y hardware.</description>
-  </item>
-  <item>
-    <title>Manjaro busca un equilibrio entre comunidad y empresa</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-manjaro-busca-un-equilibrio-entre-comunidad-y-empresa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-manjaro-busca-un-equilibrio-entre-comunidad-y-empresa.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Manjaro Linux ha publicado un manifiesto que demanda una mayor separación entre la comunidad y la empresa detrás del proyecto. Esto se debe a que los desarrolladores han abandonado el proyecto y la innovación ha disminuido.</description>
-  </item>
-  <item>
-    <title>Nueva versión de Agama: un instalador más sólido y fácil de usar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-nueva-version-de-agama-un-instalador-mas-solido-y-facil.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-23-nueva-version-de-agama-un-instalador-mas-solido-y-facil.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 19 de Agama, un instalador para openSUSE y SUSE, ha sido lanzada con cambios significativos en su diseño arquitectónico y la organización de la interfaz web. Esto permitirá una mayor flexibilidad y personalización en la…</description>
-  </item>
-  <item>
-    <title>Nueva versión del ESP32-P4 requiere diseño de PCB y firmware actualizados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-nueva-version-del-esp32-p4-requiere-diseno-de-pcb-y-fir.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-nueva-version-del-esp32-p4-requiere-diseno-de-pcb-y-fir.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Espressif ha lanzado una nueva versión del ESP32-P4, un microcontrolador dual-core de 400 MHz, que incluye cambios importantes en la configuración de pines y la necesidad de una actualización del firmware. Esto afecta a…</description>
-  </item>
-  <item>
-    <title>Zephyr y Zenoh se integran en ROS2 para control de microcontroladores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-zephyr-y-zenoh-se-integran-en-ros2-para-control-de-micr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-zephyr-y-zenoh-se-integran-en-ros2-para-control-de-micr.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un proyecto en curso busca integrar Zephyr y Zenoh en ROS2 para crear un controlador de microcontroladores que permita la comunicación directa con ROS2 sin necesidad de un agente intermedio. Esto podría mejorar la eficiencia y la…</description>
-  </item>
-  <item>
-    <title>La 3DFX Voodoo revive en un FPGA con tecnología de la década de 1990</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-la-3dfx-voodoo-revive-en-un-fpga-con-tecnologia-de-la-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-la-3dfx-voodoo-revive-en-un-fpga-con-tecnologia-de-la-d.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La 3DFX Voodoo, una tarjeta gráfica de la década de 1990, ha sido implementada en un FPGA gracias a la iniciativa de Francisco Ayala Le Brun. Esta noticia es relevante ahora mismo porque muestra cómo la tecnología antigua puede ser…</description>
-  </item>
-  <item>
-    <title>Neuro N6: un desarrollo de AI vision modular y compacto para proyectos de robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-neuro-n6-un-desarrollo-de-ai-vision-modular-y-compacto-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-23-neuro-n6-un-desarrollo-de-ai-vision-modular-y-compacto-.md</guid>
-    <pubDate>Mon, 23 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Ohm Lab ha lanzado el Neuro N6, un desarrollo de AI vision compacto y modular que permite a los desarrolladores crear proyectos de robótica avanzados con facilidad. Este módulo está diseñado para trabajar con cámaras de diferentes tipos y…</description>
   </item>
 </channel>
 </rss>

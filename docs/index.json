@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Prueba de un filamento de nylon reforzado con grafito extremadamente caro",
+      "category": "diseño-3d",
+      "date": "2026-03-25",
+      "slug": "prueba-de-un-filamento-de-nylon-reforzado-con-grafito-e",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Un investigador ha probado un filamento de nylon reforzado con grafito de alta calidad, conocido como PA1205, que cuesta $150 por kilogramo. Aunque es más fuerte y ligero que otros filamentos de nylon, su precio es prohibitivo.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-03-25-prueba-de-un-filamento-de-nylon-reforzado-con-grafito-e.md"
+    },
+    {
+      "title": "FusionCore: un paquete de fusión de sensores para ROS 2 Jazzy",
+      "category": "robotica",
+      "date": "2026-03-25",
+      "slug": "fusioncore-un-paquete-de-fusion-de-sensores-para-ros-2-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El paquete de fusión de sensores FusionCore ha sido creado para resolver el problema de la falta de una herramienta de fusión de sensores fácil de usar para ROS 2 Jazzy. Con la desaparición de robot_localization, los desarrolladores de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-25-fusioncore-un-paquete-de-fusion-de-sensores-para-ros-2-.md"
+    },
+    {
+      "title": "La próxima inflexión en la guerra de drones en Ucrania",
+      "category": "robotica",
+      "date": "2026-03-25",
+      "slug": "la-proxima-inflexion-en-la-guerra-de-drones-en-ucrania",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La invasión rusa en Ucrania ha llevado a la creación de un ejército de drones autónomos que están cambiando la forma en que se libran las batallas. Los técnicos ucranianos están utilizando drones para realizar misiones de vigilancia y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-25-la-proxima-inflexion-en-la-guerra-de-drones-en-ucrania.md"
+    },
+    {
+      "title": "Robot humanoide aprende habilidades de tenis jugando con humanos",
+      "category": "robotica",
+      "date": "2026-03-25",
+      "slug": "robot-humanoide-aprende-habilidades-de-tenis-jugando-co",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automático"
+      ],
+      "preview": "Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a un robot humanoide aprender habilidades de tenis jugando con humanos. Este sistema es capaz de aprender de datos imperfectos y reproducir comportamientos…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-25-robot-humanoide-aprende-habilidades-de-tenis-jugando-co.md"
+    },
+    {
+      "title": "Un brazo robótico 3D impreso para aprender sobre robótica",
+      "category": "robotica",
+      "date": "2026-03-25",
+      "slug": "un-brazo-robotico-3d-impreso-para-aprender-sobre-roboti",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un entusiasta de la robótica ha construido un brazo robótico 3D impreso para aprender sobre el control y la programación de robots. Este proyecto es una excelente oportunidad para que los interesados en la robótica puedan practicar y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-25-un-brazo-robotico-3d-impreso-para-aprender-sobre-roboti.md"
+    },
+    {
+      "title": "Cámara de visión AI autónoma para robots con procesamiento en el propio dispositivo",
+      "category": "robotica",
+      "date": "2026-03-25",
+      "slug": "camara-de-vision-ai-autonoma-para-robots-con-procesamie",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "LooperRobotics ha lanzado una cámara de visión AI autónoma llamada Insight 9, diseñada para robots y plataformas móviles. Esta cámara puede realizar tareas como mapeo de espacios y detección de profundidad sin necesidad de un ordenador…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-25-camara-de-vision-ai-autonoma-para-robots-con-procesamie.md"
+    },
+    {
+      "title": "Desbloqueando los obstáculos en el desarrollo de robótica humana",
+      "category": "robotica",
+      "date": "2026-03-25",
+      "slug": "desbloqueando-los-obstaculos-en-el-desarrollo-de-roboti",
+      "tags": [
+        "robotica",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "La robótica humana avanza rápidamente, pero los ingenieros enfrentan desafíos formidables en estabilidad de locomoción, percepción en tiempo real, interacción segura con humanos y diseño de hardware con restricciones de potencia. Entender…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-25-desbloqueando-los-obstaculos-en-el-desarrollo-de-roboti.md"
+    },
+    {
+      "title": "ROSCon Global 2026: Llamado a patrocinadores para la conferencia de robótica",
+      "category": "robotica",
+      "date": "2026-03-25",
+      "slug": "roscon-global-2026-llamado-a-patrocinadores-para-la-con",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La comunidad de ROSCon ha lanzado un llamado a patrocinadores para la conferencia ROSCon Global 2026, que se celebrará en Toronto del 22 al 24 de septiembre. Esta conferencia es una oportunidad única para conectar con desarrolladores de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-25-roscon-global-2026-llamado-a-patrocinadores-para-la-con.md"
+    },
+    {
+      "title": "OpenAI cierra su aplicación de IA Sora por falta de interés",
+      "category": "ia",
+      "date": "2026-03-25",
+      "slug": "openai-cierra-su-aplicacion-de-ia-sora-por-falta-de-int",
+      "tags": [
+        "ia-local",
+        "benchmark"
+      ],
+      "preview": "OpenAI ha anunciado el cierre de Sora, una aplicación de IA que permitía crear contenido como TikTok con la ayuda de modelos de aprendizaje automático. Aunque inicialmente hubo un gran interés en la aplicación, no logró mantener una…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-25-openai-cierra-su-aplicacion-de-ia-sora-por-falta-de-int.md"
+    },
+    {
+      "title": "Reachy Mini: un robot de IA abierto para computadoras y Raspberry Pi",
+      "category": "ia",
+      "date": "2026-03-25",
+      "slug": "reachy-mini-un-robot-de-ia-abierto-para-computadoras-y-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Hugging Face ha lanzado Reachy Mini, un robot de IA abierto que se puede conectar a computadoras y Raspberry Pi. Con una cámara, micrófonos y un altavoz, puede interactuar con el mundo físico y ejecutar aplicaciones de IA.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-25-reachy-mini-un-robot-de-ia-abierto-para-computadoras-y-.md"
+    },
+    {
+      "title": "LiteLLM en PyPI comprometido: una amenaza para la seguridad",
+      "category": "ia",
+      "date": "2026-03-25",
+      "slug": "litellm-en-pypi-comprometido-una-amenaza-para-la-seguri",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "LiteLLM, una biblioteca de inteligencia artificial, ha sido comprometida en la tienda de paquetes PyPI. Esto significa que cualquier persona que haya instalado la versión 1.82.8 del paquete puede haber sido víctima de un ataque de robo de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-25-litellm-en-pypi-comprometido-una-amenaza-para-la-seguri.md"
+    },
+    {
+      "title": "Mejora en el rendimiento de juegos DX12 en Linux gracias a Intel",
+      "category": "linux",
+      "date": "2026-03-25",
+      "slug": "mejora-en-el-rendimiento-de-juegos-dx12-en-linux-gracia",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Intel ha lanzado una actualización para su driver Vulkan Linux que mejora el rendimiento de juegos que utilizan Direct3D 12 (DX12) en Linux. Esta mejora se logra gracias a una característica llamada BTP+BTI RCC Keying.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-25-mejora-en-el-rendimiento-de-juegos-dx12-en-linux-gracia.md"
+    },
+    {
+      "title": "Controladores de impresión térmica con Markdown y WebUI",
+      "category": "linux",
+      "date": "2026-03-25",
+      "slug": "controladores-de-impresion-termica-con-markdown-y-webui",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "¿Tienes un controlador de impresión térmica que se ha quedado sin uso? ThermalMarky es aquí para ayudarte a darle una segunda vida con soporte básico para Markdown y una interfaz web intuitiva.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-25-controladores-de-impresion-termica-con-markdown-y-webui.md"
+    },
+    {
+      "title": "Oracle lanza el núcleo empresarial inquebrantable 8.2 sobre Linux 6.12 LTS",
+      "category": "linux",
+      "date": "2026-03-25",
+      "slug": "oracle-lanza-el-nucleo-empresarial-inquebrantable-82-so",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Oracle ha lanzado el Unbreakable Enterprise Kernel 8.2 (UEK 8.2) para su distribución Oracle Linux. Este núcleo empresarial es una alternativa al kernel RHEL-clone y ofrece características adicionales y hardening. El UEK 8.2 sigue…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-25-oracle-lanza-el-nucleo-empresarial-inquebrantable-82-so.md"
+    },
+    {
+      "title": "ESP32-S31: un microcontrolador dual-core RISC-V con conectividad inalámbrica",
+      "category": "embebidos",
+      "date": "2026-03-25",
+      "slug": "esp32-s31-un-microcontrolador-dual-core-risc-v-con-cone",
+      "tags": [
+        "microcontroladores",
+        "esp32",
+        "embebidos"
+      ],
+      "preview": "Espressif Systems ha lanzado un nuevo microcontrolador inalámbrico potente, el ESP32-S31, que cuenta con una arquitectura dual-core RISC-V y conectividad Gigabit Ethernet, WiFi, Bluetooth y 802.15.4.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-25-esp32-s31-un-microcontrolador-dual-core-risc-v-con-cone.md"
+    },
+    {
       "title": "Un robot humanoide aprende a jugar tenis gracias a la IA",
       "category": "robotica",
       "date": "2026-03-24",
