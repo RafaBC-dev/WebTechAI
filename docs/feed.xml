@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Mar 2026 07:47:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 07:56:03 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>30 años de robótica: Honda crea el primer robot capaz de caminar sin caerse</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En 1996, Honda desarrolló el robot P2, un logro pionero en la robótica que permitió a los robots caminar sin perder el equilibrio. Este avance marcó un hito importante en la historia de la robótica y ha sido reconocido como un IEEE…</description>
+  </item>
+  <item>
+    <title>La guerra de drones en Ucrania: la inflexión de la inteligencia artificial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La invasión rusa a Ucrania ha llevado a una revolución en la guerra con la creación de drones autónomos que utilizan la inteligencia artificial para atacar objetivos. Los drones han sido utilizados por las fuerzas ucranianas para compensar…</description>
+  </item>
+  <item>
+    <title>Coche de carreras autónomo asequible y pre-asembleado para la educación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-coche-de-carreras-autonomo-asequible-y-pre-asembleado-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-coche-de-carreras-autonomo-asequible-y-pre-asembleado-p.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La educación en robótica y tecnología autónoma acaba de recibir un impulso importante con la presentación del coche de carreras autónomo NeoRacer. Este proyecto busca facilitar la adquisición de habilidades en robótica y programación,…</description>
+  </item>
+  <item>
+    <title>Robótica: aprendizaje de habilidades deportivas en humanoides</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-robotica-aprendizaje-de-habilidades-deportivas-en-human.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-robotica-aprendizaje-de-habilidades-deportivas-en-human.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a los humanoides aprender habilidades deportivas complejas, como el tenis, a partir de datos imperfectos de movimiento humano.</description>
+  </item>
+  <item>
+    <title>Deccan AI recibe $25 millones para desarrollar modelos de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-deccan-ai-recibe-25-millones-para-desarrollar-modelos-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-deccan-ai-recibe-25-millones-para-desarrollar-modelos-d.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La startup Deccan AI ha recibido $25 millones en su primera ronda de financiación para desarrollar modelos de IA. Esta inversión se debe a la creciente demanda de entrenamiento y refinamiento de modelos de IA en la industria.</description>
+  </item>
+  <item>
+    <title>Crea un modelo de embeddings personalizado en menos de un día</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-crea-un-modelo-de-embeddings-personalizado-en-menos-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-crea-un-modelo-de-embeddings-personalizado-en-menos-de-.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los sistemas de RAG (Retrieval-Augmented Generation) pueden fallar cuando no capturan las distinciones finas de un dominio específico. Ahora, con una GPU y menos de un día de entrenamiento, puedes transformar un modelo generalista en uno…</description>
+  </item>
+  <item>
+    <title>Nueva interfaz web para la pantalla de pánico de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-nueva-interfaz-web-para-la-pantalla-de-panico-de-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-nueva-interfaz-web-para-la-pantalla-de-panico-de-linux.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Fedora ha aprobado un cambio importante en la pantalla de pánico de Linux, que ahora incluirá una interfaz web para facilitar la resolución de problemas de kernel. Esto permitirá a los usuarios capturar y compartir…</description>
+  </item>
+  <item>
+    <title>Mejoras en el soporte para laptops de ASUS y HP en Linux 7.0</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-mejoras-en-el-soporte-para-laptops-de-asus-y-hp-en-linu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-mejoras-en-el-soporte-para-laptops-de-asus-y-hp-en-linu.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha hecho progresos importantes en la integración de hardware de ASUS y HP, lo que permite a los usuarios aprovechar mejor las características de sus laptops en el sistema operativo. Estas mejoras son especialmente…</description>
+  </item>
+  <item>
+    <title>Noticias de tecnología: seguridad, kernel y herramientas de desarrollo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-noticias-de-tecnologia-seguridad-kernel-y-herramientas-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-noticias-de-tecnologia-seguridad-kernel-y-herramientas-.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La edición semanal de LWN.net nos trae noticias sobre colaboración en seguridad, herramientas de desarrollo del kernel y actualizaciones en PHP. También se mencionan actualizaciones en Tor, Firefox y GNOME.</description>
+  </item>
+  <item>
+    <title>Actualización remota en Raspberry Pi Connect: un paso más hacia la comodidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-actualizacion-remota-en-raspberry-pi-connect-un-paso-ma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-actualizacion-remota-en-raspberry-pi-connect-un-paso-ma.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Raspberry Pi Connect es una herramienta para acceder a tu Raspberry Pi desde cualquier lugar, pero ahora ha llegado el momento de tomar un paso más hacia la comodidad: las actualizaciones remotas. Esto significa que podrás actualizar el…</description>
+  </item>
+  <item>
+    <title>Pila de desarrollo AngstromIO: una pila de 9 mm que se conecta a un USB-C</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-pila-de-desarrollo-angstromio-una-pila-de-9-mm-que-se-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-pila-de-desarrollo-angstromio-una-pila-de-9-mm-que-se-c.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Dieu-de-l-elec ha lanzado una pila de desarrollo extremadamente pequeña basada en el microcontrolador ATtiny1616 de Microchip. Esta pila, llamada AngstromIO, mide solo 9,0 x 8,9 mm y se conecta a un puerto USB-C para recibir…</description>
+  </item>
+  <item>
+    <title>Dispositivo de reconocimiento de aves ganador de premio</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-dispositivo-de-reconocimiento-de-aves-ganador-de-premio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-dispositivo-de-reconocimiento-de-aves-ganador-de-premio.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un joven inventor ha creado un dispositivo para reconocer aves en su hábitat natural, utilizando un ordenador Raspberry Pi y algoritmos de reconocimiento de voz. Este proyecto puede ayudar a comprender mejor la población de aves en todo el…</description>
+  </item>
+  <item>
+    <title>Proyecto de salida VGA con un microcontrolador PIC18</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-proyecto-de-salida-vga-con-un-microcontrolador-pic18.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-proyecto-de-salida-vga-con-un-microcontrolador-pic18.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un ingeniero ha logrado conectar un microcontrolador PIC18 a un monitor VGA, mostrando una imagen de 360x480 píxeles con hasta 16 colores. Este proyecto demuestra la capacidad de los microcontroladores para realizar tareas complejas como…</description>
+  </item>
+  <item>
+    <title>Creador de plantas en forma de sofá: un proyecto de impresión 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-creador-de-plantas-en-forma-de-sofa-un-proyecto-de-impr.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-creador-de-plantas-en-forma-de-sofa-un-proyecto-de-impr.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta un proyecto de impresión 3D que combina la decoración de hogar con la jardinería, creando un sofá miniatura para plantas. Este proyecto es relevante para los entusiastas de la impresión 3D y la creación de objetos…</description>
+  </item>
+  <item>
+    <title>Planta de estilo griego para interiores con impresión 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-planta-de-estilo-griego-para-interiores-con-impresion-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-planta-de-estilo-griego-para-interiores-con-impresion-3.md</guid>
+    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado una planta de estilo griego que combina la arquitectura clásica con la tecnología moderna. Esta planta es un ejemplo de cómo la impresión 3D puede ser utilizada para crear objetos decorativos y…</description>
+  </item>
   <item>
     <title>Prueba de un filamento de nylon reforzado con grafito extremadamente caro</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-25-prueba-de-un-filamento-de-nylon-reforzado-con-grafito-e.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Wed, 25 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>Espressif Systems ha lanzado un nuevo microcontrolador inalámbrico potente, el ESP32-S31, que cuenta con una arquitectura dual-core RISC-V y conectividad Gigabit Ethernet, WiFi, Bluetooth y 802.15.4.</description>
-  </item>
-  <item>
-    <title>Un robot humanoide aprende a jugar tenis gracias a la IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-un-robot-humanoide-aprende-a-jugar-tenis-gracias-a-la-i.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a un robot humanoide aprender a jugar tenis de manera autónoma. El robot puede observar a un jugador humano y aprender a imitar sus movimientos, lo que…</description>
-  </item>
-  <item>
-    <title>KUKA LBRs ahora disponibles en RoboStack</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-kuka-lbrs-ahora-disponibles-en-robostack.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-kuka-lbrs-ahora-disponibles-en-robostack.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La noticia es que los robots KUKA iiwa y med ahora pueden ser instalados fácilmente en sistemas Linux gracias a RoboStack. Esto abre nuevas posibilidades para la robótica y la automatización en diversas industrias.</description>
-  </item>
-  <item>
-    <title>Superar obstáculos en la robótica humana: un paso hacia la comercialización</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-superar-obstaculos-en-la-robotica-humana-un-paso-hacia-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-superar-obstaculos-en-la-robotica-humana-un-paso-hacia-.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica humana avanza rápidamente, pero los ingenieros enfrentan desafíos significativos en estabilidad de locomoción, percepción en tiempo real y seguridad en la interacción humana. Entender los componentes clave para lograr sistemas…</description>
-  </item>
-  <item>
-    <title>La armada robótica china: cómo empresas estadounidenses financian la revolución robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-la-armada-robotica-china-como-empresas-estadounidenses-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-la-armada-robotica-china-como-empresas-estadounidenses-.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La industria robótica china está experimentando un crecimiento explosivo, con más de 140 empresas trabajando en humanoides. Pero detrás de esta revolución, hay una fuerza invisible que la hace posible: una red de trabajadores jóvenes que…</description>
-  </item>
-  <item>
-    <title>Nueva herramienta de registro para ROS2: un marco de trabajo compuesto para C++</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-nueva-herramienta-de-registro-para-ros2-un-marco-de-tra.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-nueva-herramienta-de-registro-para-ros2-un-marco-de-tra.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Después de sentirse abrumado por la verbosidad de los macros de registro de ROS2, un desarrollador ha creado una alternativa más concisa y compuesta basada en flujos de C++.</description>
-  </item>
-  <item>
-    <title>Error de Gazebo Harmonic: Crashes Constantes con Error de Hilo de Renderizado GUI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-error-de-gazebo-harmonic-crashes-constantes-con-error-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-error-de-gazebo-harmonic-crashes-constantes-con-error-d.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un usuario de Gazebo Harmonic (v8.10.0) está experimentando problemas de estabilidad con el simulador TurtleBot 4. Después de mover el robot simulado, el programa se cae constantemente con un error de segmentación. ¿Qué está pasando y cómo…</description>
-  </item>
-  <item>
-    <title>Robotas autónomas que pueden diseñarse y construirse en el campo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-robotas-autonomas-que-pueden-disenarse-y-construirse--2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-24-robotas-autonomas-que-pueden-disenarse-y-construirse--2.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La investigación en robótica ha dado un paso importante con la creación de robots autónomos que pueden diseñarse y construirse en el campo, sin la necesidad de un plan predefinido por humanos. Esto abre nuevas posibilidades para la…</description>
-  </item>
-  <item>
-    <title>Bernie Sanders y la ciberpsicosis: cómo los chatbots de IA pueden engañar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-bernie-sanders-y-la-ciberpsicosis-como-los-chatbots-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-bernie-sanders-y-la-ciberpsicosis-como-los-chatbots-de-.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El senador estadounidense Bernie Sanders ha lanzado un video viral para denunciar los peligros de la industria de la IA, pero ha terminado demostrando cómo los chatbots pueden volverse reflejos de las creencias de sus usuarios. Esto puede…</description>
-  </item>
-  <item>
-    <title>CIX lanza la familia de CPUs ClawCore Armv9.2 para OpenClaw</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-cix-lanza-la-familia-de-cpus-clawcore-armv92-para-openc.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-24-cix-lanza-la-familia-de-cpus-clawcore-armv92-para-openc.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>CIX ha presentado la familia de CPUs ClawCore Armv9.2, diseñadas específicamente para OpenClaw. Esta tecnología promete mejorar la eficiencia y la seguridad en la implementación de inteligencia artificial en dispositivos de bordo.</description>
-  </item>
-  <item>
-    <title>Flipper Zero con inteligencia artificial: un paso hacia la automatización</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-flipper-zero-con-inteligencia-artificial-un-paso-hacia-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-flipper-zero-con-inteligencia-artificial-un-paso-hacia-.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La herramienta de hacking Flipper Zero acaba de recibir un upgrade significativo con la integración de una inteligencia artificial (IA) que permite controlarla mediante comandos naturales. Esto podría cambiar la forma en que se utiliza…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-actualizaciones-de-seguridad-para-sistemas-operativos-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-actualizaciones-de-seguridad-para-sistemas-operativos-2.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Mageia, Red Hat, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades críticas en…</description>
-  </item>
-  <item>
-    <title>Patch de Intel FRED ahora habilitado por defecto en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-patch-de-intel-fred-ahora-habilitado-por-defecto-en-lin.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-24-patch-de-intel-fred-ahora-habilitado-por-defecto-en-lin.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Intel ha publicado un parche para habilitar por defecto la tecnología FRED en Linux, lo que puede mejorar el rendimiento en sistemas con procesadores Core Ultra Series 3 y Xeon Diamond Rapids.</description>
-  </item>
-  <item>
-    <title>Reemplazo para el famoso procesador Zilog Z80</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-reemplazo-para-el-famoso-procesador-zilog-z80.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-reemplazo-para-el-famoso-procesador-zilog-z80.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El procesador Zilog Z80 ha sido una pieza clave en la historia de la informática, pero su producción se ha detenido. Sin embargo, un ingeniero ha creado un reemplazo que ofrece más funcionalidades y compatibilidad con sistemas antiguos.</description>
-  </item>
-  <item>
-    <title>Ampisu: un laboratorio de poder compacto y aislado para el trabajo de campo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-ampisu-un-laboratorio-de-poder-compacto-y-aislado-para-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-ampisu-un-laboratorio-de-poder-compacto-y-aislado-para-.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La tecnología de los suministros de poder USB-C se ha vuelto más accesible y asequible, pero la mayoría de los dispositivos disponibles tienen limitaciones. El Ampisu es un laboratorio de poder compacto y aislado diseñado para el trabajo…</description>
-  </item>
-  <item>
-    <title>ESP-IDF v6.0: soporte estable para ESP32-C5 y ESP32-C61</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-esp-idf-v60-soporte-estable-para-esp32-c5-y-esp32-c61.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-24-esp-idf-v60-soporte-estable-para-esp32-c5-y-esp32-c61.md</guid>
-    <pubDate>Tue, 24 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Espressif Systems ha lanzado el framework ESP-IDF v6.0 con soporte estable para los microcontroladores ESP32-C5 y ESP32-C61. Además, se incluye soporte previo para ESP32-H21 y ESP32-H4, así como mejoras en la instalación, seguridad y…</description>
   </item>
 </channel>
 </rss>

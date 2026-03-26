@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "30 años de robótica: Honda crea el primer robot capaz de caminar sin caerse",
+      "category": "robotica",
+      "date": "2026-03-26",
+      "slug": "30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "En 1996, Honda desarrolló el robot P2, un logro pionero en la robótica que permitió a los robots caminar sin perder el equilibrio. Este avance marcó un hito importante en la historia de la robótica y ha sido reconocido como un IEEE…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-26-30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de.md"
+    },
+    {
+      "title": "La guerra de drones en Ucrania: la inflexión de la inteligencia artificial",
+      "category": "robotica",
+      "date": "2026-03-26",
+      "slug": "la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La invasión rusa a Ucrania ha llevado a una revolución en la guerra con la creación de drones autónomos que utilizan la inteligencia artificial para atacar objetivos. Los drones han sido utilizados por las fuerzas ucranianas para compensar…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-26-la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel.md"
+    },
+    {
+      "title": "Coche de carreras autónomo asequible y pre-asembleado para la educación",
+      "category": "robotica",
+      "date": "2026-03-26",
+      "slug": "coche-de-carreras-autonomo-asequible-y-pre-asembleado-p",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La educación en robótica y tecnología autónoma acaba de recibir un impulso importante con la presentación del coche de carreras autónomo NeoRacer. Este proyecto busca facilitar la adquisición de habilidades en robótica y programación,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-26-coche-de-carreras-autonomo-asequible-y-pre-asembleado-p.md"
+    },
+    {
+      "title": "Robótica: aprendizaje de habilidades deportivas en humanoides",
+      "category": "robotica",
+      "date": "2026-03-26",
+      "slug": "robotica-aprendizaje-de-habilidades-deportivas-en-human",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automatico"
+      ],
+      "preview": "Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a los humanoides aprender habilidades deportivas complejas, como el tenis, a partir de datos imperfectos de movimiento humano.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-26-robotica-aprendizaje-de-habilidades-deportivas-en-human.md"
+    },
+    {
+      "title": "Deccan AI recibe $25 millones para desarrollar modelos de IA",
+      "category": "ia",
+      "date": "2026-03-26",
+      "slug": "deccan-ai-recibe-25-millones-para-desarrollar-modelos-d",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "python"
+      ],
+      "preview": "La startup Deccan AI ha recibido $25 millones en su primera ronda de financiación para desarrollar modelos de IA. Esta inversión se debe a la creciente demanda de entrenamiento y refinamiento de modelos de IA en la industria.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-26-deccan-ai-recibe-25-millones-para-desarrollar-modelos-d.md"
+    },
+    {
+      "title": "Crea un modelo de embeddings personalizado en menos de un día",
+      "category": "ia",
+      "date": "2026-03-26",
+      "slug": "crea-un-modelo-de-embeddings-personalizado-en-menos-de-",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "python",
+        "librerias"
+      ],
+      "preview": "Los sistemas de RAG (Retrieval-Augmented Generation) pueden fallar cuando no capturan las distinciones finas de un dominio específico. Ahora, con una GPU y menos de un día de entrenamiento, puedes transformar un modelo generalista en uno…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-26-crea-un-modelo-de-embeddings-personalizado-en-menos-de-.md"
+    },
+    {
+      "title": "Nueva interfaz web para la pantalla de pánico de Linux",
+      "category": "linux",
+      "date": "2026-03-26",
+      "slug": "nueva-interfaz-web-para-la-pantalla-de-panico-de-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Fedora ha aprobado un cambio importante en la pantalla de pánico de Linux, que ahora incluirá una interfaz web para facilitar la resolución de problemas de kernel. Esto permitirá a los usuarios capturar y compartir…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-26-nueva-interfaz-web-para-la-pantalla-de-panico-de-linux.md"
+    },
+    {
+      "title": "Mejoras en el soporte para laptops de ASUS y HP en Linux 7.0",
+      "category": "linux",
+      "date": "2026-03-26",
+      "slug": "mejoras-en-el-soporte-para-laptops-de-asus-y-hp-en-linu",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha hecho progresos importantes en la integración de hardware de ASUS y HP, lo que permite a los usuarios aprovechar mejor las características de sus laptops en el sistema operativo. Estas mejoras son especialmente…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-26-mejoras-en-el-soporte-para-laptops-de-asus-y-hp-en-linu.md"
+    },
+    {
+      "title": "Noticias de tecnología: seguridad, kernel y herramientas de desarrollo",
+      "category": "linux",
+      "date": "2026-03-26",
+      "slug": "noticias-de-tecnologia-seguridad-kernel-y-herramientas-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La edición semanal de LWN.net nos trae noticias sobre colaboración en seguridad, herramientas de desarrollo del kernel y actualizaciones en PHP. También se mencionan actualizaciones en Tor, Firefox y GNOME.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-26-noticias-de-tecnologia-seguridad-kernel-y-herramientas-.md"
+    },
+    {
+      "title": "Actualización remota en Raspberry Pi Connect: un paso más hacia la comodidad",
+      "category": "linux",
+      "date": "2026-03-26",
+      "slug": "actualizacion-remota-en-raspberry-pi-connect-un-paso-ma",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Raspberry Pi Connect es una herramienta para acceder a tu Raspberry Pi desde cualquier lugar, pero ahora ha llegado el momento de tomar un paso más hacia la comodidad: las actualizaciones remotas. Esto significa que podrás actualizar el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-26-actualizacion-remota-en-raspberry-pi-connect-un-paso-ma.md"
+    },
+    {
+      "title": "Pila de desarrollo AngstromIO: una pila de 9 mm que se conecta a un USB-C",
+      "category": "embebidos",
+      "date": "2026-03-26",
+      "slug": "pila-de-desarrollo-angstromio-una-pila-de-9-mm-que-se-c",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "arduino"
+      ],
+      "preview": "La empresa Dieu-de-l-elec ha lanzado una pila de desarrollo extremadamente pequeña basada en el microcontrolador ATtiny1616 de Microchip. Esta pila, llamada AngstromIO, mide solo 9,0 x 8,9 mm y se conecta a un puerto USB-C para recibir…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-26-pila-de-desarrollo-angstromio-una-pila-de-9-mm-que-se-c.md"
+    },
+    {
+      "title": "Dispositivo de reconocimiento de aves ganador de premio",
+      "category": "embebidos",
+      "date": "2026-03-26",
+      "slug": "dispositivo-de-reconocimiento-de-aves-ganador-de-premio",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un joven inventor ha creado un dispositivo para reconocer aves en su hábitat natural, utilizando un ordenador Raspberry Pi y algoritmos de reconocimiento de voz. Este proyecto puede ayudar a comprender mejor la población de aves en todo el…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-26-dispositivo-de-reconocimiento-de-aves-ganador-de-premio.md"
+    },
+    {
+      "title": "Proyecto de salida VGA con un microcontrolador PIC18",
+      "category": "embebidos",
+      "date": "2026-03-26",
+      "slug": "proyecto-de-salida-vga-con-un-microcontrolador-pic18",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha logrado conectar un microcontrolador PIC18 a un monitor VGA, mostrando una imagen de 360x480 píxeles con hasta 16 colores. Este proyecto demuestra la capacidad de los microcontroladores para realizar tareas complejas como…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-26-proyecto-de-salida-vga-con-un-microcontrolador-pic18.md"
+    },
+    {
+      "title": "Creador de plantas en forma de sofá: un proyecto de impresión 3D",
+      "category": "embebidos",
+      "date": "2026-03-26",
+      "slug": "creador-de-plantas-en-forma-de-sofa-un-proyecto-de-impr",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Adafruit presenta un proyecto de impresión 3D que combina la decoración de hogar con la jardinería, creando un sofá miniatura para plantas. Este proyecto es relevante para los entusiastas de la impresión 3D y la creación de objetos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-26-creador-de-plantas-en-forma-de-sofa-un-proyecto-de-impr.md"
+    },
+    {
+      "title": "Planta de estilo griego para interiores con impresión 3D",
+      "category": "embebidos",
+      "date": "2026-03-26",
+      "slug": "planta-de-estilo-griego-para-interiores-con-impresion-3",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una planta de estilo griego que combina la arquitectura clásica con la tecnología moderna. Esta planta es un ejemplo de cómo la impresión 3D puede ser utilizada para crear objetos decorativos y…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-26-planta-de-estilo-griego-para-interiores-con-impresion-3.md"
+    },
+    {
       "title": "Prueba de un filamento de nylon reforzado con grafito extremadamente caro",
       "category": "diseño-3d",
       "date": "2026-03-25",

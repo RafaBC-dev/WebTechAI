@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-25</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-26</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-26</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-coche-de-carreras-autonomo-asequible-y-pre-asembleado-p.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-robotica-aprendizaje-de-habilidades-deportivas-en-human.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-deccan-ai-recibe-25-millones-para-desarrollar-modelos-d.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-crea-un-modelo-de-embeddings-personalizado-en-menos-de-.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-nueva-interfaz-web-para-la-pantalla-de-panico-de-linux.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-mejoras-en-el-soporte-para-laptops-de-asus-y-hp-en-linu.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-noticias-de-tecnologia-seguridad-kernel-y-herramientas-.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-actualizacion-remota-en-raspberry-pi-connect-un-paso-ma.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-pila-de-desarrollo-angstromio-una-pila-de-9-mm-que-se-c.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-dispositivo-de-reconocimiento-de-aves-ganador-de-premio.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-proyecto-de-salida-vga-con-un-microcontrolador-pic18.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-creador-de-plantas-en-forma-de-sofa-un-proyecto-de-impr.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-planta-de-estilo-griego-para-interiores-con-impresion-3.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-25-prueba-de-un-filamento-de-nylon-reforzado-con-grafito-e.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-fusioncore-un-paquete-de-fusion-de-sensores-para-ros-2-.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-25-la-proxima-inflexion-en-la-guerra-de-drones-en-ucrania.md</loc><lastmod>2026-03-25</lastmod><priority>0.8</priority></url>
