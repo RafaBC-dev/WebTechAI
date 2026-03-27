@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La guerra de drones: cómo la IA está cambiando el panorama bélico",
+      "category": "robotica",
+      "date": "2026-03-27",
+      "slug": "la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La invasión rusa a Ucrania ha llevado a la creación de drones autónomos para la defensa del país. Estos dispositivos están siendo utilizados para realizar misiones de vigilancia y ataques, y están siendo desarrollados para ser más…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md"
+    },
+    {
+      "title": "Robótica: aprendizaje de habilidades deportivas en humanoids",
+      "category": "robotica",
+      "date": "2026-03-27",
+      "slug": "robotica-aprendizaje-de-habilidades-deportivas-en-hum-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Un robot humanoide ha aprendido a jugar tenis gracias a un sistema de aprendizaje automático que analiza los movimientos de un jugador humano. Este avance podría revolucionar la robótica deportiva y mejorar la capacidad de los robots para…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-27-robotica-aprendizaje-de-habilidades-deportivas-en-hum-2.md"
+    },
+    {
+      "title": "Robótica: 30 años de avances en la caminata autónoma",
+      "category": "robotica",
+      "date": "2026-03-27",
+      "slug": "robotica-30-anos-de-avances-en-la-caminata-autonoma",
+      "tags": [
+        "robotica",
+        "automatizacion",
+        "linux"
+      ],
+      "preview": "En 1996, Honda desarrolló el primer robot capaz de caminar sin caer, un logro que revolucionó la robótica y abrió nuevas posibilidades para la automatización. Ahora, este robot ha sido reconocido como un Milestone de la IEEE.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-27-robotica-30-anos-de-avances-en-la-caminata-autonoma.md"
+    },
+    {
+      "title": "Google facilita la migración a Gemini con herramientas de transferencia de información",
+      "category": "ia",
+      "date": "2026-03-27",
+      "slug": "google-facilita-la-migracion-a-gemini-con-herramientas-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Google ha lanzado herramientas de transferencia de información para que los usuarios de otros chatbots puedan fácilmente migrar a Gemini, lo que podría ayudar a Google a cerrar la brecha con ChatGPT.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-27-google-facilita-la-migracion-a-gemini-con-herramientas-.md"
+    },
+    {
+      "title": "Problema de renderizado en entorno de simulación de ROS",
+      "category": "linux",
+      "date": "2026-03-27",
+      "slug": "problema-de-renderizado-en-entorno-de-simulacion-de-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un usuario de ROS (Robot Operating System) ha reportado un problema de renderizado en el entorno de simulación. La simulación no se muestra correctamente debido a una falla en la inicialización del plugin Qt xcb y la falta de soporte para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md"
+    },
+    {
+      "title": "ROS2 Studio: Herramienta GUI para monitoreo y administración de ROS2",
+      "category": "linux",
+      "date": "2026-03-27",
+      "slug": "ros2-studio-herramienta-gui-para-monitoreo-y-administra",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS2 ha recibido una herramienta innovadora que simplifica la monitoreo y administración de sistemas de robótica. ROS2 Studio es una interfaz gráfica de usuario que agrega funcionalidades de monitoreo en tiempo real,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md"
+    },
+    {
+      "title": "Microchip lanza el SAM9X75, un MCU ARM9 para aplicaciones automotrices",
+      "category": "linux",
+      "date": "2026-03-27",
+      "slug": "microchip-lanza-el-sam9x75-un-mcu-arm9-para-aplicacione",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Microchip ha lanzado el SAM9X75, un microcontrolador de código abierto basado en el núcleo ARM9, diseñado específicamente para aplicaciones automotrices y HMI (Interfaz de Usuario Humano) en vehículos eléctricos y convencionales.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-27-microchip-lanza-el-sam9x75-un-mcu-arm9-para-aplicacione.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-03-27",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos-3",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos y aplicaciones, incluyendo Debian, Fedora, Mageia, Oracle, Red Hat, Slackware, SUSE y Ubuntu. Estas actualizaciones corregen vulnerabilidades…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-27-actualizaciones-de-seguridad-para-sistemas-operativos-3.md"
+    },
+    {
+      "title": "Fedora Forge se convierte en la nueva plataforma de colaboración",
+      "category": "linux",
+      "date": "2026-03-27",
+      "slug": "fedora-forge-se-convierte-en-la-nueva-plataforma-de-col",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Fedora ha anunciado el lanzamiento de Fedora Forge, una plataforma de colaboración en línea que reemplazará a Pagure. Esta transición es importante para garantizar la continuidad y la eficiencia en la colaboración entre los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md"
+    },
+    {
+      "title": "Ubuntu 26.04 LTS Beta: Nueva versión de Ubuntu con Linux 7.0 y GNOME 50",
+      "category": "linux",
+      "date": "2026-03-27",
+      "slug": "ubuntu-2604-lts-beta-nueva-version-de-ubuntu-con-linux-",
+      "tags": [
+        "linux",
+        "ubuntu",
+        "gnome"
+      ],
+      "preview": "La versión beta de Ubuntu 26.04 LTS está disponible para su prueba y mejora. Esta versión incluye los últimos paquetes, incluyendo Linux 7.0, GNOME 50 y Mesa 26.0, entre otros. Esto es una oportunidad para que los usuarios prueben y den…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-27-ubuntu-2604-lts-beta-nueva-version-de-ubuntu-con-linux-.md"
+    },
+    {
+      "title": "OpenBSD acepta código generado por LLM para su filesystem ext4",
+      "category": "linux",
+      "date": "2026-03-27",
+      "slug": "openbsd-acepta-codigo-generado-por-llm-para-su-filesyst",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de OpenBSD ha aceptado un código generado por un modelo de lenguaje grande (LLM) para implementar el filesystem ext4, lo que ha generado debate sobre la aceptación de código generado por LLM en proyectos de código abierto.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-27-openbsd-acepta-codigo-generado-por-llm-para-su-filesyst.md"
+    },
+    {
+      "title": "Nueva placa de desarrollo ESP32-P4-Pi-VIEWE con Wi-Fi 6 y Bluetooth 5",
+      "category": "embebidos",
+      "date": "2026-03-27",
+      "slug": "nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6",
+      "tags": [
+        "robotica",
+        "esp32",
+        "embebidos"
+      ],
+      "preview": "VIEWE ha lanzado una nueva placa de desarrollo inspirada en la Raspberry Pi, que combina un microcontrolador ESP32-P4 con un chip ESP32-C6 para Wi-Fi 6 y Bluetooth 5. Esta placa ofrece una gran cantidad de conectividad y recursos para…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md"
+    },
+    {
+      "title": "Un hermoso planter de cuervo en 3D impresión",
+      "category": "embebidos",
+      "date": "2026-03-27",
+      "slug": "un-hermoso-planter-de-cuervo-en-3d-impresion",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Cada jueves, Adafruit celebra la comunidad de impresión 3D y proyectos DIY. En esta ocasión, presentan un hermoso planter de cuervo que se puede imprimir en 3D y utilizar como decoración para la pared.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-27-un-hermoso-planter-de-cuervo-en-3d-impresion.md"
+    },
+    {
+      "title": "Reemplazo Z80 con Raspberry Pi y ESP32 para retrocomputación",
+      "category": "embebidos",
+      "date": "2026-03-27",
+      "slug": "reemplazo-z80-con-raspberry-pi-y-esp32-para-retrocomput",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Los entusiastas de la retrocomputación tienen una nueva herramienta para recrear sistemas antiguos: el picoZ80, un reemplazo de microprocesador Z80 basado en Raspberry Pi y ESP32.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-27-reemplazo-z80-con-raspberry-pi-y-esp32-para-retrocomput.md"
+    },
+    {
+      "title": "Un planter de raíces de árbol para pared con impresión 3D",
+      "category": "embebidos",
+      "date": "2026-03-27",
+      "slug": "un-planter-de-raices-de-arbol-para-pared-con-impresion-",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Adafruit celebra cada jueves a la comunidad de impresión 3D con proyectos innovadores. En esta ocasión, presentamos un planter de raíces de árbol para pared diseñado para ser impreso en 3D.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md"
+    },
+    {
       "title": "30 años de robótica: Honda crea el primer robot capaz de caminar sin caerse",
       "category": "robotica",
       "date": "2026-03-26",

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-26</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-26</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-27</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-27</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-robotica-aprendizaje-de-habilidades-deportivas-en-hum-2.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-robotica-30-anos-de-avances-en-la-caminata-autonoma.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-27-google-facilita-la-migracion-a-gemini-con-herramientas-.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-microchip-lanza-el-sam9x75-un-mcu-arm9-para-aplicacione.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-actualizaciones-de-seguridad-para-sistemas-operativos-3.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ubuntu-2604-lts-beta-nueva-version-de-ubuntu-con-linux-.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-openbsd-acepta-codigo-generado-por-llm-para-su-filesyst.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-hermoso-planter-de-cuervo-en-3d-impresion.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-reemplazo-z80-con-raspberry-pi-y-esp32-para-retrocomput.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md</loc><lastmod>2026-03-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-coche-de-carreras-autonomo-asequible-y-pre-asembleado-p.md</loc><lastmod>2026-03-26</lastmod><priority>0.8</priority></url>
