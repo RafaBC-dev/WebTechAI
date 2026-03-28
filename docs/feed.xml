@@ -5,15 +5,127 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 27 Mar 2026 07:54:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Mar 2026 07:40:25 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>La guerra de drones: cómo la IA está cambiando el panorama bélico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
+    <title>Un robot humanoide camina sin caer: un hito en la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-un-robot-humanoide-camina-sin-caer-un-hito-en-la-roboti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-un-robot-humanoide-camina-sin-caer-un-hito-en-la-roboti.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
-    <description>La invasión rusa a Ucrania ha llevado a la creación de drones autónomos para la defensa del país. Estos dispositivos están siendo utilizados para realizar misiones de vigilancia y ataques, y están siendo desarrollados para ser más…</description>
+    <description>En 1996, Honda desarrolló un robot humanoide capaz de caminar sin caer, un logro que revolucionó la robótica y abrió nuevas posibilidades para la colaboración entre humanos y máquinas.</description>
+  </item>
+  <item>
+    <title>Un robot bipede rompe moldes con su locomoción multimodal</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-un-robot-bipede-rompe-moldes-con-su-locomocion-multimod.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-un-robot-bipede-rompe-moldes-con-su-locomocion-multimod.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa Robotics and AI Institute ha presentado un robot bipede llamado Roadrunner que puede cambiar entre diferentes modos de locomoción, como caminar, correr y saltar, lo que lo hace ideal para explorar entornos complejos. Esta…</description>
+  </item>
+  <item>
+    <title>ROSCon Global 2026: noticias y eventos destacados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-roscon-global-2026-noticias-y-eventos-destacados.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-roscon-global-2026-noticias-y-eventos-destacados.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS (Robot Operating System) se prepara para el ROSCon Global 2026, con llamado a patrocinadores y actualizaciones en la página web. Además, se acerca el plazo para presentar propuestas de talleres y se anuncian varios…</description>
+  </item>
+  <item>
+    <title>La inflexión en la guerra de drones en Ucrania: inteligencia artificial a la vanguardia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-la-inflexion-en-la-guerra-de-drones-en-ucrania-intelige.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-la-inflexion-en-la-guerra-de-drones-en-ucrania-intelige.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La guerra de drones en Ucrania está experimentando una inflexión significativa gracias a la inteligencia artificial (IA). Los drones autónomos están siendo utilizados en swarms para realizar misiones de combate, lo que plantea nuevos…</description>
+  </item>
+  <item>
+    <title>Encuentro de Robótica Aérea: creación de drones autónomos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-encuentro-de-robotica-aerea-creacion-de-drones-autonomo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-encuentro-de-robotica-aerea-creacion-de-drones-autonomo.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Después de un período de espera, se reanuda el encuentro de robótica aérea. Esta reunión será especial ya que contará con la presentación de Kelvin Nguyen y Artash Nath sobre su experiencia en crear drones autónomos de bajo costo en el…</description>
+  </item>
+  <item>
+    <title>Optimizando la transmisión de datos de LiDAR en ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-optimizando-la-transmision-de-datos-de-lidar-en-ros-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-optimizando-la-transmision-de-datos-de-lidar-en-ros-2.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador de ROS 2 busca mejorar la transmisión de datos de LiDAR utilizando Iceoryx y zero-copy. Sin embargo, se enfrenta a desafíos al tratar con mensajes de tamaño variable.</description>
+  </item>
+  <item>
+    <title>SoftBank toma un préstamo de $40B para financiar su inversión en OpenAI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-28-softbank-toma-un-prestamo-de-40b-para-financiar-su-inve.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-28-softbank-toma-un-prestamo-de-40b-para-financiar-su-inve.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>SoftBank ha tomado un préstamo de $40 mil millones para ayudar a financiar su inversión de $30 mil millones en OpenAI, el creador del modelo de inteligencia artificial ChatGPT. Este préstamo podría ser un indicio de que OpenAI planea…</description>
+  </item>
+  <item>
+    <title>La industria de la IA enfrenta la realidad: ¿qué cambia?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-28-la-industria-de-la-ia-enfrenta-la-realidad-que-cambia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-28-la-industria-de-la-ia-enfrenta-la-realidad-que-cambia.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La industria de la inteligencia artificial (IA) está experimentando un giro significativo. Después de años de inversión masiva en startups y proyectos de IA, la realidad está empezando a hacerse notar. La noticia de que OpenAI está…</description>
+  </item>
+  <item>
+    <title>Compromiso de LiteLLM: una alerta sobre la seguridad de la cadena de suministro</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-28-compromiso-de-litellm-una-alerta-sobre-la-seguridad-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-28-compromiso-de-litellm-una-alerta-sobre-la-seguridad-de-.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La biblioteca LiteLLM, popular para acceder a modelos de lenguaje grande, ha sido comprometida con malware que roba información. Esto ha ocurrido en la PyPI, la principal fuente de paquetes Python, y ha afectado a miles de usuarios. La…</description>
+  </item>
+  <item>
+    <title>Conectando FireWire a Raspberry Pi antes de que Linux deje de soportarlo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-28-conectando-firewire-a-raspberry-pi-antes-de-que-linux-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-28-conectando-firewire-a-raspberry-pi-antes-de-que-linux-d.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La tecnología FireWire ha estado en declive desde que Apple y Sony se pasaron a USB, pero ahora Linux seguirá su ejemplo en 2029. Sin embargo, un desarrollador ha encontrado una forma de hacer que funcione en Raspberry Pi.</description>
+  </item>
+  <item>
+    <title>DRBD: 15 años de cambios se integran en el núcleo de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-28-drbd-15-anos-de-cambios-se-integran-en-el-nucleo-de-lin.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-28-drbd-15-anos-de-cambios-se-integran-en-el-nucleo-de-lin.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Después de más de una década sin actualizaciones, el proyecto DRBD está trabajando para sincronizar su código con el núcleo de Linux. Esto permitirá una mayor estabilidad y funcionalidad para el protocolo de replicación de bloques.</description>
+  </item>
+  <item>
+    <title>KDE Plasma 6.6 muestra ventaja en rendimiento sobre GNOME 50 con NVIDIA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-28-kde-plasma-66-muestra-ventaja-en-rendimiento-sobre-gnom.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-28-kde-plasma-66-muestra-ventaja-en-rendimiento-sobre-gnom.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Se han realizado pruebas de rendimiento comparando KDE Plasma 6.6 y GNOME 50 en una máquina con NVIDIA GeForce RTX 5080. Los resultados muestran que KDE Plasma 6.6 tiene una ventaja significativa en rendimiento en comparación con GNOME 50.</description>
+  </item>
+  <item>
+    <title>Lanzamiento del Thing Plus – ESP32-C5: una placa de desarrollo con WiFi 6 y compatibilidad con Feather</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-28-lanzamiento-del-thing-plus-esp32-c5-una-placa-de-desarr.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-28-lanzamiento-del-thing-plus-esp32-c5-una-placa-de-desarr.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>SparkFun ha lanzado el Thing Plus – ESP32-C5, una placa de desarrollo que combina la compatibilidad con Feather con la tecnología WiFi 6 del ESP32-C5. Este lanzamiento es relevante ahora mismo debido a la estabilidad del software y la…</description>
+  </item>
+  <item>
+    <title>Desarrollador de ESP32-P4 con Wi-Fi 6 y Bluetooth 5 en formato de tarjeta de crédito</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-28-desarrollador-de-esp32-p4-con-wi-fi-6-y-bluetooth-5-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-28-desarrollador-de-esp32-p4-con-wi-fi-6-y-bluetooth-5-en-.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa VIEWE ha lanzado un nuevo desarrollo de tarjeta de crédito con un procesador ESP32-P4, que combina una velocidad de 400 MHz con Wi-Fi 6 y Bluetooth 5. Esta tarjeta se inspira en la Raspberry Pi y ofrece una variedad de…</description>
+  </item>
+  <item>
+    <title>Luckfox Lume: un SBC compacto para aplicaciones de HMI industrial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-28-luckfox-lume-un-sbc-compacto-para-aplicaciones-de-hmi-i.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-28-luckfox-lume-un-sbc-compacto-para-aplicaciones-de-hmi-i.md</guid>
+    <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La compañía Luckfox ha lanzado un nuevo SBC (Single-Board Computer) llamado Luckfox Lume, diseñado para aplicaciones de HMI (Human-Machine Interface) industrial. Este dispositivo compacto ofrece una gran cantidad de características y…</description>
   </item>
   <item>
     <title>Robótica: aprendizaje de habilidades deportivas en humanoids</title>
@@ -32,6 +144,14 @@
     <description>En 1996, Honda desarrolló el primer robot capaz de caminar sin caer, un logro que revolucionó la robótica y abrió nuevas posibilidades para la automatización. Ahora, este robot ha sido reconocido como un Milestone de la IEEE.</description>
   </item>
   <item>
+    <title>La guerra de drones: cómo la IA está cambiando el panorama bélico</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md</guid>
+    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La invasión rusa a Ucrania ha llevado a la creación de drones autónomos para la defensa del país. Estos dispositivos están siendo utilizados para realizar misiones de vigilancia y ataques, y están siendo desarrollados para ser más…</description>
+  </item>
+  <item>
     <title>Google facilita la migración a Gemini con herramientas de transferencia de información</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-27-google-facilita-la-migracion-a-gemini-con-herramientas-.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-27-google-facilita-la-migracion-a-gemini-con-herramientas-.md</guid>
@@ -40,20 +160,12 @@
     <description>Google ha lanzado herramientas de transferencia de información para que los usuarios de otros chatbots puedan fácilmente migrar a Gemini, lo que podría ayudar a Google a cerrar la brecha con ChatGPT.</description>
   </item>
   <item>
-    <title>Problema de renderizado en entorno de simulación de ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md</guid>
+    <title>Fedora Forge se convierte en la nueva plataforma de colaboración</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md</guid>
     <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>Un usuario de ROS (Robot Operating System) ha reportado un problema de renderizado en el entorno de simulación. La simulación no se muestra correctamente debido a una falla en la inicialización del plugin Qt xcb y la falta de soporte para…</description>
-  </item>
-  <item>
-    <title>ROS2 Studio: Herramienta GUI para monitoreo y administración de ROS2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ROS2 ha recibido una herramienta innovadora que simplifica la monitoreo y administración de sistemas de robótica. ROS2 Studio es una interfaz gráfica de usuario que agrega funcionalidades de monitoreo en tiempo real,…</description>
+    <description>La comunidad de Fedora ha anunciado el lanzamiento de Fedora Forge, una plataforma de colaboración en línea que reemplazará a Pagure. Esta transición es importante para garantizar la continuidad y la eficiencia en la colaboración entre los…</description>
   </item>
   <item>
     <title>Microchip lanza el SAM9X75, un MCU ARM9 para aplicaciones automotrices</title>
@@ -72,12 +184,20 @@
     <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos y aplicaciones, incluyendo Debian, Fedora, Mageia, Oracle, Red Hat, Slackware, SUSE y Ubuntu. Estas actualizaciones corregen vulnerabilidades…</description>
   </item>
   <item>
-    <title>Fedora Forge se convierte en la nueva plataforma de colaboración</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md</guid>
+    <title>Problema de renderizado en entorno de simulación de ROS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md</guid>
     <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>La comunidad de Fedora ha anunciado el lanzamiento de Fedora Forge, una plataforma de colaboración en línea que reemplazará a Pagure. Esta transición es importante para garantizar la continuidad y la eficiencia en la colaboración entre los…</description>
+    <description>Un usuario de ROS (Robot Operating System) ha reportado un problema de renderizado en el entorno de simulación. La simulación no se muestra correctamente debido a una falla en la inicialización del plugin Qt xcb y la falta de soporte para…</description>
+  </item>
+  <item>
+    <title>ROS2 Studio: Herramienta GUI para monitoreo y administración de ROS2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md</guid>
+    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS2 ha recibido una herramienta innovadora que simplifica la monitoreo y administración de sistemas de robótica. ROS2 Studio es una interfaz gráfica de usuario que agrega funcionalidades de monitoreo en tiempo real,…</description>
   </item>
   <item>
     <title>Ubuntu 26.04 LTS Beta: Nueva versión de Ubuntu con Linux 7.0 y GNOME 50</title>
@@ -96,12 +216,12 @@
     <description>La comunidad de OpenBSD ha aceptado un código generado por un modelo de lenguaje grande (LLM) para implementar el filesystem ext4, lo que ha generado debate sobre la aceptación de código generado por LLM en proyectos de código abierto.</description>
   </item>
   <item>
-    <title>Nueva placa de desarrollo ESP32-P4-Pi-VIEWE con Wi-Fi 6 y Bluetooth 5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md</guid>
+    <title>Un planter de raíces de árbol para pared con impresión 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md</guid>
     <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
-    <description>VIEWE ha lanzado una nueva placa de desarrollo inspirada en la Raspberry Pi, que combina un microcontrolador ESP32-P4 con un chip ESP32-C6 para Wi-Fi 6 y Bluetooth 5. Esta placa ofrece una gran cantidad de conectividad y recursos para…</description>
+    <description>Adafruit celebra cada jueves a la comunidad de impresión 3D con proyectos innovadores. En esta ocasión, presentamos un planter de raíces de árbol para pared diseñado para ser impreso en 3D.</description>
   </item>
   <item>
     <title>Un hermoso planter de cuervo en 3D impresión</title>
@@ -120,132 +240,12 @@
     <description>Los entusiastas de la retrocomputación tienen una nueva herramienta para recrear sistemas antiguos: el picoZ80, un reemplazo de microprocesador Z80 basado en Raspberry Pi y ESP32.</description>
   </item>
   <item>
-    <title>Un planter de raíces de árbol para pared con impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md</guid>
+    <title>Nueva placa de desarrollo ESP32-P4-Pi-VIEWE con Wi-Fi 6 y Bluetooth 5</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md</guid>
     <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
-    <description>Adafruit celebra cada jueves a la comunidad de impresión 3D con proyectos innovadores. En esta ocasión, presentamos un planter de raíces de árbol para pared diseñado para ser impreso en 3D.</description>
-  </item>
-  <item>
-    <title>30 años de robótica: Honda crea el primer robot capaz de caminar sin caerse</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-30-anos-de-robotica-honda-crea-el-primer-robot-capaz-de.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En 1996, Honda desarrolló el robot P2, un logro pionero en la robótica que permitió a los robots caminar sin perder el equilibrio. Este avance marcó un hito importante en la historia de la robótica y ha sido reconocido como un IEEE…</description>
-  </item>
-  <item>
-    <title>La guerra de drones en Ucrania: la inflexión de la inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-la-guerra-de-drones-en-ucrania-la-inflexion-de-la-intel.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La invasión rusa a Ucrania ha llevado a una revolución en la guerra con la creación de drones autónomos que utilizan la inteligencia artificial para atacar objetivos. Los drones han sido utilizados por las fuerzas ucranianas para compensar…</description>
-  </item>
-  <item>
-    <title>Coche de carreras autónomo asequible y pre-asembleado para la educación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-coche-de-carreras-autonomo-asequible-y-pre-asembleado-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-coche-de-carreras-autonomo-asequible-y-pre-asembleado-p.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La educación en robótica y tecnología autónoma acaba de recibir un impulso importante con la presentación del coche de carreras autónomo NeoRacer. Este proyecto busca facilitar la adquisición de habilidades en robótica y programación,…</description>
-  </item>
-  <item>
-    <title>Robótica: aprendizaje de habilidades deportivas en humanoides</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-robotica-aprendizaje-de-habilidades-deportivas-en-human.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-26-robotica-aprendizaje-de-habilidades-deportivas-en-human.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de investigadores ha desarrollado un sistema llamado LATENT que permite a los humanoides aprender habilidades deportivas complejas, como el tenis, a partir de datos imperfectos de movimiento humano.</description>
-  </item>
-  <item>
-    <title>Deccan AI recibe $25 millones para desarrollar modelos de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-deccan-ai-recibe-25-millones-para-desarrollar-modelos-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-deccan-ai-recibe-25-millones-para-desarrollar-modelos-d.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La startup Deccan AI ha recibido $25 millones en su primera ronda de financiación para desarrollar modelos de IA. Esta inversión se debe a la creciente demanda de entrenamiento y refinamiento de modelos de IA en la industria.</description>
-  </item>
-  <item>
-    <title>Crea un modelo de embeddings personalizado en menos de un día</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-crea-un-modelo-de-embeddings-personalizado-en-menos-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-26-crea-un-modelo-de-embeddings-personalizado-en-menos-de-.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los sistemas de RAG (Retrieval-Augmented Generation) pueden fallar cuando no capturan las distinciones finas de un dominio específico. Ahora, con una GPU y menos de un día de entrenamiento, puedes transformar un modelo generalista en uno…</description>
-  </item>
-  <item>
-    <title>Nueva interfaz web para la pantalla de pánico de Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-nueva-interfaz-web-para-la-pantalla-de-panico-de-linux.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-nueva-interfaz-web-para-la-pantalla-de-panico-de-linux.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Fedora ha aprobado un cambio importante en la pantalla de pánico de Linux, que ahora incluirá una interfaz web para facilitar la resolución de problemas de kernel. Esto permitirá a los usuarios capturar y compartir…</description>
-  </item>
-  <item>
-    <title>Mejoras en el soporte para laptops de ASUS y HP en Linux 7.0</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-mejoras-en-el-soporte-para-laptops-de-asus-y-hp-en-linu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-mejoras-en-el-soporte-para-laptops-de-asus-y-hp-en-linu.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha hecho progresos importantes en la integración de hardware de ASUS y HP, lo que permite a los usuarios aprovechar mejor las características de sus laptops en el sistema operativo. Estas mejoras son especialmente…</description>
-  </item>
-  <item>
-    <title>Noticias de tecnología: seguridad, kernel y herramientas de desarrollo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-noticias-de-tecnologia-seguridad-kernel-y-herramientas-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-noticias-de-tecnologia-seguridad-kernel-y-herramientas-.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La edición semanal de LWN.net nos trae noticias sobre colaboración en seguridad, herramientas de desarrollo del kernel y actualizaciones en PHP. También se mencionan actualizaciones en Tor, Firefox y GNOME.</description>
-  </item>
-  <item>
-    <title>Actualización remota en Raspberry Pi Connect: un paso más hacia la comodidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-actualizacion-remota-en-raspberry-pi-connect-un-paso-ma.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-26-actualizacion-remota-en-raspberry-pi-connect-un-paso-ma.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Raspberry Pi Connect es una herramienta para acceder a tu Raspberry Pi desde cualquier lugar, pero ahora ha llegado el momento de tomar un paso más hacia la comodidad: las actualizaciones remotas. Esto significa que podrás actualizar el…</description>
-  </item>
-  <item>
-    <title>Pila de desarrollo AngstromIO: una pila de 9 mm que se conecta a un USB-C</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-pila-de-desarrollo-angstromio-una-pila-de-9-mm-que-se-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-pila-de-desarrollo-angstromio-una-pila-de-9-mm-que-se-c.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Dieu-de-l-elec ha lanzado una pila de desarrollo extremadamente pequeña basada en el microcontrolador ATtiny1616 de Microchip. Esta pila, llamada AngstromIO, mide solo 9,0 x 8,9 mm y se conecta a un puerto USB-C para recibir…</description>
-  </item>
-  <item>
-    <title>Dispositivo de reconocimiento de aves ganador de premio</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-dispositivo-de-reconocimiento-de-aves-ganador-de-premio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-dispositivo-de-reconocimiento-de-aves-ganador-de-premio.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un joven inventor ha creado un dispositivo para reconocer aves en su hábitat natural, utilizando un ordenador Raspberry Pi y algoritmos de reconocimiento de voz. Este proyecto puede ayudar a comprender mejor la población de aves en todo el…</description>
-  </item>
-  <item>
-    <title>Proyecto de salida VGA con un microcontrolador PIC18</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-proyecto-de-salida-vga-con-un-microcontrolador-pic18.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-proyecto-de-salida-vga-con-un-microcontrolador-pic18.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha logrado conectar un microcontrolador PIC18 a un monitor VGA, mostrando una imagen de 360x480 píxeles con hasta 16 colores. Este proyecto demuestra la capacidad de los microcontroladores para realizar tareas complejas como…</description>
-  </item>
-  <item>
-    <title>Creador de plantas en forma de sofá: un proyecto de impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-creador-de-plantas-en-forma-de-sofa-un-proyecto-de-impr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-creador-de-plantas-en-forma-de-sofa-un-proyecto-de-impr.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit presenta un proyecto de impresión 3D que combina la decoración de hogar con la jardinería, creando un sofá miniatura para plantas. Este proyecto es relevante para los entusiastas de la impresión 3D y la creación de objetos…</description>
-  </item>
-  <item>
-    <title>Planta de estilo griego para interiores con impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-planta-de-estilo-griego-para-interiores-con-impresion-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-26-planta-de-estilo-griego-para-interiores-con-impresion-3.md</guid>
-    <pubDate>Thu, 26 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado una planta de estilo griego que combina la arquitectura clásica con la tecnología moderna. Esta planta es un ejemplo de cómo la impresión 3D puede ser utilizada para crear objetos decorativos y…</description>
+    <description>VIEWE ha lanzado una nueva placa de desarrollo inspirada en la Raspberry Pi, que combina un microcontrolador ESP32-P4 con un chip ESP32-C6 para Wi-Fi 6 y Bluetooth 5. Esta placa ofrece una gran cantidad de conectividad y recursos para…</description>
   </item>
 </channel>
 </rss>
