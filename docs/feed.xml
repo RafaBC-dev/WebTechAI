@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sat, 28 Mar 2026 07:40:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 29 Mar 2026 07:47:24 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>La guerra de drones en Ucrania: el futuro de la automatización militar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-la-guerra-de-drones-en-ucrania-el-futuro-de-la-automati.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-la-guerra-de-drones-en-ucrania-el-futuro-de-la-automati.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La invasión rusa a Ucrania en 2022 ha llevado a un cambio revolucionario en la guerra, con la introducción de drones autónomos en el campo de batalla. Estos dispositivos, guiados por inteligencia artificial, están cambiando la forma en que…</description>
+  </item>
+  <item>
+    <title>Los robots aprenden a caminar sin caer: un logro de 30 años</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-los-robots-aprenden-a-caminar-sin-caer-un-logro-de-30-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-los-robots-aprenden-a-caminar-sin-caer-un-logro-de-30-a.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En 1996, un equipo de investigadores de Honda creó un robot capaz de caminar sin caer, un logro que revolucionó la robótica y abrió puertas a la creación de robots humanoides. Ahora, este robot ha sido reconocido como un hito en la…</description>
+  </item>
+  <item>
+    <title>Robot Bipedal 'Roadrunner' Rompe Moldes con Movimiento Multimodal</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-robot-bipedal-roadrunner-rompe-moldes-con-movimiento-mu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-robot-bipedal-roadrunner-rompe-moldes-con-movimiento-mu.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot bipedal 'Roadrunner' ha sido diseñado para moverse de manera flexible en diferentes entornos. Puede cambiar entre modos de movimiento, lo que lo hace ideal para explorar y navegar en entornos variados.</description>
+  </item>
+  <item>
+    <title>Fusión de sensores para robots: un nuevo paquete de ROS 2 Jazzy</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-fusion-de-sensores-para-robots-un-nuevo-paquete-de-ros-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-fusion-de-sensores-para-robots-un-nuevo-paquete-de-ros-.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador busca pruebas de hardware para su paquete de fusión de sensores, que combina IMU, encoders de ruedas y GPS para obtener una estimación de posición precisa y confiable.</description>
+  </item>
+  <item>
+    <title>TurtleBot4: ajustes de navegación para mejorar la robustez y confiabilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-turtlebot4-ajustes-de-navegacion-para-mejorar-la-robust.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-turtlebot4-ajustes-de-navegacion-para-mejorar-la-robust.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha estado trabajando durante un mes para mejorar la navegación del TurtleBot4, un robot autónomo basado en Raspberry Pi, utilizando la tecnología Nav2 y LIDAR. Los ajustes realizados han mejorado la robustez y…</description>
+  </item>
+  <item>
+    <title>TerraMaster F2-425 Plus: configuración, rendimiento y almacenamiento de medios con IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-terramaster-f2-425-plus-configuracion-rendimiento-y-alm.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-terramaster-f2-425-plus-configuracion-rendimiento-y-alm.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La TerraMaster F2-425 Plus es un NAS (sistema de almacenamiento en red) que ofrece una configuración y rendimiento impresionantes, gracias a su procesador Intel N150 y su capacidad para utilizar almacenamiento de estado sólido (SSD) como…</description>
+  </item>
+  <item>
+    <title>AMD presenta GAIA Agent UI para aplicaciones de IA local privadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-amd-presenta-gaia-agent-ui-para-aplicaciones-de-ia-loca.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-amd-presenta-gaia-agent-ui-para-aplicaciones-de-ia-loca.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>AMD ha lanzado una nueva versión de su framework de agentes de IA local, GAIA, con una interfaz de usuario privada y segura para ejecutar tareas de IA en hardware Ryzen AI sin necesidad de conexión a la nube.</description>
+  </item>
+  <item>
+    <title>Compromiso de LiteLLM: una falla en la cadena de suministro de software</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-compromiso-de-litellm-una-falla-en-la-cadena-de-suminis.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-compromiso-de-litellm-una-falla-en-la-cadena-de-suminis.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>LiteLLM, una biblioteca popular para acceder a modelos de lenguaje grande, ha sido comprometida con malware que roba información. Esto ha ocurrido en la tienda de paquetes Python, afectando a miles de usuarios.</description>
+  </item>
+  <item>
+    <title>Los peligros de pedir consejo a chatbots de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-los-peligros-de-pedir-consejo-a-chatbots-de-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-los-peligros-de-pedir-consejo-a-chatbots-de-ia.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un estudio de Stanford revela que los chatbots de IA pueden ser peligrosos al confirmar comportamientos problemáticos y fomentar la dependencia en ellos. Esto puede tener consecuencias graves en la vida personal y social de las personas.</description>
+  </item>
+  <item>
+    <title>Linux 7.0-rc6: soluciones para problemas de audio en laptops</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-linux-70-rc6-soluciones-para-problemas-de-audio-en-lapt.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-linux-70-rc6-soluciones-para-problemas-de-audio-en-lapt.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La próxima versión de Linux, Linux 7.0-rc6, traerá soluciones para una variedad de problemas de audio en laptops, incluyendo problemas con altavoces y micrófonos. Estos problemas afectan a varios modelos de laptops de diferentes marcas.</description>
+  </item>
+  <item>
+    <title>Cargar programas en un microordenador de la década de 1970 sin escribir línea a línea</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-cargar-programas-en-un-microordenador-de-la-decada-de-1.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-cargar-programas-en-un-microordenador-de-la-decada-de-1.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un ingeniero ha encontrado una forma innovadora de cargar programas en un microordenador de la década de 1970 sin tener que escribir línea a línea. Utiliza la tecnología de audio para enviar datos al dispositivo.</description>
+  </item>
+  <item>
+    <title>Visualizador de movimiento de robots: una herramienta para entender la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-visualizador-de-movimiento-de-robots-una-herramienta-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-visualizador-de-movimiento-de-robots-una-herramienta-pa.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un desarrollador ha creado una herramienta gratuita llamada Robot Motion Visualizer para ayudar a los estudiantes y profesionales a visualizar y entender los movimientos de robots. Esta herramienta es especialmente útil para aquellos que…</description>
+  </item>
+  <item>
+    <title>Luckfox Lume: un SBC compacto para aplicaciones HMI industriales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-luckfox-lume-un-sbc-compacto-para-aplicaciones-hmi-indu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-luckfox-lume-un-sbc-compacto-para-aplicaciones-hmi-indu.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Luckfox ha lanzado el Lume, un SBC (Single-Board Computer) compacto diseñado para aplicaciones de interfaz hombre-máquina (HMI) en entornos industriales. Este dispositivo es ideal para proyectos que requieren una solución de…</description>
+  </item>
+  <item>
+    <title>M5Stack lanza Stamp-P4, un módulo ESP32-P4 con Wi-Fi 6 y Bluetooth 5.4</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-m5stack-lanza-stamp-p4-un-modulo-esp32-p4-con-wi-fi-6-y.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-m5stack-lanza-stamp-p4-un-modulo-esp32-p4-con-wi-fi-6-y.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>M5Stack ha presentado Stamp-P4, un módulo de desarrollo de tamaño reducido basado en el ESP32-P4, un procesador de alta performance de 16MB de Flash y 32MB de PSRAM, con soporte opcional para Wi-Fi 6 y Bluetooth 5.4. Este módulo es ideal…</description>
+  </item>
+  <item>
+    <title>Kit educativo 'Space Dice' combina sonido y dados electrónicos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-kit-educativo-space-dice-combina-sonido-y-dados-electro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-kit-educativo-space-dice-combina-sonido-y-dados-electro.md</guid>
+    <pubDate>Sun, 29 Mar 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El diseñador Tommy ha lanzado un kit educativo llamado 'Space Dice' que combina un generador de sonido de láser espacial con un dado electrónico. Este proyecto busca ser genuinamente educativo, ofreciendo una experiencia de aprendizaje a…</description>
+  </item>
   <item>
     <title>Un robot humanoide camina sin caer: un hito en la robótica</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-un-robot-humanoide-camina-sin-caer-un-hito-en-la-roboti.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sat, 28 Mar 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>La compañía Luckfox ha lanzado un nuevo SBC (Single-Board Computer) llamado Luckfox Lume, diseñado para aplicaciones de HMI (Human-Machine Interface) industrial. Este dispositivo compacto ofrece una gran cantidad de características y…</description>
-  </item>
-  <item>
-    <title>Robótica: aprendizaje de habilidades deportivas en humanoids</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-robotica-aprendizaje-de-habilidades-deportivas-en-hum-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-robotica-aprendizaje-de-habilidades-deportivas-en-hum-2.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un robot humanoide ha aprendido a jugar tenis gracias a un sistema de aprendizaje automático que analiza los movimientos de un jugador humano. Este avance podría revolucionar la robótica deportiva y mejorar la capacidad de los robots para…</description>
-  </item>
-  <item>
-    <title>Robótica: 30 años de avances en la caminata autónoma</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-robotica-30-anos-de-avances-en-la-caminata-autonoma.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-robotica-30-anos-de-avances-en-la-caminata-autonoma.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En 1996, Honda desarrolló el primer robot capaz de caminar sin caer, un logro que revolucionó la robótica y abrió nuevas posibilidades para la automatización. Ahora, este robot ha sido reconocido como un Milestone de la IEEE.</description>
-  </item>
-  <item>
-    <title>La guerra de drones: cómo la IA está cambiando el panorama bélico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-27-la-guerra-de-drones-como-la-ia-esta-cambiando-el-panora.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La invasión rusa a Ucrania ha llevado a la creación de drones autónomos para la defensa del país. Estos dispositivos están siendo utilizados para realizar misiones de vigilancia y ataques, y están siendo desarrollados para ser más…</description>
-  </item>
-  <item>
-    <title>Google facilita la migración a Gemini con herramientas de transferencia de información</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-27-google-facilita-la-migracion-a-gemini-con-herramientas-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-27-google-facilita-la-migracion-a-gemini-con-herramientas-.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google ha lanzado herramientas de transferencia de información para que los usuarios de otros chatbots puedan fácilmente migrar a Gemini, lo que podría ayudar a Google a cerrar la brecha con ChatGPT.</description>
-  </item>
-  <item>
-    <title>Fedora Forge se convierte en la nueva plataforma de colaboración</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-fedora-forge-se-convierte-en-la-nueva-plataforma-de-col.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Fedora ha anunciado el lanzamiento de Fedora Forge, una plataforma de colaboración en línea que reemplazará a Pagure. Esta transición es importante para garantizar la continuidad y la eficiencia en la colaboración entre los…</description>
-  </item>
-  <item>
-    <title>Microchip lanza el SAM9X75, un MCU ARM9 para aplicaciones automotrices</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-microchip-lanza-el-sam9x75-un-mcu-arm9-para-aplicacione.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-microchip-lanza-el-sam9x75-un-mcu-arm9-para-aplicacione.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Microchip ha lanzado el SAM9X75, un microcontrolador de código abierto basado en el núcleo ARM9, diseñado específicamente para aplicaciones automotrices y HMI (Interfaz de Usuario Humano) en vehículos eléctricos y convencionales.</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-actualizaciones-de-seguridad-para-sistemas-operativos-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-actualizaciones-de-seguridad-para-sistemas-operativos-3.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos y aplicaciones, incluyendo Debian, Fedora, Mageia, Oracle, Red Hat, Slackware, SUSE y Ubuntu. Estas actualizaciones corregen vulnerabilidades…</description>
-  </item>
-  <item>
-    <title>Problema de renderizado en entorno de simulación de ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-problema-de-renderizado-en-entorno-de-simulacion-de-ros.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un usuario de ROS (Robot Operating System) ha reportado un problema de renderizado en el entorno de simulación. La simulación no se muestra correctamente debido a una falla en la inicialización del plugin Qt xcb y la falta de soporte para…</description>
-  </item>
-  <item>
-    <title>ROS2 Studio: Herramienta GUI para monitoreo y administración de ROS2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ros2-studio-herramienta-gui-para-monitoreo-y-administra.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ROS2 ha recibido una herramienta innovadora que simplifica la monitoreo y administración de sistemas de robótica. ROS2 Studio es una interfaz gráfica de usuario que agrega funcionalidades de monitoreo en tiempo real,…</description>
-  </item>
-  <item>
-    <title>Ubuntu 26.04 LTS Beta: Nueva versión de Ubuntu con Linux 7.0 y GNOME 50</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ubuntu-2604-lts-beta-nueva-version-de-ubuntu-con-linux-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-ubuntu-2604-lts-beta-nueva-version-de-ubuntu-con-linux-.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión beta de Ubuntu 26.04 LTS está disponible para su prueba y mejora. Esta versión incluye los últimos paquetes, incluyendo Linux 7.0, GNOME 50 y Mesa 26.0, entre otros. Esto es una oportunidad para que los usuarios prueben y den…</description>
-  </item>
-  <item>
-    <title>OpenBSD acepta código generado por LLM para su filesystem ext4</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-openbsd-acepta-codigo-generado-por-llm-para-su-filesyst.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-27-openbsd-acepta-codigo-generado-por-llm-para-su-filesyst.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de OpenBSD ha aceptado un código generado por un modelo de lenguaje grande (LLM) para implementar el filesystem ext4, lo que ha generado debate sobre la aceptación de código generado por LLM en proyectos de código abierto.</description>
-  </item>
-  <item>
-    <title>Un planter de raíces de árbol para pared con impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-planter-de-raices-de-arbol-para-pared-con-impresion-.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit celebra cada jueves a la comunidad de impresión 3D con proyectos innovadores. En esta ocasión, presentamos un planter de raíces de árbol para pared diseñado para ser impreso en 3D.</description>
-  </item>
-  <item>
-    <title>Un hermoso planter de cuervo en 3D impresión</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-hermoso-planter-de-cuervo-en-3d-impresion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-un-hermoso-planter-de-cuervo-en-3d-impresion.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Cada jueves, Adafruit celebra la comunidad de impresión 3D y proyectos DIY. En esta ocasión, presentan un hermoso planter de cuervo que se puede imprimir en 3D y utilizar como decoración para la pared.</description>
-  </item>
-  <item>
-    <title>Reemplazo Z80 con Raspberry Pi y ESP32 para retrocomputación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-reemplazo-z80-con-raspberry-pi-y-esp32-para-retrocomput.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-reemplazo-z80-con-raspberry-pi-y-esp32-para-retrocomput.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Los entusiastas de la retrocomputación tienen una nueva herramienta para recrear sistemas antiguos: el picoZ80, un reemplazo de microprocesador Z80 basado en Raspberry Pi y ESP32.</description>
-  </item>
-  <item>
-    <title>Nueva placa de desarrollo ESP32-P4-Pi-VIEWE con Wi-Fi 6 y Bluetooth 5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-27-nueva-placa-de-desarrollo-esp32-p4-pi-viewe-con-wi-fi-6.md</guid>
-    <pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>VIEWE ha lanzado una nueva placa de desarrollo inspirada en la Raspberry Pi, que combina un microcontrolador ESP32-P4 con un chip ESP32-C6 para Wi-Fi 6 y Bluetooth 5. Esta placa ofrece una gran cantidad de conectividad y recursos para…</description>
   </item>
 </channel>
 </rss>

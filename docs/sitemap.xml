@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-28</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-28</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-29</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-29</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-la-guerra-de-drones-en-ucrania-el-futuro-de-la-automati.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-los-robots-aprenden-a-caminar-sin-caer-un-logro-de-30-a.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-robot-bipedal-roadrunner-rompe-moldes-con-movimiento-mu.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-fusion-de-sensores-para-robots-un-nuevo-paquete-de-ros-.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-turtlebot4-ajustes-de-navegacion-para-mejorar-la-robust.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-terramaster-f2-425-plus-configuracion-rendimiento-y-alm.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-amd-presenta-gaia-agent-ui-para-aplicaciones-de-ia-loca.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-compromiso-de-litellm-una-falla-en-la-cadena-de-suminis.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-29-los-peligros-de-pedir-consejo-a-chatbots-de-ia.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-linux-70-rc6-soluciones-para-problemas-de-audio-en-lapt.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-cargar-programas-en-un-microordenador-de-la-decada-de-1.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-29-visualizador-de-movimiento-de-robots-una-herramienta-pa.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-luckfox-lume-un-sbc-compacto-para-aplicaciones-hmi-indu.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-m5stack-lanza-stamp-p4-un-modulo-esp32-p4-con-wi-fi-6-y.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-29-kit-educativo-space-dice-combina-sonido-y-dados-electro.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-un-robot-humanoide-camina-sin-caer-un-hito-en-la-roboti.md</loc><lastmod>2026-03-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-un-robot-bipede-rompe-moldes-con-su-locomocion-multimod.md</loc><lastmod>2026-03-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-28-roscon-global-2026-noticias-y-eventos-destacados.md</loc><lastmod>2026-03-28</lastmod><priority>0.8</priority></url>

@@ -1,6 +1,218 @@
 {
   "news": [
     {
+      "title": "La guerra de drones en Ucrania: el futuro de la automatización militar",
+      "category": "robotica",
+      "date": "2026-03-29",
+      "slug": "la-guerra-de-drones-en-ucrania-el-futuro-de-la-automati",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La invasión rusa a Ucrania en 2022 ha llevado a un cambio revolucionario en la guerra, con la introducción de drones autónomos en el campo de batalla. Estos dispositivos, guiados por inteligencia artificial, están cambiando la forma en que…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-29-la-guerra-de-drones-en-ucrania-el-futuro-de-la-automati.md"
+    },
+    {
+      "title": "Los robots aprenden a caminar sin caer: un logro de 30 años",
+      "category": "robotica",
+      "date": "2026-03-29",
+      "slug": "los-robots-aprenden-a-caminar-sin-caer-un-logro-de-30-a",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "En 1996, un equipo de investigadores de Honda creó un robot capaz de caminar sin caer, un logro que revolucionó la robótica y abrió puertas a la creación de robots humanoides. Ahora, este robot ha sido reconocido como un hito en la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-29-los-robots-aprenden-a-caminar-sin-caer-un-logro-de-30-a.md"
+    },
+    {
+      "title": "Robot Bipedal 'Roadrunner' Rompe Moldes con Movimiento Multimodal",
+      "category": "robotica",
+      "date": "2026-03-29",
+      "slug": "robot-bipedal-roadrunner-rompe-moldes-con-movimiento-mu",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El robot bipedal 'Roadrunner' ha sido diseñado para moverse de manera flexible en diferentes entornos. Puede cambiar entre modos de movimiento, lo que lo hace ideal para explorar y navegar en entornos variados.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-29-robot-bipedal-roadrunner-rompe-moldes-con-movimiento-mu.md"
+    },
+    {
+      "title": "Fusión de sensores para robots: un nuevo paquete de ROS 2 Jazzy",
+      "category": "robotica",
+      "date": "2026-03-29",
+      "slug": "fusion-de-sensores-para-robots-un-nuevo-paquete-de-ros-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador busca pruebas de hardware para su paquete de fusión de sensores, que combina IMU, encoders de ruedas y GPS para obtener una estimación de posición precisa y confiable.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-29-fusion-de-sensores-para-robots-un-nuevo-paquete-de-ros-.md"
+    },
+    {
+      "title": "TurtleBot4: ajustes de navegación para mejorar la robustez y confiabilidad",
+      "category": "robotica",
+      "date": "2026-03-29",
+      "slug": "turtlebot4-ajustes-de-navegacion-para-mejorar-la-robust",
+      "tags": [
+        "robotica",
+        "python",
+        "linux"
+      ],
+      "preview": "Un desarrollador ha estado trabajando durante un mes para mejorar la navegación del TurtleBot4, un robot autónomo basado en Raspberry Pi, utilizando la tecnología Nav2 y LIDAR. Los ajustes realizados han mejorado la robustez y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-29-turtlebot4-ajustes-de-navegacion-para-mejorar-la-robust.md"
+    },
+    {
+      "title": "TerraMaster F2-425 Plus: configuración, rendimiento y almacenamiento de medios con IA",
+      "category": "ia",
+      "date": "2026-03-29",
+      "slug": "terramaster-f2-425-plus-configuracion-rendimiento-y-alm",
+      "tags": [
+        "linux",
+        "herramientas",
+        "codigo"
+      ],
+      "preview": "La TerraMaster F2-425 Plus es un NAS (sistema de almacenamiento en red) que ofrece una configuración y rendimiento impresionantes, gracias a su procesador Intel N150 y su capacidad para utilizar almacenamiento de estado sólido (SSD) como…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-29-terramaster-f2-425-plus-configuracion-rendimiento-y-alm.md"
+    },
+    {
+      "title": "AMD presenta GAIA Agent UI para aplicaciones de IA local privadas",
+      "category": "ia",
+      "date": "2026-03-29",
+      "slug": "amd-presenta-gaia-agent-ui-para-aplicaciones-de-ia-loca",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "AMD ha lanzado una nueva versión de su framework de agentes de IA local, GAIA, con una interfaz de usuario privada y segura para ejecutar tareas de IA en hardware Ryzen AI sin necesidad de conexión a la nube.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-29-amd-presenta-gaia-agent-ui-para-aplicaciones-de-ia-loca.md"
+    },
+    {
+      "title": "Compromiso de LiteLLM: una falla en la cadena de suministro de software",
+      "category": "ia",
+      "date": "2026-03-29",
+      "slug": "compromiso-de-litellm-una-falla-en-la-cadena-de-suminis",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "linux",
+        "codigo"
+      ],
+      "preview": "LiteLLM, una biblioteca popular para acceder a modelos de lenguaje grande, ha sido comprometida con malware que roba información. Esto ha ocurrido en la tienda de paquetes Python, afectando a miles de usuarios.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-29-compromiso-de-litellm-una-falla-en-la-cadena-de-suminis.md"
+    },
+    {
+      "title": "Los peligros de pedir consejo a chatbots de IA",
+      "category": "ia",
+      "date": "2026-03-29",
+      "slug": "los-peligros-de-pedir-consejo-a-chatbots-de-ia",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un estudio de Stanford revela que los chatbots de IA pueden ser peligrosos al confirmar comportamientos problemáticos y fomentar la dependencia en ellos. Esto puede tener consecuencias graves en la vida personal y social de las personas.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-29-los-peligros-de-pedir-consejo-a-chatbots-de-ia.md"
+    },
+    {
+      "title": "Linux 7.0-rc6: soluciones para problemas de audio en laptops",
+      "category": "linux",
+      "date": "2026-03-29",
+      "slug": "linux-70-rc6-soluciones-para-problemas-de-audio-en-lapt",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La próxima versión de Linux, Linux 7.0-rc6, traerá soluciones para una variedad de problemas de audio en laptops, incluyendo problemas con altavoces y micrófonos. Estos problemas afectan a varios modelos de laptops de diferentes marcas.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-29-linux-70-rc6-soluciones-para-problemas-de-audio-en-lapt.md"
+    },
+    {
+      "title": "Cargar programas en un microordenador de la década de 1970 sin escribir línea a línea",
+      "category": "linux",
+      "date": "2026-03-29",
+      "slug": "cargar-programas-en-un-microordenador-de-la-decada-de-1",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "python",
+        "codigo"
+      ],
+      "preview": "Un ingeniero ha encontrado una forma innovadora de cargar programas en un microordenador de la década de 1970 sin tener que escribir línea a línea. Utiliza la tecnología de audio para enviar datos al dispositivo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-29-cargar-programas-en-un-microordenador-de-la-decada-de-1.md"
+    },
+    {
+      "title": "Visualizador de movimiento de robots: una herramienta para entender la robótica",
+      "category": "linux",
+      "date": "2026-03-29",
+      "slug": "visualizador-de-movimiento-de-robots-una-herramienta-pa",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una herramienta gratuita llamada Robot Motion Visualizer para ayudar a los estudiantes y profesionales a visualizar y entender los movimientos de robots. Esta herramienta es especialmente útil para aquellos que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-29-visualizador-de-movimiento-de-robots-una-herramienta-pa.md"
+    },
+    {
+      "title": "Luckfox Lume: un SBC compacto para aplicaciones HMI industriales",
+      "category": "embebidos",
+      "date": "2026-03-29",
+      "slug": "luckfox-lume-un-sbc-compacto-para-aplicaciones-hmi-indu",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Luckfox ha lanzado el Lume, un SBC (Single-Board Computer) compacto diseñado para aplicaciones de interfaz hombre-máquina (HMI) en entornos industriales. Este dispositivo es ideal para proyectos que requieren una solución de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-29-luckfox-lume-un-sbc-compacto-para-aplicaciones-hmi-indu.md"
+    },
+    {
+      "title": "M5Stack lanza Stamp-P4, un módulo ESP32-P4 con Wi-Fi 6 y Bluetooth 5.4",
+      "category": "embebidos",
+      "date": "2026-03-29",
+      "slug": "m5stack-lanza-stamp-p4-un-modulo-esp32-p4-con-wi-fi-6-y",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "M5Stack ha presentado Stamp-P4, un módulo de desarrollo de tamaño reducido basado en el ESP32-P4, un procesador de alta performance de 16MB de Flash y 32MB de PSRAM, con soporte opcional para Wi-Fi 6 y Bluetooth 5.4. Este módulo es ideal…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-29-m5stack-lanza-stamp-p4-un-modulo-esp32-p4-con-wi-fi-6-y.md"
+    },
+    {
+      "title": "Kit educativo 'Space Dice' combina sonido y dados electrónicos",
+      "category": "embebidos",
+      "date": "2026-03-29",
+      "slug": "kit-educativo-space-dice-combina-sonido-y-dados-electro",
+      "tags": [
+        "electronica",
+        "diseño-3d",
+        "hardware"
+      ],
+      "preview": "El diseñador Tommy ha lanzado un kit educativo llamado 'Space Dice' que combina un generador de sonido de láser espacial con un dado electrónico. Este proyecto busca ser genuinamente educativo, ofreciendo una experiencia de aprendizaje a…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-03-29-kit-educativo-space-dice-combina-sonido-y-dados-electro.md"
+    },
+    {
       "title": "Un robot humanoide camina sin caer: un hito en la robótica",
       "category": "robotica",
       "date": "2026-03-28",
