@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Robots humanoides: 30 años de avances en la marcha sin caer",
+      "category": "robotica",
+      "date": "2026-03-30",
+      "slug": "robots-humanoides-30-anos-de-avances-en-la-marcha-sin-c",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "En 1996, Honda desarrolló el primer robot humanoide capaz de caminar sin caer. Este logro revolucionó la robótica y permitió la creación de robots que pueden interactuar con su entorno de manera más natural. Ahora, este robot ha sido…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-30-robots-humanoides-30-anos-de-avances-en-la-marcha-sin-c.md"
+    },
+    {
+      "title": "Robot bipedal 'Roadrunner' revoluciona la robótica con movimientos flexibles",
+      "category": "robotica",
+      "date": "2026-03-30",
+      "slug": "robot-bipedal-roadrunner-revoluciona-la-robotica-con-mo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "El robot 'Roadrunner' es un prototipo bipedal diseñado para moverse de manera flexible en diferentes entornos. Pesa solo 15 kg y puede cambiar entre diferentes modos de locomoción, lo que lo hace ideal para explorar terrenos complejos.…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-30-robot-bipedal-roadrunner-revoluciona-la-robotica-con-mo.md"
+    },
+    {
+      "title": "OpenRobOps: plataforma abierta para operaciones de flotas de robots",
+      "category": "robotica",
+      "date": "2026-03-30",
+      "slug": "openrobops-plataforma-abierta-para-operaciones-de-flota",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La industria de la robótica se enfrenta a un problema de fragmentación en las operaciones, similar a los primeros días del desarrollo de software de robots. Los desarrolladores de robots actualmente desperdician tiempo y recursos creando…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-30-openrobops-plataforma-abierta-para-operaciones-de-flota.md"
+    },
+    {
+      "title": "Robótica: Problema de Fricción en Evaluación de Robots",
+      "category": "robotica",
+      "date": "2026-03-30",
+      "slug": "robotica-problema-de-friccion-en-evaluacion-de-robots",
+      "tags": [
+        "robotica",
+        "gazebo",
+        "linux"
+      ],
+      "preview": "Un usuario de Gazebo ha reportado un problema común en la evaluación de robots: la fricción entre el cable y los NUC boxes hace que el robot se atasque. ¿Es este comportamiento intencionado o se puede reducir la fricción?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-30-robotica-problema-de-friccion-en-evaluacion-de-robots.md"
+    },
+    {
+      "title": "La guerra de drones en Ucrania: cómo la IA está cambiando el juego",
+      "category": "robotica",
+      "date": "2026-03-30",
+      "slug": "la-guerra-de-drones-en-ucrania-como-la-ia-esta-cambiand",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La invasión rusa de Ucrania en 2022 ha llevado a la creación de drones autónomos para la defensa del país. Estos drones están siendo utilizados para la vigilancia y el ataque, y están siendo controlados por agentes de IA. Esto está…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-30-la-guerra-de-drones-en-ucrania-como-la-ia-esta-cambiand.md"
+    },
+    {
+      "title": "Guía para seleccionar hardware para la implementación de modelos LLM locales",
+      "category": "ia",
+      "date": "2026-03-30",
+      "slug": "guia-para-seleccionar-hardware-para-la-implementacion-d",
+      "tags": [
+        "llms",
+        "agentes",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Una guía en línea recién lanzada ofrece una visión general de la relación entre el costo y el rendimiento de hardware para la implementación de modelos de lenguaje local (LLM).",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-30-guia-para-seleccionar-hardware-para-la-implementacion-d.md"
+    },
+    {
+      "title": "Proyector de 4K Ultra Short Throw con tecnología de láser RGB y VRR",
+      "category": "ia",
+      "date": "2026-03-30",
+      "slug": "proyector-de-4k-ultra-short-throw-con-tecnologia-de-las",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "AWOL Vision Aetherion es un nuevo proyector de 4K Ultra Short Throw (UST) que ofrece una experiencia de entretenimiento inmersiva en vivo y en directo. Con su tecnología de láser RGB y Variable Refresh Rate (VRR), este proyector es ideal…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-30-proyector-de-4k-ultra-short-throw-con-tecnologia-de-las.md"
+    },
+    {
+      "title": "OpenAI cierra Sora: ¿por qué su herramienta de generación de video falló?",
+      "category": "ia",
+      "date": "2026-03-30",
+      "slug": "openai-cierra-sora-por-que-su-herramienta-de-generacion",
+      "tags": [
+        "ia-local",
+        "llms",
+        "linux"
+      ],
+      "preview": "OpenAI ha cerrado su herramienta de generación de video Sora, seis meses después de su lanzamiento. ¿Por qué? La respuesta es más prosaica de lo que se esperaba.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-30-openai-cierra-sora-por-que-su-herramienta-de-generacion.md"
+    },
+    {
+      "title": "Compromiso de LiteLLM: una librería de LLMs atacada por malware",
+      "category": "ia",
+      "date": "2026-03-30",
+      "slug": "compromiso-de-litellm-una-libreria-de-llms-atacada-por-",
+      "tags": [
+        "llms",
+        "python",
+        "librerias"
+      ],
+      "preview": "La librería LiteLLM, utilizada para acceder a modelos de lenguaje grande, ha sido comprometida con malware que ha descargado miles de veces desde el repositorio PyPI. Esto pone de manifiesto la vulnerabilidad de las cadenas de suministro…",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-30-compromiso-de-litellm-una-libreria-de-llms-atacada-por-.md"
+    },
+    {
+      "title": "Un modelo de IA en un ordenador de la década de 1970",
+      "category": "ia",
+      "date": "2026-03-30",
+      "slug": "un-modelo-de-ia-en-un-ordenador-de-la-decada-de-1970",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un equipo de investigación ha logrado entrenar un modelo de IA en un ordenador de la década de 1970, demostrando que no todos los modelos de IA necesitan una gran cantidad de recursos para funcionar.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-30-un-modelo-de-ia-en-un-ordenador-de-la-decada-de-1970.md"
+    },
+    {
+      "title": "Soporte de modo inalámbrico para hardware QAT Gen6 de Intel",
+      "category": "linux",
+      "date": "2026-03-30",
+      "slug": "soporte-de-modo-inalambrico-para-hardware-qat-gen6-de-i",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa Intel está trabajando en la implementación de un modo inalámbrico para su hardware QAT Gen6, que permitirá acelerar tareas de criptografía inalámbrica en Linux.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-30-soporte-de-modo-inalambrico-para-hardware-qat-gen6-de-i.md"
+    },
+    {
+      "title": "Linux Ham Radio KISS Driver: Modernización en 2026",
+      "category": "linux",
+      "date": "2026-03-30",
+      "slug": "linux-ham-radio-kiss-driver-modernizacion-en-2026",
+      "tags": [
+        "linux",
+        "robotica",
+        "codigo"
+      ],
+      "preview": "El driver de Linux para comunicaciones de radio amateur, KISS, está siendo actualizado después de más de dos décadas sin cambios significativos. Esta modernización busca mejorar la seguridad y la legibilidad del código.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-30-linux-ham-radio-kiss-driver-modernizacion-en-2026.md"
+    },
+    {
+      "title": "Telnyx: paquetes en PyPI comprometidos con malware",
+      "category": "linux",
+      "date": "2026-03-30",
+      "slug": "telnyx-paquetes-en-pypi-comprometidos-con-malware",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "La biblioteca Telnyx ha sido comprometida con malware en dos versiones publicadas en PyPI. Esto supone un riesgo significativo para los desarrolladores que utilizan esta biblioteca.",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-30-telnyx-paquetes-en-pypi-comprometidos-con-malware.md"
+    },
+    {
+      "title": "Crea mundos abiertos en la Nintendo 64 sin limitaciones",
+      "category": "linux",
+      "date": "2026-03-30",
+      "slug": "crea-mundos-abiertos-en-la-nintendo-64-sin-limitaciones",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Nintendo 64 es conocida por sus mundos limitados y distancias de visión cortas. Sin embargo, un desarrollador ha demostrado que es posible crear mundos abiertos sin restricciones en esta consola.",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-30-crea-mundos-abiertos-en-la-nintendo-64-sin-limitaciones.md"
+    },
+    {
+      "title": "Rádio Internet DIY con interfaz de usuario Winamp",
+      "category": "embebidos",
+      "date": "2026-03-30",
+      "slug": "radio-internet-diy-con-interfaz-de-usuario-winamp",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "arduino"
+      ],
+      "preview": "Volos Projects ha presentado un proyecto DIY de rádio internet basado en el desarrollo de la tarjeta de circuito impreso Waveshare ESP32-S3-LCD-1.54 y un sketch de Arduino con una interfaz de usuario estilo Winamp. Este proyecto es una…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-30-radio-internet-diy-con-interfaz-de-usuario-winamp.md"
+    },
+    {
       "title": "La guerra de drones en Ucrania: el futuro de la automatización militar",
       "category": "robotica",
       "date": "2026-03-29",

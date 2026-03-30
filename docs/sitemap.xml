@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-29</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-29</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-30</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-robots-humanoides-30-anos-de-avances-en-la-marcha-sin-c.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-robot-bipedal-roadrunner-revoluciona-la-robotica-con-mo.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-openrobops-plataforma-abierta-para-operaciones-de-flota.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-robotica-problema-de-friccion-en-evaluacion-de-robots.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-la-guerra-de-drones-en-ucrania-como-la-ia-esta-cambiand.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-30-guia-para-seleccionar-hardware-para-la-implementacion-d.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-30-proyector-de-4k-ultra-short-throw-con-tecnologia-de-las.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-30-openai-cierra-sora-por-que-su-herramienta-de-generacion.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-30-compromiso-de-litellm-una-libreria-de-llms-atacada-por-.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-30-un-modelo-de-ia-en-un-ordenador-de-la-decada-de-1970.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-30-soporte-de-modo-inalambrico-para-hardware-qat-gen6-de-i.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-30-linux-ham-radio-kiss-driver-modernizacion-en-2026.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-30-telnyx-paquetes-en-pypi-comprometidos-con-malware.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-30-crea-mundos-abiertos-en-la-nintendo-64-sin-limitaciones.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-30-radio-internet-diy-con-interfaz-de-usuario-winamp.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-la-guerra-de-drones-en-ucrania-el-futuro-de-la-automati.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-los-robots-aprenden-a-caminar-sin-caer-un-logro-de-30-a.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-29-robot-bipedal-roadrunner-rompe-moldes-con-movimiento-mu.md</loc><lastmod>2026-03-29</lastmod><priority>0.8</priority></url>
