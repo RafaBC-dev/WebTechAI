@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "La inflexión de la guerra de drones en Ucrania: cómo la IA cambia el juego",
+      "category": "robotica",
+      "date": "2026-03-31",
+      "slug": "la-inflexion-de-la-guerra-de-drones-en-ucrania-como-la-",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La invasión rusa de Ucrania en 2022 ha llevado a una revolución en la guerra, con la utilización de drones autónomos para la vigilancia y el ataque. La compañía ucraniana The Fourth Law está desarrollando tecnología de autonomía para guiar…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-31-la-inflexion-de-la-guerra-de-drones-en-ucrania-como-la-.md"
+    },
+    {
+      "title": "Robot Roadrunner: un robot bipedal que rompe moldes en la robótica",
+      "category": "robotica",
+      "date": "2026-03-31",
+      "slug": "robot-roadrunner-un-robot-bipedal-que-rompe-moldes-en-l",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El robot Roadrunner, un prototipo bipedal de 15 kg, puede cambiar entre diferentes modos de locomoción y evitar obstáculos con facilidad. Su diseño innovador podría revolucionar la forma en que los robots se mueven en entornos complejos.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-31-robot-roadrunner-un-robot-bipedal-que-rompe-moldes-en-l.md"
+    },
+    {
+      "title": "30 años después: robots que caminan sin caerse",
+      "category": "robotica",
+      "date": "2026-03-31",
+      "slug": "30-anos-despues-robots-que-caminan-sin-caerse",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion",
+        "linux"
+      ],
+      "preview": "En 1996, la empresa Honda desarrolló un robot humanoide llamado Prototype 2 (P2) que podía caminar sin perder el equilibrio. Este logro revolucionó la robótica y abrió puertas a nuevas aplicaciones en la industria.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-03-31-30-anos-despues-robots-que-caminan-sin-caerse.md"
+    },
+    {
+      "title": "ROS2: Validación de archivos de lanzamiento XML",
+      "category": "robotica",
+      "date": "2026-03-31",
+      "slug": "ros2-validacion-de-archivos-de-lanzamiento-xml",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS2 (Robot Operating System) ha desarrollado una herramienta para validar archivos de lanzamiento XML antes de ejecutarlos. Esto evitará errores de sintaxis y problemas en la ejecución de los nodos. La validación se puede…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-03-31-ros2-validacion-de-archivos-de-lanzamiento-xml.md"
+    },
+    {
+      "title": "LiteLLM abandona a Delve después de un incidente de malware",
+      "category": "ia",
+      "date": "2026-03-31",
+      "slug": "litellm-abandona-a-delve-despues-de-un-incidente-de-mal",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "LiteLLM, una empresa de gateways de IA, ha anunciado que dejará de trabajar con Delve después de que su versión de código abierto cayera víctima de un malware que robaba credenciales. Esto ha llevado a la empresa a reevaluar sus…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-31-litellm-abandona-a-delve-despues-de-un-incidente-de-mal.md"
+    },
+    {
+      "title": "Gateway industrial fanless para IoT con Rockchip RK3506J",
+      "category": "ia",
+      "date": "2026-03-31",
+      "slug": "gateway-industrial-fanless-para-iot-con-rockchip-rk3506",
+      "tags": [
+        "embebidos",
+        "linux",
+        "robotica"
+      ],
+      "preview": "Forlinx ha lanzado el FCU1501, un gateway industrial fanless para IoT que ofrece conectividad dual Ethernet, múltiples interfaces de entrada/salida y soporte para 4G LTE. Este dispositivo está diseñado para aplicaciones de alta…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-31-gateway-industrial-fanless-para-iot-con-rockchip-rk3506.md"
+    },
+    {
+      "title": "Emulador de circuito para el ordenador PDP-11/34A de 1976",
+      "category": "ia",
+      "date": "2026-03-31",
+      "slug": "emulador-de-circuito-para-el-ordenador-pdp-1134a-de-197",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Damien Boureille ha creado un emulador de circuito para el ordenador PDP-11/34A de 1976, un proyecto que reproduce la CPU del ordenador original a nivel de circuito para ayudar con la depuración y el desarrollo de software.",
+      "has_command": true,
+      "file_path": "content/ia/2026-03-31-emulador-de-circuito-para-el-ordenador-pdp-1134a-de-197.md"
+    },
+    {
+      "title": "Reunión de la Comisión de Gobierno Técnico de OSRA en enero de 2026",
+      "category": "ia",
+      "date": "2026-03-31",
+      "slug": "reunion-de-la-comision-de-gobierno-tecnico-de-osra-en-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La Comisión de Gobierno Técnico de OSRA (Open Source Robotics Foundation) se reunió en enero de 2026 para discutir los proyectos y decisiones técnicas en curso. La reunión fue un evento virtual que contó con la participación de…",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-31-reunion-de-la-comision-de-gobierno-tecnico-de-osra-en-e.md"
+    },
+    {
+      "title": "Proyector 4K Ultra Short Throw con tecnología de láser RGB y VRR",
+      "category": "ia",
+      "date": "2026-03-31",
+      "slug": "proyector-4k-ultra-short-throw-con-tecnologia-de-laser-",
+      "tags": [
+        "robotica",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "AWOL Vision Aetherion es un proyector de alta calidad que ofrece una experiencia de entretenimiento inmersiva en vivo en casa. Con su tecnología de láser RGB y VRR, es ideal para juegos y películas en 4K.",
+      "has_command": false,
+      "file_path": "content/ia/2026-03-31-proyector-4k-ultra-short-throw-con-tecnologia-de-laser-.md"
+    },
+    {
+      "title": "Nueva versión de Archinstall para Arch Linux con interfaz moderna",
+      "category": "linux",
+      "date": "2026-03-31",
+      "slug": "nueva-version-de-archinstall-para-arch-linux-con-interf",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Arch Linux ha lanzado la versión 4.0 de Archinstall, un instalador de sistema operativo que ahora cuenta con una interfaz de usuario moderna y mejorada. Esta actualización es perfecta para la próxima actualización mensual…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-31-nueva-version-de-archinstall-para-arch-linux-con-interf.md"
+    },
+    {
+      "title": "Nueva versión de SystemRescue para reparar sistemas en crisis",
+      "category": "linux",
+      "date": "2026-03-31",
+      "slug": "nueva-version-de-systemrescue-para-reparar-sistemas-en-",
+      "tags": [
+        "linux",
+        "herramientas",
+        "rescate-de-sistemas"
+      ],
+      "preview": "La versión 13.00 de SystemRescue ha sido lanzada, ofreciendo una herramienta de rescate de sistemas en vivo basada en Arch Linux para reparar sistemas en crisis. Esta herramienta es esencial para cualquier administrador de sistemas que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-03-31-nueva-version-de-systemrescue-para-reparar-sistemas-en-.md"
+    },
+    {
+      "title": "OSRA actualiza su documentación para hacerla más accesible y fácil de usar",
+      "category": "linux",
+      "date": "2026-03-31",
+      "slug": "osra-actualiza-su-documentacion-para-hacerla-mas-accesi",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Open Source Robotics Alliance (OSRA) ha completado la reestructuración de su documentación para hacerla más fácil de usar y accesible para todos, independientemente de su nivel de experiencia. Esta actualización es un paso importante…",
+      "has_command": false,
+      "file_path": "content/linux/2026-03-31-osra-actualiza-su-documentacion-para-hacerla-mas-accesi.md"
+    },
+    {
+      "title": "LILYGO T-Display-P4: un kit de desarrollo con ESP32-P4 y ESP32-C6",
+      "category": "embebidos",
+      "date": "2026-03-31",
+      "slug": "lilygo-t-display-p4-un-kit-de-desarrollo-con-esp32-p4-y",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "LILYGO ha lanzado el T-Display-P4, un kit de desarrollo que combina la potencia del ESP32-P4 con la conectividad del ESP32-C6. Este dispositivo ofrece una amplia gama de características, incluyendo GPS, Ethernet y LoRaWAN, lo que lo…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-31-lilygo-t-display-p4-un-kit-de-desarrollo-con-esp32-p4-y.md"
+    },
+    {
+      "title": "Timer de ajedrez con Raspberry Pi Pico",
+      "category": "embebidos",
+      "date": "2026-03-31",
+      "slug": "timer-de-ajedrez-con-raspberry-pi-pico",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "python"
+      ],
+      "preview": "Nirvaan Tandon, un joven de 14 años, ha creado un timer de ajedrez con Raspberry Pi Pico para mejorar la estrategia en juegos de mesa con amigos y familiares. Este proyecto es una variante del timer de Pomodoro que ayudó a Nirvaan a…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-03-31-timer-de-ajedrez-con-raspberry-pi-pico.md"
+    },
+    {
+      "title": "Pantalla frontal personalizada con guías de perforación precisas",
+      "category": "diseño-3d",
+      "date": "2026-03-31",
+      "slug": "pantalla-frontal-personalizada-con-guias-de-perforacion",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Un ingeniero ha creado una pantalla frontal única para proyectos electrónicos, utilizando una impresora 3D y resina UV para crear guías de perforación precisas y limpias.",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-03-31-pantalla-frontal-personalizada-con-guias-de-perforacion.md"
+    },
+    {
       "title": "Robots humanoides: 30 años de avances en la marcha sin caer",
       "category": "robotica",
       "date": "2026-03-30",

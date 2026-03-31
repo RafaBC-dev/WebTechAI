@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-30</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-03-31</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-03-31</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-31-la-inflexion-de-la-guerra-de-drones-en-ucrania-como-la-.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-31-robot-roadrunner-un-robot-bipedal-que-rompe-moldes-en-l.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-31-30-anos-despues-robots-que-caminan-sin-caerse.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-31-ros2-validacion-de-archivos-de-lanzamiento-xml.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-31-litellm-abandona-a-delve-despues-de-un-incidente-de-mal.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-31-gateway-industrial-fanless-para-iot-con-rockchip-rk3506.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-31-emulador-de-circuito-para-el-ordenador-pdp-1134a-de-197.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-31-reunion-de-la-comision-de-gobierno-tecnico-de-osra-en-e.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-03-31-proyector-4k-ultra-short-throw-con-tecnologia-de-laser-.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-31-nueva-version-de-archinstall-para-arch-linux-con-interf.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-31-nueva-version-de-systemrescue-para-reparar-sistemas-en-.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-03-31-osra-actualiza-su-documentacion-para-hacerla-mas-accesi.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-31-lilygo-t-display-p4-un-kit-de-desarrollo-con-esp32-p4-y.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-03-31-timer-de-ajedrez-con-raspberry-pi-pico.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-03-31-pantalla-frontal-personalizada-con-guias-de-perforacion.md</loc><lastmod>2026-03-31</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-robots-humanoides-30-anos-de-avances-en-la-marcha-sin-c.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-robot-bipedal-roadrunner-revoluciona-la-robotica-con-mo.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-03-30-openrobops-plataforma-abierta-para-operaciones-de-flota.md</loc><lastmod>2026-03-30</lastmod><priority>0.8</priority></url>
