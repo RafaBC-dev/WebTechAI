@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La guerra de drones en Ucrania: un inflexión en la automatización de la batalla",
+      "category": "robotica",
+      "date": "2026-04-01",
+      "slug": "la-guerra-de-drones-en-ucrania-un-inflexion-en-la-autom",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "drones"
+      ],
+      "preview": "La invasión rusa de Ucrania en 2022 ha llevado a la creación de una red de drones autónomos para defender el país. Estos drones están equipados con tecnología de visión artificial y capacidad de autogobierno, lo que los convierte en una…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-01-la-guerra-de-drones-en-ucrania-un-inflexion-en-la-autom.md"
+    },
+    {
+      "title": "Scalabilidad de OpenRMF para despliegues de robots en entornos dinámicos",
+      "category": "robotica",
+      "date": "2026-04-01",
+      "slug": "scalabilidad-de-openrmf-para-despliegues-de-robots-en-e",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa está evaluando OpenRMF para un despliegue a gran escala en un aeropuerto y busca información sobre su escalabilidad. El entorno es dinámico y los robots deben adaptarse a cambios en el camino.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-01-scalabilidad-de-openrmf-para-despliegues-de-robots-en-e.md"
+    },
+    {
+      "title": "Lanzamiento de la mano robótica HX5-D20 con 5 dedos y 20 grados de libertad",
+      "category": "robotica",
+      "date": "2026-04-01",
+      "slug": "lanzamiento-de-la-mano-robotica-hx5-d20-con-5-dedos-y-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa ROBOTIS ha lanzado una nueva mano robótica llamada HX5-D20, que cuenta con 5 dedos y 20 grados de libertad. Esta mano robótica es capaz de realizar movimientos precisos y rápidos gracias a su mecanismo de directa conducción.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-01-lanzamiento-de-la-mano-robotica-hx5-d20-con-5-dedos-y-2.md"
+    },
+    {
+      "title": "Robótica: 30 años de avances en la caminata autónoma",
+      "category": "robotica",
+      "date": "2026-04-01",
+      "slug": "robotica-30-anos-de-avances-en-la-caminata-autonoma-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "En 1996, Honda desarrolló el primer robot capaz de caminar sin caer, un hito que ha cambiado la forma en que se abordan las tareas de robótica. Este avance ha tenido un impacto significativo en la industria y ha abierto nuevas…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-01-robotica-30-anos-de-avances-en-la-caminata-autonoma-2.md"
+    },
+    {
+      "title": "Robot bipedal 'Roadrunner' rompe moldes con locomoción multimodal",
+      "category": "robotica",
+      "date": "2026-04-01",
+      "slug": "robot-bipedal-roadrunner-rompe-moldes-con-locomocion-mu",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El robot 'Roadrunner' es un prototipo bipedal que puede cambiar entre diferentes modos de locomoción, lo que lo hace ideal para explorar entornos complejos. Este avance en robótica podría tener aplicaciones en la exploración espacial y la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-01-robot-bipedal-roadrunner-rompe-moldes-con-locomocion-mu.md"
+    },
+    {
+      "title": "Llamadas a revisar parches con inteligencia artificial en el kernel de Linux",
+      "category": "ia",
+      "date": "2026-04-01",
+      "slug": "llamadas-a-revisar-parches-con-inteligencia-artificial-",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El mantenimiento del kernel de Linux ha sido complicado por una serie de cambios en un parche de gestión de memoria que se extendieron más allá de lo inicialmente planeado. La discusión sobre cómo y cuándo adoptar Sashiko, un sistema de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-01-llamadas-a-revisar-parches-con-inteligencia-artificial-.md"
+    },
+    {
+      "title": "AgenticROS: Conecta ROS con agentes de IA y robots",
+      "category": "ia",
+      "date": "2026-04-01",
+      "slug": "agenticros-conecta-ros-con-agentes-de-ia-y-robots",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El proyecto AgenticROS permite a los desarrolladores de robótica conectar agentes de IA con robots utilizando el framework ROS2. Esto abre nuevas posibilidades para la robótica autónoma y la automatización.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-01-agenticros-conecta-ros-con-agentes-de-ia-y-robots.md"
+    },
+    {
+      "title": "Nueva placa de IoT fanless para aplicaciones industriales",
+      "category": "ia",
+      "date": "2026-04-01",
+      "slug": "nueva-placa-de-iot-fanless-para-aplicaciones-industrial",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Forlinx ha lanzado la FCU1501, una placa de IoT fanless diseñada para aplicaciones industriales que requieren alta confiabilidad y resistencia a temperaturas extremas.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-01-nueva-placa-de-iot-fanless-para-aplicaciones-industrial.md"
+    },
+    {
+      "title": "NASA ofrece modelos 3D de nebulosas y superficies planetarias",
+      "category": "ia",
+      "date": "2026-04-01",
+      "slug": "nasa-ofrece-modelos-3d-de-nebulosas-y-superficies-plane",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "diseño-3d"
+      ],
+      "preview": "La NASA ha lanzado un catálogo de modelos 3D de nebulosas y superficies planetarias, disponibles para descargar y utilizar. Estos modelos pueden ser utilizados para fines educativos, de investigación o de entretenimiento.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-01-nasa-ofrece-modelos-3d-de-nebulosas-y-superficies-plane.md"
+    },
+    {
+      "title": "Mercor confirma incidente de seguridad relacionado con LiteLLM",
+      "category": "ia",
+      "date": "2026-04-01",
+      "slug": "mercor-confirma-incidente-de-seguridad-relacionado-con-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa de inteligencia artificial Mercor ha confirmado un incidente de seguridad relacionado con la vulnerabilidad de la biblioteca LiteLLM, una herramienta de código abierto utilizada para el desarrollo de modelos de lenguaje. La…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-01-mercor-confirma-incidente-de-seguridad-relacionado-con-.md"
+    },
+    {
+      "title": "Hostilidad hacia systemd: un proyecto de código abierto bajo ataque",
+      "category": "linux",
+      "date": "2026-04-01",
+      "slug": "hostilidad-hacia-systemd-un-proyecto-de-codigo-abierto-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto systemd, un conjunto de herramientas de código abierto para administrar sistemas Linux, ha sido objeto de una campaña de odio y desinformación después de que se propusiera una actualización para facilitar la cumplimiento de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-01-hostilidad-hacia-systemd-un-proyecto-de-codigo-abierto-.md"
+    },
+    {
+      "title": "Vulnerabilidades en código abierto: el futuro de la seguridad informática",
+      "category": "linux",
+      "date": "2026-04-01",
+      "slug": "vulnerabilidades-en-codigo-abierto-el-futuro-de-la-segu",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "La comunidad de código abierto se enfrenta a una nueva amenaza con la aparición de modelos de inteligencia artificial que pueden encontrar vulnerabilidades en código abierto de manera rápida y efectiva. Esto plantea serias preocupaciones…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-01-vulnerabilidades-en-codigo-abierto-el-futuro-de-la-segu.md"
+    },
+    {
+      "title": "AerynOS 2026.03: una actualización importante para la distribución Linux",
+      "category": "linux",
+      "date": "2026-04-01",
+      "slug": "aerynos-202603-una-actualizacion-importante-para-la-dis",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La distribución Linux AerynOS ha lanzado su versión 2026.03, que incluye mejoras significativas en el entorno de escritorio y la gestión de paquetes. Esta actualización es importante para los usuarios de AerynOS y para la comunidad Linux…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-01-aerynos-202603-una-actualizacion-importante-para-la-dis.md"
+    },
+    {
+      "title": "Telink TL3228: MCU dual-core RISC-V con conectividad inalámbrica avanzada",
+      "category": "embebidos",
+      "date": "2026-04-01",
+      "slug": "telink-tl3228-mcu-dual-core-risc-v-con-conectividad-ina",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Telink Semiconductor acaba de lanzar el TL3228, un microcontrolador dual-core RISC-V con conectividad inalámbrica avanzada, diseñado para aplicaciones de Internet de las cosas (IoT) y dispositivos inteligentes.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-01-telink-tl3228-mcu-dual-core-risc-v-con-conectividad-ina.md"
+    },
+    {
+      "title": "Nueva librería para auditorías de WiFi en ESP32",
+      "category": "embebidos",
+      "date": "2026-04-01",
+      "slug": "nueva-libreria-para-auditorias-de-wifi-en-esp32",
+      "tags": [
+        "microcontroladores",
+        "software-y-linux",
+        "seguridad"
+      ],
+      "preview": "Albert ha creado Politician, una librería avanzada para auditorías de seguridad en redes WiFi en ESP32. Esta herramienta permite capturar handshakes de WPA/WPA2/WPA3 y extraer credenciales de redes empresariales de manera segura.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-01-nueva-libreria-para-auditorias-de-wifi-en-esp32.md"
+    },
+    {
       "title": "La inflexión de la guerra de drones en Ucrania: cómo la IA cambia el juego",
       "category": "robotica",
       "date": "2026-03-31",
