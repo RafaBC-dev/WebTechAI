@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-01</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-02</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-diferencia-entre-timetime-y-ros2-selfget-clock-por-que-.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-moveit-pro-9-con-soporte-para-ros-2-jazzy-mejora-la-pro.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-la-revolucion-de-los-drones-autonomos-en-ucrania.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-robot-bipedal-roadrunner-brinda-nuevas-posibilidades-a-.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-los-robots-aprenden-a-caminar-sin-caer-un-logro-de-30-2.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-02-nuevos-procesadores-intel-wildcat-lake-detalles-y-rendi.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-02-el-uso-de-steam-en-linux-se-dispara-en-marzo-superando-.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-02-mejoras-en-el-controlador-de-gpu-amd-para-linux-71.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-02-compromiso-de-litellm-y-controversia-en-systemd.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-02-un-adorno-para-el-cabello-con-diseno-de-oreja-de-conejo.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-02-raspberry-pi-4-con-3gb-de-ram-una-nueva-opcion-a-un-pre.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-02-timer-de-ajedrez-para-raspberry-pi-pico.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-02-bloque-de-hierba-giratorio-un-diseno-transformador-en-3.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-02-planta-de-uvas-3d-impresionada-para-cultivo-hidroponico.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-02-alarma-de-sol-con-raspberry-pi-pico-un-despertador-mas-.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-la-guerra-de-drones-en-ucrania-un-inflexion-en-la-autom.md</loc><lastmod>2026-04-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-scalabilidad-de-openrmf-para-despliegues-de-robots-en-e.md</loc><lastmod>2026-04-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-lanzamiento-de-la-mano-robotica-hx5-d20-con-5-dedos-y-2.md</loc><lastmod>2026-04-01</lastmod><priority>0.8</priority></url>
