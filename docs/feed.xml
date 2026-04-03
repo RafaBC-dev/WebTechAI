@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 02 Apr 2026 08:01:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 07:57:50 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>El momento de los robots humanoides ha llegado finalmente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-el-momento-de-los-robots-humanoides-ha-llegado-finalmen.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-el-momento-de-los-robots-humanoides-ha-llegado-finalmen.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Después de una década desde el DARPA Robotics Challenge, muchos creen que los robots humanoides están a punto de tener un momento transformador. Pero ¿qué ha cambiado en realidad?</description>
+  </item>
+  <item>
+    <title>Cambios en la comunidad de robótica aérea de ROS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-cambios-en-la-comunidad-de-robotica-aerea-de-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-cambios-en-la-comunidad-de-robotica-aerea-de-ros.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de robótica aérea de ROS ha experimentado un cambio en sus líderes, con @botmayank y @TOTON95 tomando el relevo de @mrpollo. Este cambio es importante para el futuro de la comunidad y sus planes de reuniones y trabajo en común.</description>
+  </item>
+  <item>
+    <title>ROS2 Settlement API: un sistema de facturación y auditoría para robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-ros2-settlement-api-un-sistema-de-facturacion-y-auditor.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-ros2-settlement-api-un-sistema-de-facturacion-y-auditor.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha creado una integración ligera de ROS2 que permite registrar de manera segura y verificable la facturación y auditoría de tareas completadas por robots. Esto es especialmente relevante en aplicaciones comerciales donde…</description>
+  </item>
+  <item>
+    <title>Microsoft lanza toolkit de seguridad para agentes de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-microsoft-lanza-toolkit-de-seguridad-para-agentes-de-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-microsoft-lanza-toolkit-de-seguridad-para-agentes-de-ia.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft ha anunciado un nuevo proyecto de código abierto llamado Agent Governance Toolkit, diseñado para proporcionar seguridad y gobernanza para agentes de IA autónomos. Este toolkit se enfoca en abordar los riesgos de seguridad…</description>
+  </item>
+  <item>
+    <title>Científicos crean robots vivos con sistemas nerviosos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-cientificos-crean-robots-vivos-con-sistemas-nerviosos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-cientificos-crean-robots-vivos-con-sistemas-nerviosos.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los científicos han logrado crear robots vivos con sistemas nerviosos que pueden moverse y adaptarse a su entorno. Esta innovación podría revolucionar la robótica y la medicina.</description>
+  </item>
+  <item>
+    <title>OpenAI adquiere TBPN, un popular talk show sobre tecnología y negocios</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-openai-adquiere-tbpn-un-popular-talk-show-sobre-tecnolo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-openai-adquiere-tbpn-un-popular-talk-show-sobre-tecnolo.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha adquirido TBPN, un popular talk show sobre tecnología y negocios que se transmite en vivo en YouTube y X. La adquisición marca el primer acuerdo de OpenAI con una empresa de medios.</description>
+  </item>
+  <item>
+    <title>Microsoft lanza tres modelos de IA para generar texto, voz y imágenes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-microsoft-lanza-tres-modelos-de-ia-para-generar-texto-v.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-microsoft-lanza-tres-modelos-de-ia-para-generar-texto-v.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft ha anunciado la creación de tres modelos de IA que pueden generar texto, voz y imágenes, lo que le permite competir con otros laboratorios de IA y ofrecer una alternativa más asequible a sus rivales.</description>
+  </item>
+  <item>
+    <title>Nueva herramienta para visualización de datos en robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-nueva-herramienta-para-visualizacion-de-datos-en-roboti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-nueva-herramienta-para-visualizacion-de-datos-en-roboti.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Una herramienta recién lanzada permite a los desarrolladores de robótica crear interfaces de usuario interactivas para visualizar datos en tiempo real. Esta herramienta, llamada Dear ImGui Bundle, está disponible en Python y C++ y puede…</description>
+  </item>
+  <item>
+    <title>AMD P-State Driver: Nuevas características en Linux 7.1</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-amd-p-state-driver-nuevas-caracteristicas-en-linux-71.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-amd-p-state-driver-nuevas-caracteristicas-en-linux-71.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El driver AMD P-State para Linux 7.1 ha recibido una actualización importante con nuevas características que mejoran la gestión de frecuencia y energía de los procesadores AMD Ryzen y EPYC. Estas mejoras son especialmente relevantes para…</description>
+  </item>
+  <item>
+    <title>Linux resuelve bug de rendimiento en drivers WiFi Qualcomm</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-linux-resuelve-bug-de-rendimiento-en-drivers-wifi-qualc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-linux-resuelve-bug-de-rendimiento-en-drivers-wifi-qualc.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El kernel Linux 7.0 ha recibido actualizaciones para los drivers WiFi Qualcomm Ath11k y Ath12k, que resuelven un problema de rendimiento que afectaba a estos dispositivos desde su integración en 2019 y 2022, respectivamente.</description>
+  </item>
+  <item>
+    <title>Nuvoton NuMicro M3331: un MCU con controlador de LEDs integrado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-nuvoton-numicro-m3331-un-mcu-con-controlador-de-leds-in.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-nuvoton-numicro-m3331-un-mcu-con-controlador-de-leds-in.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Nuvoton ha lanzado el NuMicro M3331, un microcontrolador de 32 bits con un controlador de LEDs integrado, lo que lo hace ideal para aplicaciones de iluminación dinámica y control de motores.</description>
+  </item>
+  <item>
+    <title>Sentinel Core: una tarjeta de expansión para Raspberry Pi con slot PCIe x16</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-sentinel-core-una-tarjeta-de-expansion-para-raspberry-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-sentinel-core-una-tarjeta-de-expansion-para-raspberry-p.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Sanctuary Systems ha lanzado el Sentinel Core, una tarjeta de expansión para Raspberry Pi Compute Module 5 que agrega un slot PCIe x16 para conectar tarjetas gráficas y acelerar tareas de video y procesamiento de lenguaje natural.</description>
+  </item>
+  <item>
+    <title>UPS y SSD para Raspberry Pi 5: SupTronics X1208</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-ups-y-ssd-para-raspberry-pi-5-suptronics-x1208.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-ups-y-ssd-para-raspberry-pi-5-suptronics-x1208.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa SupTronics ha lanzado un nuevo dispositivo llamado X1208, que combina una batería de iones de litio con una ranura para SSD M.2 NVMe. Este dispositivo está diseñado para proteger el sistema en caso de apagones y ofrecer…</description>
+  </item>
+  <item>
+    <title>El precio de Raspberry Pi 5 sube debido a la escasez de RAM</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-el-precio-de-raspberry-pi-5-sube-debido-a-la-escasez-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-el-precio-de-raspberry-pi-5-sube-debido-a-la-escasez-de.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La escasez de RAM LPDDR4 y LPDDR5 ha llevado a Raspberry Pi a aumentar los precios de sus modelos con 4 o más GB de RAM. Esto afecta a los modelos Raspberry Pi 4 y 5, lo que puede hacer que sea difícil para los entusiastas de la…</description>
+  </item>
+  <item>
+    <title>Filtro de polvo para impresión 3D: un proyecto DIY para mejorar la calidad de impresión</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-04-03-filtro-de-polvo-para-impresion-3d-un-proyecto-diy-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-04-03-filtro-de-polvo-para-impresion-3d-un-proyecto-diy-para-.md</guid>
+    <pubDate>Fri, 03 Apr 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>La impresión 3D es una tecnología fascinante que permite crear objetos complejos a partir de modelos digitales. Sin embargo, la impresión 3D puede generar mucho polvo y residuos, lo que puede ser perjudicial para la salud y el entorno. Un…</description>
+  </item>
   <item>
     <title>Diferencia entre time.time() y Ros2 self.get_clock(): ¿por qué importa?</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-diferencia-entre-timetime-y-ros2-selfget-clock-por-que-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 02 Apr 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>Un hombre crea un alarma de sol casera con Raspberry Pi Pico para ayudar a su esposa a despertar de manera más suave durante el invierno oscuro.</description>
-  </item>
-  <item>
-    <title>La guerra de drones en Ucrania: un inflexión en la automatización de la batalla</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-la-guerra-de-drones-en-ucrania-un-inflexion-en-la-autom.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-la-guerra-de-drones-en-ucrania-un-inflexion-en-la-autom.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La invasión rusa de Ucrania en 2022 ha llevado a la creación de una red de drones autónomos para defender el país. Estos drones están equipados con tecnología de visión artificial y capacidad de autogobierno, lo que los convierte en una…</description>
-  </item>
-  <item>
-    <title>Scalabilidad de OpenRMF para despliegues de robots en entornos dinámicos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-scalabilidad-de-openrmf-para-despliegues-de-robots-en-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-scalabilidad-de-openrmf-para-despliegues-de-robots-en-e.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa está evaluando OpenRMF para un despliegue a gran escala en un aeropuerto y busca información sobre su escalabilidad. El entorno es dinámico y los robots deben adaptarse a cambios en el camino.</description>
-  </item>
-  <item>
-    <title>Lanzamiento de la mano robótica HX5-D20 con 5 dedos y 20 grados de libertad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-lanzamiento-de-la-mano-robotica-hx5-d20-con-5-dedos-y-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-lanzamiento-de-la-mano-robotica-hx5-d20-con-5-dedos-y-2.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa ROBOTIS ha lanzado una nueva mano robótica llamada HX5-D20, que cuenta con 5 dedos y 20 grados de libertad. Esta mano robótica es capaz de realizar movimientos precisos y rápidos gracias a su mecanismo de directa conducción.</description>
-  </item>
-  <item>
-    <title>Robótica: 30 años de avances en la caminata autónoma</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-robotica-30-anos-de-avances-en-la-caminata-autonoma-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-robotica-30-anos-de-avances-en-la-caminata-autonoma-2.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En 1996, Honda desarrolló el primer robot capaz de caminar sin caer, un hito que ha cambiado la forma en que se abordan las tareas de robótica. Este avance ha tenido un impacto significativo en la industria y ha abierto nuevas…</description>
-  </item>
-  <item>
-    <title>Robot bipedal 'Roadrunner' rompe moldes con locomoción multimodal</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-robot-bipedal-roadrunner-rompe-moldes-con-locomocion-mu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-01-robot-bipedal-roadrunner-rompe-moldes-con-locomocion-mu.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot 'Roadrunner' es un prototipo bipedal que puede cambiar entre diferentes modos de locomoción, lo que lo hace ideal para explorar entornos complejos. Este avance en robótica podría tener aplicaciones en la exploración espacial y la…</description>
-  </item>
-  <item>
-    <title>Llamadas a revisar parches con inteligencia artificial en el kernel de Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-llamadas-a-revisar-parches-con-inteligencia-artificial-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-llamadas-a-revisar-parches-con-inteligencia-artificial-.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El mantenimiento del kernel de Linux ha sido complicado por una serie de cambios en un parche de gestión de memoria que se extendieron más allá de lo inicialmente planeado. La discusión sobre cómo y cuándo adoptar Sashiko, un sistema de…</description>
-  </item>
-  <item>
-    <title>AgenticROS: Conecta ROS con agentes de IA y robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-agenticros-conecta-ros-con-agentes-de-ia-y-robots.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-agenticros-conecta-ros-con-agentes-de-ia-y-robots.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El proyecto AgenticROS permite a los desarrolladores de robótica conectar agentes de IA con robots utilizando el framework ROS2. Esto abre nuevas posibilidades para la robótica autónoma y la automatización.</description>
-  </item>
-  <item>
-    <title>Nueva placa de IoT fanless para aplicaciones industriales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-nueva-placa-de-iot-fanless-para-aplicaciones-industrial.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-nueva-placa-de-iot-fanless-para-aplicaciones-industrial.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Forlinx ha lanzado la FCU1501, una placa de IoT fanless diseñada para aplicaciones industriales que requieren alta confiabilidad y resistencia a temperaturas extremas.</description>
-  </item>
-  <item>
-    <title>NASA ofrece modelos 3D de nebulosas y superficies planetarias</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-nasa-ofrece-modelos-3d-de-nebulosas-y-superficies-plane.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-nasa-ofrece-modelos-3d-de-nebulosas-y-superficies-plane.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La NASA ha lanzado un catálogo de modelos 3D de nebulosas y superficies planetarias, disponibles para descargar y utilizar. Estos modelos pueden ser utilizados para fines educativos, de investigación o de entretenimiento.</description>
-  </item>
-  <item>
-    <title>Mercor confirma incidente de seguridad relacionado con LiteLLM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-mercor-confirma-incidente-de-seguridad-relacionado-con-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-01-mercor-confirma-incidente-de-seguridad-relacionado-con-.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa de inteligencia artificial Mercor ha confirmado un incidente de seguridad relacionado con la vulnerabilidad de la biblioteca LiteLLM, una herramienta de código abierto utilizada para el desarrollo de modelos de lenguaje. La…</description>
-  </item>
-  <item>
-    <title>Hostilidad hacia systemd: un proyecto de código abierto bajo ataque</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-01-hostilidad-hacia-systemd-un-proyecto-de-codigo-abierto-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-01-hostilidad-hacia-systemd-un-proyecto-de-codigo-abierto-.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El proyecto systemd, un conjunto de herramientas de código abierto para administrar sistemas Linux, ha sido objeto de una campaña de odio y desinformación después de que se propusiera una actualización para facilitar la cumplimiento de…</description>
-  </item>
-  <item>
-    <title>Vulnerabilidades en código abierto: el futuro de la seguridad informática</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-01-vulnerabilidades-en-codigo-abierto-el-futuro-de-la-segu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-01-vulnerabilidades-en-codigo-abierto-el-futuro-de-la-segu.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de código abierto se enfrenta a una nueva amenaza con la aparición de modelos de inteligencia artificial que pueden encontrar vulnerabilidades en código abierto de manera rápida y efectiva. Esto plantea serias preocupaciones…</description>
-  </item>
-  <item>
-    <title>AerynOS 2026.03: una actualización importante para la distribución Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-01-aerynos-202603-una-actualizacion-importante-para-la-dis.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-01-aerynos-202603-una-actualizacion-importante-para-la-dis.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La distribución Linux AerynOS ha lanzado su versión 2026.03, que incluye mejoras significativas en el entorno de escritorio y la gestión de paquetes. Esta actualización es importante para los usuarios de AerynOS y para la comunidad Linux…</description>
-  </item>
-  <item>
-    <title>Telink TL3228: MCU dual-core RISC-V con conectividad inalámbrica avanzada</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-01-telink-tl3228-mcu-dual-core-risc-v-con-conectividad-ina.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-01-telink-tl3228-mcu-dual-core-risc-v-con-conectividad-ina.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Telink Semiconductor acaba de lanzar el TL3228, un microcontrolador dual-core RISC-V con conectividad inalámbrica avanzada, diseñado para aplicaciones de Internet de las cosas (IoT) y dispositivos inteligentes.</description>
-  </item>
-  <item>
-    <title>Nueva librería para auditorías de WiFi en ESP32</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-01-nueva-libreria-para-auditorias-de-wifi-en-esp32.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-01-nueva-libreria-para-auditorias-de-wifi-en-esp32.md</guid>
-    <pubDate>Wed, 01 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Albert ha creado Politician, una librería avanzada para auditorías de seguridad en redes WiFi en ESP32. Esta herramienta permite capturar handshakes de WPA/WPA2/WPA3 y extraer credenciales de redes empresariales de manera segura.</description>
   </item>
 </channel>
 </rss>

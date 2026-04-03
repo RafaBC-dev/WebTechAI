@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "El momento de los robots humanoides ha llegado finalmente",
+      "category": "robotica",
+      "date": "2026-04-03",
+      "slug": "el-momento-de-los-robots-humanoides-ha-llegado-finalmen",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Después de una década desde el DARPA Robotics Challenge, muchos creen que los robots humanoides están a punto de tener un momento transformador. Pero ¿qué ha cambiado en realidad?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-03-el-momento-de-los-robots-humanoides-ha-llegado-finalmen.md"
+    },
+    {
+      "title": "Cambios en la comunidad de robótica aérea de ROS",
+      "category": "robotica",
+      "date": "2026-04-03",
+      "slug": "cambios-en-la-comunidad-de-robotica-aerea-de-ros",
+      "tags": [
+        "robotica",
+        "drones",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica aérea de ROS ha experimentado un cambio en sus líderes, con @botmayank y @TOTON95 tomando el relevo de @mrpollo. Este cambio es importante para el futuro de la comunidad y sus planes de reuniones y trabajo en común.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-03-cambios-en-la-comunidad-de-robotica-aerea-de-ros.md"
+    },
+    {
+      "title": "ROS2 Settlement API: un sistema de facturación y auditoría para robots",
+      "category": "robotica",
+      "date": "2026-04-03",
+      "slug": "ros2-settlement-api-un-sistema-de-facturacion-y-auditor",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una integración ligera de ROS2 que permite registrar de manera segura y verificable la facturación y auditoría de tareas completadas por robots. Esto es especialmente relevante en aplicaciones comerciales donde…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-03-ros2-settlement-api-un-sistema-de-facturacion-y-auditor.md"
+    },
+    {
+      "title": "Microsoft lanza toolkit de seguridad para agentes de IA",
+      "category": "ia",
+      "date": "2026-04-03",
+      "slug": "microsoft-lanza-toolkit-de-seguridad-para-agentes-de-ia",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Microsoft ha anunciado un nuevo proyecto de código abierto llamado Agent Governance Toolkit, diseñado para proporcionar seguridad y gobernanza para agentes de IA autónomos. Este toolkit se enfoca en abordar los riesgos de seguridad…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-03-microsoft-lanza-toolkit-de-seguridad-para-agentes-de-ia.md"
+    },
+    {
+      "title": "Científicos crean robots vivos con sistemas nerviosos",
+      "category": "ia",
+      "date": "2026-04-03",
+      "slug": "cientificos-crean-robots-vivos-con-sistemas-nerviosos",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Los científicos han logrado crear robots vivos con sistemas nerviosos que pueden moverse y adaptarse a su entorno. Esta innovación podría revolucionar la robótica y la medicina.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-03-cientificos-crean-robots-vivos-con-sistemas-nerviosos.md"
+    },
+    {
+      "title": "OpenAI adquiere TBPN, un popular talk show sobre tecnología y negocios",
+      "category": "ia",
+      "date": "2026-04-03",
+      "slug": "openai-adquiere-tbpn-un-popular-talk-show-sobre-tecnolo",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "OpenAI ha adquirido TBPN, un popular talk show sobre tecnología y negocios que se transmite en vivo en YouTube y X. La adquisición marca el primer acuerdo de OpenAI con una empresa de medios.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-03-openai-adquiere-tbpn-un-popular-talk-show-sobre-tecnolo.md"
+    },
+    {
+      "title": "Microsoft lanza tres modelos de IA para generar texto, voz y imágenes",
+      "category": "ia",
+      "date": "2026-04-03",
+      "slug": "microsoft-lanza-tres-modelos-de-ia-para-generar-texto-v",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Microsoft ha anunciado la creación de tres modelos de IA que pueden generar texto, voz y imágenes, lo que le permite competir con otros laboratorios de IA y ofrecer una alternativa más asequible a sus rivales.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-03-microsoft-lanza-tres-modelos-de-ia-para-generar-texto-v.md"
+    },
+    {
+      "title": "Nueva herramienta para visualización de datos en robótica",
+      "category": "linux",
+      "date": "2026-04-03",
+      "slug": "nueva-herramienta-para-visualizacion-de-datos-en-roboti",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias"
+      ],
+      "preview": "Una herramienta recién lanzada permite a los desarrolladores de robótica crear interfaces de usuario interactivas para visualizar datos en tiempo real. Esta herramienta, llamada Dear ImGui Bundle, está disponible en Python y C++ y puede…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-03-nueva-herramienta-para-visualizacion-de-datos-en-roboti.md"
+    },
+    {
+      "title": "AMD P-State Driver: Nuevas características en Linux 7.1",
+      "category": "linux",
+      "date": "2026-04-03",
+      "slug": "amd-p-state-driver-nuevas-caracteristicas-en-linux-71",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "El driver AMD P-State para Linux 7.1 ha recibido una actualización importante con nuevas características que mejoran la gestión de frecuencia y energía de los procesadores AMD Ryzen y EPYC. Estas mejoras son especialmente relevantes para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-03-amd-p-state-driver-nuevas-caracteristicas-en-linux-71.md"
+    },
+    {
+      "title": "Linux resuelve bug de rendimiento en drivers WiFi Qualcomm",
+      "category": "linux",
+      "date": "2026-04-03",
+      "slug": "linux-resuelve-bug-de-rendimiento-en-drivers-wifi-qualc",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel Linux 7.0 ha recibido actualizaciones para los drivers WiFi Qualcomm Ath11k y Ath12k, que resuelven un problema de rendimiento que afectaba a estos dispositivos desde su integración en 2019 y 2022, respectivamente.",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-03-linux-resuelve-bug-de-rendimiento-en-drivers-wifi-qualc.md"
+    },
+    {
+      "title": "Nuvoton NuMicro M3331: un MCU con controlador de LEDs integrado",
+      "category": "embebidos",
+      "date": "2026-04-03",
+      "slug": "nuvoton-numicro-m3331-un-mcu-con-controlador-de-leds-in",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "Nuvoton ha lanzado el NuMicro M3331, un microcontrolador de 32 bits con un controlador de LEDs integrado, lo que lo hace ideal para aplicaciones de iluminación dinámica y control de motores.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-03-nuvoton-numicro-m3331-un-mcu-con-controlador-de-leds-in.md"
+    },
+    {
+      "title": "Sentinel Core: una tarjeta de expansión para Raspberry Pi con slot PCIe x16",
+      "category": "embebidos",
+      "date": "2026-04-03",
+      "slug": "sentinel-core-una-tarjeta-de-expansion-para-raspberry-p",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Sanctuary Systems ha lanzado el Sentinel Core, una tarjeta de expansión para Raspberry Pi Compute Module 5 que agrega un slot PCIe x16 para conectar tarjetas gráficas y acelerar tareas de video y procesamiento de lenguaje natural.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-03-sentinel-core-una-tarjeta-de-expansion-para-raspberry-p.md"
+    },
+    {
+      "title": "UPS y SSD para Raspberry Pi 5: SupTronics X1208",
+      "category": "embebidos",
+      "date": "2026-04-03",
+      "slug": "ups-y-ssd-para-raspberry-pi-5-suptronics-x1208",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "La empresa SupTronics ha lanzado un nuevo dispositivo llamado X1208, que combina una batería de iones de litio con una ranura para SSD M.2 NVMe. Este dispositivo está diseñado para proteger el sistema en caso de apagones y ofrecer…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-03-ups-y-ssd-para-raspberry-pi-5-suptronics-x1208.md"
+    },
+    {
+      "title": "El precio de Raspberry Pi 5 sube debido a la escasez de RAM",
+      "category": "embebidos",
+      "date": "2026-04-03",
+      "slug": "el-precio-de-raspberry-pi-5-sube-debido-a-la-escasez-de",
+      "tags": [
+        "microcontroladores",
+        "software y linux",
+        "diseño y hardware"
+      ],
+      "preview": "La escasez de RAM LPDDR4 y LPDDR5 ha llevado a Raspberry Pi a aumentar los precios de sus modelos con 4 o más GB de RAM. Esto afecta a los modelos Raspberry Pi 4 y 5, lo que puede hacer que sea difícil para los entusiastas de la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-03-el-precio-de-raspberry-pi-5-sube-debido-a-la-escasez-de.md"
+    },
+    {
+      "title": "Filtro de polvo para impresión 3D: un proyecto DIY para mejorar la calidad de impresión",
+      "category": "diseño-3d",
+      "date": "2026-04-03",
+      "slug": "filtro-de-polvo-para-impresion-3d-un-proyecto-diy-para-",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La impresión 3D es una tecnología fascinante que permite crear objetos complejos a partir de modelos digitales. Sin embargo, la impresión 3D puede generar mucho polvo y residuos, lo que puede ser perjudicial para la salud y el entorno. Un…",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-04-03-filtro-de-polvo-para-impresion-3d-un-proyecto-diy-para-.md"
+    },
+    {
       "title": "Diferencia entre time.time() y Ros2 self.get_clock(): ¿por qué importa?",
       "category": "robotica",
       "date": "2026-04-02",

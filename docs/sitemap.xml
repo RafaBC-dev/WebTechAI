@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-02</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-03</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-el-momento-de-los-robots-humanoides-ha-llegado-finalmen.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-cambios-en-la-comunidad-de-robotica-aerea-de-ros.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-ros2-settlement-api-un-sistema-de-facturacion-y-auditor.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-microsoft-lanza-toolkit-de-seguridad-para-agentes-de-ia.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-cientificos-crean-robots-vivos-con-sistemas-nerviosos.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-openai-adquiere-tbpn-un-popular-talk-show-sobre-tecnolo.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-03-microsoft-lanza-tres-modelos-de-ia-para-generar-texto-v.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-nueva-herramienta-para-visualizacion-de-datos-en-roboti.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-amd-p-state-driver-nuevas-caracteristicas-en-linux-71.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-03-linux-resuelve-bug-de-rendimiento-en-drivers-wifi-qualc.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-nuvoton-numicro-m3331-un-mcu-con-controlador-de-leds-in.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-sentinel-core-una-tarjeta-de-expansion-para-raspberry-p.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-ups-y-ssd-para-raspberry-pi-5-suptronics-x1208.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-03-el-precio-de-raspberry-pi-5-sube-debido-a-la-escasez-de.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-04-03-filtro-de-polvo-para-impresion-3d-un-proyecto-diy-para-.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-diferencia-entre-timetime-y-ros2-selfget-clock-por-que-.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-moveit-pro-9-con-soporte-para-ros-2-jazzy-mejora-la-pro.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-02-la-revolucion-de-los-drones-autonomos-en-ucrania.md</loc><lastmod>2026-04-02</lastmod><priority>0.8</priority></url>
