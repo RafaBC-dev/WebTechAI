@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La era de los robots humanoides ha llegado, según Gill Pratt",
+      "category": "robotica",
+      "date": "2026-04-04",
+      "slug": "la-era-de-los-robots-humanoides-ha-llegado-segun-gill-p",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Después de una década desde el DARPA Robotics Challenge, muchos creen que los robots humanoides están a punto de tener un momento transformador. Pero ¿qué ha cambiado en realidad?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-04-la-era-de-los-robots-humanoides-ha-llegado-segun-gill-p.md"
+    },
+    {
+      "title": "Digit aprende a bailar con inteligencia artificial",
+      "category": "robotica",
+      "date": "2026-04-04",
+      "slug": "digit-aprende-a-bailar-con-inteligencia-artificial",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La empresa Unitree ha logrado enseñar a su robot Digit a bailar utilizando inteligencia artificial. Este logro se ha alcanzado gracias a la creación de un modelo de aprendizaje automático llamado GEN-1, que permite a Digit aprender nuevas…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-04-digit-aprende-a-bailar-con-inteligencia-artificial.md"
+    },
+    {
+      "title": "ROSCon Global y ROS 2 Lyrical Luth: Nuevas Actualizaciones",
+      "category": "robotica",
+      "date": "2026-04-04",
+      "slug": "roscon-global-y-ros-2-lyrical-luth-nuevas-actualizacion",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROSCon se prepara para la próxima versión de ROS 2 Lyrical Luth, mientras que la fecha límite para presentar propuestas para ROSCon Global se acerca rápidamente. Además, se anuncian varios eventos y hackathones relacionados…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-04-roscon-global-y-ros-2-lyrical-luth-nuevas-actualizacion.md"
+    },
+    {
+      "title": "¿Cuándo la IA se convierte en Pierre Menard, autor de tu código?",
+      "category": "ia",
+      "date": "2026-04-04",
+      "slug": "cuando-la-ia-se-convierte-en-pierre-menard-autor-de-tu-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "Una investigación reciente ha demostrado que los modelos de lenguaje de gran envergadura (LLMs) pueden memorizar y reproducir código fuente con una precisión sorprendente, lo que plantea preguntas sobre la autoría y la originalidad en la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-04-cuando-la-ia-se-convierte-en-pierre-menard-autor-de-tu-.md"
+    },
+    {
+      "title": "Cambios en OpenAI: Brad Lightcap lidera proyectos especiales",
+      "category": "ia",
+      "date": "2026-04-04",
+      "slug": "cambios-en-openai-brad-lightcap-lidera-proyectos-especi",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "OpenAI experimenta cambios en su equipo de liderazgo, incluyendo la transición de Brad Lightcap a un nuevo rol y la salida de Kate Rouch como directora de marketing. Esto se debe a la necesidad de la empresa de adaptarse a sus objetivos y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-04-cambios-en-openai-brad-lightcap-lidera-proyectos-especi.md"
+    },
+    {
+      "title": "Gentoo GNU/Hurd: un proyecto de Linux experimental en Hurd",
+      "category": "linux",
+      "date": "2026-04-04",
+      "slug": "gentoo-gnuhurd-un-proyecto-de-linux-experimental-en-hur",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad Gentoo Linux ha anunciado el lanzamiento de un nuevo proyecto: Gentoo GNU/Hurd, un sistema operativo experimental basado en GNU Hurd. Aunque se trata de una versión en etapa de desarrollo, los desarrolladores han logrado crear…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-04-gentoo-gnuhurd-un-proyecto-de-linux-experimental-en-hur.md"
+    },
+    {
+      "title": "Soporte adicional para Razer en Linux con OpenRazer 3.12.1",
+      "category": "linux",
+      "date": "2026-04-04",
+      "slug": "soporte-adicional-para-razer-en-linux-con-openrazer-312",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha recibido un regalo con la actualización de OpenRazer 3.12.1, que agrega soporte para dos dispositivos Razer más. Esto significa que los usuarios pueden disfrutar de una experiencia más completa con sus productos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-04-soporte-adicional-para-razer-en-linux-con-openrazer-312.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-04",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos-4",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos y aplicaciones, incluyendo AlmaLinux, Debian, Fedora, Mageia, Red Hat, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-04-actualizaciones-de-seguridad-para-sistemas-operativos-4.md"
+    },
+    {
+      "title": "Wine 11.6 revive su driver para Android",
+      "category": "linux",
+      "date": "2026-04-04",
+      "slug": "wine-116-revive-su-driver-para-android",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 11.6 de Wine, un software que permite ejecutar aplicaciones de Windows en Linux, macOS y otros sistemas, ha sido lanzada con una sorprendente noticia: se está reviviendo su driver para Android. Esto significa que podrían ser…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-04-wine-116-revive-su-driver-para-android.md"
+    },
+    {
+      "title": "Ubuntu elimina características de GRUB para mejorar seguridad",
+      "category": "linux",
+      "date": "2026-04-04",
+      "slug": "ubuntu-elimina-caracteristicas-de-grub-para-mejorar-seg",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Ubuntu, una de las distribuciones de Linux más populares, ha anunciado planes para eliminar algunas características de su bootloader GRUB para mejorar su perfil de seguridad. Este cambio se debe a la aparición de vulnerabilidades en el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-04-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-seg.md"
+    },
+    {
+      "title": "Despertador de sol con Raspberry Pi Pico, un proyecto atractivo para el hogar",
+      "category": "embebidos",
+      "date": "2026-04-04",
+      "slug": "despertador-de-sol-con-raspberry-pi-pico-un-proyecto-at",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un proyecto innovador creado por Pawel Skiba, un ingeniero que se inspiró en la necesidad de su esposa de un despertador de sol para mejorar su sueño. Con un presupuesto de 250 euros, Pawel decidió crear su propio despertador de sol…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-04-despertador-de-sol-con-raspberry-pi-pico-un-proyecto-at.md"
+    },
+    {
+      "title": "SupTronics X1208: UPS y M.2 NVMe SSD para Raspberry Pi 5",
+      "category": "embebidos",
+      "date": "2026-04-04",
+      "slug": "suptronics-x1208-ups-y-m2-nvme-ssd-para-raspberry-pi-5",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "La empresa SupTronics ha lanzado el X1208, un dispositivo que combina una batería de UPS con un slot M.2 NVMe SSD para Raspberry Pi 5. Esto permite a los usuarios almacenar datos de manera segura y rápida, incluso en caso de apagones.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-04-suptronics-x1208-ups-y-m2-nvme-ssd-para-raspberry-pi-5.md"
+    },
+    {
+      "title": "Simulador de Arduino, Raspberry Pi y ESP32 en línea y self-hosted",
+      "category": "embebidos",
+      "date": "2026-04-04",
+      "slug": "simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-se",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Velxio es un simulador de código abierto que permite simular y programar placa de Arduino, Raspberry Pi y ESP32 directamente en el navegador web. Es una herramienta muy útil para desarrolladores y estudiantes de robótica y electrónica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-04-simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-se.md"
+    },
+    {
+      "title": "Desmontaje de un medidor de presión de neumáticos portátil",
+      "category": "embebidos",
+      "date": "2026-04-04",
+      "slug": "desmontaje-de-un-medidor-de-presion-de-neumaticos-porta",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "electronica"
+      ],
+      "preview": "Un ingeniero ha desmontado un medidor de presión de neumáticos portátil para entender cómo funciona su tecnología interna. Descubre cómo se utiliza un sensor MEMS y un microcontrolador 8-bit para medir la presión de los neumáticos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-04-desmontaje-de-un-medidor-de-presion-de-neumaticos-porta.md"
+    },
+    {
+      "title": "Raspberry Pi Pico: un temporizador de ajedrez para mejorar tus partidas",
+      "category": "embebidos",
+      "date": "2026-04-04",
+      "slug": "raspberry-pi-pico-un-temporizador-de-ajedrez-para-mejor",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un joven programador de 14 años ha creado un temporizador de ajedrez utilizando un Raspberry Pi Pico, que ayuda a mejorar la estrategia en partidas con amigos y familiares.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-04-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mejor.md"
+    },
+    {
       "title": "El momento de los robots humanoides ha llegado finalmente",
       "category": "robotica",
       "date": "2026-04-03",

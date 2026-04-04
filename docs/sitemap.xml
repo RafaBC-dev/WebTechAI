@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-03</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-04</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-la-era-de-los-robots-humanoides-ha-llegado-segun-gill-p.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-digit-aprende-a-bailar-con-inteligencia-artificial.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-roscon-global-y-ros-2-lyrical-luth-nuevas-actualizacion.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-04-cuando-la-ia-se-convierte-en-pierre-menard-autor-de-tu-.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-04-cambios-en-openai-brad-lightcap-lidera-proyectos-especi.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-gentoo-gnuhurd-un-proyecto-de-linux-experimental-en-hur.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-soporte-adicional-para-razer-en-linux-con-openrazer-312.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-actualizaciones-de-seguridad-para-sistemas-operativos-4.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-wine-116-revive-su-driver-para-android.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-seg.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-despertador-de-sol-con-raspberry-pi-pico-un-proyecto-at.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-suptronics-x1208-ups-y-m2-nvme-ssd-para-raspberry-pi-5.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-se.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-desmontaje-de-un-medidor-de-presion-de-neumaticos-porta.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mejor.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-el-momento-de-los-robots-humanoides-ha-llegado-finalmen.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-cambios-en-la-comunidad-de-robotica-aerea-de-ros.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-03-ros2-settlement-api-un-sistema-de-facturacion-y-auditor.md</loc><lastmod>2026-04-03</lastmod><priority>0.8</priority></url>
