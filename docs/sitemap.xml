@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-04</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-05</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-el-momento-de-los-robots-humanoides-ya-ha-llegado.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-ros-2-lyrical-luth-nueva-version-de-ros-2-se-acerca.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-un-brazo-robotico-que-lanza-un-tiro-de-baloncesto.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-digit-aprende-a-bailar-gracias-a-un-modelo-de-ia-que-me.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-05-cambios-en-la-direccion-de-openai-nuevos-roles-y-cambio.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-05-debian-se-adapta-a-leyes-de-verificacion-de-edad-en-el-.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-05-linux-71-habilitara-avx-512-bmm-en-maquinas-virtuales-k.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-05-actualizaciones-de-seguridad-para-sistemas-operativos-5.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-05-gentoo-linux-llega-al-hurd-un-nuevo-destino-para-la-dis.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-05-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-2.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-05-controladores-razer-y-betop-seran-compatibles-con-linux.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-05-esp32-s3-con-cifrado-postcuantico-gracias-a-firmware-ab.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-05-simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-au.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-05-despertador-de-amanecer-con-raspberry-pi-pico.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-05-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-2.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-la-era-de-los-robots-humanoides-ha-llegado-segun-gill-p.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-digit-aprende-a-bailar-con-inteligencia-artificial.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-roscon-global-y-ros-2-lyrical-luth-nuevas-actualizacion.md</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>

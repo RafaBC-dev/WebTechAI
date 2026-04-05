@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "El momento de los robots humanoides ya ha llegado",
+      "category": "robotica",
+      "date": "2026-04-05",
+      "slug": "el-momento-de-los-robots-humanoides-ya-ha-llegado",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Después de una década desde el DARPA Robotics Challenge, los expertos creen que los robots humanoides están a punto de tener un momento transformador. Pero ¿qué ha cambiado en realidad?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-05-el-momento-de-los-robots-humanoides-ya-ha-llegado.md"
+    },
+    {
+      "title": "ROS 2 Lyrical Luth: Nueva versión de ROS 2 se acerca",
+      "category": "robotica",
+      "date": "2026-04-05",
+      "slug": "ros-2-lyrical-luth-nueva-version-de-ros-2-se-acerca",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS (Robot Operating System) está preparándose para la próxima versión de ROS 2, llamada Lyrical Luth. Esta nueva versión traerá mejoras significativas y nuevos características que mejorarán la experiencia de desarrollo de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-05-ros-2-lyrical-luth-nueva-version-de-ros-2-se-acerca.md"
+    },
+    {
+      "title": "Un brazo robótico que lanza un tiro de baloncesto",
+      "category": "robotica",
+      "date": "2026-04-05",
+      "slug": "un-brazo-robotico-que-lanza-un-tiro-de-baloncesto",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un ingeniero ha creado un brazo robótico capaz de detectar, coger y lanzar un balón de baloncesto hacia una canasta. Esta innovación podría tener aplicaciones en la automatización de tareas y la mejora de la precisión en la industria.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-05-un-brazo-robotico-que-lanza-un-tiro-de-baloncesto.md"
+    },
+    {
+      "title": "Digit aprende a bailar gracias a un modelo de IA que mejora la robótica",
+      "category": "robotica",
+      "date": "2026-04-05",
+      "slug": "digit-aprende-a-bailar-gracias-a-un-modelo-de-ia-que-me",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa Unitree ha logrado entrenar a su robot Digit para bailar utilizando un modelo de IA que puede enseñar nuevas habilidades de control corporal en solo una noche. Este avance podría revolucionar la robótica y permitir a los robots…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-05-digit-aprende-a-bailar-gracias-a-un-modelo-de-ia-que-me.md"
+    },
+    {
+      "title": "Cambios en la dirección de OpenAI: nuevos roles y cambios en la liderazgo",
+      "category": "ia",
+      "date": "2026-04-05",
+      "slug": "cambios-en-la-direccion-de-openai-nuevos-roles-y-cambio",
+      "tags": [
+        "ia-local",
+        "llms",
+        "herramientas"
+      ],
+      "preview": "La empresa de inteligencia artificial OpenAI ha anunciado cambios en su liderazgo, con el COO Brad Lightcap pasando a liderar 'proyectos especiales' y la CEO Fidji Simo tomando un permiso médico por varias semanas.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-05-cambios-en-la-direccion-de-openai-nuevos-roles-y-cambio.md"
+    },
+    {
+      "title": "Debian se adapta a leyes de verificación de edad en el mundo de la Linux",
+      "category": "linux",
+      "date": "2026-04-05",
+      "slug": "debian-se-adapta-a-leyes-de-verificacion-de-edad-en-el-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Debian se está preparando para las leyes de verificación de edad que podrían afectar a los sistemas operativos y la distribución de paquetes. Aunque es un proyecto voluntario, podría verse impactado por estas regulaciones.",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-05-debian-se-adapta-a-leyes-de-verificacion-de-edad-en-el-.md"
+    },
+    {
+      "title": "Linux 7.1 habilitará AVX-512 BMM en máquinas virtuales KVM",
+      "category": "linux",
+      "date": "2026-04-05",
+      "slug": "linux-71-habilitara-avx-512-bmm-en-maquinas-virtuales-k",
+      "tags": [
+        "ia-local",
+        "linux",
+        "kvm"
+      ],
+      "preview": "La próxima versión del kernel Linux, Linux 7.1, incluirá una característica importante para las máquinas virtuales KVM. Esta característica permitirá a las máquinas virtuales aprovechar al máximo las instrucciones AVX-512 BMM de los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-05-linux-71-habilitara-avx-512-bmm-en-maquinas-virtuales-k.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-05",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos-5",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Muchas distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diferentes paquetes. Estas actualizaciones son importantes para proteger a los usuarios contra posibles ataques.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-05-actualizaciones-de-seguridad-para-sistemas-operativos-5.md"
+    },
+    {
+      "title": "Gentoo Linux llega al Hurd: un nuevo destino para la distribución",
+      "category": "linux",
+      "date": "2026-04-05",
+      "slug": "gentoo-linux-llega-al-hurd-un-nuevo-destino-para-la-dis",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Gentoo Linux ha logrado un hito importante al portar su distribución al kernel GNU Hurd. Aunque se trata de un proyecto experimental, esto abre nuevas posibilidades para los usuarios y desarrolladores que buscan explorar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-05-gentoo-linux-llega-al-hurd-un-nuevo-destino-para-la-dis.md"
+    },
+    {
+      "title": "Ubuntu elimina características de GRUB para mejorar seguridad",
+      "category": "linux",
+      "date": "2026-04-05",
+      "slug": "ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-2",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Ubuntu, una de las distribuciones de Linux más populares, está a punto de eliminar algunas características de su gestor de arranque GRUB para mejorar su seguridad. Aunque GRUB es el gestor de arranque más utilizado en sistemas x86_64…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-05-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-2.md"
+    },
+    {
+      "title": "Controladores Razer y Betop serán compatibles con Linux 7.0",
+      "category": "linux",
+      "date": "2026-04-05",
+      "slug": "controladores-razer-y-betop-seran-compatibles-con-linux",
+      "tags": [
+        "linux",
+        "robotica",
+        "codigo"
+      ],
+      "preview": "La próxima versión de Linux, Linux 7.0, traerá soporte para dos nuevos controladores de juego: Razer Wolverine V3 Pro y Betop KP50. Esto permitirá a los usuarios de Linux disfrutar de una experiencia de juego más completa y sin problemas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-05-controladores-razer-y-betop-seran-compatibles-con-linux.md"
+    },
+    {
+      "title": "ESP32-S3 con cifrado postcuántico gracias a firmware abierto Aethyr Edge Node",
+      "category": "embebidos",
+      "date": "2026-04-05",
+      "slug": "esp32-s3-con-cifrado-postcuantico-gracias-a-firmware-ab",
+      "tags": [
+        "esp32",
+        "ia-local",
+        "cifrado-postcuantico"
+      ],
+      "preview": "La empresa Aethyr Research ha lanzado un firmware abierto para el ESP32-S3 que ofrece cifrado postcuántico, una tecnología esencial para proteger la seguridad de los dispositivos IoT en un futuro próximo. Este firmware, llamado Aethyr Edge…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-05-esp32-s3-con-cifrado-postcuantico-gracias-a-firmware-ab.md"
+    },
+    {
+      "title": "Simulador de Arduino, Raspberry Pi y ESP32 en línea y autónomo",
+      "category": "embebidos",
+      "date": "2026-04-05",
+      "slug": "simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-au",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Velxio es un simulador de código abierto y autónomo para Arduino, ESP32 y Raspberry Pi que se ejecuta directamente en el navegador web. Puede arrastrar y soltar tableros, conectar componentes y módulos, escribir y ejecutar código en…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-05-simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-au.md"
+    },
+    {
+      "title": "Despertador de amanecer con Raspberry Pi Pico",
+      "category": "embebidos",
+      "date": "2026-04-05",
+      "slug": "despertador-de-amanecer-con-raspberry-pi-pico",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un creador ha diseñado un despertador de amanecer casero con Raspberry Pi Pico, que simula la salida del sol para despertar de manera suave y natural.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-05-despertador-de-amanecer-con-raspberry-pi-pico.md"
+    },
+    {
+      "title": "Raspberry Pi Pico: un temporizador de ajedrez para mejorar tus estrategias",
+      "category": "embebidos",
+      "date": "2026-04-05",
+      "slug": "raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-2",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "python",
+        "librerias"
+      ],
+      "preview": "El joven programador Nirvaan Tandon ha creado un temporizador de ajedrez para Raspberry Pi Pico que ayuda a mejorar tus estrategias en el juego. Con este proyecto, puedes jugar con amigos y familiares de manera más eficiente.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-05-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-2.md"
+    },
+    {
       "title": "La era de los robots humanoides ha llegado, según Gill Pratt",
       "category": "robotica",
       "date": "2026-04-04",
