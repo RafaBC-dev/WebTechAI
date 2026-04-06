@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-05</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-06</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-el-momento-de-los-robots-humanoides-ha-llegado-finalm-2.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-nueva-capa-de-seguridad-para-robots-humanoides-con-tecn.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-entendiendo-la-percepcion-de-los-humanos-hacia-los-robo.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-06-google-lanza-ai-edge-gallery-para-probar-modelos-de-ia-.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-06-microsoft-advierte-sobre-la-confiabilidad-de-copilot.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-linux-71-eliminara-soporte-para-cpus-i486.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-open-rmf-la-plataforma-de-middleware-para-robots-movile.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-linux-70-rc7-mejoras-en-documentacion-de-ia-y-correccio.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-darle-una-segunda-vida-a-un-macbook-antiguo-con-linux.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-3.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-3.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-despertador-con-luz-de-sol-una-alarma-con-raspberry-pi-.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-esp32-s3-recibe-cifrado-post-cuantico-con-firmware-aeth.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-weact-ch32v006f8u6-una-placa-de-desarrollo-risc-v-asequ.md</loc><lastmod>2026-04-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-el-momento-de-los-robots-humanoides-ya-ha-llegado.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-ros-2-lyrical-luth-nueva-version-de-ros-2-se-acerca.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-un-brazo-robotico-que-lanza-un-tiro-de-baloncesto.md</loc><lastmod>2026-04-05</lastmod><priority>0.8</priority></url>

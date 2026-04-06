@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "El momento de los robots humanoides ha llegado finalmente",
+      "category": "robotica",
+      "date": "2026-04-06",
+      "slug": "el-momento-de-los-robots-humanoides-ha-llegado-finalm-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Después de años de investigación y desarrollo, los robots humanoides están listos para transformar la forma en que interactuamos con la tecnología. Gill Pratt, el arquitecto del DARPA Robotics Challenge, cree que la capacidad de los robots…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-06-el-momento-de-los-robots-humanoides-ha-llegado-finalm-2.md"
+    },
+    {
+      "title": "Nueva capa de seguridad para robots humanoides con tecnología cuántica",
+      "category": "robotica",
+      "date": "2026-04-06",
+      "slug": "nueva-capa-de-seguridad-para-robots-humanoides-con-tecn",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La startup QERRA-v2 ha lanzado una capa de seguridad para robots humanoides que combina la exploración cuántica con vectores éticos clásicos. Esta tecnología podría mejorar la seguridad de los robots y sistemas de IA",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-06-nueva-capa-de-seguridad-para-robots-humanoides-con-tecn.md"
+    },
+    {
+      "title": "La IA enseña a un robot a bailar en cuestión de horas",
+      "category": "robotica",
+      "date": "2026-04-06",
+      "slug": "la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La empresa Unitree ha logrado crear un modelo de aprendizaje automático que permite a un robot humanoide aprender a bailar en cuestión de horas. Este avance es un paso importante en la creación de inteligencia generalista para el mundo…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-06-la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas.md"
+    },
+    {
+      "title": "Entendiendo la percepción de los humanos hacia los robots",
+      "category": "robotica",
+      "date": "2026-04-06",
+      "slug": "entendiendo-la-percepcion-de-los-humanos-hacia-los-robo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "El RAI Institute ha creado un espacio de experiencia de robots en un centro comercial para que la gente pueda interactuar con tecnología de vanguardia. Esto es importante porque la mayoría de las personas no han tenido experiencia directa…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-06-entendiendo-la-percepcion-de-los-humanos-hacia-los-robo.md"
+    },
+    {
+      "title": "Google lanza AI Edge Gallery para probar modelos de IA en iPhone",
+      "category": "ia",
+      "date": "2026-04-06",
+      "slug": "google-lanza-ai-edge-gallery-para-probar-modelos-de-ia-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "robotica"
+      ],
+      "preview": "Google ha lanzado una aplicación oficial para probar modelos de IA en iPhone, lo que permite a los usuarios experimentar con la tecnología de manera local y sin necesidad de conexión a internet.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-06-google-lanza-ai-edge-gallery-para-probar-modelos-de-ia-.md"
+    },
+    {
+      "title": "Microsoft advierte sobre la confiabilidad de Copilot",
+      "category": "ia",
+      "date": "2026-04-06",
+      "slug": "microsoft-advierte-sobre-la-confiabilidad-de-copilot",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Microsoft ha incluido un aviso en los términos de uso de Copilot, advirtiendo a los usuarios de no confiar ciegamente en sus resultados. Esto se debe a que el modelo puede cometer errores y no funcionar como se espera.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-06-microsoft-advierte-sobre-la-confiabilidad-de-copilot.md"
+    },
+    {
+      "title": "Linux 7.1 eliminará soporte para CPUs i486",
+      "category": "linux",
+      "date": "2026-04-06",
+      "slug": "linux-71-eliminara-soporte-para-cpus-i486",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto Linux está a punto de dejar de soportar CPUs i486, un tipo de procesador muy antiguo que ya no se utiliza en la mayoría de los dispositivos. Esto se debe a que mantener el soporte para estas CPUs es complicado y requiere…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-06-linux-71-eliminara-soporte-para-cpus-i486.md"
+    },
+    {
+      "title": "Open-RMF: la plataforma de middleware para robots móviles",
+      "category": "linux",
+      "date": "2026-04-06",
+      "slug": "open-rmf-la-plataforma-de-middleware-para-robots-movile",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La plataforma Open-RMF ha sido desarrollada para permitir que robots móviles de diferentes fabricantes operen en un espacio compartido sin colisiones, y se ha utilizado en hospitales, aeropuertos, centros comerciales y más.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-06-open-rmf-la-plataforma-de-middleware-para-robots-movile.md"
+    },
+    {
+      "title": "Linux 7.0-rc7: Mejoras en documentación de IA y corrección de errores en WiFi",
+      "category": "linux",
+      "date": "2026-04-06",
+      "slug": "linux-70-rc7-mejoras-en-documentacion-de-ia-y-correccio",
+      "tags": [
+        "ia-local",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "La versión 7.0-rc7 del kernel de Linux ha sido lanzada, con mejoras en la documentación para agentes de inteligencia artificial y corrección de errores en los controladores de WiFi. Esto es importante porque puede mejorar la seguridad y el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-06-linux-70-rc7-mejoras-en-documentacion-de-ia-y-correccio.md"
+    },
+    {
+      "title": "Darle una segunda vida a un MacBook antiguo con Linux",
+      "category": "linux",
+      "date": "2026-04-06",
+      "slug": "darle-una-segunda-vida-a-un-macbook-antiguo-con-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Apple ha dejado de ofrecer soporte a sus MacBooks con procesadores Intel, pero eso no significa que deban ser desechados. Un usuario ha encontrado una forma de darles una segunda vida instalando Linux.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-06-darle-una-segunda-vida-a-un-macbook-antiguo-con-linux.md"
+    },
+    {
+      "title": "Ubuntu elimina características de GRUB para mejorar seguridad",
+      "category": "linux",
+      "date": "2026-04-06",
+      "slug": "ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-3",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Ubuntu ha anunciado planes para eliminar algunas características de GRUB, el bootloader más utilizado en sistemas Linux x86_64, para mejorar su perfil de seguridad. Esto se debe a la aparición de vulnerabilidades en el pasado.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-06-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-3.md"
+    },
+    {
+      "title": "Raspberry Pi Pico: un temporizador de ajedrez para mejorar la estrategia",
+      "category": "embebidos",
+      "date": "2026-04-06",
+      "slug": "raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-3",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Nirvaan Tandon, un joven de 14 años, ha creado un temporizador de ajedrez utilizando un Raspberry Pi Pico W. Este dispositivo permite a los jugadores ajustar el tiempo de juego y recibir un conteo regresivo para planificar sus movimientos…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-06-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-3.md"
+    },
+    {
+      "title": "Despertador con luz de sol: una alarma con Raspberry Pi Pico",
+      "category": "embebidos",
+      "date": "2026-04-06",
+      "slug": "despertador-con-luz-de-sol-una-alarma-con-raspberry-pi-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Un inventor ha creado un despertador que simula la salida del sol, ayudando a las personas a despertarse de manera más natural y suave. Este dispositivo, construido con Raspberry Pi Pico, ha sido diseñado para abordar el problema de la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-06-despertador-con-luz-de-sol-una-alarma-con-raspberry-pi-.md"
+    },
+    {
+      "title": "ESP32-S3 recibe cifrado post-cuántico con firmware Aethyr Edge Node",
+      "category": "embebidos",
+      "date": "2026-04-06",
+      "slug": "esp32-s3-recibe-cifrado-post-cuantico-con-firmware-aeth",
+      "tags": [
+        "ia-local",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Aethyr Research ha lanzado un firmware de nodo de borde IoT cifrado post-cuántico para ESP32-S3 que se inicia en 2,1 segundos y soporta handshakes de cifrado post-cuántico completos en 35ms. Esto es crucial debido al avance de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-06-esp32-s3-recibe-cifrado-post-cuantico-con-firmware-aeth.md"
+    },
+    {
+      "title": "WeAct CH32V006F8U6: una placa de desarrollo RISC-V asequible",
+      "category": "embebidos",
+      "date": "2026-04-06",
+      "slug": "weact-ch32v006f8u6-una-placa-de-desarrollo-risc-v-asequ",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa WeAct ha lanzado la placa de desarrollo CH32V006F8U6, basada en el microcontrolador RISC-V CH32V006, que ofrece un conjunto de características impresionantes a un precio muy asequible.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-06-weact-ch32v006f8u6-una-placa-de-desarrollo-risc-v-asequ.md"
+    },
+    {
       "title": "El momento de los robots humanoides ya ha llegado",
       "category": "robotica",
       "date": "2026-04-05",

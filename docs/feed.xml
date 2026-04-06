@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sun, 05 Apr 2026 07:50:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 08:20:03 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>El momento de los robots humanoides ha llegado finalmente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-el-momento-de-los-robots-humanoides-ha-llegado-finalm-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-el-momento-de-los-robots-humanoides-ha-llegado-finalm-2.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Después de años de investigación y desarrollo, los robots humanoides están listos para transformar la forma en que interactuamos con la tecnología. Gill Pratt, el arquitecto del DARPA Robotics Challenge, cree que la capacidad de los robots…</description>
+  </item>
+  <item>
+    <title>Nueva capa de seguridad para robots humanoides con tecnología cuántica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-nueva-capa-de-seguridad-para-robots-humanoides-con-tecn.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-nueva-capa-de-seguridad-para-robots-humanoides-con-tecn.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La startup QERRA-v2 ha lanzado una capa de seguridad para robots humanoides que combina la exploración cuántica con vectores éticos clásicos. Esta tecnología podría mejorar la seguridad de los robots y sistemas de IA</description>
+  </item>
+  <item>
+    <title>La IA enseña a un robot a bailar en cuestión de horas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa Unitree ha logrado crear un modelo de aprendizaje automático que permite a un robot humanoide aprender a bailar en cuestión de horas. Este avance es un paso importante en la creación de inteligencia generalista para el mundo…</description>
+  </item>
+  <item>
+    <title>Entendiendo la percepción de los humanos hacia los robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-entendiendo-la-percepcion-de-los-humanos-hacia-los-robo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-06-entendiendo-la-percepcion-de-los-humanos-hacia-los-robo.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El RAI Institute ha creado un espacio de experiencia de robots en un centro comercial para que la gente pueda interactuar con tecnología de vanguardia. Esto es importante porque la mayoría de las personas no han tenido experiencia directa…</description>
+  </item>
+  <item>
+    <title>Google lanza AI Edge Gallery para probar modelos de IA en iPhone</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-06-google-lanza-ai-edge-gallery-para-probar-modelos-de-ia-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-06-google-lanza-ai-edge-gallery-para-probar-modelos-de-ia-.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Google ha lanzado una aplicación oficial para probar modelos de IA en iPhone, lo que permite a los usuarios experimentar con la tecnología de manera local y sin necesidad de conexión a internet.</description>
+  </item>
+  <item>
+    <title>Microsoft advierte sobre la confiabilidad de Copilot</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-06-microsoft-advierte-sobre-la-confiabilidad-de-copilot.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-06-microsoft-advierte-sobre-la-confiabilidad-de-copilot.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft ha incluido un aviso en los términos de uso de Copilot, advirtiendo a los usuarios de no confiar ciegamente en sus resultados. Esto se debe a que el modelo puede cometer errores y no funcionar como se espera.</description>
+  </item>
+  <item>
+    <title>Linux 7.1 eliminará soporte para CPUs i486</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-linux-71-eliminara-soporte-para-cpus-i486.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-linux-71-eliminara-soporte-para-cpus-i486.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El proyecto Linux está a punto de dejar de soportar CPUs i486, un tipo de procesador muy antiguo que ya no se utiliza en la mayoría de los dispositivos. Esto se debe a que mantener el soporte para estas CPUs es complicado y requiere…</description>
+  </item>
+  <item>
+    <title>Open-RMF: la plataforma de middleware para robots móviles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-open-rmf-la-plataforma-de-middleware-para-robots-movile.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-open-rmf-la-plataforma-de-middleware-para-robots-movile.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La plataforma Open-RMF ha sido desarrollada para permitir que robots móviles de diferentes fabricantes operen en un espacio compartido sin colisiones, y se ha utilizado en hospitales, aeropuertos, centros comerciales y más.</description>
+  </item>
+  <item>
+    <title>Linux 7.0-rc7: Mejoras en documentación de IA y corrección de errores en WiFi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-linux-70-rc7-mejoras-en-documentacion-de-ia-y-correccio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-linux-70-rc7-mejoras-en-documentacion-de-ia-y-correccio.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.0-rc7 del kernel de Linux ha sido lanzada, con mejoras en la documentación para agentes de inteligencia artificial y corrección de errores en los controladores de WiFi. Esto es importante porque puede mejorar la seguridad y el…</description>
+  </item>
+  <item>
+    <title>Darle una segunda vida a un MacBook antiguo con Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-darle-una-segunda-vida-a-un-macbook-antiguo-con-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-darle-una-segunda-vida-a-un-macbook-antiguo-con-linux.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Apple ha dejado de ofrecer soporte a sus MacBooks con procesadores Intel, pero eso no significa que deban ser desechados. Un usuario ha encontrado una forma de darles una segunda vida instalando Linux.</description>
+  </item>
+  <item>
+    <title>Ubuntu elimina características de GRUB para mejorar seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-06-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-s-3.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Ubuntu ha anunciado planes para eliminar algunas características de GRUB, el bootloader más utilizado en sistemas Linux x86_64, para mejorar su perfil de seguridad. Esto se debe a la aparición de vulnerabilidades en el pasado.</description>
+  </item>
+  <item>
+    <title>Raspberry Pi Pico: un temporizador de ajedrez para mejorar la estrategia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mej-3.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Nirvaan Tandon, un joven de 14 años, ha creado un temporizador de ajedrez utilizando un Raspberry Pi Pico W. Este dispositivo permite a los jugadores ajustar el tiempo de juego y recibir un conteo regresivo para planificar sus movimientos…</description>
+  </item>
+  <item>
+    <title>Despertador con luz de sol: una alarma con Raspberry Pi Pico</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-despertador-con-luz-de-sol-una-alarma-con-raspberry-pi-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-despertador-con-luz-de-sol-una-alarma-con-raspberry-pi-.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un inventor ha creado un despertador que simula la salida del sol, ayudando a las personas a despertarse de manera más natural y suave. Este dispositivo, construido con Raspberry Pi Pico, ha sido diseñado para abordar el problema de la…</description>
+  </item>
+  <item>
+    <title>ESP32-S3 recibe cifrado post-cuántico con firmware Aethyr Edge Node</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-esp32-s3-recibe-cifrado-post-cuantico-con-firmware-aeth.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-esp32-s3-recibe-cifrado-post-cuantico-con-firmware-aeth.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Aethyr Research ha lanzado un firmware de nodo de borde IoT cifrado post-cuántico para ESP32-S3 que se inicia en 2,1 segundos y soporta handshakes de cifrado post-cuántico completos en 35ms. Esto es crucial debido al avance de…</description>
+  </item>
+  <item>
+    <title>WeAct CH32V006F8U6: una placa de desarrollo RISC-V asequible</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-weact-ch32v006f8u6-una-placa-de-desarrollo-risc-v-asequ.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-06-weact-ch32v006f8u6-una-placa-de-desarrollo-risc-v-asequ.md</guid>
+    <pubDate>Mon, 06 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa WeAct ha lanzado la placa de desarrollo CH32V006F8U6, basada en el microcontrolador RISC-V CH32V006, que ofrece un conjunto de características impresionantes a un precio muy asequible.</description>
+  </item>
   <item>
     <title>El momento de los robots humanoides ya ha llegado</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-05-el-momento-de-los-robots-humanoides-ya-ha-llegado.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
     <description>El joven programador Nirvaan Tandon ha creado un temporizador de ajedrez para Raspberry Pi Pico que ayuda a mejorar tus estrategias en el juego. Con este proyecto, puedes jugar con amigos y familiares de manera más eficiente.</description>
-  </item>
-  <item>
-    <title>La era de los robots humanoides ha llegado, según Gill Pratt</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-la-era-de-los-robots-humanoides-ha-llegado-segun-gill-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-la-era-de-los-robots-humanoides-ha-llegado-segun-gill-p.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Después de una década desde el DARPA Robotics Challenge, muchos creen que los robots humanoides están a punto de tener un momento transformador. Pero ¿qué ha cambiado en realidad?</description>
-  </item>
-  <item>
-    <title>Digit aprende a bailar con inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-digit-aprende-a-bailar-con-inteligencia-artificial.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-digit-aprende-a-bailar-con-inteligencia-artificial.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa Unitree ha logrado enseñar a su robot Digit a bailar utilizando inteligencia artificial. Este logro se ha alcanzado gracias a la creación de un modelo de aprendizaje automático llamado GEN-1, que permite a Digit aprender nuevas…</description>
-  </item>
-  <item>
-    <title>ROSCon Global y ROS 2 Lyrical Luth: Nuevas Actualizaciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-roscon-global-y-ros-2-lyrical-luth-nuevas-actualizacion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-04-roscon-global-y-ros-2-lyrical-luth-nuevas-actualizacion.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROSCon se prepara para la próxima versión de ROS 2 Lyrical Luth, mientras que la fecha límite para presentar propuestas para ROSCon Global se acerca rápidamente. Además, se anuncian varios eventos y hackathones relacionados…</description>
-  </item>
-  <item>
-    <title>¿Cuándo la IA se convierte en Pierre Menard, autor de tu código?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-04-cuando-la-ia-se-convierte-en-pierre-menard-autor-de-tu-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-04-cuando-la-ia-se-convierte-en-pierre-menard-autor-de-tu-.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Una investigación reciente ha demostrado que los modelos de lenguaje de gran envergadura (LLMs) pueden memorizar y reproducir código fuente con una precisión sorprendente, lo que plantea preguntas sobre la autoría y la originalidad en la…</description>
-  </item>
-  <item>
-    <title>Cambios en OpenAI: Brad Lightcap lidera proyectos especiales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-04-cambios-en-openai-brad-lightcap-lidera-proyectos-especi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-04-cambios-en-openai-brad-lightcap-lidera-proyectos-especi.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI experimenta cambios en su equipo de liderazgo, incluyendo la transición de Brad Lightcap a un nuevo rol y la salida de Kate Rouch como directora de marketing. Esto se debe a la necesidad de la empresa de adaptarse a sus objetivos y…</description>
-  </item>
-  <item>
-    <title>Gentoo GNU/Hurd: un proyecto de Linux experimental en Hurd</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-gentoo-gnuhurd-un-proyecto-de-linux-experimental-en-hur.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-gentoo-gnuhurd-un-proyecto-de-linux-experimental-en-hur.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad Gentoo Linux ha anunciado el lanzamiento de un nuevo proyecto: Gentoo GNU/Hurd, un sistema operativo experimental basado en GNU Hurd. Aunque se trata de una versión en etapa de desarrollo, los desarrolladores han logrado crear…</description>
-  </item>
-  <item>
-    <title>Soporte adicional para Razer en Linux con OpenRazer 3.12.1</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-soporte-adicional-para-razer-en-linux-con-openrazer-312.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-soporte-adicional-para-razer-en-linux-con-openrazer-312.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha recibido un regalo con la actualización de OpenRazer 3.12.1, que agrega soporte para dos dispositivos Razer más. Esto significa que los usuarios pueden disfrutar de una experiencia más completa con sus productos…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-actualizaciones-de-seguridad-para-sistemas-operativos-4.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-actualizaciones-de-seguridad-para-sistemas-operativos-4.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos y aplicaciones, incluyendo AlmaLinux, Debian, Fedora, Mageia, Red Hat, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades…</description>
-  </item>
-  <item>
-    <title>Wine 11.6 revive su driver para Android</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-wine-116-revive-su-driver-para-android.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-wine-116-revive-su-driver-para-android.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 11.6 de Wine, un software que permite ejecutar aplicaciones de Windows en Linux, macOS y otros sistemas, ha sido lanzada con una sorprendente noticia: se está reviviendo su driver para Android. Esto significa que podrían ser…</description>
-  </item>
-  <item>
-    <title>Ubuntu elimina características de GRUB para mejorar seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-seg.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-04-ubuntu-elimina-caracteristicas-de-grub-para-mejorar-seg.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Ubuntu, una de las distribuciones de Linux más populares, ha anunciado planes para eliminar algunas características de su bootloader GRUB para mejorar su perfil de seguridad. Este cambio se debe a la aparición de vulnerabilidades en el…</description>
-  </item>
-  <item>
-    <title>Despertador de sol con Raspberry Pi Pico, un proyecto atractivo para el hogar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-despertador-de-sol-con-raspberry-pi-pico-un-proyecto-at.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-despertador-de-sol-con-raspberry-pi-pico-un-proyecto-at.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un proyecto innovador creado por Pawel Skiba, un ingeniero que se inspiró en la necesidad de su esposa de un despertador de sol para mejorar su sueño. Con un presupuesto de 250 euros, Pawel decidió crear su propio despertador de sol…</description>
-  </item>
-  <item>
-    <title>SupTronics X1208: UPS y M.2 NVMe SSD para Raspberry Pi 5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-suptronics-x1208-ups-y-m2-nvme-ssd-para-raspberry-pi-5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-suptronics-x1208-ups-y-m2-nvme-ssd-para-raspberry-pi-5.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa SupTronics ha lanzado el X1208, un dispositivo que combina una batería de UPS con un slot M.2 NVMe SSD para Raspberry Pi 5. Esto permite a los usuarios almacenar datos de manera segura y rápida, incluso en caso de apagones.</description>
-  </item>
-  <item>
-    <title>Simulador de Arduino, Raspberry Pi y ESP32 en línea y self-hosted</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-se.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-simulador-de-arduino-raspberry-pi-y-esp32-en-linea-y-se.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Velxio es un simulador de código abierto que permite simular y programar placa de Arduino, Raspberry Pi y ESP32 directamente en el navegador web. Es una herramienta muy útil para desarrolladores y estudiantes de robótica y electrónica.</description>
-  </item>
-  <item>
-    <title>Desmontaje de un medidor de presión de neumáticos portátil</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-desmontaje-de-un-medidor-de-presion-de-neumaticos-porta.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-desmontaje-de-un-medidor-de-presion-de-neumaticos-porta.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha desmontado un medidor de presión de neumáticos portátil para entender cómo funciona su tecnología interna. Descubre cómo se utiliza un sensor MEMS y un microcontrolador 8-bit para medir la presión de los neumáticos.</description>
-  </item>
-  <item>
-    <title>Raspberry Pi Pico: un temporizador de ajedrez para mejorar tus partidas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mejor.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-04-raspberry-pi-pico-un-temporizador-de-ajedrez-para-mejor.md</guid>
-    <pubDate>Sat, 04 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un joven programador de 14 años ha creado un temporizador de ajedrez utilizando un Raspberry Pi Pico, que ayuda a mejorar la estrategia en partidas con amigos y familiares.</description>
   </item>
 </channel>
 </rss>
