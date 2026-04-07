@@ -1,6 +1,218 @@
 {
   "news": [
     {
+      "title": "FusionCore no disponible en apt pese a sincronización exitosa",
+      "category": "robotica",
+      "date": "2026-04-07",
+      "slug": "fusioncore-no-disponible-en-apt-pese-a-sincronizacion-e",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La biblioteca FusionCore, que se ha integrado en rosdistro, no se encuentra disponible en apt a pesar de haber sido sincronizada con éxito. Esto ha llevado a una pregunta sobre qué pasos se deben seguir para que se publique en apt.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-07-fusioncore-no-disponible-en-apt-pese-a-sincronizacion-e.md"
+    },
+    {
+      "title": "Entendiendo la percepción de los humanos hacia los robots",
+      "category": "robotica",
+      "date": "2026-04-07",
+      "slug": "entendiendo-la-percepcion-de-los-humanos-hacia-los-ro-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El RAI Institute ha lanzado un proyecto para estudiar cómo los humanos perciben y interactúan con los robots en entornos cotidianos. A través de una experiencia de robot en vivo en un centro comercial, el equipo busca comprender mejor la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-07-entendiendo-la-percepcion-de-los-humanos-hacia-los-ro-2.md"
+    },
+    {
+      "title": "El momento de los robots humanoides ha llegado, según Gill Pratt",
+      "category": "robotica",
+      "date": "2026-04-07",
+      "slug": "el-momento-de-los-robots-humanoides-ha-llegado-segun-gi",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Gill Pratt, CEO de Toyota Research Institute, cree que los robots humanoides están a punto de tener un momento transformador gracias a la revolución en inteligencia artificial. La competencia DARPA Robotics Challenge de 2012 sentó las…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-07-el-momento-de-los-robots-humanoides-ha-llegado-segun-gi.md"
+    },
+    {
+      "title": "Digit aprende a bailar gracias a un modelo de IA genérico",
+      "category": "robotica",
+      "date": "2026-04-07",
+      "slug": "digit-aprende-a-bailar-gracias-a-un-modelo-de-ia-generi",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "El equipo de IA de una empresa de robótica ha desarrollado un modelo de aprendizaje automático que permite a un robot llamado Digit aprender a bailar en cuestión de horas. Este avance es un paso importante hacia la creación de inteligencia…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-07-digit-aprende-a-bailar-gracias-a-un-modelo-de-ia-generi.md"
+    },
+    {
+      "title": "Fundación de Zero Shot, un fondo de inversión de $100M con enlaces a OpenAI",
+      "category": "ia",
+      "date": "2026-04-07",
+      "slug": "fundacion-de-zero-shot-un-fondo-de-inversion-de-100m-co",
+      "tags": [
+        "ia-local",
+        "llms",
+        "agentes"
+      ],
+      "preview": "Un grupo de ex empleados de OpenAI han creado un fondo de inversión de $100M llamado Zero Shot, que ya ha estado involucrado en varias inversiones.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-07-fundacion-de-zero-shot-un-fondo-de-inversion-de-100m-co.md"
+    },
+    {
+      "title": "Caveman: la herramienta que reduce costos con LLMs",
+      "category": "ia",
+      "date": "2026-04-07",
+      "slug": "caveman-la-herramienta-que-reduce-costos-con-llms",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "Una herramienta llamada Caveman ha sido creada para reducir costos cuando se utilizan modelos de lenguaje de inteligencia artificial (LLMs). Funciona eliminando palabras innecesarias de la salida del LLM, lo que reduce el número de tokens…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-07-caveman-la-herramienta-que-reduce-costos-con-llms.md"
+    },
+    {
+      "title": "Google lanza una aplicación de dictado con IA que funciona offline",
+      "category": "ia",
+      "date": "2026-04-07",
+      "slug": "google-lanza-una-aplicacion-de-dictado-con-ia-que-funci",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Google ha lanzado una aplicación de dictado llamada Google AI Edge Eloquent que utiliza modelos de reconocimiento de voz automatizado (ASR) para convertir la voz en texto. La aplicación es gratuita y puede funcionar sin conexión a Internet.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-07-google-lanza-una-aplicacion-de-dictado-con-ia-que-funci.md"
+    },
+    {
+      "title": "Rescatar un Pokémon perdido en un Pokéwalker: ¿es posible?",
+      "category": "ia",
+      "date": "2026-04-07",
+      "slug": "rescatar-un-pokemon-perdido-en-un-pokewalker-es-posible",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Un usuario ha perdido su Pokéwalker y con él, un Pokémon valioso. ¿Hay alguna forma de rescatarlo? La respuesta no es tan sencilla como parece.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-07-rescatar-un-pokemon-perdido-en-un-pokewalker-es-posible.md"
+    },
+    {
+      "title": "Mesa define políticas para el uso de IA en desarrollo",
+      "category": "ia",
+      "date": "2026-04-07",
+      "slug": "mesa-define-politicas-para-el-uso-de-ia-en-desarrollo",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Los desarrolladores de Mesa han establecido dos políticas para el uso de inteligencia artificial (IA) en el desarrollo de este proyecto. Estas políticas buscan garantizar la calidad y la transparencia de las contribuciones recibidas a…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-07-mesa-define-politicas-para-el-uso-de-ia-en-desarrollo.md"
+    },
+    {
+      "title": "Nueva mini PC industrial con procesador Intel Core 3 N355 para aplicaciones de kioscos y señalización digital",
+      "category": "linux",
+      "date": "2026-04-07",
+      "slug": "nueva-mini-pc-industrial-con-procesador-intel-core-3-n3",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "AAEON ha lanzado la Intelli TWL01 Edge, una mini PC industrial diseñada para kioscos, videoconferencias, pantallas de video y carteles interactivos. Esta mini PC es ideal para aplicaciones que requieren una alta potencia y una gran…",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-07-nueva-mini-pc-industrial-con-procesador-intel-core-3-n3.md"
+    },
+    {
+      "title": "Convierte un calibrador Bluetooth en un dispositivo de entrada para FreeCAD",
+      "category": "linux",
+      "date": "2026-04-07",
+      "slug": "convierte-un-calibrador-bluetooth-en-un-dispositivo-de-",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha encontrado una forma de aprovechar un calibrador Bluetooth para tomar medidas y sincronizarlas directamente con el software de diseño asistido por computadora (CAD) FreeCAD. Esto elimina la necesidad de transcribir…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-07-convierte-un-calibrador-bluetooth-en-un-dispositivo-de-.md"
+    },
+    {
+      "title": "Mini desarrollo con CH32V006 RISC-V MCU a precio de $2",
+      "category": "embebidos",
+      "date": "2026-04-07",
+      "slug": "mini-desarrollo-con-ch32v006-risc-v-mcu-a-precio-de-2",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa WeAct ha lanzado una nueva tarjeta de desarrollo llamada CH32V006F8U6 Mini Core, basada en el microcontrolador RISC-V CH32V006. Esta tarjeta es muy pequeña y asequible, con un precio de solo $2.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-07-mini-desarrollo-con-ch32v006-risc-v-mcu-a-precio-de-2.md"
+    },
+    {
+      "title": "Alarma de amanecer con Raspberry Pi Pico: despertar con la luz del sol",
+      "category": "embebidos",
+      "date": "2026-04-07",
+      "slug": "alarma-de-amanecer-con-raspberry-pi-pico-despertar-con-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un creador de proyectos ha desarrollado una alarma de amanecer casera utilizando un Raspberry Pi Pico 2 W, que simula la salida del sol para despertar de manera suave y natural.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-07-alarma-de-amanecer-con-raspberry-pi-pico-despertar-con-.md"
+    },
+    {
+      "title": "Nueva reloj inteligente NASA Artemis Watch 2.0 basada en ESP32-S3",
+      "category": "embebidos",
+      "date": "2026-04-07",
+      "slug": "nueva-reloj-inteligente-nasa-artemis-watch-20-basada-en",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La NASA Artemis Watch 2.0 es un reloj inteligente educativo inspirado en la NASA, basado en el módulo ESP32-S3 y un display monocromo de 1.14 pulgadas. Se puede programar y personalizar para recibir notificaciones, monitorear la actividad…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-07-nueva-reloj-inteligente-nasa-artemis-watch-20-basada-en.md"
+    },
+    {
+      "title": "Timer de ajedrez para Raspberry Pi Pico: un proyecto divertido y útil",
+      "category": "embebidos",
+      "date": "2026-04-07",
+      "slug": "timer-de-ajedrez-para-raspberry-pi-pico-un-proyecto-div",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "python",
+        "librerias"
+      ],
+      "preview": "Un joven programador de 14 años ha creado un timer de ajedrez para Raspberry Pi Pico, que permite a los jugadores planificar sus movimientos con precisión. Este proyecto es una excelente forma de aprender sobre la robótica y la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-07-timer-de-ajedrez-para-raspberry-pi-pico-un-proyecto-div.md"
+    },
+    {
       "title": "El momento de los robots humanoides ha llegado finalmente",
       "category": "robotica",
       "date": "2026-04-06",
