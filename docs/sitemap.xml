@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-07</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-08</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-08-entender-la-percepcion-de-los-humanos-hacia-los-robots.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-08-el-momento-de-los-robots-humanoides-finalmente-ha-llega.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-08-digit-aprende-a-bailar-con-ia-en-cuestion-de-horas.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-08-gazebo-pmc-meeting-minutes-avances-y-nuevas-tareas.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-08-arcee-lanza-modelo-de-razonamiento-abierto-y-gratuito-p.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-08-google-lanza-una-aplicacion-de-dictado-con-ia-que-fun-2.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-08-mejorando-la-depuracion-remota-en-ros-2-robotunnel-busc.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-08-proyectos-para-tu-raspberry-pi-5-de-1gb-aprovecha-su-po.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-08-nueva-placa-base-eatx-con-procesador-amd-epyc-embedded-.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-08-asus-zenbook-a16-el-primer-portatil-con-snapdragon-x2-e.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-08-linux-dejara-de-soportar-el-procesador-intel-486-en-la-.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-08-actualizaciones-de-seguridad-para-sistemas-operativos-6.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-08-google-actualiza-su-kit-de-inteligencia-artificial-para.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-08-nueva-placa-esp32-s31-de-espressif-risc-v-con-wifi-6-y-.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-08-sensor-de-luz-max44009-medicion-de-lux-con-alta-precisi.md</loc><lastmod>2026-04-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-07-fusioncore-no-disponible-en-apt-pese-a-sincronizacion-e.md</loc><lastmod>2026-04-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-07-entendiendo-la-percepcion-de-los-humanos-hacia-los-ro-2.md</loc><lastmod>2026-04-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-07-el-momento-de-los-robots-humanoides-ha-llegado-segun-gi.md</loc><lastmod>2026-04-07</lastmod><priority>0.8</priority></url>
