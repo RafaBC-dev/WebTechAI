@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Raspberry Pi recibe HAT de radio digital con AM, FM, DAB y HD",
+      "category": "embebidos",
+      "date": "2026-04-10",
+      "slug": "raspberry-pi-recibe-hat-de-radio-digital-con-am-fm-dab-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Raspiaudio ha lanzado un nuevo HAT para Raspberry Pi que agrega soporte para radios digitales, incluyendo AM, FM, DAB y HD. Esto abre nuevas posibilidades para proyectos de radio en Raspberry Pi.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-10-raspberry-pi-recibe-hat-de-radio-digital-con-am-fm-dab-.md"
+    },
+    {
+      "title": "Bunny de impresión 3D con cuerpo de muelle: un juguete innovador",
+      "category": "embebidos",
+      "date": "2026-04-10",
+      "slug": "bunny-de-impresion-3d-con-cuerpo-de-muelle-un-juguete-i",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Una nueva creación de impresión 3D ha revolucionado la forma en que se diseñan juguetes flexibles. El Bunny de muelle es un ejemplo de cómo la tecnología de impresión 3D puede ser utilizada para crear objetos con propiedades únicas.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-10-bunny-de-impresion-3d-con-cuerpo-de-muelle-un-juguete-i.md"
+    },
+    {
+      "title": "Recepción de DAB+ abierta: un proyecto de radio digital con ESP32 y SI4684",
+      "category": "embebidos",
+      "date": "2026-04-10",
+      "slug": "recepcion-de-dab-abierta-un-proyecto-de-radio-digital-c",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un entusiasta de la electrónica ha creado un proyecto de radio digital de código abierto que utiliza un microcontrolador ESP32 y un chip de radio digital Skyworks SI4684. Este proyecto permite a los usuarios construir su propia radio…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-10-recepcion-de-dab-abierta-un-proyecto-de-radio-digital-c.md"
+    },
+    {
+      "title": "La IA enseña a un robot a bailar en cuestión de horas",
+      "category": "robotica",
+      "date": "2026-04-10",
+      "slug": "la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa Digit ha logrado que su robot pueda aprender a bailar en poco tiempo gracias a la inteligencia artificial. Este avance podría tener un impacto significativo en la robótica y la automatización.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-10-la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas-2.md"
+    },
+    {
+      "title": "Desarrollador Senior para Infraestructura de Robótica en Escala",
+      "category": "robotica",
+      "date": "2026-04-10",
+      "slug": "desarrollador-senior-para-infraestructura-de-robotica-e",
+      "tags": [
+        "robotica",
+        "python",
+        "javascript"
+      ],
+      "preview": "Una empresa de crecimiento rápido busca un desarrollador senior para diseñar y construir la capa de infraestructura para la operación de robots a gran escala. Este proyecto combina la infraestructura en la nube, la observabilidad y los…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-10-desarrollador-senior-para-infraestructura-de-robotica-e.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para sistemas autónomos a escala de misión",
+      "category": "robotica",
+      "date": "2026-04-10",
+      "slug": "plataforma-de-confianza-cero-para-sistemas-autonomos-a-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Una nueva plataforma de confianza cero llamada GoZTASP permite a los sistemas autónomos operar de manera segura y resiliente en entornos reales. Esta plataforma es esencial para sistemas como drones, robots y sensores que operan en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-10-plataforma-de-confianza-cero-para-sistemas-autonomos-a-.md"
+    },
+    {
+      "title": "Entender la percepción de los humanos hacia los robots a través de la experiencia",
+      "category": "robotica",
+      "date": "2026-04-10",
+      "slug": "entender-la-percepcion-de-los-humanos-hacia-los-robots-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "En verano de 2025, el RAI Institute organizó una experiencia de robotica gratuita en el CambridgeSide mall para que la gente pudiera experimentar la tecnología de vanguardia de primera mano. El objetivo era dar a las personas la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-10-entender-la-percepcion-de-los-humanos-hacia-los-robots-.md"
+    },
+    {
+      "title": "Modelos de lenguaje avanzan en la detección de vulnerabilidades en Linux",
+      "category": "ia",
+      "date": "2026-04-10",
+      "slug": "modelos-de-lenguaje-avanzan-en-la-deteccion-de-vulnerab",
+      "tags": [
+        "llms",
+        "linux",
+        "seguridad"
+      ],
+      "preview": "Los modelos de lenguaje han demostrado su capacidad para identificar vulnerabilidades en el código de Linux, lo que podría revolucionar la forma en que se realizan los análisis de seguridad en el mundo del software libre.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-10-modelos-de-lenguaje-avanzan-en-la-deteccion-de-vulnerab.md"
+    },
+    {
+      "title": "Florida investiga a OpenAI por presunta implicación en un tiroteo",
+      "category": "ia",
+      "date": "2026-04-10",
+      "slug": "florida-investiga-a-openai-por-presunta-implicacion-en-",
+      "tags": [
+        "ia-local",
+        "llms",
+        "robotica"
+      ],
+      "preview": "La Fiscalía General de Florida ha anunciado una investigación sobre la posible implicación de ChatGPT en un tiroteo que resultó en la muerte de dos personas y heridas a cinco en la Universidad Estatal de Florida en abril de 2025.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-10-florida-investiga-a-openai-por-presunta-implicacion-en-.md"
+    },
+    {
+      "title": "ChatGPT lanza plan Pro de $100/mes: un desafío a Anthropic",
+      "category": "ia",
+      "date": "2026-04-10",
+      "slug": "chatgpt-lanza-plan-pro-de-100mes-un-desafio-a-anthropic",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "OpenAI ha anunciado un plan Pro de $100/mes para ChatGPT, un movimiento que busca desafiar a Anthropic y su modelo Claude. Este nuevo plan se centra en el uso diario de la herramienta de código Codex.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-10-chatgpt-lanza-plan-pro-de-100mes-un-desafio-a-anthropic.md"
+    },
+    {
+      "title": "Raspberry Pi CM5: una tarjeta de expansión con características avanzadas",
+      "category": "linux",
+      "date": "2026-04-10",
+      "slug": "raspberry-pi-cm5-una-tarjeta-de-expansion-con-caracteri",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Waveshare ha lanzado la tarjeta de expansión Raspberry Pi CM5, que ofrece una amplia gama de características avanzadas para proyectos de robótica y embebidos. Esta tarjeta es compatible con todos los módulos de computadora Raspberry Pi…",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-10-raspberry-pi-cm5-una-tarjeta-de-expansion-con-caracteri.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-10",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos-7",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo Debian, Fedora, Slackware, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades en software como Firefox, Postgresql,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-10-actualizaciones-de-seguridad-para-sistemas-operativos-7.md"
+    },
+    {
+      "title": "USB simplificado: un tutorial para desarrolladores de software",
+      "category": "linux",
+      "date": "2026-04-10",
+      "slug": "usb-simplificado-un-tutorial-para-desarrolladores-de-so",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La tecnología moderna se basa en abstracciones, lo que permite a los desarrolladores de software enfocarse en la aplicación sin necesidad de conocer los detalles técnicos subyacentes. Sin embargo, hay ocasiones en las que es útil entender…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-10-usb-simplificado-un-tutorial-para-desarrolladores-de-so.md"
+    },
+    {
+      "title": "Soporte para laptops ASUS en Linux 7.0 con ASUS Armoury Driver",
+      "category": "linux",
+      "date": "2026-04-10",
+      "slug": "soporte-para-laptops-asus-en-linux-70-con-asus-armoury-",
+      "tags": [
+        "linux",
+        "robotica",
+        "software"
+      ],
+      "preview": "La comunidad de código abierto ha logrado expandir el soporte para laptops ASUS en Linux, gracias a la colaboración en el driver ASUS Armoury. Este driver permite controlar características de los laptops ASUS bajo Linux y ha sido mejorado…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-10-soporte-para-laptops-asus-en-linux-70-con-asus-armoury-.md"
+    },
+    {
+      "title": "Limitar la frecuencia del NPU Intel para mejorar la gestión de potencia y calor",
+      "category": "linux",
+      "date": "2026-04-10",
+      "slug": "limitar-la-frecuencia-del-npu-intel-para-mejorar-la-ges",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Intel ha presentado un parche para el driver del NPU Linux que permite limitar la frecuencia del procesador para mejorar la gestión de potencia y calor. Esto es especialmente relevante para los SoCs Core Ultra que utilizan el NPU.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-10-limitar-la-frecuencia-del-npu-intel-para-mejorar-la-ges.md"
+    },
+    {
       "title": "WolfIP: una biblioteca de TCP/IP sin memoria dinámica para sistemas embebidos",
       "category": "embebidos",
       "date": "2026-04-09",

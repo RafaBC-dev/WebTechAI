@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-09</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-10-raspberry-pi-recibe-hat-de-radio-digital-con-am-fm-dab-.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-10-bunny-de-impresion-3d-con-cuerpo-de-muelle-un-juguete-i.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-10-recepcion-de-dab-abierta-un-proyecto-de-radio-digital-c.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-10-la-ia-ensena-a-un-robot-a-bailar-en-cuestion-de-horas-2.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-10-desarrollador-senior-para-infraestructura-de-robotica-e.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-10-plataforma-de-confianza-cero-para-sistemas-autonomos-a-.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-10-entender-la-percepcion-de-los-humanos-hacia-los-robots-.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-10-modelos-de-lenguaje-avanzan-en-la-deteccion-de-vulnerab.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-10-florida-investiga-a-openai-por-presunta-implicacion-en-.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-10-chatgpt-lanza-plan-pro-de-100mes-un-desafio-a-anthropic.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-10-raspberry-pi-cm5-una-tarjeta-de-expansion-con-caracteri.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-10-actualizaciones-de-seguridad-para-sistemas-operativos-7.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-10-usb-simplificado-un-tutorial-para-desarrolladores-de-so.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-10-soporte-para-laptops-asus-en-linux-70-con-asus-armoury-.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-10-limitar-la-frecuencia-del-npu-intel-para-mejorar-la-ges.md</loc><lastmod>2026-04-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-09-wolfip-una-biblioteca-de-tcpip-sin-memoria-dinamica-par.md</loc><lastmod>2026-04-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-09-lanzado-weact-stm32u585ciu6-core-mini-un-microcontrolad.md</loc><lastmod>2026-04-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-09-detector-de-rayos-portatil-diy-con-tecnologia-de-vangua.md</loc><lastmod>2026-04-09</lastmod><priority>0.8</priority></url>
