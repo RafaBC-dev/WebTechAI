@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Convierte un Otamatone en un sintetizador Trautonium con este hack impresionante",
+      "category": "embebidos",
+      "date": "2026-04-11",
+      "slug": "convierte-un-otamatone-en-un-sintetizador-trautonium-co",
+      "tags": [
+        "robotica",
+        "electronica",
+        "linux"
+      ],
+      "preview": "Los entusiastas de la electrónica y la música se unen en este proyecto emocionante que transforma un instrumento juguetón en un sintetizador más avanzado. El Otamatone, un instrumento electrónico japonés, se convierte en un Trautonium, un…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-11-convierte-un-otamatone-en-un-sintetizador-trautonium-co.md"
+    },
+    {
+      "title": "Bee Write Back: un escritorio DIY con Raspberry Pi y teclado mecánico",
+      "category": "embebidos",
+      "date": "2026-04-11",
+      "slug": "bee-write-back-un-escritorio-diy-con-raspberry-pi-y-tec",
+      "tags": [
+        "robotica",
+        "software y linux",
+        "diseño y hardware"
+      ],
+      "preview": "Un ingeniero llamado Simon ha creado un escritorio DIY llamado Bee Write Back, basado en Raspberry Pi Zero 2 W, que busca ofrecer una experiencia de escritura sin distracciones.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-11-bee-write-back-un-escritorio-diy-con-raspberry-pi-y-tec.md"
+    },
+    {
+      "title": "Raspberry Pi gana un HAT de radio digital con AM, FM, DAB y HD",
+      "category": "embebidos",
+      "date": "2026-04-11",
+      "slug": "raspberry-pi-gana-un-hat-de-radio-digital-con-am-fm-dab",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Raspiaudio ha lanzado un nuevo HAT para Raspberry Pi que agrega soporte para radios digitales, incluyendo AM, FM, DAB y HD. Esto permite a los usuarios de Raspberry Pi acceder a una amplia gama de estaciones de radio en todo el mundo.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-11-raspberry-pi-gana-un-hat-de-radio-digital-con-am-fm-dab.md"
+    },
+    {
+      "title": "Charmander Night Light: una iluminación atractiva para tu hogar",
+      "category": "embebidos",
+      "date": "2026-04-11",
+      "slug": "charmander-night-light-una-iluminacion-atractiva-para-t",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "arduino"
+      ],
+      "preview": "Adafruit presenta una noticia emocionante para los amantes de la tecnología y la creatividad: un modelo de impresión 3D que combina la iluminación LED con la estética de Pokémon. ¿Qué es y cómo funciona?",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-11-charmander-night-light-una-iluminacion-atractiva-para-t.md"
+    },
+    {
+      "title": "TechCrunch llega a Tokio con Startup Battlefield y SusHi Tech Tokyo",
+      "category": "robotica",
+      "date": "2026-04-11",
+      "slug": "techcrunch-llega-a-tokio-con-startup-battlefield-y-sush",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "TechCrunch se une a SusHi Tech Tokyo, la conferencia de innovación más grande de Asia, para buscar startups innovadoras y sostenibles. La conferencia contará con 750 startups de 60 países y 60.000 asistentes en tres días.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-11-techcrunch-llega-a-tokio-con-startup-battlefield-y-sush.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para sistemas autónomos a gran escala",
+      "category": "robotica",
+      "date": "2026-04-11",
+      "slug": "plataforma-de-confianza-cero-para-sistemas-autonomos--2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad en la era de la autonomía es un desafío creciente. Los sistemas autónomos, como drones y robots, requieren una arquitectura de confianza cero para garantizar su integridad y seguridad en entornos reales. La plataforma GoZTASP…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-11-plataforma-de-confianza-cero-para-sistemas-autonomos--2.md"
+    },
+    {
+      "title": "Entendiendo las actitudes humanas hacia los robots a través de la experiencia",
+      "category": "robotica",
+      "date": "2026-04-11",
+      "slug": "entendiendo-las-actitudes-humanas-hacia-los-robots-a-tr",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El RAI Institute ha lanzado un experimento de robotica en un centro comercial de Cambridge para que la gente pueda experimentar la tecnología de primera mano y compartir sus opiniones sobre la integración de los robots en nuestra vida…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-11-entendiendo-las-actitudes-humanas-hacia-los-robots-a-tr.md"
+    },
+    {
+      "title": "Digit, el robot que aprende a bailar con IA",
+      "category": "robotica",
+      "date": "2026-04-11",
+      "slug": "digit-el-robot-que-aprende-a-bailar-con-ia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa Unitree ha desarrollado un sistema de aprendizaje de robots que permite a Digit, un robot humanoide, aprender a bailar en cuestión de horas. Este avance en la robótica podría revolucionar la forma en que los robots interactúan…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-11-digit-el-robot-que-aprende-a-bailar-con-ia.md"
+    },
+    {
+      "title": "Modelos de lenguaje avanzan en la detección de vulnerabilidades en Linux",
+      "category": "ia",
+      "date": "2026-04-11",
+      "slug": "modelos-de-lenguaje-avanzan-en-la-deteccion-de-vulner-2",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Los modelos de lenguaje han avanzado significativamente en la detección de vulnerabilidades en el código de Linux, lo que podría cambiar la forma en que se realizan los análisis de seguridad en el futuro.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-11-modelos-de-lenguaje-avanzan-en-la-deteccion-de-vulner-2.md"
+    },
+    {
+      "title": "Victima de stalking demanda a OpenAI por ChatGPT que alimentó delirios de su agresor",
+      "category": "ia",
+      "date": "2026-04-11",
+      "slug": "victima-de-stalking-demanda-a-openai-por-chatgpt-que-al",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Una mujer de Silicon Valley ha sido víctima de stalking después de que su ex novio, un empresario, se convenció de que había descubierto un tratamiento para el síndrome de apnea del sueño gracias a ChatGPT. Ahora, la víctima demanda a…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-11-victima-de-stalking-demanda-a-openai-por-chatgpt-que-al.md"
+    },
+    {
+      "title": "AMD anuncia soporte para RDNA 4m en drivers RadeonSI y RADV",
+      "category": "linux",
+      "date": "2026-04-11",
+      "slug": "amd-anuncia-soporte-para-rdna-4m-en-drivers-radeonsi-y-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "AMD ha publicado parches para los drivers RadeonSI y RADV que permitirán la compatibilidad con la tecnología RDNA 4m, una versión avanzada de la arquitectura de gráficos RDNA 4. Esta actualización es relevante para los desarrolladores y…",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-11-amd-anuncia-soporte-para-rdna-4m-en-drivers-radeonsi-y-.md"
+    },
+    {
+      "title": "Cómo excluir plataformas al liberar un paquete en Linux",
+      "category": "linux",
+      "date": "2026-04-11",
+      "slug": "como-excluir-plataformas-al-liberar-un-paquete-en-linux",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador de ROS (Robot Operating System) se enfrenta a problemas de compilación en Fedora debido a la falta de dependencias. Esto genera errores en la CI (Integración Continua) diarios. ¿Cómo evitar esto?",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-11-como-excluir-plataformas-al-liberar-un-paquete-en-linux.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-11",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos-8",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Red Hat, Slackware, SUSE y Ubuntu. Estas actualizaciones corrigen vulnerabilidades críticas en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-11-actualizaciones-de-seguridad-para-sistemas-operativos-8.md"
+    },
+    {
+      "title": "Propuesta de driver de archivo VMUFAT para el kernel de Linux",
+      "category": "linux",
+      "date": "2026-04-11",
+      "slug": "propuesta-de-driver-de-archivo-vmufat-para-el-kernel-de",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha presentado una propuesta de driver de archivo para acceder a la memoria flash del Sega Dreamcast. Este dispositivo de la década de 1990 cuenta con un sistema de archivos FAT que ahora podrá ser utilizado de manera…",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-11-propuesta-de-driver-de-archivo-vmufat-para-el-kernel-de.md"
+    },
+    {
+      "title": "Nueva placa de expansión para Raspberry Pi con conectividad 4G/5G",
+      "category": "linux",
+      "date": "2026-04-11",
+      "slug": "nueva-placa-de-expansion-para-raspberry-pi-con-conectiv",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Waveshare ha lanzado una nueva placa de expansión para Raspberry Pi que ofrece una amplia gama de características, incluyendo conectividad 4G/5G, Ethernet dual, y más. Esta placa es ideal para proyectos de IoT y automatización.",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-11-nueva-placa-de-expansion-para-raspberry-pi-con-conectiv.md"
+    },
+    {
       "title": "Raspberry Pi recibe HAT de radio digital con AM, FM, DAB y HD",
       "category": "embebidos",
       "date": "2026-04-10",
