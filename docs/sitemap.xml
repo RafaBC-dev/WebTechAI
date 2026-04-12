@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-11</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-12</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-12</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-museo-interactivo-con-raspberry-pi-la-tecnologia-detras.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-escritura-digital-en-un-escritorio-diy-con-raspberry-pi.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-nueva-placa-de-desarrollo-stm32u575-con-conectividad-de.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-digit-aprende-a-bailar-con-ia-en-cuestion-de-horas-2.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-plataforma-de-confianza-cero-para-gobernar-sistemas-aut.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-robotica-en-la-calle-experiencia-de-robotizacion-para-e.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-amd-gaia-permite-crear-agentes-de-ia-personalizados-a-t.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-multimodal-embedding-y-reranker-con-sentence-transforme.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-aprende-en-el-trabajo-altk-evolve-revoluciona-la-inteli.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-proyectos-impresionantes-para-tu-raspberry-pi-5-de-1gb.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-victima-de-stalking-denuncia-a-openai-por-chatgpt-que-a.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-actualizaciones-de-seguridad-para-sistemas-operativos-9.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-excluir-plataformas-al-liberar-un-paquete-en-ros.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-beaglev-ahead-un-ordenador-de-mesa-unico-con-risc-v-y-l.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-nueva-placa-de-expansion-para-raspberry-pi-con-ethernet.md</loc><lastmod>2026-04-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-11-convierte-un-otamatone-en-un-sintetizador-trautonium-co.md</loc><lastmod>2026-04-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-11-bee-write-back-un-escritorio-diy-con-raspberry-pi-y-tec.md</loc><lastmod>2026-04-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-11-raspberry-pi-gana-un-hat-de-radio-digital-con-am-fm-dab.md</loc><lastmod>2026-04-11</lastmod><priority>0.8</priority></url>

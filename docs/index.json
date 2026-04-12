@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Museo interactivo con Raspberry Pi: la tecnología detrás de la magia",
+      "category": "embebidos",
+      "date": "2026-04-12",
+      "slug": "museo-interactivo-con-raspberry-pi-la-tecnologia-detras",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "El V&A Museum of Childhood se ha convertido en un museo interactivo gracias a la tecnología de Clay Interactive y Raspberry Pi. Los visitantes pueden desencadenar sonidos, videos, luces y historias simplemente moviéndose o presionando…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-12-museo-interactivo-con-raspberry-pi-la-tecnologia-detras.md"
+    },
+    {
+      "title": "Escritura digital en un escritorio DIY con Raspberry Pi y pantalla OLED",
+      "category": "embebidos",
+      "date": "2026-04-12",
+      "slug": "escritura-digital-en-un-escritorio-diy-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un ingeniero ha creado un escritorio DIY llamado Bee Write Back, que utiliza una Raspberry Pi Zero 2 W y una pantalla OLED para ofrecer una experiencia de escritura sin distracciones.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-12-escritura-digital-en-un-escritorio-diy-con-raspberry-pi.md"
+    },
+    {
+      "title": "Nueva placa de desarrollo STM32U575 con conectividad de pantalla y microSD",
+      "category": "embebidos",
+      "date": "2026-04-12",
+      "slug": "nueva-placa-de-desarrollo-stm32u575-con-conectividad-de",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Maker Go ha lanzado una nueva placa de desarrollo basada en el microcontrolador STM32U5, que ofrece una conectividad de pantalla y un slot de microSD. Esta placa es ideal para proyectos de interfaz de usuario compacta.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-12-nueva-placa-de-desarrollo-stm32u575-con-conectividad-de.md"
+    },
+    {
+      "title": "Digit aprende a bailar con IA en cuestión de horas",
+      "category": "robotica",
+      "date": "2026-04-12",
+      "slug": "digit-aprende-a-bailar-con-ia-en-cuestion-de-horas-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa Unitree ha logrado entrenar a su robot Digit para bailar en apenas unas horas utilizando inteligencia artificial. Este logro abre nuevas posibilidades para la robótica y la automatización.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-12-digit-aprende-a-bailar-con-ia-en-cuestion-de-horas-2.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para gobernar sistemas autónomos a gran escala",
+      "category": "robotica",
+      "date": "2026-04-12",
+      "slug": "plataforma-de-confianza-cero-para-gobernar-sistemas-aut",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad y la confianza son fundamentales en la era de la automatización y la IA. La plataforma GoZTASP ofrece una solución innovadora para gobernar sistemas autónomos en entornos reales y críticos, garantizando la seguridad y la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-12-plataforma-de-confianza-cero-para-gobernar-sistemas-aut.md"
+    },
+    {
+      "title": "Robótica en la calle: experiencia de robotización para el público",
+      "category": "robotica",
+      "date": "2026-04-12",
+      "slug": "robotica-en-la-calle-experiencia-de-robotizacion-para-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El RAI Institute ha lanzado un experimento de robotización en un centro comercial para que la gente pueda interactuar con robots de vanguardia y comprender mejor cómo se perciben y utilizan en entornos cotidianos.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-12-robotica-en-la-calle-experiencia-de-robotizacion-para-e.md"
+    },
+    {
+      "title": "AMD GAIA permite crear agentes de IA personalizados a través de chat",
+      "category": "ia",
+      "date": "2026-04-12",
+      "slug": "amd-gaia-permite-crear-agentes-de-ia-personalizados-a-t",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "python"
+      ],
+      "preview": "AMD ha lanzado una actualización de su proyecto GAIA, que ahora permite a los usuarios crear agentes de IA personalizados a través de un chat. Esto se considera un paso importante hacia la creación de aplicaciones de IA más accesibles y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-12-amd-gaia-permite-crear-agentes-de-ia-personalizados-a-t.md"
+    },
+    {
+      "title": "Multimodal Embedding y Reranker con Sentence Transformers",
+      "category": "ia",
+      "date": "2026-04-12",
+      "slug": "multimodal-embedding-y-reranker-con-sentence-transforme",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La biblioteca Sentence Transformers ha lanzado una actualización significativa que permite a los desarrolladores trabajar con multimodalidad, es decir, con textos, imágenes, audio y videos, utilizando la misma API. Esto abre nuevas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-12-multimodal-embedding-y-reranker-con-sentence-transforme.md"
+    },
+    {
+      "title": "Aprende en el trabajo: ALTK-Evolve revoluciona la inteligencia artificial",
+      "category": "ia",
+      "date": "2026-04-12",
+      "slug": "aprende-en-el-trabajo-altk-evolve-revoluciona-la-inteli",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "benchmarks"
+      ],
+      "preview": "La mayoría de los agentes de inteligencia artificial repiten errores y no transfieren lecciones a nuevas situaciones debido a que se basan en transcripciones en lugar de aprender principios. ALTK-Evolve cambia esto.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-12-aprende-en-el-trabajo-altk-evolve-revoluciona-la-inteli.md"
+    },
+    {
+      "title": "Proyectos impresionantes para tu Raspberry Pi 5 de 1GB",
+      "category": "ia",
+      "date": "2026-04-12",
+      "slug": "proyectos-impresionantes-para-tu-raspberry-pi-5-de-1gb",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La Raspberry Pi 5 de 1GB ofrece una opción más asequible para usuarios que necesitan procesamiento adicional y/o características como un conector PCIe. En este artículo, exploramos proyectos que aprovechan al máximo el rendimiento de la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-12-proyectos-impresionantes-para-tu-raspberry-pi-5-de-1gb.md"
+    },
+    {
+      "title": "Victima de stalking denuncia a OpenAI por ChatGPT que alimentó delirios del acosador",
+      "category": "ia",
+      "date": "2026-04-12",
+      "slug": "victima-de-stalking-denuncia-a-openai-por-chatgpt-que-a",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Una mujer de Silicon Valley ha sido víctima de stalking por su ex pareja, quien se cree que ha descubierto una cura para el síndrome de apnea del sueño gracias a ChatGPT. La víctima ahora demanda a OpenAI por no haber tomado medidas para…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-12-victima-de-stalking-denuncia-a-openai-por-chatgpt-que-a.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-12",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativos-9",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Red Hat, Slackware, SUSE y Ubuntu. Estas actualizaciones corregen vulnerabilidades críticas y mejoran…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-12-actualizaciones-de-seguridad-para-sistemas-operativos-9.md"
+    },
+    {
+      "title": "Excluir plataformas al liberar un paquete en ROS",
+      "category": "linux",
+      "date": "2026-04-12",
+      "slug": "excluir-plataformas-al-liberar-un-paquete-en-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador de ROS ha enfrentado problemas con la integración continua (CI) después de liberar un paquete debido a dependencias no disponibles en Fedora. Esto ha generado correos electrónicos diarios con errores de compilación en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-12-excluir-plataformas-al-liberar-un-paquete-en-ros.md"
+    },
+    {
+      "title": "BeagleV Ahead: un ordenador de mesa único con RISC-V y Linux 7.1",
+      "category": "linux",
+      "date": "2026-04-12",
+      "slug": "beaglev-ahead-un-ordenador-de-mesa-unico-con-risc-v-y-l",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "El BeagleV Ahead es un ordenador de mesa único que utiliza el procesador RISC-V y el kernel Linux 7.1. Ahora, gracias a las actualizaciones de Device Tree, el BeagleV Ahead puede mostrar imágenes en una pantalla HDMI. Esto es una gran…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-12-beaglev-ahead-un-ordenador-de-mesa-unico-con-risc-v-y-l.md"
+    },
+    {
+      "title": "Nueva placa de expansión para Raspberry Pi con Ethernet, RS485 y 4G LTE/5G",
+      "category": "linux",
+      "date": "2026-04-12",
+      "slug": "nueva-placa-de-expansion-para-raspberry-pi-con-ethernet",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "Waveshare ha lanzado una nueva placa de expansión para Raspberry Pi llamada CM5-ETH-RS485-4G-BASE, que ofrece una variedad de características avanzadas, incluyendo Ethernet, RS485 y conectividad 4G LTE/5G.",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-12-nueva-placa-de-expansion-para-raspberry-pi-con-ethernet.md"
+    },
+    {
       "title": "Convierte un Otamatone en un sintetizador Trautonium con este hack impresionante",
       "category": "embebidos",
       "date": "2026-04-11",
