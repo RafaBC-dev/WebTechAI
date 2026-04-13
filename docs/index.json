@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Nueva placa de desarrollo STM32U575 con conectores de display y microSD",
+      "category": "embebidos",
+      "date": "2026-04-13",
+      "slug": "nueva-placa-de-desarrollo-stm32u575-con-conectores-de-d",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "placas-de-desarrollo"
+      ],
+      "preview": "Maker Go ha lanzado una nueva placa de desarrollo STM32U575, una opción compacta para proyectos de interfaz de usuario (UI) que aprovecha el procesador ultra-bajo consumo STM32U5.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-13-nueva-placa-de-desarrollo-stm32u575-con-conectores-de-d.md"
+    },
+    {
+      "title": "La historia hackeable: Clay Interactive y Raspberry Pi en el Young V&A",
+      "category": "embebidos",
+      "date": "2026-04-13",
+      "slug": "la-historia-hackeable-clay-interactive-y-raspberry-pi-e",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El museo de la infancia se ha convertido en un lugar interactivo gracias a la tecnología de Clay Interactive y Raspberry Pi. Los visitantes pueden activar sonidos, videos, luces y historias simplemente moviéndose o presionando botones.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-13-la-historia-hackeable-clay-interactive-y-raspberry-pi-e.md"
+    },
+    {
+      "title": "ROS Adopters: directorio de proyectos que utilizan ROS",
+      "category": "robotica",
+      "date": "2026-04-13",
+      "slug": "ros-adopters-directorio-de-proyectos-que-utilizan-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS ha lanzado un nuevo directorio que muestra proyectos y organizaciones que utilizan ROS en cualquier capacidad. Esto permite a los desarrolladores y empresas mostrar su trabajo y contribuir a la comunidad.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-13-ros-adopters-directorio-de-proyectos-que-utilizan-ros.md"
+    },
+    {
+      "title": "Digit, el robot que aprende a bailar con IA en cuestión de horas",
+      "category": "robotica",
+      "date": "2026-04-13",
+      "slug": "digit-el-robot-que-aprende-a-bailar-con-ia-en-cuestion-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa que creó el robot Digit ha logrado un avance significativo en la robótica al desarrollar un modelo de inteligencia artificial que permite a su robot aprender a realizar tareas físicas complejas en un plazo muy corto. Esto podría…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-13-digit-el-robot-que-aprende-a-bailar-con-ia-en-cuestion-.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para sistemas autónomos a gran escala",
+      "category": "robotica",
+      "date": "2026-04-13",
+      "slug": "plataforma-de-confianza-cero-para-sistemas-autonomos--3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad de los sistemas autónomos es un tema cada vez más importante en diversas industrias. La plataforma GoZTASP ofrece una solución innovadora para garantizar la confianza y la seguridad en estos sistemas.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-13-plataforma-de-confianza-cero-para-sistemas-autonomos--3.md"
+    },
+    {
+      "title": "Entendiendo la percepción humana hacia los robots: una experiencia única",
+      "category": "robotica",
+      "date": "2026-04-13",
+      "slug": "entendiendo-la-percepcion-humana-hacia-los-robots-una-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "En verano de 2025, el RAI Institute organizó una experiencia de robotica en vivo en el CambridgeSide mall, con el objetivo de que la gente pudiera interactuar con robots de vanguardia y comprender mejor cómo se perciben y utilizan en…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-13-entendiendo-la-percepcion-humana-hacia-los-robots-una-e.md"
+    },
+    {
+      "title": "Proyectos para tu Raspberry Pi 5 de 1GB: ideas para aprovechar al máximo",
+      "category": "ia",
+      "date": "2026-04-13",
+      "slug": "proyectos-para-tu-raspberry-pi-5-de-1gb-ideas-para-apro",
+      "tags": [
+        "raspberry-pi",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "La Raspberry Pi 5 de 1GB es una opción más asequible para usuarios que necesitan procesamiento adicional y características como un conector PCIe. En este artículo, exploramos proyectos que aprovechan al máximo el rendimiento de esta…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-13-proyectos-para-tu-raspberry-pi-5-de-1gb-ideas-para-apro.md"
+    },
+    {
+      "title": "Bancos de EE.UU. prueban modelo de IA de Anthropic para detectar vulnerabilidades",
+      "category": "ia",
+      "date": "2026-04-13",
+      "slug": "bancos-de-eeuu-prueban-modelo-de-ia-de-anthropic-para-d",
+      "tags": [
+        "ia-local",
+        "linux",
+        "python"
+      ],
+      "preview": "El secretario del Tesoro Scott Bessent y el presidente de la Reserva Federal Jerome Powell han animado a los ejecutivos de varios bancos a probar el modelo de IA Mythos de Anthropic para detectar vulnerabilidades en sus sistemas. Esta…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-13-bancos-de-eeuu-prueban-modelo-de-ia-de-anthropic-para-d.md"
+    },
+    {
+      "title": "Homture Magic Frame: un marco inteligente con IA y radar mmWave",
+      "category": "ia",
+      "date": "2026-04-13",
+      "slug": "homture-magic-frame-un-marco-inteligente-con-ia-y-radar",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El Homture Magic Frame es un marco inteligente que combina la IA generativa con un radar mmWave de 60 GHz para crear ventanas de recuerdo interactivas. Ahora se puede comprar con un descuento del 29% en Amazon.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-13-homture-magic-frame-un-marco-inteligente-con-ia-y-radar.md"
+    },
+    {
+      "title": "Transformadores de Sentencias: multimodalidad y modelos de reordenación",
+      "category": "ia",
+      "date": "2026-04-13",
+      "slug": "transformadores-de-sentencias-multimodalidad-y-modelos-",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "python"
+      ],
+      "preview": "La biblioteca de transformadores de sentencias ha lanzado una actualización significativa que permite la codificación y comparación de textos, imágenes, audio y videos utilizando la misma API familiar. Esto abre nuevas posibilidades para…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-13-transformadores-de-sentencias-multimodalidad-y-modelos-.md"
+    },
+    {
+      "title": "Mejoras significativas en Linux 7.1 para AMD y Intel",
+      "category": "linux",
+      "date": "2026-04-13",
+      "slug": "mejoras-significativas-en-linux-71-para-amd-y-intel",
+      "tags": [
+        "linux",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La próxima versión de Linux, Linux 7.1, está a punto de ser lanzada y traerá consigo mejoras importantes para los usuarios de AMD y Intel. Entre las novedades se encuentran la eliminación del soporte para CPU Intel 486, la habilitación de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-13-mejoras-significativas-en-linux-71-para-amd-y-intel.md"
+    },
+    {
+      "title": "Linux 7.0: Un nuevo kernel con mejoras significativas y soporte a hardware",
+      "category": "linux",
+      "date": "2026-04-13",
+      "slug": "linux-70-un-nuevo-kernel-con-mejoras-significativas-y-s",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel Linux 7.0 ha sido lanzado con una gran cantidad de mejoras y cambios, incluyendo soporte a nuevos hardware, optimizaciones y una versión mejorada del sistema de archivos XFS. Esto es relevante ahora mismo porque Linux 7.0 estará…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-13-linux-70-un-nuevo-kernel-con-mejoras-significativas-y-s.md"
+    },
+    {
+      "title": "Kernel Linux 7.0: Nuevas características y mejoras",
+      "category": "linux",
+      "date": "2026-04-13",
+      "slug": "kernel-linux-70-nuevas-caracteristicas-y-mejoras",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel Linux 7.0 ha sido lanzado con varias características y mejoras importantes, incluyendo la eliminación del estado experimental de código Rust y la adición de un mecanismo de filtrado para operaciones de io_uring.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-13-kernel-linux-70-nuevas-caracteristicas-y-mejoras.md"
+    },
+    {
+      "title": "Arreglo de vulnerabilidad en Linux: protección para usuarios no privilegiados",
+      "category": "linux",
+      "date": "2026-04-13",
+      "slug": "arreglo-de-vulnerabilidad-en-linux-proteccion-para-usua",
+      "tags": [
+        "linux",
+        "seguridad",
+        "vulnerabilidad"
+      ],
+      "preview": "La comunidad de desarrolladores de Linux ha encontrado y arreglado una vulnerabilidad crítica en el kernel que permitía a usuarios no privilegiados acceder a memoria no válida. La vulnerabilidad se podía explotar mediante certificados…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-13-arreglo-de-vulnerabilidad-en-linux-proteccion-para-usua.md"
+    },
+    {
+      "title": "UmbrelOS: un sistema operativo para nubes personales con interfaz fácil de usar",
+      "category": "linux",
+      "date": "2026-04-13",
+      "slug": "umbrelos-un-sistema-operativo-para-nubes-personales-con",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "UmbrelOS es un sistema operativo basado en Debian que permite crear una nube personal en casa con una interfaz web sencilla y fácil de usar. Puedes instalarlo en dispositivos como Raspberry Pi, mini ordenadores y ordenadores antiguos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-13-umbrelos-un-sistema-operativo-para-nubes-personales-con.md"
+    },
+    {
       "title": "Museo interactivo con Raspberry Pi: la tecnología detrás de la magia",
       "category": "embebidos",
       "date": "2026-04-12",
