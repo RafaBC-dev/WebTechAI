@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Apr 2026 09:01:09 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Apr 2026 08:22:48 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Trail Mate: firmware open-source para comunicación off-grid con GPS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-trail-mate-firmware-open-source-para-comunicacion-off-g.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-trail-mate-firmware-open-source-para-comunicacion-off-g.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de desarrollo de firmware ha lanzado Trail Mate, un proyecto open-source que permite comunicación off-grid y compartir coordenadas GPS sin necesidad de un smartphone. Este firmware está diseñado para ESP32 handhelds como el…</description>
+  </item>
+  <item>
+    <title>10 Proyectos de Relojes Creativos con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-10-proyectos-de-relojes-creativos-con-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-10-proyectos-de-relojes-creativos-con-raspberry-pi.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El mundo de la robótica y la electrónica ha dado lugar a una variedad de proyectos innovadores y creativos, como los relojes que utilizan Raspberry Pi. Estos dispositivos permiten a los usuarios crear dispositivos inteligentes y…</description>
+  </item>
+  <item>
+    <title>Controlador inteligente para escritorios plegables con integración con Home Assistant</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-controlador-inteligente-para-escritorios-plegables-con-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-controlador-inteligente-para-escritorios-plegables-con-.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto DeskUp Pro permite automatizar el control de escritorios plegables inteligentes, integrándolos con sistemas de hogar como Home Assistant y Homey Pro. Esto permite a los usuarios programar recordatorios de salud, controlar el…</description>
+  </item>
+  <item>
+    <title>La tecnología detrás de las interacciones en el Young V&amp;A</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-la-tecnologia-detras-de-las-interacciones-en-el-young-v.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-la-tecnologia-detras-de-las-interacciones-en-el-young-v.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El Young V&amp;A, un museo interactivo en Londres, utiliza tecnología de vanguardia para ofrecer experiencias inmersivas a sus visitantes. Clay Interactive ha desarrollado instalaciones innovadoras que permiten a los visitantes interactuar con…</description>
+  </item>
+  <item>
+    <title>ROS 2 Jazzy Jalisco: 150 nuevos paquetes y 540 actualizaciones disponibles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-ros-2-jazzy-jalisco-150-nuevos-paquetes-y-540-actualiza.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-ros-2-jazzy-jalisco-150-nuevos-paquetes-y-540-actualiza.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La versión Jazzy Jalisco de ROS 2 ha sido actualizada con 150 nuevos paquetes y 540 actualizaciones, lo que significa que los desarrolladores de robótica tienen acceso a una gran cantidad de herramientas y librerías para crear sistemas más…</description>
+  </item>
+  <item>
+    <title>Lámpara de suelo que hace tareas domésticas con IA y músculos artificiales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-lampara-de-suelo-que-hace-tareas-domesticas-con-ia-y-mu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-lampara-de-suelo-que-hace-tareas-domesticas-con-ia-y-mu.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa Syncere ha presentado Lume, una lámpara de suelo que utiliza inteligencia artificial y músculos artificiales para realizar tareas domésticas como hacer la cama y doblar la ropa. Aunque parece prometedor, hay poca información…</description>
+  </item>
+  <item>
+    <title>Robótica en la calle: experiencia de la gente con robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-robotica-en-la-calle-experiencia-de-la-gente-con-robots.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-robotica-en-la-calle-experiencia-de-la-gente-con-robots.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El RAI Institute ha creado un espacio de experiencia con robots en un centro comercial para entender cómo la gente se siente al interactuar con ellos.</description>
+  </item>
+  <item>
+    <title>Plataforma de confianza cero para sistemas autónomos a escala de misión</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-plataforma-de-confianza-cero-para-sistemas-autonomos--4.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-14-plataforma-de-confianza-cero-para-sistemas-autonomos--4.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La seguridad y la confianza son fundamentales en la era de la automatización y la IA. Una plataforma reciente llamada GoZTASP busca abordar estos desafíos en sistemas autónomos a gran escala, como robots, sensores y humanos.</description>
+  </item>
+  <item>
+    <title>Transformadores de oraciones: multimodalidad y reordenación de modelos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-transformadores-de-oraciones-multimodalidad-y-reordenac.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-transformadores-de-oraciones-multimodalidad-y-reordenac.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La biblioteca Sentence Transformers ha lanzado una actualización importante que permite codificar y comparar textos, imágenes, audio y videos utilizando la misma API. Esto abre nuevas posibilidades para aplicaciones como búsqueda…</description>
+  </item>
+  <item>
+    <title>Proyectos divertidos para tu Raspberry Pi 5 de 1GB</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-proyectos-divertidos-para-tu-raspberry-pi-5-de-1gb.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-proyectos-divertidos-para-tu-raspberry-pi-5-de-1gb.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La Raspberry Pi 5 de 1GB es una opción más asequible para proyectos que requieren procesamiento y características adicionales, como una conexión PCIe para agregar una tarjeta SSD NVMe o un HAT de IA.</description>
+  </item>
+  <item>
+    <title>Luz reactiva de audio: ¿por qué es tan difícil hacerla bien?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-luz-reactiva-de-audio-por-que-es-tan-dificil-hacerla-bi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-luz-reactiva-de-audio-por-que-es-tan-dificil-hacerla-bi.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un proyecto de luz reactiva de audio popular ha sido revisado por su creador, revelando los desafíos de crear un sistema que simule la percepción humana de la música.</description>
+  </item>
+  <item>
+    <title>Aprende en el trabajo: ALTK-Evolve para agentes de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-aprende-en-el-trabajo-altk-evolve-para-agentes-de-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-14-aprende-en-el-trabajo-altk-evolve-para-agentes-de-ia.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los agentes de IA repiten errores y no transfieren lecciones a nuevas situaciones debido a su incapacidad para aprender principios. ALTK-Evolve cambia esto.</description>
+  </item>
+  <item>
+    <title>Reconstruyendo Crazy Taxi: un proyecto de código abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-14-reconstruyendo-crazy-taxi-un-proyecto-de-codigo-abierto.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-14-reconstruyendo-crazy-taxi-un-proyecto-de-codigo-abierto.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un desarrollador ha llevado a cabo un proyecto ambicioso para recrear el clásico juego Crazy Taxi de manera abierta, aprovechando la tecnología de emulación y la colaboración en línea.</description>
+  </item>
+  <item>
+    <title>Linux 7.0: Nuevas características y mejoras en arquitecturas Arm, RISC-V y MIPS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-14-linux-70-nuevas-caracteristicas-y-mejoras-en-arquitectu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-14-linux-70-nuevas-caracteristicas-y-mejoras-en-arquitectu.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Linus Torvalds ha lanzado la versión 7.0 de Linux, que incluye mejoras en arquitecturas Arm, RISC-V y MIPS, así como nuevas características en el kernel y herramientas de desarrollo.</description>
+  </item>
+  <item>
+    <title>Gentoo se porta a GNU Hurd: una alternativa a Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-14-gentoo-se-porta-a-gnu-hurd-una-alternativa-a-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-14-gentoo-se-porta-a-gnu-hurd-una-alternativa-a-linux.md</guid>
+    <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La distribución Gentoo Linux ha sido portada al kernel GNU Hurd, una alternativa a Linux con una arquitectura de microkernel. Esta noticia puede ser importante para los usuarios de Linux que buscan opciones más seguras y flexibles.</description>
+  </item>
   <item>
     <title>Nueva placa de desarrollo STM32U575 con conectores de display y microSD</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-13-nueva-placa-de-desarrollo-stm32u575-con-conectores-de-d.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>UmbrelOS es un sistema operativo basado en Debian que permite crear una nube personal en casa con una interfaz web sencilla y fácil de usar. Puedes instalarlo en dispositivos como Raspberry Pi, mini ordenadores y ordenadores antiguos.</description>
-  </item>
-  <item>
-    <title>Museo interactivo con Raspberry Pi: la tecnología detrás de la magia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-museo-interactivo-con-raspberry-pi-la-tecnologia-detras.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-museo-interactivo-con-raspberry-pi-la-tecnologia-detras.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El V&amp;A Museum of Childhood se ha convertido en un museo interactivo gracias a la tecnología de Clay Interactive y Raspberry Pi. Los visitantes pueden desencadenar sonidos, videos, luces y historias simplemente moviéndose o presionando…</description>
-  </item>
-  <item>
-    <title>Escritura digital en un escritorio DIY con Raspberry Pi y pantalla OLED</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-escritura-digital-en-un-escritorio-diy-con-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-escritura-digital-en-un-escritorio-diy-con-raspberry-pi.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha creado un escritorio DIY llamado Bee Write Back, que utiliza una Raspberry Pi Zero 2 W y una pantalla OLED para ofrecer una experiencia de escritura sin distracciones.</description>
-  </item>
-  <item>
-    <title>Nueva placa de desarrollo STM32U575 con conectividad de pantalla y microSD</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-nueva-placa-de-desarrollo-stm32u575-con-conectividad-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-12-nueva-placa-de-desarrollo-stm32u575-con-conectividad-de.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Maker Go ha lanzado una nueva placa de desarrollo basada en el microcontrolador STM32U5, que ofrece una conectividad de pantalla y un slot de microSD. Esta placa es ideal para proyectos de interfaz de usuario compacta.</description>
-  </item>
-  <item>
-    <title>Digit aprende a bailar con IA en cuestión de horas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-digit-aprende-a-bailar-con-ia-en-cuestion-de-horas-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-digit-aprende-a-bailar-con-ia-en-cuestion-de-horas-2.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa Unitree ha logrado entrenar a su robot Digit para bailar en apenas unas horas utilizando inteligencia artificial. Este logro abre nuevas posibilidades para la robótica y la automatización.</description>
-  </item>
-  <item>
-    <title>Plataforma de confianza cero para gobernar sistemas autónomos a gran escala</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-plataforma-de-confianza-cero-para-gobernar-sistemas-aut.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-plataforma-de-confianza-cero-para-gobernar-sistemas-aut.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La seguridad y la confianza son fundamentales en la era de la automatización y la IA. La plataforma GoZTASP ofrece una solución innovadora para gobernar sistemas autónomos en entornos reales y críticos, garantizando la seguridad y la…</description>
-  </item>
-  <item>
-    <title>Robótica en la calle: experiencia de robotización para el público</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-robotica-en-la-calle-experiencia-de-robotizacion-para-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-12-robotica-en-la-calle-experiencia-de-robotizacion-para-e.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El RAI Institute ha lanzado un experimento de robotización en un centro comercial para que la gente pueda interactuar con robots de vanguardia y comprender mejor cómo se perciben y utilizan en entornos cotidianos.</description>
-  </item>
-  <item>
-    <title>AMD GAIA permite crear agentes de IA personalizados a través de chat</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-amd-gaia-permite-crear-agentes-de-ia-personalizados-a-t.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-amd-gaia-permite-crear-agentes-de-ia-personalizados-a-t.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>AMD ha lanzado una actualización de su proyecto GAIA, que ahora permite a los usuarios crear agentes de IA personalizados a través de un chat. Esto se considera un paso importante hacia la creación de aplicaciones de IA más accesibles y…</description>
-  </item>
-  <item>
-    <title>Multimodal Embedding y Reranker con Sentence Transformers</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-multimodal-embedding-y-reranker-con-sentence-transforme.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-multimodal-embedding-y-reranker-con-sentence-transforme.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La biblioteca Sentence Transformers ha lanzado una actualización significativa que permite a los desarrolladores trabajar con multimodalidad, es decir, con textos, imágenes, audio y videos, utilizando la misma API. Esto abre nuevas…</description>
-  </item>
-  <item>
-    <title>Aprende en el trabajo: ALTK-Evolve revoluciona la inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-aprende-en-el-trabajo-altk-evolve-revoluciona-la-inteli.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-aprende-en-el-trabajo-altk-evolve-revoluciona-la-inteli.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La mayoría de los agentes de inteligencia artificial repiten errores y no transfieren lecciones a nuevas situaciones debido a que se basan en transcripciones en lugar de aprender principios. ALTK-Evolve cambia esto.</description>
-  </item>
-  <item>
-    <title>Proyectos impresionantes para tu Raspberry Pi 5 de 1GB</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-proyectos-impresionantes-para-tu-raspberry-pi-5-de-1gb.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-proyectos-impresionantes-para-tu-raspberry-pi-5-de-1gb.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La Raspberry Pi 5 de 1GB ofrece una opción más asequible para usuarios que necesitan procesamiento adicional y/o características como un conector PCIe. En este artículo, exploramos proyectos que aprovechan al máximo el rendimiento de la…</description>
-  </item>
-  <item>
-    <title>Victima de stalking denuncia a OpenAI por ChatGPT que alimentó delirios del acosador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-victima-de-stalking-denuncia-a-openai-por-chatgpt-que-a.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-12-victima-de-stalking-denuncia-a-openai-por-chatgpt-que-a.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Una mujer de Silicon Valley ha sido víctima de stalking por su ex pareja, quien se cree que ha descubierto una cura para el síndrome de apnea del sueño gracias a ChatGPT. La víctima ahora demanda a OpenAI por no haber tomado medidas para…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-actualizaciones-de-seguridad-para-sistemas-operativos-9.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-actualizaciones-de-seguridad-para-sistemas-operativos-9.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Red Hat, Slackware, SUSE y Ubuntu. Estas actualizaciones corregen vulnerabilidades críticas y mejoran…</description>
-  </item>
-  <item>
-    <title>Excluir plataformas al liberar un paquete en ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-excluir-plataformas-al-liberar-un-paquete-en-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-excluir-plataformas-al-liberar-un-paquete-en-ros.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un desarrollador de ROS ha enfrentado problemas con la integración continua (CI) después de liberar un paquete debido a dependencias no disponibles en Fedora. Esto ha generado correos electrónicos diarios con errores de compilación en…</description>
-  </item>
-  <item>
-    <title>BeagleV Ahead: un ordenador de mesa único con RISC-V y Linux 7.1</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-beaglev-ahead-un-ordenador-de-mesa-unico-con-risc-v-y-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-beaglev-ahead-un-ordenador-de-mesa-unico-con-risc-v-y-l.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El BeagleV Ahead es un ordenador de mesa único que utiliza el procesador RISC-V y el kernel Linux 7.1. Ahora, gracias a las actualizaciones de Device Tree, el BeagleV Ahead puede mostrar imágenes en una pantalla HDMI. Esto es una gran…</description>
-  </item>
-  <item>
-    <title>Nueva placa de expansión para Raspberry Pi con Ethernet, RS485 y 4G LTE/5G</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-nueva-placa-de-expansion-para-raspberry-pi-con-ethernet.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-12-nueva-placa-de-expansion-para-raspberry-pi-con-ethernet.md</guid>
-    <pubDate>Sun, 12 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Waveshare ha lanzado una nueva placa de expansión para Raspberry Pi llamada CM5-ETH-RS485-4G-BASE, que ofrece una variedad de características avanzadas, incluyendo Ethernet, RS485 y conectividad 4G LTE/5G.</description>
   </item>
 </channel>
 </rss>

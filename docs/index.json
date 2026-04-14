@@ -1,6 +1,215 @@
 {
   "news": [
     {
+      "title": "Trail Mate: firmware open-source para comunicación off-grid con GPS",
+      "category": "embebidos",
+      "date": "2026-04-14",
+      "slug": "trail-mate-firmware-open-source-para-comunicacion-off-g",
+      "tags": [
+        "robotica",
+        "esp32",
+        "linux"
+      ],
+      "preview": "La comunidad de desarrollo de firmware ha lanzado Trail Mate, un proyecto open-source que permite comunicación off-grid y compartir coordenadas GPS sin necesidad de un smartphone. Este firmware está diseñado para ESP32 handhelds como el…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-14-trail-mate-firmware-open-source-para-comunicacion-off-g.md"
+    },
+    {
+      "title": "10 Proyectos de Relojes Creativos con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-04-14",
+      "slug": "10-proyectos-de-relojes-creativos-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "electrónica"
+      ],
+      "preview": "El mundo de la robótica y la electrónica ha dado lugar a una variedad de proyectos innovadores y creativos, como los relojes que utilizan Raspberry Pi. Estos dispositivos permiten a los usuarios crear dispositivos inteligentes y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-14-10-proyectos-de-relojes-creativos-con-raspberry-pi.md"
+    },
+    {
+      "title": "Controlador inteligente para escritorios plegables con integración con Home Assistant",
+      "category": "embebidos",
+      "date": "2026-04-14",
+      "slug": "controlador-inteligente-para-escritorios-plegables-con-",
+      "tags": [
+        "robotica",
+        "esp32",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "El proyecto DeskUp Pro permite automatizar el control de escritorios plegables inteligentes, integrándolos con sistemas de hogar como Home Assistant y Homey Pro. Esto permite a los usuarios programar recordatorios de salud, controlar el…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-14-controlador-inteligente-para-escritorios-plegables-con-.md"
+    },
+    {
+      "title": "La tecnología detrás de las interacciones en el Young V&A",
+      "category": "embebidos",
+      "date": "2026-04-14",
+      "slug": "la-tecnologia-detras-de-las-interacciones-en-el-young-v",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El Young V&A, un museo interactivo en Londres, utiliza tecnología de vanguardia para ofrecer experiencias inmersivas a sus visitantes. Clay Interactive ha desarrollado instalaciones innovadoras que permiten a los visitantes interactuar con…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-14-la-tecnologia-detras-de-las-interacciones-en-el-young-v.md"
+    },
+    {
+      "title": "ROS 2 Jazzy Jalisco: 150 nuevos paquetes y 540 actualizaciones disponibles",
+      "category": "robotica",
+      "date": "2026-04-14",
+      "slug": "ros-2-jazzy-jalisco-150-nuevos-paquetes-y-540-actualiza",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La versión Jazzy Jalisco de ROS 2 ha sido actualizada con 150 nuevos paquetes y 540 actualizaciones, lo que significa que los desarrolladores de robótica tienen acceso a una gran cantidad de herramientas y librerías para crear sistemas más…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-14-ros-2-jazzy-jalisco-150-nuevos-paquetes-y-540-actualiza.md"
+    },
+    {
+      "title": "Lámpara de suelo que hace tareas domésticas con IA y músculos artificiales",
+      "category": "robotica",
+      "date": "2026-04-14",
+      "slug": "lampara-de-suelo-que-hace-tareas-domesticas-con-ia-y-mu",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La empresa Syncere ha presentado Lume, una lámpara de suelo que utiliza inteligencia artificial y músculos artificiales para realizar tareas domésticas como hacer la cama y doblar la ropa. Aunque parece prometedor, hay poca información…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-14-lampara-de-suelo-que-hace-tareas-domesticas-con-ia-y-mu.md"
+    },
+    {
+      "title": "Robótica en la calle: experiencia de la gente con robots",
+      "category": "robotica",
+      "date": "2026-04-14",
+      "slug": "robotica-en-la-calle-experiencia-de-la-gente-con-robots",
+      "tags": [
+        "robotica"
+      ],
+      "preview": "El RAI Institute ha creado un espacio de experiencia con robots en un centro comercial para entender cómo la gente se siente al interactuar con ellos.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-14-robotica-en-la-calle-experiencia-de-la-gente-con-robots.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para sistemas autónomos a escala de misión",
+      "category": "robotica",
+      "date": "2026-04-14",
+      "slug": "plataforma-de-confianza-cero-para-sistemas-autonomos--4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad y la confianza son fundamentales en la era de la automatización y la IA. Una plataforma reciente llamada GoZTASP busca abordar estos desafíos en sistemas autónomos a gran escala, como robots, sensores y humanos.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-14-plataforma-de-confianza-cero-para-sistemas-autonomos--4.md"
+    },
+    {
+      "title": "Transformadores de oraciones: multimodalidad y reordenación de modelos",
+      "category": "ia",
+      "date": "2026-04-14",
+      "slug": "transformadores-de-oraciones-multimodalidad-y-reordenac",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "La biblioteca Sentence Transformers ha lanzado una actualización importante que permite codificar y comparar textos, imágenes, audio y videos utilizando la misma API. Esto abre nuevas posibilidades para aplicaciones como búsqueda…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-14-transformadores-de-oraciones-multimodalidad-y-reordenac.md"
+    },
+    {
+      "title": "Proyectos divertidos para tu Raspberry Pi 5 de 1GB",
+      "category": "ia",
+      "date": "2026-04-14",
+      "slug": "proyectos-divertidos-para-tu-raspberry-pi-5-de-1gb",
+      "tags": [
+        "raspberry-pi",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La Raspberry Pi 5 de 1GB es una opción más asequible para proyectos que requieren procesamiento y características adicionales, como una conexión PCIe para agregar una tarjeta SSD NVMe o un HAT de IA.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-14-proyectos-divertidos-para-tu-raspberry-pi-5-de-1gb.md"
+    },
+    {
+      "title": "Luz reactiva de audio: ¿por qué es tan difícil hacerla bien?",
+      "category": "ia",
+      "date": "2026-04-14",
+      "slug": "luz-reactiva-de-audio-por-que-es-tan-dificil-hacerla-bi",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "electronica"
+      ],
+      "preview": "Un proyecto de luz reactiva de audio popular ha sido revisado por su creador, revelando los desafíos de crear un sistema que simule la percepción humana de la música.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-14-luz-reactiva-de-audio-por-que-es-tan-dificil-hacerla-bi.md"
+    },
+    {
+      "title": "Aprende en el trabajo: ALTK-Evolve para agentes de IA",
+      "category": "ia",
+      "date": "2026-04-14",
+      "slug": "aprende-en-el-trabajo-altk-evolve-para-agentes-de-ia",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "benchmarks"
+      ],
+      "preview": "Los agentes de IA repiten errores y no transfieren lecciones a nuevas situaciones debido a su incapacidad para aprender principios. ALTK-Evolve cambia esto.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-14-aprende-en-el-trabajo-altk-evolve-para-agentes-de-ia.md"
+    },
+    {
+      "title": "Reconstruyendo Crazy Taxi: un proyecto de código abierto",
+      "category": "linux",
+      "date": "2026-04-14",
+      "slug": "reconstruyendo-crazy-taxi-un-proyecto-de-codigo-abierto",
+      "tags": [
+        "codigo",
+        "linux",
+        "robotica"
+      ],
+      "preview": "Un desarrollador ha llevado a cabo un proyecto ambicioso para recrear el clásico juego Crazy Taxi de manera abierta, aprovechando la tecnología de emulación y la colaboración en línea.",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-14-reconstruyendo-crazy-taxi-un-proyecto-de-codigo-abierto.md"
+    },
+    {
+      "title": "Linux 7.0: Nuevas características y mejoras en arquitecturas Arm, RISC-V y MIPS",
+      "category": "linux",
+      "date": "2026-04-14",
+      "slug": "linux-70-nuevas-caracteristicas-y-mejoras-en-arquitectu",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Linus Torvalds ha lanzado la versión 7.0 de Linux, que incluye mejoras en arquitecturas Arm, RISC-V y MIPS, así como nuevas características en el kernel y herramientas de desarrollo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-14-linux-70-nuevas-caracteristicas-y-mejoras-en-arquitectu.md"
+    },
+    {
+      "title": "Gentoo se porta a GNU Hurd: una alternativa a Linux",
+      "category": "linux",
+      "date": "2026-04-14",
+      "slug": "gentoo-se-porta-a-gnu-hurd-una-alternativa-a-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La distribución Gentoo Linux ha sido portada al kernel GNU Hurd, una alternativa a Linux con una arquitectura de microkernel. Esta noticia puede ser importante para los usuarios de Linux que buscan opciones más seguras y flexibles.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-14-gentoo-se-porta-a-gnu-hurd-una-alternativa-a-linux.md"
+    },
+    {
       "title": "Nueva placa de desarrollo STM32U575 con conectores de display y microSD",
       "category": "embebidos",
       "date": "2026-04-13",
