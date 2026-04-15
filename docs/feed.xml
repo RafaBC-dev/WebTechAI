@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 14 Apr 2026 08:22:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 08:24:14 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>La PlayStation original se actualiza con tecnología moderna</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-la-playstation-original-se-actualiza-con-tecnologia-mod.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-la-playstation-original-se-actualiza-con-tecnologia-mod.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un entusiasta de la retroinformática ha transformado una PlayStation rota en una consola de juegos actualizada con tecnología de última generación. La consola ahora puede reproducir juegos en alta definición y con una resolución de 1080p.</description>
+  </item>
+  <item>
+    <title>Un tostador inteligente ejecuta DOOM: la historia detrás de la sorpresa tecnológica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-un-tostador-inteligente-ejecuta-doom-la-historia-detras.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-un-tostador-inteligente-ejecuta-doom-la-historia-detras.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un usuario descubre que su tostador inteligente Aeco Toastlab Elite tiene un procesador potente y una pantalla táctil, lo que le permite ejecutar el clásico juego de acción DOOM. La sorpresa no se detiene ahí, ya que el tostador también…</description>
+  </item>
+  <item>
+    <title>Plataforma de confianza cero para gobernar sistemas autónomos a gran escala</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-plataforma-de-confianza-cero-para-gobernar-sistemas-a-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-plataforma-de-confianza-cero-para-gobernar-sistemas-a-2.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La seguridad en sistemas autónomos es un reto creciente en diversas industrias. La plataforma GoZTASP ofrece una solución innovadora para garantizar la confianza y la seguridad en estos sistemas.</description>
+  </item>
+  <item>
+    <title>Nueva tecnología para controlar robots con mayor precisión y estabilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-nueva-tecnologia-para-controlar-robots-con-mayor-precis.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-nueva-tecnologia-para-controlar-robots-con-mayor-precis.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS (Robot Operating System) acaba de recibir una noticia emocionante: un nuevo controlador adaptativo de admisión que promete mejorar la precisión y estabilidad de los robots en aplicaciones de manipulación física.</description>
+  </item>
+  <item>
+    <title>Lámpara inteligente que hace tareas domésticas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-lampara-inteligente-que-hace-tareas-domesticas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-lampara-inteligente-que-hace-tareas-domesticas.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa Syncere ha presentado una lámpara inteligente llamada Lume que puede realizar tareas domésticas como hacer la cama y doblar la ropa. Aunque su precio es asequible, la empresa necesita proporcionar más detalles sobre su…</description>
+  </item>
+  <item>
+    <title>Convocatoria para propuestas de sesiones de Birds of a Feather en ROSCon Global 2026</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-convocatoria-para-propuestas-de-sesiones-de-birds-of-a-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-convocatoria-para-propuestas-de-sesiones-de-birds-of-a-.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La convocatoria para propuestas de sesiones de Birds of a Feather en ROSCon Global 2026 está abierta. Estas sesiones son reuniones informales de subgrupos de ROS (Robot Operating System) que se llevarán a cabo durante el evento. El plazo…</description>
+  </item>
+  <item>
+    <title>LimeSDR Micro M.2: una tarjeta de radio definida por software para aplicaciones embebidas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-limesdr-micro-m2-una-tarjeta-de-radio-definida-por-soft.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-limesdr-micro-m2-una-tarjeta-de-radio-definida-por-soft.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>LimeSDR Micro M.2 es una tarjeta de radio definida por software (SDR) que combina un procesador baseband NXP LA9310 con un transceptor RF LMS7002M de Lime Microsystems. Esta tarjeta está diseñada para integrarse en soluciones portátiles o…</description>
+  </item>
+  <item>
+    <title>Ciencia Corp. coloca su primer sensor en un cerebro humano</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-ciencia-corp-coloca-su-primer-sensor-en-un-cerebro-huma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-ciencia-corp-coloca-su-primer-sensor-en-un-cerebro-huma.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Science Corp., fundada por Max Hodak, ex presidente de Neuralink, está a punto de realizar la primera prueba humana en EE. UU. para su interfaz de cerebro-computadora híbrida. El objetivo es crear un enlace de comunicación…</description>
+  </item>
+  <item>
+    <title>La competencia de Anthropic hace dudar a algunos inversores de OpenAI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-la-competencia-de-anthropic-hace-dudar-a-algunos-invers.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-la-competencia-de-anthropic-hace-dudar-a-algunos-invers.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Anthropic está creciendo rápidamente y algunos inversores de OpenAI están empezando a cuestionar la valoración de la empresa. ¿Qué está sucediendo y por qué es importante?</description>
+  </item>
+  <item>
+    <title>Boston Dynamics y Google DeepMind enseñan a Spot a razonar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-razo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-razo.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Boston Dynamics y Google DeepMind han anunciado un proyecto que permite a su robot Spot razonar y entender su entorno. Esto puede revolucionar la inspección industrial y otros campos donde la precisión y la seguridad son fundamentales.</description>
+  </item>
+  <item>
+    <title>MotoGP: ¿Un material de goma revolucionario para mejorar la escalada?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-motogp-un-material-de-goma-revolucionario-para-mejorar-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-motogp-un-material-de-goma-revolucionario-para-mejorar-.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Magnus Midtbø, un escalador profesional, ha descubierto un material de goma reciclado de neumáticos de MotoGP que ofrece una mejor adherencia en superficies inclinadas. Este descubrimiento podría revolucionar la forma en que los…</description>
+  </item>
+  <item>
+    <title>Parches de Linux 7.1 pueden afectar negativamente a sistemas de 32 bits</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-parches-de-linux-71-pueden-afectar-negativamente-a-sist.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-parches-de-linux-71-pueden-afectar-negativamente-a-sist.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El cambio en el campo 'i_ino' del kernel de Linux 7.1 puede causar problemas de alineación de caché y tamaño de slab en sistemas de 32 bits, aunque no afectará a los de 64 bits.</description>
+  </item>
+  <item>
+    <title>PocketTerm35: un terminal portátil con Raspberry Pi y pantalla táctil</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-pocketterm35-un-terminal-portatil-con-raspberry-pi-y-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-pocketterm35-un-terminal-portatil-con-raspberry-pi-y-pa.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Waveshare ha lanzado el PocketTerm35, un terminal portátil que combina la potencia de un Raspberry Pi con una pantalla táctil y un teclado QWERTY. Este dispositivo es ideal para juegos de retro, pero también puede ser utilizado como…</description>
+  </item>
+  <item>
+    <title>¿Por qué habilitar ZRAM en tu sistema Linux?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-por-que-habilitar-zram-en-tu-sistema-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-por-que-habilitar-zram-en-tu-sistema-linux.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Con el precio de la memoria RAM en aumento, habilitar ZRAM puede ser una forma de mejorar el rendimiento sin necesidad de actualizar la memoria. Esto puede ser especialmente útil para sistemas con recursos limitados.</description>
+  </item>
+  <item>
+    <title>Linus Torvalds elimina soporte para procesadores Intel 486 en Linux 7.1</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-linus-torvalds-elimina-soporte-para-procesadores-intel-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-linus-torvalds-elimina-soporte-para-procesadores-intel-.md</guid>
+    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Linus Torvalds ha eliminado el soporte para procesadores Intel 486 en la versión 7.1 de Linux, lo que afecta a usuarios de sistemas 32 bits. Esta decisión se debe a que el soporte para estos procesadores ya no es necesario y se está…</description>
+  </item>
   <item>
     <title>Trail Mate: firmware open-source para comunicación off-grid con GPS</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-14-trail-mate-firmware-open-source-para-comunicacion-off-g.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 14 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La distribución Gentoo Linux ha sido portada al kernel GNU Hurd, una alternativa a Linux con una arquitectura de microkernel. Esta noticia puede ser importante para los usuarios de Linux que buscan opciones más seguras y flexibles.</description>
-  </item>
-  <item>
-    <title>Nueva placa de desarrollo STM32U575 con conectores de display y microSD</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-13-nueva-placa-de-desarrollo-stm32u575-con-conectores-de-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-13-nueva-placa-de-desarrollo-stm32u575-con-conectores-de-d.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Maker Go ha lanzado una nueva placa de desarrollo STM32U575, una opción compacta para proyectos de interfaz de usuario (UI) que aprovecha el procesador ultra-bajo consumo STM32U5.</description>
-  </item>
-  <item>
-    <title>La historia hackeable: Clay Interactive y Raspberry Pi en el Young V&amp;A</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-13-la-historia-hackeable-clay-interactive-y-raspberry-pi-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-13-la-historia-hackeable-clay-interactive-y-raspberry-pi-e.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El museo de la infancia se ha convertido en un lugar interactivo gracias a la tecnología de Clay Interactive y Raspberry Pi. Los visitantes pueden activar sonidos, videos, luces y historias simplemente moviéndose o presionando botones.</description>
-  </item>
-  <item>
-    <title>ROS Adopters: directorio de proyectos que utilizan ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-ros-adopters-directorio-de-proyectos-que-utilizan-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-ros-adopters-directorio-de-proyectos-que-utilizan-ros.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS ha lanzado un nuevo directorio que muestra proyectos y organizaciones que utilizan ROS en cualquier capacidad. Esto permite a los desarrolladores y empresas mostrar su trabajo y contribuir a la comunidad.</description>
-  </item>
-  <item>
-    <title>Digit, el robot que aprende a bailar con IA en cuestión de horas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-digit-el-robot-que-aprende-a-bailar-con-ia-en-cuestion-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-digit-el-robot-que-aprende-a-bailar-con-ia-en-cuestion-.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa que creó el robot Digit ha logrado un avance significativo en la robótica al desarrollar un modelo de inteligencia artificial que permite a su robot aprender a realizar tareas físicas complejas en un plazo muy corto. Esto podría…</description>
-  </item>
-  <item>
-    <title>Plataforma de confianza cero para sistemas autónomos a gran escala</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-plataforma-de-confianza-cero-para-sistemas-autonomos--3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-plataforma-de-confianza-cero-para-sistemas-autonomos--3.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La seguridad de los sistemas autónomos es un tema cada vez más importante en diversas industrias. La plataforma GoZTASP ofrece una solución innovadora para garantizar la confianza y la seguridad en estos sistemas.</description>
-  </item>
-  <item>
-    <title>Entendiendo la percepción humana hacia los robots: una experiencia única</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-entendiendo-la-percepcion-humana-hacia-los-robots-una-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-13-entendiendo-la-percepcion-humana-hacia-los-robots-una-e.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En verano de 2025, el RAI Institute organizó una experiencia de robotica en vivo en el CambridgeSide mall, con el objetivo de que la gente pudiera interactuar con robots de vanguardia y comprender mejor cómo se perciben y utilizan en…</description>
-  </item>
-  <item>
-    <title>Proyectos para tu Raspberry Pi 5 de 1GB: ideas para aprovechar al máximo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-proyectos-para-tu-raspberry-pi-5-de-1gb-ideas-para-apro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-proyectos-para-tu-raspberry-pi-5-de-1gb-ideas-para-apro.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La Raspberry Pi 5 de 1GB es una opción más asequible para usuarios que necesitan procesamiento adicional y características como un conector PCIe. En este artículo, exploramos proyectos que aprovechan al máximo el rendimiento de esta…</description>
-  </item>
-  <item>
-    <title>Bancos de EE.UU. prueban modelo de IA de Anthropic para detectar vulnerabilidades</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-bancos-de-eeuu-prueban-modelo-de-ia-de-anthropic-para-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-bancos-de-eeuu-prueban-modelo-de-ia-de-anthropic-para-d.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El secretario del Tesoro Scott Bessent y el presidente de la Reserva Federal Jerome Powell han animado a los ejecutivos de varios bancos a probar el modelo de IA Mythos de Anthropic para detectar vulnerabilidades en sus sistemas. Esta…</description>
-  </item>
-  <item>
-    <title>Homture Magic Frame: un marco inteligente con IA y radar mmWave</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-homture-magic-frame-un-marco-inteligente-con-ia-y-radar.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-homture-magic-frame-un-marco-inteligente-con-ia-y-radar.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El Homture Magic Frame es un marco inteligente que combina la IA generativa con un radar mmWave de 60 GHz para crear ventanas de recuerdo interactivas. Ahora se puede comprar con un descuento del 29% en Amazon.</description>
-  </item>
-  <item>
-    <title>Transformadores de Sentencias: multimodalidad y modelos de reordenación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-transformadores-de-sentencias-multimodalidad-y-modelos-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-13-transformadores-de-sentencias-multimodalidad-y-modelos-.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La biblioteca de transformadores de sentencias ha lanzado una actualización significativa que permite la codificación y comparación de textos, imágenes, audio y videos utilizando la misma API familiar. Esto abre nuevas posibilidades para…</description>
-  </item>
-  <item>
-    <title>Mejoras significativas en Linux 7.1 para AMD y Intel</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-mejoras-significativas-en-linux-71-para-amd-y-intel.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-mejoras-significativas-en-linux-71-para-amd-y-intel.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La próxima versión de Linux, Linux 7.1, está a punto de ser lanzada y traerá consigo mejoras importantes para los usuarios de AMD y Intel. Entre las novedades se encuentran la eliminación del soporte para CPU Intel 486, la habilitación de…</description>
-  </item>
-  <item>
-    <title>Linux 7.0: Un nuevo kernel con mejoras significativas y soporte a hardware</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-linux-70-un-nuevo-kernel-con-mejoras-significativas-y-s.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-linux-70-un-nuevo-kernel-con-mejoras-significativas-y-s.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El kernel Linux 7.0 ha sido lanzado con una gran cantidad de mejoras y cambios, incluyendo soporte a nuevos hardware, optimizaciones y una versión mejorada del sistema de archivos XFS. Esto es relevante ahora mismo porque Linux 7.0 estará…</description>
-  </item>
-  <item>
-    <title>Kernel Linux 7.0: Nuevas características y mejoras</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-kernel-linux-70-nuevas-caracteristicas-y-mejoras.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-kernel-linux-70-nuevas-caracteristicas-y-mejoras.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El kernel Linux 7.0 ha sido lanzado con varias características y mejoras importantes, incluyendo la eliminación del estado experimental de código Rust y la adición de un mecanismo de filtrado para operaciones de io_uring.</description>
-  </item>
-  <item>
-    <title>Arreglo de vulnerabilidad en Linux: protección para usuarios no privilegiados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-arreglo-de-vulnerabilidad-en-linux-proteccion-para-usua.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-arreglo-de-vulnerabilidad-en-linux-proteccion-para-usua.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de desarrolladores de Linux ha encontrado y arreglado una vulnerabilidad crítica en el kernel que permitía a usuarios no privilegiados acceder a memoria no válida. La vulnerabilidad se podía explotar mediante certificados…</description>
-  </item>
-  <item>
-    <title>UmbrelOS: un sistema operativo para nubes personales con interfaz fácil de usar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-umbrelos-un-sistema-operativo-para-nubes-personales-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-13-umbrelos-un-sistema-operativo-para-nubes-personales-con.md</guid>
-    <pubDate>Mon, 13 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>UmbrelOS es un sistema operativo basado en Debian que permite crear una nube personal en casa con una interfaz web sencilla y fácil de usar. Puedes instalarlo en dispositivos como Raspberry Pi, mini ordenadores y ordenadores antiguos.</description>
   </item>
 </channel>
 </rss>

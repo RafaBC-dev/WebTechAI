@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La PlayStation original se actualiza con tecnología moderna",
+      "category": "embebidos",
+      "date": "2026-04-15",
+      "slug": "la-playstation-original-se-actualiza-con-tecnologia-mod",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un entusiasta de la retroinformática ha transformado una PlayStation rota en una consola de juegos actualizada con tecnología de última generación. La consola ahora puede reproducir juegos en alta definición y con una resolución de 1080p.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-15-la-playstation-original-se-actualiza-con-tecnologia-mod.md"
+    },
+    {
+      "title": "Un tostador inteligente ejecuta DOOM: la historia detrás de la sorpresa tecnológica",
+      "category": "embebidos",
+      "date": "2026-04-15",
+      "slug": "un-tostador-inteligente-ejecuta-doom-la-historia-detras",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un usuario descubre que su tostador inteligente Aeco Toastlab Elite tiene un procesador potente y una pantalla táctil, lo que le permite ejecutar el clásico juego de acción DOOM. La sorpresa no se detiene ahí, ya que el tostador también…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-15-un-tostador-inteligente-ejecuta-doom-la-historia-detras.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para gobernar sistemas autónomos a gran escala",
+      "category": "robotica",
+      "date": "2026-04-15",
+      "slug": "plataforma-de-confianza-cero-para-gobernar-sistemas-a-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad en sistemas autónomos es un reto creciente en diversas industrias. La plataforma GoZTASP ofrece una solución innovadora para garantizar la confianza y la seguridad en estos sistemas.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-15-plataforma-de-confianza-cero-para-gobernar-sistemas-a-2.md"
+    },
+    {
+      "title": "Nueva tecnología para controlar robots con mayor precisión y estabilidad",
+      "category": "robotica",
+      "date": "2026-04-15",
+      "slug": "nueva-tecnologia-para-controlar-robots-con-mayor-precis",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS (Robot Operating System) acaba de recibir una noticia emocionante: un nuevo controlador adaptativo de admisión que promete mejorar la precisión y estabilidad de los robots en aplicaciones de manipulación física.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-15-nueva-tecnologia-para-controlar-robots-con-mayor-precis.md"
+    },
+    {
+      "title": "Lámpara inteligente que hace tareas domésticas",
+      "category": "robotica",
+      "date": "2026-04-15",
+      "slug": "lampara-inteligente-que-hace-tareas-domesticas",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La empresa Syncere ha presentado una lámpara inteligente llamada Lume que puede realizar tareas domésticas como hacer la cama y doblar la ropa. Aunque su precio es asequible, la empresa necesita proporcionar más detalles sobre su…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-15-lampara-inteligente-que-hace-tareas-domesticas.md"
+    },
+    {
+      "title": "Convocatoria para propuestas de sesiones de Birds of a Feather en ROSCon Global 2026",
+      "category": "robotica",
+      "date": "2026-04-15",
+      "slug": "convocatoria-para-propuestas-de-sesiones-de-birds-of-a-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La convocatoria para propuestas de sesiones de Birds of a Feather en ROSCon Global 2026 está abierta. Estas sesiones son reuniones informales de subgrupos de ROS (Robot Operating System) que se llevarán a cabo durante el evento. El plazo…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-15-convocatoria-para-propuestas-de-sesiones-de-birds-of-a-.md"
+    },
+    {
+      "title": "LimeSDR Micro M.2: una tarjeta de radio definida por software para aplicaciones embebidas",
+      "category": "ia",
+      "date": "2026-04-15",
+      "slug": "limesdr-micro-m2-una-tarjeta-de-radio-definida-por-soft",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "LimeSDR Micro M.2 es una tarjeta de radio definida por software (SDR) que combina un procesador baseband NXP LA9310 con un transceptor RF LMS7002M de Lime Microsystems. Esta tarjeta está diseñada para integrarse en soluciones portátiles o…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-15-limesdr-micro-m2-una-tarjeta-de-radio-definida-por-soft.md"
+    },
+    {
+      "title": "Ciencia Corp. coloca su primer sensor en un cerebro humano",
+      "category": "ia",
+      "date": "2026-04-15",
+      "slug": "ciencia-corp-coloca-su-primer-sensor-en-un-cerebro-huma",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La empresa Science Corp., fundada por Max Hodak, ex presidente de Neuralink, está a punto de realizar la primera prueba humana en EE. UU. para su interfaz de cerebro-computadora híbrida. El objetivo es crear un enlace de comunicación…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-15-ciencia-corp-coloca-su-primer-sensor-en-un-cerebro-huma.md"
+    },
+    {
+      "title": "La competencia de Anthropic hace dudar a algunos inversores de OpenAI",
+      "category": "ia",
+      "date": "2026-04-15",
+      "slug": "la-competencia-de-anthropic-hace-dudar-a-algunos-invers",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Anthropic está creciendo rápidamente y algunos inversores de OpenAI están empezando a cuestionar la valoración de la empresa. ¿Qué está sucediendo y por qué es importante?",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-15-la-competencia-de-anthropic-hace-dudar-a-algunos-invers.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-15",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-razo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boston Dynamics y Google DeepMind han anunciado un proyecto que permite a su robot Spot razonar y entender su entorno. Esto puede revolucionar la inspección industrial y otros campos donde la precisión y la seguridad son fundamentales.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-15-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-razo.md"
+    },
+    {
+      "title": "MotoGP: ¿Un material de goma revolucionario para mejorar la escalada?",
+      "category": "linux",
+      "date": "2026-04-15",
+      "slug": "motogp-un-material-de-goma-revolucionario-para-mejorar-",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Magnus Midtbø, un escalador profesional, ha descubierto un material de goma reciclado de neumáticos de MotoGP que ofrece una mejor adherencia en superficies inclinadas. Este descubrimiento podría revolucionar la forma en que los…",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-15-motogp-un-material-de-goma-revolucionario-para-mejorar-.md"
+    },
+    {
+      "title": "Parches de Linux 7.1 pueden afectar negativamente a sistemas de 32 bits",
+      "category": "linux",
+      "date": "2026-04-15",
+      "slug": "parches-de-linux-71-pueden-afectar-negativamente-a-sist",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El cambio en el campo 'i_ino' del kernel de Linux 7.1 puede causar problemas de alineación de caché y tamaño de slab en sistemas de 32 bits, aunque no afectará a los de 64 bits.",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-15-parches-de-linux-71-pueden-afectar-negativamente-a-sist.md"
+    },
+    {
+      "title": "PocketTerm35: un terminal portátil con Raspberry Pi y pantalla táctil",
+      "category": "linux",
+      "date": "2026-04-15",
+      "slug": "pocketterm35-un-terminal-portatil-con-raspberry-pi-y-pa",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Waveshare ha lanzado el PocketTerm35, un terminal portátil que combina la potencia de un Raspberry Pi con una pantalla táctil y un teclado QWERTY. Este dispositivo es ideal para juegos de retro, pero también puede ser utilizado como…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-15-pocketterm35-un-terminal-portatil-con-raspberry-pi-y-pa.md"
+    },
+    {
+      "title": "¿Por qué habilitar ZRAM en tu sistema Linux?",
+      "category": "linux",
+      "date": "2026-04-15",
+      "slug": "por-que-habilitar-zram-en-tu-sistema-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Con el precio de la memoria RAM en aumento, habilitar ZRAM puede ser una forma de mejorar el rendimiento sin necesidad de actualizar la memoria. Esto puede ser especialmente útil para sistemas con recursos limitados.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-15-por-que-habilitar-zram-en-tu-sistema-linux.md"
+    },
+    {
+      "title": "Linus Torvalds elimina soporte para procesadores Intel 486 en Linux 7.1",
+      "category": "linux",
+      "date": "2026-04-15",
+      "slug": "linus-torvalds-elimina-soporte-para-procesadores-intel-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Linus Torvalds ha eliminado el soporte para procesadores Intel 486 en la versión 7.1 de Linux, lo que afecta a usuarios de sistemas 32 bits. Esta decisión se debe a que el soporte para estos procesadores ya no es necesario y se está…",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-15-linus-torvalds-elimina-soporte-para-procesadores-intel-.md"
+    },
+    {
       "title": "Trail Mate: firmware open-source para comunicación off-grid con GPS",
       "category": "embebidos",
       "date": "2026-04-14",
