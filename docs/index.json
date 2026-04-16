@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Orange Pi Zero 3W: un SBC de 4K con SoC Allwinner A733 y LPDDR5",
+      "category": "embebidos",
+      "date": "2026-04-16",
+      "slug": "orange-pi-zero-3w-un-sbc-de-4k-con-soc-allwinner-a733-y",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "La empresa Orange Pi ha lanzado un nuevo SBC (Single-Board Computer) llamado Orange Pi Zero 3W, que se asemeja al Raspberry Pi Zero pero con características más avanzadas. Este dispositivo es ideal para proyectos de robótica y desarrollo…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-16-orange-pi-zero-3w-un-sbc-de-4k-con-soc-allwinner-a733-y.md"
+    },
+    {
+      "title": "Sistema de seguimiento de caras en tiempo real con ROS 2 y OpenCV",
+      "category": "robotica",
+      "date": "2026-04-16",
+      "slug": "sistema-de-seguimiento-de-caras-en-tiempo-real-con-ros-",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias"
+      ],
+      "preview": "Un desarrollador ha creado un sistema de seguimiento de caras en tiempo real utilizando ROS 2 y OpenCV, lo que permite una interacción humana más rápida y eficiente en aplicaciones de robótica.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-16-sistema-de-seguimiento-de-caras-en-tiempo-real-con-ros-.md"
+    },
+    {
+      "title": "Sistema de desarrollo de robótica abierto con procesador Intel Core Ultra X7",
+      "category": "robotica",
+      "date": "2026-04-16",
+      "slug": "sistema-de-desarrollo-de-robotica-abierto-con-procesado",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "AAEON y Intel presentan un sistema de desarrollo de robótica abierto que utiliza el procesador Intel Core Ultra X7, diseñado para la creación de robots humanoides y vehículos autónomos con inteligencia artificial.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-16-sistema-de-desarrollo-de-robotica-abierto-con-procesado.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para sistemas autónomos a gran escala",
+      "category": "robotica",
+      "date": "2026-04-16",
+      "slug": "plataforma-de-confianza-cero-para-sistemas-autonomos--5",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad de los sistemas autónomos es cada vez más crítica, especialmente en entornos de misión crítica. La plataforma GoZTASP ofrece una solución innovadora para garantizar la confianza en estos sistemas.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-16-plataforma-de-confianza-cero-para-sistemas-autonomos--5.md"
+    },
+    {
+      "title": "ROS2 con Python: una herramienta innovadora para desarrolladores",
+      "category": "robotica",
+      "date": "2026-04-16",
+      "slug": "ros2-con-python-una-herramienta-innovadora-para-desarro",
+      "tags": [
+        "python",
+        "ros2",
+        "linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado ros-z, una implementación de ROS2 en Rust que permite la creación de nodos ROS2 desde proyectos Python sin dependencias de ROS. Esto podría revolucionar la forma en que los desarrolladores trabajan…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-16-ros2-con-python-una-herramienta-innovadora-para-desarro.md"
+    },
+    {
+      "title": "Lámpara inteligente que hace tareas domésticas",
+      "category": "robotica",
+      "date": "2026-04-16",
+      "slug": "lampara-inteligente-que-hace-tareas-domesticas-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Una lámpara de suelo inteligente llamada Lume ha sido diseñada para realizar tareas domésticas como hacer la cama y doblar la ropa. Aunque su precio es atractivo, la falta de detalles sobre su funcionamiento y eficacia hace que sea difícil…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-16-lampara-inteligente-que-hace-tareas-domesticas-2.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-16",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boston Dynamics ha equipado a su robot Spot con un modelo de razonamiento avanzado de Google DeepMind, permitiéndole realizar tareas complejas de inspección de manera autónoma. Esto abre nuevas posibilidades para la automatización y la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-16-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-2.md"
+    },
+    {
+      "title": "OpenAI actualiza su SDK para agentes para crear asistentes más seguros y capaces",
+      "category": "ia",
+      "date": "2026-04-16",
+      "slug": "openai-actualiza-su-sdk-para-agentes-para-crear-asisten",
+      "tags": [
+        "llms",
+        "agentes",
+        "ia-local"
+      ],
+      "preview": "OpenAI ha lanzado una actualización de su SDK para agentes, lo que permitirá a las empresas crear asistentes más seguros y capaces. Este lanzamiento es un paso importante en el desarrollo de la inteligencia artificial agente.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-16-openai-actualiza-su-sdk-para-agentes-para-crear-asisten.md"
+    },
+    {
+      "title": "Hightouch alcanza $100M ARR con herramientas de marketing impulsadas por IA",
+      "category": "ia",
+      "date": "2026-04-16",
+      "slug": "hightouch-alcanza-100m-arr-con-herramientas-de-marketin",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "La startup Hightouch ha logrado un gran éxito con su servicio de contenido personalizado para marcas, utilizando modelos de lenguaje para generar imágenes y videos sin la intervención de equipos de diseño.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-16-hightouch-alcanza-100m-arr-con-herramientas-de-marketin.md"
+    },
+    {
+      "title": "SDL prohíbe contribuciones de código generadas por LLM y modelos de IA",
+      "category": "ia",
+      "date": "2026-04-16",
+      "slug": "sdl-prohibe-contribuciones-de-codigo-generadas-por-llm-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La biblioteca SDL, utilizada en juegos cross-platform y parte del Runtime de Steam, ha establecido una política para bloquear contribuciones de código generadas por modelos de lenguaje grande (LLM) y inteligencia artificial (IA). Esto se…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-16-sdl-prohibe-contribuciones-de-codigo-generadas-por-llm-.md"
+    },
+    {
+      "title": "Fork de Vim para evitar código generado por LLM",
+      "category": "ia",
+      "date": "2026-04-16",
+      "slug": "fork-de-vim-para-evitar-codigo-generado-por-llm",
+      "tags": [
+        "codigo",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "La proliferación de Modelos de Lenguaje de Gran Escala (LLM) ha generado rechazo en algunas personas. Dos nuevos forks de Vim buscan ofrecer un entorno de edición sin código generado por LLM. Estos proyectos buscan proporcionar…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-16-fork-de-vim-para-evitar-codigo-generado-por-llm.md"
+    },
+    {
+      "title": "Nueva computadora de bordo de alta gama para aplicaciones industriales",
+      "category": "ia",
+      "date": "2026-04-16",
+      "slug": "nueva-computadora-de-bordo-de-alta-gama-para-aplicacion",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "TWOWIN Technology ha lanzado la TW-T808P-G, una computadora de bordo de alta gama diseñada para aplicaciones industriales y de inteligencia artificial. Esta computadora es ideal para sistemas autónomos, vehículos sin conductor y monitoreo…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-16-nueva-computadora-de-bordo-de-alta-gama-para-aplicacion.md"
+    },
+    {
+      "title": "AMD mejora el control de energía en Linux con el módulo de poder",
+      "category": "linux",
+      "date": "2026-04-16",
+      "slug": "amd-mejora-el-control-de-energia-en-linux-con-el-modulo",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "AMD ha presentado un conjunto de parches para el driver de gráficos AMDGPU que incluye un módulo de poder para mejorar el control de energía en Linux. Esto permitirá una experiencia de ahorro de energía más uniforme en comparación con…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-16-amd-mejora-el-control-de-energia-en-linux-con-el-modulo.md"
+    },
+    {
+      "title": "Domesday Book en línea: un legado digital de la Inglaterra del siglo XI",
+      "category": "linux",
+      "date": "2026-04-16",
+      "slug": "domesday-book-en-linea-un-legado-digital-de-la-inglater",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Universidad de Hull ha lanzado Open Domesday, una plataforma digital que ofrece acceso gratuito a la Domesday Book, un registro histórico de la Gran Encuesta de Inglaterra y partes de Gales, realizada en 1086 por orden de Guillermo el…",
+      "has_command": false,
+      "file_path": "content/linux/2026-04-16-domesday-book-en-linea-un-legado-digital-de-la-inglater.md"
+    },
+    {
+      "title": "Linux 7.1: mejora rendimiento en Sheaves, el caché por CPU",
+      "category": "linux",
+      "date": "2026-04-16",
+      "slug": "linux-71-mejora-rendimiento-en-sheaves-el-cache-por-cpu",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.1 del kernel Linux ha sido lanzada con una mejora significativa en el rendimiento de Sheaves, una capa de caché por CPU introducida en Linux 6.18. Esta capa era optativa, pero ahora es utilizada por defecto en Linux 7.0. Sin…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-16-linux-71-mejora-rendimiento-en-sheaves-el-cache-por-cpu.md"
+    },
+    {
       "title": "La PlayStation original se actualiza con tecnología moderna",
       "category": "embebidos",
       "date": "2026-04-15",

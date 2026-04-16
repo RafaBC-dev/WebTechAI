@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-15</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-15</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-16</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-16-orange-pi-zero-3w-un-sbc-de-4k-con-soc-allwinner-a733-y.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-16-sistema-de-seguimiento-de-caras-en-tiempo-real-con-ros-.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-16-sistema-de-desarrollo-de-robotica-abierto-con-procesado.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-16-plataforma-de-confianza-cero-para-sistemas-autonomos--5.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-16-ros2-con-python-una-herramienta-innovadora-para-desarro.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-16-lampara-inteligente-que-hace-tareas-domesticas-2.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-16-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-2.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-16-openai-actualiza-su-sdk-para-agentes-para-crear-asisten.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-16-hightouch-alcanza-100m-arr-con-herramientas-de-marketin.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-16-sdl-prohibe-contribuciones-de-codigo-generadas-por-llm-.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-16-fork-de-vim-para-evitar-codigo-generado-por-llm.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-16-nueva-computadora-de-bordo-de-alta-gama-para-aplicacion.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-16-amd-mejora-el-control-de-energia-en-linux-con-el-modulo.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-16-domesday-book-en-linea-un-legado-digital-de-la-inglater.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-16-linux-71-mejora-rendimiento-en-sheaves-el-cache-por-cpu.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-la-playstation-original-se-actualiza-con-tecnologia-mod.md</loc><lastmod>2026-04-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-un-tostador-inteligente-ejecuta-doom-la-historia-detras.md</loc><lastmod>2026-04-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-plataforma-de-confianza-cero-para-gobernar-sistemas-a-2.md</loc><lastmod>2026-04-15</lastmod><priority>0.8</priority></url>
