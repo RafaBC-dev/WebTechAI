@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-16</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-conclusive-engineering-lanza-sbc-ultra-compacto-kstr-sa.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-10-proyectos-de-relojes-creativos-con-raspberry-pi-2.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-camara-de-germinacion-de-semillas-con-impresion-3d.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-lampara-inteligente-que-puede-hacer-tareas-domesticas.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-arma-robotica-abierta-y-de-codigo-abierto-para-aplicaci.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-reunion-de-robotica-aerea-optimizacion-de-trayectorias-.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-plataforma-de-confianza-cero-para-gobernar-sistemas-a-3.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-3.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-vakra-un-nuevo-estandar-para-evaluar-la-inteligencia-ar.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-mejora-tus-modelos-multimodales-con-sentence-transforme.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-analisis-del-orange-pi-6-plus-un-sbc-con-promesas-y-lim.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-cyberdecks-un-giro-en-la-robotica-casera-con-raspberry-.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-mejoras-en-el-scheduler-de-linux-71-sub-scheduler-y-ren.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-nuevo-driver-de-ntfs-para-linux-71-mayor-rendimiento-y-.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-actualizacion-de-seguridad-en-raspberry-pi-os.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-16-orange-pi-zero-3w-un-sbc-de-4k-con-soc-allwinner-a733-y.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-16-sistema-de-seguimiento-de-caras-en-tiempo-real-con-ros-.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-16-sistema-de-desarrollo-de-robotica-abierto-con-procesado.md</loc><lastmod>2026-04-16</lastmod><priority>0.8</priority></url>

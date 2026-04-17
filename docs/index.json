@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Conclusive Engineering lanza SBC ultra compacto KSTR-SAMA5D27",
+      "category": "embebidos",
+      "date": "2026-04-17",
+      "slug": "conclusive-engineering-lanza-sbc-ultra-compacto-kstr-sa",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Conclusive Engineering ha lanzado un nuevo SBC (Single Board Computer) ultra compacto llamado KSTR-SAMA5D27, diseñado para aplicaciones de IoT, sistemas inteligentes y cálculo de borde. Este nuevo dispositivo ofrece una gran eficiencia…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-17-conclusive-engineering-lanza-sbc-ultra-compacto-kstr-sa.md"
+    },
+    {
+      "title": "10 Proyectos de Relojes Creativos con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-04-17",
+      "slug": "10-proyectos-de-relojes-creativos-con-raspberry-pi-2",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "Los creadores de contenido están mostrando su creatividad con Raspberry Pi en proyectos artísticos y divertidos. Entre ellos, destacan los relojes con un toque inusitado que utilizan la tecnología de Raspberry Pi.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-17-10-proyectos-de-relojes-creativos-con-raspberry-pi-2.md"
+    },
+    {
+      "title": "Cámara de germinación de semillas con impresión 3D",
+      "category": "embebidos",
+      "date": "2026-04-17",
+      "slug": "camara-de-germinacion-de-semillas-con-impresion-3d",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Un proyecto de impresión 3D busca mejorar la germinación de semillas creando un entorno controlado y eficiente. El objetivo es crear un sistema que permita a los usuarios cultivar semillas de manera fácil y efectiva.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-17-camara-de-germinacion-de-semillas-con-impresion-3d.md"
+    },
+    {
+      "title": "Lámpara inteligente que puede hacer tareas domésticas",
+      "category": "robotica",
+      "date": "2026-04-17",
+      "slug": "lampara-inteligente-que-puede-hacer-tareas-domesticas",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Una lámpara inteligente llamada Lume puede hacer tareas como hacer la cama, doblar la ropa y realizar otras tareas con materiales suaves. Pero ¿funciona realmente?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-17-lampara-inteligente-que-puede-hacer-tareas-domesticas.md"
+    },
+    {
+      "title": "Arma robótica abierta y de código abierto para aplicaciones de IA y teleoperación",
+      "category": "robotica",
+      "date": "2026-04-17",
+      "slug": "arma-robotica-abierta-y-de-codigo-abierto-para-aplicaci",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Seeed Studio ha lanzado el reBot Arm B601-DM, una arma robótica de 6+1 grados de libertad diseñada para facilitar el aprendizaje de inteligencia artificial y la teleoperación. Esta arma robótica es compatible con frameworks de IA y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-17-arma-robotica-abierta-y-de-codigo-abierto-para-aplicaci.md"
+    },
+    {
+      "title": "Reunión de Robótica Aérea: Optimización de Trayectorias en Drones",
+      "category": "robotica",
+      "date": "2026-04-17",
+      "slug": "reunion-de-robotica-aerea-optimizacion-de-trayectorias-",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La comunidad de robótica aérea se reúne el 30 de abril para discutir el estado actual de la tecnología y presentar innovaciones en el campo. En esta ocasión, se presentará un método de optimización de trayectorias para drones en tiempo…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-17-reunion-de-robotica-aerea-optimizacion-de-trayectorias-.md"
+    },
+    {
+      "title": "Plataforma de confianza cero para gobernar sistemas autónomos a gran escala",
+      "category": "robotica",
+      "date": "2026-04-17",
+      "slug": "plataforma-de-confianza-cero-para-gobernar-sistemas-a-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad de los sistemas autónomos es un tema cada vez más importante, especialmente en entornos críticos como la salud, la transporte y la infraestructura. Un equipo de investigación ha desarrollado una plataforma llamada GoZTASP que…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-17-plataforma-de-confianza-cero-para-gobernar-sistemas-a-3.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-17",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boston Dynamics y Google DeepMind han anunciado un proyecto que permite a su robot Spot razonar y entender su entorno de manera más autónoma. Esto podría cambiar la forma en que los robots se utilizan en la industria y en la vida cotidiana.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-17-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-3.md"
+    },
+    {
+      "title": "VAKRA: Un nuevo estándar para evaluar la inteligencia artificial en entornos empresariales",
+      "category": "ia",
+      "date": "2026-04-17",
+      "slug": "vakra-un-nuevo-estandar-para-evaluar-la-inteligencia-ar",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "robotica"
+      ],
+      "preview": "La IBM Research ha lanzado VAKRA, un benchmark para evaluar la capacidad de los agentes de inteligencia artificial para razonar y actuar en entornos empresariales complejos. Este nuevo estándar busca medir la capacidad de los modelos para…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-17-vakra-un-nuevo-estandar-para-evaluar-la-inteligencia-ar.md"
+    },
+    {
+      "title": "Mejora tus modelos multimodales con Sentence Transformers",
+      "category": "ia",
+      "date": "2026-04-17",
+      "slug": "mejora-tus-modelos-multimodales-con-sentence-transforme",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "La biblioteca Sentence Transformers ha lanzado una nueva versión con capacidades multimodales. Ahora puedes entrenar y fine-tune modelos que integren texto, imágenes, audio y video. Esto abre nuevas posibilidades para aplicaciones como la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-17-mejora-tus-modelos-multimodales-con-sentence-transforme.md"
+    },
+    {
+      "title": "Análisis del Orange Pi 6 Plus: un SBC con promesas y limitaciones",
+      "category": "ia",
+      "date": "2026-04-17",
+      "slug": "analisis-del-orange-pi-6-plus-un-sbc-con-promesas-y-lim",
+      "tags": [
+        "ia-local",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "El Orange Pi 6 Plus, un SBC (Single Board Computer) con 12 núcleos de CPU y un GPU Mali G720, ha sido sometido a una exhaustiva revisión y prueba de rendimiento. Aunque ofrece una impresionante cantidad de características, su software…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-17-analisis-del-orange-pi-6-plus-un-sbc-con-promesas-y-lim.md"
+    },
+    {
+      "title": "Cyberdecks: un giro en la robótica casera con Raspberry Pi",
+      "category": "linux",
+      "date": "2026-04-17",
+      "slug": "cyberdecks-un-giro-en-la-robotica-casera-con-raspberry-",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "La comunidad de makers está experimentando un renacimiento en la creación de cyberdecks, sistemas informáticos portátiles inspirados en la ciencia ficción. Estos proyectos están revolucionando la forma en que pensamos en la robótica y la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-17-cyberdecks-un-giro-en-la-robotica-casera-con-raspberry-.md"
+    },
+    {
+      "title": "Mejoras en el scheduler de Linux 7.1: sub-scheduler y rendimiento mejorado",
+      "category": "linux",
+      "date": "2026-04-17",
+      "slug": "mejoras-en-el-scheduler-de-linux-71-sub-scheduler-y-ren",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux 7.1 está recibiendo importantes mejoras en su scheduler, lo que permitirá a los desarrolladores crear sub-schedulers personalizados y mejorar el rendimiento en sistemas con múltiples núcleos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-17-mejoras-en-el-scheduler-de-linux-71-sub-scheduler-y-ren.md"
+    },
+    {
+      "title": "Nuevo driver de NTFS para Linux 7.1: mayor rendimiento y estabilidad",
+      "category": "linux",
+      "date": "2026-04-17",
+      "slug": "nuevo-driver-de-ntfs-para-linux-71-mayor-rendimiento-y-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto NTFSPLUS ha sido reemplazado por un nuevo driver de NTFS para Linux 7.1, que ofrece mayor rendimiento y estabilidad que el actual driver NTFS3. Este nuevo driver ha sido desarrollado por Namjae Jeon y está disponible para su…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-17-nuevo-driver-de-ntfs-para-linux-71-mayor-rendimiento-y-.md"
+    },
+    {
+      "title": "Actualización de seguridad en Raspberry Pi OS",
+      "category": "linux",
+      "date": "2026-04-17",
+      "slug": "actualizacion-de-seguridad-en-raspberry-pi-os",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 6.2 de Raspberry Pi OS ha sido lanzada con una actualización de seguridad importante que afecta a la forma en que los usuarios regulares acceden a comandos administrativos. Esta actualización busca mejorar la seguridad del…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-17-actualizacion-de-seguridad-en-raspberry-pi-os.md"
+    },
+    {
       "title": "Orange Pi Zero 3W: un SBC de 4K con SoC Allwinner A733 y LPDDR5",
       "category": "embebidos",
       "date": "2026-04-16",

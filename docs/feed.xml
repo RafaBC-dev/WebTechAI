@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 16 Apr 2026 08:24:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Apr 2026 08:23:25 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Conclusive Engineering lanza SBC ultra compacto KSTR-SAMA5D27</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-conclusive-engineering-lanza-sbc-ultra-compacto-kstr-sa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-conclusive-engineering-lanza-sbc-ultra-compacto-kstr-sa.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Conclusive Engineering ha lanzado un nuevo SBC (Single Board Computer) ultra compacto llamado KSTR-SAMA5D27, diseñado para aplicaciones de IoT, sistemas inteligentes y cálculo de borde. Este nuevo dispositivo ofrece una gran eficiencia…</description>
+  </item>
+  <item>
+    <title>10 Proyectos de Relojes Creativos con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-10-proyectos-de-relojes-creativos-con-raspberry-pi-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-10-proyectos-de-relojes-creativos-con-raspberry-pi-2.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Los creadores de contenido están mostrando su creatividad con Raspberry Pi en proyectos artísticos y divertidos. Entre ellos, destacan los relojes con un toque inusitado que utilizan la tecnología de Raspberry Pi.</description>
+  </item>
+  <item>
+    <title>Cámara de germinación de semillas con impresión 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-camara-de-germinacion-de-semillas-con-impresion-3d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-camara-de-germinacion-de-semillas-con-impresion-3d.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un proyecto de impresión 3D busca mejorar la germinación de semillas creando un entorno controlado y eficiente. El objetivo es crear un sistema que permita a los usuarios cultivar semillas de manera fácil y efectiva.</description>
+  </item>
+  <item>
+    <title>Lámpara inteligente que puede hacer tareas domésticas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-lampara-inteligente-que-puede-hacer-tareas-domesticas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-lampara-inteligente-que-puede-hacer-tareas-domesticas.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Una lámpara inteligente llamada Lume puede hacer tareas como hacer la cama, doblar la ropa y realizar otras tareas con materiales suaves. Pero ¿funciona realmente?</description>
+  </item>
+  <item>
+    <title>Arma robótica abierta y de código abierto para aplicaciones de IA y teleoperación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-arma-robotica-abierta-y-de-codigo-abierto-para-aplicaci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-arma-robotica-abierta-y-de-codigo-abierto-para-aplicaci.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Seeed Studio ha lanzado el reBot Arm B601-DM, una arma robótica de 6+1 grados de libertad diseñada para facilitar el aprendizaje de inteligencia artificial y la teleoperación. Esta arma robótica es compatible con frameworks de IA y…</description>
+  </item>
+  <item>
+    <title>Reunión de Robótica Aérea: Optimización de Trayectorias en Drones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-reunion-de-robotica-aerea-optimizacion-de-trayectorias-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-reunion-de-robotica-aerea-optimizacion-de-trayectorias-.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de robótica aérea se reúne el 30 de abril para discutir el estado actual de la tecnología y presentar innovaciones en el campo. En esta ocasión, se presentará un método de optimización de trayectorias para drones en tiempo…</description>
+  </item>
+  <item>
+    <title>Plataforma de confianza cero para gobernar sistemas autónomos a gran escala</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-plataforma-de-confianza-cero-para-gobernar-sistemas-a-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-17-plataforma-de-confianza-cero-para-gobernar-sistemas-a-3.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La seguridad de los sistemas autónomos es un tema cada vez más importante, especialmente en entornos críticos como la salud, la transporte y la infraestructura. Un equipo de investigación ha desarrollado una plataforma llamada GoZTASP que…</description>
+  </item>
+  <item>
+    <title>Boston Dynamics y Google DeepMind enseñan a Spot a razonar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-3.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Boston Dynamics y Google DeepMind han anunciado un proyecto que permite a su robot Spot razonar y entender su entorno de manera más autónoma. Esto podría cambiar la forma en que los robots se utilizan en la industria y en la vida cotidiana.</description>
+  </item>
+  <item>
+    <title>VAKRA: Un nuevo estándar para evaluar la inteligencia artificial en entornos empresariales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-vakra-un-nuevo-estandar-para-evaluar-la-inteligencia-ar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-vakra-un-nuevo-estandar-para-evaluar-la-inteligencia-ar.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La IBM Research ha lanzado VAKRA, un benchmark para evaluar la capacidad de los agentes de inteligencia artificial para razonar y actuar en entornos empresariales complejos. Este nuevo estándar busca medir la capacidad de los modelos para…</description>
+  </item>
+  <item>
+    <title>Mejora tus modelos multimodales con Sentence Transformers</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-mejora-tus-modelos-multimodales-con-sentence-transforme.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-mejora-tus-modelos-multimodales-con-sentence-transforme.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La biblioteca Sentence Transformers ha lanzado una nueva versión con capacidades multimodales. Ahora puedes entrenar y fine-tune modelos que integren texto, imágenes, audio y video. Esto abre nuevas posibilidades para aplicaciones como la…</description>
+  </item>
+  <item>
+    <title>Análisis del Orange Pi 6 Plus: un SBC con promesas y limitaciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-analisis-del-orange-pi-6-plus-un-sbc-con-promesas-y-lim.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-17-analisis-del-orange-pi-6-plus-un-sbc-con-promesas-y-lim.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El Orange Pi 6 Plus, un SBC (Single Board Computer) con 12 núcleos de CPU y un GPU Mali G720, ha sido sometido a una exhaustiva revisión y prueba de rendimiento. Aunque ofrece una impresionante cantidad de características, su software…</description>
+  </item>
+  <item>
+    <title>Cyberdecks: un giro en la robótica casera con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-cyberdecks-un-giro-en-la-robotica-casera-con-raspberry-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-cyberdecks-un-giro-en-la-robotica-casera-con-raspberry-.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de makers está experimentando un renacimiento en la creación de cyberdecks, sistemas informáticos portátiles inspirados en la ciencia ficción. Estos proyectos están revolucionando la forma en que pensamos en la robótica y la…</description>
+  </item>
+  <item>
+    <title>Mejoras en el scheduler de Linux 7.1: sub-scheduler y rendimiento mejorado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-mejoras-en-el-scheduler-de-linux-71-sub-scheduler-y-ren.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-mejoras-en-el-scheduler-de-linux-71-sub-scheduler-y-ren.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El kernel de Linux 7.1 está recibiendo importantes mejoras en su scheduler, lo que permitirá a los desarrolladores crear sub-schedulers personalizados y mejorar el rendimiento en sistemas con múltiples núcleos.</description>
+  </item>
+  <item>
+    <title>Nuevo driver de NTFS para Linux 7.1: mayor rendimiento y estabilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-nuevo-driver-de-ntfs-para-linux-71-mayor-rendimiento-y-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-nuevo-driver-de-ntfs-para-linux-71-mayor-rendimiento-y-.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El proyecto NTFSPLUS ha sido reemplazado por un nuevo driver de NTFS para Linux 7.1, que ofrece mayor rendimiento y estabilidad que el actual driver NTFS3. Este nuevo driver ha sido desarrollado por Namjae Jeon y está disponible para su…</description>
+  </item>
+  <item>
+    <title>Actualización de seguridad en Raspberry Pi OS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-actualizacion-de-seguridad-en-raspberry-pi-os.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-17-actualizacion-de-seguridad-en-raspberry-pi-os.md</guid>
+    <pubDate>Fri, 17 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 6.2 de Raspberry Pi OS ha sido lanzada con una actualización de seguridad importante que afecta a la forma en que los usuarios regulares acceden a comandos administrativos. Esta actualización busca mejorar la seguridad del…</description>
+  </item>
   <item>
     <title>Orange Pi Zero 3W: un SBC de 4K con SoC Allwinner A733 y LPDDR5</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-16-orange-pi-zero-3w-un-sbc-de-4k-con-soc-allwinner-a733-y.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 16 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La versión 7.1 del kernel Linux ha sido lanzada con una mejora significativa en el rendimiento de Sheaves, una capa de caché por CPU introducida en Linux 6.18. Esta capa era optativa, pero ahora es utilizada por defecto en Linux 7.0. Sin…</description>
-  </item>
-  <item>
-    <title>La PlayStation original se actualiza con tecnología moderna</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-la-playstation-original-se-actualiza-con-tecnologia-mod.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-la-playstation-original-se-actualiza-con-tecnologia-mod.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un entusiasta de la retroinformática ha transformado una PlayStation rota en una consola de juegos actualizada con tecnología de última generación. La consola ahora puede reproducir juegos en alta definición y con una resolución de 1080p.</description>
-  </item>
-  <item>
-    <title>Un tostador inteligente ejecuta DOOM: la historia detrás de la sorpresa tecnológica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-un-tostador-inteligente-ejecuta-doom-la-historia-detras.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-15-un-tostador-inteligente-ejecuta-doom-la-historia-detras.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un usuario descubre que su tostador inteligente Aeco Toastlab Elite tiene un procesador potente y una pantalla táctil, lo que le permite ejecutar el clásico juego de acción DOOM. La sorpresa no se detiene ahí, ya que el tostador también…</description>
-  </item>
-  <item>
-    <title>Plataforma de confianza cero para gobernar sistemas autónomos a gran escala</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-plataforma-de-confianza-cero-para-gobernar-sistemas-a-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-plataforma-de-confianza-cero-para-gobernar-sistemas-a-2.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La seguridad en sistemas autónomos es un reto creciente en diversas industrias. La plataforma GoZTASP ofrece una solución innovadora para garantizar la confianza y la seguridad en estos sistemas.</description>
-  </item>
-  <item>
-    <title>Nueva tecnología para controlar robots con mayor precisión y estabilidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-nueva-tecnologia-para-controlar-robots-con-mayor-precis.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-nueva-tecnologia-para-controlar-robots-con-mayor-precis.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS (Robot Operating System) acaba de recibir una noticia emocionante: un nuevo controlador adaptativo de admisión que promete mejorar la precisión y estabilidad de los robots en aplicaciones de manipulación física.</description>
-  </item>
-  <item>
-    <title>Lámpara inteligente que hace tareas domésticas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-lampara-inteligente-que-hace-tareas-domesticas.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-lampara-inteligente-que-hace-tareas-domesticas.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa Syncere ha presentado una lámpara inteligente llamada Lume que puede realizar tareas domésticas como hacer la cama y doblar la ropa. Aunque su precio es asequible, la empresa necesita proporcionar más detalles sobre su…</description>
-  </item>
-  <item>
-    <title>Convocatoria para propuestas de sesiones de Birds of a Feather en ROSCon Global 2026</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-convocatoria-para-propuestas-de-sesiones-de-birds-of-a-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-15-convocatoria-para-propuestas-de-sesiones-de-birds-of-a-.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La convocatoria para propuestas de sesiones de Birds of a Feather en ROSCon Global 2026 está abierta. Estas sesiones son reuniones informales de subgrupos de ROS (Robot Operating System) que se llevarán a cabo durante el evento. El plazo…</description>
-  </item>
-  <item>
-    <title>LimeSDR Micro M.2: una tarjeta de radio definida por software para aplicaciones embebidas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-limesdr-micro-m2-una-tarjeta-de-radio-definida-por-soft.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-limesdr-micro-m2-una-tarjeta-de-radio-definida-por-soft.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>LimeSDR Micro M.2 es una tarjeta de radio definida por software (SDR) que combina un procesador baseband NXP LA9310 con un transceptor RF LMS7002M de Lime Microsystems. Esta tarjeta está diseñada para integrarse en soluciones portátiles o…</description>
-  </item>
-  <item>
-    <title>Ciencia Corp. coloca su primer sensor en un cerebro humano</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-ciencia-corp-coloca-su-primer-sensor-en-un-cerebro-huma.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-ciencia-corp-coloca-su-primer-sensor-en-un-cerebro-huma.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Science Corp., fundada por Max Hodak, ex presidente de Neuralink, está a punto de realizar la primera prueba humana en EE. UU. para su interfaz de cerebro-computadora híbrida. El objetivo es crear un enlace de comunicación…</description>
-  </item>
-  <item>
-    <title>La competencia de Anthropic hace dudar a algunos inversores de OpenAI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-la-competencia-de-anthropic-hace-dudar-a-algunos-invers.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-la-competencia-de-anthropic-hace-dudar-a-algunos-invers.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Anthropic está creciendo rápidamente y algunos inversores de OpenAI están empezando a cuestionar la valoración de la empresa. ¿Qué está sucediendo y por qué es importante?</description>
-  </item>
-  <item>
-    <title>Boston Dynamics y Google DeepMind enseñan a Spot a razonar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-razo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-15-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-razo.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Boston Dynamics y Google DeepMind han anunciado un proyecto que permite a su robot Spot razonar y entender su entorno. Esto puede revolucionar la inspección industrial y otros campos donde la precisión y la seguridad son fundamentales.</description>
-  </item>
-  <item>
-    <title>MotoGP: ¿Un material de goma revolucionario para mejorar la escalada?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-motogp-un-material-de-goma-revolucionario-para-mejorar-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-motogp-un-material-de-goma-revolucionario-para-mejorar-.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Magnus Midtbø, un escalador profesional, ha descubierto un material de goma reciclado de neumáticos de MotoGP que ofrece una mejor adherencia en superficies inclinadas. Este descubrimiento podría revolucionar la forma en que los…</description>
-  </item>
-  <item>
-    <title>Parches de Linux 7.1 pueden afectar negativamente a sistemas de 32 bits</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-parches-de-linux-71-pueden-afectar-negativamente-a-sist.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-parches-de-linux-71-pueden-afectar-negativamente-a-sist.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El cambio en el campo 'i_ino' del kernel de Linux 7.1 puede causar problemas de alineación de caché y tamaño de slab en sistemas de 32 bits, aunque no afectará a los de 64 bits.</description>
-  </item>
-  <item>
-    <title>PocketTerm35: un terminal portátil con Raspberry Pi y pantalla táctil</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-pocketterm35-un-terminal-portatil-con-raspberry-pi-y-pa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-pocketterm35-un-terminal-portatil-con-raspberry-pi-y-pa.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Waveshare ha lanzado el PocketTerm35, un terminal portátil que combina la potencia de un Raspberry Pi con una pantalla táctil y un teclado QWERTY. Este dispositivo es ideal para juegos de retro, pero también puede ser utilizado como…</description>
-  </item>
-  <item>
-    <title>¿Por qué habilitar ZRAM en tu sistema Linux?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-por-que-habilitar-zram-en-tu-sistema-linux.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-por-que-habilitar-zram-en-tu-sistema-linux.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Con el precio de la memoria RAM en aumento, habilitar ZRAM puede ser una forma de mejorar el rendimiento sin necesidad de actualizar la memoria. Esto puede ser especialmente útil para sistemas con recursos limitados.</description>
-  </item>
-  <item>
-    <title>Linus Torvalds elimina soporte para procesadores Intel 486 en Linux 7.1</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-linus-torvalds-elimina-soporte-para-procesadores-intel-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-15-linus-torvalds-elimina-soporte-para-procesadores-intel-.md</guid>
-    <pubDate>Wed, 15 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Linus Torvalds ha eliminado el soporte para procesadores Intel 486 en la versión 7.1 de Linux, lo que afecta a usuarios de sistemas 32 bits. Esta decisión se debe a que el soporte para estos procesadores ya no es necesario y se está…</description>
   </item>
 </channel>
 </rss>
