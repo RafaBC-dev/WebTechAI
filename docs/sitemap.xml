@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-17</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-18</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-18-boardcon-lanza-el-tiny1126b-un-modulo-de-sistema-en-un-.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-18-wiqwiic-32-una-placa-de-desarrollo-iot-compacta-con-qwi.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-18-alerta-de-congelacion-para-macetas-con-adafruit-io-y-wi.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-18-un-brazo-robotico-abierto-para-la-ia-y-la-teleoperacion.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-18-digit-aprende-a-levantar-pesas-con-precision.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-18-lampara-inteligente-que-hace-tareas-domesticas-como-hac.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-18-roscon-2026-noticias-y-eventos-de-la-comunidad-de-rob-2.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-18-openai-pierde-a-dos-de-sus-arquitectos-mas-destacados.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-18-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-4.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-18-actualizacion-de-seguridad-en-raspberry-pi-os-2.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-18-linux-71-el-nuevo-driver-ntfs-revoluciona-la-escritura-.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-18-cyberdecks-los-ordenadores-portatiles-de-ciencia-ficcio.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-18-actualizaciones-de-seguridad-para-sistemas-operativo-10.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-18-vulnerabilidad-de-seguridad-en-procesadores-amd-zen-1-p.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-18-validador-de-urdf-en-linea-gratuito-para-ros-sin-instal.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-conclusive-engineering-lanza-sbc-ultra-compacto-kstr-sa.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-10-proyectos-de-relojes-creativos-con-raspberry-pi-2.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-17-camara-de-germinacion-de-semillas-con-impresion-3d.md</loc><lastmod>2026-04-17</lastmod><priority>0.8</priority></url>

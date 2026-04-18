@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Boardcon lanza el Tiny1126B, un módulo de sistema en un solo chip más pequeño y ligero",
+      "category": "embebidos",
+      "date": "2026-04-18",
+      "slug": "boardcon-lanza-el-tiny1126b-un-modulo-de-sistema-en-un-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boardcon ha presentado el Tiny1126B, un módulo de sistema en un solo chip (SoC) más pequeño y ligero que su antecesor, el MINI1126B-P. Este módulo está diseñado para ser utilizado en sistemas de visión artificial para cámaras inteligentes,…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-18-boardcon-lanza-el-tiny1126b-un-modulo-de-sistema-en-un-.md"
+    },
+    {
+      "title": "WiQwiic-32: una placa de desarrollo IoT compacta con Qwiic",
+      "category": "embebidos",
+      "date": "2026-04-18",
+      "slug": "wiqwiic-32-una-placa-de-desarrollo-iot-compacta-con-qwi",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Hack The Board ha lanzado la placa de desarrollo WiQwiic-32, una plataforma IoT compacta basada en el módulo ESP32-S3-WROOM-1 y equipada con una pantalla LCD de 1,14 pulgadas y ocho conectores Qwiic para prototipado fácil con módulos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-18-wiqwiic-32-una-placa-de-desarrollo-iot-compacta-con-qwi.md"
+    },
+    {
+      "title": "Alerta de Congelación para Macetas con Adafruit IO y WipperSnapper",
+      "category": "embebidos",
+      "date": "2026-04-18",
+      "slug": "alerta-de-congelacion-para-macetas-con-adafruit-io-y-wi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "¿Quieres proteger tus macetas de la congelación nocturna? Un equipo de Adafruit ha creado un dispositivo de alerta de congelación que utiliza Adafruit IO y WipperSnapper para enviar notificaciones a tu teléfono cuando se prevé una…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-18-alerta-de-congelacion-para-macetas-con-adafruit-io-y-wi.md"
+    },
+    {
+      "title": "Un brazo robótico abierto para la IA y la teleoperación",
+      "category": "robotica",
+      "date": "2026-04-18",
+      "slug": "un-brazo-robotico-abierto-para-la-ia-y-la-teleoperacion",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Seeed Studio ha presentado el reBot Arm B601-DM, un brazo robótico de 6+1 grados de libertad diseñado para facilitar el aprendizaje de la IA y la teleoperación. Este brazo robótico es una herramienta valiosa para investigadores y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-18-un-brazo-robotico-abierto-para-la-ia-y-la-teleoperacion.md"
+    },
+    {
+      "title": "Digit aprende a levantar pesas con precisión",
+      "category": "robotica",
+      "date": "2026-04-18",
+      "slug": "digit-aprende-a-levantar-pesas-con-precision",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automatico"
+      ],
+      "preview": "La empresa Dexterity ha entrenado a su robot Digit para levantar una pesa de 29,5 kg con precisión, utilizando técnicas de aprendizaje automático y simulación. Esto permite a los investigadores probar los límites de su hardware y métodos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-18-digit-aprende-a-levantar-pesas-con-precision.md"
+    },
+    {
+      "title": "Lámpara inteligente que hace tareas domésticas como hacer la cama",
+      "category": "robotica",
+      "date": "2026-04-18",
+      "slug": "lampara-inteligente-que-hace-tareas-domesticas-como-hac",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Una lámpara inteligente llamada Lume puede hacer tareas domésticas como hacer la cama y doblar ropa. Pero ¿es realmente capaz de hacerlo? Según su creador, Syncere, esta lámpara tiene un diseño estético y puede moverse de manera…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-18-lampara-inteligente-que-hace-tareas-domesticas-como-hac.md"
+    },
+    {
+      "title": "ROSCon 2026: noticias y eventos de la comunidad de robótica",
+      "category": "robotica",
+      "date": "2026-04-18",
+      "slug": "roscon-2026-noticias-y-eventos-de-la-comunidad-de-rob-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica ROSCon ha compartido varias noticias y eventos importantes en la semana del 13 de abril de 2026. Entre ellas, se encuentra el anuncio del próximo ROSCon JP y el lanzamiento de un nuevo paquete para integrar la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-18-roscon-2026-noticias-y-eventos-de-la-comunidad-de-rob-2.md"
+    },
+    {
+      "title": "OpenAI pierde a dos de sus arquitectos más destacados",
+      "category": "ia",
+      "date": "2026-04-18",
+      "slug": "openai-pierde-a-dos-de-sus-arquitectos-mas-destacados",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "OpenAI está experimentando una serie de cambios importantes en su equipo, con la salida de dos de sus principales arquitectos. Kevin Weil y Bill Peebles, responsables de proyectos ambiciosos como Sora y OpenAI for Science, han anunciado su…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-18-openai-pierde-a-dos-de-sus-arquitectos-mas-destacados.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-18",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boston Dynamics ha equipado a su robot Spot con un modelo de razonamiento avanzado de Google DeepMind, lo que le permite realizar tareas de inspección de manera autónoma y precisa.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-18-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-4.md"
+    },
+    {
+      "title": "Actualización de seguridad en Raspberry Pi OS",
+      "category": "linux",
+      "date": "2026-04-18",
+      "slug": "actualizacion-de-seguridad-en-raspberry-pi-os-2",
+      "tags": [
+        "linux",
+        "raspberry-pi",
+        "seguridad"
+      ],
+      "preview": "La versión 6.2 de Raspberry Pi OS incluye una actualización de seguridad importante que afecta a la configuración de acceso administrador en el sistema.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-18-actualizacion-de-seguridad-en-raspberry-pi-os-2.md"
+    },
+    {
+      "title": "Linux 7.1: El nuevo driver NTFS revoluciona la escritura en Linux",
+      "category": "linux",
+      "date": "2026-04-18",
+      "slug": "linux-71-el-nuevo-driver-ntfs-revoluciona-la-escritura-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El equipo de desarrollo de Linux ha logrado un gran avance con la integración de un nuevo driver NTFS que permite la escritura en Linux 7.1. Este driver, desarrollado por Namjae Jeon, reemplaza al antiguo driver Paragon NTFS3 y ofrece una…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-18-linux-71-el-nuevo-driver-ntfs-revoluciona-la-escritura-.md"
+    },
+    {
+      "title": "Cyberdecks: los ordenadores portátiles de ciencia ficción se hacen realidad",
+      "category": "linux",
+      "date": "2026-04-18",
+      "slug": "cyberdecks-los-ordenadores-portatiles-de-ciencia-ficcio",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La comunidad de makers ha visto un aumento en el número de proyectos de cyberdecks, ordenadores portátiles inspirados en la ciencia ficción. Entre ellos, destacan los que utilizan la Raspberry Pi como plataforma de base.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-18-cyberdecks-los-ordenadores-portatiles-de-ciencia-ficcio.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-18",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-10",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "El día viernes se han publicado varias actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian y Fedora. Estas actualizaciones incluyen correcciones de vulnerabilidades en paquetes como .NET, FreeRDP,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-18-actualizaciones-de-seguridad-para-sistemas-operativo-10.md"
+    },
+    {
+      "title": "Vulnerabilidad de seguridad en procesadores AMD Zen 1: patch en Linux",
+      "category": "linux",
+      "date": "2026-04-18",
+      "slug": "vulnerabilidad-de-seguridad-en-procesadores-amd-zen-1-p",
+      "tags": [
+        "linux",
+        "seguridad",
+        "cpu"
+      ],
+      "preview": "La compañía AMD ha hecho público un problema de seguridad en sus procesadores Zen 1, que pueden permitir a un atacante privilegiado acceder a datos sensibles. La vulnerabilidad afecta solo a los procesadores Zen 1 y Zen 1+, y no a las…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-18-vulnerabilidad-de-seguridad-en-procesadores-amd-zen-1-p.md"
+    },
+    {
+      "title": "Validador de URDF en línea gratuito para ROS sin instalación",
+      "category": "linux",
+      "date": "2026-04-18",
+      "slug": "validador-de-urdf-en-linea-gratuito-para-ros-sin-instal",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El desarrollo de robots y sistemas autónomos requiere la creación de modelos de urdf, pero la validación de estos archivos puede ser un proceso tedioso. Un desarrollador ha creado un validador de urdf en línea gratuito que permite validar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-18-validador-de-urdf-en-linea-gratuito-para-ros-sin-instal.md"
+    },
+    {
       "title": "Conclusive Engineering lanza SBC ultra compacto KSTR-SAMA5D27",
       "category": "embebidos",
       "date": "2026-04-17",
