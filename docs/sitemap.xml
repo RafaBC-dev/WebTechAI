@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-18</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-19</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-19-beagleconnect-zepto-el-ordenador-de-1-con-tecnologia-de.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-19-sensores-de-proximidad-extremadamente-sensibles-basados.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-19-boardcon-tiny1126b-un-modulo-de-sistema-en-miniatura-pa.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-19-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-3.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-19-lampara-inteligente-que-hace-tareas-domesticas-con-ia-y.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-19-desafio-de-programacion-de-robots-unibotics-robot-progr.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-19-digit-aprende-a-levantar-pesas-de-65-libras-con-coordin.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-19-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-5.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-19-linux-71-mejoras-en-raid-y-io-uring-para-un-rendimiento.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-19-cerebras-systems-lanza-ipo-con-tecnologia-de-procesamie.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-19-un-bug-de-4-anos-en-tf2-como-un-joven-programador-lo-re.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-19-eclipse-zenoh-190-una-actualizacion-importante-para-la-.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-19-problema-con-gazebo-en-contenedor-de-evaluacion-en-rtx-.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-19-linux-71-agrega-nuevos-tipos-de-bancos-smca-para-epyc-v.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-19-cyberdecks-la-creciente-popularidad-de-estos-ordenadore.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-18-boardcon-lanza-el-tiny1126b-un-modulo-de-sistema-en-un-.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-18-wiqwiic-32-una-placa-de-desarrollo-iot-compacta-con-qwi.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-18-alerta-de-congelacion-para-macetas-con-adafruit-io-y-wi.md</loc><lastmod>2026-04-18</lastmod><priority>0.8</priority></url>

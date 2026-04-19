@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "BeagleConnect Zepto: el 'ordenador de $1' con tecnología de vanguardia",
+      "category": "embebidos",
+      "date": "2026-04-19",
+      "slug": "beagleconnect-zepto-el-ordenador-de-1-con-tecnologia-de",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La BeagleBoard.org Foundation ha lanzado el BeagleConnect Zepto, un pequeño ordenador de $1 que utiliza la tecnología de vanguardia de Texas Instruments. Este dispositivo revolucionario está diseñado para ser una herramienta de prototipado…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-19-beagleconnect-zepto-el-ordenador-de-1-con-tecnologia-de.md"
+    },
+    {
+      "title": "Sensores de proximidad extremadamente sensibles basados en capacitancia",
+      "category": "embebidos",
+      "date": "2026-04-19",
+      "slug": "sensores-de-proximidad-extremadamente-sensibles-basados",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha desarrollado un sensor de proximidad extremadamente sensible utilizando capacitancia, lo que podría revolucionar la detección de objetos en aplicaciones de robótica y automatización.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-19-sensores-de-proximidad-extremadamente-sensibles-basados.md"
+    },
+    {
+      "title": "Boardcon Tiny1126B: un módulo de sistema en miniatura para aplicaciones de visión por computadora",
+      "category": "embebidos",
+      "date": "2026-04-19",
+      "slug": "boardcon-tiny1126b-un-modulo-de-sistema-en-miniatura-pa",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boardcon ha lanzado el Tiny1126B, un módulo de sistema en miniatura que se enfoca en aplicaciones de visión por computadora, como cámaras inteligentes, sensores de movimiento y robots de limpieza. Este dispositivo es más pequeño y ligero…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-19-boardcon-tiny1126b-un-modulo-de-sistema-en-miniatura-pa.md"
+    },
+    {
+      "title": "Pironman 5 Pro Max: un caso para Raspberry Pi 5 con pantalla y audio integrado",
+      "category": "embebidos",
+      "date": "2026-04-19",
+      "slug": "pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-3",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "SunFounder ha lanzado un nuevo caso para Raspberry Pi 5 llamado Pironman 5 Pro Max, que incluye una pantalla táctil de 4,3 pulgadas, una cámara de 5MP y dos altavoces. También viene con una batería de 2.000mAh y un sistema de alimentación…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-19-pironman-5-pro-max-un-caso-para-raspberry-pi-5-con-pa-3.md"
+    },
+    {
+      "title": "Lámpara inteligente que hace tareas domésticas con IA y robótica",
+      "category": "robotica",
+      "date": "2026-04-19",
+      "slug": "lampara-inteligente-que-hace-tareas-domesticas-con-ia-y",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Una lámpara inteligente llamada Lume puede hacer tareas domésticas como hacer la cama y doblar la ropa. Pero ¿cómo funciona y qué tecnología se utiliza?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-19-lampara-inteligente-que-hace-tareas-domesticas-con-ia-y.md"
+    },
+    {
+      "title": "Desafío de programación de robots: Unibotics Robot Programming Challenge",
+      "category": "robotica",
+      "date": "2026-04-19",
+      "slug": "desafio-de-programacion-de-robots-unibotics-robot-progr",
+      "tags": [
+        "robotica",
+        "python",
+        "linux"
+      ],
+      "preview": "La organización JdeRobot lanza el Unibotics Robot Programming Challenge, un desafío de programación de robots en línea que se llevará a cabo del 15 al 30 de abril de 2026. El objetivo es programar un coche de Fórmula 1 para seguir una…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-19-desafio-de-programacion-de-robots-unibotics-robot-progr.md"
+    },
+    {
+      "title": "Digit aprende a levantar pesas de 65 libras con coordinación corporal",
+      "category": "robotica",
+      "date": "2026-04-19",
+      "slug": "digit-aprende-a-levantar-pesas-de-65-libras-con-coordin",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "drones"
+      ],
+      "preview": "El robot Digit ha demostrado su capacidad para levantar pesas de 65 libras, un logro que implica una coordinación corporal compleja y una mayor resistencia en sus actuadores y articulaciones. Esto se logró mediante la simulación y el…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-19-digit-aprende-a-levantar-pesas-de-65-libras-con-coordin.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-19",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-5",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boston Dynamics, conocida por su robot Spot, ha anunciado que ha equipado a su robot con un modelo de razonamiento avanzado llamado Gemini Robotics-ER 1.6, desarrollado por Google DeepMind. Esto permitirá a Spot realizar tareas complejas…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-19-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-5.md"
+    },
+    {
+      "title": "Linux 7.1: Mejoras en RAID y IO_uring para un rendimiento óptimo",
+      "category": "ia",
+      "date": "2026-04-19",
+      "slug": "linux-71-mejoras-en-raid-y-io-uring-para-un-rendimiento",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.1 de Linux ha sido lanzada con importantes mejoras en el sistema de bloques y IO_uring, lo que debería mejorar el rendimiento y la eficiencia de la gestión de almacenamiento en Linux.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-19-linux-71-mejoras-en-raid-y-io-uring-para-un-rendimiento.md"
+    },
+    {
+      "title": "Cerebras Systems lanza IPO con tecnología de procesamiento de IA",
+      "category": "ia",
+      "date": "2026-04-19",
+      "slug": "cerebras-systems-lanza-ipo-con-tecnologia-de-procesamie",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "Cerebras Systems, una startup de procesamiento de IA, ha presentado su oferta pública de acciones (IPO) después de recaudar 1,1 billones de dólares en financiación. La empresa cuenta con acuerdos con Amazon Web Services y OpenAI.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-19-cerebras-systems-lanza-ipo-con-tecnologia-de-procesamie.md"
+    },
+    {
+      "title": "Un bug de 4 años en TF2: cómo un joven programador lo resolvió",
+      "category": "ia",
+      "date": "2026-04-19",
+      "slug": "un-bug-de-4-anos-en-tf2-como-un-joven-programador-lo-re",
+      "tags": [
+        "ia-local",
+        "codigo",
+        "linux"
+      ],
+      "preview": "Un joven programador, Joey Cheerio, ha descubierto y resuelto un bug de 4 años en el juego Team Fortress 2. El bug causaba que un balón se volviera invisible cuando se disparaba.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-19-un-bug-de-4-anos-en-tf2-como-un-joven-programador-lo-re.md"
+    },
+    {
+      "title": "Eclipse Zenoh 1.9.0: una actualización importante para la comunicación de dispositivos",
+      "category": "linux",
+      "date": "2026-04-19",
+      "slug": "eclipse-zenoh-190-una-actualizacion-importante-para-la-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La versión 1.9.0 de Eclipse Zenoh ha sido lanzada, trayendo mejoras significativas en la comunicación entre dispositivos. Esto es especialmente relevante para las implementaciones de ROS 2 y RMW Zenoh, que pueden aprovechar estas mejoras…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-19-eclipse-zenoh-190-una-actualizacion-importante-para-la-.md"
+    },
+    {
+      "title": "Problema con Gazebo en contenedor de evaluación en RTX 5090",
+      "category": "linux",
+      "date": "2026-04-19",
+      "slug": "problema-con-gazebo-en-contenedor-de-evaluacion-en-rtx-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un usuario ha reportado problemas al intentar ejecutar Gazebo en un contenedor de evaluación en una tarjeta gráfica NVIDIA RTX 5090 con el driver 575.57.08. El error ocurre al intentar crear un contexto OpenGL.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-19-problema-con-gazebo-en-contenedor-de-evaluacion-en-rtx-.md"
+    },
+    {
+      "title": "Linux 7.1 agrega nuevos tipos de bancos SMCA para EPYC Venice",
+      "category": "linux",
+      "date": "2026-04-19",
+      "slug": "linux-71-agrega-nuevos-tipos-de-bancos-smca-para-epyc-v",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.1 de Linux ha sido actualizada con soporte para nuevos tipos de bancos SMCA, lo que sugiere que están destinados a la próxima generación de procesadores EPYC Venice de AMD. Esto es importante porque permitirá a los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-19-linux-71-agrega-nuevos-tipos-de-bancos-smca-para-epyc-v.md"
+    },
+    {
+      "title": "Cyberdecks: la creciente popularidad de estos ordenadores portátiles",
+      "category": "linux",
+      "date": "2026-04-19",
+      "slug": "cyberdecks-la-creciente-popularidad-de-estos-ordenadore",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La comunidad de makers está experimentando un renacimiento en la creación de cyberdecks, ordenadores portátiles inspirados en la ciencia ficción. La noticia ha sido recientemente reportada en CNN, y Raspberry Pi se ha convertido en la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-19-cyberdecks-la-creciente-popularidad-de-estos-ordenadore.md"
+    },
+    {
       "title": "Boardcon lanza el Tiny1126B, un módulo de sistema en un solo chip más pequeño y ligero",
       "category": "embebidos",
       "date": "2026-04-18",
