@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Adafruit lanza CircuitPython 10.2.0-rc.0 y proyectos de robótica",
+      "category": "embebidos",
+      "date": "2026-04-20",
+      "slug": "adafruit-lanza-circuitpython-1020-rc0-y-proyectos-de-ro",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "python"
+      ],
+      "preview": "Adafruit ha lanzado una serie de noticias interesantes, incluyendo la versión beta de CircuitPython 10.2.0 y proyectos de robótica como ESP-NOW Walkie Talkies y una demo de QT Py ESP32.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-20-adafruit-lanza-circuitpython-1020-rc0-y-proyectos-de-ro.md"
+    },
+    {
+      "title": "Añade un sensor personalizado a un kit de robot con MicroPython",
+      "category": "embebidos",
+      "date": "2026-04-20",
+      "slug": "anade-un-sensor-personalizado-a-un-kit-de-robot-con-mic",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "python"
+      ],
+      "preview": "El proyecto consiste en agregar un sensor de audio a un kit de robot Otto, permitiendo que el robot detecte sonidos y se gire hacia ellos. Esto es posible gracias a la plataforma MicroPython y la herramienta Thonny.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-20-anade-un-sensor-personalizado-a-un-kit-de-robot-con-mic.md"
+    },
+    {
+      "title": "10 Proyectos de Relojes Creativos con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-04-20",
+      "slug": "10-proyectos-de-relojes-creativos-con-raspberry-pi-3",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "python"
+      ],
+      "preview": "Los creadores de contenido en línea han compartido sus proyectos de relojes innovadores construidos con Raspberry Pi. Estos proyectos demuestran la versatilidad de la plataforma y la capacidad de los usuarios para crear algo único y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-20-10-proyectos-de-relojes-creativos-con-raspberry-pi-3.md"
+    },
+    {
+      "title": "Lámpara inteligente que hace tareas domésticas",
+      "category": "robotica",
+      "date": "2026-04-20",
+      "slug": "lampara-inteligente-que-hace-tareas-domesticas-3",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Una lámpara diseñada para sentirse como parte de la decoración de una habitación ha revelado una capacidad sorprendente para realizar tareas domésticas como hacer la cama y doblar la ropa. Pero ¿es realmente capaz de hacerlo?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-20-lampara-inteligente-que-hace-tareas-domesticas-3.md"
+    },
+    {
+      "title": "Digit aprende a levantar pesas con la ayuda de la inteligencia artificial",
+      "category": "robotica",
+      "date": "2026-04-20",
+      "slug": "digit-aprende-a-levantar-pesas-con-la-ayuda-de-la-intel",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmark"
+      ],
+      "preview": "La inteligencia artificial está revolucionando la robótica. En este video, vemos a Digit, un robot humanoide, levantar pesas de 29,5 kg con la ayuda de la IA. Pero ¿cómo lo hace? ¿Qué tecnologías están detrás de este logro?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-20-digit-aprende-a-levantar-pesas-con-la-ayuda-de-la-intel.md"
+    },
+    {
+      "title": "Nueva biblioteca ROS 2 en Rust para receptores GNSS u-blox ZED-F9P",
+      "category": "robotica",
+      "date": "2026-04-20",
+      "slug": "nueva-biblioteca-ros-2-en-rust-para-receptores-gnss-u-b",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica y sistemas embebidos ha recibido una noticia importante con la creación de una nueva biblioteca ROS 2 en Rust para receptores GNSS u-blox ZED-F9P. Esta biblioteca, llamada oxide_gnss, permite a los desarrolladores…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-20-nueva-biblioteca-ros-2-en-rust-para-receptores-gnss-u-b.md"
+    },
+    {
+      "title": "Crea un robot perro controlado por voz sin necesidad de nube",
+      "category": "robotica",
+      "date": "2026-04-20",
+      "slug": "crea-un-robot-perro-controlado-por-voz-sin-necesidad-de",
+      "tags": [
+        "robotica",
+        "esp32",
+        "codigo"
+      ],
+      "preview": "Tech Talkies ha creado un robot perro controlado por voz utilizando la tecnología ESP32S3 y ESP-Skainet. Este robot puede realizar diversas acciones como sentarse, acostarse, estirarse, caminar y bailar con solo decir una palabra de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-20-crea-un-robot-perro-controlado-por-voz-sin-necesidad-de.md"
+    },
+    {
+      "title": "ROS2 CLI con soporte de color: un cambio visual agradable",
+      "category": "robotica",
+      "date": "2026-04-20",
+      "slug": "ros2-cli-con-soporte-de-color-un-cambio-visual-agradabl",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS2 ha lanzado una actualización interesante para el comando de línea ros2cli, que permite visualizar la salida de comandos y resultados con colores. Esto puede mejorar la legibilidad y la experiencia del usuario. ¿Qué…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-20-ros2-cli-con-soporte-de-color-un-cambio-visual-agradabl.md"
+    },
+    {
+      "title": "Cámaras de seguridad IP67 con procesadores de última generación",
+      "category": "ia",
+      "date": "2026-04-20",
+      "slug": "camaras-de-seguridad-ip67-con-procesadores-de-ultima-ge",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Firefly ha lanzado dos nuevas cámaras de seguridad AI, la CQ38W-1126B y la CQ38W-3576, que ofrecen una protección IP67 y procesadores de última generación para aplicaciones comerciales, industriales y automotrices.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-20-camaras-de-seguridad-ip67-con-procesadores-de-ultima-ge.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-20",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-6",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boston Dynamics ha equipado a su robot Spot con un modelo de razonamiento avanzado de Google DeepMind, lo que permite a Spot realizar tareas complejas de inspección de manera autónoma.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-20-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-6.md"
+    },
+    {
+      "title": "OpenAI busca resolver problemas existenciales con adquisiciones recientes",
+      "category": "ia",
+      "date": "2026-04-20",
+      "slug": "openai-busca-resolver-problemas-existenciales-con-adqui",
+      "tags": [
+        "ia-local",
+        "llms",
+        "python"
+      ],
+      "preview": "OpenAI ha estado en las noticias últimamente por sus adquisiciones y competencia con Anthropic. Pero ¿qué problemas están tratando de resolver con estas adquisiciones?",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-20-openai-busca-resolver-problemas-existenciales-con-adqui.md"
+    },
+    {
+      "title": "Cyberdecks: computadoras portátiles para el futuro",
+      "category": "linux",
+      "date": "2026-04-20",
+      "slug": "cyberdecks-computadoras-portatiles-para-el-futuro",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La comunidad de makers ha visto un auge en la creación de cyberdecks, computadoras portátiles inspiradas en la ciencia ficción. Estos dispositivos están siendo construidos con Raspberry Pi y otros componentes, ofreciendo una forma…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-20-cyberdecks-computadoras-portatiles-para-el-futuro.md"
+    },
+    {
+      "title": "Lenovo Legion Go y dispositivos Sony ganan soporte en Linux 7.1",
+      "category": "linux",
+      "date": "2026-04-20",
+      "slug": "lenovo-legion-go-y-dispositivos-sony-ganan-soporte-en-l",
+      "tags": [
+        "linux",
+        "robotica",
+        "codigo"
+      ],
+      "preview": "La versión en desarrollo de Linux 7.1 ha recibido actualizaciones en el subconjunto de dispositivos HID, lo que incluye soporte para nuevos dispositivos de control de juego y mejoras en la gestión de dispositivos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-20-lenovo-legion-go-y-dispositivos-sony-ganan-soporte-en-l.md"
+    },
+    {
+      "title": "Gestión de consumo de energía en Linux: cpuidle",
+      "category": "linux",
+      "date": "2026-04-20",
+      "slug": "gestion-de-consumo-de-energia-en-linux-cpuidle",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La gestión de consumo de energía en Linux es crucial en sistemas embebidos, donde la eficiencia energética es fundamental. La tecnología cpuidle permite a los sistemas Linux elegir la mejor forma de reducir el consumo de energía cuando no…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-20-gestion-de-consumo-de-energia-en-linux-cpuidle.md"
+    },
+    {
+      "title": "Actualización de seguridad en Raspberry Pi OS",
+      "category": "linux",
+      "date": "2026-04-20",
+      "slug": "actualizacion-de-seguridad-en-raspberry-pi-os-3",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 6.2 de Raspberry Pi OS ha sido lanzada con una actualización de seguridad importante. A partir de ahora, las cuentas de usuario regulares ya no tendrán acceso sin contraseña a la ejecución de comandos administrativos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-20-actualizacion-de-seguridad-en-raspberry-pi-os-3.md"
+    },
+    {
       "title": "BeagleConnect Zepto: el 'ordenador de $1' con tecnología de vanguardia",
       "category": "embebidos",
       "date": "2026-04-19",

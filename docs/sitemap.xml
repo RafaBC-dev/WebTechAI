@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-19</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-20</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-20</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-adafruit-lanza-circuitpython-1020-rc0-y-proyectos-de-ro.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-anade-un-sensor-personalizado-a-un-kit-de-robot-con-mic.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-10-proyectos-de-relojes-creativos-con-raspberry-pi-3.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-lampara-inteligente-que-hace-tareas-domesticas-3.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-digit-aprende-a-levantar-pesas-con-la-ayuda-de-la-intel.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-nueva-biblioteca-ros-2-en-rust-para-receptores-gnss-u-b.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-crea-un-robot-perro-controlado-por-voz-sin-necesidad-de.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-ros2-cli-con-soporte-de-color-un-cambio-visual-agradabl.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-camaras-de-seguridad-ip67-con-procesadores-de-ultima-ge.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-6.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-openai-busca-resolver-problemas-existenciales-con-adqui.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-cyberdecks-computadoras-portatiles-para-el-futuro.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-lenovo-legion-go-y-dispositivos-sony-ganan-soporte-en-l.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-gestion-de-consumo-de-energia-en-linux-cpuidle.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-actualizacion-de-seguridad-en-raspberry-pi-os-3.md</loc><lastmod>2026-04-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-19-beagleconnect-zepto-el-ordenador-de-1-con-tecnologia-de.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-19-sensores-de-proximidad-extremadamente-sensibles-basados.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-19-boardcon-tiny1126b-un-modulo-de-sistema-en-miniatura-pa.md</loc><lastmod>2026-04-19</lastmod><priority>0.8</priority></url>
