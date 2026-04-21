@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Maker Monday: Proyectos personales con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-04-21",
+      "slug": "maker-monday-proyectos-personales-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La comunidad de Raspberry Pi celebra los proyectos más destacados de sus miembros. ¿Cuál es el tuyo?",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-21-maker-monday-proyectos-personales-con-raspberry-pi.md"
+    },
+    {
+      "title": "Recepción de audio DIY con sincronización multi-habitación y integración con Home Assistant",
+      "category": "embebidos",
+      "date": "2026-04-21",
+      "slug": "recepcion-de-audio-diy-con-sincronizacion-multi-habitac",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El proyecto SendspinZero permite crear una recepción de audio DIY con sincronización multi-habitación y integración con Home Assistant, utilizando componentes de bajo costo y una impresora 3D.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-21-recepcion-de-audio-diy-con-sincronizacion-multi-habitac.md"
+    },
+    {
+      "title": "LILYGO T-Watch Ultra: Un reloj inteligente IP65 con ESP32-S3 y AMOLED",
+      "category": "embebidos",
+      "date": "2026-04-21",
+      "slug": "lilygo-t-watch-ultra-un-reloj-inteligente-ip65-con-esp3",
+      "tags": [
+        "esp32",
+        "arduino",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "LILYGO ha lanzado el T-Watch Ultra, un reloj inteligente con pantalla AMOLED de 2.01 pulgadas y un SoC ESP32-S3. Este dispositivo es ideal para aplicaciones de IoT, seguimiento de GPS y desarrollo de firmware personalizado.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-21-lilygo-t-watch-ultra-un-reloj-inteligente-ip65-con-esp3.md"
+    },
+    {
+      "title": "Nueva plataforma de inteligencia artificial para Internet de las Cosas",
+      "category": "embebidos",
+      "date": "2026-04-21",
+      "slug": "nueva-plataforma-de-inteligencia-artificial-para-intern",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Ezurio ha lanzado la plataforma Tungsten 510/700, una plataforma de inteligencia artificial (IA) para Internet de las Cosas (IoT) que combina la potencia de los procesadores MediaTek Genio 510 y 700 con una amplia gama de interfaces y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-21-nueva-plataforma-de-inteligencia-artificial-para-intern.md"
+    },
+    {
+      "title": "Digit aprende a levantar pesas con precisión gracias a la IA",
+      "category": "robotica",
+      "date": "2026-04-21",
+      "slug": "digit-aprende-a-levantar-pesas-con-precision-gracias-a-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automatico"
+      ],
+      "preview": "La empresa Dexterity ha entrenado a su robot Digit para levantar pesas de 29,5 kg con precisión, utilizando técnicas de aprendizaje automático y simulación. Esto permite a los investigadores probar y mejorar el control del robot en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-21-digit-aprende-a-levantar-pesas-con-precision-gracias-a-.md"
+    },
+    {
+      "title": "Conversor de ROS1 a ROS2: una herramienta de código abierto para la migración",
+      "category": "robotica",
+      "date": "2026-04-21",
+      "slug": "conversor-de-ros1-a-ros2-una-herramienta-de-codigo-abie",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El desarrollo de sistemas robóticos a menudo implica la migración de sistemas legados a nuevas versiones de software. Una herramienta reciente llamada ROS1 to ROS2 Version Converter SDK busca simplificar este proceso.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-21-conversor-de-ros1-a-ros2-una-herramienta-de-codigo-abie.md"
+    },
+    {
+      "title": "Gazebo PMC: Revisión de Responsabilidades y Mejoras en Desarrollo",
+      "category": "robotica",
+      "date": "2026-04-21",
+      "slug": "gazebo-pmc-revision-de-responsabilidades-y-mejoras-en-d",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Gazebo se reunió el 20 de abril de 2026 para discutir la redistribución de responsabilidades de mantenimiento, actualizaciones en el buildfarm y mejoras en el desarrollo de Gazebo. Estas mejoras incluyen la integración de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-21-gazebo-pmc-revision-de-responsabilidades-y-mejoras-en-d.md"
+    },
+    {
+      "title": "La pionera de la robótica asistiva social: Maja Matarić",
+      "category": "ia",
+      "date": "2026-04-21",
+      "slug": "la-pionera-de-la-robotica-asistiva-social-maja-mataric",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La profesora Maja Matarić ha revolucionado la robótica asistiva social, creando robots que ayudan a personas con discapacidades a mejorar su calidad de vida. Su trabajo ha sido reconocido con el premio Robotics Medal de MassRobotics.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-21-la-pionera-de-la-robotica-asistiva-social-maja-mataric.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-21",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-7",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Boston Dynamics y Google DeepMind han anunciado un proyecto para equipar a su robot Spot con una inteligencia artificial que le permita razonar y tomar decisiones en entornos físicos complejos.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-21-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-7.md"
+    },
+    {
+      "title": "AMD GAIA: importe y exporte agentes de IA personalizados con facilidad",
+      "category": "ia",
+      "date": "2026-04-21",
+      "slug": "amd-gaia-importe-y-exporte-agentes-de-ia-personalizados",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "AMD ha lanzado una actualización de su plataforma GAIA, que permite a los usuarios importar y exportar agentes de IA personalizados entre sistemas de manera sencilla. Esto abre nuevas posibilidades para la creación de aplicaciones de IA…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-21-amd-gaia-importe-y-exporte-agentes-de-ia-personalizados.md"
+    },
+    {
+      "title": "Claude Code y osciloscopio: una herramienta de diseño de hardware innovadora",
+      "category": "ia",
+      "date": "2026-04-21",
+      "slug": "claude-code-y-osciloscopio-una-herramienta-de-diseno-de",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Lucas Gerads ha encontrado una forma revolucionaria de desarrollar hardware utilizando Claude Code, una herramienta de inteligencia artificial que permite crear circuitos electrónicos a partir de descripciones en lenguaje natural. Ahora,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-21-claude-code-y-osciloscopio-una-herramienta-de-diseno-de.md"
+    },
+    {
+      "title": "Linux 7.1 agrega soporte experimental para pKVM y mejoras en KVM",
+      "category": "linux",
+      "date": "2026-04-21",
+      "slug": "linux-71-agrega-soporte-experimental-para-pkvm-y-mejora",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.1 de Linux ha sido actualizada con cambios importantes en el Kernel-based Virtual Machine (KVM), una tecnología clave para la virtualización en Linux. Entre las mejoras, se encuentra el soporte experimental para pKVM, que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-21-linux-71-agrega-soporte-experimental-para-pkvm-y-mejora.md"
+    },
+    {
+      "title": "Imagen de contenedor de Arch Linux reproducible",
+      "category": "linux",
+      "date": "2026-04-21",
+      "slug": "imagen-de-contenedor-de-arch-linux-reproducible",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Arch Linux ha logrado un hito importante en la creación de imágenes de contenedor reproducibles, lo que garantiza la consistencia y la confiabilidad en el desarrollo de software.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-21-imagen-de-contenedor-de-arch-linux-reproducible.md"
+    },
+    {
+      "title": "Ciberdelincuentes convierten audífonos en micrófonos con vulnerabilidades de software",
+      "category": "linux",
+      "date": "2026-04-21",
+      "slug": "ciberdelincuentes-convierten-audifonos-en-microfonos-co",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Un grupo de investigadores ha descubierto que audífonos y altavoces pueden ser hackeados para convertirse en micrófonos, lo que permite a los ciberdelincuentes escuchar conversaciones privadas sin que se den cuenta.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-21-ciberdelincuentes-convierten-audifonos-en-microfonos-co.md"
+    },
+    {
+      "title": "ROS 2 Lyrical Luth: Pruebas de la próxima versión de ROS 2",
+      "category": "linux",
+      "date": "2026-04-21",
+      "slug": "ros-2-lyrical-luth-pruebas-de-la-proxima-version-de-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 está preparándose para la próxima versión de ROS 2, Lyrical Luth, que se lanzará el 22 de mayo. Antes de su lanzamiento, se necesitan pruebas exhaustivas para garantizar su estabilidad y funcionalidad. La comunidad…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-21-ros-2-lyrical-luth-pruebas-de-la-proxima-version-de-ros.md"
+    },
+    {
       "title": "Adafruit lanza CircuitPython 10.2.0-rc.0 y proyectos de robótica",
       "category": "embebidos",
       "date": "2026-04-20",
