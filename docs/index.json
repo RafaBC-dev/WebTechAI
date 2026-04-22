@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Botón inteligente DIY: la complejidad detrás de la simplicidad",
+      "category": "embebidos",
+      "date": "2026-04-22",
+      "slug": "boton-inteligente-diy-la-complejidad-detras-de-la-simpl",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un ingeniero ha intentado crear un botón inteligente desde cero, pero pronto descubrió que la simplicidad no es tan sencilla como parece. La complejidad de las comunicaciones inalámbricas y la conservación de energía lo llevó a una misión…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-22-boton-inteligente-diy-la-complejidad-detras-de-la-simpl.md"
+    },
+    {
+      "title": "Waveshare UGV Beast: un robot off-road con inteligencia artificial",
+      "category": "embebidos",
+      "date": "2026-04-22",
+      "slug": "waveshare-ugv-beast-un-robot-off-road-con-inteligencia-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Waveshare ha presentado el UGV Beast, un robot off-road con ruedas continuas diseñado para funcionar con la plataforma Raspberry Pi 4 o 5. Este robot es capaz de realizar tareas de visión artificial y planificación de estrategias, mientras…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-22-waveshare-ugv-beast-un-robot-off-road-con-inteligencia-.md"
+    },
+    {
+      "title": "Recepción de audio DIY Sendspin con sincronización de múltiples habitaciones",
+      "category": "embebidos",
+      "date": "2026-04-22",
+      "slug": "recepcion-de-audio-diy-sendspin-con-sincronizacion-de-m",
+      "tags": [
+        "esp32",
+        "linux",
+        "robotica"
+      ],
+      "preview": "Los entusiastas de la tecnología pueden crear su propia recepción de audio Sendspin con un costo de solo $10, utilizando componentes off-the-shelf y una impresora 3D. Esta innovadora solución permite la sincronización de audio en múltiples…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-22-recepcion-de-audio-diy-sendspin-con-sincronizacion-de-m.md"
+    },
+    {
+      "title": "Controlador MIDI wearable construido con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-04-22",
+      "slug": "controlador-midi-wearable-construido-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado un controlador MIDI wearable que permite controlar sintetizadores con la mano. Este dispositivo innovador utiliza sensores flexibles y botones táctiles para generar sonidos únicos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-22-controlador-midi-wearable-construido-con-raspberry-pi.md"
+    },
+    {
+      "title": "Digit aprende a levantar pesas con ayuda de la IA",
+      "category": "robotica",
+      "date": "2026-04-22",
+      "slug": "digit-aprende-a-levantar-pesas-con-ayuda-de-la-ia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "automatizacion"
+      ],
+      "preview": "La empresa Dexterity ha entrenado a su robot Digit para levantar una pesa de 29,5 kg con precisión y control. Esto no solo es una demostración de habilidades, sino que también permite a los investigadores probar los límites de su hardware…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-22-digit-aprende-a-levantar-pesas-con-ayuda-de-la-ia.md"
+    },
+    {
+      "title": "Conversor de ROS1 a ROS2 para sistemas de robótica de código abierto",
+      "category": "robotica",
+      "date": "2026-04-22",
+      "slug": "conversor-de-ros1-a-ros2-para-sistemas-de-robotica-de-c",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un equipo de desarrolladores está trabajando en un conversor de código abierto para facilitar la migración de sistemas de robótica legacy a ROS2, lo que mejorará la compatibilidad y simplificará el proceso de actualización.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-22-conversor-de-ros1-a-ros2-para-sistemas-de-robotica-de-c.md"
+    },
+    {
+      "title": "Crear un URDF perfecto para un brazo robótico con ROS2 y SolidWorks",
+      "category": "robotica",
+      "date": "2026-04-22",
+      "slug": "crear-un-urdf-perfecto-para-un-brazo-robotico-con-ros2-",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "Un equipo de desarrollo ha creado un brazo robótico y necesita generar un URDF (Unified Robot Description Format) para ROS2 y para hardware real, con un enfoque en la compensación de gravedad y el modo de torque sincrónico cíclico. Sin…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-22-crear-un-urdf-perfecto-para-un-brazo-robotico-con-ros2-.md"
+    },
+    {
+      "title": "La pionera en robótica socialmente asistiva que cambia vidas",
+      "category": "ia",
+      "date": "2026-04-22",
+      "slug": "la-pionera-en-robotica-socialmente-asistiva-que-cambia-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Maja Matarić, profesora de la Universidad de Southern California, ha revolucionado la robótica socialmente asistiva, creando robots que brindan terapia y cuidado personalizado a través de interacciones sociales.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-22-la-pionera-en-robotica-socialmente-asistiva-que-cambia-.md"
+    },
+    {
+      "title": "SpaceX y Cursor crean un AI para ingenieros de software con supercomputadora Colossus",
+      "category": "ia",
+      "date": "2026-04-22",
+      "slug": "spacex-y-cursor-crean-un-ai-para-ingenieros-de-software",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "SpaceX ha anunciado un acuerdo con Cursor para desarrollar un AI para ingenieros de software, utilizando la supercomputadora Colossus. Esta colaboración puede ser el primer paso hacia una posible adquisición de Cursor por SpaceX.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-22-spacex-y-cursor-crean-un-ai-para-ingenieros-de-software.md"
+    },
+    {
+      "title": "Boston Dynamics y Google DeepMind enseñan a Spot a razonar",
+      "category": "ia",
+      "date": "2026-04-22",
+      "slug": "boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-8",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmark"
+      ],
+      "preview": "Boston Dynamics y Google DeepMind han trabajado juntos para equipar a su robot Spot con la capacidad de razonar y entender su entorno. Esto significa que Spot puede realizar tareas complejas de forma autónoma y con mayor precisión.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-22-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-8.md"
+    },
+    {
+      "title": "Meta registra teclados de empleados para entrenar modelos de IA",
+      "category": "ia",
+      "date": "2026-04-22",
+      "slug": "meta-registra-teclados-de-empleados-para-entrenar-model",
+      "tags": [
+        "ia-local",
+        "linux",
+        "python"
+      ],
+      "preview": "La empresa Meta está recopilando datos de teclados y movimientos del ratón de sus empleados para entrenar modelos de inteligencia artificial más efectivos. Esta práctica revela una preocupante dimensión de privacidad en la industria de la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-22-meta-registra-teclados-de-empleados-para-entrenar-model.md"
+    },
+    {
+      "title": "Actualizaciones en F2FS, EXT4 y XFS para Linux 7.1",
+      "category": "linux",
+      "date": "2026-04-22",
+      "slug": "actualizaciones-en-f2fs-ext4-y-xfs-para-linux-71",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha estado trabajando en la versión 7.1 del sistema operativo, y recientemente se han integrado actualizaciones importantes en los sistemas de archivos F2FS, EXT4 y XFS. Estas actualizaciones se centran principalmente…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-22-actualizaciones-en-f2fs-ext4-y-xfs-para-linux-71.md"
+    },
+    {
+      "title": "Itanium: El gran reemplazo x86 que nunca fue",
+      "category": "linux",
+      "date": "2026-04-22",
+      "slug": "itanium-el-gran-reemplazo-x86-que-nunca-fue",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Itanium fue un proyecto ambicioso de Intel para competir con IBM, Sun y DEC en el mercado de servidores, pero terminó siendo un fracaso debido a retrasos y competencia feroz. Ahora, es un relicto del pasado.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-22-itanium-el-gran-reemplazo-x86-que-nunca-fue.md"
+    },
+    {
+      "title": "Introducción de swift-ros2: una biblioteca cliente nativa de ROS 2 para Swift",
+      "category": "linux",
+      "date": "2026-04-22",
+      "slug": "introduccion-de-swift-ros2-una-biblioteca-cliente-nativ",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "librerias"
+      ],
+      "preview": "La comunidad de desarrolladores de ROS 2 ha dado la bienvenida a una nueva herramienta que facilita la comunicación entre sistemas de robots y dispositivos embebidos. swift-ros2 es una biblioteca cliente nativa de ROS 2 para Swift que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-22-introduccion-de-swift-ros2-una-biblioteca-cliente-nativ.md"
+    },
+    {
+      "title": "Linux elimina drivers de red obsoletos debido a informes de errores generados por IA",
+      "category": "linux",
+      "date": "2026-04-22",
+      "slug": "linux-elimina-drivers-de-red-obsoletos-debido-a-informe",
+      "tags": [
+        "linux",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux se enfrenta a un problema creciente: los informes de errores generados por inteligencia artificial (IA) están causando un aumento significativo en la carga de trabajo para los desarrolladores del kernel. Para mitigar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-22-linux-elimina-drivers-de-red-obsoletos-debido-a-informe.md"
+    },
+    {
       "title": "Maker Monday: Proyectos personales con Raspberry Pi",
       "category": "embebidos",
       "date": "2026-04-21",

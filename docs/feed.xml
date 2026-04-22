@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 21 Apr 2026 08:28:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 08:26:36 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Botón inteligente DIY: la complejidad detrás de la simplicidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-boton-inteligente-diy-la-complejidad-detras-de-la-simpl.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-boton-inteligente-diy-la-complejidad-detras-de-la-simpl.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un ingeniero ha intentado crear un botón inteligente desde cero, pero pronto descubrió que la simplicidad no es tan sencilla como parece. La complejidad de las comunicaciones inalámbricas y la conservación de energía lo llevó a una misión…</description>
+  </item>
+  <item>
+    <title>Waveshare UGV Beast: un robot off-road con inteligencia artificial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-waveshare-ugv-beast-un-robot-off-road-con-inteligencia-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-waveshare-ugv-beast-un-robot-off-road-con-inteligencia-.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Waveshare ha presentado el UGV Beast, un robot off-road con ruedas continuas diseñado para funcionar con la plataforma Raspberry Pi 4 o 5. Este robot es capaz de realizar tareas de visión artificial y planificación de estrategias, mientras…</description>
+  </item>
+  <item>
+    <title>Recepción de audio DIY Sendspin con sincronización de múltiples habitaciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-recepcion-de-audio-diy-sendspin-con-sincronizacion-de-m.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-recepcion-de-audio-diy-sendspin-con-sincronizacion-de-m.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Los entusiastas de la tecnología pueden crear su propia recepción de audio Sendspin con un costo de solo $10, utilizando componentes off-the-shelf y una impresora 3D. Esta innovadora solución permite la sincronización de audio en múltiples…</description>
+  </item>
+  <item>
+    <title>Controlador MIDI wearable construido con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-controlador-midi-wearable-construido-con-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-controlador-midi-wearable-construido-con-raspberry-pi.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un equipo de desarrolladores ha creado un controlador MIDI wearable que permite controlar sintetizadores con la mano. Este dispositivo innovador utiliza sensores flexibles y botones táctiles para generar sonidos únicos.</description>
+  </item>
+  <item>
+    <title>Digit aprende a levantar pesas con ayuda de la IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-digit-aprende-a-levantar-pesas-con-ayuda-de-la-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-digit-aprende-a-levantar-pesas-con-ayuda-de-la-ia.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa Dexterity ha entrenado a su robot Digit para levantar una pesa de 29,5 kg con precisión y control. Esto no solo es una demostración de habilidades, sino que también permite a los investigadores probar los límites de su hardware…</description>
+  </item>
+  <item>
+    <title>Conversor de ROS1 a ROS2 para sistemas de robótica de código abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-conversor-de-ros1-a-ros2-para-sistemas-de-robotica-de-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-conversor-de-ros1-a-ros2-para-sistemas-de-robotica-de-c.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de desarrolladores está trabajando en un conversor de código abierto para facilitar la migración de sistemas de robótica legacy a ROS2, lo que mejorará la compatibilidad y simplificará el proceso de actualización.</description>
+  </item>
+  <item>
+    <title>Crear un URDF perfecto para un brazo robótico con ROS2 y SolidWorks</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-crear-un-urdf-perfecto-para-un-brazo-robotico-con-ros2-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-crear-un-urdf-perfecto-para-un-brazo-robotico-con-ros2-.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de desarrollo ha creado un brazo robótico y necesita generar un URDF (Unified Robot Description Format) para ROS2 y para hardware real, con un enfoque en la compensación de gravedad y el modo de torque sincrónico cíclico. Sin…</description>
+  </item>
+  <item>
+    <title>La pionera en robótica socialmente asistiva que cambia vidas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-la-pionera-en-robotica-socialmente-asistiva-que-cambia-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-la-pionera-en-robotica-socialmente-asistiva-que-cambia-.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Maja Matarić, profesora de la Universidad de Southern California, ha revolucionado la robótica socialmente asistiva, creando robots que brindan terapia y cuidado personalizado a través de interacciones sociales.</description>
+  </item>
+  <item>
+    <title>SpaceX y Cursor crean un AI para ingenieros de software con supercomputadora Colossus</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-spacex-y-cursor-crean-un-ai-para-ingenieros-de-software.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-spacex-y-cursor-crean-un-ai-para-ingenieros-de-software.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>SpaceX ha anunciado un acuerdo con Cursor para desarrollar un AI para ingenieros de software, utilizando la supercomputadora Colossus. Esta colaboración puede ser el primer paso hacia una posible adquisición de Cursor por SpaceX.</description>
+  </item>
+  <item>
+    <title>Boston Dynamics y Google DeepMind enseñan a Spot a razonar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-8.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-8.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Boston Dynamics y Google DeepMind han trabajado juntos para equipar a su robot Spot con la capacidad de razonar y entender su entorno. Esto significa que Spot puede realizar tareas complejas de forma autónoma y con mayor precisión.</description>
+  </item>
+  <item>
+    <title>Meta registra teclados de empleados para entrenar modelos de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-meta-registra-teclados-de-empleados-para-entrenar-model.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-meta-registra-teclados-de-empleados-para-entrenar-model.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Meta está recopilando datos de teclados y movimientos del ratón de sus empleados para entrenar modelos de inteligencia artificial más efectivos. Esta práctica revela una preocupante dimensión de privacidad en la industria de la…</description>
+  </item>
+  <item>
+    <title>Actualizaciones en F2FS, EXT4 y XFS para Linux 7.1</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-actualizaciones-en-f2fs-ext4-y-xfs-para-linux-71.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-actualizaciones-en-f2fs-ext4-y-xfs-para-linux-71.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha estado trabajando en la versión 7.1 del sistema operativo, y recientemente se han integrado actualizaciones importantes en los sistemas de archivos F2FS, EXT4 y XFS. Estas actualizaciones se centran principalmente…</description>
+  </item>
+  <item>
+    <title>Itanium: El gran reemplazo x86 que nunca fue</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-itanium-el-gran-reemplazo-x86-que-nunca-fue.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-itanium-el-gran-reemplazo-x86-que-nunca-fue.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Itanium fue un proyecto ambicioso de Intel para competir con IBM, Sun y DEC en el mercado de servidores, pero terminó siendo un fracaso debido a retrasos y competencia feroz. Ahora, es un relicto del pasado.</description>
+  </item>
+  <item>
+    <title>Introducción de swift-ros2: una biblioteca cliente nativa de ROS 2 para Swift</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-introduccion-de-swift-ros2-una-biblioteca-cliente-nativ.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-introduccion-de-swift-ros2-una-biblioteca-cliente-nativ.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de desarrolladores de ROS 2 ha dado la bienvenida a una nueva herramienta que facilita la comunicación entre sistemas de robots y dispositivos embebidos. swift-ros2 es una biblioteca cliente nativa de ROS 2 para Swift que…</description>
+  </item>
+  <item>
+    <title>Linux elimina drivers de red obsoletos debido a informes de errores generados por IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-linux-elimina-drivers-de-red-obsoletos-debido-a-informe.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-linux-elimina-drivers-de-red-obsoletos-debido-a-informe.md</guid>
+    <pubDate>Wed, 22 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux se enfrenta a un problema creciente: los informes de errores generados por inteligencia artificial (IA) están causando un aumento significativo en la carga de trabajo para los desarrolladores del kernel. Para mitigar…</description>
+  </item>
   <item>
     <title>Maker Monday: Proyectos personales con Raspberry Pi</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-21-maker-monday-proyectos-personales-con-raspberry-pi.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 21 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La comunidad de ROS 2 está preparándose para la próxima versión de ROS 2, Lyrical Luth, que se lanzará el 22 de mayo. Antes de su lanzamiento, se necesitan pruebas exhaustivas para garantizar su estabilidad y funcionalidad. La comunidad…</description>
-  </item>
-  <item>
-    <title>Adafruit lanza CircuitPython 10.2.0-rc.0 y proyectos de robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-adafruit-lanza-circuitpython-1020-rc0-y-proyectos-de-ro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-adafruit-lanza-circuitpython-1020-rc0-y-proyectos-de-ro.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado una serie de noticias interesantes, incluyendo la versión beta de CircuitPython 10.2.0 y proyectos de robótica como ESP-NOW Walkie Talkies y una demo de QT Py ESP32.</description>
-  </item>
-  <item>
-    <title>Añade un sensor personalizado a un kit de robot con MicroPython</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-anade-un-sensor-personalizado-a-un-kit-de-robot-con-mic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-anade-un-sensor-personalizado-a-un-kit-de-robot-con-mic.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto consiste en agregar un sensor de audio a un kit de robot Otto, permitiendo que el robot detecte sonidos y se gire hacia ellos. Esto es posible gracias a la plataforma MicroPython y la herramienta Thonny.</description>
-  </item>
-  <item>
-    <title>10 Proyectos de Relojes Creativos con Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-10-proyectos-de-relojes-creativos-con-raspberry-pi-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-20-10-proyectos-de-relojes-creativos-con-raspberry-pi-3.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Los creadores de contenido en línea han compartido sus proyectos de relojes innovadores construidos con Raspberry Pi. Estos proyectos demuestran la versatilidad de la plataforma y la capacidad de los usuarios para crear algo único y…</description>
-  </item>
-  <item>
-    <title>Lámpara inteligente que hace tareas domésticas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-lampara-inteligente-que-hace-tareas-domesticas-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-lampara-inteligente-que-hace-tareas-domesticas-3.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una lámpara diseñada para sentirse como parte de la decoración de una habitación ha revelado una capacidad sorprendente para realizar tareas domésticas como hacer la cama y doblar la ropa. Pero ¿es realmente capaz de hacerlo?</description>
-  </item>
-  <item>
-    <title>Digit aprende a levantar pesas con la ayuda de la inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-digit-aprende-a-levantar-pesas-con-la-ayuda-de-la-intel.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-digit-aprende-a-levantar-pesas-con-la-ayuda-de-la-intel.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La inteligencia artificial está revolucionando la robótica. En este video, vemos a Digit, un robot humanoide, levantar pesas de 29,5 kg con la ayuda de la IA. Pero ¿cómo lo hace? ¿Qué tecnologías están detrás de este logro?</description>
-  </item>
-  <item>
-    <title>Nueva biblioteca ROS 2 en Rust para receptores GNSS u-blox ZED-F9P</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-nueva-biblioteca-ros-2-en-rust-para-receptores-gnss-u-b.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-nueva-biblioteca-ros-2-en-rust-para-receptores-gnss-u-b.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de robótica y sistemas embebidos ha recibido una noticia importante con la creación de una nueva biblioteca ROS 2 en Rust para receptores GNSS u-blox ZED-F9P. Esta biblioteca, llamada oxide_gnss, permite a los desarrolladores…</description>
-  </item>
-  <item>
-    <title>Crea un robot perro controlado por voz sin necesidad de nube</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-crea-un-robot-perro-controlado-por-voz-sin-necesidad-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-crea-un-robot-perro-controlado-por-voz-sin-necesidad-de.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Tech Talkies ha creado un robot perro controlado por voz utilizando la tecnología ESP32S3 y ESP-Skainet. Este robot puede realizar diversas acciones como sentarse, acostarse, estirarse, caminar y bailar con solo decir una palabra de…</description>
-  </item>
-  <item>
-    <title>ROS2 CLI con soporte de color: un cambio visual agradable</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-ros2-cli-con-soporte-de-color-un-cambio-visual-agradabl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-20-ros2-cli-con-soporte-de-color-un-cambio-visual-agradabl.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS2 ha lanzado una actualización interesante para el comando de línea ros2cli, que permite visualizar la salida de comandos y resultados con colores. Esto puede mejorar la legibilidad y la experiencia del usuario. ¿Qué…</description>
-  </item>
-  <item>
-    <title>Cámaras de seguridad IP67 con procesadores de última generación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-camaras-de-seguridad-ip67-con-procesadores-de-ultima-ge.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-camaras-de-seguridad-ip67-con-procesadores-de-ultima-ge.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Firefly ha lanzado dos nuevas cámaras de seguridad AI, la CQ38W-1126B y la CQ38W-3576, que ofrecen una protección IP67 y procesadores de última generación para aplicaciones comerciales, industriales y automotrices.</description>
-  </item>
-  <item>
-    <title>Boston Dynamics y Google DeepMind enseñan a Spot a razonar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-6.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-6.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Boston Dynamics ha equipado a su robot Spot con un modelo de razonamiento avanzado de Google DeepMind, lo que permite a Spot realizar tareas complejas de inspección de manera autónoma.</description>
-  </item>
-  <item>
-    <title>OpenAI busca resolver problemas existenciales con adquisiciones recientes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-openai-busca-resolver-problemas-existenciales-con-adqui.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-20-openai-busca-resolver-problemas-existenciales-con-adqui.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha estado en las noticias últimamente por sus adquisiciones y competencia con Anthropic. Pero ¿qué problemas están tratando de resolver con estas adquisiciones?</description>
-  </item>
-  <item>
-    <title>Cyberdecks: computadoras portátiles para el futuro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-cyberdecks-computadoras-portatiles-para-el-futuro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-cyberdecks-computadoras-portatiles-para-el-futuro.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de makers ha visto un auge en la creación de cyberdecks, computadoras portátiles inspiradas en la ciencia ficción. Estos dispositivos están siendo construidos con Raspberry Pi y otros componentes, ofreciendo una forma…</description>
-  </item>
-  <item>
-    <title>Lenovo Legion Go y dispositivos Sony ganan soporte en Linux 7.1</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-lenovo-legion-go-y-dispositivos-sony-ganan-soporte-en-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-lenovo-legion-go-y-dispositivos-sony-ganan-soporte-en-l.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión en desarrollo de Linux 7.1 ha recibido actualizaciones en el subconjunto de dispositivos HID, lo que incluye soporte para nuevos dispositivos de control de juego y mejoras en la gestión de dispositivos.</description>
-  </item>
-  <item>
-    <title>Gestión de consumo de energía en Linux: cpuidle</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-gestion-de-consumo-de-energia-en-linux-cpuidle.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-gestion-de-consumo-de-energia-en-linux-cpuidle.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La gestión de consumo de energía en Linux es crucial en sistemas embebidos, donde la eficiencia energética es fundamental. La tecnología cpuidle permite a los sistemas Linux elegir la mejor forma de reducir el consumo de energía cuando no…</description>
-  </item>
-  <item>
-    <title>Actualización de seguridad en Raspberry Pi OS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-actualizacion-de-seguridad-en-raspberry-pi-os-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-20-actualizacion-de-seguridad-en-raspberry-pi-os-3.md</guid>
-    <pubDate>Mon, 20 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 6.2 de Raspberry Pi OS ha sido lanzada con una actualización de seguridad importante. A partir de ahora, las cuentas de usuario regulares ya no tendrán acceso sin contraseña a la ejecución de comandos administrativos.</description>
   </item>
 </channel>
 </rss>

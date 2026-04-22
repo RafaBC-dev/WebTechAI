@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-21</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-22</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-boton-inteligente-diy-la-complejidad-detras-de-la-simpl.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-waveshare-ugv-beast-un-robot-off-road-con-inteligencia-.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-recepcion-de-audio-diy-sendspin-con-sincronizacion-de-m.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-22-controlador-midi-wearable-construido-con-raspberry-pi.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-digit-aprende-a-levantar-pesas-con-ayuda-de-la-ia.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-conversor-de-ros1-a-ros2-para-sistemas-de-robotica-de-c.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-22-crear-un-urdf-perfecto-para-un-brazo-robotico-con-ros2-.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-la-pionera-en-robotica-socialmente-asistiva-que-cambia-.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-spacex-y-cursor-crean-un-ai-para-ingenieros-de-software.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-boston-dynamics-y-google-deepmind-ensenan-a-spot-a-ra-8.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-22-meta-registra-teclados-de-empleados-para-entrenar-model.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-actualizaciones-en-f2fs-ext4-y-xfs-para-linux-71.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-itanium-el-gran-reemplazo-x86-que-nunca-fue.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-introduccion-de-swift-ros2-una-biblioteca-cliente-nativ.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-22-linux-elimina-drivers-de-red-obsoletos-debido-a-informe.md</loc><lastmod>2026-04-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-21-maker-monday-proyectos-personales-con-raspberry-pi.md</loc><lastmod>2026-04-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-21-recepcion-de-audio-diy-con-sincronizacion-multi-habitac.md</loc><lastmod>2026-04-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-21-lilygo-t-watch-ultra-un-reloj-inteligente-ip65-con-esp3.md</loc><lastmod>2026-04-21</lastmod><priority>0.8</priority></url>
