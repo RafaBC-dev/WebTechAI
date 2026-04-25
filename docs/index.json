@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Axiomtek PICO570: una SBC de alta performance para aplicaciones de IA",
+      "category": "embebidos",
+      "date": "2026-04-25",
+      "slug": "axiomtek-pico570-una-sbc-de-alta-performance-para-aplic",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Axiomtek ha lanzado el PICO570, una SBC de alta performance que combina un procesador Intel Core Ultra Meteor Lake-U con una memoria DDR5-5600 y una interfaz HDMI 2.1. Esta SBC es ideal para aplicaciones de IA, automatización y sistemas de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-25-axiomtek-pico570-una-sbc-de-alta-performance-para-aplic.md"
+    },
+    {
+      "title": "Bundle de libros de Raspberry Pi a precio variable para apoyar la fundación",
+      "category": "embebidos",
+      "date": "2026-04-25",
+      "slug": "bundle-de-libros-de-raspberry-pi-a-precio-variable-para",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "codigo"
+      ],
+      "preview": "La Raspberry Pi Foundation ha lanzado un bundle de libros electrónicos de su editorial, disponible a precio variable a través de Humble Bundle. El objetivo es recaudar fondos para apoyar la fundación en su labor de promover la educación en…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-25-bundle-de-libros-de-raspberry-pi-a-precio-variable-para.md"
+    },
+    {
+      "title": "Argon Industria HMI 5C: un encuadre industrial para Raspberry Pi 5",
+      "category": "embebidos",
+      "date": "2026-04-25",
+      "slug": "argon-industria-hmi-5c-un-encuadre-industrial-para-rasp",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa Argon ha lanzado un nuevo encuadre industrial para Raspberry Pi 5 y la pantalla táctil de 5 pulgadas del Pi, diseñado para crear sistemas de interfaz humana máquina compactos y robustos.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-25-argon-industria-hmi-5c-un-encuadre-industrial-para-rasp.md"
+    },
+    {
+      "title": "Robótico crea réplica a tamaño real del ordenador electrónico ENIAC",
+      "category": "robotica",
+      "date": "2026-04-25",
+      "slug": "robotico-crea-replica-a-tamano-real-del-ordenador-elect",
+      "tags": [
+        "robotica",
+        "historia-de-la-informatica",
+        "programacion"
+      ],
+      "preview": "Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ordenador electrónico ENIAC, un hito en la historia de la informática.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-25-robotico-crea-replica-a-tamano-real-del-ordenador-elect.md"
+    },
+    {
+      "title": "China: el gobierno estadounidense propone una ley para prohibir robots chinos",
+      "category": "robotica",
+      "date": "2026-04-25",
+      "slug": "china-el-gobierno-estadounidense-propone-una-ley-para-p",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El gobierno estadounidense propone una ley para limitar el uso de robots chinos en el país, incluyendo humanoids, perros y arrastradores. Esta medida forma parte de una estrategia más amplia para desacoplar la tecnología sensible…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-25-china-el-gobierno-estadounidense-propone-una-ley-para-p.md"
+    },
+    {
+      "title": "ROS 2 Lyrical Luth: Próxima versión de ROS 2 y eventos relacionados",
+      "category": "robotica",
+      "date": "2026-04-25",
+      "slug": "ros-2-lyrical-luth-proxima-version-de-ros-2-y-eventos-r",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad ROS está trabajando en la próxima versión de ROS 2, llamada Lyrical Luth, y hay varios eventos relacionados que vale la pena mencionar. Entre ellos, un test y tutorial party para probar la versión beta y una convocatoria para…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-25-ros-2-lyrical-luth-proxima-version-de-ros-2-y-eventos-r.md"
+    },
+    {
+      "title": "Robótica: ¿quién gana en un partido de ping-pong contra un robot?",
+      "category": "robotica",
+      "date": "2026-04-25",
+      "slug": "robotica-quien-gana-en-un-partido-de-ping-pong-contra-u",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "En un desafío emocionante, robots y jugadores humanos se enfrentan en un partido de ping-pong. Pero ¿quién saldrá victorioso? Los últimos avances en la robótica y la inteligencia artificial están revolucionando el mundo de los robots, que…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-25-robotica-quien-gana-en-un-partido-de-ping-pong-contra-u.md"
+    },
+    {
+      "title": "Router Wi-Fi 6 con tecnología de procesamiento de señal para mayor cobertura",
+      "category": "ia",
+      "date": "2026-04-25",
+      "slug": "router-wi-fi-6-con-tecnologia-de-procesamiento-de-senal",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "WavKong ha lanzado un nuevo router Wi-Fi 6 llamado V2700, que promete ofrecer una cobertura de hasta 15,000 sq ft (aproximadamente 1,400 m2) sin necesidad de redes de mesh. Esto se debe a su unidad de procesamiento de radio (RPU), que…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-25-router-wi-fi-6-con-tecnologia-de-procesamiento-de-senal.md"
+    },
+    {
+      "title": "El misterio del momento magnético del muón se resuelve con cálculos precisos",
+      "category": "ia",
+      "date": "2026-04-25",
+      "slug": "el-misterio-del-momento-magnetico-del-muon-se-resuelve-",
+      "tags": [
+        "ia-local",
+        "fisica-teorica",
+        "codigo"
+      ],
+      "preview": "Un equipo de investigadores de Penn State ha resuelto el misterio del momento magnético del muón, un descubrimiento que cerraba la posibilidad de nuevas físicas. Los cálculos precisos han demostrado que el modelo estándar es correcto.",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-25-el-misterio-del-momento-magnetico-del-muon-se-resuelve-.md"
+    },
+    {
+      "title": "GCC crea grupo de trabajo para decidir sobre la política de IA/LLM",
+      "category": "ia",
+      "date": "2026-04-25",
+      "slug": "gcc-crea-grupo-de-trabajo-para-decidir-sobre-la-politic",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La GNU Compiler Collection (GCC) ha establecido un grupo de trabajo para estudiar el uso de la inteligencia artificial (IA) y los modelos de lenguaje grande (LLM) en el desarrollo del compilador. Esto surge debido a las preguntas y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-25-gcc-crea-grupo-de-trabajo-para-decidir-sobre-la-politic.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-25",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-12",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo Fedora, Oracle, Red Hat y SUSE. Estas actualizaciones corrigen vulnerabilidades en paquetes como anaconda, dnf5, firefox, kernel,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-25-actualizaciones-de-seguridad-para-sistemas-operativo-12.md"
+    },
+    {
+      "title": "Linus Torvalds elimina 138k líneas de código obsoletas del kernel de Linux",
+      "category": "linux",
+      "date": "2026-04-25",
+      "slug": "linus-torvalds-elimina-138k-lineas-de-codigo-obsoletas-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Linus Torvalds ha eliminado una gran cantidad de código obsoleto del kernel de Linux, incluyendo soporte para ISDN, radio amateur y adaptadores de red antiguos. Esta eliminación se debe a una serie de informes de errores generados por…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-25-linus-torvalds-elimina-138k-lineas-de-codigo-obsoletas-.md"
+    },
+    {
+      "title": "GnuPG 2.5.19: Actualización de seguridad y mejoras",
+      "category": "linux",
+      "date": "2026-04-25",
+      "slug": "gnupg-2519-actualizacion-de-seguridad-y-mejoras",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "GnuPG ha lanzado la versión 2.5.19, que incluye mejoras de seguridad y correcciones de errores. Esta actualización es importante debido a que la versión anterior, 2.4, alcanzará el fin de vida en dos meses.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-25-gnupg-2519-actualizacion-de-seguridad-y-mejoras.md"
+    },
+    {
+      "title": "Instalar Haiku en un sistema UEFI: un desafío tecnológico",
+      "category": "linux",
+      "date": "2026-04-25",
+      "slug": "instalar-haiku-en-un-sistema-uefi-un-desafio-tecnologic",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Haiku, un sistema operativo que busca ser un reemplazo para macOS y Windows, ha sido objeto de atención reciente debido a su proximidad a ser un sistema operativo diario. Sin embargo, todavía existen varios obstáculos antes de que pueda…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-25-instalar-haiku-en-un-sistema-uefi-un-desafio-tecnologic.md"
+    },
+    {
+      "title": "Validación y análisis de URDF en la nube con visualización en el navegador",
+      "category": "linux",
+      "date": "2026-04-25",
+      "slug": "validacion-y-analisis-de-urdf-en-la-nube-con-visualizac",
+      "tags": [
+        "robotica",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "Un desarrollador ha creado una API para validar y analizar archivos URDF (Unified Robot Description Format) en la nube, permitiendo una visualización en tiempo real de los resultados en el navegador. Esto puede ayudar a detectar errores en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-25-validacion-y-analisis-de-urdf-en-la-nube-con-visualizac.md"
+    },
+    {
       "title": "Microcontroladores con lógica configurable: una revolución en la robótica",
       "category": "embebidos",
       "date": "2026-04-24",
