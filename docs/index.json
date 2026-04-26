@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Convierte tu LILYGO T-LoRa Pager en un reproductor de MP3 y radio por Internet",
+      "category": "embebidos",
+      "date": "2026-04-26",
+      "slug": "convierte-tu-lilygo-t-lora-pager-en-un-reproductor-de-m",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "El proyecto Melody Machine permite transformar el dispositivo LILYGO T-LoRa Pager en un reproductor de MP3 y radio por Internet, ofreciendo una experiencia de usuario gráfica y funcionalidades como la reproducción de música desde una…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-26-convierte-tu-lilygo-t-lora-pager-en-un-reproductor-de-m.md"
+    },
+    {
+      "title": "nanoBASIC_UNO: Un Basic para Arduino con características de los clásicos",
+      "category": "embebidos",
+      "date": "2026-04-26",
+      "slug": "nanobasic-uno-un-basic-para-arduino-con-caracteristicas",
+      "tags": [
+        "arduino",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Si te gustaba escribir código en Basic en tu computadora clásica o en un Basic Stamp, ahora puedes volver a disfrutar de esta experiencia con Arduino gracias a nanoBASIC_UNO.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-26-nanobasic-uno-un-basic-para-arduino-con-caracteristicas.md"
+    },
+    {
+      "title": "Axiomtek PICO570: SBC Intel Core Ultra Meteor Lake para aplicaciones de IA",
+      "category": "embebidos",
+      "date": "2026-04-26",
+      "slug": "axiomtek-pico570-sbc-intel-core-ultra-meteor-lake-para-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Axiomtek ha lanzado el PICO570, un SBC (Single-Board Computer) de alta performance basado en el procesador Intel Core Ultra Meteor Lake-U. Este ultra-compácto SBC de 100 x 72 mm está diseñado para aplicaciones de IA en el borde.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-26-axiomtek-pico570-sbc-intel-core-ultra-meteor-lake-para-.md"
+    },
+    {
+      "title": "Validación de modelo de robot humanoide de NASA en minutos sin ROS ni Blender",
+      "category": "robotica",
+      "date": "2026-04-26",
+      "slug": "validacion-de-modelo-de-robot-humanoide-de-nasa-en-minu",
+      "tags": [
+        "robotica",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Un desarrollador ha creado una herramienta que permite validar modelos de robots humanoides de NASA en minutos sin necesidad de ROS, Blender o configuración local. Esto puede ahorrar mucho tiempo en la detección de problemas de cadena y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-26-validacion-de-modelo-de-robot-humanoide-de-nasa-en-minu.md"
+    },
+    {
+      "title": "EE.UU. propone ban a robots chinos: una medida para proteger la soberanía tecnológica",
+      "category": "robotica",
+      "date": "2026-04-26",
+      "slug": "eeuu-propone-ban-a-robots-chinos-una-medida-para-proteg",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El Congreso estadounidense ha presentado un proyecto de ley para limitar el uso de robots chinos en el gobierno, en un intento de proteger la soberanía tecnológica del país. Esta medida forma parte de una serie de cambios para desacoplar…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-26-eeuu-propone-ban-a-robots-chinos-una-medida-para-proteg.md"
+    },
+    {
+      "title": "Robotica vs. deportistas humanos: un desafío para la inteligencia artificial",
+      "category": "robotica",
+      "date": "2026-04-26",
+      "slug": "robotica-vs-deportistas-humanos-un-desafio-para-la-inte",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La inteligencia artificial (IA) está avanzando rápidamente en el campo de la robótica, y recientemente, un equipo de investigadores de Sony AI ha presentado un proyecto llamado Ringbot Quad, un robot monociclo con cuatro patas que puede…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-26-robotica-vs-deportistas-humanos-un-desafio-para-la-inte.md"
+    },
+    {
+      "title": "Un maestro de robótica crea una réplica a tamaño real de ENIAC",
+      "category": "robotica",
+      "date": "2026-04-26",
+      "slug": "un-maestro-de-robotica-crea-una-replica-a-tamano-real-2",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real de ENIAC, uno de los primeros ordenadores electrónicos programables.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-26-un-maestro-de-robotica-crea-una-replica-a-tamano-real-2.md"
+    },
+    {
+      "title": "Impresión 3D de piezas indestructibles para robots de combate",
+      "category": "diseño-3d",
+      "date": "2026-04-26",
+      "slug": "impresion-3d-de-piezas-indestructibles-para-robots-de-c",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El creador de contenido Maker's Muse ha compartido sus secretos para imprimir piezas de PLA resistentes a impactos, ideales para robots de combate. Estas piezas deben ser fuertes y resistentes a los golpes para competir en la división de…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-04-26-impresion-3d-de-piezas-indestructibles-para-robots-de-c.md"
+    },
+    {
+      "title": "OpenAI se disculpa por no informar a la policía sobre un usuario sospechoso",
+      "category": "ia",
+      "date": "2026-04-26",
+      "slug": "openai-se-disculpa-por-no-informar-a-la-policia-sobre-u",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "robotica"
+      ],
+      "preview": "La empresa OpenAI, creadora del modelo de lenguaje ChatGPT, ha sido criticada por no informar a la policía sobre un usuario que había sido suspendido por describir escenarios de violencia. El usuario, un joven de 18 años, se cree…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-26-openai-se-disculpa-por-no-informar-a-la-policia-sobre-u.md"
+    },
+    {
+      "title": "Mercado de comercio entre agentes de IA: un experimento exitoso",
+      "category": "ia",
+      "date": "2026-04-26",
+      "slug": "mercado-de-comercio-entre-agentes-de-ia-un-experimento-",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "llms"
+      ],
+      "preview": "La empresa Anthropic ha creado un mercado de comercio entre agentes de IA, donde estos se representan a sí mismos como compradores y vendedores, y han logrado cerrar acuerdos reales por bienes y dinero",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-26-mercado-de-comercio-entre-agentes-de-ia-un-experimento-.md"
+    },
+    {
+      "title": "Router Wi-Fi 6 con tecnología RPU ofrece cobertura extensa y limpia",
+      "category": "ia",
+      "date": "2026-04-26",
+      "slug": "router-wi-fi-6-con-tecnologia-rpu-ofrece-cobertura-exte",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa WavKong ha lanzado un nuevo router Wi-Fi 6 llamado V2700, que promete ofrecer una cobertura extensa y limpia gracias a su tecnología Radio Processing Unit (RPU). Este router puede cubrir áreas de hasta 1400 metros cuadrados…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-26-router-wi-fi-6-con-tecnologia-rpu-ofrece-cobertura-exte.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-04-26",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-13",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo Fedora, Oracle, Red Hat y SUSE. Estas actualizaciones corrigen vulnerabilidades en paquetes como anaconda, dnf5, firefox, kernel…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-26-actualizaciones-de-seguridad-para-sistemas-operativo-13.md"
+    },
+    {
+      "title": "GnuPG 2.5.19: Mejoras y correcciones en la seguridad de la comunicación",
+      "category": "linux",
+      "date": "2026-04-26",
+      "slug": "gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de-la",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Werner Koch ha anunciado la liberación de GnuPG 2.5.19, una actualización importante para la seguridad de la comunicación en línea. Esta versión incluye nuevas opciones y correcciones de errores, así como la introducción de un nuevo…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-26-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de-la.md"
+    },
+    {
+      "title": "¿Qué herramienta de contenedorización se utiliza en ROS?",
+      "category": "linux",
+      "date": "2026-04-26",
+      "slug": "que-herramienta-de-contenedorizacion-se-utiliza-en-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un debate en línea sobre la utilización de Docker en robótica ha generado interés en la comunidad de ROS. ¿Qué herramientas se utilizan en realidad en los despliegues y actualizaciones en vivo?",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-26-que-herramienta-de-contenedorizacion-se-utiliza-en-ros.md"
+    },
+    {
+      "title": "Microsoft cambia de rumbo con Azure Linux y Fedora",
+      "category": "linux",
+      "date": "2026-04-26",
+      "slug": "microsoft-cambia-de-rumbo-con-azure-linux-y-fedora",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Microsoft está considerando cambiar la base de su sistema operativo Azure Linux a Fedora, lo que podría mejorar su rendimiento y flexibilidad. Esta decisión podría tener un impacto significativo en la comunidad de Linux y en la forma en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-26-microsoft-cambia-de-rumbo-con-azure-linux-y-fedora.md"
+    },
+    {
       "title": "Axiomtek PICO570: una SBC de alta performance para aplicaciones de IA",
       "category": "embebidos",
       "date": "2026-04-25",

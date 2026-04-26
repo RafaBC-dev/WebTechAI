@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Apr 2026 08:01:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Apr 2026 08:14:19 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Convierte tu LILYGO T-LoRa Pager en un reproductor de MP3 y radio por Internet</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-convierte-tu-lilygo-t-lora-pager-en-un-reproductor-de-m.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-convierte-tu-lilygo-t-lora-pager-en-un-reproductor-de-m.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto Melody Machine permite transformar el dispositivo LILYGO T-LoRa Pager en un reproductor de MP3 y radio por Internet, ofreciendo una experiencia de usuario gráfica y funcionalidades como la reproducción de música desde una…</description>
+  </item>
+  <item>
+    <title>nanoBASIC_UNO: Un Basic para Arduino con características de los clásicos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-nanobasic-uno-un-basic-para-arduino-con-caracteristicas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-nanobasic-uno-un-basic-para-arduino-con-caracteristicas.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Si te gustaba escribir código en Basic en tu computadora clásica o en un Basic Stamp, ahora puedes volver a disfrutar de esta experiencia con Arduino gracias a nanoBASIC_UNO.</description>
+  </item>
+  <item>
+    <title>Axiomtek PICO570: SBC Intel Core Ultra Meteor Lake para aplicaciones de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-axiomtek-pico570-sbc-intel-core-ultra-meteor-lake-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-axiomtek-pico570-sbc-intel-core-ultra-meteor-lake-para-.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Axiomtek ha lanzado el PICO570, un SBC (Single-Board Computer) de alta performance basado en el procesador Intel Core Ultra Meteor Lake-U. Este ultra-compácto SBC de 100 x 72 mm está diseñado para aplicaciones de IA en el borde.</description>
+  </item>
+  <item>
+    <title>Validación de modelo de robot humanoide de NASA en minutos sin ROS ni Blender</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-validacion-de-modelo-de-robot-humanoide-de-nasa-en-minu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-validacion-de-modelo-de-robot-humanoide-de-nasa-en-minu.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha creado una herramienta que permite validar modelos de robots humanoides de NASA en minutos sin necesidad de ROS, Blender o configuración local. Esto puede ahorrar mucho tiempo en la detección de problemas de cadena y…</description>
+  </item>
+  <item>
+    <title>EE.UU. propone ban a robots chinos: una medida para proteger la soberanía tecnológica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-eeuu-propone-ban-a-robots-chinos-una-medida-para-proteg.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-eeuu-propone-ban-a-robots-chinos-una-medida-para-proteg.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El Congreso estadounidense ha presentado un proyecto de ley para limitar el uso de robots chinos en el gobierno, en un intento de proteger la soberanía tecnológica del país. Esta medida forma parte de una serie de cambios para desacoplar…</description>
+  </item>
+  <item>
+    <title>Robotica vs. deportistas humanos: un desafío para la inteligencia artificial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-robotica-vs-deportistas-humanos-un-desafio-para-la-inte.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-robotica-vs-deportistas-humanos-un-desafio-para-la-inte.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La inteligencia artificial (IA) está avanzando rápidamente en el campo de la robótica, y recientemente, un equipo de investigadores de Sony AI ha presentado un proyecto llamado Ringbot Quad, un robot monociclo con cuatro patas que puede…</description>
+  </item>
+  <item>
+    <title>Un maestro de robótica crea una réplica a tamaño real de ENIAC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-un-maestro-de-robotica-crea-una-replica-a-tamano-real-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-26-un-maestro-de-robotica-crea-una-replica-a-tamano-real-2.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real de ENIAC, uno de los primeros ordenadores electrónicos programables.</description>
+  </item>
+  <item>
+    <title>Impresión 3D de piezas indestructibles para robots de combate</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-04-26-impresion-3d-de-piezas-indestructibles-para-robots-de-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-04-26-impresion-3d-de-piezas-indestructibles-para-robots-de-c.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>El creador de contenido Maker's Muse ha compartido sus secretos para imprimir piezas de PLA resistentes a impactos, ideales para robots de combate. Estas piezas deben ser fuertes y resistentes a los golpes para competir en la división de…</description>
+  </item>
+  <item>
+    <title>OpenAI se disculpa por no informar a la policía sobre un usuario sospechoso</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-26-openai-se-disculpa-por-no-informar-a-la-policia-sobre-u.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-26-openai-se-disculpa-por-no-informar-a-la-policia-sobre-u.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa OpenAI, creadora del modelo de lenguaje ChatGPT, ha sido criticada por no informar a la policía sobre un usuario que había sido suspendido por describir escenarios de violencia. El usuario, un joven de 18 años, se cree…</description>
+  </item>
+  <item>
+    <title>Mercado de comercio entre agentes de IA: un experimento exitoso</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-26-mercado-de-comercio-entre-agentes-de-ia-un-experimento-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-26-mercado-de-comercio-entre-agentes-de-ia-un-experimento-.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Anthropic ha creado un mercado de comercio entre agentes de IA, donde estos se representan a sí mismos como compradores y vendedores, y han logrado cerrar acuerdos reales por bienes y dinero</description>
+  </item>
+  <item>
+    <title>Router Wi-Fi 6 con tecnología RPU ofrece cobertura extensa y limpia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-26-router-wi-fi-6-con-tecnologia-rpu-ofrece-cobertura-exte.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-26-router-wi-fi-6-con-tecnologia-rpu-ofrece-cobertura-exte.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa WavKong ha lanzado un nuevo router Wi-Fi 6 llamado V2700, que promete ofrecer una cobertura extensa y limpia gracias a su tecnología Radio Processing Unit (RPU). Este router puede cubrir áreas de hasta 1400 metros cuadrados…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-actualizaciones-de-seguridad-para-sistemas-operativo-13.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-actualizaciones-de-seguridad-para-sistemas-operativo-13.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo Fedora, Oracle, Red Hat y SUSE. Estas actualizaciones corrigen vulnerabilidades en paquetes como anaconda, dnf5, firefox, kernel…</description>
+  </item>
+  <item>
+    <title>GnuPG 2.5.19: Mejoras y correcciones en la seguridad de la comunicación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de-la.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de-la.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Werner Koch ha anunciado la liberación de GnuPG 2.5.19, una actualización importante para la seguridad de la comunicación en línea. Esta versión incluye nuevas opciones y correcciones de errores, así como la introducción de un nuevo…</description>
+  </item>
+  <item>
+    <title>¿Qué herramienta de contenedorización se utiliza en ROS?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-que-herramienta-de-contenedorizacion-se-utiliza-en-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-que-herramienta-de-contenedorizacion-se-utiliza-en-ros.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un debate en línea sobre la utilización de Docker en robótica ha generado interés en la comunidad de ROS. ¿Qué herramientas se utilizan en realidad en los despliegues y actualizaciones en vivo?</description>
+  </item>
+  <item>
+    <title>Microsoft cambia de rumbo con Azure Linux y Fedora</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-microsoft-cambia-de-rumbo-con-azure-linux-y-fedora.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-26-microsoft-cambia-de-rumbo-con-azure-linux-y-fedora.md</guid>
+    <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Microsoft está considerando cambiar la base de su sistema operativo Azure Linux a Fedora, lo que podría mejorar su rendimiento y flexibilidad. Esta decisión podría tener un impacto significativo en la comunidad de Linux y en la forma en…</description>
+  </item>
   <item>
     <title>Axiomtek PICO570: una SBC de alta performance para aplicaciones de IA</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-25-axiomtek-pico570-una-sbc-de-alta-performance-para-aplic.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Un desarrollador ha creado una API para validar y analizar archivos URDF (Unified Robot Description Format) en la nube, permitiendo una visualización en tiempo real de los resultados en el navegador. Esto puede ayudar a detectar errores en…</description>
-  </item>
-  <item>
-    <title>Microcontroladores con lógica configurable: una revolución en la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-24-microcontroladores-con-logica-configurable-una-revoluci.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-24-microcontroladores-con-logica-configurable-una-revoluci.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Microchip Technology ha lanzado dos familias de microcontroladores 8-bit que combinan controlador tradicional con lógica configurable, permitiendo la creación de circuitos lógicos personalizables directamente en el chip.</description>
-  </item>
-  <item>
-    <title>Lámpara Nautilus reactiva al sonido con Arduino y impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-24-lampara-nautilus-reactiva-al-sonido-con-arduino-y-impre.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-24-lampara-nautilus-reactiva-al-sonido-con-arduino-y-impre.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Una lámpara innovadora que responde a los sonidos de su entorno, gracias a la combinación de Arduino y impresión 3D. Esta creación abierta al público permite a cualquier persona experimentar con la tecnología y crear su propia versión.</description>
-  </item>
-  <item>
-    <title>Encuadre industrial para Raspberry Pi 5 con pantalla táctil de 5 pulgadas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-24-encuadre-industrial-para-raspberry-pi-5-con-pantalla-ta.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-24-encuadre-industrial-para-raspberry-pi-5-con-pantalla-ta.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Argon ha lanzado un nuevo encuadre industrial para el Raspberry Pi 5 y la pantalla táctil de 5 pulgadas del Pi, convirtiéndolo en un sistema de interfaz de usuario humano-máquina compacto para paneles de control, interfaces de…</description>
-  </item>
-  <item>
-    <title>China: el gobierno estadounidense propone una prohibición de robots chinos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-24-china-el-gobierno-estadounidense-propone-una-prohibicio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-24-china-el-gobierno-estadounidense-propone-una-prohibicio.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El gobierno estadounidense busca limitar el uso de robots chinos en sus operaciones, incluyendo humanoids, perros y arrastradores. Esta medida forma parte de una estrategia más amplia para desacoplar tecnología sensible de China.</description>
-  </item>
-  <item>
-    <title>Un maestro de robótica crea una réplica a tamaño real de ENIAC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-24-un-maestro-de-robotica-crea-una-replica-a-tamano-real-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-24-un-maestro-de-robotica-crea-una-replica-a-tamano-real-d.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real de ENIAC, uno de los primeros ordenadores electrónicos programables. Esta…</description>
-  </item>
-  <item>
-    <title>Recreación digital de Wild Gunman, un clásico arcade de Nintendo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-04-24-recreacion-digital-de-wild-gunman-un-clasico-arcade-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-04-24-recreacion-digital-de-wild-gunman-un-clasico-arcade-de-.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un entusiasta de la reparación de arcades ha logrado recrear digitalmente Wild Gunman, un juego de arcade de Nintendo de 1974 que se jugaba en una pantalla de 16 mm. Esta recreación es la única versión jugable de este juego en existencia.</description>
-  </item>
-  <item>
-    <title>La profesora que revolucionó la robótica asistiva social</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-24-la-profesora-que-revoluciono-la-robotica-asistiva-socia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-24-la-profesora-que-revoluciono-la-robotica-asistiva-socia.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Maja Matarić, profesora de la Universidad del Sur de California, ha dedicado su carrera a crear robots que ayuden a las personas con necesidades especiales. Su trabajo ha cambiado la forma en que pensamos sobre la interacción humana con…</description>
-  </item>
-  <item>
-    <title>Sierra adquiere Fragment, una startup de IA para integrar en flujos de trabajo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-24-sierra-adquiere-fragment-una-startup-de-ia-para-integra.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-24-sierra-adquiere-fragment-una-startup-de-ia-para-integra.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa de servicio al cliente Sierra, fundada por Bret Taylor, ha adquirido Fragment, una startup francesa que ayuda a las empresas a integrar la inteligencia artificial en sus flujos de trabajo. Esta es la tercera adquisición pública…</description>
-  </item>
-  <item>
-    <title>OpenAI lanza GPT-5.5: un modelo AI más inteligente y intuitivo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-24-openai-lanza-gpt-55-un-modelo-ai-mas-inteligente-y-intu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-24-openai-lanza-gpt-55-un-modelo-ai-mas-inteligente-y-intu.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha lanzado GPT-5.5, su modelo AI más avanzado hasta la fecha, que promete mejorar la experiencia de usuario y acercarse a la creación de una 'super app' que pueda ayudar a empresas y consumidores.</description>
-  </item>
-  <item>
-    <title>Linux 7.1 elimina drivers PCMCIA obsoletos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-linux-71-elimina-drivers-pcmcia-obsoletos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-linux-71-elimina-drivers-pcmcia-obsoletos.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.1 del kernel Linux ha eliminado algunos drivers PCMCIA obsoletos que probablemente no se han utilizado en años. Esta decisión forma parte de un esfuerzo más amplio para eliminar el soporte de PCMCIA del kernel.</description>
-  </item>
-  <item>
-    <title>Ubuntu 26.04 LTS: el nuevo kernel Linux 7.0 y características destacadas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-ubuntu-2604-lts-el-nuevo-kernel-linux-70-y-caracteristi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-ubuntu-2604-lts-el-nuevo-kernel-linux-70-y-caracteristi.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Canonical ha lanzado Ubuntu 26.04 LTS, una versión de Linux que viene con el nuevo kernel Linux 7.0 y una serie de mejoras y características destacadas. Esta versión será soportada durante 5 años y ofrece una experiencia de usuario más…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-actualizaciones-de-seguridad-para-sistemas-operativo-11.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-actualizaciones-de-seguridad-para-sistemas-operativo-11.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Mageia, Oracle y SUSE. Estas actualizaciones corrigen vulnerabilidades en paquetes como kernel,…</description>
-  </item>
-  <item>
-    <title>Linux en Windows 9x: un subconjunto para la nostalgia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-linux-en-windows-9x-un-subconjunto-para-la-nostalgia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-linux-en-windows-9x-un-subconjunto-para-la-nostalgia.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los entusiastas de la nostalgia de la era de los 90 pueden celebrar: ahora es posible ejecutar Linux dentro de Windows 9x, gracias a un proyecto llamado WSL9x. Esta herramienta permite a los usuarios correr Linux y Windows 9x de manera…</description>
-  </item>
-  <item>
-    <title>Opera GX ya está disponible en Flatpak y Snap para Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-opera-gx-ya-esta-disponible-en-flatpak-y-snap-para-linu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-opera-gx-ya-esta-disponible-en-flatpak-y-snap-para-linu.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La popular aplicación de navegación Opera GX ha llegado a Linux en formatos de paquete Flatpak y Snap, ofreciendo una opción más para los usuarios de este sistema operativo.</description>
-  </item>
-  <item>
-    <title>ROS 2 Rolling Ridley: Última sincronización antes de Ubuntu 26.06</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-ros-2-rolling-ridley-ultima-sincronizacion-antes-de-ubu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-24-ros-2-rolling-ridley-ultima-sincronizacion-antes-de-ubu.md</guid>
-    <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ROS 2 está preparando la última sincronización de paquetes antes de migrar a Ubuntu 26.06 Resolute Raccoon. Esta actualización incluye nuevos paquetes y correcciones de errores, pero también presenta algunos desafíos.</description>
   </item>
 </channel>
 </rss>
