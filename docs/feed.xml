@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sun, 26 Apr 2026 08:14:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 09:16:03 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Adafruit lanza CircuitPython 10.2.0 y otros proyectos emocionantes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-adafruit-lanza-circuitpython-1020-y-otros-proyectos-emo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-adafruit-lanza-circuitpython-1020-y-otros-proyectos-emo.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha lanzado un montón de proyectos emocionantes en la última semana, desde la actualización de CircuitPython hasta tutoriales y videos sobre robótica y electrónica. En este artículo, exploraremos algunos de los proyectos más…</description>
+  </item>
+  <item>
+    <title>Revelación de un reloj inteligente solar con E-ink y hasta 10 meses de batería</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-revelacion-de-un-reloj-inteligente-solar-con-e-ink-y-ha.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-revelacion-de-un-reloj-inteligente-solar-con-e-ink-y-ha.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Daniel Ansorregui ha desarrollado LightInk, un reloj inteligente solar con pantalla E-ink que puede funcionar durante hasta 10 meses con una batería de 100mAh. Este dispositivo es una combinación de tecnología solar y eficiencia energética…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi Pico: una mecánica keyboard innovadora</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-pico-una-mecanica-keyboard-innovadora.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-pico-una-mecanica-keyboard-innovadora.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un usuario de Instructables ha creado una mecánica keyboard personalizada llamada ClickPico, basada en un Raspberry Pi Pico. Esta innovadora creación resuelve problemas comunes de las teclados tradicionales.</description>
+  </item>
+  <item>
+    <title>Raspberry Pi CM0 disponible en AliExpress a partir de $33</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-cm0-disponible-en-aliexpress-a-partir-de-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-cm0-disponible-en-aliexpress-a-partir-de-3.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La Raspberry Pi CM0, un módulo de sistema en un solo chip, está disponible en AliExpress a partir de $33. Este módulo es una versión compacta del Raspberry Pi Zero 2 W, con una variedad de características y opciones de configuración.</description>
+  </item>
+  <item>
+    <title>China: el gobierno estadounidense propone una ley para limitar robots chinos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-china-el-gobierno-estadounidense-propone-una-ley-para-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-china-el-gobierno-estadounidense-propone-una-ley-para-l.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El gobierno estadounidense propone una ley para limitar el uso de robots chinos en aplicaciones gubernamentales. La medida forma parte de una política más amplia para reducir la dependencia de tecnología china.</description>
+  </item>
+  <item>
+    <title>TurtleBot4_Navigation: un desafío para la navegación autónoma</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-turtlebot4-navigation-un-desafio-para-la-navegacion-aut.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-turtlebot4-navigation-un-desafio-para-la-navegacion-aut.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un robot TurtleBot4 ha superado los 11108 horas de funcionamiento sin problemas, pero su sistema de navegación autónoma sigue siendo un desafío. Aunque ha logrado navegar por su hogar sin problemas, su sistema de navegación es inestable y…</description>
+  </item>
+  <item>
+    <title>Robótica: avances en competencia con humanos en deportes y tareas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotica-avances-en-competencia-con-humanos-en-deportes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotica-avances-en-competencia-con-humanos-en-deportes.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica sigue avanzando a pasos agigantados, con robots que pueden competir con humanos en deportes como el ping-pong y realizar tareas complejas como jugar al ajedrez. Pero ¿qué tecnologías están detrás de estos avances y qué…</description>
+  </item>
+  <item>
+    <title>Aprende la técnica de evitación de colisiones con el enfoque de ventana dinámica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-aprende-la-tecnica-de-evitacion-de-colisiones-con-el-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-aprende-la-tecnica-de-evitacion-de-colisiones-con-el-en.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La Unibotics ha lanzado un nuevo ejercicio de práctica en su sitio web de programación de robots para aprender la técnica de evitación de colisiones con el enfoque de ventana dinámica (DWA). Este algoritmo es similar al CVM de Reid Simmons…</description>
+  </item>
+  <item>
+    <title>Robótico construye réplica a tamaño real del ordenador histórico ENIAC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotico-construye-replica-a-tamano-real-del-ordenador-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotico-construye-replica-a-tamano-real-del-ordenador-.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ordenador electrónico ENIAC, uno de los primeros ordenadores…</description>
+  </item>
+  <item>
+    <title>Mercado de comercio entre agentes de IA: un experimento de Anthropic</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-mercado-de-comercio-entre-agentes-de-ia-un-experiment-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-mercado-de-comercio-entre-agentes-de-ia-un-experiment-2.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Anthropic ha creado un mercado de comercio entre agentes de IA, donde estos agentes compran y venden bienes reales a sus compañeros de trabajo, utilizando un presupuesto de $100 por empleado.</description>
+  </item>
+  <item>
+    <title>NASA prepara el lanzamiento de Artemis III después de la exitosa misión Artemis II</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-nasa-prepara-el-lanzamiento-de-artemis-iii-despues-de-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-nasa-prepara-el-lanzamiento-de-artemis-iii-despues-de-l.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La NASA ha publicado un informe sobre la misión Artemis II, destacando los cambios implementados después de la primera misión y la preparación para la próxima. Mientras tanto, un desarrollador ha creado un simulador web del sistema solar…</description>
+  </item>
+  <item>
+    <title>Linux 7.1-rc1: nuevo driver NTFS y mejoras para seguridad y rendimiento</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-linux-71-rc1-nuevo-driver-ntfs-y-mejoras-para-seguridad.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-linux-71-rc1-nuevo-driver-ntfs-y-mejoras-para-seguridad.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión de prueba Linux 7.1-rc1 ha sido lanzada, con importantes mejoras en seguridad, rendimiento y compatibilidad. Este lanzamiento es el primer paso hacia la versión estable de Linux 7.1, que se espera que esté disponible a mediados…</description>
+  </item>
+  <item>
+    <title>GnuPG 2.5.19: Mejoras y correcciones en la seguridad de la comunicación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de--2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de--2.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 2.5.19 de GnuPG ha sido lanzada, con mejoras en la seguridad de la comunicación y correcciones de errores. Esta actualización es importante para evitar problemas de compatibilidad con la versión anterior.</description>
+  </item>
+  <item>
+    <title>CachyOS Actualiza con Nuevo Gestor de Paquetes y Scheduler para NVMe</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-cachyos-actualiza-con-nuevo-gestor-de-paquetes-y-schedu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-cachyos-actualiza-con-nuevo-gestor-de-paquetes-y-schedu.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La distribución Arch Linux basada CachyOS ha lanzado una actualización con importantes mejoras, incluyendo un nuevo gestor de paquetes gráfico y un scheduler para NVMe que ofrece mejoras en la respuesta y privacidad.</description>
+  </item>
+  <item>
+    <title>KernelUNO: un sistema operativo ligero para Arduino UNO con shell Linux-like</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-kerneluno-un-sistema-operativo-ligero-para-arduino-uno-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-kerneluno-un-sistema-operativo-ligero-para-arduino-uno-.md</guid>
+    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>KernelUNO es un proyecto que ofrece un sistema operativo ligero para la placa Arduino UNO, equipado con una shell que recuerda a Linux. Con solo 546 líneas de código, es fácil de usar y ofrece una variedad de comandos para controlar la…</description>
+  </item>
   <item>
     <title>Convierte tu LILYGO T-LoRa Pager en un reproductor de MP3 y radio por Internet</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-convierte-tu-lilygo-t-lora-pager-en-un-reproductor-de-m.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sun, 26 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Microsoft está considerando cambiar la base de su sistema operativo Azure Linux a Fedora, lo que podría mejorar su rendimiento y flexibilidad. Esta decisión podría tener un impacto significativo en la comunidad de Linux y en la forma en…</description>
-  </item>
-  <item>
-    <title>Axiomtek PICO570: una SBC de alta performance para aplicaciones de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-25-axiomtek-pico570-una-sbc-de-alta-performance-para-aplic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-25-axiomtek-pico570-una-sbc-de-alta-performance-para-aplic.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Axiomtek ha lanzado el PICO570, una SBC de alta performance que combina un procesador Intel Core Ultra Meteor Lake-U con una memoria DDR5-5600 y una interfaz HDMI 2.1. Esta SBC es ideal para aplicaciones de IA, automatización y sistemas de…</description>
-  </item>
-  <item>
-    <title>Bundle de libros de Raspberry Pi a precio variable para apoyar la fundación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-25-bundle-de-libros-de-raspberry-pi-a-precio-variable-para.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-25-bundle-de-libros-de-raspberry-pi-a-precio-variable-para.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La Raspberry Pi Foundation ha lanzado un bundle de libros electrónicos de su editorial, disponible a precio variable a través de Humble Bundle. El objetivo es recaudar fondos para apoyar la fundación en su labor de promover la educación en…</description>
-  </item>
-  <item>
-    <title>Argon Industria HMI 5C: un encuadre industrial para Raspberry Pi 5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-25-argon-industria-hmi-5c-un-encuadre-industrial-para-rasp.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-25-argon-industria-hmi-5c-un-encuadre-industrial-para-rasp.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Argon ha lanzado un nuevo encuadre industrial para Raspberry Pi 5 y la pantalla táctil de 5 pulgadas del Pi, diseñado para crear sistemas de interfaz humana máquina compactos y robustos.</description>
-  </item>
-  <item>
-    <title>Robótico crea réplica a tamaño real del ordenador electrónico ENIAC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-robotico-crea-replica-a-tamano-real-del-ordenador-elect.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-robotico-crea-replica-a-tamano-real-del-ordenador-elect.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ordenador electrónico ENIAC, un hito en la historia de la informática.</description>
-  </item>
-  <item>
-    <title>China: el gobierno estadounidense propone una ley para prohibir robots chinos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-china-el-gobierno-estadounidense-propone-una-ley-para-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-china-el-gobierno-estadounidense-propone-una-ley-para-p.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El gobierno estadounidense propone una ley para limitar el uso de robots chinos en el país, incluyendo humanoids, perros y arrastradores. Esta medida forma parte de una estrategia más amplia para desacoplar la tecnología sensible…</description>
-  </item>
-  <item>
-    <title>ROS 2 Lyrical Luth: Próxima versión de ROS 2 y eventos relacionados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-ros-2-lyrical-luth-proxima-version-de-ros-2-y-eventos-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-ros-2-lyrical-luth-proxima-version-de-ros-2-y-eventos-r.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad ROS está trabajando en la próxima versión de ROS 2, llamada Lyrical Luth, y hay varios eventos relacionados que vale la pena mencionar. Entre ellos, un test y tutorial party para probar la versión beta y una convocatoria para…</description>
-  </item>
-  <item>
-    <title>Robótica: ¿quién gana en un partido de ping-pong contra un robot?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-robotica-quien-gana-en-un-partido-de-ping-pong-contra-u.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-25-robotica-quien-gana-en-un-partido-de-ping-pong-contra-u.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En un desafío emocionante, robots y jugadores humanos se enfrentan en un partido de ping-pong. Pero ¿quién saldrá victorioso? Los últimos avances en la robótica y la inteligencia artificial están revolucionando el mundo de los robots, que…</description>
-  </item>
-  <item>
-    <title>Router Wi-Fi 6 con tecnología de procesamiento de señal para mayor cobertura</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-25-router-wi-fi-6-con-tecnologia-de-procesamiento-de-senal.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-25-router-wi-fi-6-con-tecnologia-de-procesamiento-de-senal.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>WavKong ha lanzado un nuevo router Wi-Fi 6 llamado V2700, que promete ofrecer una cobertura de hasta 15,000 sq ft (aproximadamente 1,400 m2) sin necesidad de redes de mesh. Esto se debe a su unidad de procesamiento de radio (RPU), que…</description>
-  </item>
-  <item>
-    <title>El misterio del momento magnético del muón se resuelve con cálculos precisos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-25-el-misterio-del-momento-magnetico-del-muon-se-resuelve-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-25-el-misterio-del-momento-magnetico-del-muon-se-resuelve-.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de investigadores de Penn State ha resuelto el misterio del momento magnético del muón, un descubrimiento que cerraba la posibilidad de nuevas físicas. Los cálculos precisos han demostrado que el modelo estándar es correcto.</description>
-  </item>
-  <item>
-    <title>GCC crea grupo de trabajo para decidir sobre la política de IA/LLM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-25-gcc-crea-grupo-de-trabajo-para-decidir-sobre-la-politic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-25-gcc-crea-grupo-de-trabajo-para-decidir-sobre-la-politic.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La GNU Compiler Collection (GCC) ha establecido un grupo de trabajo para estudiar el uso de la inteligencia artificial (IA) y los modelos de lenguaje grande (LLM) en el desarrollo del compilador. Esto surge debido a las preguntas y…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-actualizaciones-de-seguridad-para-sistemas-operativo-12.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-actualizaciones-de-seguridad-para-sistemas-operativo-12.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo Fedora, Oracle, Red Hat y SUSE. Estas actualizaciones corrigen vulnerabilidades en paquetes como anaconda, dnf5, firefox, kernel,…</description>
-  </item>
-  <item>
-    <title>Linus Torvalds elimina 138k líneas de código obsoletas del kernel de Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-linus-torvalds-elimina-138k-lineas-de-codigo-obsoletas-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-linus-torvalds-elimina-138k-lineas-de-codigo-obsoletas-.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Linus Torvalds ha eliminado una gran cantidad de código obsoleto del kernel de Linux, incluyendo soporte para ISDN, radio amateur y adaptadores de red antiguos. Esta eliminación se debe a una serie de informes de errores generados por…</description>
-  </item>
-  <item>
-    <title>GnuPG 2.5.19: Actualización de seguridad y mejoras</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-gnupg-2519-actualizacion-de-seguridad-y-mejoras.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-gnupg-2519-actualizacion-de-seguridad-y-mejoras.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>GnuPG ha lanzado la versión 2.5.19, que incluye mejoras de seguridad y correcciones de errores. Esta actualización es importante debido a que la versión anterior, 2.4, alcanzará el fin de vida en dos meses.</description>
-  </item>
-  <item>
-    <title>Instalar Haiku en un sistema UEFI: un desafío tecnológico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-instalar-haiku-en-un-sistema-uefi-un-desafio-tecnologic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-instalar-haiku-en-un-sistema-uefi-un-desafio-tecnologic.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Haiku, un sistema operativo que busca ser un reemplazo para macOS y Windows, ha sido objeto de atención reciente debido a su proximidad a ser un sistema operativo diario. Sin embargo, todavía existen varios obstáculos antes de que pueda…</description>
-  </item>
-  <item>
-    <title>Validación y análisis de URDF en la nube con visualización en el navegador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-validacion-y-analisis-de-urdf-en-la-nube-con-visualizac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-25-validacion-y-analisis-de-urdf-en-la-nube-con-visualizac.md</guid>
-    <pubDate>Sat, 25 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un desarrollador ha creado una API para validar y analizar archivos URDF (Unified Robot Description Format) en la nube, permitiendo una visualización en tiempo real de los resultados en el navegador. Esto puede ayudar a detectar errores en…</description>
   </item>
 </channel>
 </rss>

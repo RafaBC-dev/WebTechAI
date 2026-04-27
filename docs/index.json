@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Adafruit lanza CircuitPython 10.2.0 y otros proyectos emocionantes",
+      "category": "embebidos",
+      "date": "2026-04-27",
+      "slug": "adafruit-lanza-circuitpython-1020-y-otros-proyectos-emo",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Adafruit ha lanzado un montón de proyectos emocionantes en la última semana, desde la actualización de CircuitPython hasta tutoriales y videos sobre robótica y electrónica. En este artículo, exploraremos algunos de los proyectos más…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-27-adafruit-lanza-circuitpython-1020-y-otros-proyectos-emo.md"
+    },
+    {
+      "title": "Revelación de un reloj inteligente solar con E-ink y hasta 10 meses de batería",
+      "category": "embebidos",
+      "date": "2026-04-27",
+      "slug": "revelacion-de-un-reloj-inteligente-solar-con-e-ink-y-ha",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Daniel Ansorregui ha desarrollado LightInk, un reloj inteligente solar con pantalla E-ink que puede funcionar durante hasta 10 meses con una batería de 100mAh. Este dispositivo es una combinación de tecnología solar y eficiencia energética…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-27-revelacion-de-un-reloj-inteligente-solar-con-e-ink-y-ha.md"
+    },
+    {
+      "title": "Raspberry Pi Pico: una mecánica keyboard innovadora",
+      "category": "embebidos",
+      "date": "2026-04-27",
+      "slug": "raspberry-pi-pico-una-mecanica-keyboard-innovadora",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y Linux"
+      ],
+      "preview": "Un usuario de Instructables ha creado una mecánica keyboard personalizada llamada ClickPico, basada en un Raspberry Pi Pico. Esta innovadora creación resuelve problemas comunes de las teclados tradicionales.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-27-raspberry-pi-pico-una-mecanica-keyboard-innovadora.md"
+    },
+    {
+      "title": "Raspberry Pi CM0 disponible en AliExpress a partir de $33",
+      "category": "embebidos",
+      "date": "2026-04-27",
+      "slug": "raspberry-pi-cm0-disponible-en-aliexpress-a-partir-de-3",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "raspberry-pi"
+      ],
+      "preview": "La Raspberry Pi CM0, un módulo de sistema en un solo chip, está disponible en AliExpress a partir de $33. Este módulo es una versión compacta del Raspberry Pi Zero 2 W, con una variedad de características y opciones de configuración.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-27-raspberry-pi-cm0-disponible-en-aliexpress-a-partir-de-3.md"
+    },
+    {
+      "title": "China: el gobierno estadounidense propone una ley para limitar robots chinos",
+      "category": "robotica",
+      "date": "2026-04-27",
+      "slug": "china-el-gobierno-estadounidense-propone-una-ley-para-l",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El gobierno estadounidense propone una ley para limitar el uso de robots chinos en aplicaciones gubernamentales. La medida forma parte de una política más amplia para reducir la dependencia de tecnología china.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-27-china-el-gobierno-estadounidense-propone-una-ley-para-l.md"
+    },
+    {
+      "title": "TurtleBot4_Navigation: un desafío para la navegación autónoma",
+      "category": "robotica",
+      "date": "2026-04-27",
+      "slug": "turtlebot4-navigation-un-desafio-para-la-navegacion-aut",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un robot TurtleBot4 ha superado los 11108 horas de funcionamiento sin problemas, pero su sistema de navegación autónoma sigue siendo un desafío. Aunque ha logrado navegar por su hogar sin problemas, su sistema de navegación es inestable y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-27-turtlebot4-navigation-un-desafio-para-la-navegacion-aut.md"
+    },
+    {
+      "title": "Robótica: avances en competencia con humanos en deportes y tareas",
+      "category": "robotica",
+      "date": "2026-04-27",
+      "slug": "robotica-avances-en-competencia-con-humanos-en-deportes",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La robótica sigue avanzando a pasos agigantados, con robots que pueden competir con humanos en deportes como el ping-pong y realizar tareas complejas como jugar al ajedrez. Pero ¿qué tecnologías están detrás de estos avances y qué…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-27-robotica-avances-en-competencia-con-humanos-en-deportes.md"
+    },
+    {
+      "title": "Aprende la técnica de evitación de colisiones con el enfoque de ventana dinámica",
+      "category": "robotica",
+      "date": "2026-04-27",
+      "slug": "aprende-la-tecnica-de-evitacion-de-colisiones-con-el-en",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La Unibotics ha lanzado un nuevo ejercicio de práctica en su sitio web de programación de robots para aprender la técnica de evitación de colisiones con el enfoque de ventana dinámica (DWA). Este algoritmo es similar al CVM de Reid Simmons…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-27-aprende-la-tecnica-de-evitacion-de-colisiones-con-el-en.md"
+    },
+    {
+      "title": "Robótico construye réplica a tamaño real del ordenador histórico ENIAC",
+      "category": "robotica",
+      "date": "2026-04-27",
+      "slug": "robotico-construye-replica-a-tamano-real-del-ordenador-",
+      "tags": [
+        "robotica",
+        "historia-de-la-tecnologia",
+        "ordenadores"
+      ],
+      "preview": "Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ordenador electrónico ENIAC, uno de los primeros ordenadores…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-27-robotico-construye-replica-a-tamano-real-del-ordenador-.md"
+    },
+    {
+      "title": "Mercado de comercio entre agentes de IA: un experimento de Anthropic",
+      "category": "ia",
+      "date": "2026-04-27",
+      "slug": "mercado-de-comercio-entre-agentes-de-ia-un-experiment-2",
+      "tags": [
+        "llms",
+        "ia-local",
+        "agentes"
+      ],
+      "preview": "La empresa Anthropic ha creado un mercado de comercio entre agentes de IA, donde estos agentes compran y venden bienes reales a sus compañeros de trabajo, utilizando un presupuesto de $100 por empleado.",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-27-mercado-de-comercio-entre-agentes-de-ia-un-experiment-2.md"
+    },
+    {
+      "title": "NASA prepara el lanzamiento de Artemis III después de la exitosa misión Artemis II",
+      "category": "ia",
+      "date": "2026-04-27",
+      "slug": "nasa-prepara-el-lanzamiento-de-artemis-iii-despues-de-l",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La NASA ha publicado un informe sobre la misión Artemis II, destacando los cambios implementados después de la primera misión y la preparación para la próxima. Mientras tanto, un desarrollador ha creado un simulador web del sistema solar…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-27-nasa-prepara-el-lanzamiento-de-artemis-iii-despues-de-l.md"
+    },
+    {
+      "title": "Linux 7.1-rc1: nuevo driver NTFS y mejoras para seguridad y rendimiento",
+      "category": "linux",
+      "date": "2026-04-27",
+      "slug": "linux-71-rc1-nuevo-driver-ntfs-y-mejoras-para-seguridad",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión de prueba Linux 7.1-rc1 ha sido lanzada, con importantes mejoras en seguridad, rendimiento y compatibilidad. Este lanzamiento es el primer paso hacia la versión estable de Linux 7.1, que se espera que esté disponible a mediados…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-27-linux-71-rc1-nuevo-driver-ntfs-y-mejoras-para-seguridad.md"
+    },
+    {
+      "title": "GnuPG 2.5.19: Mejoras y correcciones en la seguridad de la comunicación",
+      "category": "linux",
+      "date": "2026-04-27",
+      "slug": "gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de--2",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 2.5.19 de GnuPG ha sido lanzada, con mejoras en la seguridad de la comunicación y correcciones de errores. Esta actualización es importante para evitar problemas de compatibilidad con la versión anterior.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-27-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de--2.md"
+    },
+    {
+      "title": "CachyOS Actualiza con Nuevo Gestor de Paquetes y Scheduler para NVMe",
+      "category": "linux",
+      "date": "2026-04-27",
+      "slug": "cachyos-actualiza-con-nuevo-gestor-de-paquetes-y-schedu",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La distribución Arch Linux basada CachyOS ha lanzado una actualización con importantes mejoras, incluyendo un nuevo gestor de paquetes gráfico y un scheduler para NVMe que ofrece mejoras en la respuesta y privacidad.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-27-cachyos-actualiza-con-nuevo-gestor-de-paquetes-y-schedu.md"
+    },
+    {
+      "title": "KernelUNO: un sistema operativo ligero para Arduino UNO con shell Linux-like",
+      "category": "linux",
+      "date": "2026-04-27",
+      "slug": "kerneluno-un-sistema-operativo-ligero-para-arduino-uno-",
+      "tags": [
+        "robotica",
+        "arduino",
+        "linux"
+      ],
+      "preview": "KernelUNO es un proyecto que ofrece un sistema operativo ligero para la placa Arduino UNO, equipado con una shell que recuerda a Linux. Con solo 546 líneas de código, es fácil de usar y ofrece una variedad de comandos para controlar la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-27-kerneluno-un-sistema-operativo-ligero-para-arduino-uno-.md"
+    },
+    {
       "title": "Convierte tu LILYGO T-LoRa Pager en un reproductor de MP3 y radio por Internet",
       "category": "embebidos",
       "date": "2026-04-26",

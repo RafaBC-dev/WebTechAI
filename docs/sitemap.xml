@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-26</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-26</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-27</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-27</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-adafruit-lanza-circuitpython-1020-y-otros-proyectos-emo.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-revelacion-de-un-reloj-inteligente-solar-con-e-ink-y-ha.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-pico-una-mecanica-keyboard-innovadora.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-cm0-disponible-en-aliexpress-a-partir-de-3.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-china-el-gobierno-estadounidense-propone-una-ley-para-l.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-turtlebot4-navigation-un-desafio-para-la-navegacion-aut.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotica-avances-en-competencia-con-humanos-en-deportes.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-aprende-la-tecnica-de-evitacion-de-colisiones-con-el-en.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotico-construye-replica-a-tamano-real-del-ordenador-.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-mercado-de-comercio-entre-agentes-de-ia-un-experiment-2.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-nasa-prepara-el-lanzamiento-de-artemis-iii-despues-de-l.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-linux-71-rc1-nuevo-driver-ntfs-y-mejoras-para-seguridad.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de--2.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-cachyos-actualiza-con-nuevo-gestor-de-paquetes-y-schedu.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-kerneluno-un-sistema-operativo-ligero-para-arduino-uno-.md</loc><lastmod>2026-04-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-convierte-tu-lilygo-t-lora-pager-en-un-reproductor-de-m.md</loc><lastmod>2026-04-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-nanobasic-uno-un-basic-para-arduino-con-caracteristicas.md</loc><lastmod>2026-04-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-26-axiomtek-pico570-sbc-intel-core-ultra-meteor-lake-para-.md</loc><lastmod>2026-04-26</lastmod><priority>0.8</priority></url>
