@@ -5,95 +5,127 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Apr 2026 09:17:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 09:07:45 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>Actualización de pip 26.1: archivos de bloqueo y cooldown de dependencias</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-actualizacion-de-pip-261-archivos-de-bloqueo-y-cooldown.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-actualizacion-de-pip-261-archivos-de-bloqueo-y-cooldown.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La versión 26.1 de pip, la herramienta de instalación de dependencias de Python por defecto, ha sido actualizada con nuevas funcionalidades. Entre ellas, la creación de archivos de bloqueo y la implementación de cooldown de dependencias.…</description>
+    <title>Kit de desarrollo ESP32-C5-WIFI6-KIT para IoT con WiFi 6 y 32MB de flash</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-kit-de-desarrollo-esp32-c5-wifi6-kit-para-iot-con-wifi-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-kit-de-desarrollo-esp32-c5-wifi6-kit-para-iot-con-wifi-.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Waveshare ha lanzado un kit de desarrollo para IoT que se basa en el procesador ESP32-C5 y ofrece una amplia gama de opciones, incluyendo diferentes capacidades de PSRAM y flash, y la opción de elegir entre una antena integrada…</description>
   </item>
   <item>
-    <title>Crea aplicaciones web escalables con OpenAI's Privacy Filter</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-crea-aplicaciones-web-escalables-con-openais-privacy-fi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-crea-aplicaciones-web-escalables-con-openais-privacy-fi.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha lanzado Privacy Filter, un detector de información personal identificable (PII) de código abierto que puede etiquetar texto en ocho categorías en una sola pasada de contexto de 128k. Esto permite a los desarrolladores crear…</description>
+    <title>Wipeout Clone en ESP32-S3: un juego clásico en un microcontrolador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-wipeout-clone-en-esp32-s3-un-juego-clasico-en-un-microc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-wipeout-clone-en-esp32-s3-un-juego-clasico-en-un-microc.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Michael Biggins, un desarrollador experimentado, ha logrado crear un clone de Wipeout, un juego clásico de 1995, en un ESP32-S3. Este proyecto demuestra la capacidad del microcontrolador para ejecutar juegos 3D complejos.</description>
   </item>
   <item>
-    <title>Microsoft lanza VibeVoice, un modelo de audio para reconocimiento de voz</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-microsoft-lanza-vibevoice-un-modelo-de-audio-para-recon.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-microsoft-lanza-vibevoice-un-modelo-de-audio-para-recon.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Microsoft ha lanzado VibeVoice, un modelo de audio para reconocimiento de voz que puede transcribir audio en tiempo real y realizar diarización de hablantes. Este modelo se basa en la tecnología de Whisper y está disponible bajo licencia…</description>
+    <title>Pico de Raspberry con salida VGA: un proyecto para conectar a pantallas grandes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-pico-de-raspberry-con-salida-vga-un-proyecto-para-conec.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-pico-de-raspberry-con-salida-vga-un-proyecto-para-conec.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un ingeniero ha creado un módulo de salida VGA para el microcontrolador Raspberry Pi Pico, permitiendo conectarlo a pantallas grandes de manera sencilla.</description>
   </item>
   <item>
-    <title>Un modelo de lenguaje vintage de 13B entrenado en texto de 1931</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-un-modelo-de-lenguaje-vintage-de-13b-entrenado-en-texto.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-un-modelo-de-lenguaje-vintage-de-13b-entrenado-en-texto.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de investigadores ha creado un modelo de lenguaje de 13 billones de parámetros entrenado en texto de 1931, lo que permite a la inteligencia artificial aprender de la historia y predecir eventos futuros.</description>
+    <title>Monitoreo de calidad del aire en interiores con ESP32-S3 y SEN66</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-monitoreo-de-calidad-del-aire-en-interiores-con-esp32-s.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-monitoreo-de-calidad-del-aire-en-interiores-con-esp32-s.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa MoreSense ha lanzado el MS-07, un monitoreo de calidad del aire para interiores que utiliza un microcontrolador ESP32-S3 y un sensor SEN66 multisensor. Este dispositivo permite la visualización en tiempo real de la calidad del…</description>
   </item>
   <item>
-    <title>OpenAI y Microsoft renegocian acuerdo para evitar disputas legales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-openai-y-microsoft-renegocian-acuerdo-para-evitar-dispu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-openai-y-microsoft-renegocian-acuerdo-para-evitar-dispu.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI y Microsoft han anunciado un nuevo acuerdo que resuelve disputas legales sobre el uso de tecnología de inteligencia artificial. Este acuerdo beneficia a ambas partes y permite a OpenAI expandir su presencia en diferentes proveedores…</description>
-  </item>
-  <item>
-    <title>Robótica vs. atletas humanos: el futuro de la competencia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-robotica-vs-atletas-humanos-el-futuro-de-la-competencia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-robotica-vs-atletas-humanos-el-futuro-de-la-competencia.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <title>Un maestro de robótica crea una réplica a tamaño real del ordenador ENIAC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-un-maestro-de-robotica-crea-una-replica-a-tamano-real-4.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-un-maestro-de-robotica-crea-una-replica-a-tamano-real-4.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
-    <description>La robótica está avanzando a pasos agigantados, y ahora los robots están compitiendo contra los mejores atletas humanos. En este artículo, exploraremos las últimas innovaciones en robótica y cómo están cambiando la forma en que competimos.</description>
+    <description>Tom Burick, un profesor de robótica, ha liderado un proyecto con sus estudiantes para construir una réplica a tamaño real del ordenador ENIAC, un pionero en la era de los ordenadores electrónicos.</description>
   </item>
   <item>
-    <title>Un maestro de robótica crea una réplica a tamaño real del ENIAC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-un-maestro-de-robotica-crea-una-replica-a-tamano-real-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-un-maestro-de-robotica-crea-una-replica-a-tamano-real-3.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <title>Robótica: avances en competencia con humanos y nuevas tecnologías</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-robotica-avances-en-competencia-con-humanos-y-nuevas-te.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-robotica-avances-en-competencia-con-humanos-y-nuevas-te.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
-    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ENIAC, uno de los primeros ordenadores electrónicos programables.</description>
+    <description>La robótica sigue avanzando a pasos agigantados, con robots que pueden competir con humanos en deportes como el ping-pong y la carrera a pie. Pero ¿qué tecnologías están detrás de estos avances?</description>
   </item>
   <item>
-    <title>China: el gobierno de EE.UU. propone una prohibición de robots chinos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-china-el-gobierno-de-eeuu-propone-una-prohibicion-de-ro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-china-el-gobierno-de-eeuu-propone-una-prohibicion-de-ro.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <title>China: el gobierno estadounidense propone una prohibición de robots chinos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-china-el-gobierno-estadounidense-propone-una-prohibic-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-china-el-gobierno-estadounidense-propone-una-prohibic-2.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
-    <description>El gobierno de EE.UU. ha propuesto una prohibición de uso de robots chinos en su territorio, incluyendo humanoids, perros y arrastradores, en un intento de proteger su soberanía tecnológica.</description>
+    <description>El gobierno estadounidense ha presentado una propuesta para limitar el uso de robots chinos en la administración pública. Esta medida forma parte de una estrategia más amplia para reducir la dependencia de tecnología china.</description>
   </item>
   <item>
-    <title>Gazebo: Actualizaciones y mejoras en el simulador de robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-28-gazebo-actualizaciones-y-mejoras-en-el-simulador-de-rob.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-28-gazebo-actualizaciones-y-mejoras-en-el-simulador-de-rob.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <title>Elon Musk revela motivos detrás de la fundación de OpenAI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-elon-musk-revela-motivos-detras-de-la-fundacion-de-open.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-elon-musk-revela-motivos-detras-de-la-fundacion-de-open.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Elon Musk testificó en su juicio contra OpenAI y reveló detalles sobre su motivación para crear la empresa. Según Musk, su amistad con Larry Page se rompió debido a diferencias sobre la seguridad de la inteligencia artificial.</description>
+  </item>
+  <item>
+    <title>Amazon ofrece productos de OpenAI en AWS: una colaboración profunda</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-amazon-ofrece-productos-de-openai-en-aws-una-colaboraci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-amazon-ofrece-productos-de-openai-en-aws-una-colaboraci.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Amazon ha comenzado a ofrecer productos de OpenAI en su plataforma de nube, AWS, después de que OpenAI anunciara que ya no tenía un acuerdo exclusivo con Microsoft. Esto abre la puerta a nuevas colaboraciones y aplicaciones en el campo de…</description>
+  </item>
+  <item>
+    <title>Dataset de paneles solares en Estados Unidos actualizado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-dataset-de-paneles-solares-en-estados-unidos-actualizad.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-dataset-de-paneles-solares-en-estados-unidos-actualizad.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El dataset de paneles solares en Estados Unidos ha sido actualizado con más de 3,4 millones de paneles, incluyendo un nuevo conjunto de datos para arrays de techo.</description>
+  </item>
+  <item>
+    <title>AMD presenta nuevo driver Linux para su Halo Box con iluminación RGB</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-amd-presenta-nuevo-driver-linux-para-su-halo-box-con-il.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-amd-presenta-nuevo-driver-linux-para-su-halo-box-con-il.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>La comunidad de Gazebo se reunió el 27 de abril para discutir las últimas actualizaciones y mejoras en el simulador de robótica. Entre las novedades se encuentran la integración de la herramienta de perfilado y la mejora de la…</description>
+    <description>AMD ha presentado un nuevo driver Linux para su Halo Box, un sistema de desarrollo de inteligencia artificial que compite con productos de NVIDIA. Este driver permite controlar la iluminación RGB del sistema.</description>
   </item>
   <item>
-    <title>Raspberry Pi badgeware: wearable dispositivos para makers</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-badgeware-wearable-dispositivos-para-maker.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-badgeware-wearable-dispositivos-para-maker.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Pimoroni ha lanzado una nueva gama de dispositivos wearable basados en Raspberry Pi, diseñados para la comunidad de makers. Estos dispositivos ofrecen una mejora significativa sobre las versiones anteriores.</description>
+    <title>Fedora Linux 44: Nueva versión con mejoras en GNOME y KDE</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-fedora-linux-44-nueva-version-con-mejoras-en-gnome-y-kd.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-fedora-linux-44-nueva-version-con-mejoras-en-gnome-y-kd.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La Fedora Project ha anunciado la salida de Fedora Linux 44, una versión con mejoras significativas en GNOME y KDE. Esta nueva versión ofrece una experiencia de usuario más refinada y una mayor estabilidad.</description>
   </item>
   <item>
-    <title>Crea un servidor web con ESP32 y controla un LED con un temporizador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-crea-un-servidor-web-con-esp32-y-controla-un-led-con-un.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-crea-un-servidor-web-con-esp32-y-controla-un-led-con-un.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>¿Quieres crear un servidor web con ESP32 que te permita controlar un LED con un temporizador? En este proyecto, aprenderás a hacerlo utilizando el Arduino IDE y las librerías ESPAsyncWebServer y AsyncTCP.</description>
+    <title>IBM agrega soporte para virtualización ARM64 a servidores IBM Z</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-ibm-agrega-soporte-para-virtualizacion-arm64-a-servidor.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-ibm-agrega-soporte-para-virtualizacion-arm64-a-servidor.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>IBM ha anunciado la actualización de parches Linux para permitir la virtualización de ARM64 en servidores IBM Z. Esta colaboración con Arm busca mejorar la eficiencia y la escalabilidad de los servidores.</description>
+  </item>
+  <item>
+    <title>Crea un juego de preguntas y respuestas con Python</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-crea-un-juego-de-preguntas-y-respuestas-con-python.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-crea-un-juego-de-preguntas-y-respuestas-con-python.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El lenguaje de programación Python es el más popular del mundo, según el índice TIOBE. Si estás empezando a aprender a programar, Python es una excelente opción debido a su simplicidad y facilidad de lectura. En este artículo, te…</description>
+  </item>
+  <item>
+    <title>Investigan herramientas y AI en la comunidad de ROS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-investigan-herramientas-y-ai-en-la-comunidad-de-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-investigan-herramientas-y-ai-en-la-comunidad-de-ros.md</guid>
+    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un grupo de investigadores de la Universidad de Carnegie Mellon y la Universidad de Lisboa están llevando a cabo una encuesta para entender cómo desarrolladores de ROS encuentran y utilizan información, qué herramientas prefieren y cómo se…</description>
   </item>
   <item>
     <title>Bundle de libros de Raspberry Pi a un precio que tú decides</title>
@@ -112,6 +144,14 @@
     <description>La placa ESP32-C5 Mini es una pequeña tarjeta de desarrollo que ofrece conectividad WiFi 6 y Bluetooth 5.x LE, perfecta para proyectos IoT y Smart Home. Su pequeño tamaño y bajo costo la hacen ideal para aplicaciones de bajo consumo de…</description>
   </item>
   <item>
+    <title>Raspberry Pi badgeware: wearable dispositivos para makers</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-badgeware-wearable-dispositivos-para-maker.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-badgeware-wearable-dispositivos-para-maker.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Pimoroni ha lanzado una nueva gama de dispositivos wearable basados en Raspberry Pi, diseñados para la comunidad de makers. Estos dispositivos ofrecen una mejora significativa sobre las versiones anteriores.</description>
+  </item>
+  <item>
     <title>Raspberry Pi revela sonidos favoritos de los pájaros cantores</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-revela-sonidos-favoritos-de-los-pajaros-ca.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-revela-sonidos-favoritos-de-los-pajaros-ca.md</guid>
@@ -128,124 +168,84 @@
     <description>La Raspberry Pi Pico W se convierte en un servidor web sencillo utilizando el Arduino IDE y la biblioteca ESPAsyncWebServer. Este tutorial muestra cómo crear un servidor web básico que puede ser ampliado para aplicaciones más complejas.</description>
   </item>
   <item>
-    <title>NASA prepara el lanzamiento de Artemis III después de la exitosa misión Artemis II</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-nasa-prepara-el-lanzamiento-de-artemis-iii-despues-de-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-nasa-prepara-el-lanzamiento-de-artemis-iii-despues-de-l.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <title>Crea un servidor web con ESP32 y controla un LED con un temporizador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-crea-un-servidor-web-con-esp32-y-controla-un-led-con-un.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-crea-un-servidor-web-con-esp32-y-controla-un-led-con-un.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>¿Quieres crear un servidor web con ESP32 que te permita controlar un LED con un temporizador? En este proyecto, aprenderás a hacerlo utilizando el Arduino IDE y las librerías ESPAsyncWebServer y AsyncTCP.</description>
+  </item>
+  <item>
+    <title>Un maestro de robótica crea una réplica a tamaño real del ENIAC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-un-maestro-de-robotica-crea-una-replica-a-tamano-real-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-un-maestro-de-robotica-crea-una-replica-a-tamano-real-3.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ENIAC, uno de los primeros ordenadores electrónicos programables.</description>
+  </item>
+  <item>
+    <title>Robótica vs. atletas humanos: el futuro de la competencia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-robotica-vs-atletas-humanos-el-futuro-de-la-competencia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-robotica-vs-atletas-humanos-el-futuro-de-la-competencia.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica está avanzando a pasos agigantados, y ahora los robots están compitiendo contra los mejores atletas humanos. En este artículo, exploraremos las últimas innovaciones en robótica y cómo están cambiando la forma en que competimos.</description>
+  </item>
+  <item>
+    <title>China: el gobierno de EE.UU. propone una prohibición de robots chinos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-china-el-gobierno-de-eeuu-propone-una-prohibicion-de-ro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-china-el-gobierno-de-eeuu-propone-una-prohibicion-de-ro.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El gobierno de EE.UU. ha propuesto una prohibición de uso de robots chinos en su territorio, incluyendo humanoids, perros y arrastradores, en un intento de proteger su soberanía tecnológica.</description>
+  </item>
+  <item>
+    <title>Actualización de pip 26.1: archivos de bloqueo y cooldown de dependencias</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-actualizacion-de-pip-261-archivos-de-bloqueo-y-cooldown.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-actualizacion-de-pip-261-archivos-de-bloqueo-y-cooldown.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>La NASA ha publicado un informe sobre la misión Artemis II, destacando los cambios implementados después de la primera misión y la preparación para la próxima. Mientras tanto, un desarrollador ha creado un simulador web del sistema solar…</description>
+    <description>La versión 26.1 de pip, la herramienta de instalación de dependencias de Python por defecto, ha sido actualizada con nuevas funcionalidades. Entre ellas, la creación de archivos de bloqueo y la implementación de cooldown de dependencias.…</description>
   </item>
   <item>
-    <title>Mercado de comercio entre agentes de IA: un experimento de Anthropic</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-mercado-de-comercio-entre-agentes-de-ia-un-experiment-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-27-mercado-de-comercio-entre-agentes-de-ia-un-experiment-2.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <title>Crea aplicaciones web escalables con OpenAI's Privacy Filter</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-crea-aplicaciones-web-escalables-con-openais-privacy-fi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-crea-aplicaciones-web-escalables-con-openais-privacy-fi.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>La empresa Anthropic ha creado un mercado de comercio entre agentes de IA, donde estos agentes compran y venden bienes reales a sus compañeros de trabajo, utilizando un presupuesto de $100 por empleado.</description>
+    <description>OpenAI ha lanzado Privacy Filter, un detector de información personal identificable (PII) de código abierto que puede etiquetar texto en ocho categorías en una sola pasada de contexto de 128k. Esto permite a los desarrolladores crear…</description>
   </item>
   <item>
-    <title>Aprende la técnica de evitación de colisiones con el enfoque de ventana dinámica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-aprende-la-tecnica-de-evitacion-de-colisiones-con-el-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-aprende-la-tecnica-de-evitacion-de-colisiones-con-el-en.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La Unibotics ha lanzado un nuevo ejercicio de práctica en su sitio web de programación de robots para aprender la técnica de evitación de colisiones con el enfoque de ventana dinámica (DWA). Este algoritmo es similar al CVM de Reid Simmons…</description>
+    <title>OpenAI y Microsoft renegocian acuerdo para evitar disputas legales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-openai-y-microsoft-renegocian-acuerdo-para-evitar-dispu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-openai-y-microsoft-renegocian-acuerdo-para-evitar-dispu.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI y Microsoft han anunciado un nuevo acuerdo que resuelve disputas legales sobre el uso de tecnología de inteligencia artificial. Este acuerdo beneficia a ambas partes y permite a OpenAI expandir su presencia en diferentes proveedores…</description>
   </item>
   <item>
-    <title>Robótico construye réplica a tamaño real del ordenador histórico ENIAC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotico-construye-replica-a-tamano-real-del-ordenador-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotico-construye-replica-a-tamano-real-del-ordenador-.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ordenador electrónico ENIAC, uno de los primeros ordenadores…</description>
+    <title>Microsoft lanza VibeVoice, un modelo de audio para reconocimiento de voz</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-microsoft-lanza-vibevoice-un-modelo-de-audio-para-recon.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-microsoft-lanza-vibevoice-un-modelo-de-audio-para-recon.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft ha lanzado VibeVoice, un modelo de audio para reconocimiento de voz que puede transcribir audio en tiempo real y realizar diarización de hablantes. Este modelo se basa en la tecnología de Whisper y está disponible bajo licencia…</description>
   </item>
   <item>
-    <title>TurtleBot4_Navigation: un desafío para la navegación autónoma</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-turtlebot4-navigation-un-desafio-para-la-navegacion-aut.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-turtlebot4-navigation-un-desafio-para-la-navegacion-aut.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un robot TurtleBot4 ha superado los 11108 horas de funcionamiento sin problemas, pero su sistema de navegación autónoma sigue siendo un desafío. Aunque ha logrado navegar por su hogar sin problemas, su sistema de navegación es inestable y…</description>
+    <title>Un modelo de lenguaje vintage de 13B entrenado en texto de 1931</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-un-modelo-de-lenguaje-vintage-de-13b-entrenado-en-texto.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-un-modelo-de-lenguaje-vintage-de-13b-entrenado-en-texto.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de investigadores ha creado un modelo de lenguaje de 13 billones de parámetros entrenado en texto de 1931, lo que permite a la inteligencia artificial aprender de la historia y predecir eventos futuros.</description>
   </item>
   <item>
-    <title>Robótica: avances en competencia con humanos en deportes y tareas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotica-avances-en-competencia-con-humanos-en-deportes.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-robotica-avances-en-competencia-con-humanos-en-deportes.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica sigue avanzando a pasos agigantados, con robots que pueden competir con humanos en deportes como el ping-pong y realizar tareas complejas como jugar al ajedrez. Pero ¿qué tecnologías están detrás de estos avances y qué…</description>
-  </item>
-  <item>
-    <title>China: el gobierno estadounidense propone una ley para limitar robots chinos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-china-el-gobierno-estadounidense-propone-una-ley-para-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-27-china-el-gobierno-estadounidense-propone-una-ley-para-l.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El gobierno estadounidense propone una ley para limitar el uso de robots chinos en aplicaciones gubernamentales. La medida forma parte de una política más amplia para reducir la dependencia de tecnología china.</description>
-  </item>
-  <item>
-    <title>KernelUNO: un sistema operativo ligero para Arduino UNO con shell Linux-like</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-kerneluno-un-sistema-operativo-ligero-para-arduino-uno-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-kerneluno-un-sistema-operativo-ligero-para-arduino-uno-.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
+    <title>Gazebo: Actualizaciones y mejoras en el simulador de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-28-gazebo-actualizaciones-y-mejoras-en-el-simulador-de-rob.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-28-gazebo-actualizaciones-y-mejoras-en-el-simulador-de-rob.md</guid>
+    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>KernelUNO es un proyecto que ofrece un sistema operativo ligero para la placa Arduino UNO, equipado con una shell que recuerda a Linux. Con solo 546 líneas de código, es fácil de usar y ofrece una variedad de comandos para controlar la…</description>
-  </item>
-  <item>
-    <title>Linux 7.1-rc1: nuevo driver NTFS y mejoras para seguridad y rendimiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-linux-71-rc1-nuevo-driver-ntfs-y-mejoras-para-seguridad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-linux-71-rc1-nuevo-driver-ntfs-y-mejoras-para-seguridad.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión de prueba Linux 7.1-rc1 ha sido lanzada, con importantes mejoras en seguridad, rendimiento y compatibilidad. Este lanzamiento es el primer paso hacia la versión estable de Linux 7.1, que se espera que esté disponible a mediados…</description>
-  </item>
-  <item>
-    <title>CachyOS Actualiza con Nuevo Gestor de Paquetes y Scheduler para NVMe</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-cachyos-actualiza-con-nuevo-gestor-de-paquetes-y-schedu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-cachyos-actualiza-con-nuevo-gestor-de-paquetes-y-schedu.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La distribución Arch Linux basada CachyOS ha lanzado una actualización con importantes mejoras, incluyendo un nuevo gestor de paquetes gráfico y un scheduler para NVMe que ofrece mejoras en la respuesta y privacidad.</description>
-  </item>
-  <item>
-    <title>GnuPG 2.5.19: Mejoras y correcciones en la seguridad de la comunicación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de--2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-27-gnupg-2519-mejoras-y-correcciones-en-la-seguridad-de--2.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 2.5.19 de GnuPG ha sido lanzada, con mejoras en la seguridad de la comunicación y correcciones de errores. Esta actualización es importante para evitar problemas de compatibilidad con la versión anterior.</description>
-  </item>
-  <item>
-    <title>Raspberry Pi CM0 disponible en AliExpress a partir de $33</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-cm0-disponible-en-aliexpress-a-partir-de-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-cm0-disponible-en-aliexpress-a-partir-de-3.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La Raspberry Pi CM0, un módulo de sistema en un solo chip, está disponible en AliExpress a partir de $33. Este módulo es una versión compacta del Raspberry Pi Zero 2 W, con una variedad de características y opciones de configuración.</description>
-  </item>
-  <item>
-    <title>Adafruit lanza CircuitPython 10.2.0 y otros proyectos emocionantes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-adafruit-lanza-circuitpython-1020-y-otros-proyectos-emo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-adafruit-lanza-circuitpython-1020-y-otros-proyectos-emo.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado un montón de proyectos emocionantes en la última semana, desde la actualización de CircuitPython hasta tutoriales y videos sobre robótica y electrónica. En este artículo, exploraremos algunos de los proyectos más…</description>
-  </item>
-  <item>
-    <title>Revelación de un reloj inteligente solar con E-ink y hasta 10 meses de batería</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-revelacion-de-un-reloj-inteligente-solar-con-e-ink-y-ha.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-revelacion-de-un-reloj-inteligente-solar-con-e-ink-y-ha.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Daniel Ansorregui ha desarrollado LightInk, un reloj inteligente solar con pantalla E-ink que puede funcionar durante hasta 10 meses con una batería de 100mAh. Este dispositivo es una combinación de tecnología solar y eficiencia energética…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi Pico: una mecánica keyboard innovadora</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-pico-una-mecanica-keyboard-innovadora.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-27-raspberry-pi-pico-una-mecanica-keyboard-innovadora.md</guid>
-    <pubDate>Mon, 27 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un usuario de Instructables ha creado una mecánica keyboard personalizada llamada ClickPico, basada en un Raspberry Pi Pico. Esta innovadora creación resuelve problemas comunes de las teclados tradicionales.</description>
+    <description>La comunidad de Gazebo se reunió el 27 de abril para discutir las últimas actualizaciones y mejoras en el simulador de robótica. Entre las novedades se encuentran la integración de la herramienta de perfilado y la mejora de la…</description>
   </item>
 </channel>
 </rss>
