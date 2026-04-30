@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 29 Apr 2026 09:07:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 09:10:39 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Convierte tu Google Home Mini en un asistente de voz local con esta PCB</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa MiciMike ha lanzado una PCB de reemplazo para la Google Home Mini que convierte a esta voz asistente en una versión local y privada, sin necesidad de modificar el caso o soldar nada.</description>
+  </item>
+  <item>
+    <title>Impresión 3D: Cómo crear un calamar articulado con flexibilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-impresion-3d-como-crear-un-calamar-articulado-con-flexi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-impresion-3d-como-crear-un-calamar-articulado-con-flexi.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado un proyecto impresionante: un calamar articulado que puede ser impreso en un solo trozo y que cuenta con flexibilidad. Este proyecto es relevante ahora mismo porque muestra la capacidad de la…</description>
+  </item>
+  <item>
+    <title>Sensores de visión ultra-bajos en consumo para aplicaciones de IA y visión siempre encendidas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>STMicroelectronics ha presentado dos sensores de visión ultra-bajos en consumo, el VD65G4 y el VD55G4, diseñados para aplicaciones de IA y visión siempre encendidas. Estos sensores son ideales para wearables, AR/VR y dispositivos de hogar…</description>
+  </item>
+  <item>
+    <title>Escaneador de redes para detectar Raspberry Pi en la red</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-escaneador-de-redes-para-detectar-raspberry-pi-en-la-re.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-escaneador-de-redes-para-detectar-raspberry-pi-en-la-re.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un desarrollador ha creado un escaneador de redes para encontrar y administrar dispositivos Raspberry Pi en la red. Este problema es común en la comunidad de hackers y programadores que utilizan Raspberry Pi para proyectos y experimentos.</description>
+  </item>
+  <item>
+    <title>Mejoras en la simulación de flotabilidad y dinámica de fluidos en Gazebo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-mejoras-en-la-simulacion-de-flotabilidad-y-dinamica-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-mejoras-en-la-simulacion-de-flotabilidad-y-dinamica-de-.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Gazebo, una plataforma de simulación de física en tiempo real, acaba de recibir una serie de mejoras significativas en su soporte para la simulación de flotabilidad y dinámica de fluidos. Estas mejoras deberían ser especialmente relevantes…</description>
+  </item>
+  <item>
+    <title>Propuesta de prohibición de robots chinos: un paso más en la soberanía tecnológica estadounidense</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-propuesta-de-prohibicion-de-robots-chinos-un-paso-mas-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-propuesta-de-prohibicion-de-robots-chinos-un-paso-mas-e.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La propuesta de prohibición de robots chinos por parte del gobierno estadounidense es el último paso en un proceso de decoupling de tecnología sensible de China. Esto incluye semiconductores, rutas de navegación, seguridad y más. El…</description>
+  </item>
+  <item>
+    <title>Robótica avanzada: competencia con humanos en deportes y logística</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-robotica-avanzada-competencia-con-humanos-en-deportes-y.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-robotica-avanzada-competencia-con-humanos-en-deportes-y.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica ha alcanzado un nuevo nivel de complejidad con la creación de sistemas autónomos que pueden competir con humanos en deportes y logística. Estos sistemas utilizan tecnologías de IA y control dinámico para realizar tareas…</description>
+  </item>
+  <item>
+    <title>Un maestro de robótica crea una réplica a tamaño real de ENIAC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-un-maestro-de-robotica-crea-una-replica-a-tamano-real-5.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-un-maestro-de-robotica-crea-una-replica-a-tamano-real-5.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Tom Burick, un maestro de robótica y tecnología, ha liderado un proyecto con sus estudiantes para construir una réplica a tamaño real de ENIAC, uno de los primeros ordenadores electrónicos programables. Esta hazaña es un tributo a la…</description>
+  </item>
+  <item>
+    <title>Mejoras en el rendimiento de Lunar Lake en Linux durante el último año</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-mejoras-en-el-rendimiento-de-lunar-lake-en-linux-durant.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-mejoras-en-el-rendimiento-de-lunar-lake-en-linux-durant.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La Intel ha lanzado recientemente la CPU Lunar Lake, que ha experimentado mejoras significativas en rendimiento en Linux durante el último año. En este artículo, se analiza cómo ha evolucionado el rendimiento de la CPU Lunar Lake en Linux…</description>
+  </item>
+  <item>
+    <title>OpenCL Introduce Extensión de Matrices Cooperativas para Aprendizaje Automático</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-opencl-introduce-extension-de-matrices-cooperativas-par.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-opencl-introduce-extension-de-matrices-cooperativas-par.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de OpenCL ha estado trabajando en la creación de extensiones para mejorar el rendimiento en aplicaciones de aprendizaje automático y procesamiento de imágenes. Ahora, han anunciado la introducción de una nueva extensión de…</description>
+  </item>
+  <item>
+    <title>Por qué el autoaprendizaje en LLMs conduce inevitablemente al colapso</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-por-que-el-autoaprendizaje-en-llms-conduce-inevitableme.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-por-que-el-autoaprendizaje-en-llms-conduce-inevitableme.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de inteligencia artificial ha creído durante mucho tiempo que los modelos de lenguaje grandes (LLMs) pueden aprender y mejorar por sí mismos ajustando sus pesos en el espacio vectorial. Sin embargo, esto es más una ilusión que…</description>
+  </item>
+  <item>
+    <title>Anthropic puede recaudar $50.000 millones en una ronda de financiación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-anthropic-puede-recaudar-50000-millones-en-una-ronda-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-anthropic-puede-recaudar-50000-millones-en-una-ronda-de.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa de inteligencia artificial Anthropic ha recibido múltiples ofertas de inversión para recaudar $50.000 millones en una ronda de financiación, lo que podría hacer que su valoración alcance los $900.000 millones. Esta noticia…</description>
+  </item>
+  <item>
+    <title>Zenoh 1.8.0: Nuevas paquetes para transporte de datos en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-zenoh-180-nuevas-paquetes-para-transporte-de-datos-en-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-zenoh-180-nuevas-paquetes-para-transporte-de-datos-en-l.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La Fundación OSR ha lanzado paquetes preestablecidos de Zenoh 1.8.0, una herramienta para transporte de datos en tiempo real. Estos paquetes están disponibles en el repositorio de prerelease de packages.osrfoundation.org y serán promovidos…</description>
+  </item>
+  <item>
+    <title>Linux corrige errores en su extensible scheduler con la ayuda de la IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-linux-corrige-errores-en-su-extensible-scheduler-con-la.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-linux-corrige-errores-en-su-extensible-scheduler-con-la.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha visto un aumento significativo en la corrección de errores en su extensible scheduler, gracias a la revisión asistida por inteligencia artificial. Esto ha permitido identificar y corregir problemas que habían…</description>
+  </item>
+  <item>
+    <title>Noticias de la semana en el mundo de la robótica y el software</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-noticias-de-la-semana-en-el-mundo-de-la-robotica-y-el-s.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-noticias-de-la-semana-en-el-mundo-de-la-robotica-y-el-s.md</guid>
+    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Esta semana se han anunciado varios proyectos y actualizaciones en el mundo de la robótica y el software. Entre ellos, se destacan la actualización de GnuPG, la liberación de Ubuntu 26.04 y la implementación de la concurrencia en Zig.</description>
+  </item>
   <item>
     <title>Kit de desarrollo ESP32-C5-WIFI6-KIT para IoT con WiFi 6 y 32MB de flash</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-kit-de-desarrollo-esp32-c5-wifi6-kit-para-iot-con-wifi-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Un grupo de investigadores de la Universidad de Carnegie Mellon y la Universidad de Lisboa están llevando a cabo una encuesta para entender cómo desarrolladores de ROS encuentran y utilizan información, qué herramientas prefieren y cómo se…</description>
-  </item>
-  <item>
-    <title>Bundle de libros de Raspberry Pi a un precio que tú decides</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-bundle-de-libros-de-raspberry-pi-a-un-precio-que-tu-dec.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-bundle-de-libros-de-raspberry-pi-a-un-precio-que-tu-dec.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La Raspberry Pi Foundation y Humble Bundle han lanzado un bundle de libros electrónicos de Raspberry Pi a un precio que tú decides. El objetivo es apoyar a la fundación en su labor de promover la educación en informática entre los jóvenes.</description>
-  </item>
-  <item>
-    <title>Nueva placa ESP32-C5 Mini con WiFi 6 y Bluetooth 5.x LE para IoT</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-nueva-placa-esp32-c5-mini-con-wifi-6-y-bluetooth-5x-le-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-nueva-placa-esp32-c5-mini-con-wifi-6-y-bluetooth-5x-le-.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La placa ESP32-C5 Mini es una pequeña tarjeta de desarrollo que ofrece conectividad WiFi 6 y Bluetooth 5.x LE, perfecta para proyectos IoT y Smart Home. Su pequeño tamaño y bajo costo la hacen ideal para aplicaciones de bajo consumo de…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi badgeware: wearable dispositivos para makers</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-badgeware-wearable-dispositivos-para-maker.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-badgeware-wearable-dispositivos-para-maker.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Pimoroni ha lanzado una nueva gama de dispositivos wearable basados en Raspberry Pi, diseñados para la comunidad de makers. Estos dispositivos ofrecen una mejora significativa sobre las versiones anteriores.</description>
-  </item>
-  <item>
-    <title>Raspberry Pi revela sonidos favoritos de los pájaros cantores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-revela-sonidos-favoritos-de-los-pajaros-ca.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-revela-sonidos-favoritos-de-los-pajaros-ca.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un equipo de investigadores canadienses ha desarrollado un sistema de bajo costo para estudiar las preferencias auditivas de los pájaros cantores utilizando una Raspberry Pi. Esto permite una mayor accesibilidad a la investigación en este…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi Pico como servidor web con Arduino IDE</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-pico-como-servidor-web-con-arduino-ide.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-raspberry-pi-pico-como-servidor-web-con-arduino-ide.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La Raspberry Pi Pico W se convierte en un servidor web sencillo utilizando el Arduino IDE y la biblioteca ESPAsyncWebServer. Este tutorial muestra cómo crear un servidor web básico que puede ser ampliado para aplicaciones más complejas.</description>
-  </item>
-  <item>
-    <title>Crea un servidor web con ESP32 y controla un LED con un temporizador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-crea-un-servidor-web-con-esp32-y-controla-un-led-con-un.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-28-crea-un-servidor-web-con-esp32-y-controla-un-led-con-un.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>¿Quieres crear un servidor web con ESP32 que te permita controlar un LED con un temporizador? En este proyecto, aprenderás a hacerlo utilizando el Arduino IDE y las librerías ESPAsyncWebServer y AsyncTCP.</description>
-  </item>
-  <item>
-    <title>Un maestro de robótica crea una réplica a tamaño real del ENIAC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-un-maestro-de-robotica-crea-una-replica-a-tamano-real-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-un-maestro-de-robotica-crea-una-replica-a-tamano-real-3.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha liderado un proyecto para construir una réplica a tamaño real del ENIAC, uno de los primeros ordenadores electrónicos programables.</description>
-  </item>
-  <item>
-    <title>Robótica vs. atletas humanos: el futuro de la competencia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-robotica-vs-atletas-humanos-el-futuro-de-la-competencia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-robotica-vs-atletas-humanos-el-futuro-de-la-competencia.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica está avanzando a pasos agigantados, y ahora los robots están compitiendo contra los mejores atletas humanos. En este artículo, exploraremos las últimas innovaciones en robótica y cómo están cambiando la forma en que competimos.</description>
-  </item>
-  <item>
-    <title>China: el gobierno de EE.UU. propone una prohibición de robots chinos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-china-el-gobierno-de-eeuu-propone-una-prohibicion-de-ro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-28-china-el-gobierno-de-eeuu-propone-una-prohibicion-de-ro.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El gobierno de EE.UU. ha propuesto una prohibición de uso de robots chinos en su territorio, incluyendo humanoids, perros y arrastradores, en un intento de proteger su soberanía tecnológica.</description>
-  </item>
-  <item>
-    <title>Actualización de pip 26.1: archivos de bloqueo y cooldown de dependencias</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-actualizacion-de-pip-261-archivos-de-bloqueo-y-cooldown.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-actualizacion-de-pip-261-archivos-de-bloqueo-y-cooldown.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La versión 26.1 de pip, la herramienta de instalación de dependencias de Python por defecto, ha sido actualizada con nuevas funcionalidades. Entre ellas, la creación de archivos de bloqueo y la implementación de cooldown de dependencias.…</description>
-  </item>
-  <item>
-    <title>Crea aplicaciones web escalables con OpenAI's Privacy Filter</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-crea-aplicaciones-web-escalables-con-openais-privacy-fi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-crea-aplicaciones-web-escalables-con-openais-privacy-fi.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha lanzado Privacy Filter, un detector de información personal identificable (PII) de código abierto que puede etiquetar texto en ocho categorías en una sola pasada de contexto de 128k. Esto permite a los desarrolladores crear…</description>
-  </item>
-  <item>
-    <title>OpenAI y Microsoft renegocian acuerdo para evitar disputas legales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-openai-y-microsoft-renegocian-acuerdo-para-evitar-dispu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-openai-y-microsoft-renegocian-acuerdo-para-evitar-dispu.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI y Microsoft han anunciado un nuevo acuerdo que resuelve disputas legales sobre el uso de tecnología de inteligencia artificial. Este acuerdo beneficia a ambas partes y permite a OpenAI expandir su presencia en diferentes proveedores…</description>
-  </item>
-  <item>
-    <title>Microsoft lanza VibeVoice, un modelo de audio para reconocimiento de voz</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-microsoft-lanza-vibevoice-un-modelo-de-audio-para-recon.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-microsoft-lanza-vibevoice-un-modelo-de-audio-para-recon.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Microsoft ha lanzado VibeVoice, un modelo de audio para reconocimiento de voz que puede transcribir audio en tiempo real y realizar diarización de hablantes. Este modelo se basa en la tecnología de Whisper y está disponible bajo licencia…</description>
-  </item>
-  <item>
-    <title>Un modelo de lenguaje vintage de 13B entrenado en texto de 1931</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-un-modelo-de-lenguaje-vintage-de-13b-entrenado-en-texto.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-28-un-modelo-de-lenguaje-vintage-de-13b-entrenado-en-texto.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de investigadores ha creado un modelo de lenguaje de 13 billones de parámetros entrenado en texto de 1931, lo que permite a la inteligencia artificial aprender de la historia y predecir eventos futuros.</description>
-  </item>
-  <item>
-    <title>Gazebo: Actualizaciones y mejoras en el simulador de robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-28-gazebo-actualizaciones-y-mejoras-en-el-simulador-de-rob.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-28-gazebo-actualizaciones-y-mejoras-en-el-simulador-de-rob.md</guid>
-    <pubDate>Tue, 28 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Gazebo se reunió el 27 de abril para discutir las últimas actualizaciones y mejoras en el simulador de robótica. Entre las novedades se encuentran la integración de la herramienta de perfilado y la mejora de la…</description>
   </item>
 </channel>
 </rss>

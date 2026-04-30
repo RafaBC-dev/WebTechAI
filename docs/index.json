@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Convierte tu Google Home Mini en un asistente de voz local con esta PCB",
+      "category": "embebidos",
+      "date": "2026-04-30",
+      "slug": "convierte-tu-google-home-mini-en-un-asistente-de-voz-lo",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa MiciMike ha lanzado una PCB de reemplazo para la Google Home Mini que convierte a esta voz asistente en una versión local y privada, sin necesidad de modificar el caso o soldar nada.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md"
+    },
+    {
+      "title": "Impresión 3D: Cómo crear un calamar articulado con flexibilidad",
+      "category": "embebidos",
+      "date": "2026-04-30",
+      "slug": "impresion-3d-como-crear-un-calamar-articulado-con-flexi",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado un proyecto impresionante: un calamar articulado que puede ser impreso en un solo trozo y que cuenta con flexibilidad. Este proyecto es relevante ahora mismo porque muestra la capacidad de la…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-04-30-impresion-3d-como-crear-un-calamar-articulado-con-flexi.md"
+    },
+    {
+      "title": "Sensores de visión ultra-bajos en consumo para aplicaciones de IA y visión siempre encendidas",
+      "category": "embebidos",
+      "date": "2026-04-30",
+      "slug": "sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "STMicroelectronics ha presentado dos sensores de visión ultra-bajos en consumo, el VD65G4 y el VD55G4, diseñados para aplicaciones de IA y visión siempre encendidas. Estos sensores son ideales para wearables, AR/VR y dispositivos de hogar…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-30-sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci.md"
+    },
+    {
+      "title": "Escaneador de redes para detectar Raspberry Pi en la red",
+      "category": "embebidos",
+      "date": "2026-04-30",
+      "slug": "escaneador-de-redes-para-detectar-raspberry-pi-en-la-re",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un desarrollador ha creado un escaneador de redes para encontrar y administrar dispositivos Raspberry Pi en la red. Este problema es común en la comunidad de hackers y programadores que utilizan Raspberry Pi para proyectos y experimentos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-04-30-escaneador-de-redes-para-detectar-raspberry-pi-en-la-re.md"
+    },
+    {
+      "title": "Mejoras en la simulación de flotabilidad y dinámica de fluidos en Gazebo",
+      "category": "robotica",
+      "date": "2026-04-30",
+      "slug": "mejoras-en-la-simulacion-de-flotabilidad-y-dinamica-de-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Gazebo, una plataforma de simulación de física en tiempo real, acaba de recibir una serie de mejoras significativas en su soporte para la simulación de flotabilidad y dinámica de fluidos. Estas mejoras deberían ser especialmente relevantes…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-30-mejoras-en-la-simulacion-de-flotabilidad-y-dinamica-de-.md"
+    },
+    {
+      "title": "Propuesta de prohibición de robots chinos: un paso más en la soberanía tecnológica estadounidense",
+      "category": "robotica",
+      "date": "2026-04-30",
+      "slug": "propuesta-de-prohibicion-de-robots-chinos-un-paso-mas-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La propuesta de prohibición de robots chinos por parte del gobierno estadounidense es el último paso en un proceso de decoupling de tecnología sensible de China. Esto incluye semiconductores, rutas de navegación, seguridad y más. El…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-30-propuesta-de-prohibicion-de-robots-chinos-un-paso-mas-e.md"
+    },
+    {
+      "title": "Robótica avanzada: competencia con humanos en deportes y logística",
+      "category": "robotica",
+      "date": "2026-04-30",
+      "slug": "robotica-avanzada-competencia-con-humanos-en-deportes-y",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica ha alcanzado un nuevo nivel de complejidad con la creación de sistemas autónomos que pueden competir con humanos en deportes y logística. Estos sistemas utilizan tecnologías de IA y control dinámico para realizar tareas…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-04-30-robotica-avanzada-competencia-con-humanos-en-deportes-y.md"
+    },
+    {
+      "title": "Un maestro de robótica crea una réplica a tamaño real de ENIAC",
+      "category": "robotica",
+      "date": "2026-04-30",
+      "slug": "un-maestro-de-robotica-crea-una-replica-a-tamano-real-5",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Tom Burick, un maestro de robótica y tecnología, ha liderado un proyecto con sus estudiantes para construir una réplica a tamaño real de ENIAC, uno de los primeros ordenadores electrónicos programables. Esta hazaña es un tributo a la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-04-30-un-maestro-de-robotica-crea-una-replica-a-tamano-real-5.md"
+    },
+    {
+      "title": "Mejoras en el rendimiento de Lunar Lake en Linux durante el último año",
+      "category": "ia",
+      "date": "2026-04-30",
+      "slug": "mejoras-en-el-rendimiento-de-lunar-lake-en-linux-durant",
+      "tags": [
+        "llms",
+        "linux",
+        "benchmarks"
+      ],
+      "preview": "La Intel ha lanzado recientemente la CPU Lunar Lake, que ha experimentado mejoras significativas en rendimiento en Linux durante el último año. En este artículo, se analiza cómo ha evolucionado el rendimiento de la CPU Lunar Lake en Linux…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-30-mejoras-en-el-rendimiento-de-lunar-lake-en-linux-durant.md"
+    },
+    {
+      "title": "OpenCL Introduce Extensión de Matrices Cooperativas para Aprendizaje Automático",
+      "category": "ia",
+      "date": "2026-04-30",
+      "slug": "opencl-introduce-extension-de-matrices-cooperativas-par",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de OpenCL ha estado trabajando en la creación de extensiones para mejorar el rendimiento en aplicaciones de aprendizaje automático y procesamiento de imágenes. Ahora, han anunciado la introducción de una nueva extensión de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-04-30-opencl-introduce-extension-de-matrices-cooperativas-par.md"
+    },
+    {
+      "title": "Por qué el autoaprendizaje en LLMs conduce inevitablemente al colapso",
+      "category": "ia",
+      "date": "2026-04-30",
+      "slug": "por-que-el-autoaprendizaje-en-llms-conduce-inevitableme",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de inteligencia artificial ha creído durante mucho tiempo que los modelos de lenguaje grandes (LLMs) pueden aprender y mejorar por sí mismos ajustando sus pesos en el espacio vectorial. Sin embargo, esto es más una ilusión que…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-30-por-que-el-autoaprendizaje-en-llms-conduce-inevitableme.md"
+    },
+    {
+      "title": "Anthropic puede recaudar $50.000 millones en una ronda de financiación",
+      "category": "ia",
+      "date": "2026-04-30",
+      "slug": "anthropic-puede-recaudar-50000-millones-en-una-ronda-de",
+      "tags": [
+        "ia-local",
+        "llms",
+        "robotica"
+      ],
+      "preview": "La empresa de inteligencia artificial Anthropic ha recibido múltiples ofertas de inversión para recaudar $50.000 millones en una ronda de financiación, lo que podría hacer que su valoración alcance los $900.000 millones. Esta noticia…",
+      "has_command": false,
+      "file_path": "content/ia/2026-04-30-anthropic-puede-recaudar-50000-millones-en-una-ronda-de.md"
+    },
+    {
+      "title": "Zenoh 1.8.0: Nuevas paquetes para transporte de datos en Linux",
+      "category": "linux",
+      "date": "2026-04-30",
+      "slug": "zenoh-180-nuevas-paquetes-para-transporte-de-datos-en-l",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Fundación OSR ha lanzado paquetes preestablecidos de Zenoh 1.8.0, una herramienta para transporte de datos en tiempo real. Estos paquetes están disponibles en el repositorio de prerelease de packages.osrfoundation.org y serán promovidos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-30-zenoh-180-nuevas-paquetes-para-transporte-de-datos-en-l.md"
+    },
+    {
+      "title": "Linux corrige errores en su extensible scheduler con la ayuda de la IA",
+      "category": "linux",
+      "date": "2026-04-30",
+      "slug": "linux-corrige-errores-en-su-extensible-scheduler-con-la",
+      "tags": [
+        "linux",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "La comunidad de Linux ha visto un aumento significativo en la corrección de errores en su extensible scheduler, gracias a la revisión asistida por inteligencia artificial. Esto ha permitido identificar y corregir problemas que habían…",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-30-linux-corrige-errores-en-su-extensible-scheduler-con-la.md"
+    },
+    {
+      "title": "Noticias de la semana en el mundo de la robótica y el software",
+      "category": "linux",
+      "date": "2026-04-30",
+      "slug": "noticias-de-la-semana-en-el-mundo-de-la-robotica-y-el-s",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Esta semana se han anunciado varios proyectos y actualizaciones en el mundo de la robótica y el software. Entre ellos, se destacan la actualización de GnuPG, la liberación de Ubuntu 26.04 y la implementación de la concurrencia en Zig.",
+      "has_command": true,
+      "file_path": "content/linux/2026-04-30-noticias-de-la-semana-en-el-mundo-de-la-robotica-y-el-s.md"
+    },
+    {
       "title": "Kit de desarrollo ESP32-C5-WIFI6-KIT para IoT con WiFi 6 y 32MB de flash",
       "category": "embebidos",
       "date": "2026-04-29",

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-29</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-29</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-30</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-impresion-3d-como-crear-un-calamar-articulado-con-flexi.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-escaneador-de-redes-para-detectar-raspberry-pi-en-la-re.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-mejoras-en-la-simulacion-de-flotabilidad-y-dinamica-de-.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-propuesta-de-prohibicion-de-robots-chinos-un-paso-mas-e.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-robotica-avanzada-competencia-con-humanos-en-deportes-y.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-un-maestro-de-robotica-crea-una-replica-a-tamano-real-5.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-mejoras-en-el-rendimiento-de-lunar-lake-en-linux-durant.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-opencl-introduce-extension-de-matrices-cooperativas-par.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-por-que-el-autoaprendizaje-en-llms-conduce-inevitableme.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-anthropic-puede-recaudar-50000-millones-en-una-ronda-de.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-zenoh-180-nuevas-paquetes-para-transporte-de-datos-en-l.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-linux-corrige-errores-en-su-extensible-scheduler-con-la.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-noticias-de-la-semana-en-el-mundo-de-la-robotica-y-el-s.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-kit-de-desarrollo-esp32-c5-wifi6-kit-para-iot-con-wifi-.md</loc><lastmod>2026-04-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-wipeout-clone-en-esp32-s3-un-juego-clasico-en-un-microc.md</loc><lastmod>2026-04-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-pico-de-raspberry-con-salida-vga-un-proyecto-para-conec.md</loc><lastmod>2026-04-29</lastmod><priority>0.8</priority></url>
