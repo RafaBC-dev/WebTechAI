@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-04-30</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-04-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-01</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-cyberdeck-typeframe-ps-85-un-proyecto-de-retroinformati.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-organizador-de-herramientas-para-escritorios-3d-impreso.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-pimoroni-lanza-una-nueva-gama-de-dispositivos-de-wearab.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-circuitpython-1030-alpha1-nueva-version-con-mejoras-y-c.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-robotica-vs-atletas-robots-que-juegan-ping-pong-y-corre.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-ros-2-lyrical-luth-nueva-ilustracion-y-venta-de-merchan.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-un-maestro-de-robotica-construye-una-replica-a-tamano-r.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-unitree-lanza-robots-humanoides-con-manos-dexterizadas-.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-chatgpt-images-20-un-exito-en-india-pero-no-tan-grande-.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-deepinfra-se-une-a-hugging-face-como-proveedor-de-infer.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-daimon-robotics-lanza-el-dataset-daimon-infinity-para-r.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-linux-mint-publica-isos-con-kernel-mas-reciente-para-me.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-linux-72-nuevas-mejoras-en-el-scheduler-y-hardware-amdx.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-ros-lyrical-luth-beta-prueba-la-ultima-version-de-este-.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-crea-un-juego-de-preguntas-y-respuestas-sencillo-con-py.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-impresion-3d-como-crear-un-calamar-articulado-con-flexi.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci.md</loc><lastmod>2026-04-30</lastmod><priority>0.8</priority></url>

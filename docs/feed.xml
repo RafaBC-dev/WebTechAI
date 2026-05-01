@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 30 Apr 2026 09:10:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 08:57:25 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Cyberdeck Typeframe PS-85: un proyecto de retroinformática con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-cyberdeck-typeframe-ps-85-un-proyecto-de-retroinformati.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-cyberdeck-typeframe-ps-85-un-proyecto-de-retroinformati.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de Raspberry Pi sigue creando proyectos innovadores, como el cyberdeck Typeframe PS-85, un dispositivo inspirado en la película Alien que combina una Raspberry Pi con una pantalla táctil y un teclado mecánico.</description>
+  </item>
+  <item>
+    <title>Organizador de herramientas para escritorios 3D impreso</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-organizador-de-herramientas-para-escritorios-3d-impreso.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-organizador-de-herramientas-para-escritorios-3d-impreso.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta un nuevo proyecto de impresión 3D que permite organizar herramientas y accesorios en un escritorio de manera eficiente y estética. Este organizer es ideal para espacios de trabajo, talleres y espacios de creación.</description>
+  </item>
+  <item>
+    <title>Pimoroni lanza una nueva gama de dispositivos de wearable para Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-pimoroni-lanza-una-nueva-gama-de-dispositivos-de-wearab.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-pimoroni-lanza-una-nueva-gama-de-dispositivos-de-wearab.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Pimoroni, un fabricante conocido por sus dispositivos para Raspberry Pi, ha lanzado una nueva gama de dispositivos de wearable que ofrecen una experiencia de usuario más avanzada y funcionalidades adicionales. Estos dispositivos están…</description>
+  </item>
+  <item>
+    <title>CircuitPython 10.3.0-alpha.1: Nueva versión con mejoras y correcciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-circuitpython-1030-alpha1-nueva-version-con-mejoras-y-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-circuitpython-1030-alpha1-nueva-version-con-mejoras-y-c.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de CircuitPython ha lanzado una nueva versión alpha de su firmware, con mejoras en la presentación de tarjetas SD en macOS y correcciones de errores en diferentes portátiles.</description>
+  </item>
+  <item>
+    <title>Robótica vs. atletas: robots que juegan ping-pong y corren maratones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-robotica-vs-atletas-robots-que-juegan-ping-pong-y-corre.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-robotica-vs-atletas-robots-que-juegan-ping-pong-y-corre.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En el mundo de la robótica, se están desarrollando sistemas cada vez más avanzados que pueden competir con los humanos en tareas físicas complejas. Recientemente, se han presentado varios proyectos que demuestran la capacidad de los robots…</description>
+  </item>
+  <item>
+    <title>ROS 2 Lyrical Luth: Nueva Ilustración y Venta de Merchandising</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-ros-2-lyrical-luth-nueva-ilustracion-y-venta-de-merchan.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-ros-2-lyrical-luth-nueva-ilustracion-y-venta-de-merchan.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS 2 ha lanzado una nueva ilustración para la versión Lyrical Luth, junto con una venta de merchandising para apoyar a la Open Source Robotics Foundation.</description>
+  </item>
+  <item>
+    <title>Un maestro de robótica construye una réplica a tamaño real de ENIAC</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-un-maestro-de-robotica-construye-una-replica-a-tamano-r.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-un-maestro-de-robotica-construye-una-replica-a-tamano-r.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Tom Burick, un instructor de tecnología en una escuela para estudiantes con necesidades especiales, ha llevado a cabo un proyecto ambicioso con sus estudiantes: construir una réplica a tamaño real de ENIAC, uno de los primeros ordenadores…</description>
+  </item>
+  <item>
+    <title>Unitree lanza robots humanoides con manos dexterizadas y bases fijas o rodadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-unitree-lanza-robots-humanoides-con-manos-dexterizadas-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-01-unitree-lanza-robots-humanoides-con-manos-dexterizadas-.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Unitree, un fabricante chino de robots, ha lanzado cuatro nuevos modelos de robots humanoides con manos dexterizadas y bases fijas o rodadas. Estos robots pueden ser utilizados en aplicaciones industriales y de servicio.</description>
+  </item>
+  <item>
+    <title>ChatGPT Images 2.0: un éxito en India, pero no tan grande en otros lugares</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-chatgpt-images-20-un-exito-en-india-pero-no-tan-grande-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-chatgpt-images-20-un-exito-en-india-pero-no-tan-grande-.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La última versión de ChatGPT Images, desarrollada por OpenAI, ha tenido un impacto significativo en la India, pero su respuesta global ha sido más moderada. Los usuarios en la India están utilizando esta herramienta para crear imágenes…</description>
+  </item>
+  <item>
+    <title>DeepInfra se une a Hugging Face como proveedor de inferencia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-deepinfra-se-une-a-hugging-face-como-proveedor-de-infer.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-deepinfra-se-une-a-hugging-face-como-proveedor-de-infer.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>DeepInfra, una plataforma de inferencia de inteligencia artificial serverless, se ha unido a Hugging Face como proveedor de inferencia. Esto permite a los desarrolladores integrar una variedad de modelos de IA en sus aplicaciones con…</description>
+  </item>
+  <item>
+    <title>DAIMON Robotics lanza el dataset Daimon-Infinity para robotas con sentido del tacto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-daimon-robotics-lanza-el-dataset-daimon-infinity-para-r.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-01-daimon-robotics-lanza-el-dataset-daimon-infinity-para-r.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa DAIMON Robotics ha lanzado Daimon-Infinity, el dataset de robótica más grande del mundo, que permite a las robotas sentir el tacto y manipular objetos de manera más precisa. Este proyecto está apoyado por Google DeepMind, la…</description>
+  </item>
+  <item>
+    <title>Linux Mint publica ISOs con kernel más reciente para mejor hardware</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-linux-mint-publica-isos-con-kernel-mas-reciente-para-me.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-linux-mint-publica-isos-con-kernel-mas-reciente-para-me.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Linux Mint, una de las distribuciones de Linux más populares, ha anunciado que comenzará a publicar ISOs con kernel más reciente para mejorar la compatibilidad con hardware más nuevo. Esto se debe a que la distribución ha adoptado un ciclo…</description>
+  </item>
+  <item>
+    <title>Linux 7.2: Nuevas mejoras en el scheduler y hardware AMDXDNA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-linux-72-nuevas-mejoras-en-el-scheduler-y-hardware-amdx.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-linux-72-nuevas-mejoras-en-el-scheduler-y-hardware-amdx.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.2 del kernel de Linux está en camino y trae consigo varias mejoras importantes. Una de ellas es el cambio en la política de scheduler por defecto, que pasará de FIFO a 'fair'. Esto debería mejorar la experiencia de usuario,…</description>
+  </item>
+  <item>
+    <title>ROS Lyrical Luth Beta: Prueba la última versión de este framework de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-ros-lyrical-luth-beta-prueba-la-ultima-version-de-este-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-ros-lyrical-luth-beta-prueba-la-ultima-version-de-este-.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS 2 está emocionada con la llegada de la versión beta de Lyrical Luth, un framework de robótica que promete mejorar la eficiencia y la escalabilidad de los sistemas de robótica. Esta versión beta es el resultado de un…</description>
+  </item>
+  <item>
+    <title>Crea un juego de preguntas y respuestas sencillo con Python</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-crea-un-juego-de-preguntas-y-respuestas-sencillo-con-py.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-01-crea-un-juego-de-preguntas-y-respuestas-sencillo-con-py.md</guid>
+    <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Python es el lenguaje de programación más popular del mundo, según el Índice TIOBE. Es fácil de aprender y utilizar, lo que lo hace ideal para principiantes. En este artículo, aprenderás a crear un juego de preguntas y respuestas sencillo…</description>
+  </item>
   <item>
     <title>Convierte tu Google Home Mini en un asistente de voz local con esta PCB</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Esta semana se han anunciado varios proyectos y actualizaciones en el mundo de la robótica y el software. Entre ellos, se destacan la actualización de GnuPG, la liberación de Ubuntu 26.04 y la implementación de la concurrencia en Zig.</description>
-  </item>
-  <item>
-    <title>Kit de desarrollo ESP32-C5-WIFI6-KIT para IoT con WiFi 6 y 32MB de flash</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-kit-de-desarrollo-esp32-c5-wifi6-kit-para-iot-con-wifi-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-kit-de-desarrollo-esp32-c5-wifi6-kit-para-iot-con-wifi-.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Waveshare ha lanzado un kit de desarrollo para IoT que se basa en el procesador ESP32-C5 y ofrece una amplia gama de opciones, incluyendo diferentes capacidades de PSRAM y flash, y la opción de elegir entre una antena integrada…</description>
-  </item>
-  <item>
-    <title>Wipeout Clone en ESP32-S3: un juego clásico en un microcontrolador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-wipeout-clone-en-esp32-s3-un-juego-clasico-en-un-microc.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-wipeout-clone-en-esp32-s3-un-juego-clasico-en-un-microc.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Michael Biggins, un desarrollador experimentado, ha logrado crear un clone de Wipeout, un juego clásico de 1995, en un ESP32-S3. Este proyecto demuestra la capacidad del microcontrolador para ejecutar juegos 3D complejos.</description>
-  </item>
-  <item>
-    <title>Pico de Raspberry con salida VGA: un proyecto para conectar a pantallas grandes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-pico-de-raspberry-con-salida-vga-un-proyecto-para-conec.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-pico-de-raspberry-con-salida-vga-un-proyecto-para-conec.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha creado un módulo de salida VGA para el microcontrolador Raspberry Pi Pico, permitiendo conectarlo a pantallas grandes de manera sencilla.</description>
-  </item>
-  <item>
-    <title>Monitoreo de calidad del aire en interiores con ESP32-S3 y SEN66</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-monitoreo-de-calidad-del-aire-en-interiores-con-esp32-s.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-29-monitoreo-de-calidad-del-aire-en-interiores-con-esp32-s.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa MoreSense ha lanzado el MS-07, un monitoreo de calidad del aire para interiores que utiliza un microcontrolador ESP32-S3 y un sensor SEN66 multisensor. Este dispositivo permite la visualización en tiempo real de la calidad del…</description>
-  </item>
-  <item>
-    <title>Un maestro de robótica crea una réplica a tamaño real del ordenador ENIAC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-un-maestro-de-robotica-crea-una-replica-a-tamano-real-4.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-un-maestro-de-robotica-crea-una-replica-a-tamano-real-4.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Tom Burick, un profesor de robótica, ha liderado un proyecto con sus estudiantes para construir una réplica a tamaño real del ordenador ENIAC, un pionero en la era de los ordenadores electrónicos.</description>
-  </item>
-  <item>
-    <title>Robótica: avances en competencia con humanos y nuevas tecnologías</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-robotica-avances-en-competencia-con-humanos-y-nuevas-te.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-robotica-avances-en-competencia-con-humanos-y-nuevas-te.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica sigue avanzando a pasos agigantados, con robots que pueden competir con humanos en deportes como el ping-pong y la carrera a pie. Pero ¿qué tecnologías están detrás de estos avances?</description>
-  </item>
-  <item>
-    <title>China: el gobierno estadounidense propone una prohibición de robots chinos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-china-el-gobierno-estadounidense-propone-una-prohibic-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-29-china-el-gobierno-estadounidense-propone-una-prohibic-2.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El gobierno estadounidense ha presentado una propuesta para limitar el uso de robots chinos en la administración pública. Esta medida forma parte de una estrategia más amplia para reducir la dependencia de tecnología china.</description>
-  </item>
-  <item>
-    <title>Elon Musk revela motivos detrás de la fundación de OpenAI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-elon-musk-revela-motivos-detras-de-la-fundacion-de-open.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-elon-musk-revela-motivos-detras-de-la-fundacion-de-open.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Elon Musk testificó en su juicio contra OpenAI y reveló detalles sobre su motivación para crear la empresa. Según Musk, su amistad con Larry Page se rompió debido a diferencias sobre la seguridad de la inteligencia artificial.</description>
-  </item>
-  <item>
-    <title>Amazon ofrece productos de OpenAI en AWS: una colaboración profunda</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-amazon-ofrece-productos-de-openai-en-aws-una-colaboraci.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-amazon-ofrece-productos-de-openai-en-aws-una-colaboraci.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Amazon ha comenzado a ofrecer productos de OpenAI en su plataforma de nube, AWS, después de que OpenAI anunciara que ya no tenía un acuerdo exclusivo con Microsoft. Esto abre la puerta a nuevas colaboraciones y aplicaciones en el campo de…</description>
-  </item>
-  <item>
-    <title>Dataset de paneles solares en Estados Unidos actualizado</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-dataset-de-paneles-solares-en-estados-unidos-actualizad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-29-dataset-de-paneles-solares-en-estados-unidos-actualizad.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El dataset de paneles solares en Estados Unidos ha sido actualizado con más de 3,4 millones de paneles, incluyendo un nuevo conjunto de datos para arrays de techo.</description>
-  </item>
-  <item>
-    <title>AMD presenta nuevo driver Linux para su Halo Box con iluminación RGB</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-amd-presenta-nuevo-driver-linux-para-su-halo-box-con-il.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-amd-presenta-nuevo-driver-linux-para-su-halo-box-con-il.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>AMD ha presentado un nuevo driver Linux para su Halo Box, un sistema de desarrollo de inteligencia artificial que compite con productos de NVIDIA. Este driver permite controlar la iluminación RGB del sistema.</description>
-  </item>
-  <item>
-    <title>Fedora Linux 44: Nueva versión con mejoras en GNOME y KDE</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-fedora-linux-44-nueva-version-con-mejoras-en-gnome-y-kd.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-fedora-linux-44-nueva-version-con-mejoras-en-gnome-y-kd.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La Fedora Project ha anunciado la salida de Fedora Linux 44, una versión con mejoras significativas en GNOME y KDE. Esta nueva versión ofrece una experiencia de usuario más refinada y una mayor estabilidad.</description>
-  </item>
-  <item>
-    <title>IBM agrega soporte para virtualización ARM64 a servidores IBM Z</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-ibm-agrega-soporte-para-virtualizacion-arm64-a-servidor.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-ibm-agrega-soporte-para-virtualizacion-arm64-a-servidor.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>IBM ha anunciado la actualización de parches Linux para permitir la virtualización de ARM64 en servidores IBM Z. Esta colaboración con Arm busca mejorar la eficiencia y la escalabilidad de los servidores.</description>
-  </item>
-  <item>
-    <title>Crea un juego de preguntas y respuestas con Python</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-crea-un-juego-de-preguntas-y-respuestas-con-python.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-crea-un-juego-de-preguntas-y-respuestas-con-python.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El lenguaje de programación Python es el más popular del mundo, según el índice TIOBE. Si estás empezando a aprender a programar, Python es una excelente opción debido a su simplicidad y facilidad de lectura. En este artículo, te…</description>
-  </item>
-  <item>
-    <title>Investigan herramientas y AI en la comunidad de ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-investigan-herramientas-y-ai-en-la-comunidad-de-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-29-investigan-herramientas-y-ai-en-la-comunidad-de-ros.md</guid>
-    <pubDate>Wed, 29 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un grupo de investigadores de la Universidad de Carnegie Mellon y la Universidad de Lisboa están llevando a cabo una encuesta para entender cómo desarrolladores de ROS encuentran y utilizan información, qué herramientas prefieren y cómo se…</description>
   </item>
 </channel>
 </rss>
