@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 01 May 2026 08:57:25 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 02 May 2026 08:19:48 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Kit de DIY para un dron miniatura basado en ESP32-S3</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-kit-de-diy-para-un-dron-miniatura-basado-en-esp32-s3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-kit-de-diy-para-un-dron-miniatura-basado-en-esp32-s3.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La Seeed Studio ha lanzado el ESP-FLY DIY Kit, un kit de DIY para un dron miniatura basado en el ESP32-S3. Este dron es ideal para la educación STEM, proyectos DIY y prácticas de vuelo indoor.</description>
+  </item>
+  <item>
+    <title>Prunt Board 3: Controlador de impresión 3D para una operación más suave y silenciosa</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-prunt-board-3-controlador-de-impresion-3d-para-una-oper.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-prunt-board-3-controlador-de-impresion-3d-para-una-oper.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La impresión 3D ha avanzado mucho en los últimos años, pero sigue habiendo un gran desafío: obtener impresiones de alta calidad sin ruido ni vibraciones. El Prunt Board 3 es un controlador de impresión 3D diseñado para superar este…</description>
+  </item>
+  <item>
+    <title>Figure lanza la producción en masa de robots humanoides en Estados Unidos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-figure-lanza-la-produccion-en-masa-de-robots-humanoides.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-figure-lanza-la-produccion-en-masa-de-robots-humanoides.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Figure, una empresa de robótica, ha alcanzado un hito importante con la apertura de su fábrica NEO en Hayward, California. Esta fábrica es capaz de producir 55 robots humanoides a la semana, lo que permitirá la implementación de robots en…</description>
+  </item>
+  <item>
+    <title>ROS News: Nuevas Funcionalidades y Herramientas para Robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-ros-news-nuevas-funcionalidades-y-herramientas-para-rob.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-ros-news-nuevas-funcionalidades-y-herramientas-para-rob.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS (Robot Operating System) ha lanzado nuevas funcionalidades y herramientas para mejorar la experiencia de desarrollo de robótica. Entre ellas, se destacan la capacidad de visualizar datos en 3D con RVizSplat y la…</description>
+  </item>
+  <item>
+    <title>Meta compra startup de robótica para impulsar sus ambiciones de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-meta-compra-startup-de-robotica-para-impulsar-sus-ambic.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-meta-compra-startup-de-robotica-para-impulsar-sus-ambic.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Meta ha adquirido la startup de robótica Assured Robot Intelligence (ARI) para fortalecer sus objetivos de IA humanoides. Esta adquisición permitirá a Meta desarrollar robots que puedan entender y adaptarse a las acciones humanas en…</description>
+  </item>
+  <item>
+    <title>Unitree lanza robots humanoides con manos y base móvil</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-unitree-lanza-robots-humanoides-con-manos-y-base-movil.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-unitree-lanza-robots-humanoides-con-manos-y-base-movil.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Unitree ha presentado cuatro nuevos modelos de robots humanoides con manos y base móvil, una actualización de su plataforma R1. Estos robots pueden realizar tareas útiles con binocular visión y manos dexterosas.</description>
+  </item>
+  <item>
+    <title>Comparativa de planificadores globales para navegación en robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-comparativa-de-planificadores-globales-para-navegacion-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-comparativa-de-planificadores-globales-para-navegacion-.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de investigación ha llevado a cabo una evaluación exhaustiva de planificadores globales para navegación en sistemas de robótica. Los resultados de esta comparativa pueden tener un impacto significativo en la creación de sistemas…</description>
+  </item>
+  <item>
+    <title>Ndimensions Labs busca a expertos en robótica y electrónica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-ndimensions-labs-busca-a-expertos-en-robotica-y-electro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-ndimensions-labs-busca-a-expertos-en-robotica-y-electro.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Ndimensions Labs, una empresa de robótica de vanguardia, busca a dos expertos para unirse a su equipo en Boston, MA. Los candidatos deben tener experiencia en robótica, electrónica y programación de inteligencia artificial.</description>
+  </item>
+  <item>
+    <title>Video Friday: Robots que juegan ping-pong y corren maratones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-video-friday-robots-que-juegan-ping-pong-y-corren-marat.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-video-friday-robots-que-juegan-ping-pong-y-corren-marat.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En el mundo de la robótica, los avances tecnológicos están permitiendo a los robots competir con humanos en diversas actividades. En este video friday, exploramos tres proyectos destacados que demuestran la capacidad de los robots para…</description>
+  </item>
+  <item>
+    <title>Robotas con sentido del tacto: DAIMON Robotics revoluciona la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-robotas-con-sentido-del-tacto-daimon-robotics-revolucio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-robotas-con-sentido-del-tacto-daimon-robotics-revolucio.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa DAIMON Robotics ha lanzado un conjunto de datos robóticos llamado Daimon-Infinity, que permite a las máquinas sentir el tacto y mejorar su capacidad para realizar tareas en entornos naturales.</description>
+  </item>
+  <item>
+    <title>El NHS británico cierra repositorios de código abierto ante la amenaza de LLM</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-el-nhs-britanico-cierra-repositorios-de-codigo-abierto-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-el-nhs-britanico-cierra-repositorios-de-codigo-abierto-.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El Servicio Nacional de Salud (NHS) del Reino Unido está a punto de cerrar la mayoría de sus repositorios de código abierto debido a la mejora de las herramientas de escaneo de seguridad. Esta decisión ha sido criticada por expertos en…</description>
+  </item>
+  <item>
+    <title>Elon Musk vs OpenAI: ¿puede un foro de beneficencia ser robado?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-elon-musk-vs-openai-puede-un-foro-de-beneficencia-ser-r.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-elon-musk-vs-openai-puede-un-foro-de-beneficencia-ser-r.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Elon Musk se ha presentado en un tribunal para demandar a OpenAI, una empresa que había cofundado, por cambiar su modelo de negocio a uno lucrativo. La cuestión es si esto va en contra de la misión original de la empresa.</description>
+  </item>
+  <item>
+    <title>Steam en Linux retrocede en abril después de récord de mercado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-steam-en-linux-retrocede-en-abril-despues-de-record-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-steam-en-linux-retrocede-en-abril-despues-de-record-de-.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La plataforma de juegos Steam ha alcanzado récords de uso en Linux, pero en abril ha retrocedido un poco. ¿Qué ha pasado y por qué es importante?</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-actualizaciones-de-seguridad-para-sistemas-operativo-14.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-actualizaciones-de-seguridad-para-sistemas-operativo-14.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora y Oracle. Estas actualizaciones corregen vulnerabilidades críticas en paquetes como Chromium, Kernel y…</description>
+  </item>
+  <item>
+    <title>EndeavourOS lanza actualizaciones significativas en su versión Titan Neo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-endeavouros-lanza-actualizaciones-significativas-en-su-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-endeavouros-lanza-actualizaciones-significativas-en-su-.md</guid>
+    <pubDate>Sat, 02 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La distribución de Linux EndeavourOS ha lanzado una nueva versión de su ISO, llamada Titan Neo, que incluye actualizaciones importantes en el instalador Calamares y en los drivers gráficos. Además, se han solucionado varios problemas…</description>
+  </item>
   <item>
     <title>Cyberdeck Typeframe PS-85: un proyecto de retroinformática con Raspberry Pi</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-cyberdeck-typeframe-ps-85-un-proyecto-de-retroinformati.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 01 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Python es el lenguaje de programación más popular del mundo, según el Índice TIOBE. Es fácil de aprender y utilizar, lo que lo hace ideal para principiantes. En este artículo, aprenderás a crear un juego de preguntas y respuestas sencillo…</description>
-  </item>
-  <item>
-    <title>Convierte tu Google Home Mini en un asistente de voz local con esta PCB</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-convierte-tu-google-home-mini-en-un-asistente-de-voz-lo.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa MiciMike ha lanzado una PCB de reemplazo para la Google Home Mini que convierte a esta voz asistente en una versión local y privada, sin necesidad de modificar el caso o soldar nada.</description>
-  </item>
-  <item>
-    <title>Impresión 3D: Cómo crear un calamar articulado con flexibilidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-impresion-3d-como-crear-un-calamar-articulado-con-flexi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-impresion-3d-como-crear-un-calamar-articulado-con-flexi.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado un proyecto impresionante: un calamar articulado que puede ser impreso en un solo trozo y que cuenta con flexibilidad. Este proyecto es relevante ahora mismo porque muestra la capacidad de la…</description>
-  </item>
-  <item>
-    <title>Sensores de visión ultra-bajos en consumo para aplicaciones de IA y visión siempre encendidas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-sensores-de-vision-ultra-bajos-en-consumo-para-aplicaci.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>STMicroelectronics ha presentado dos sensores de visión ultra-bajos en consumo, el VD65G4 y el VD55G4, diseñados para aplicaciones de IA y visión siempre encendidas. Estos sensores son ideales para wearables, AR/VR y dispositivos de hogar…</description>
-  </item>
-  <item>
-    <title>Escaneador de redes para detectar Raspberry Pi en la red</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-escaneador-de-redes-para-detectar-raspberry-pi-en-la-re.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-04-30-escaneador-de-redes-para-detectar-raspberry-pi-en-la-re.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un desarrollador ha creado un escaneador de redes para encontrar y administrar dispositivos Raspberry Pi en la red. Este problema es común en la comunidad de hackers y programadores que utilizan Raspberry Pi para proyectos y experimentos.</description>
-  </item>
-  <item>
-    <title>Mejoras en la simulación de flotabilidad y dinámica de fluidos en Gazebo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-mejoras-en-la-simulacion-de-flotabilidad-y-dinamica-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-mejoras-en-la-simulacion-de-flotabilidad-y-dinamica-de-.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Gazebo, una plataforma de simulación de física en tiempo real, acaba de recibir una serie de mejoras significativas en su soporte para la simulación de flotabilidad y dinámica de fluidos. Estas mejoras deberían ser especialmente relevantes…</description>
-  </item>
-  <item>
-    <title>Propuesta de prohibición de robots chinos: un paso más en la soberanía tecnológica estadounidense</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-propuesta-de-prohibicion-de-robots-chinos-un-paso-mas-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-propuesta-de-prohibicion-de-robots-chinos-un-paso-mas-e.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La propuesta de prohibición de robots chinos por parte del gobierno estadounidense es el último paso en un proceso de decoupling de tecnología sensible de China. Esto incluye semiconductores, rutas de navegación, seguridad y más. El…</description>
-  </item>
-  <item>
-    <title>Robótica avanzada: competencia con humanos en deportes y logística</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-robotica-avanzada-competencia-con-humanos-en-deportes-y.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-robotica-avanzada-competencia-con-humanos-en-deportes-y.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica ha alcanzado un nuevo nivel de complejidad con la creación de sistemas autónomos que pueden competir con humanos en deportes y logística. Estos sistemas utilizan tecnologías de IA y control dinámico para realizar tareas…</description>
-  </item>
-  <item>
-    <title>Un maestro de robótica crea una réplica a tamaño real de ENIAC</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-un-maestro-de-robotica-crea-una-replica-a-tamano-real-5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-04-30-un-maestro-de-robotica-crea-una-replica-a-tamano-real-5.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Tom Burick, un maestro de robótica y tecnología, ha liderado un proyecto con sus estudiantes para construir una réplica a tamaño real de ENIAC, uno de los primeros ordenadores electrónicos programables. Esta hazaña es un tributo a la…</description>
-  </item>
-  <item>
-    <title>Mejoras en el rendimiento de Lunar Lake en Linux durante el último año</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-mejoras-en-el-rendimiento-de-lunar-lake-en-linux-durant.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-mejoras-en-el-rendimiento-de-lunar-lake-en-linux-durant.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La Intel ha lanzado recientemente la CPU Lunar Lake, que ha experimentado mejoras significativas en rendimiento en Linux durante el último año. En este artículo, se analiza cómo ha evolucionado el rendimiento de la CPU Lunar Lake en Linux…</description>
-  </item>
-  <item>
-    <title>OpenCL Introduce Extensión de Matrices Cooperativas para Aprendizaje Automático</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-opencl-introduce-extension-de-matrices-cooperativas-par.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-opencl-introduce-extension-de-matrices-cooperativas-par.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de OpenCL ha estado trabajando en la creación de extensiones para mejorar el rendimiento en aplicaciones de aprendizaje automático y procesamiento de imágenes. Ahora, han anunciado la introducción de una nueva extensión de…</description>
-  </item>
-  <item>
-    <title>Por qué el autoaprendizaje en LLMs conduce inevitablemente al colapso</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-por-que-el-autoaprendizaje-en-llms-conduce-inevitableme.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-por-que-el-autoaprendizaje-en-llms-conduce-inevitableme.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de inteligencia artificial ha creído durante mucho tiempo que los modelos de lenguaje grandes (LLMs) pueden aprender y mejorar por sí mismos ajustando sus pesos en el espacio vectorial. Sin embargo, esto es más una ilusión que…</description>
-  </item>
-  <item>
-    <title>Anthropic puede recaudar $50.000 millones en una ronda de financiación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-anthropic-puede-recaudar-50000-millones-en-una-ronda-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-04-30-anthropic-puede-recaudar-50000-millones-en-una-ronda-de.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa de inteligencia artificial Anthropic ha recibido múltiples ofertas de inversión para recaudar $50.000 millones en una ronda de financiación, lo que podría hacer que su valoración alcance los $900.000 millones. Esta noticia…</description>
-  </item>
-  <item>
-    <title>Zenoh 1.8.0: Nuevas paquetes para transporte de datos en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-zenoh-180-nuevas-paquetes-para-transporte-de-datos-en-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-zenoh-180-nuevas-paquetes-para-transporte-de-datos-en-l.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La Fundación OSR ha lanzado paquetes preestablecidos de Zenoh 1.8.0, una herramienta para transporte de datos en tiempo real. Estos paquetes están disponibles en el repositorio de prerelease de packages.osrfoundation.org y serán promovidos…</description>
-  </item>
-  <item>
-    <title>Linux corrige errores en su extensible scheduler con la ayuda de la IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-linux-corrige-errores-en-su-extensible-scheduler-con-la.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-linux-corrige-errores-en-su-extensible-scheduler-con-la.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha visto un aumento significativo en la corrección de errores en su extensible scheduler, gracias a la revisión asistida por inteligencia artificial. Esto ha permitido identificar y corregir problemas que habían…</description>
-  </item>
-  <item>
-    <title>Noticias de la semana en el mundo de la robótica y el software</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-noticias-de-la-semana-en-el-mundo-de-la-robotica-y-el-s.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-04-30-noticias-de-la-semana-en-el-mundo-de-la-robotica-y-el-s.md</guid>
-    <pubDate>Thu, 30 Apr 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Esta semana se han anunciado varios proyectos y actualizaciones en el mundo de la robótica y el software. Entre ellos, se destacan la actualización de GnuPG, la liberación de Ubuntu 26.04 y la implementación de la concurrencia en Zig.</description>
   </item>
 </channel>
 </rss>

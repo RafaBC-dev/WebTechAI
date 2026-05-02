@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-01</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-02</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-kit-de-diy-para-un-dron-miniatura-basado-en-esp32-s3.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-prunt-board-3-controlador-de-impresion-3d-para-una-oper.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-figure-lanza-la-produccion-en-masa-de-robots-humanoides.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-ros-news-nuevas-funcionalidades-y-herramientas-para-rob.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-meta-compra-startup-de-robotica-para-impulsar-sus-ambic.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-unitree-lanza-robots-humanoides-con-manos-y-base-movil.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-comparativa-de-planificadores-globales-para-navegacion-.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-ndimensions-labs-busca-a-expertos-en-robotica-y-electro.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-video-friday-robots-que-juegan-ping-pong-y-corren-marat.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-robotas-con-sentido-del-tacto-daimon-robotics-revolucio.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-el-nhs-britanico-cierra-repositorios-de-codigo-abierto-.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-02-elon-musk-vs-openai-puede-un-foro-de-beneficencia-ser-r.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-steam-en-linux-retrocede-en-abril-despues-de-record-de-.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-actualizaciones-de-seguridad-para-sistemas-operativo-14.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-02-endeavouros-lanza-actualizaciones-significativas-en-su-.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-cyberdeck-typeframe-ps-85-un-proyecto-de-retroinformati.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-organizador-de-herramientas-para-escritorios-3d-impreso.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-01-pimoroni-lanza-una-nueva-gama-de-dispositivos-de-wearab.md</loc><lastmod>2026-05-01</lastmod><priority>0.8</priority></url>
