@@ -1,6 +1,214 @@
 {
   "news": [
     {
+      "title": "Kit DIY de dron ESP-FLY: un dron miniatura con ESP32-S3",
+      "category": "embebidos",
+      "date": "2026-05-03",
+      "slug": "kit-diy-de-dron-esp-fly-un-dron-miniatura-con-esp32-s3",
+      "tags": [
+        "robotica",
+        "drones",
+        "microcontroladores"
+      ],
+      "preview": "Seeed Studio ha lanzado el kit DIY ESP-FLY, un dron miniatura basado en la placa ESP32-S3-XIAO. Este kit permite a los usuarios construir y programar su propio dron para fines de educación STEM, proyectos DIY y práctica de vuelo indoor.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-03-kit-diy-de-dron-esp-fly-un-dron-miniatura-con-esp32-s3.md"
+    },
+    {
+      "title": "Controlador de impresión 3D Prunt Board 3: más suave y silencioso",
+      "category": "embebidos",
+      "date": "2026-05-03",
+      "slug": "controlador-de-impresion-3d-prunt-board-3-mas-suave-y-s",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "linux"
+      ],
+      "preview": "El Prunt Board 3 es un controlador de impresión 3D diseñado para ofrecer una operación más suave y silenciosa, gracias a su tecnología avanzada y firmware personalizado.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-03-controlador-de-impresion-3d-prunt-board-3-mas-suave-y-s.md"
+    },
+    {
+      "title": "Sensor de luz MAX44009: medir la luz con precisión y facilidad",
+      "category": "embebidos",
+      "date": "2026-05-03",
+      "slug": "sensor-de-luz-max44009-medir-la-luz-con-precision-y-fac",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Adafruit ha actualizado su guía para el sensor de luz MAX44009, una herramienta fácil de usar que puede medir la luz en una amplia gama de niveles, desde la oscuridad hasta la luz solar intensa.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-03-sensor-de-luz-max44009-medir-la-luz-con-precision-y-fac.md"
+    },
+    {
+      "title": "Ndimensions Labs busca talento para innovar en robótica con IA",
+      "category": "robotica",
+      "date": "2026-05-03",
+      "slug": "ndimensions-labs-busca-talento-para-innovar-en-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Ndimensions Labs, una empresa de robótica de vanguardia, busca a dos expertos en robótica para unirse a su equipo en Boston. Estos profesionales trabajarán en la creación de robots capaces de navegar y entender el mundo de manera precisa y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-03-ndimensions-labs-busca-talento-para-innovar-en-robotica.md"
+    },
+    {
+      "title": "Figure aumenta producción de robots humanoides a 55 unidades a la semana",
+      "category": "robotica",
+      "date": "2026-05-03",
+      "slug": "figure-aumenta-produccion-de-robots-humanoides-a-55-uni",
+      "tags": [
+        "robotica"
+      ],
+      "preview": "Figure, una empresa de robótica, ha alcanzado un hito importante en la producción de robots humanoides. La empresa ha aumentado su capacidad de producción a 55 robots a la semana, lo que permitirá a los investigadores y desarrolladores…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-03-figure-aumenta-produccion-de-robots-humanoides-a-55-uni.md"
+    },
+    {
+      "title": "Comparación de planificadores globales para navegación en robótica",
+      "category": "robotica",
+      "date": "2026-05-03",
+      "slug": "comparacion-de-planificadores-globales-para-navegacion-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Un equipo de investigación ha comparado cuatro planificadores globales para navegación en robótica, evaluando su eficiencia y rendimiento en diferentes escenarios. Los resultados muestran una clara relación entre la robustez y la optimidad…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-03-comparacion-de-planificadores-globales-para-navegacion-.md"
+    },
+    {
+      "title": "ROS 2 Lyrical Luth Release: Nuevas Herramientas y Funcionalidades",
+      "category": "robotica",
+      "date": "2026-05-03",
+      "slug": "ros-2-lyrical-luth-release-nuevas-herramientas-y-funcio",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS (Robot Operating System) ha lanzado una nueva versión de ROS 2, llamada Lyrical Luth, que incluye una serie de herramientas y funcionalidades innovadoras para mejorar la experiencia de desarrollo de robótica. Esta…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-03-ros-2-lyrical-luth-release-nuevas-herramientas-y-funcio.md"
+    },
+    {
+      "title": "Robotica avanzada: competencia con atletas humanos y tecnología punta",
+      "category": "robotica",
+      "date": "2026-05-03",
+      "slug": "robotica-avanzada-competencia-con-atletas-humanos-y-tec",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica ha alcanzado un nuevo nivel de complejidad con la creación de robots que pueden competir con atletas humanos en deportes como el ping-pong y la carrera. Estos robots utilizan tecnologías de inteligencia artificial y aprendizaje…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-03-robotica-avanzada-competencia-con-atletas-humanos-y-tec.md"
+    },
+    {
+      "title": "Banana Pi BPI-OM7: una cámara 3D AI para aplicaciones de visión y robótica",
+      "category": "ia",
+      "date": "2026-05-03",
+      "slug": "banana-pi-bpi-om7-una-camara-3d-ai-para-aplicaciones-de",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Banana Pi ha lanzado una cámara 3D AI que combina la tecnología de visión y robótica para aplicaciones en 3D, visión artificial y percepción espacial. Esta cámara es ideal para proyectos de robótica, visión artificial y análisis…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-03-banana-pi-bpi-om7-una-camara-3d-ai-para-aplicaciones-de.md"
+    },
+    {
+      "title": "Robotas con sensibilidad: Daimon Robotics revoluciona la manipulación",
+      "category": "ia",
+      "date": "2026-05-03",
+      "slug": "robotas-con-sensibilidad-daimon-robotics-revoluciona-la",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Daimon Robotics ha lanzado Daimon-Infinity, el conjunto de datos más grande para la inteligencia artificial física, que permite a los robots sentir el tacto. Esto puede cambiar la forma en que los robots se relacionan con el…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-03-robotas-con-sensibilidad-daimon-robotics-revoluciona-la.md"
+    },
+    {
+      "title": "El NHS británico cierra sus repositorios de código abierto ante la amenaza de LLM",
+      "category": "ia",
+      "date": "2026-05-03",
+      "slug": "el-nhs-britanico-cierra-sus-repositorios-de-codigo-abie",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La National Health Service (NHS) del Reino Unido ha decidido cerrar la mayoría de sus repositorios de código abierto debido a la mejora en la capacidad de los modelos de lenguaje de encontrar vulnerabilidades de seguridad. Este cambio es…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-03-el-nhs-britanico-cierra-sus-repositorios-de-codigo-abie.md"
+    },
+    {
+      "title": "AMD GAIA mejora su modelo predeterminado y agrega nuevas funcionalidades",
+      "category": "ia",
+      "date": "2026-05-03",
+      "slug": "amd-gaia-mejora-su-modelo-predeterminado-y-agrega-nueva",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "AMD ha lanzado una nueva versión de GAIA, su software de código abierto para Windows y Linux, que busca hacer que sea fácil crear agentes de IA local en tu ordenador con todos los procesos de IA realizados localmente en los procesadores,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-03-amd-gaia-mejora-su-modelo-predeterminado-y-agrega-nueva.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-05-03",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-15",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "La seguridad es un aspecto fundamental en la protección de los sistemas operativos. Las actualizaciones de seguridad son esenciales para prevenir vulnerabilidades y ataques cibernéticos. En este artículo, se presentan las actualizaciones…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-03-actualizaciones-de-seguridad-para-sistemas-operativo-15.md"
+    },
+    {
+      "title": "Linux 7.1 arregla audio para la consola Steam Deck OLED después de 2 años",
+      "category": "linux",
+      "date": "2026-05-03",
+      "slug": "linux-71-arregla-audio-para-la-consola-steam-deck-oled-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La consola de juegos Steam Deck OLED ha sufrido un problema con el soporte de audio desde una actualización en 2023. Aunque Valve había implementado una solución en su kernel personalizado, ahora se ha encontrado una solución en la versión…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-03-linux-71-arregla-audio-para-la-consola-steam-deck-oled-.md"
+    },
+    {
+      "title": "Herramienta para probar redes CANopen: un terminal para CAN buses",
+      "category": "linux",
+      "date": "2026-05-03",
+      "slug": "herramienta-para-probar-redes-canopen-un-terminal-para-",
+      "tags": [
+        "robotica",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Si trabajas con redes CANopen, es posible que necesites una herramienta para monitorizar lo que está sucediendo en la red. Michael Fitzmayer ha creado una herramienta llamada CANopenTerm que permite hacer justo eso.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-03-herramienta-para-probar-redes-canopen-un-terminal-para-.md"
+    },
+    {
       "title": "Kit de DIY para un dron miniatura basado en ESP32-S3",
       "category": "embebidos",
       "date": "2026-05-02",

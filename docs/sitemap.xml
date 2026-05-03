@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-02</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-03</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-kit-diy-de-dron-esp-fly-un-dron-miniatura-con-esp32-s3.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-controlador-de-impresion-3d-prunt-board-3-mas-suave-y-s.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-sensor-de-luz-max44009-medir-la-luz-con-precision-y-fac.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-ndimensions-labs-busca-talento-para-innovar-en-robotica.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-figure-aumenta-produccion-de-robots-humanoides-a-55-uni.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-comparacion-de-planificadores-globales-para-navegacion-.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-ros-2-lyrical-luth-release-nuevas-herramientas-y-funcio.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-robotica-avanzada-competencia-con-atletas-humanos-y-tec.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-banana-pi-bpi-om7-una-camara-3d-ai-para-aplicaciones-de.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-robotas-con-sensibilidad-daimon-robotics-revoluciona-la.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-el-nhs-britanico-cierra-sus-repositorios-de-codigo-abie.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-amd-gaia-mejora-su-modelo-predeterminado-y-agrega-nueva.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-actualizaciones-de-seguridad-para-sistemas-operativo-15.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-linux-71-arregla-audio-para-la-consola-steam-deck-oled-.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-herramienta-para-probar-redes-canopen-un-terminal-para-.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-kit-de-diy-para-un-dron-miniatura-basado-en-esp32-s3.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-02-prunt-board-3-controlador-de-impresion-3d-para-una-oper.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-02-figure-lanza-la-produccion-en-masa-de-robots-humanoides.md</loc><lastmod>2026-05-02</lastmod><priority>0.8</priority></url>
