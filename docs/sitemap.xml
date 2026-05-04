@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-03</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-04</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-boardcon-lanza-picot536-som-y-emt536-sbc-con-procesador.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-lampara-de-neopixel-inspirada-en-epcot-spaceship-earth.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-cyberdeck-typeframe-ps-85-un-proyecto-de-robotica-inspi.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-nuevos-dispositivos-de-identificacion-para-makers-y-des.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-04-figure-la-fabrica-de-robots-humanoides-mas-grande-de-ee.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-04-robotica-competencia-entre-robots-y-atletas-humanos-en-.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-la-nhs-britanica-cierra-repositorios-de-codigo-abierto-.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-daimon-infinity-el-dataset-robotico-mas-grande-para-la-.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-banana-pi-bpi-om7-una-camara-3d-ai-con-procesamiento-de.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-deepinfra-se-une-a-hugging-face-como-proveedor-de-inf-2.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-claude-el-modelo-de-ia-muestra-poco-sycophancy-en-conve.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-modelos-de-ia-superan-a-dos-medicos-humanos-en-diagnost.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-lanzamiento-de-brush-v04-un-shell-compatible-con-bash-y.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-crea-un-juego-de-preguntas-y-respuestas-sencillo-con--2.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-reactos-mejora-su-instalador-y-compatibilidad-con-hardw.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-kit-diy-de-dron-esp-fly-un-dron-miniatura-con-esp32-s3.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-controlador-de-impresion-3d-prunt-board-3-mas-suave-y-s.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-sensor-de-luz-max44009-medir-la-luz-con-precision-y-fac.md</loc><lastmod>2026-05-03</lastmod><priority>0.8</priority></url>

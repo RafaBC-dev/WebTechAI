@@ -1,6 +1,218 @@
 {
   "news": [
     {
+      "title": "Boardcon lanza PICOT536 SoM y EMT536 SBC con procesador Allwinner T536",
+      "category": "embebidos",
+      "date": "2026-05-04",
+      "slug": "boardcon-lanza-picot536-som-y-emt536-sbc-con-procesador",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Boardcon ha lanzado dos nuevos productos: el SoM (System-on-Module) PICOT536 y el SBC (Single-Board Computer) EMT536. Estos dispositivos están diseñados para aplicaciones industriales y de edge computing, y están basados en el…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-04-boardcon-lanza-picot536-som-y-emt536-sbc-con-procesador.md"
+    },
+    {
+      "title": "Lámpara de NeoPixel inspirada en EPCOT Spaceship Earth",
+      "category": "embebidos",
+      "date": "2026-05-04",
+      "slug": "lampara-de-neopixel-inspirada-en-epcot-spaceship-earth",
+      "tags": [
+        "esp32",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa Adafruit ha lanzado un proyecto de aprendizaje para crear una lámpara de NeoPixel inspirada en el icónico Spaceship Earth de EPCOT. Esta lámpara puede ser controlada por un microcontrolador ESP32 y mostrar efectos de iluminación…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-04-lampara-de-neopixel-inspirada-en-epcot-spaceship-earth.md"
+    },
+    {
+      "title": "Cyberdeck Typeframe PS-85: un proyecto de robótica inspirado en Alien",
+      "category": "embebidos",
+      "date": "2026-05-04",
+      "slug": "cyberdeck-typeframe-ps-85-un-proyecto-de-robotica-inspi",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "El proyecto Typeframe PS-85 es un cyberdeck creado por Jeff Merrick, un maker que se inspiró en la película Alien para diseñar un dispositivo portátil que combine una Raspberry Pi con un teclado mecánico y una pantalla táctil. Este…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-04-cyberdeck-typeframe-ps-85-un-proyecto-de-robotica-inspi.md"
+    },
+    {
+      "title": "Nuevos dispositivos de identificación para makers y desarrolladores",
+      "category": "embebidos",
+      "date": "2026-05-04",
+      "slug": "nuevos-dispositivos-de-identificacion-para-makers-y-des",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La comunidad de makers y desarrolladores nunca se queda con un simple etiquetado en una pluma y un sticker. Ahora, Pimoroni presenta una nueva gama de dispositivos de identificación llamados 'badgeware' que ofrecen características…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-04-nuevos-dispositivos-de-identificacion-para-makers-y-des.md"
+    },
+    {
+      "title": "Figure: la fábrica de robots humanoides más grande de EE. UU. comienza producción",
+      "category": "robotica",
+      "date": "2026-05-04",
+      "slug": "figure-la-fabrica-de-robots-humanoides-mas-grande-de-ee",
+      "tags": [
+        "robotica",
+        "automatizacion",
+        "linux"
+      ],
+      "preview": "Figure, una empresa de robótica, ha alcanzado un hito importante con la inauguración de su fábrica de robots humanoides más grande de EE. UU. La fábrica, llamada NEO Factory, está diseñada para producir 55 robots humanoides a la semana,…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-04-figure-la-fabrica-de-robots-humanoides-mas-grande-de-ee.md"
+    },
+    {
+      "title": "Robotica: Competencia entre robots y atletas humanos en ping-pong y maratón",
+      "category": "robotica",
+      "date": "2026-05-04",
+      "slug": "robotica-competencia-entre-robots-y-atletas-humanos-en-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "En un futuro cercano, los robots podrían competir con los humanos en deportes como el ping-pong y la maratón. Recientemente, se ha presentado un robot llamado Ringbot Quad que puede moverse de manera versátil y eficiente en diferentes…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-04-robotica-competencia-entre-robots-y-atletas-humanos-en-.md"
+    },
+    {
+      "title": "La NHS británica cierra repositorios de código abierto debido a LLM",
+      "category": "ia",
+      "date": "2026-05-04",
+      "slug": "la-nhs-britanica-cierra-repositorios-de-codigo-abierto-",
+      "tags": [
+        "llms",
+        "codigo",
+        "linux"
+      ],
+      "preview": "La National Health Service (NHS) del Reino Unido está cerrando la mayoría de sus repositorios de código abierto debido a la mejora de las herramientas de LLM en la detección de vulnerabilidades. Este cambio contradice la política de código…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-04-la-nhs-britanica-cierra-repositorios-de-codigo-abierto-.md"
+    },
+    {
+      "title": "Daimon-Infinity: el dataset robótico más grande para la IA física",
+      "category": "ia",
+      "date": "2026-05-04",
+      "slug": "daimon-infinity-el-dataset-robotico-mas-grande-para-la-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa DAIMON Robotics ha lanzado Daimon-Infinity, el dataset robótico más grande para la IA física. Este proyecto busca mejorar la capacidad de los robots para interactuar con el entorno físico mediante la integración de sensores…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-04-daimon-infinity-el-dataset-robotico-mas-grande-para-la-.md"
+    },
+    {
+      "title": "Banana Pi BPI-OM7: una cámara 3D AI con procesamiento de imágenes en tiempo real",
+      "category": "ia",
+      "date": "2026-05-04",
+      "slug": "banana-pi-bpi-om7-una-camara-3d-ai-con-procesamiento-de",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Banana Pi ha lanzado una cámara 3D AI llamada BPI-OM7, que combina una placa de desarrollo SBC con una cámara de profundidad ORBBEC Gemini 2. Esta cámara es ideal para aplicaciones de visión 3D, robótica y percepción espacial.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-04-banana-pi-bpi-om7-una-camara-3d-ai-con-procesamiento-de.md"
+    },
+    {
+      "title": "DeepInfra se une a Hugging Face como proveedor de inferencia",
+      "category": "ia",
+      "date": "2026-05-04",
+      "slug": "deepinfra-se-une-a-hugging-face-como-proveedor-de-inf-2",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "python",
+        "librerias"
+      ],
+      "preview": "DeepInfra, una plataforma de inferencia de IA sin servidor, se ha unido a Hugging Face como proveedor de inferencia. Esto permite a los desarrolladores utilizar una amplia variedad de modelos de IA con facilidad en sus aplicaciones.",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-04-deepinfra-se-une-a-hugging-face-como-proveedor-de-inf-2.md"
+    },
+    {
+      "title": "Claude, el modelo de IA, muestra poco sycophancy en conversaciones",
+      "category": "ia",
+      "date": "2026-05-04",
+      "slug": "claude-el-modelo-de-ia-muestra-poco-sycophancy-en-conve",
+      "tags": [
+        "llms",
+        "ia",
+        "generative-ai"
+      ],
+      "preview": "El modelo de IA Claude, desarrollado por Anthropic, ha sido sometido a un análisis para evaluar su capacidad para mostrar sycophancy (adulación excesiva). Los resultados revelan que Claude muestra poco sycophancy en la mayoría de las…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-04-claude-el-modelo-de-ia-muestra-poco-sycophancy-en-conve.md"
+    },
+    {
+      "title": "Modelos de IA superan a dos médicos humanos en diagnósticos de emergencia",
+      "category": "ia",
+      "date": "2026-05-04",
+      "slug": "modelos-de-ia-superan-a-dos-medicos-humanos-en-diagnost",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Un estudio reciente de la Universidad de Harvard ha demostrado que modelos de lenguaje artificial pueden realizar diagnósticos más precisos que dos médicos humanos en situaciones de emergencia. Esto podría cambiar la forma en que se…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-04-modelos-de-ia-superan-a-dos-medicos-humanos-en-diagnost.md"
+    },
+    {
+      "title": "Lanzamiento de Brush v0.4: un shell compatible con Bash y escrito en Rust",
+      "category": "linux",
+      "date": "2026-05-04",
+      "slug": "lanzamiento-de-brush-v04-un-shell-compatible-con-bash-y",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de desarrolladores de Brush ha lanzado la versión v0.4 de su shell, una herramienta de línea de comandos compatible con Bash y escrita en el lenguaje Rust. Esta versión es el resultado de meses de trabajo y ofrece mejoras…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-04-lanzamiento-de-brush-v04-un-shell-compatible-con-bash-y.md"
+    },
+    {
+      "title": "Crea un juego de preguntas y respuestas sencillo con Python",
+      "category": "linux",
+      "date": "2026-05-04",
+      "slug": "crea-un-juego-de-preguntas-y-respuestas-sencillo-con--2",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas",
+        "codigo"
+      ],
+      "preview": "El lenguaje de programación Python sigue siendo el más popular del mundo, según el índice TIOBE. Una de las razones es que sus programas son fáciles de leer y entender, incluso para principiantes. En este artículo, aprenderás a crear un…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-04-crea-un-juego-de-preguntas-y-respuestas-sencillo-con--2.md"
+    },
+    {
+      "title": "ReactOS mejora su instalador y compatibilidad con hardware",
+      "category": "linux",
+      "date": "2026-05-04",
+      "slug": "reactos-mejora-su-instalador-y-compatibilidad-con-hardw",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de ReactOS ha logrado dos avances importantes en la estabilidad y compatibilidad de su sistema operativo. Ahora es posible instalar y probar ReactOS de manera más sencilla y con una mayor compatibilidad con hardware.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-04-reactos-mejora-su-instalador-y-compatibilidad-con-hardw.md"
+    },
+    {
       "title": "Kit DIY de dron ESP-FLY: un dron miniatura con ESP32-S3",
       "category": "embebidos",
       "date": "2026-05-03",
