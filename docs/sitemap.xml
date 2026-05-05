@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-04</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-05</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-nueva-placa-esp32-p4-esp32-c5-con-conectores-mipi-compa.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-cyberdeck-typeframe-ps-85-un-proyecto-de-retrocomputaci.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-prototipos-de-pcb-asequibles-aivon-ofrece-creditos-de-6.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-un-robot-familiar-que-te-conoce-y-te-ayuda-a-mantener-h.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-gazebo-avanza-en-robotica-con-nuevas-colaboraciones-y-m.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-figure-lanza-la-produccion-en-masa-de-robots-humanoid-2.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-cerebras-systems-lista-para-su-ipo-mas-grande-de-2026.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-daimon-robotics-lanza-dataset-de-tacto-para-mejorar-la-.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-descubre-como-funcionan-los-modelos-de-lenguaje-de-gran.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-modelos-de-ia-de-imagen-impulsan-el-crecimiento-de-apli.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-ros-2-en-resumen-una-encuesta-sobre-el-ecosistema-de-ro.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-recompilar-xash3d-en-raspberry-pi-guia-paso-a-paso-2026.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-fedora-gnome-revision-de-la-politica-de-seguimiento-de-.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-alpine-linux-se-queda-sin-servicio-debido-a-un-problema.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-almalinux-102-beta-soporte-para-software-32-bit-legacy.md</loc><lastmod>2026-05-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-boardcon-lanza-picot536-som-y-emt536-sbc-con-procesador.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-lampara-de-neopixel-inspirada-en-epcot-spaceship-earth.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-cyberdeck-typeframe-ps-85-un-proyecto-de-robotica-inspi.md</loc><lastmod>2026-05-04</lastmod><priority>0.8</priority></url>

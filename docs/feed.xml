@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 04 May 2026 09:14:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 05 May 2026 09:07:06 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nueva placa ESP32-P4 + ESP32-C5 con conectores MIPI compatibles con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-nueva-placa-esp32-p4-esp32-c5-con-conectores-mipi-compa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-nueva-placa-esp32-p4-esp32-c5-con-conectores-mipi-compa.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Maker Go ha lanzado una nueva placa de desarrollo llamada ESP32P4C5 Core Board, que se basa en el procesador ESP32-P4 y el SoC ESP32-C5. Esta placa es ideal para proyectos de IoT y robótica, ya que cuenta con conectores MIPI…</description>
+  </item>
+  <item>
+    <title>Cyberdeck Typeframe PS-85: un proyecto de retrocomputación con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-cyberdeck-typeframe-ps-85-un-proyecto-de-retrocomputaci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-cyberdeck-typeframe-ps-85-un-proyecto-de-retrocomputaci.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto Typeframe PS-85 es un ejemplo de cómo la tecnología de retrocomputación puede revivir viejas ideas y crear algo nuevo y emocionante. Inspirado en la película Alien, este cyberdeck utiliza un Raspberry Pi Zero 2 W y un teclado…</description>
+  </item>
+  <item>
+    <title>Prototipos de PCB asequibles: AIVON ofrece créditos de $60</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-prototipos-de-pcb-asequibles-aivon-ofrece-creditos-de-6.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-prototipos-de-pcb-asequibles-aivon-ofrece-creditos-de-6.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La creación de prototipos de PCB puede ser costosa y lenta, pero AIVON ha lanzado un programa de apoyo que reduce significativamente el umbral de costo para los nuevos clientes.</description>
+  </item>
+  <item>
+    <title>Un robot familiar que te conoce y te ayuda a mantener hábitos saludables</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-un-robot-familiar-que-te-conoce-y-te-ayuda-a-mantener-h.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-un-robot-familiar-que-te-conoce-y-te-ayuda-a-mantener-h.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Colin Angle, fundador de iRobot, ha lanzado una nueva empresa llamada Familiar Machines &amp; Magic, que presenta un robot que se conoce como un 'familiar' que vive con ti y te ayuda a mantener hábitos saludables. Este robot no es un juguete,…</description>
+  </item>
+  <item>
+    <title>Gazebo avanza en robótica con nuevas colaboraciones y mejoras</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-gazebo-avanza-en-robotica-con-nuevas-colaboraciones-y-m.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-gazebo-avanza-en-robotica-con-nuevas-colaboraciones-y-m.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de Gazebo ha celebrado su última reunión de PMC, donde se han presentado varias noticias interesantes sobre el futuro de este proyecto de robótica. Entre ellas, la incorporación de un nuevo colaborador en el contexto de Google…</description>
+  </item>
+  <item>
+    <title>Figure lanza la producción en masa de robots humanoides en Estados Unidos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-figure-lanza-la-produccion-en-masa-de-robots-humanoid-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-05-figure-lanza-la-produccion-en-masa-de-robots-humanoid-2.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La compañía Figure ha alcanzado un hito importante en la industria de la robótica al iniciar la producción en masa de robots humanoides en Estados Unidos. Esta noticia es relevante ya que marca un paso importante hacia la disponibilidad de…</description>
+  </item>
+  <item>
+    <title>Cerebras Systems lista para su IPO más grande de 2026</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-cerebras-systems-lista-para-su-ipo-mas-grande-de-2026.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-cerebras-systems-lista-para-su-ipo-mas-grande-de-2026.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Cerebras Systems, una empresa de chips de AI, está a punto de lanzar su IPO más grande de 2026, que podría valer hasta $26.6 mil millones. Esto sería un gran impulso para la empresa y sus inversores, incluyendo a OpenAI.</description>
+  </item>
+  <item>
+    <title>Daimon Robotics lanza dataset de tacto para mejorar la manipulación de robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-daimon-robotics-lanza-dataset-de-tacto-para-mejorar-la-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-daimon-robotics-lanza-dataset-de-tacto-para-mejorar-la-.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Daimon Robotics ha lanzado Daimon-Infinity, el dataset de tacto más grande del mundo, que incluye información de sensores táctiles de alta resolución y cubre una amplia gama de tareas, desde doblar ropa hasta la fabricación en…</description>
+  </item>
+  <item>
+    <title>Descubre cómo funcionan los modelos de lenguaje de gran escala</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-descubre-como-funcionan-los-modelos-de-lenguaje-de-gran.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-descubre-como-funcionan-los-modelos-de-lenguaje-de-gran.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los modelos de lenguaje de gran escala (LLMs) han revolucionado la forma en que interactuamos con la tecnología, pero ¿qué hay detrás de su magia? En este artículo, exploraremos cómo funcionan estos modelos y qué les da su poder.</description>
+  </item>
+  <item>
+    <title>Modelos de IA de imagen impulsan el crecimiento de aplicaciones móviles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-modelos-de-ia-de-imagen-impulsan-el-crecimiento-de-apli.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-05-modelos-de-ia-de-imagen-impulsan-el-crecimiento-de-apli.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Una nueva tendencia en el desarrollo de aplicaciones móviles muestra que los modelos de IA de imagen pueden generar hasta 6,5 veces más descargas que las actualizaciones tradicionales. Esto supone un cambio significativo en la forma en que…</description>
+  </item>
+  <item>
+    <title>ROS 2 en resumen: una encuesta sobre el ecosistema de ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-ros-2-en-resumen-una-encuesta-sobre-el-ecosistema-de-ro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-ros-2-en-resumen-una-encuesta-sobre-el-ecosistema-de-ro.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La encuesta 'ROS 2 en un resumen' ha sido publicada en ACM Computing Surveys, una revista líder en informática. Esta encuesta proporciona una visión general completa del ecosistema de ROS 2, incluyendo su evolución, arquitectura y…</description>
+  </item>
+  <item>
+    <title>Recompilar Xash3D en Raspberry Pi: Guía paso a paso 2026</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-recompilar-xash3d-en-raspberry-pi-guia-paso-a-paso-2026.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-recompilar-xash3d-en-raspberry-pi-guia-paso-a-paso-2026.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Después de varios años, Moonmarch ha actualizado la guía de compilación de Xash3D, una versión de código abierto de Half-Life, para Raspberry Pi. Aunque el juego sigue sin mostrar el menú principal, se ha encontrado una solución para…</description>
+  </item>
+  <item>
+    <title>Fedora GNOME: Revisión de la política de seguimiento de bugs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-fedora-gnome-revision-de-la-politica-de-seguimiento-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-fedora-gnome-revision-de-la-politica-de-seguimiento-de-.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Fedora GNOME ha estado discutiendo sobre la política de seguimiento de bugs, que parece estar en conflicto con la política de FESCo. Los usuarios han estado recibiendo un mensaje automático que les dice que no se están…</description>
+  </item>
+  <item>
+    <title>Alpine Linux se queda sin servicio debido a un problema de facturación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-alpine-linux-se-queda-sin-servicio-debido-a-un-problema.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-alpine-linux-se-queda-sin-servicio-debido-a-un-problema.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Alpine Linux, una distribución de Linux popular, ha sufrido un problema de facturación que ha dejado a sus sistemas sin servicio. Los desarrolladores están trabajando para resolver la situación, pero por ahora los servicios están…</description>
+  </item>
+  <item>
+    <title>AlmaLinux 10.2 Beta: soporte para software 32-bit legacy</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-almalinux-102-beta-soporte-para-software-32-bit-legacy.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-05-almalinux-102-beta-soporte-para-software-32-bit-legacy.md</guid>
+    <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>AlmaLinux ha lanzado la versión beta de su sistema operativo 10.2, que incluye soporte para software 32-bit legacy, algo que no se encuentra en la versión upstream de Red Hat Enterprise Linux 10.2. Esto permitirá a los usuarios ejecutar…</description>
+  </item>
   <item>
     <title>Boardcon lanza PICOT536 SoM y EMT536 SBC con procesador Allwinner T536</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-boardcon-lanza-picot536-som-y-emt536-sbc-con-procesador.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La comunidad de ReactOS ha logrado dos avances importantes en la estabilidad y compatibilidad de su sistema operativo. Ahora es posible instalar y probar ReactOS de manera más sencilla y con una mayor compatibilidad con hardware.</description>
-  </item>
-  <item>
-    <title>Kit DIY de dron ESP-FLY: un dron miniatura con ESP32-S3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-kit-diy-de-dron-esp-fly-un-dron-miniatura-con-esp32-s3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-kit-diy-de-dron-esp-fly-un-dron-miniatura-con-esp32-s3.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Seeed Studio ha lanzado el kit DIY ESP-FLY, un dron miniatura basado en la placa ESP32-S3-XIAO. Este kit permite a los usuarios construir y programar su propio dron para fines de educación STEM, proyectos DIY y práctica de vuelo indoor.</description>
-  </item>
-  <item>
-    <title>Controlador de impresión 3D Prunt Board 3: más suave y silencioso</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-controlador-de-impresion-3d-prunt-board-3-mas-suave-y-s.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-controlador-de-impresion-3d-prunt-board-3-mas-suave-y-s.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El Prunt Board 3 es un controlador de impresión 3D diseñado para ofrecer una operación más suave y silenciosa, gracias a su tecnología avanzada y firmware personalizado.</description>
-  </item>
-  <item>
-    <title>Sensor de luz MAX44009: medir la luz con precisión y facilidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-sensor-de-luz-max44009-medir-la-luz-con-precision-y-fac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-03-sensor-de-luz-max44009-medir-la-luz-con-precision-y-fac.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha actualizado su guía para el sensor de luz MAX44009, una herramienta fácil de usar que puede medir la luz en una amplia gama de niveles, desde la oscuridad hasta la luz solar intensa.</description>
-  </item>
-  <item>
-    <title>Ndimensions Labs busca talento para innovar en robótica con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-ndimensions-labs-busca-talento-para-innovar-en-robotica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-ndimensions-labs-busca-talento-para-innovar-en-robotica.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Ndimensions Labs, una empresa de robótica de vanguardia, busca a dos expertos en robótica para unirse a su equipo en Boston. Estos profesionales trabajarán en la creación de robots capaces de navegar y entender el mundo de manera precisa y…</description>
-  </item>
-  <item>
-    <title>Figure aumenta producción de robots humanoides a 55 unidades a la semana</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-figure-aumenta-produccion-de-robots-humanoides-a-55-uni.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-figure-aumenta-produccion-de-robots-humanoides-a-55-uni.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Figure, una empresa de robótica, ha alcanzado un hito importante en la producción de robots humanoides. La empresa ha aumentado su capacidad de producción a 55 robots a la semana, lo que permitirá a los investigadores y desarrolladores…</description>
-  </item>
-  <item>
-    <title>Comparación de planificadores globales para navegación en robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-comparacion-de-planificadores-globales-para-navegacion-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-comparacion-de-planificadores-globales-para-navegacion-.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de investigación ha comparado cuatro planificadores globales para navegación en robótica, evaluando su eficiencia y rendimiento en diferentes escenarios. Los resultados muestran una clara relación entre la robustez y la optimidad…</description>
-  </item>
-  <item>
-    <title>ROS 2 Lyrical Luth Release: Nuevas Herramientas y Funcionalidades</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-ros-2-lyrical-luth-release-nuevas-herramientas-y-funcio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-ros-2-lyrical-luth-release-nuevas-herramientas-y-funcio.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS (Robot Operating System) ha lanzado una nueva versión de ROS 2, llamada Lyrical Luth, que incluye una serie de herramientas y funcionalidades innovadoras para mejorar la experiencia de desarrollo de robótica. Esta…</description>
-  </item>
-  <item>
-    <title>Robotica avanzada: competencia con atletas humanos y tecnología punta</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-robotica-avanzada-competencia-con-atletas-humanos-y-tec.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-03-robotica-avanzada-competencia-con-atletas-humanos-y-tec.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica ha alcanzado un nuevo nivel de complejidad con la creación de robots que pueden competir con atletas humanos en deportes como el ping-pong y la carrera. Estos robots utilizan tecnologías de inteligencia artificial y aprendizaje…</description>
-  </item>
-  <item>
-    <title>Banana Pi BPI-OM7: una cámara 3D AI para aplicaciones de visión y robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-banana-pi-bpi-om7-una-camara-3d-ai-para-aplicaciones-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-banana-pi-bpi-om7-una-camara-3d-ai-para-aplicaciones-de.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Banana Pi ha lanzado una cámara 3D AI que combina la tecnología de visión y robótica para aplicaciones en 3D, visión artificial y percepción espacial. Esta cámara es ideal para proyectos de robótica, visión artificial y análisis…</description>
-  </item>
-  <item>
-    <title>Robotas con sensibilidad: Daimon Robotics revoluciona la manipulación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-robotas-con-sensibilidad-daimon-robotics-revoluciona-la.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-robotas-con-sensibilidad-daimon-robotics-revoluciona-la.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Daimon Robotics ha lanzado Daimon-Infinity, el conjunto de datos más grande para la inteligencia artificial física, que permite a los robots sentir el tacto. Esto puede cambiar la forma en que los robots se relacionan con el…</description>
-  </item>
-  <item>
-    <title>El NHS británico cierra sus repositorios de código abierto ante la amenaza de LLM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-el-nhs-britanico-cierra-sus-repositorios-de-codigo-abie.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-el-nhs-britanico-cierra-sus-repositorios-de-codigo-abie.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La National Health Service (NHS) del Reino Unido ha decidido cerrar la mayoría de sus repositorios de código abierto debido a la mejora en la capacidad de los modelos de lenguaje de encontrar vulnerabilidades de seguridad. Este cambio es…</description>
-  </item>
-  <item>
-    <title>AMD GAIA mejora su modelo predeterminado y agrega nuevas funcionalidades</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-amd-gaia-mejora-su-modelo-predeterminado-y-agrega-nueva.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-03-amd-gaia-mejora-su-modelo-predeterminado-y-agrega-nueva.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>AMD ha lanzado una nueva versión de GAIA, su software de código abierto para Windows y Linux, que busca hacer que sea fácil crear agentes de IA local en tu ordenador con todos los procesos de IA realizados localmente en los procesadores,…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-actualizaciones-de-seguridad-para-sistemas-operativo-15.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-actualizaciones-de-seguridad-para-sistemas-operativo-15.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La seguridad es un aspecto fundamental en la protección de los sistemas operativos. Las actualizaciones de seguridad son esenciales para prevenir vulnerabilidades y ataques cibernéticos. En este artículo, se presentan las actualizaciones…</description>
-  </item>
-  <item>
-    <title>Linux 7.1 arregla audio para la consola Steam Deck OLED después de 2 años</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-linux-71-arregla-audio-para-la-consola-steam-deck-oled-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-linux-71-arregla-audio-para-la-consola-steam-deck-oled-.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La consola de juegos Steam Deck OLED ha sufrido un problema con el soporte de audio desde una actualización en 2023. Aunque Valve había implementado una solución en su kernel personalizado, ahora se ha encontrado una solución en la versión…</description>
-  </item>
-  <item>
-    <title>Herramienta para probar redes CANopen: un terminal para CAN buses</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-herramienta-para-probar-redes-canopen-un-terminal-para-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-03-herramienta-para-probar-redes-canopen-un-terminal-para-.md</guid>
-    <pubDate>Sun, 03 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Si trabajas con redes CANopen, es posible que necesites una herramienta para monitorizar lo que está sucediendo en la red. Michael Fitzmayer ha creado una herramienta llamada CANopenTerm que permite hacer justo eso.</description>
   </item>
 </channel>
 </rss>
