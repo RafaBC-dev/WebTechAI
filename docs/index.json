@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Conecta a tus Raspberry Pi desde cualquier lugar con Raspberry Pi Connect",
+      "category": "embebidos",
+      "date": "2026-05-06",
+      "slug": "conecta-a-tus-raspberry-pi-desde-cualquier-lugar-con-ra",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Raspberry Pi Connect es una herramienta que te permite acceder a tus dispositivos Raspberry Pi desde cualquier lugar del mundo, directamente desde un navegador web. Esta herramienta es especialmente útil para equipos que gestionan flotas…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-06-conecta-a-tus-raspberry-pi-desde-cualquier-lugar-con-ra.md"
+    },
+    {
+      "title": "Casilla de Raspberry Pi con tema de PlayStation 2 creada mediante impresión 3D",
+      "category": "embebidos",
+      "date": "2026-05-06",
+      "slug": "casilla-de-raspberry-pi-con-tema-de-playstation-2-cread",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "microcontroladores"
+      ],
+      "preview": "Adafruit ha presentado una casilla de Raspberry Pi 4 y 5 con tema de PlayStation 2, creada mediante impresión 3D. Esta casilla es un proyecto divertido y creativo que combina la tecnología de Raspberry Pi con la impresión 3D.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-06-casilla-de-raspberry-pi-con-tema-de-playstation-2-cread.md"
+    },
+    {
+      "title": "Renesas RZ/V2H: un kit de desarrollo para robótica con visión artificial y control de motores",
+      "category": "embebidos",
+      "date": "2026-05-06",
+      "slug": "renesas-rzv2h-un-kit-de-desarrollo-para-robotica-con-vi",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Renesas ha lanzado un kit de desarrollo para robótica llamado RZ/V2H, que combina visión artificial, control de motores y gestión de energía en una sola placa. Esto permite a los desarrolladores crear robots más avanzados y eficientes.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-06-renesas-rzv2h-un-kit-de-desarrollo-para-robotica-con-vi.md"
+    },
+    {
+      "title": "Primer ROS Meetup en Nantes: Robotica con ROS",
+      "category": "robotica",
+      "date": "2026-05-06",
+      "slug": "primer-ros-meetup-en-nantes-robotica-con-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El 28 de mayo, la comunidad de robótica en Nantes se reunirá en el IRT Jules Verne para compartir conocimientos y experiencias en la implementación de ROS (Robot Operating System) en robots industriales. Esta reunión es una oportunidad…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-06-primer-ros-meetup-en-nantes-robotica-con-ros.md"
+    },
+    {
+      "title": "Interfaz de hardware para Gazebo Harmonic sin necesidad de DDS",
+      "category": "robotica",
+      "date": "2026-05-06",
+      "slug": "interfaz-de-hardware-para-gazebo-harmonic-sin-necesidad",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una interfaz de hardware para Gazebo Harmonic que permite evitar el uso de DDS, lo que puede ser un problema para la escalabilidad y la seguridad en simulaciones de robots y estimadores de estado aislados.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-06-interfaz-de-hardware-para-gazebo-harmonic-sin-necesidad.md"
+    },
+    {
+      "title": "Figure, 1X comienzan la producción en masa de robots humanoides",
+      "category": "robotica",
+      "date": "2026-05-06",
+      "slug": "figure-1x-comienzan-la-produccion-en-masa-de-robots-hum",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Figure, una empresa de robótica, ha comenzado a producir robots humanoides en masa, con capacidad para fabricar 55 robots a la semana. Esto marca un hito importante en la industria de la robótica, ya que permite la creación de robots para…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-06-figure-1x-comienzan-la-produccion-en-masa-de-robots-hum.md"
+    },
+    {
+      "title": "Un robot familiar que se adapta a tu vida y te motiva a ser más saludable",
+      "category": "robotica",
+      "date": "2026-05-06",
+      "slug": "un-robot-familiar-que-se-adapta-a-tu-vida-y-te-motiva-a",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Colin Angle, fundador de iRobot, ha creado una nueva compañía llamada Familiar Machines & Magic, que ha desarrollado un robot que se adapta a tu vida y te motiva a ser más saludable. Este robot, llamado Familiar, es un sistema de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-06-un-robot-familiar-que-se-adapta-a-tu-vida-y-te-motiva-a.md"
+    },
+    {
+      "title": "Gusanos de tierra no acumulan microplásticos, ¿hay esperanza para nosotros?",
+      "category": "robotica",
+      "date": "2026-05-06",
+      "slug": "gusanos-de-tierra-no-acumulan-microplasticos-hay-espera",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La contaminación por microplásticos es un problema grave en el medio ambiente, pero un estudio reciente sugiere que los gusanos de tierra pueden ser una excepción. Esto podría tener implicaciones importantes para la salud de los…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-06-gusanos-de-tierra-no-acumulan-microplasticos-hay-espera.md"
+    },
+    {
+      "title": "Robotas con sentido del tacto: DAIMON Robotics lanza dataset para IA física",
+      "category": "ia",
+      "date": "2026-05-06",
+      "slug": "robotas-con-sentido-del-tacto-daimon-robotics-lanza-dat",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa DAIMON Robotics ha lanzado el dataset Daimon-Infinity, que contiene datos de sensación táctil de alta resolución y abarca una amplia gama de tareas, desde doblar ropa en casa hasta la fabricación en líneas de ensamblaje de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-06-robotas-con-sentido-del-tacto-daimon-robotics-lanza-dat.md"
+    },
+    {
+      "title": "SAP invierte 1.16 billones en laboratorio de IA alemán Prior Labs",
+      "category": "ia",
+      "date": "2026-05-06",
+      "slug": "sap-invierte-116-billones-en-laboratorio-de-ia-aleman-p",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "La empresa de software SAP ha anunciado su intención de adquirir el laboratorio de IA alemán Prior Labs, con la que invertirá 1.16 billones de dólares en los próximos cuatro años. Esta inversión busca fortalecer la presencia de SAP en el…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-06-sap-invierte-116-billones-en-laboratorio-de-ia-aleman-p.md"
+    },
+    {
+      "title": "Toradex Zinnia: un gateway IoT industrial con conectividad y simplificación de software",
+      "category": "linux",
+      "date": "2026-05-06",
+      "slug": "toradex-zinnia-un-gateway-iot-industrial-con-conectivid",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Toradex ha lanzado el Zinnia, un gateway IoT industrial que ofrece conectividad dual GbE, WiFi 5, 4G LTE y simplificación de software para aplicaciones de edge AI y automatización industrial.",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-06-toradex-zinnia-un-gateway-iot-industrial-con-conectivid.md"
+    },
+    {
+      "title": "Fedora considera incluir paquetes x86_64-v3 en Fedora Linux 45",
+      "category": "linux",
+      "date": "2026-05-06",
+      "slug": "fedora-considera-incluir-paquetes-x86-64-v3-en-fedora-l",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Fedora Linux ha presentado un cambio de propuesta para incluir paquetes x86_64-v3 en la próxima versión de Fedora Linux 45, lo que podría mejorar el rendimiento de la distribución. Sin embargo, también plantea problemas de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-06-fedora-considera-incluir-paquetes-x86-64-v3-en-fedora-l.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para martes",
+      "category": "linux",
+      "date": "2026-05-06",
+      "slug": "actualizaciones-de-seguridad-para-martes",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varias herramientas y paquetes. Estas actualizaciones son importantes para proteger a los usuarios contra posibles ataques.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-06-actualizaciones-de-seguridad-para-martes.md"
+    },
+    {
+      "title": "Soporte experimental para descriptor heaps en el driver de Vulkan de Intel",
+      "category": "linux",
+      "date": "2026-05-06",
+      "slug": "soporte-experimental-para-descriptor-heaps-en-el-driver",
+      "tags": [
+        "linux",
+        "vulkan",
+        "ia-local"
+      ],
+      "preview": "El driver de Vulkan de Intel para Linux ha agregado soporte experimental para descriptor heaps, una característica importante para mejorar el rendimiento de aplicaciones modernas. Esto es especialmente relevante para gamers que utilizan…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-06-soporte-experimental-para-descriptor-heaps-en-el-driver.md"
+    },
+    {
+      "title": "Rust vs C: un estudio compara las opciones para desarrollo de firmware embebido",
+      "category": "linux",
+      "date": "2026-05-06",
+      "slug": "rust-vs-c-un-estudio-compara-las-opciones-para-desarrol",
+      "tags": [
+        "embebidos",
+        "rust",
+        "c"
+      ],
+      "preview": "Un equipo de investigadores ha llevado a cabo un estudio para determinar si el lenguaje de programación Rust es adecuado para el desarrollo de firmware embebido. El resultado es sorprendente: Rust puede competir con C en términos de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-06-rust-vs-c-un-estudio-compara-las-opciones-para-desarrol.md"
+    },
+    {
       "title": "Nueva placa ESP32-P4 + ESP32-C5 con conectores MIPI compatibles con Raspberry Pi",
       "category": "embebidos",
       "date": "2026-05-05",

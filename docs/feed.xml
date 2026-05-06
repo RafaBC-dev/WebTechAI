@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 05 May 2026 09:07:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 May 2026 09:18:22 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Conecta a tus Raspberry Pi desde cualquier lugar con Raspberry Pi Connect</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-conecta-a-tus-raspberry-pi-desde-cualquier-lugar-con-ra.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-conecta-a-tus-raspberry-pi-desde-cualquier-lugar-con-ra.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Raspberry Pi Connect es una herramienta que te permite acceder a tus dispositivos Raspberry Pi desde cualquier lugar del mundo, directamente desde un navegador web. Esta herramienta es especialmente útil para equipos que gestionan flotas…</description>
+  </item>
+  <item>
+    <title>Casilla de Raspberry Pi con tema de PlayStation 2 creada mediante impresión 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-casilla-de-raspberry-pi-con-tema-de-playstation-2-cread.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-casilla-de-raspberry-pi-con-tema-de-playstation-2-cread.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha presentado una casilla de Raspberry Pi 4 y 5 con tema de PlayStation 2, creada mediante impresión 3D. Esta casilla es un proyecto divertido y creativo que combina la tecnología de Raspberry Pi con la impresión 3D.</description>
+  </item>
+  <item>
+    <title>Renesas RZ/V2H: un kit de desarrollo para robótica con visión artificial y control de motores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-renesas-rzv2h-un-kit-de-desarrollo-para-robotica-con-vi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-renesas-rzv2h-un-kit-de-desarrollo-para-robotica-con-vi.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Renesas ha lanzado un kit de desarrollo para robótica llamado RZ/V2H, que combina visión artificial, control de motores y gestión de energía en una sola placa. Esto permite a los desarrolladores crear robots más avanzados y eficientes.</description>
+  </item>
+  <item>
+    <title>Primer ROS Meetup en Nantes: Robotica con ROS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-primer-ros-meetup-en-nantes-robotica-con-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-primer-ros-meetup-en-nantes-robotica-con-ros.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El 28 de mayo, la comunidad de robótica en Nantes se reunirá en el IRT Jules Verne para compartir conocimientos y experiencias en la implementación de ROS (Robot Operating System) en robots industriales. Esta reunión es una oportunidad…</description>
+  </item>
+  <item>
+    <title>Interfaz de hardware para Gazebo Harmonic sin necesidad de DDS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-interfaz-de-hardware-para-gazebo-harmonic-sin-necesidad.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-interfaz-de-hardware-para-gazebo-harmonic-sin-necesidad.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha creado una interfaz de hardware para Gazebo Harmonic que permite evitar el uso de DDS, lo que puede ser un problema para la escalabilidad y la seguridad en simulaciones de robots y estimadores de estado aislados.</description>
+  </item>
+  <item>
+    <title>Figure, 1X comienzan la producción en masa de robots humanoides</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-figure-1x-comienzan-la-produccion-en-masa-de-robots-hum.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-figure-1x-comienzan-la-produccion-en-masa-de-robots-hum.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Figure, una empresa de robótica, ha comenzado a producir robots humanoides en masa, con capacidad para fabricar 55 robots a la semana. Esto marca un hito importante en la industria de la robótica, ya que permite la creación de robots para…</description>
+  </item>
+  <item>
+    <title>Un robot familiar que se adapta a tu vida y te motiva a ser más saludable</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-un-robot-familiar-que-se-adapta-a-tu-vida-y-te-motiva-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-un-robot-familiar-que-se-adapta-a-tu-vida-y-te-motiva-a.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Colin Angle, fundador de iRobot, ha creado una nueva compañía llamada Familiar Machines &amp; Magic, que ha desarrollado un robot que se adapta a tu vida y te motiva a ser más saludable. Este robot, llamado Familiar, es un sistema de…</description>
+  </item>
+  <item>
+    <title>Gusanos de tierra no acumulan microplásticos, ¿hay esperanza para nosotros?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-gusanos-de-tierra-no-acumulan-microplasticos-hay-espera.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-06-gusanos-de-tierra-no-acumulan-microplasticos-hay-espera.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La contaminación por microplásticos es un problema grave en el medio ambiente, pero un estudio reciente sugiere que los gusanos de tierra pueden ser una excepción. Esto podría tener implicaciones importantes para la salud de los…</description>
+  </item>
+  <item>
+    <title>Robotas con sentido del tacto: DAIMON Robotics lanza dataset para IA física</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-06-robotas-con-sentido-del-tacto-daimon-robotics-lanza-dat.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-06-robotas-con-sentido-del-tacto-daimon-robotics-lanza-dat.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa DAIMON Robotics ha lanzado el dataset Daimon-Infinity, que contiene datos de sensación táctil de alta resolución y abarca una amplia gama de tareas, desde doblar ropa en casa hasta la fabricación en líneas de ensamblaje de…</description>
+  </item>
+  <item>
+    <title>SAP invierte 1.16 billones en laboratorio de IA alemán Prior Labs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-06-sap-invierte-116-billones-en-laboratorio-de-ia-aleman-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-06-sap-invierte-116-billones-en-laboratorio-de-ia-aleman-p.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa de software SAP ha anunciado su intención de adquirir el laboratorio de IA alemán Prior Labs, con la que invertirá 1.16 billones de dólares en los próximos cuatro años. Esta inversión busca fortalecer la presencia de SAP en el…</description>
+  </item>
+  <item>
+    <title>Toradex Zinnia: un gateway IoT industrial con conectividad y simplificación de software</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-toradex-zinnia-un-gateway-iot-industrial-con-conectivid.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-toradex-zinnia-un-gateway-iot-industrial-con-conectivid.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Toradex ha lanzado el Zinnia, un gateway IoT industrial que ofrece conectividad dual GbE, WiFi 5, 4G LTE y simplificación de software para aplicaciones de edge AI y automatización industrial.</description>
+  </item>
+  <item>
+    <title>Fedora considera incluir paquetes x86_64-v3 en Fedora Linux 45</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-fedora-considera-incluir-paquetes-x86-64-v3-en-fedora-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-fedora-considera-incluir-paquetes-x86-64-v3-en-fedora-l.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Fedora Linux ha presentado un cambio de propuesta para incluir paquetes x86_64-v3 en la próxima versión de Fedora Linux 45, lo que podría mejorar el rendimiento de la distribución. Sin embargo, también plantea problemas de…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para martes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-actualizaciones-de-seguridad-para-martes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-actualizaciones-de-seguridad-para-martes.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varias herramientas y paquetes. Estas actualizaciones son importantes para proteger a los usuarios contra posibles ataques.</description>
+  </item>
+  <item>
+    <title>Soporte experimental para descriptor heaps en el driver de Vulkan de Intel</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-soporte-experimental-para-descriptor-heaps-en-el-driver.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-soporte-experimental-para-descriptor-heaps-en-el-driver.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El driver de Vulkan de Intel para Linux ha agregado soporte experimental para descriptor heaps, una característica importante para mejorar el rendimiento de aplicaciones modernas. Esto es especialmente relevante para gamers que utilizan…</description>
+  </item>
+  <item>
+    <title>Rust vs C: un estudio compara las opciones para desarrollo de firmware embebido</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-rust-vs-c-un-estudio-compara-las-opciones-para-desarrol.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-06-rust-vs-c-un-estudio-compara-las-opciones-para-desarrol.md</guid>
+    <pubDate>Wed, 06 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un equipo de investigadores ha llevado a cabo un estudio para determinar si el lenguaje de programación Rust es adecuado para el desarrollo de firmware embebido. El resultado es sorprendente: Rust puede competir con C en términos de…</description>
+  </item>
   <item>
     <title>Nueva placa ESP32-P4 + ESP32-C5 con conectores MIPI compatibles con Raspberry Pi</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-05-nueva-placa-esp32-p4-esp32-c5-con-conectores-mipi-compa.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>AlmaLinux ha lanzado la versión beta de su sistema operativo 10.2, que incluye soporte para software 32-bit legacy, algo que no se encuentra en la versión upstream de Red Hat Enterprise Linux 10.2. Esto permitirá a los usuarios ejecutar…</description>
-  </item>
-  <item>
-    <title>Boardcon lanza PICOT536 SoM y EMT536 SBC con procesador Allwinner T536</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-boardcon-lanza-picot536-som-y-emt536-sbc-con-procesador.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-boardcon-lanza-picot536-som-y-emt536-sbc-con-procesador.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Boardcon ha lanzado dos nuevos productos: el SoM (System-on-Module) PICOT536 y el SBC (Single-Board Computer) EMT536. Estos dispositivos están diseñados para aplicaciones industriales y de edge computing, y están basados en el…</description>
-  </item>
-  <item>
-    <title>Lámpara de NeoPixel inspirada en EPCOT Spaceship Earth</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-lampara-de-neopixel-inspirada-en-epcot-spaceship-earth.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-lampara-de-neopixel-inspirada-en-epcot-spaceship-earth.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Adafruit ha lanzado un proyecto de aprendizaje para crear una lámpara de NeoPixel inspirada en el icónico Spaceship Earth de EPCOT. Esta lámpara puede ser controlada por un microcontrolador ESP32 y mostrar efectos de iluminación…</description>
-  </item>
-  <item>
-    <title>Cyberdeck Typeframe PS-85: un proyecto de robótica inspirado en Alien</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-cyberdeck-typeframe-ps-85-un-proyecto-de-robotica-inspi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-cyberdeck-typeframe-ps-85-un-proyecto-de-robotica-inspi.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto Typeframe PS-85 es un cyberdeck creado por Jeff Merrick, un maker que se inspiró en la película Alien para diseñar un dispositivo portátil que combine una Raspberry Pi con un teclado mecánico y una pantalla táctil. Este…</description>
-  </item>
-  <item>
-    <title>Nuevos dispositivos de identificación para makers y desarrolladores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-nuevos-dispositivos-de-identificacion-para-makers-y-des.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-04-nuevos-dispositivos-de-identificacion-para-makers-y-des.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de makers y desarrolladores nunca se queda con un simple etiquetado en una pluma y un sticker. Ahora, Pimoroni presenta una nueva gama de dispositivos de identificación llamados 'badgeware' que ofrecen características…</description>
-  </item>
-  <item>
-    <title>Figure: la fábrica de robots humanoides más grande de EE. UU. comienza producción</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-04-figure-la-fabrica-de-robots-humanoides-mas-grande-de-ee.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-04-figure-la-fabrica-de-robots-humanoides-mas-grande-de-ee.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Figure, una empresa de robótica, ha alcanzado un hito importante con la inauguración de su fábrica de robots humanoides más grande de EE. UU. La fábrica, llamada NEO Factory, está diseñada para producir 55 robots humanoides a la semana,…</description>
-  </item>
-  <item>
-    <title>Robotica: Competencia entre robots y atletas humanos en ping-pong y maratón</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-04-robotica-competencia-entre-robots-y-atletas-humanos-en-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-04-robotica-competencia-entre-robots-y-atletas-humanos-en-.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En un futuro cercano, los robots podrían competir con los humanos en deportes como el ping-pong y la maratón. Recientemente, se ha presentado un robot llamado Ringbot Quad que puede moverse de manera versátil y eficiente en diferentes…</description>
-  </item>
-  <item>
-    <title>La NHS británica cierra repositorios de código abierto debido a LLM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-la-nhs-britanica-cierra-repositorios-de-codigo-abierto-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-la-nhs-britanica-cierra-repositorios-de-codigo-abierto-.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La National Health Service (NHS) del Reino Unido está cerrando la mayoría de sus repositorios de código abierto debido a la mejora de las herramientas de LLM en la detección de vulnerabilidades. Este cambio contradice la política de código…</description>
-  </item>
-  <item>
-    <title>Daimon-Infinity: el dataset robótico más grande para la IA física</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-daimon-infinity-el-dataset-robotico-mas-grande-para-la-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-daimon-infinity-el-dataset-robotico-mas-grande-para-la-.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa DAIMON Robotics ha lanzado Daimon-Infinity, el dataset robótico más grande para la IA física. Este proyecto busca mejorar la capacidad de los robots para interactuar con el entorno físico mediante la integración de sensores…</description>
-  </item>
-  <item>
-    <title>Banana Pi BPI-OM7: una cámara 3D AI con procesamiento de imágenes en tiempo real</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-banana-pi-bpi-om7-una-camara-3d-ai-con-procesamiento-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-banana-pi-bpi-om7-una-camara-3d-ai-con-procesamiento-de.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Banana Pi ha lanzado una cámara 3D AI llamada BPI-OM7, que combina una placa de desarrollo SBC con una cámara de profundidad ORBBEC Gemini 2. Esta cámara es ideal para aplicaciones de visión 3D, robótica y percepción espacial.</description>
-  </item>
-  <item>
-    <title>DeepInfra se une a Hugging Face como proveedor de inferencia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-deepinfra-se-une-a-hugging-face-como-proveedor-de-inf-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-deepinfra-se-une-a-hugging-face-como-proveedor-de-inf-2.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>DeepInfra, una plataforma de inferencia de IA sin servidor, se ha unido a Hugging Face como proveedor de inferencia. Esto permite a los desarrolladores utilizar una amplia variedad de modelos de IA con facilidad en sus aplicaciones.</description>
-  </item>
-  <item>
-    <title>Claude, el modelo de IA, muestra poco sycophancy en conversaciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-claude-el-modelo-de-ia-muestra-poco-sycophancy-en-conve.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-claude-el-modelo-de-ia-muestra-poco-sycophancy-en-conve.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El modelo de IA Claude, desarrollado por Anthropic, ha sido sometido a un análisis para evaluar su capacidad para mostrar sycophancy (adulación excesiva). Los resultados revelan que Claude muestra poco sycophancy en la mayoría de las…</description>
-  </item>
-  <item>
-    <title>Modelos de IA superan a dos médicos humanos en diagnósticos de emergencia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-modelos-de-ia-superan-a-dos-medicos-humanos-en-diagnost.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-04-modelos-de-ia-superan-a-dos-medicos-humanos-en-diagnost.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un estudio reciente de la Universidad de Harvard ha demostrado que modelos de lenguaje artificial pueden realizar diagnósticos más precisos que dos médicos humanos en situaciones de emergencia. Esto podría cambiar la forma en que se…</description>
-  </item>
-  <item>
-    <title>Lanzamiento de Brush v0.4: un shell compatible con Bash y escrito en Rust</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-lanzamiento-de-brush-v04-un-shell-compatible-con-bash-y.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-lanzamiento-de-brush-v04-un-shell-compatible-con-bash-y.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de desarrolladores de Brush ha lanzado la versión v0.4 de su shell, una herramienta de línea de comandos compatible con Bash y escrita en el lenguaje Rust. Esta versión es el resultado de meses de trabajo y ofrece mejoras…</description>
-  </item>
-  <item>
-    <title>Crea un juego de preguntas y respuestas sencillo con Python</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-crea-un-juego-de-preguntas-y-respuestas-sencillo-con--2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-crea-un-juego-de-preguntas-y-respuestas-sencillo-con--2.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El lenguaje de programación Python sigue siendo el más popular del mundo, según el índice TIOBE. Una de las razones es que sus programas son fáciles de leer y entender, incluso para principiantes. En este artículo, aprenderás a crear un…</description>
-  </item>
-  <item>
-    <title>ReactOS mejora su instalador y compatibilidad con hardware</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-reactos-mejora-su-instalador-y-compatibilidad-con-hardw.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-04-reactos-mejora-su-instalador-y-compatibilidad-con-hardw.md</guid>
-    <pubDate>Mon, 04 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ReactOS ha logrado dos avances importantes en la estabilidad y compatibilidad de su sistema operativo. Ahora es posible instalar y probar ReactOS de manera más sencilla y con una mayor compatibilidad con hardware.</description>
   </item>
 </channel>
 </rss>
