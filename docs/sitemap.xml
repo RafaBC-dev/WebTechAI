@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-06</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-07</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-la-creacion-de-un-cyberdeck-retro-inspirado-en-la-pelic.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-ploopy-bean-un-raton-de-puntero-de-codigo-abierto-con-t.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-impresion-3d-jardin-de-fidget-con-vegetales.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-caja-de-esp32-wifi-para-proyectos-diy-y-iot.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-raspberry-pi-connect-acceso-remoto-a-dispositivos-raspb.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-impresion-3d-de-soporte-para-teclados-mecanicos.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-falcan-probe-adaptador-usb-multiprotocolo-para-can-rs-4.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-07-un-robot-familiar-que-se-adapta-a-ti-y-te-ayuda-a-estab.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-07-figure-lanza-produccion-en-masa-de-robots-humanoides-en.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-07-daimon-infinity-el-dataset-robotico-mas-grande-del-mund.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-07-anthropic-presenta-mejoras-en-claude-su-plataforma-de-i.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-07-llamadas-a-la-atencion-de-seguridad-con-llm-desafian-la.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-07-crea-un-juego-de-preguntas-sencillas-con-python.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-07-mejora-la-experiencia-de-vr-en-linux-con-wayvr.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-07-manos-roboticas-con-retroalimentacion-tactil-para-un-ag.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-conecta-a-tus-raspberry-pi-desde-cualquier-lugar-con-ra.md</loc><lastmod>2026-05-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-casilla-de-raspberry-pi-con-tema-de-playstation-2-cread.md</loc><lastmod>2026-05-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-06-renesas-rzv2h-un-kit-de-desarrollo-para-robotica-con-vi.md</loc><lastmod>2026-05-06</lastmod><priority>0.8</priority></url>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La creación de un cyberdeck retro inspirado en la película Alien",
+      "category": "embebidos",
+      "date": "2026-05-07",
+      "slug": "la-creacion-de-un-cyberdeck-retro-inspirado-en-la-pelic",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "diseño-3d"
+      ],
+      "preview": "El mundo de los cyberdecks retro sigue en auge gracias a los entusiastas de la tecnología y la creación de proyectos innovadores. Un ejemplo de esto es el cyberdeck PS-85, creado por Jeff Merrick, que combina la estética de la película…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-07-la-creacion-de-un-cyberdeck-retro-inspirado-en-la-pelic.md"
+    },
+    {
+      "title": "Ploopy Bean: un ratón de puntero de código abierto con tecnología de vanguardia",
+      "category": "embebidos",
+      "date": "2026-05-07",
+      "slug": "ploopy-bean-un-raton-de-puntero-de-codigo-abierto-con-t",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa canadiense Ploopy ha lanzado un nuevo producto innovador: un ratón de puntero de código abierto llamado Ploopy Bean, que utiliza un microcontrolador Raspberry Pi RP2040 y una tecnología de puntero de alta precisión.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-07-ploopy-bean-un-raton-de-puntero-de-codigo-abierto-con-t.md"
+    },
+    {
+      "title": "Impresión 3D: Jardín de Fidget con Vegetales",
+      "category": "embebidos",
+      "date": "2026-05-07",
+      "slug": "impresion-3d-jardin-de-fidget-con-vegetales",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "impresion-3d"
+      ],
+      "preview": "La comunidad de impresión 3D en Adafruit ha creado un nuevo proyecto llamado Fidget Garden, donde se pueden imprimir modelos de vegetales como zanahorias, rábanos, brócoli y maíz. Este proyecto es una excelente oportunidad para los…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-07-impresion-3d-jardin-de-fidget-con-vegetales.md"
+    },
+    {
+      "title": "Caja de ESP32 WiFi para proyectos DIY y IoT",
+      "category": "embebidos",
+      "date": "2026-05-07",
+      "slug": "caja-de-esp32-wifi-para-proyectos-diy-y-iot",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "robotica"
+      ],
+      "preview": "Adafruit presenta una caja de ESP32 WiFi de diseño minimalista ideal para proyectos DIY y IoT. Esta caja es perfecta para aquellos que buscan una solución compacta y funcional para sus proyectos de electrónica y robótica.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-07-caja-de-esp32-wifi-para-proyectos-diy-y-iot.md"
+    },
+    {
+      "title": "Raspberry Pi Connect: Acceso remoto a dispositivos Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-05-07",
+      "slug": "raspberry-pi-connect-acceso-remoto-a-dispositivos-raspb",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Raspberry Pi Connect es una herramienta que permite acceder a dispositivos Raspberry Pi desde cualquier lugar del mundo, directamente desde un navegador web. Con las últimas actualizaciones, se han agregado nuevas funcionalidades que…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-07-raspberry-pi-connect-acceso-remoto-a-dispositivos-raspb.md"
+    },
+    {
+      "title": "Impresión 3D de soporte para teclados mecánicos",
+      "category": "embebidos",
+      "date": "2026-05-07",
+      "slug": "impresion-3d-de-soporte-para-teclados-mecanicos",
+      "tags": [
+        "diseño-3d",
+        "hardware"
+      ],
+      "preview": "Adafruit presenta una noticia sobre impresión 3D de un soporte para teclados mecánicos, diseñado para mantenerlos estable y cómodos de usar. Este proyecto es relevante para los entusiastas de la impresión 3D y la robótica.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-07-impresion-3d-de-soporte-para-teclados-mecanicos.md"
+    },
+    {
+      "title": "FalCAN Probe: adaptador USB multiprotocolo para CAN, RS-485 y RS-422",
+      "category": "embebidos",
+      "date": "2026-05-07",
+      "slug": "falcan-probe-adaptador-usb-multiprotocolo-para-can-rs-4",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "El FalCAN Probe es un adaptador USB multiprotocolo que permite conectar un ordenador a redes CAN, RS-485 y RS-422. Esta herramienta es especialmente útil para desarrolladores de sistemas embebidos y de automatización industrial.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-07-falcan-probe-adaptador-usb-multiprotocolo-para-can-rs-4.md"
+    },
+    {
+      "title": "Un robot familiar que se adapta a ti y te ayuda a establecer hábitos saludables",
+      "category": "robotica",
+      "date": "2026-05-07",
+      "slug": "un-robot-familiar-que-se-adapta-a-ti-y-te-ayuda-a-estab",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "El fundador de iRobot, Colin Angle, ha creado una nueva empresa llamada Familiar Machines & Magic, que anunció su primer robot, diseñado para interactuar con los humanos de manera natural y ayudar a establecer hábitos saludables. Este…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-07-un-robot-familiar-que-se-adapta-a-ti-y-te-ayuda-a-estab.md"
+    },
+    {
+      "title": "Figure lanza producción en masa de robots humanoides en Estados Unidos",
+      "category": "robotica",
+      "date": "2026-05-07",
+      "slug": "figure-lanza-produccion-en-masa-de-robots-humanoides-en",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "Figure, una empresa de robótica estadounidense, ha alcanzado un hito importante en la producción de robots humanoides. Su fábrica en Hayward, California, ha comenzado a producir robots a gran escala, lo que marca un cambio fundamental en…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-07-figure-lanza-produccion-en-masa-de-robots-humanoides-en.md"
+    },
+    {
+      "title": "Daimon-Infinity: el dataset robótico más grande del mundo con sensación de tacto",
+      "category": "ia",
+      "date": "2026-05-07",
+      "slug": "daimon-infinity-el-dataset-robotico-mas-grande-del-mund",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa DAIMON Robotics ha lanzado Daimon-Infinity, un dataset robótico de gran escala que incluye sensación de tacto y cubre una amplia gama de tareas, desde el doblado de ropa hasta la fabricación en líneas de ensamblaje. Este…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-07-daimon-infinity-el-dataset-robotico-mas-grande-del-mund.md"
+    },
+    {
+      "title": "Anthropic presenta mejoras en Claude, su plataforma de inteligencia artificial",
+      "category": "ia",
+      "date": "2026-05-07",
+      "slug": "anthropic-presenta-mejoras-en-claude-su-plataforma-de-i",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La empresa Anthropic ha presentado mejoras en su plataforma de inteligencia artificial Claude, enfocadas en aumentar la eficiencia y la capacidad de los modelos de aprendizaje automático. Esto podría tener un impacto significativo en la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-07-anthropic-presenta-mejoras-en-claude-su-plataforma-de-i.md"
+    },
+    {
+      "title": "Llamadas a la atención de seguridad con LLM desafían la coordinación",
+      "category": "ia",
+      "date": "2026-05-07",
+      "slug": "llamadas-a-la-atencion-de-seguridad-con-llm-desafian-la",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Las herramientas de LLM han generado un aumento significativo en los informes de vulnerabilidades de seguridad, lo que está desafiando a los mantenedores a gestionarlos y a los proveedores a coordinar su respuesta. Esto podría significar…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-07-llamadas-a-la-atencion-de-seguridad-con-llm-desafian-la.md"
+    },
+    {
+      "title": "Crea un juego de preguntas sencillas con Python",
+      "category": "linux",
+      "date": "2026-05-07",
+      "slug": "crea-un-juego-de-preguntas-sencillas-con-python",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Si estás comenzando en el mundo de la programación, Python es una excelente opción. Es fácil de leer y escribir, y hay muchos recursos disponibles para aprender. En este artículo, te mostraremos cómo crear un juego de preguntas sencillas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-07-crea-un-juego-de-preguntas-sencillas-con-python.md"
+    },
+    {
+      "title": "Mejora la experiencia de VR en Linux con WayVR",
+      "category": "linux",
+      "date": "2026-05-07",
+      "slug": "mejora-la-experiencia-de-vr-en-linux-con-wayvr",
+      "tags": [
+        "linux",
+        "robotica",
+        "ia-local"
+      ],
+      "preview": "Los usuarios de Linux están acostumbrados a crear sus propias soluciones, pero la experiencia de VR en Linux se ha vuelto más agradable gracias a WayVR, un proyecto que busca mejorar la usabilidad de la interfaz de usuario en entornos de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-07-mejora-la-experiencia-de-vr-en-linux-con-wayvr.md"
+    },
+    {
+      "title": "Manos robóticas con retroalimentación táctil para un agarre más preciso",
+      "category": "linux",
+      "date": "2026-05-07",
+      "slug": "manos-roboticas-con-retroalimentacion-tactil-para-un-ag",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa ROBOTIS ha presentado su mano robótica HX5-D20 con tecnología de retroalimentación táctil, lo que permite a los robots agarrar objetos con mayor precisión. Esta tecnología es crucial para la manipulación de objetos en la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-07-manos-roboticas-con-retroalimentacion-tactil-para-un-ag.md"
+    },
+    {
       "title": "Conecta a tus Raspberry Pi desde cualquier lugar con Raspberry Pi Connect",
       "category": "embebidos",
       "date": "2026-05-06",
