@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-07</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-08</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-08-figure-incrementa-produccion-de-robots-humanoides-a-55-.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-08-un-robot-perro-robotico-mas-versatil-y-agil-para-la-vej.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-08-una-robotica-familiar-para-vivir-con-nosotros-que-es-y-.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-08-mejora-la-experiencia-de-simulacion-con-gazebo-y-ros-2.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-daimon-robotics-lanza-el-dataset-daimon-infinity-para-2.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-arbor-ares-2100-pc-industrial-sin-ventilador-para-autom.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-openai-lanza-nuevas-caracteristicas-de-inteligencia-de-.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-vulnerabilidad-dirty-frag-en-linux-un-riesgo-de-escalad.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-panel-pc-de-215-pulgadas-con-ia-y-nvidia-jetson-orin-nx.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-crea-tu-propio-modelo-de-lenguaje-con-llm-from-scratch.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-mejorar-el-flujo-de-trabajo-de-importacion-de-modelos-3.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-problemas-con-submisiones-de-modelos-de-aprendizaje-aut.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-08-vulnerabilidad-dirty-frag-acceso-root-en-todas-las-dist.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-08-linux-72-apoyara-ethernet-usb-10gbe-con-rtl8159-de-real.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-08-amd-k5-soporte-de-linux-se-retira-debido-a-su-soporte-d.md</loc><lastmod>2026-05-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-la-creacion-de-un-cyberdeck-retro-inspirado-en-la-pelic.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-ploopy-bean-un-raton-de-puntero-de-codigo-abierto-con-t.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-07-impresion-3d-jardin-de-fidget-con-vegetales.md</loc><lastmod>2026-05-07</lastmod><priority>0.8</priority></url>
