@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-09</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-10-typeframe-ps-85-un-cyberdeck-inspirado-en-la-pelicula-a.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-10-raspberry-pi-connect-acceso-remoto-a-dispositivos-ras-2.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-10-protege-a-tus-robots-contra-comandos-fantasma-en-wi-fi-.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-10-un-robot-familiar-para-ayudarte-en-tu-vida-diaria.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-10-altara-biblioteca-de-componentes-react-para-interfaces-.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-10-webrtc-la-tecnologia-detras-de-la-latencia-en-llamadas-.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-10-inteligencia-artificial-para-manos-roboticas-con-dexter.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-10-daimon-robotics-lanza-el-dataset-daimon-infinity-para-m.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-10-modelo-de-ia-emo-permite-modularidad-emergente-en-model.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-10-nuevas-versiones-estables-de-linux-con-correcciones-de-.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-10-que-es-el-magenta-marker-y-por-que-es-importante-en-la-.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-10-microsoft-libera-actualizacion-de-seguridad-para-azure-.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-10-rikomagic-ds08-un-reproductor-de-senalizacion-digital-c.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-10-crea-un-juego-de-preguntas-y-respuestas-sencillo-con--3.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-10-kconfirm-la-herramienta-que-limpia-el-sistema-de-config.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-09-construye-tu-propia-tecla-mecanica-personalizada-con-ra.md</loc><lastmod>2026-05-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-09-pantalla-flexible-amoled-de-667-pulgadas-compatible-con.md</loc><lastmod>2026-05-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-09-noticias-de-python-en-microcontroladores-sin-publicidad.md</loc><lastmod>2026-05-09</lastmod><priority>0.8</priority></url>

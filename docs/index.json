@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Typeframe PS-85: un cyberdeck inspirado en la película Alien",
+      "category": "embebidos",
+      "date": "2026-05-10",
+      "slug": "typeframe-ps-85-un-cyberdeck-inspirado-en-la-pelicula-a",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "El mundo de la robótica y la electrónica ha dado un giro interesante con la creación de un cyberdeck inspirado en la película Alien. Este proyecto, liderado por Jeff Merrick, combina la tecnología de Raspberry Pi con una estética futurista…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-10-typeframe-ps-85-un-cyberdeck-inspirado-en-la-pelicula-a.md"
+    },
+    {
+      "title": "Raspberry Pi Connect: Acceso remoto a dispositivos Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-05-10",
+      "slug": "raspberry-pi-connect-acceso-remoto-a-dispositivos-ras-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Raspberry Pi Connect es una herramienta que permite acceder a dispositivos Raspberry Pi desde cualquier lugar del mundo, directamente desde un navegador web. Esta herramienta se ha mejorado con nuevas actualizaciones que facilitan su uso,…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-10-raspberry-pi-connect-acceso-remoto-a-dispositivos-ras-2.md"
+    },
+    {
+      "title": "Protege a tus robots contra comandos fantasma en Wi-Fi inestable",
+      "category": "robotica",
+      "date": "2026-05-10",
+      "slug": "protege-a-tus-robots-contra-comandos-fantasma-en-wi-fi-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "¿Has experimentado comandos fantasma en tus robots móviles después de una caída de Wi-Fi o 5G? Un desarrollador ha creado una solución para proteger a tus robots contra este problema común.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-10-protege-a-tus-robots-contra-comandos-fantasma-en-wi-fi-.md"
+    },
+    {
+      "title": "Un robot familiar para ayudarte en tu vida diaria",
+      "category": "robotica",
+      "date": "2026-05-10",
+      "slug": "un-robot-familiar-para-ayudarte-en-tu-vida-diaria",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Colin Angle, fundador de iRobot, ha creado una empresa llamada Familiar Machines & Magic que desarrolla un robot diseñado para interactuar con las personas de manera natural y ayudarles a seguir rutinas saludables.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-10-un-robot-familiar-para-ayudarte-en-tu-vida-diaria.md"
+    },
+    {
+      "title": "Altara: biblioteca de componentes React para interfaces de monitoreo de ROS2",
+      "category": "robotica",
+      "date": "2026-05-10",
+      "slug": "altara-biblioteca-de-componentes-react-para-interfaces-",
+      "tags": [
+        "robotica",
+        "librerias",
+        "linux"
+      ],
+      "preview": "Un desarrollador ha creado Altara, una biblioteca de componentes React para crear interfaces de monitoreo de tiempo real en robótica y aviación. Esta herramienta conecta de manera nativa con rosbridge y ofrece componentes que muchos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-10-altara-biblioteca-de-componentes-react-para-interfaces-.md"
+    },
+    {
+      "title": "WebRTC: la tecnología detrás de la latencia en llamadas de voz",
+      "category": "ia",
+      "date": "2026-05-10",
+      "slug": "webrtc-la-tecnologia-detras-de-la-latencia-en-llamadas-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La tecnología WebRTC está diseñada para funcionar en condiciones de red deficientes, pero esto puede provocar problemas de latencia en llamadas de voz. Un experto de OpenAI explica por qué esto es un problema y cómo afecta a la precisión…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-10-webrtc-la-tecnologia-detras-de-la-latencia-en-llamadas-.md"
+    },
+    {
+      "title": "Inteligencia artificial para manos robóticas con dexteridad humana",
+      "category": "ia",
+      "date": "2026-05-10",
+      "slug": "inteligencia-artificial-para-manos-roboticas-con-dexter",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje"
+      ],
+      "preview": "La inteligencia artificial (IA) ha dado un paso importante en la robótica con la creación de manos robóticas que pueden realizar tareas con la misma dexteridad que los humanos. Esto abre nuevas posibilidades en la automatización y la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-10-inteligencia-artificial-para-manos-roboticas-con-dexter.md"
+    },
+    {
+      "title": "DAIMON Robotics lanza el dataset Daimon-Infinity para mejorar la manipulación robótica",
+      "category": "ia",
+      "date": "2026-05-10",
+      "slug": "daimon-robotics-lanza-el-dataset-daimon-infinity-para-m",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa DAIMON Robotics ha lanzado el dataset Daimon-Infinity, el más grande de su tipo, que incluye información de tacto y visión para mejorar la manipulación robótica en entornos naturales. Este proyecto busca abordar la falta de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-10-daimon-robotics-lanza-el-dataset-daimon-infinity-para-m.md"
+    },
+    {
+      "title": "Modelo de IA EMO permite modularidad emergente en modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-05-10",
+      "slug": "modelo-de-ia-emo-permite-modularidad-emergente-en-model",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Los modelos de lenguaje grandes suelen ser sistemas monolíticos que requieren recursos intensivos, pero un nuevo modelo llamado EMO permite modularidad emergente, lo que reduce el costo computacional y permite usar solo una parte del…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-10-modelo-de-ia-emo-permite-modularidad-emergente-en-model.md"
+    },
+    {
+      "title": "Nuevas versiones estables de Linux con correcciones de seguridad",
+      "category": "ia",
+      "date": "2026-05-10",
+      "slug": "nuevas-versiones-estables-de-linux-con-correcciones-de-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha lanzado nuevas versiones estables de los kernels 6.1 y 5.15, que incluyen correcciones de seguridad para el problema conocido como Dirty Frag. Estas versiones están disponibles para descargar y pueden ayudar a…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-10-nuevas-versiones-estables-de-linux-con-correcciones-de-.md"
+    },
+    {
+      "title": "¿Qué es el Magenta Marker y por qué es importante en la fase de calificación?",
+      "category": "ia",
+      "date": "2026-05-10",
+      "slug": "que-es-el-magenta-marker-y-por-que-es-importante-en-la-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un equipo de desarrollo está preguntando si el Magenta Marker estaría presente en todas las tablas de calificación. ¿Qué es esto y por qué es relevante?",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-10-que-es-el-magenta-marker-y-por-que-es-importante-en-la-.md"
+    },
+    {
+      "title": "Microsoft libera actualización de seguridad para Azure Linux 3.0",
+      "category": "linux",
+      "date": "2026-05-10",
+      "slug": "microsoft-libera-actualizacion-de-seguridad-para-azure-",
+      "tags": [
+        "linux",
+        "seguridad",
+        "azure"
+      ],
+      "preview": "Microsoft ha lanzado una actualización de seguridad para Azure Linux 3.0, que incluye correcciones de seguridad para varias bibliotecas y herramientas de código abierto. Esta actualización es importante para garantizar la seguridad de los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-10-microsoft-libera-actualizacion-de-seguridad-para-azure-.md"
+    },
+    {
+      "title": "Rikomagic DS08: un reproductor de señalización digital con Android 13",
+      "category": "linux",
+      "date": "2026-05-10",
+      "slug": "rikomagic-ds08-un-reproductor-de-senalizacion-digital-c",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Rikomagic ha enviado una muestra de su reproductor de señalización digital DS08, que se basa en el SoC Rockchip RK3588 y ofrece varias características de conectividad y expansión de puertos. Este dispositivo es relevante para aquellos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-10-rikomagic-ds08-un-reproductor-de-senalizacion-digital-c.md"
+    },
+    {
+      "title": "Crea un juego de preguntas y respuestas sencillo con Python",
+      "category": "linux",
+      "date": "2026-05-10",
+      "slug": "crea-un-juego-de-preguntas-y-respuestas-sencillo-con--3",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas",
+        "codigo"
+      ],
+      "preview": "El lenguaje de programación Python sigue siendo el más popular del mundo, según el Índice TIOBE. Para aprender a programar, nada mejor que crear algo con tus propias manos. En este artículo, aprenderás a construir un juego de preguntas y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-10-crea-un-juego-de-preguntas-y-respuestas-sencillo-con--3.md"
+    },
+    {
+      "title": "Kconfirm: la herramienta que limpia el sistema de configuración del kernel Linux",
+      "category": "linux",
+      "date": "2026-05-10",
+      "slug": "kconfirm-la-herramienta-que-limpia-el-sistema-de-config",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha estado trabajando en un nuevo proyecto llamado Kconfirm, que tiene como objetivo mejorar la configuración del kernel Linux. Esta herramienta detecta problemas en el código y ayuda a limpiar el sistema de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-10-kconfirm-la-herramienta-que-limpia-el-sistema-de-config.md"
+    },
+    {
       "title": "Construye tu propia tecla mecánica personalizada con Raspberry Pi Pico",
       "category": "embebidos",
       "date": "2026-05-09",
