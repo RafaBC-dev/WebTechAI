@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-10</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-11</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-cyberdeck-typeframe-ps-85-un-proyecto-de-retro-tecnolog.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-nueva-placa-de-desarrollo-de-ia-con-procesador-risc-v-y.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-raspberry-pi-connect-acceso-remoto-a-dispositivos-ras-3.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-almacenamiento-de-datos-seguro-y-duradero-ferrit-preser.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-11-un-robot-autonomo-para-automatizar-almacenes-de-cad-a-c.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-11-colin-angle-lanza-un-robot-familiar-para-ayudar-a-adult.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-inteligencia-artificial-para-manos-roboticas-con-destre.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-la-influencia-de-la-ficcion-en-la-ia-como-la-representa.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-daimon-infinity-el-dataset-robotico-mas-grande-del-mu-2.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-un-error-de-la-prensa-como-un-modelo-de-ia-genero-una-c.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-emo-un-modelo-de-ia-que-emerge-la-modularidad-de-forma-.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-nuevas-versiones-estables-de-linux-con-correcciones-d-2.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-un-ordenador-portatil-diy-con-estilo-y-funcionalidad.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-11-amd-y-intel-mejoran-rendimiento-y-eficiencia-energetica.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-11-crea-un-juego-de-trivia-sencillo-con-python.md</loc><lastmod>2026-05-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-10-typeframe-ps-85-un-cyberdeck-inspirado-en-la-pelicula-a.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-10-raspberry-pi-connect-acceso-remoto-a-dispositivos-ras-2.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-10-protege-a-tus-robots-contra-comandos-fantasma-en-wi-fi-.md</loc><lastmod>2026-05-10</lastmod><priority>0.8</priority></url>
