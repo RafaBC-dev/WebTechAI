@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 12 May 2026 09:32:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 09:37:17 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Dispositivo inteligente de válvula de agua con medidor de flujo y dos canales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-dispositivo-inteligente-de-valvula-de-agua-con-medidor-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-dispositivo-inteligente-de-valvula-de-agua-con-medidor-.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El SONOFF Hydro DUO es un dispositivo inteligente de válvula de agua con medidor de flujo y dos canales que permite controlar y monitorear el agua en tu hogar de manera remota. Este dispositivo es compatible con Zigbee 3.0 y Bluetooth 5…</description>
+  </item>
+  <item>
+    <title>CircuitPython 10.2.1: una versión estable de código abierto para microcontroladores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-circuitpython-1021-una-version-estable-de-codigo-abiert.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-circuitpython-1021-una-version-estable-de-codigo-abiert.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de CircuitPython ha lanzado una nueva versión estable de su código abierto, CircuitPython 10.2.1, que incluye mejoras y correcciones de errores para una variedad de microcontroladores. Esta versión es especialmente importante…</description>
+  </item>
+  <item>
+    <title>Resolución de problemas de hardware en un Fetch 1501: 24V Rail no activado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-resolucion-de-problemas-de-hardware-en-un-fetch-1501-24.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-resolucion-de-problemas-de-hardware-en-un-fetch-1501-24.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un propietario de un Fetch 1501 está experimentando problemas con el rail de 24V, que no se activa a pesar de tener una entrada de 48V. El propietario busca ayuda para diagnosticar y resolver el problema.</description>
+  </item>
+  <item>
+    <title>El robot Stretch 4 de Hello Robot: un paso hacia la robótica práctica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-el-robot-stretch-4-de-hello-robot-un-paso-hacia-la-robo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-el-robot-stretch-4-de-hello-robot-un-paso-hacia-la-robo.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Hello Robot ha lanzado el Stretch 4, un robot diseñado para realizar tareas prácticas en el hogar de manera segura y accesible. Este robot es el resultado de una colaboración entre expertos en robótica y tecnología, y está diseñado para…</description>
+  </item>
+  <item>
+    <title>La cara oscura de los perros robots de Unitree</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-la-cara-oscura-de-los-perros-robots-de-unitree.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-la-cara-oscura-de-los-perros-robots-de-unitree.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un investigador ha descubierto una vulnerabilidad de seguridad crítica en los perros robots de Unitree, que permite la ejecución de comandos arbitrarios. Esto plantea serias preocupaciones sobre la seguridad y la privacidad de los usuarios.</description>
+  </item>
+  <item>
+    <title>Un robot familiar que te conoce y te ayuda en tu vida diaria</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-d.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Colin Angle, fundador de iRobot, ha lanzado un nuevo proyecto llamado Familiar Machines &amp; Magic, que busca crear un robot que se convierta en un miembro más de la familia. Este robot, llamado Familiar, es un sistema de inteligencia…</description>
+  </item>
+  <item>
+    <title>La inteligencia artificial da a los brazos de robots la dexteridad humana</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-la-inteligencia-artificial-da-a-los-brazos-de-robots-la.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-la-inteligencia-artificial-da-a-los-brazos-de-robots-la.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La inteligencia artificial ha logrado dar a los brazos de robots la capacidad de realizar tareas físicas complejas con la misma destreza que los humanos. Esto ha sido posible gracias a la creación de un cerebro artificial llamado GENE-26.5.</description>
+  </item>
+  <item>
+    <title>Musk cuestiona la estructura de OpenAI en un proceso judicial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-musk-cuestiona-la-estructura-de-openai-en-un-proceso-ju.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-musk-cuestiona-la-estructura-de-openai-en-un-proceso-ju.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El CEO de OpenAI, Sam Altman, ha testificado en un proceso judicial contra su ex co-fundador Elon Musk, quien cuestiona la estructura corporativa de la empresa. Altman defiende la decisión de crear una subsidiaria comercial para vender…</description>
+  </item>
+  <item>
+    <title>Medicare crea un modelo de pago para la IA en la atención médica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-medicare-crea-un-modelo-de-pago-para-la-ia-en-la-atenci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-medicare-crea-un-modelo-de-pago-para-la-ia-en-la-atenci.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La Administración de Medicare ha lanzado un programa para probar la atención médica impulsada por la inteligencia artificial (IA) en una escala federal. El objetivo es recompensar resultados de salud en lugar de actividades específicas.</description>
+  </item>
+  <item>
+    <title>Mejora en la gestión de memoria para operaciones de I/O</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-mejora-en-la-gestion-de-memoria-para-operaciones-de-io.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-mejora-en-la-gestion-de-memoria-para-operaciones-de-io.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El kernel de Linux ha sido mejorado para permitir una gestión más eficiente de memoria en operaciones de I/O entre dispositivos. Esto se logra a través del uso de dma-bufs, una tecnología que permite compartir memoria entre drivers de…</description>
+  </item>
+  <item>
+    <title>Huge Pages Transparentes: un salto hacia 1GB de memoria</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-huge-pages-transparentes-un-salto-hacia-1gb-de-memoria.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-huge-pages-transparentes-un-salto-hacia-1gb-de-memoria.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Los desarrolladores de Linux han estado trabajando en mejorar la gestión de la memoria en sistemas operativos. Un paso importante en este sentido es la implementación de huge pages transparentes, que permiten a los procesos acceder a…</description>
+  </item>
+  <item>
+    <title>Wine Wayland Driver Agrega Soporte para Warp de Ratón</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-wine-wayland-driver-agrega-soporte-para-warp-de-raton.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-wine-wayland-driver-agrega-soporte-para-warp-de-raton.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El driver de Wine Wayland ha tomado un paso importante hacia adelante con el soporte para el protocolo de warp de ratón wp_pointer_warp_v1. Esto permitirá a los juegos y aplicaciones de Windows funcionar mejor en entornos Wayland nativos.</description>
+  </item>
+  <item>
+    <title>OpenZFS 2.4.2: Nueva versión con soporte para Linux 7.0 y correcciones de errores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-openzfs-242-nueva-version-con-soporte-para-linux-70-y-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-openzfs-242-nueva-version-con-soporte-para-linux-70-y-c.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de OpenZFS ha lanzado la versión 2.4.2 de su implementación de sistema de archivos ZFS, que incluye soporte para el kernel Linux 7.0 y correcciones de errores importantes.</description>
+  </item>
+  <item>
+    <title>GitHub enfrenta problemas de disponibilidad: ¿qué alternativas hay?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-github-enfrenta-problemas-de-disponibilidad-que-alterna.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-github-enfrenta-problemas-de-disponibilidad-que-alterna.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>GitHub ha estado experimentando problemas de disponibilidad recientemente, lo que ha dificultado el acceso a los repositorios y el trabajo de los desarrolladores. Esto ha llevado a algunos a considerar la posibilidad de migrar a…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para varios sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-actualizaciones-de-seguridad-para-varios-sistemas-opera.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-actualizaciones-de-seguridad-para-varios-sistemas-opera.md</guid>
+    <pubDate>Wed, 13 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Los desarrolladores de varios sistemas operativos han lanzado actualizaciones de seguridad para corregir vulnerabilidades en paquetes populares. Estas actualizaciones son importantes para evitar ataques de seguridad y mantener la…</description>
+  </item>
   <item>
     <title>SpacemiT lanza SBC y SoM con SoC RISC-V AI y hasta 32GB de RAM</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-12-spacemit-lanza-sbc-y-som-con-soc-risc-v-ai-y-hasta-32gb.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 12 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La empresa AMD ha publicado parches para su driver AMDGPU Linux que permiten la compresión de señal de video HDMI 2.1, lo que permite una mayor eficiencia de banda y una mayor velocidad de refresco en pantallas de alta resolución.</description>
-  </item>
-  <item>
-    <title>Cyberdeck Typeframe PS-85: un proyecto de retro tecnología con Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-cyberdeck-typeframe-ps-85-un-proyecto-de-retro-tecnolog.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-cyberdeck-typeframe-ps-85-un-proyecto-de-retro-tecnolog.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto Typeframe PS-85 es un cyberdeck inspirado en la película Alien, construido con una Raspberry Pi Zero 2 W y un teclado mecánico de 40%. Su creador, Jeff Merrick, originalmente diseñó un proyecto llamado Penkesu, pero lo…</description>
-  </item>
-  <item>
-    <title>Nueva placa de desarrollo de IA con procesador RISC-V y hasta 32GB de RAM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-nueva-placa-de-desarrollo-de-ia-con-procesador-risc-v-y.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-nueva-placa-de-desarrollo-de-ia-con-procesador-risc-v-y.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>SpacemiT ha lanzado la placa de desarrollo K3 Pico-ITX SBC y el módulo de sistema en un chip K3-CoM260, que integran un procesador de IA con 8 núcleos RISC-V y hasta 32GB de RAM. Esta placa está diseñada para aplicaciones de alta potencia…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi Connect: Acceso remoto a dispositivos Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-raspberry-pi-connect-acceso-remoto-a-dispositivos-ras-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-raspberry-pi-connect-acceso-remoto-a-dispositivos-ras-3.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Raspberry Pi Connect es una herramienta que permite acceder a dispositivos Raspberry Pi desde cualquier lugar del mundo, directamente desde un navegador web. La última actualización ha agregado nuevas funcionalidades que mejoran la…</description>
-  </item>
-  <item>
-    <title>Almacenamiento de datos seguro y duradero: FERRIT preserva datos durante 200 años</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-almacenamiento-de-datos-seguro-y-duradero-ferrit-preser.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-11-almacenamiento-de-datos-seguro-y-duradero-ferrit-preser.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Machdyne ha presentado FERRIT, un dispositivo de almacenamiento de datos seguro y duradero que puede preservar datos durante hasta 200 años. Este dispositivo utiliza tecnología F-RAM y es ideal para la conservación de documentos críticos,…</description>
-  </item>
-  <item>
-    <title>Un robot autónomo para automatizar almacenes: de CAD a código</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-11-un-robot-autonomo-para-automatizar-almacenes-de-cad-a-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-11-un-robot-autonomo-para-automatizar-almacenes-de-cad-a-c.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de desarrolladores ha creado un robot autónomo que puede navegar y servir peticiones en un almacén. Este proyecto utiliza tecnologías como ROS 2, Nav2 y Gazebo para lograr la autonomía del robot.</description>
-  </item>
-  <item>
-    <title>Colin Angle lanza un robot familiar para ayudar a adultos a seguir rutinas saludables</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-11-colin-angle-lanza-un-robot-familiar-para-ayudar-a-adult.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-11-colin-angle-lanza-un-robot-familiar-para-ayudar-a-adult.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El fundador de iRobot, Colin Angle, ha lanzado un nuevo proyecto llamado Familiar Machines &amp; Magic, que busca crear un robot que se adapte a la vida de los adultos y les ayude a seguir rutinas saludables. Este robot, llamado Familiar, es…</description>
-  </item>
-  <item>
-    <title>Inteligencia artificial para manos robóticas con destreza humana</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-inteligencia-artificial-para-manos-roboticas-con-destre.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-inteligencia-artificial-para-manos-roboticas-con-destre.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de investigadores ha desarrollado una inteligencia artificial que permite a las manos robóticas realizar tareas con la misma destreza que los humanos. Esto puede revolucionar la forma en que los robots interactúan con el mundo…</description>
-  </item>
-  <item>
-    <title>La influencia de la ficción en la IA: cómo la representación de los AI puede afectar su comportamiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-la-influencia-de-la-ficcion-en-la-ia-como-la-representa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-la-influencia-de-la-ficcion-en-la-ia-como-la-representa.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Anthropic ha descubierto que las representaciones ficticias de la inteligencia artificial pueden influir en el comportamiento de los modelos de IA. En particular, la representación de los AI como 'malvadas' y interesadas en la…</description>
-  </item>
-  <item>
-    <title>Daimon-Infinity: el dataset robótico más grande del mundo con sensibilidad táctil</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-daimon-infinity-el-dataset-robotico-mas-grande-del-mu-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-daimon-infinity-el-dataset-robotico-mas-grande-del-mu-2.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa DAIMON Robotics ha lanzado Daimon-Infinity, el dataset robótico más grande del mundo que incluye sensibilidad táctil. Este proyecto busca mejorar la capacidad de los robots para interactuar con el entorno de manera más natural.</description>
-  </item>
-  <item>
-    <title>Un error de la prensa: cómo un modelo de IA generó una cita falsa</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-un-error-de-la-prensa-como-un-modelo-de-ia-genero-una-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-un-error-de-la-prensa-como-un-modelo-de-ia-genero-una-c.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La New York Times ha publicado un editorial en el que se explica cómo un modelo de IA generó una cita falsa de Pierre Poilievre, líder del partido conservador canadiense. Esto pone de relieve la importancia de verificar la precisión de la…</description>
-  </item>
-  <item>
-    <title>EMO: un modelo de IA que emerge la modularidad de forma autónoma</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-emo-un-modelo-de-ia-que-emerge-la-modularidad-de-forma-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-emo-un-modelo-de-ia-que-emerge-la-modularidad-de-forma-.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los modelos de lenguaje grandes suelen ser monolíticos, pero las aplicaciones a menudo necesitan solo una pequeña parte de sus capacidades. El nuevo modelo EMO de Allen AI permite utilizar solo una pequeña parte de sus expertos para una…</description>
-  </item>
-  <item>
-    <title>Nuevas versiones estables de Linux con correcciones de problemas de seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-nuevas-versiones-estables-de-linux-con-correcciones-d-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-nuevas-versiones-estables-de-linux-con-correcciones-d-2.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Greg Kroah-Hartman ha liberado nuevas versiones estables de Linux para corregir un problema de seguridad conocido como Dirty Frag. Esto es importante porque puede permitir a atacantes acceder a sistemas sensibles.</description>
-  </item>
-  <item>
-    <title>Un ordenador portátil DIY con estilo y funcionalidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-un-ordenador-portatil-diy-con-estilo-y-funcionalidad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-11-un-ordenador-portatil-diy-con-estilo-y-funcionalidad.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un proyecto innovador que combina la estética femenina con la tecnología de última generación. Un ordenador portátil DIY que sorprende por su diseño y funcionalidad.</description>
-  </item>
-  <item>
-    <title>AMD y Intel mejoran rendimiento y eficiencia energética en Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-11-amd-y-intel-mejoran-rendimiento-y-eficiencia-energetica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-11-amd-y-intel-mejoran-rendimiento-y-eficiencia-energetica.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas AMD e Intel están trabajando en mejorar la eficiencia energética de sus procesadores de NPU (Neural Processing Unit) en la próxima versión de Linux, Linux 7.2. Esto se logrará mediante la adición de nuevas características de…</description>
-  </item>
-  <item>
-    <title>Crea un juego de trivia sencillo con Python</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-11-crea-un-juego-de-trivia-sencillo-con-python.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-11-crea-un-juego-de-trivia-sencillo-con-python.md</guid>
-    <pubDate>Mon, 11 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La programación es un mundo fascinante que puede ser accesible a todos, especialmente con lenguajes como Python que ofrecen una sintaxis clara y fácil de leer. En este artículo, aprenderás a crear un juego de trivia sencillo utilizando…</description>
   </item>
 </channel>
 </rss>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Dispositivo inteligente de válvula de agua con medidor de flujo y dos canales",
+      "category": "embebidos",
+      "date": "2026-05-13",
+      "slug": "dispositivo-inteligente-de-valvula-de-agua-con-medidor-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El SONOFF Hydro DUO es un dispositivo inteligente de válvula de agua con medidor de flujo y dos canales que permite controlar y monitorear el agua en tu hogar de manera remota. Este dispositivo es compatible con Zigbee 3.0 y Bluetooth 5…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-13-dispositivo-inteligente-de-valvula-de-agua-con-medidor-.md"
+    },
+    {
+      "title": "CircuitPython 10.2.1: una versión estable de código abierto para microcontroladores",
+      "category": "embebidos",
+      "date": "2026-05-13",
+      "slug": "circuitpython-1021-una-version-estable-de-codigo-abiert",
+      "tags": [
+        "microcontroladores",
+        "python",
+        "codigo-abierto"
+      ],
+      "preview": "La comunidad de CircuitPython ha lanzado una nueva versión estable de su código abierto, CircuitPython 10.2.1, que incluye mejoras y correcciones de errores para una variedad de microcontroladores. Esta versión es especialmente importante…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-13-circuitpython-1021-una-version-estable-de-codigo-abiert.md"
+    },
+    {
+      "title": "Resolución de problemas de hardware en un Fetch 1501: 24V Rail no activado",
+      "category": "embebidos",
+      "date": "2026-05-13",
+      "slug": "resolucion-de-problemas-de-hardware-en-un-fetch-1501-24",
+      "tags": [
+        "robotica",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Un propietario de un Fetch 1501 está experimentando problemas con el rail de 24V, que no se activa a pesar de tener una entrada de 48V. El propietario busca ayuda para diagnosticar y resolver el problema.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-13-resolucion-de-problemas-de-hardware-en-un-fetch-1501-24.md"
+    },
+    {
+      "title": "El robot Stretch 4 de Hello Robot: un paso hacia la robótica práctica",
+      "category": "robotica",
+      "date": "2026-05-13",
+      "slug": "el-robot-stretch-4-de-hello-robot-un-paso-hacia-la-robo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Hello Robot ha lanzado el Stretch 4, un robot diseñado para realizar tareas prácticas en el hogar de manera segura y accesible. Este robot es el resultado de una colaboración entre expertos en robótica y tecnología, y está diseñado para…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-13-el-robot-stretch-4-de-hello-robot-un-paso-hacia-la-robo.md"
+    },
+    {
+      "title": "La cara oscura de los perros robots de Unitree",
+      "category": "robotica",
+      "date": "2026-05-13",
+      "slug": "la-cara-oscura-de-los-perros-robots-de-unitree",
+      "tags": [
+        "robotica",
+        "linux",
+        "seguridad"
+      ],
+      "preview": "Un investigador ha descubierto una vulnerabilidad de seguridad crítica en los perros robots de Unitree, que permite la ejecución de comandos arbitrarios. Esto plantea serias preocupaciones sobre la seguridad y la privacidad de los usuarios.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-13-la-cara-oscura-de-los-perros-robots-de-unitree.md"
+    },
+    {
+      "title": "Un robot familiar que te conoce y te ayuda en tu vida diaria",
+      "category": "robotica",
+      "date": "2026-05-13",
+      "slug": "un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-d",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Colin Angle, fundador de iRobot, ha lanzado un nuevo proyecto llamado Familiar Machines & Magic, que busca crear un robot que se convierta en un miembro más de la familia. Este robot, llamado Familiar, es un sistema de inteligencia…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-13-un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-d.md"
+    },
+    {
+      "title": "La inteligencia artificial da a los brazos de robots la dexteridad humana",
+      "category": "ia",
+      "date": "2026-05-13",
+      "slug": "la-inteligencia-artificial-da-a-los-brazos-de-robots-la",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "aprendizaje-automatico"
+      ],
+      "preview": "La inteligencia artificial ha logrado dar a los brazos de robots la capacidad de realizar tareas físicas complejas con la misma destreza que los humanos. Esto ha sido posible gracias a la creación de un cerebro artificial llamado GENE-26.5.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-13-la-inteligencia-artificial-da-a-los-brazos-de-robots-la.md"
+    },
+    {
+      "title": "Musk cuestiona la estructura de OpenAI en un proceso judicial",
+      "category": "ia",
+      "date": "2026-05-13",
+      "slug": "musk-cuestiona-la-estructura-de-openai-en-un-proceso-ju",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El CEO de OpenAI, Sam Altman, ha testificado en un proceso judicial contra su ex co-fundador Elon Musk, quien cuestiona la estructura corporativa de la empresa. Altman defiende la decisión de crear una subsidiaria comercial para vender…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-13-musk-cuestiona-la-estructura-de-openai-en-un-proceso-ju.md"
+    },
+    {
+      "title": "Medicare crea un modelo de pago para la IA en la atención médica",
+      "category": "ia",
+      "date": "2026-05-13",
+      "slug": "medicare-crea-un-modelo-de-pago-para-la-ia-en-la-atenci",
+      "tags": [
+        "ia-local",
+        "linux",
+        "python"
+      ],
+      "preview": "La Administración de Medicare ha lanzado un programa para probar la atención médica impulsada por la inteligencia artificial (IA) en una escala federal. El objetivo es recompensar resultados de salud en lugar de actividades específicas.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-13-medicare-crea-un-modelo-de-pago-para-la-ia-en-la-atenci.md"
+    },
+    {
+      "title": "Mejora en la gestión de memoria para operaciones de I/O",
+      "category": "linux",
+      "date": "2026-05-13",
+      "slug": "mejora-en-la-gestion-de-memoria-para-operaciones-de-io",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux ha sido mejorado para permitir una gestión más eficiente de memoria en operaciones de I/O entre dispositivos. Esto se logra a través del uso de dma-bufs, una tecnología que permite compartir memoria entre drivers de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-13-mejora-en-la-gestion-de-memoria-para-operaciones-de-io.md"
+    },
+    {
+      "title": "Huge Pages Transparentes: un salto hacia 1GB de memoria",
+      "category": "linux",
+      "date": "2026-05-13",
+      "slug": "huge-pages-transparentes-un-salto-hacia-1gb-de-memoria",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los desarrolladores de Linux han estado trabajando en mejorar la gestión de la memoria en sistemas operativos. Un paso importante en este sentido es la implementación de huge pages transparentes, que permiten a los procesos acceder a…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-13-huge-pages-transparentes-un-salto-hacia-1gb-de-memoria.md"
+    },
+    {
+      "title": "Wine Wayland Driver Agrega Soporte para Warp de Ratón",
+      "category": "linux",
+      "date": "2026-05-13",
+      "slug": "wine-wayland-driver-agrega-soporte-para-warp-de-raton",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El driver de Wine Wayland ha tomado un paso importante hacia adelante con el soporte para el protocolo de warp de ratón wp_pointer_warp_v1. Esto permitirá a los juegos y aplicaciones de Windows funcionar mejor en entornos Wayland nativos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-13-wine-wayland-driver-agrega-soporte-para-warp-de-raton.md"
+    },
+    {
+      "title": "OpenZFS 2.4.2: Nueva versión con soporte para Linux 7.0 y correcciones de errores",
+      "category": "linux",
+      "date": "2026-05-13",
+      "slug": "openzfs-242-nueva-version-con-soporte-para-linux-70-y-c",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de OpenZFS ha lanzado la versión 2.4.2 de su implementación de sistema de archivos ZFS, que incluye soporte para el kernel Linux 7.0 y correcciones de errores importantes.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-13-openzfs-242-nueva-version-con-soporte-para-linux-70-y-c.md"
+    },
+    {
+      "title": "GitHub enfrenta problemas de disponibilidad: ¿qué alternativas hay?",
+      "category": "linux",
+      "date": "2026-05-13",
+      "slug": "github-enfrenta-problemas-de-disponibilidad-que-alterna",
+      "tags": [
+        "codigo",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "GitHub ha estado experimentando problemas de disponibilidad recientemente, lo que ha dificultado el acceso a los repositorios y el trabajo de los desarrolladores. Esto ha llevado a algunos a considerar la posibilidad de migrar a…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-13-github-enfrenta-problemas-de-disponibilidad-que-alterna.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para varios sistemas operativos",
+      "category": "linux",
+      "date": "2026-05-13",
+      "slug": "actualizaciones-de-seguridad-para-varios-sistemas-opera",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Los desarrolladores de varios sistemas operativos han lanzado actualizaciones de seguridad para corregir vulnerabilidades en paquetes populares. Estas actualizaciones son importantes para evitar ataques de seguridad y mantener la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-13-actualizaciones-de-seguridad-para-varios-sistemas-opera.md"
+    },
+    {
       "title": "SpacemiT lanza SBC y SoM con SoC RISC-V AI y hasta 32GB de RAM",
       "category": "embebidos",
       "date": "2026-05-12",

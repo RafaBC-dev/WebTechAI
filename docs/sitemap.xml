@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-12</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-12</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-13</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-dispositivo-inteligente-de-valvula-de-agua-con-medidor-.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-circuitpython-1021-una-version-estable-de-codigo-abiert.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-resolucion-de-problemas-de-hardware-en-un-fetch-1501-24.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-el-robot-stretch-4-de-hello-robot-un-paso-hacia-la-robo.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-la-cara-oscura-de-los-perros-robots-de-unitree.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-13-un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-d.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-la-inteligencia-artificial-da-a-los-brazos-de-robots-la.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-musk-cuestiona-la-estructura-de-openai-en-un-proceso-ju.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-13-medicare-crea-un-modelo-de-pago-para-la-ia-en-la-atenci.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-mejora-en-la-gestion-de-memoria-para-operaciones-de-io.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-huge-pages-transparentes-un-salto-hacia-1gb-de-memoria.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-wine-wayland-driver-agrega-soporte-para-warp-de-raton.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-openzfs-242-nueva-version-con-soporte-para-linux-70-y-c.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-github-enfrenta-problemas-de-disponibilidad-que-alterna.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-13-actualizaciones-de-seguridad-para-varios-sistemas-opera.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-12-spacemit-lanza-sbc-y-som-con-soc-risc-v-ai-y-hasta-32gb.md</loc><lastmod>2026-05-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-12-un-robot-familiar-para-ayudarte-en-tu-vida-diaria-2.md</loc><lastmod>2026-05-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-12-nero-arm-tutorial-completo-sobre-ik-parametrico-angular.md</loc><lastmod>2026-05-12</lastmod><priority>0.8</priority></url>
