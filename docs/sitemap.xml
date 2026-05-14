@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-13</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-14</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-14-caja-de-exhibicion-con-pantalla-led-y-compartimiento-se.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-14-nueva-caja-para-raspberry-pi-5-con-mecanismo-de-boton-i.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-14-nextpcb-lanza-rev-0-pcba-un-servicio-de-ensamblaje-auto.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-14-clawdmeter-un-panel-de-control-diy-para-monitorear-toke.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-14-un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-2.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-14-sensor-lidar-matrix-una-vision-3d-para-robots-y-aplicac.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-14-hello-robot-establece-el-estandar-para-robots-seguros-y.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-14-soporte-abierto-para-la-gpu-mali-g1-pro-en-linux.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-14-vulnerabilidad-fragnesia-un-nuevo-ataque-a-la-seguridad.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-14-mini-pc-con-intel-n97-y-acelerador-de-ia-de-25-tops-par.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-14-notion-se-convierte-en-un-hub-para-agentes-de-ia-con-su.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-14-la-inteligencia-artificial-da-a-las-manos-de-robots-la-.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-14-amd-gpus-antiguas-ganan-con-soporte-drm-format-modifier.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-14-fedora-se-replantea-su-iniciativa-de-escritorio-para-de.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-14-linux-driver-para-intel-silicon-security-engine-interfa.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-dispositivo-inteligente-de-valvula-de-agua-con-medidor-.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-circuitpython-1021-una-version-estable-de-codigo-abiert.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-13-resolucion-de-problemas-de-hardware-en-un-fetch-1501-24.md</loc><lastmod>2026-05-13</lastmod><priority>0.8</priority></url>

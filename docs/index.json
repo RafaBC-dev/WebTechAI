@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Caja de exhibición con pantalla LED y compartimiento secreto",
+      "category": "embebidos",
+      "date": "2026-05-14",
+      "slug": "caja-de-exhibicion-con-pantalla-led-y-compartimiento-se",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "arduino"
+      ],
+      "preview": "Adafruit presenta una caja de exhibición futurista que integra una pantalla LED y un compartimiento secreto. Esta caja es el resultado de la fusión de la impresión 3D y la electrónica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-14-caja-de-exhibicion-con-pantalla-led-y-compartimiento-se.md"
+    },
+    {
+      "title": "Nueva caja para Raspberry Pi 5 con mecanismo de botón integrado",
+      "category": "embebidos",
+      "date": "2026-05-14",
+      "slug": "nueva-caja-para-raspberry-pi-5-con-mecanismo-de-boton-i",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una caja innovadora para el Raspberry Pi 5, con un mecanismo de botón integrado que elimina la necesidad de tornillos y hardware suelto.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-14-nueva-caja-para-raspberry-pi-5-con-mecanismo-de-boton-i.md"
+    },
+    {
+      "title": "NextPCB lanza Rev 0 PCBA: un servicio de ensamblaje automático para prototipos",
+      "category": "embebidos",
+      "date": "2026-05-14",
+      "slug": "nextpcb-lanza-rev-0-pcba-un-servicio-de-ensamblaje-auto",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "NextPCB ha lanzado Rev 0 PCBA, un servicio de ensamblaje automático para prototipos que elimina obstáculos tradicionales y acelera el desarrollo de hardware. Esto es especialmente relevante para ingenieros que buscan reducir tiempos de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-14-nextpcb-lanza-rev-0-pcba-un-servicio-de-ensamblaje-auto.md"
+    },
+    {
+      "title": "Clawdmeter: un panel de control DIY para monitorear tokens de Claude Code",
+      "category": "embebidos",
+      "date": "2026-05-14",
+      "slug": "clawdmeter-un-panel-de-control-diy-para-monitorear-toke",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El proyecto Clawdmeter es un panel de control DIY que utiliza un ESP32-S3 para monitorear tokens de Claude Code en tiempo real. Este dispositivo es especialmente útil para desarrolladores que utilizan la tecnología de Claude Code en sus…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-14-clawdmeter-un-panel-de-control-diy-para-monitorear-toke.md"
+    },
+    {
+      "title": "Un robot familiar que te conoce y te ayuda en tu vida diaria",
+      "category": "robotica",
+      "date": "2026-05-14",
+      "slug": "un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El fundador de iRobot, Colin Angle, ha creado una nueva empresa llamada Familiar Machines & Magic, que presenta su primer robot, Familiar, diseñado para interactuar con las personas de manera natural y ayudarlas a establecer rutinas…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-14-un-robot-familiar-que-te-conoce-y-te-ayuda-en-tu-vida-2.md"
+    },
+    {
+      "title": "Sensor LiDAR Matrix: una visión 3D para robots y aplicaciones",
+      "category": "robotica",
+      "date": "2026-05-14",
+      "slug": "sensor-lidar-matrix-una-vision-3d-para-robots-y-aplicac",
+      "tags": [
+        "robotica",
+        "esp32",
+        "python"
+      ],
+      "preview": "Un equipo de Mellow_Labs ha experimentado con sensores LiDAR Matrix y ha logrado integrarlos en un robot para crear una visión 3D. Esto abre nuevas posibilidades para la navegación autónoma y la detección de obstáculos.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-14-sensor-lidar-matrix-una-vision-3d-para-robots-y-aplicac.md"
+    },
+    {
+      "title": "Hello Robot establece el estándar para robots seguros y prácticos para hogares",
+      "category": "robotica",
+      "date": "2026-05-14",
+      "slug": "hello-robot-establece-el-estandar-para-robots-seguros-y",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La compañía Hello Robot ha lanzado el robot Stretch 4, un robot diseñado para realizar tareas prácticas y seguras en el hogar. Este robot es el resultado de años de investigación y desarrollo para crear un robot que pueda ser utilizado en…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-14-hello-robot-establece-el-estandar-para-robots-seguros-y.md"
+    },
+    {
+      "title": "Soporte abierto para la GPU Mali G1 Pro en Linux",
+      "category": "robotica",
+      "date": "2026-05-14",
+      "slug": "soporte-abierto-para-la-gpu-mali-g1-pro-en-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha logrado soportar la GPU Mali G1 Pro, una de las últimas generaciones de hardware gráfico de ARM. Esto significa que los desarrolladores pueden utilizar esta GPU en sus proyectos de código abierto.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-14-soporte-abierto-para-la-gpu-mali-g1-pro-en-linux.md"
+    },
+    {
+      "title": "Vulnerabilidad Fragnesia: un nuevo ataque a la seguridad de Linux",
+      "category": "ia",
+      "date": "2026-05-14",
+      "slug": "vulnerabilidad-fragnesia-un-nuevo-ataque-a-la-seguridad",
+      "tags": [
+        "linux",
+        "seguridad",
+        "vulnerabilidad"
+      ],
+      "preview": "Un investigador ha descubierto una nueva vulnerabilidad en Linux que permite el escalado de privilegios locales. Esta vulnerabilidad, llamada Fragnesia, se encuentra en el mismo sistema que la vulnerabilidad Dirty Frag y requiere una…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-14-vulnerabilidad-fragnesia-un-nuevo-ataque-a-la-seguridad.md"
+    },
+    {
+      "title": "Mini PC con Intel N97 y acelerador de IA de 25 TOPS para aplicaciones de visión",
+      "category": "ia",
+      "date": "2026-05-14",
+      "slug": "mini-pc-con-intel-n97-y-acelerador-de-ia-de-25-tops-par",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La empresa DEEPX ha lanzado el DX-AIPlayer, un mini PC ultra compacto diseñado para aplicaciones de visión de IA en robótica, ciudades inteligentes y automatización de fábricas. Este sistema integra un procesador Intel N97 y un acelerador…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-14-mini-pc-con-intel-n97-y-acelerador-de-ia-de-25-tops-par.md"
+    },
+    {
+      "title": "Notion se convierte en un hub para agentes de IA con su nueva plataforma de desarrolladores",
+      "category": "ia",
+      "date": "2026-05-14",
+      "slug": "notion-se-convierte-en-un-hub-para-agentes-de-ia-con-su",
+      "tags": [
+        "ia-local",
+        "codigo",
+        "linux"
+      ],
+      "preview": "Notion, conocida por su aplicación de notas colaborativas, ha lanzado una nueva plataforma de desarrolladores que permite a los equipos crear agentes de IA personalizados y automatizar flujos de trabajo complejos. Esto abre nuevas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-14-notion-se-convierte-en-un-hub-para-agentes-de-ia-con-su.md"
+    },
+    {
+      "title": "La inteligencia artificial da a las manos de robots la dexteridad humana",
+      "category": "ia",
+      "date": "2026-05-14",
+      "slug": "la-inteligencia-artificial-da-a-las-manos-de-robots-la-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "python"
+      ],
+      "preview": "La inteligencia artificial (IA) ha logrado dar a las manos de robots la capacidad de realizar tareas complejas con la misma dexteridad que los humanos. Esto ha sido posible gracias a la creación de un cerebro artificial llamado GENE-26.5,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-14-la-inteligencia-artificial-da-a-las-manos-de-robots-la-.md"
+    },
+    {
+      "title": "AMD GPUs antiguas ganan con soporte DRM format modifiers en Linux",
+      "category": "linux",
+      "date": "2026-05-14",
+      "slug": "amd-gpus-antiguas-ganan-con-soporte-drm-format-modifier",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Valve ha lanzado una actualización para las GPU AMD antiguas, permitiendo el uso de DRM format modifiers en Linux. Esto significa que los usuarios pueden disfrutar de mejoras en el rendimiento y compatibilidad con aplicaciones de gráficos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-14-amd-gpus-antiguas-ganan-con-soporte-drm-format-modifier.md"
+    },
+    {
+      "title": "Fedora se replantea su iniciativa de escritorio para desarrolladores de IA",
+      "category": "linux",
+      "date": "2026-05-14",
+      "slug": "fedora-se-replantea-su-iniciativa-de-escritorio-para-de",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Fedora se ha dividido sobre la creación de un escritorio para desarrolladores de inteligencia artificial. Aunque el consejo de Fedora aprobó inicialmente la iniciativa, un miembro del consejo ha cambiado de opinión y la ha…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-14-fedora-se-replantea-su-iniciativa-de-escritorio-para-de.md"
+    },
+    {
+      "title": "Linux Driver para Intel Silicon Security Engine Interface: una actualización importante",
+      "category": "linux",
+      "date": "2026-05-14",
+      "slug": "linux-driver-para-intel-silicon-security-engine-interfa",
+      "tags": [
+        "linux",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La empresa Intel ha lanzado un driver Linux para la Intel Silicon Security Engine Interface (ISSEI), que es una tecnología de seguridad integrada en los procesadores Intel. Esta actualización es relevante porque permitirá a los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-14-linux-driver-para-intel-silicon-security-engine-interfa.md"
+    },
+    {
       "title": "Dispositivo inteligente de válvula de agua con medidor de flujo y dos canales",
       "category": "embebidos",
       "date": "2026-05-13",
