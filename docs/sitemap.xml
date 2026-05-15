@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-14</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-15</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-15</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-15-ayuda-para-soldar-con-impresion-3d-y-clip-de-resorte.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-15-m5stack-papercolor-el-primer-kit-de-desarrollo-con-pant.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-15-lampara-ambiental-led-con-esp32-y-impresion-3d.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-15-un-robot-familiar-que-se-adapta-a-tu-vida-y-te-ayuda-a-.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-15-actualizacion-de-paquetes-ros-2-humble-hawksbill.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-15-hello-robot-establece-el-estandar-para-robots-de-hogar-.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-05-15-acelera-tu-impresora-3d-con-un-nintendo-switch.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-15-inteligencia-artificial-para-manos-roboticas-con-habili.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-15-codex-de-openai-llega-a-dispositivos-moviles.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-15-un-motor-de-bicicleta-electrica-disenado-desde-cero.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-15-mejoras-en-escritura-de-datos-en-linux-buffered-atomic-.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-15-clim-una-solucion-para-garantizar-la-integridad-del-com.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-15-vulnerabilidad-en-linux-permite-leer-archivos-de-root-a.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-15-yocto-project-60-una-version-lts-de-linux-para-sistemas.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-15-mejoras-en-la-gestion-de-memoria-del-kernel-de-linux.md</loc><lastmod>2026-05-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-14-caja-de-exhibicion-con-pantalla-led-y-compartimiento-se.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-14-nueva-caja-para-raspberry-pi-5-con-mecanismo-de-boton-i.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-14-nextpcb-lanza-rev-0-pcba-un-servicio-de-ensamblaje-auto.md</loc><lastmod>2026-05-14</lastmod><priority>0.8</priority></url>

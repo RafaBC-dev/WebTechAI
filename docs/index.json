@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Ayuda para soldar con impresión 3D y clip de resorte",
+      "category": "embebidos",
+      "date": "2026-05-15",
+      "slug": "ayuda-para-soldar-con-impresion-3d-y-clip-de-resorte",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "herramientas"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una herramienta innovadora para ayudar a los electrónicos a soldar con precisión. Este proyecto imprescindible es un ejemplo de la creatividad y la dedicación de los makers.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-15-ayuda-para-soldar-con-impresion-3d-y-clip-de-resorte.md"
+    },
+    {
+      "title": "M5Stack PaperColor: el primer kit de desarrollo con pantalla E Ink color",
+      "category": "embebidos",
+      "date": "2026-05-15",
+      "slug": "m5stack-papercolor-el-primer-kit-de-desarrollo-con-pant",
+      "tags": [
+        "robotica",
+        "esp32",
+        "arduino",
+        "linux"
+      ],
+      "preview": "M5Stack ha lanzado el M5Paper Color, un kit de desarrollo con pantalla E Ink color que revoluciona la forma en que se visualizan los datos en dispositivos electrónicos. Con una pantalla de 4 pulgadas y una resolución de 600x400, este kit…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-15-m5stack-papercolor-el-primer-kit-de-desarrollo-con-pant.md"
+    },
+    {
+      "title": "Lámpara ambiental LED con ESP32 y impresión 3D",
+      "category": "embebidos",
+      "date": "2026-05-15",
+      "slug": "lampara-ambiental-led-con-esp32-y-impresion-3d",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "esp32"
+      ],
+      "preview": "Adafruit presenta una lámpara ambiental compacta que combina una LED ring WS2812B con un ESP32 D1 Mini y una conexión USB-C. Esta creación es ideal para integrarse con Home Assistant y otras configuraciones de automatización WLED.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-15-lampara-ambiental-led-con-esp32-y-impresion-3d.md"
+    },
+    {
+      "title": "Un robot familiar que se adapta a tu vida y te ayuda a establecer hábitos saludables",
+      "category": "robotica",
+      "date": "2026-05-15",
+      "slug": "un-robot-familiar-que-se-adapta-a-tu-vida-y-te-ayuda-a-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Colin Angle, fundador de iRobot, ha lanzado una nueva empresa llamada Familiar Machines & Magic, que desarrolla robots capaces de interactuar con las personas de manera natural y adaptativa. El primer robot, llamado Familiar, es un…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-15-un-robot-familiar-que-se-adapta-a-tu-vida-y-te-ayuda-a-.md"
+    },
+    {
+      "title": "Actualización de paquetes ROS 2 Humble Hawksbill",
+      "category": "robotica",
+      "date": "2026-05-15",
+      "slug": "actualizacion-de-paquetes-ros-2-humble-hawksbill",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha anunciado la actualización de 86 nuevos paquetes y 565 actualizaciones para la versión Humble Hawksbill. Esta actualización es importante para desarrolladores de robótica y sistemas embebidos que utilizan ROS 2.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-15-actualizacion-de-paquetes-ros-2-humble-hawksbill.md"
+    },
+    {
+      "title": "Hello Robot establece el estándar para robots de hogar seguros y prácticos",
+      "category": "robotica",
+      "date": "2026-05-15",
+      "slug": "hello-robot-establece-el-estandar-para-robots-de-hogar-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La compañía Hello Robot ha lanzado su robot Stretch 4, un robot diseñado para realizar tareas prácticas y seguras en el hogar. Este robot es el resultado de la experiencia de la empresa en la creación de robots de investigación y es ahora…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-15-hello-robot-establece-el-estandar-para-robots-de-hogar-.md"
+    },
+    {
+      "title": "Acelera tu impresora 3D con un Nintendo Switch",
+      "category": "diseño-3d",
+      "date": "2026-05-15",
+      "slug": "acelera-tu-impresora-3d-con-un-nintendo-switch",
+      "tags": [
+        "diseño-3d",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "Un ingeniero ha encontrado una forma innovadora de mejorar el rendimiento de su impresora 3D Prusa MK3S. Utilizando un Nintendo Switch como plataforma para ejecutar Klipper, ha logrado acelerar significativamente el proceso de impresión.",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-05-15-acelera-tu-impresora-3d-con-un-nintendo-switch.md"
+    },
+    {
+      "title": "Inteligencia Artificial para manos robóticas con habilidades humanas",
+      "category": "ia",
+      "date": "2026-05-15",
+      "slug": "inteligencia-artificial-para-manos-roboticas-con-habili",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "python"
+      ],
+      "preview": "La inteligencia artificial (IA) ha logrado dar a las manos robóticas la capacidad de manipular objetos con la misma habilidad que los humanos. Esto ha sido posible gracias al desarrollo de un sistema de IA llamado GENE-26.5, que permite a…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-15-inteligencia-artificial-para-manos-roboticas-con-habili.md"
+    },
+    {
+      "title": "Codex de OpenAI llega a dispositivos móviles",
+      "category": "ia",
+      "date": "2026-05-15",
+      "slug": "codex-de-openai-llega-a-dispositivos-moviles",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "OpenAI ha integrado su herramienta de codificación Codex en la aplicación ChatGPT, permitiendo a los usuarios supervisar y gestionar sus flujos de trabajo de desarrollo de manera remota. Esto abre nuevas posibilidades para la colaboración…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-15-codex-de-openai-llega-a-dispositivos-moviles.md"
+    },
+    {
+      "title": "Un motor de bicicleta eléctrica diseñado desde cero",
+      "category": "ia",
+      "date": "2026-05-15",
+      "slug": "un-motor-de-bicicleta-electrica-disenado-desde-cero",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Una ingeniera ha diseñado y construido un motor de bicicleta eléctrica desde cero, sin utilizar componentes comerciales. Este proyecto demuestra la capacidad de crear tecnología innovadora a través de la experimentación y la innovación.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-15-un-motor-de-bicicleta-electrica-disenado-desde-cero.md"
+    },
+    {
+      "title": "Mejoras en escritura de datos en Linux: buffered atomic writes y más",
+      "category": "linux",
+      "date": "2026-05-15",
+      "slug": "mejoras-en-escritura-de-datos-en-linux-buffered-atomic-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "En el Linux Storage, Filesystem, Memory Management y BPF Summit, se discutió una característica importante para mejorar la escritura de datos en Linux. Esta característica, llamada buffered atomic writes, busca resolver problemas de…",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-15-mejoras-en-escritura-de-datos-en-linux-buffered-atomic-.md"
+    },
+    {
+      "title": "CLIM: una solución para garantizar la integridad del comando y la confiabilidad en la robótica",
+      "category": "linux",
+      "date": "2026-05-15",
+      "slug": "clim-una-solucion-para-garantizar-la-integridad-del-com",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Open-RMF ha desarrollado una herramienta llamada CLIM, que permite a los robots reportar no solo retrasos, sino también por qué la ventana de ejecución del comando y la retroalimentación ya no es confiable. Esto es…",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-15-clim-una-solucion-para-garantizar-la-integridad-del-com.md"
+    },
+    {
+      "title": "Vulnerabilidad en Linux permite leer archivos de root a usuarios no privilegiados",
+      "category": "linux",
+      "date": "2026-05-15",
+      "slug": "vulnerabilidad-en-linux-permite-leer-archivos-de-root-a",
+      "tags": [
+        "linux",
+        "seguridad",
+        "vulnerabilidad"
+      ],
+      "preview": "La comunidad de Linux ha detectado una nueva vulnerabilidad que permite a usuarios no privilegiados leer archivos de propiedad de root. Esta vulnerabilidad, llamada ssh-keysign-pwn, ha sido informada por Qualys y ya ha sido corregida en el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-15-vulnerabilidad-en-linux-permite-leer-archivos-de-root-a.md"
+    },
+    {
+      "title": "Yocto Project 6.0: una versión LTS de Linux para sistemas embebidos",
+      "category": "linux",
+      "date": "2026-05-15",
+      "slug": "yocto-project-60-una-version-lts-de-linux-para-sistemas",
+      "tags": [
+        "linux",
+        "embebidos",
+        "codigo"
+      ],
+      "preview": "La comunidad de Yocto Project ha lanzado la versión 6.0 de su framework, que incluye Linux 6.18 LTS y una serie de mejoras importantes. Esta versión es especialmente relevante debido a su soporte largo plazo de 4 años y su mejora en la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-15-yocto-project-60-una-version-lts-de-linux-para-sistemas.md"
+    },
+    {
+      "title": "Mejoras en la gestión de memoria del kernel de Linux",
+      "category": "linux",
+      "date": "2026-05-15",
+      "slug": "mejoras-en-la-gestion-de-memoria-del-kernel-de-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux ha mejorado significativamente en la gestión de recursos, pero sigue habiendo áreas donde se necesita más trabajo. Chris Li, experto en memoria, presentó una propuesta para mejorar la gestión de memoria en el kernel de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-15-mejoras-en-la-gestion-de-memoria-del-kernel-de-linux.md"
+    },
+    {
       "title": "Caja de exhibición con pantalla LED y compartimiento secreto",
       "category": "embebidos",
       "date": "2026-05-14",
