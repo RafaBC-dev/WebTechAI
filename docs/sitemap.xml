@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-16</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-hello-robot-establece-el-estandar-para-robots-de-hoga-2.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-maquinas-roboticas-pesadas-operan-de-manera-autonoma-en.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-qerra-v2-motor-de-evaluacion-etica-explicable-para-robo.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-asimov-un-robot-humanoide-abierto-para-todos.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-arxiv-prohibe-a-autores-que-usen-llms-sin-revision.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-analisis-del-desafio-aic-lecciones-aprendidas-y-camino-.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-inteligencia-artificial-para-manos-roboticas-con-habi-2.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-claude-desktop-buddy-un-companero-de-escritorio-inter-2.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-greg-brockman-asume-el-liderazgo-de-la-estrategia-de-pr.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-m5stack-papercolor-el-primer-kit-de-desarrollo-con-pa-2.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-circuitpython-1030-alpha2-nueva-version-con-mejoras-y-c.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-penox-wristbuds-un-reloj-inteligente-con-audifonos-tws-.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-preservacion-de-memoria-durante-actualizaciones-en-vivo.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-windows-ce-en-nintendo-64-un-desafio-tecnologico-lograd.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-convirtiendo-tu-macropad-en-un-mago-de-atajos.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-nueva-version-de-stretch-4-un-robot-para-tareas-domesti.md</loc><lastmod>2026-05-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-maquina-robotica-autonoma-maneja-materiales-pesados-con.md</loc><lastmod>2026-05-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-qerra-v2-una-herramienta-de-evaluacion-etica-explicable.md</loc><lastmod>2026-05-16</lastmod><priority>0.8</priority></url>

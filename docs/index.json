@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Hello Robot establece el estándar para robots de hogar seguros y prácticos",
+      "category": "robotica",
+      "date": "2026-05-17",
+      "slug": "hello-robot-establece-el-estandar-para-robots-de-hoga-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa Hello Robot ha lanzado su robot Stretch 4, diseñado para realizar tareas prácticas y seguras en el hogar. Este robot es el resultado de una evolución de la tecnología de robótica para adaptarse a las necesidades reales de los…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-17-hello-robot-establece-el-estandar-para-robots-de-hoga-2.md"
+    },
+    {
+      "title": "Máquinas robóticas pesadas operan de manera autónoma en la industria",
+      "category": "robotica",
+      "date": "2026-05-17",
+      "slug": "maquinas-roboticas-pesadas-operan-de-manera-autonoma-en",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "automatizacion"
+      ],
+      "preview": "La empresa ETH Zurich ha desarrollado un sistema de manipulación de materiales autónomo que puede manejar cargas pesadas de manera segura y eficiente. Este avance tiene importantes implicaciones para la industria, ya que puede reducir la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-17-maquinas-roboticas-pesadas-operan-de-manera-autonoma-en.md"
+    },
+    {
+      "title": "QERRA-v2: motor de evaluación ética explicable para robots",
+      "category": "robotica",
+      "date": "2026-05-17",
+      "slug": "qerra-v2-motor-de-evaluacion-etica-explicable-para-robo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado QERRA-v2, un motor de evaluación ética que permite a los robots tomar decisiones informadas y transparentes. Este sistema utiliza 12 vectores humanos inmutables para evaluar situaciones y devuelve…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-17-qerra-v2-motor-de-evaluacion-etica-explicable-para-robo.md"
+    },
+    {
+      "title": "Asimov: un robot humanoide abierto para todos",
+      "category": "robotica",
+      "date": "2026-05-17",
+      "slug": "asimov-un-robot-humanoide-abierto-para-todos",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica humanoide se ha vuelto más accesible gracias a Asimov, un robot abierto que permite a cualquier persona experimentar con tecnología de vanguardia. Después de años de proyectos costosos y cerrados, Asimov es un cambio de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-17-asimov-un-robot-humanoide-abierto-para-todos.md"
+    },
+    {
+      "title": "ArXiv prohíbe a autores que usen LLMs sin revisión",
+      "category": "ia",
+      "date": "2026-05-17",
+      "slug": "arxiv-prohibe-a-autores-que-usen-llms-sin-revision",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "La plataforma de investigación ArXiv adopta medidas para evitar la publicación de artículos generados por inteligencia artificial sin revisión. Esto se debe a que muchos de estos artículos contienen errores, plagios o contenido sesgado.",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-17-arxiv-prohibe-a-autores-que-usen-llms-sin-revision.md"
+    },
+    {
+      "title": "Análisis del desafío AIC: lecciones aprendidas y camino a seguir",
+      "category": "ia",
+      "date": "2026-05-17",
+      "slug": "analisis-del-desafio-aic-lecciones-aprendidas-y-camino-",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "El desafío AIC ha concluido su fase de calificación y los participantes están buscando mejorar sus resultados. En este artículo, se analiza qué se puede hacer mejor para mejorar los resultados en este desafío.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-17-analisis-del-desafio-aic-lecciones-aprendidas-y-camino-.md"
+    },
+    {
+      "title": "Inteligencia artificial para manos robóticas con habilidades humanas",
+      "category": "ia",
+      "date": "2026-05-17",
+      "slug": "inteligencia-artificial-para-manos-roboticas-con-habi-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La inteligencia artificial ha logrado dar a las manos robóticas la capacidad de realizar tareas complejas con la misma precisión que un ser humano. Esto ha sido posible gracias al desarrollo de un sistema de control avanzado que permite a…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-17-inteligencia-artificial-para-manos-roboticas-con-habi-2.md"
+    },
+    {
+      "title": "Claude Desktop Buddy: un compañero de escritorio interactivo con IA",
+      "category": "ia",
+      "date": "2026-05-17",
+      "slug": "claude-desktop-buddy-un-companero-de-escritorio-inter-2",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "esp32"
+      ],
+      "preview": "Anthropic ha liberado un proyecto de código abierto llamado Claude Desktop Buddy, que convierte dispositivos ESP32-S3 en compañeros de escritorio interactivos con IA. Esto permite a los usuarios interactuar con el agente de IA Claude de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-17-claude-desktop-buddy-un-companero-de-escritorio-inter-2.md"
+    },
+    {
+      "title": "Greg Brockman asume el liderazgo de la estrategia de productos en OpenAI",
+      "category": "ia",
+      "date": "2026-05-17",
+      "slug": "greg-brockman-asume-el-liderazgo-de-la-estrategia-de-pr",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Greg Brockman, cofundador y presidente de OpenAI, asume el liderazgo de la estrategia de productos de la empresa mientras su CEO, Fidji Simo, está en licencia médica. Esto se suma a la reestructuración de la empresa, que busca enfocarse en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-17-greg-brockman-asume-el-liderazgo-de-la-estrategia-de-pr.md"
+    },
+    {
+      "title": "M5Stack PaperColor: el primer kit de desarrollo con pantalla de papel color",
+      "category": "embebidos",
+      "date": "2026-05-17",
+      "slug": "m5stack-papercolor-el-primer-kit-de-desarrollo-con-pa-2",
+      "tags": [
+        "robotica",
+        "esp32",
+        "arduino",
+        "linux"
+      ],
+      "preview": "M5Stack ha lanzado su primer kit de desarrollo con pantalla de papel color, el M5Paper Color, que combina una pantalla de papel color con un procesador ESP32-S3 y una variedad de sensores y conectividad.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-17-m5stack-papercolor-el-primer-kit-de-desarrollo-con-pa-2.md"
+    },
+    {
+      "title": "CircuitPython 10.3.0-alpha.2: Nueva versión con mejoras y correcciones",
+      "category": "embebidos",
+      "date": "2026-05-17",
+      "slug": "circuitpython-1030-alpha2-nueva-version-con-mejoras-y-c",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La comunidad de CircuitPython ha lanzado una nueva versión alpha de su firmware, con mejoras en la estabilidad y correcciones de errores en varias platinas. Esta versión es una actualización importante para los desarrolladores que trabajan…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-17-circuitpython-1030-alpha2-nueva-version-con-mejoras-y-c.md"
+    },
+    {
+      "title": "PENOX WristBuds: un reloj inteligente con audífonos TWS integrados",
+      "category": "embebidos",
+      "date": "2026-05-17",
+      "slug": "penox-wristbuds-un-reloj-inteligente-con-audifonos-tws-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "PENOX WristBuds es un reloj inteligente con audífonos TWS integrados que elimina la necesidad de un caso de carga separado. Diseñado para entusiastas del exterior y el mercado de movilidad sin desorden.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-17-penox-wristbuds-un-reloj-inteligente-con-audifonos-tws-.md"
+    },
+    {
+      "title": "Preservación de memoria durante actualizaciones en vivo del kernel Linux",
+      "category": "linux",
+      "date": "2026-05-17",
+      "slug": "preservacion-de-memoria-durante-actualizaciones-en-vivo",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel Linux ha sido mejorado con la capacidad de realizar actualizaciones en vivo, pero aún faltan detalles importantes. La preservación de memoria durante este proceso es uno de ellos. Pratyush Yadav ha liderado un esfuerzo para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-17-preservacion-de-memoria-durante-actualizaciones-en-vivo.md"
+    },
+    {
+      "title": "Windows CE en Nintendo 64: un desafío tecnológico logrado",
+      "category": "linux",
+      "date": "2026-05-17",
+      "slug": "windows-ce-en-nintendo-64-un-desafio-tecnologico-lograd",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha logrado ejecutar Windows CE en un Nintendo 64, demostrando la versatilidad de la plataforma. Este logro abre nuevas posibilidades para la comunidad de desarrolladores.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-17-windows-ce-en-nintendo-64-un-desafio-tecnologico-lograd.md"
+    },
+    {
+      "title": "Convirtiendo tu Macropad en un mago de atajos",
+      "category": "linux",
+      "date": "2026-05-17",
+      "slug": "convirtiendo-tu-macropad-en-un-mago-de-atajos",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Descubre cómo transformar tu Macropad en un poderoso herramienta para automatizar tareas y mejorar tu productividad. Con la guía de Adafruit, podrás crear atajos personalizados y configurar tus aplicaciones favoritas de manera sencilla.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-17-convirtiendo-tu-macropad-en-un-mago-de-atajos.md"
+    },
+    {
       "title": "Nueva versión de Stretch 4: un robot para tareas domésticas prácticas y seguras",
       "category": "robotica",
       "date": "2026-05-16",
