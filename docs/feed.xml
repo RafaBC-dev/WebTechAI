@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 09:00:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 10:56:17 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Hello Robot establece el estándar para robots seguros y prácticos para hogares</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-hello-robot-establece-el-estandar-para-robots-seguros-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-hello-robot-establece-el-estandar-para-robots-seguros-2.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa Hello Robot ha lanzado una nueva versión de su robot Stretch, diseñado para realizar tareas prácticas y seguras en el hogar. Este robot es una opción más asequible y accesible para las personas que buscan una solución para sus…</description>
+  </item>
+  <item>
+    <title>QERRA-v2: Motor de Evaluación Ética para Robótica con ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-qerra-v2-motor-de-evaluacion-etica-para-robotica-con-ro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-qerra-v2-motor-de-evaluacion-etica-para-robotica-con-ro.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de desarrolladores ha creado QERRA-v2, un motor de evaluación ética para robótica que utiliza 12 vectores humanocentristas para evaluar la conducta de los robots. Este sistema es completamente explorable y regresa puntuaciones y…</description>
+  </item>
+  <item>
+    <title>Máquinas robóticas pesadas operan de forma autónoma</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-maquinas-roboticas-pesadas-operan-de-forma-autonoma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-maquinas-roboticas-pesadas-operan-de-forma-autonoma.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa ETH Zurich ha desarrollado un sistema de manipulación de materiales autónomo que puede operar en entornos industriales pesados. Este sistema ha sido probado en un manipulador de materiales de 40 toneladas en un entorno real. La…</description>
+  </item>
+  <item>
+    <title>Construye un sistema de agarre de robot con Isaac Lab y NERO Arm</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-construye-un-sistema-de-agarre-de-robot-con-isaac-lab-y.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-construye-un-sistema-de-agarre-de-robot-con-isaac-lab-y.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El proyecto NERO Arm permite a los desarrolladores crear sistemas de agarre para robots utilizando la plataforma Isaac Lab de NVIDIA. Esta tecnología es relevante ahora mismo debido a su aplicación en la automatización y la robótica…</description>
+  </item>
+  <item>
+    <title>Herramienta de pruebas automatizadas para pila de autonomía de ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-herramienta-de-pruebas-automatizadas-para-pila-de-auton.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-herramienta-de-pruebas-automatizadas-para-pila-de-auton.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los equipos de robótica enfrentan desafíos en la pruebas de autonomía de sus sistemas. Una herramienta de pruebas automatizadas podría mejorar la eficiencia y reducir errores.</description>
+  </item>
+  <item>
+    <title>Inteligencia artificial para manos robóticas con habilidades humanas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-inteligencia-artificial-para-manos-roboticas-con-habi-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-inteligencia-artificial-para-manos-roboticas-con-habi-3.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La inteligencia artificial (IA) ha alcanzado un nuevo hito con la creación de GENE-26.5, un 'cerebro' que permite a los robots realizar tareas físicas con la misma destreza que los humanos. Esto ha sido posible gracias a la combinación de…</description>
+  </item>
+  <item>
+    <title>AMD promueve macOS a estado de producción en su SDK para IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-amd-promueve-macos-a-estado-de-produccion-en-su-sdk-par.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-amd-promueve-macos-a-estado-de-produccion-en-su-sdk-par.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>AMD ha lanzado la versión 10.5 de su SDK Lemonade para IA, lo que permite a los desarrolladores aprovechar al máximo sus GPUs y NPUs para modelos de lenguaje grande. Ahora, la plataforma también es compatible con macOS, lo que abre nuevas…</description>
+  </item>
+  <item>
+    <title>Reutiliza pantallas de laptops obsoletas como monitores portátiles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-reutiliza-pantallas-de-laptops-obsoletas-como-monitores.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-reutiliza-pantallas-de-laptops-obsoletas-como-monitores.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>¿Por qué tirar pantallas de laptops funcionales cuando se pueden convertir en monitores portátiles? Un proyecto reciente muestra cómo hacerlo de manera sencilla y económica.</description>
+  </item>
+  <item>
+    <title>¿Puede confiar en Sam Altman? La cuestión de la confianza en el juicio de OpenAI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-puede-confiar-en-sam-altman-la-cuestion-de-la-confianza.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-puede-confiar-en-sam-altman-la-cuestion-de-la-confianza.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El juicio de OpenAI ha puesto de relieve la importancia de la confianza en la toma de decisiones tecnológicas. La cuestión de si Sam Altman, CEO de OpenAI, es confiable ha sido un tema central en el juicio. Pero ¿qué significa ser…</description>
+  </item>
+  <item>
+    <title>La reacción de los estudiantes ante la IA en las ceremonias de graduación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-la-reaccion-de-los-estudiantes-ante-la-ia-en-las-ceremo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-la-reaccion-de-los-estudiantes-ante-la-ia-en-las-ceremo.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>En varias ceremonias de graduación en 2026, los estudiantes han mostrado una reacción negativa ante la mencionada IA, lo que sugiere un cambio en la percepción de esta tecnología.</description>
+  </item>
+  <item>
+    <title>Modem 5G RedCap y 4G LTE compacto para IoT industrial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-18-modem-5g-redcap-y-4g-lte-compacto-para-iot-industrial.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-18-modem-5g-redcap-y-4g-lte-compacto-para-iot-industrial.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Semtech ha lanzado el modem FX86E, un dispositivo compacto que combina la conectividad 5G RedCap y 4G LTE para aplicaciones industriales de IoT. Este modem es ideal para cámaras de seguridad resistentes, vehículos pesados y dispositivos…</description>
+  </item>
+  <item>
+    <title>Evalúo board con Wi-Fi 6, Bluetooth 5.4 y 802.15.4 a un precio inmejorable</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-18-evaluo-board-con-wi-fi-6-bluetooth-54-y-802154-a-un-pre.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-18-evaluo-board-con-wi-fi-6-bluetooth-54-y-802154-a-un-pre.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Bouffalo Lab ha lanzado un evalúo board llamado BL618, que es básicamente igual que el Qualcomm QCC74xM EVK. Este board ofrece Wi-Fi 6, Bluetooth 5.4 y 802.15.4 a un precio increíblemente bajo de solo $13.</description>
+  </item>
+  <item>
+    <title>gkh_clanker_t1000 y gkh_clanker_2000 descubren errores en el núcleo de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-gkh-clanker-t1000-y-gkh-clanker-2000-descubren-errores-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-gkh-clanker-t1000-y-gkh-clanker-2000-descubren-errores-.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Greg Kroah-Hartman, el segundo en comando del núcleo de Linux, está utilizando herramientas de pruebas aleatorias de IA para encontrar errores en el código. Estas herramientas, llamadas gkh_clanker_t1000 y gkh_clanker_2000, están ayudando…</description>
+  </item>
+  <item>
+    <title>Nueva versión de Linux 7.1-rc4 con correcciones y documentación de seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-nueva-version-de-linux-71-rc4-con-correcciones-y-docume.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-nueva-version-de-linux-71-rc4-con-correcciones-y-docume.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.1-rc4 de Linux ha sido lanzada con una serie de correcciones y mejoras importantes, incluyendo la documentación de seguridad y el uso responsable de inteligencia artificial en el desarrollo del kernel.</description>
+  </item>
+  <item>
+    <title>Crea tus gafas de NeoPixel con un efecto de escáner de estilo cyberpunk</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-crea-tus-gafas-de-neopixel-con-un-efecto-de-escaner-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-crea-tus-gafas-de-neopixel-con-un-efecto-de-escaner-de-.md</guid>
+    <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>¿Quieres crear un proyecto de moda con un toque de ciencia ficción? Con las gafas de NeoPixel, puedes crear un efecto de escáner de estilo cyberpunk que hará que te sientas como un personaje de una película de acción. En este artículo, te…</description>
+  </item>
   <item>
     <title>Hello Robot establece el estándar para robots de hogar seguros y prácticos</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-hello-robot-establece-el-estandar-para-robots-de-hoga-2.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Descubre cómo transformar tu Macropad en un poderoso herramienta para automatizar tareas y mejorar tu productividad. Con la guía de Adafruit, podrás crear atajos personalizados y configurar tus aplicaciones favoritas de manera sencilla.</description>
-  </item>
-  <item>
-    <title>Nueva versión de Stretch 4: un robot para tareas domésticas prácticas y seguras</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-nueva-version-de-stretch-4-un-robot-para-tareas-domesti.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-nueva-version-de-stretch-4-un-robot-para-tareas-domesti.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Después de años de promesas vacías, una empresa de robótica ha lanzado una versión actualizada de su robot Stretch, diseñado para realizar tareas domésticas de manera práctica y segura. Este avance podría cambiar la forma en que vivimos y…</description>
-  </item>
-  <item>
-    <title>Máquina robótica autónoma maneja materiales pesados con precisión</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-maquina-robotica-autonoma-maneja-materiales-pesados-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-maquina-robotica-autonoma-maneja-materiales-pesados-con.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una máquina robótica de 40 toneladas ha sido equipada con una solución de manejo de materiales autónoma, revolucionando la industria de la manipulación de materiales pesados. Esta innovación reduce la necesidad de operarios humanos y…</description>
-  </item>
-  <item>
-    <title>QERRA-v2: una herramienta de evaluación ética explicable para robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-qerra-v2-una-herramienta-de-evaluacion-etica-explicable.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-16-qerra-v2-una-herramienta-de-evaluacion-etica-explicable.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de desarrolladores ha creado QERRA-v2, una herramienta de evaluación ética que utiliza 12 vectores centrados en el ser humano para evaluar la conducta de robots. Esta herramienta es especialmente útil en entornos de robótica y…</description>
-  </item>
-  <item>
-    <title>Nuevos chatbots para buscar documentación de Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-nuevos-chatbots-para-buscar-documentacion-de-raspberry-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-nuevos-chatbots-para-buscar-documentacion-de-raspberry-.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Raspberry Pi está experimentando con chatbots que permiten buscar documentación de manera más eficiente y efectiva. Estos chatbots utilizan tecnologías de inteligencia artificial para proporcionar respuestas precisas y relevantes a las…</description>
-  </item>
-  <item>
-    <title>Aprendizajes del desafío AIC y qué sigue</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-aprendizajes-del-desafio-aic-y-que-sigue.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-aprendizajes-del-desafio-aic-y-que-sigue.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de robótica comparte sus experiencias y resultados en el desafío AIC, un reto de aprendizaje automático para robots. Aunque no lograron resultados óptimos, buscan entender qué falló y cómo mejorar.</description>
-  </item>
-  <item>
-    <title>Inteligencia artificial para manos robóticas con destreza humana</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-inteligencia-artificial-para-manos-roboticas-con-dest-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-inteligencia-artificial-para-manos-roboticas-con-dest-2.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La inteligencia artificial ha logrado un gran avance en la robótica con la creación de manos robóticas que pueden realizar tareas con la misma destreza que los humanos. Esto abre nuevas posibilidades para la automatización y la…</description>
-  </item>
-  <item>
-    <title>Claude Desktop Buddy: un compañero de escritorio interactivo para dispositivos ESP32-S3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-claude-desktop-buddy-un-companero-de-escritorio-interac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-claude-desktop-buddy-un-companero-de-escritorio-interac.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Anthropic ha lanzado una interfaz de hardware abierta para dispositivos ESP32-S3, permitiendo crear compañeros de escritorio interactivos que conecten directamente con la aplicación Claude sobre Bluetooth Low Energy (BLE).</description>
-  </item>
-  <item>
-    <title>El juicio de OpenAI termina, pero la pregunta sigue: ¿puedemos confiar en los creadores de IA?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-el-juicio-de-openai-termina-pero-la-pregunta-sigue-pued.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-16-el-juicio-de-openai-termina-pero-la-pregunta-sigue-pued.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El juicio entre Elon Musk y Sam Altman ha llegado a su fin, pero la cuestión de la confianza en los creadores de inteligencia artificial sigue siendo relevante. Mientras tanto, la empresa SpaceX se acerca a una de las mayores ofertas…</description>
-  </item>
-  <item>
-    <title>PENOX WristBuds: reloj inteligente con TWS oídos con Bluetooth 6.0</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-penox-wristbuds-reloj-inteligente-con-tws-oidos-con-blu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-penox-wristbuds-reloj-inteligente-con-tws-oidos-con-blu.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>PENOX WristBuds es un reloj inteligente innovador que combina la funcionalidad de un reloj y la comodidad de un dispositivo de audio inalámbrico. Con su diseño rígido y resistente al agua, está diseñado para aventureros y personas que…</description>
-  </item>
-  <item>
-    <title>M5Stack PaperColor: un kit de desarrollo con pantalla E Ink color</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-m5stack-papercolor-un-kit-de-desarrollo-con-pantalla-e-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-m5stack-papercolor-un-kit-de-desarrollo-con-pantalla-e-.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>M5Stack ha lanzado un nuevo kit de desarrollo llamado PaperColor, que combina una pantalla E Ink color con un procesador ESP32-S3. Esto permite crear dispositivos con bajo consumo de energía y alta visibilidad</description>
-  </item>
-  <item>
-    <title>CircuitPython 10.3.0-alpha.2: Nueva versión con mejoras y arreglos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-circuitpython-1030-alpha2-nueva-version-con-mejoras-y-a.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-circuitpython-1030-alpha2-nueva-version-con-mejoras-y-a.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La versión alpha 2 de CircuitPython 10.3.0 ha sido lanzada, con mejoras en la estabilidad y funcionalidad de la plataforma. Esta versión incluye arreglos importantes para evitar crash en ciertos tableros y mejoras en la calidad de la…</description>
-  </item>
-  <item>
-    <title>Reloj lunar con Raspberry Pi y pantalla E-Paper</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-reloj-lunar-con-raspberry-pi-y-pantalla-e-paper.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-16-reloj-lunar-con-raspberry-pi-y-pantalla-e-paper.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un entusiasta ha creado un reloj lunar que muestra la fase actual del satélite y los horarios de las mareas en un puerto del Reino Unido. Este proyecto es un ejemplo de cómo la tecnología puede ser utilizada para crear dispositivos útiles…</description>
-  </item>
-  <item>
-    <title>Preservación de memoria HugeTLB en actualizaciones en vivo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-16-preservacion-de-memoria-hugetlb-en-actualizaciones-en-v.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-16-preservacion-de-memoria-hugetlb-en-actualizaciones-en-v.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El proyecto de actualización en vivo del kernel Linux ha avanzado en los últimos tiempos, pero aún falta una pieza clave: preservar la memoria HugeTLB durante la actualización. Esto es crucial para evitar problemas de rendimiento y…</description>
-  </item>
-  <item>
-    <title>Documentación para reportar bugs de seguridad en el núcleo de Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-16-documentacion-para-reportar-bugs-de-seguridad-en-el-nuc.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-16-documentacion-para-reportar-bugs-de-seguridad-en-el-nuc.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El núcleo de Linux ha agregado documentación para ayudar a los desarrolladores a reportar bugs de seguridad de manera efectiva. Esto se debe a la reciente afluencia de bugs de seguridad y la creciente utilización de inteligencia artificial…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi ayuda a proteger vida silvestre y comunidades en Pakistán</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-16-raspberry-pi-ayuda-a-proteger-vida-silvestre-y-comunida.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-16-raspberry-pi-ayuda-a-proteger-vida-silvestre-y-comunida.md</guid>
-    <pubDate>Sat, 16 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>En las montañas de Gilgit-Baltistan, Pakistán, la coexistencia entre humanos y vida silvestre es un desafío. La WWF-Pakistán y la Universidad de Lahore han desarrollado un sistema de alerta temprana para proteger a los pastores y a sus…</description>
   </item>
 </channel>
 </rss>

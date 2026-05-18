@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Hello Robot establece el estándar para robots seguros y prácticos para hogares",
+      "category": "robotica",
+      "date": "2026-05-18",
+      "slug": "hello-robot-establece-el-estandar-para-robots-seguros-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa Hello Robot ha lanzado una nueva versión de su robot Stretch, diseñado para realizar tareas prácticas y seguras en el hogar. Este robot es una opción más asequible y accesible para las personas que buscan una solución para sus…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-18-hello-robot-establece-el-estandar-para-robots-seguros-2.md"
+    },
+    {
+      "title": "QERRA-v2: Motor de Evaluación Ética para Robótica con ROS 2",
+      "category": "robotica",
+      "date": "2026-05-18",
+      "slug": "qerra-v2-motor-de-evaluacion-etica-para-robotica-con-ro",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado QERRA-v2, un motor de evaluación ética para robótica que utiliza 12 vectores humanocentristas para evaluar la conducta de los robots. Este sistema es completamente explorable y regresa puntuaciones y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-18-qerra-v2-motor-de-evaluacion-etica-para-robotica-con-ro.md"
+    },
+    {
+      "title": "Máquinas robóticas pesadas operan de forma autónoma",
+      "category": "robotica",
+      "date": "2026-05-18",
+      "slug": "maquinas-roboticas-pesadas-operan-de-forma-autonoma",
+      "tags": [
+        "robotica",
+        "automatizacion",
+        "linux"
+      ],
+      "preview": "La empresa ETH Zurich ha desarrollado un sistema de manipulación de materiales autónomo que puede operar en entornos industriales pesados. Este sistema ha sido probado en un manipulador de materiales de 40 toneladas en un entorno real. La…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-18-maquinas-roboticas-pesadas-operan-de-forma-autonoma.md"
+    },
+    {
+      "title": "Construye un sistema de agarre de robot con Isaac Lab y NERO Arm",
+      "category": "robotica",
+      "date": "2026-05-18",
+      "slug": "construye-un-sistema-de-agarre-de-robot-con-isaac-lab-y",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El proyecto NERO Arm permite a los desarrolladores crear sistemas de agarre para robots utilizando la plataforma Isaac Lab de NVIDIA. Esta tecnología es relevante ahora mismo debido a su aplicación en la automatización y la robótica…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-18-construye-un-sistema-de-agarre-de-robot-con-isaac-lab-y.md"
+    },
+    {
+      "title": "Herramienta de pruebas automatizadas para pila de autonomía de ROS 2",
+      "category": "robotica",
+      "date": "2026-05-18",
+      "slug": "herramienta-de-pruebas-automatizadas-para-pila-de-auton",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Los equipos de robótica enfrentan desafíos en la pruebas de autonomía de sus sistemas. Una herramienta de pruebas automatizadas podría mejorar la eficiencia y reducir errores.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-18-herramienta-de-pruebas-automatizadas-para-pila-de-auton.md"
+    },
+    {
+      "title": "Inteligencia artificial para manos robóticas con habilidades humanas",
+      "category": "ia",
+      "date": "2026-05-18",
+      "slug": "inteligencia-artificial-para-manos-roboticas-con-habi-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La inteligencia artificial (IA) ha alcanzado un nuevo hito con la creación de GENE-26.5, un 'cerebro' que permite a los robots realizar tareas físicas con la misma destreza que los humanos. Esto ha sido posible gracias a la combinación de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-18-inteligencia-artificial-para-manos-roboticas-con-habi-3.md"
+    },
+    {
+      "title": "AMD promueve macOS a estado de producción en su SDK para IA",
+      "category": "ia",
+      "date": "2026-05-18",
+      "slug": "amd-promueve-macos-a-estado-de-produccion-en-su-sdk-par",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "AMD ha lanzado la versión 10.5 de su SDK Lemonade para IA, lo que permite a los desarrolladores aprovechar al máximo sus GPUs y NPUs para modelos de lenguaje grande. Ahora, la plataforma también es compatible con macOS, lo que abre nuevas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-18-amd-promueve-macos-a-estado-de-produccion-en-su-sdk-par.md"
+    },
+    {
+      "title": "Reutiliza pantallas de laptops obsoletas como monitores portátiles",
+      "category": "ia",
+      "date": "2026-05-18",
+      "slug": "reutiliza-pantallas-de-laptops-obsoletas-como-monitores",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "¿Por qué tirar pantallas de laptops funcionales cuando se pueden convertir en monitores portátiles? Un proyecto reciente muestra cómo hacerlo de manera sencilla y económica.",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-18-reutiliza-pantallas-de-laptops-obsoletas-como-monitores.md"
+    },
+    {
+      "title": "¿Puede confiar en Sam Altman? La cuestión de la confianza en el juicio de OpenAI",
+      "category": "ia",
+      "date": "2026-05-18",
+      "slug": "puede-confiar-en-sam-altman-la-cuestion-de-la-confianza",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El juicio de OpenAI ha puesto de relieve la importancia de la confianza en la toma de decisiones tecnológicas. La cuestión de si Sam Altman, CEO de OpenAI, es confiable ha sido un tema central en el juicio. Pero ¿qué significa ser…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-18-puede-confiar-en-sam-altman-la-cuestion-de-la-confianza.md"
+    },
+    {
+      "title": "La reacción de los estudiantes ante la IA en las ceremonias de graduación",
+      "category": "ia",
+      "date": "2026-05-18",
+      "slug": "la-reaccion-de-los-estudiantes-ante-la-ia-en-las-ceremo",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "En varias ceremonias de graduación en 2026, los estudiantes han mostrado una reacción negativa ante la mencionada IA, lo que sugiere un cambio en la percepción de esta tecnología.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-18-la-reaccion-de-los-estudiantes-ante-la-ia-en-las-ceremo.md"
+    },
+    {
+      "title": "Modem 5G RedCap y 4G LTE compacto para IoT industrial",
+      "category": "embebidos",
+      "date": "2026-05-18",
+      "slug": "modem-5g-redcap-y-4g-lte-compacto-para-iot-industrial",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Semtech ha lanzado el modem FX86E, un dispositivo compacto que combina la conectividad 5G RedCap y 4G LTE para aplicaciones industriales de IoT. Este modem es ideal para cámaras de seguridad resistentes, vehículos pesados y dispositivos…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-18-modem-5g-redcap-y-4g-lte-compacto-para-iot-industrial.md"
+    },
+    {
+      "title": "Evalúo board con Wi-Fi 6, Bluetooth 5.4 y 802.15.4 a un precio inmejorable",
+      "category": "embebidos",
+      "date": "2026-05-18",
+      "slug": "evaluo-board-con-wi-fi-6-bluetooth-54-y-802154-a-un-pre",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Bouffalo Lab ha lanzado un evalúo board llamado BL618, que es básicamente igual que el Qualcomm QCC74xM EVK. Este board ofrece Wi-Fi 6, Bluetooth 5.4 y 802.15.4 a un precio increíblemente bajo de solo $13.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-18-evaluo-board-con-wi-fi-6-bluetooth-54-y-802154-a-un-pre.md"
+    },
+    {
+      "title": "gkh_clanker_t1000 y gkh_clanker_2000 descubren errores en el núcleo de Linux",
+      "category": "linux",
+      "date": "2026-05-18",
+      "slug": "gkh-clanker-t1000-y-gkh-clanker-2000-descubren-errores-",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Greg Kroah-Hartman, el segundo en comando del núcleo de Linux, está utilizando herramientas de pruebas aleatorias de IA para encontrar errores en el código. Estas herramientas, llamadas gkh_clanker_t1000 y gkh_clanker_2000, están ayudando…",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-18-gkh-clanker-t1000-y-gkh-clanker-2000-descubren-errores-.md"
+    },
+    {
+      "title": "Nueva versión de Linux 7.1-rc4 con correcciones y documentación de seguridad",
+      "category": "linux",
+      "date": "2026-05-18",
+      "slug": "nueva-version-de-linux-71-rc4-con-correcciones-y-docume",
+      "tags": [
+        "linux",
+        "seguridad",
+        "ia-local"
+      ],
+      "preview": "La versión 7.1-rc4 de Linux ha sido lanzada con una serie de correcciones y mejoras importantes, incluyendo la documentación de seguridad y el uso responsable de inteligencia artificial en el desarrollo del kernel.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-18-nueva-version-de-linux-71-rc4-con-correcciones-y-docume.md"
+    },
+    {
+      "title": "Crea tus gafas de NeoPixel con un efecto de escáner de estilo cyberpunk",
+      "category": "linux",
+      "date": "2026-05-18",
+      "slug": "crea-tus-gafas-de-neopixel-con-un-efecto-de-escaner-de-",
+      "tags": [
+        "robotica",
+        "electronica",
+        "linux"
+      ],
+      "preview": "¿Quieres crear un proyecto de moda con un toque de ciencia ficción? Con las gafas de NeoPixel, puedes crear un efecto de escáner de estilo cyberpunk que hará que te sientas como un personaje de una película de acción. En este artículo, te…",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-18-crea-tus-gafas-de-neopixel-con-un-efecto-de-escaner-de-.md"
+    },
+    {
       "title": "Hello Robot establece el estándar para robots de hogar seguros y prácticos",
       "category": "robotica",
       "date": "2026-05-17",

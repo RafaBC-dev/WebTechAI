@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-17</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-18</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-hello-robot-establece-el-estandar-para-robots-seguros-2.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-qerra-v2-motor-de-evaluacion-etica-para-robotica-con-ro.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-maquinas-roboticas-pesadas-operan-de-forma-autonoma.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-construye-un-sistema-de-agarre-de-robot-con-isaac-lab-y.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-herramienta-de-pruebas-automatizadas-para-pila-de-auton.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-inteligencia-artificial-para-manos-roboticas-con-habi-3.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-amd-promueve-macos-a-estado-de-produccion-en-su-sdk-par.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-reutiliza-pantallas-de-laptops-obsoletas-como-monitores.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-puede-confiar-en-sam-altman-la-cuestion-de-la-confianza.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-18-la-reaccion-de-los-estudiantes-ante-la-ia-en-las-ceremo.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-18-modem-5g-redcap-y-4g-lte-compacto-para-iot-industrial.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-18-evaluo-board-con-wi-fi-6-bluetooth-54-y-802154-a-un-pre.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-gkh-clanker-t1000-y-gkh-clanker-2000-descubren-errores-.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-nueva-version-de-linux-71-rc4-con-correcciones-y-docume.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-18-crea-tus-gafas-de-neopixel-con-un-efecto-de-escaner-de-.md</loc><lastmod>2026-05-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-hello-robot-establece-el-estandar-para-robots-de-hoga-2.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-maquinas-roboticas-pesadas-operan-de-manera-autonoma-en.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-qerra-v2-motor-de-evaluacion-etica-explicable-para-robo.md</loc><lastmod>2026-05-17</lastmod><priority>0.8</priority></url>
