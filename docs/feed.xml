@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 10:56:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 10:32:43 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Ouster presenta tecnología LiDAR con color nativo en San Francisco</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-ouster-presenta-tecnologia-lidar-con-color-nativo-en-sa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-ouster-presenta-tecnologia-lidar-con-color-nativo-en-sa.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Ouster, una empresa pionera en tecnología LiDAR, anuncia un evento en San Francisco para presentar sus últimas innovaciones en sensores LiDAR con color nativo. Esta tecnología revolucionaria tiene aplicaciones en la industria automotriz,…</description>
+  </item>
+  <item>
+    <title>Detectar colapso de ejecución antes del E-stop: ros2_kinematic_guard</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-detectar-colapso-de-ejecucion-antes-del-e-stop-ros2-kin.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-detectar-colapso-de-ejecucion-antes-del-e-stop-ros2-kin.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un nuevo paquete de ROS 2 llamado ros2_kinematic_guard busca detectar colapso de ejecución en sistemas de robots móviles antes de que el sistema de seguridad intervenga. Esto puede evitar paradas bruscas y mejorar la disponibilidad del…</description>
+  </item>
+  <item>
+    <title>Máquinas robóticas operan de forma autónoma en industrias pesadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-maquinas-roboticas-operan-de-forma-autonoma-en-industri.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-maquinas-roboticas-operan-de-forma-autonoma-en-industri.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La tecnología robótica ha dado un paso importante en la automatización de industrias pesadas. Un equipo de investigación de la Universidad de Zúrich ETH ha desarrollado una solución autónoma para el manejo de materiales en entornos…</description>
+  </item>
+  <item>
+    <title>Anthropic compra herramientas de desarrollo de Stainless, usadas por OpenAI y Google</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-anthropic-compra-herramientas-de-desarrollo-de-stainles.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-anthropic-compra-herramientas-de-desarrollo-de-stainles.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Anthropic ha adquirido Stainless, una startup que ha desarrollado herramientas de desarrollo utilizadas por algunas de las principales empresas de inteligencia artificial, incluyendo OpenAI y Google. Esta adquisición elimina a…</description>
+  </item>
+  <item>
+    <title>Elon Musk pierde demanda contra OpenAI y Sam Altman</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-elon-musk-pierde-demanda-contra-openai-y-sam-altman.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-elon-musk-pierde-demanda-contra-openai-y-sam-altman.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Elon Musk ha perdido su demanda contra Sam Altman y OpenAI, después de que un jurado californiano encontrara que sus reclamaciones habían sido presentadas demasiado tarde. La demanda de Musk se centraba en la creación de una filial…</description>
+  </item>
+  <item>
+    <title>Avances en Inteligencia Artificial para Equipos Robóticos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-avances-en-inteligencia-artificial-para-equipos-robotic.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-avances-en-inteligencia-artificial-para-equipos-robotic.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El Johns Hopkins Applied Physics Laboratory ha estado trabajando en la creación de inteligencia artificial agente para equipos robóticos. Este avance busca resolver los desafíos de la autonomía, la coordinación y la adaptabilidad en…</description>
+  </item>
+  <item>
+    <title>SandboxAQ integra modelos de descubrimiento de fármacos en Claude sin necesidad de experiencia en informática</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-sandboxaq-integra-modelos-de-descubrimiento-de-farmacos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-sandboxaq-integra-modelos-de-descubrimiento-de-farmacos.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La compañía SandboxAQ ha anunciado la integración de sus modelos de descubrimiento de fármacos en Claude, un sistema de inteligencia artificial que permite a los usuarios acceder a herramientas de descubrimiento de fármacos y ciencia de…</description>
+  </item>
+  <item>
+    <title>Clasificando tareas para robots: entendiendo lo que significa 'dulce, sucio y peligroso'</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-clasificando-tareas-para-robots-entendiendo-lo-que-sign.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-clasificando-tareas-para-robots-entendiendo-lo-que-sign.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica ha utilizado durante años los términos 'dulce, sucio y peligroso' (DDD) para describir tareas o trabajos donde los robots pueden ser útiles. Sin embargo, determinar qué actividades humanas encajan en estas categorías no es tan…</description>
+  </item>
+  <item>
+    <title>Kit industrial para Raspberry Pi con interfaces aisladas y DIN rail</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-kit-industrial-para-raspberry-pi-con-interfaces-aislada.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-kit-industrial-para-raspberry-pi-con-interfaces-aislada.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Waveshare ha lanzado un kit que convierte un Raspberry Pi 4 o 5 en un ordenador industrial con interfaces aisladas y una carcasa para DIN rail. Esto permite a los usuarios crear sistemas de control industrial más fáciles y económicos.</description>
+  </item>
+  <item>
+    <title>Nueva placa ESP32-S3 PowerFeather V2 con soporte para baterías LiFePO4</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-nueva-placa-esp32-s3-powerfeather-v2-con-soporte-para-b.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-nueva-placa-esp32-s3-powerfeather-v2-con-soporte-para-b.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La placa ESP32-S3 PowerFeather V2 es una actualización de la placa ESP32-S3 PowerFeather, que ahora soporta baterías LiFePO4, además de Li-Ion y LiPo. Esto significa que los usuarios pueden aprovechar las ventajas de las baterías LiFePO4,…</description>
+  </item>
+  <item>
+    <title>Linux 7.2 arreglará problemas de frecuencia en procesadores Intel Bartlett Lake</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-72-arreglara-problemas-de-frecuencia-en-procesado.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-72-arreglara-problemas-de-frecuencia-en-procesado.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La próxima versión de Linux 7.2 incluirá un arreglo para que los procesadores Intel Bartlett Lake no reporten frecuencias de máxima incorrectas. Esto se debe a un problema detectado en el driver Intel P-State.</description>
+  </item>
+  <item>
+    <title>Linux trabaja en un API de datos no confiables basado en Rust</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-trabaja-en-un-api-de-datos-no-confiables-basado-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-trabaja-en-un-api-de-datos-no-confiables-basado-e.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El kernel de Linux está mejorando su seguridad con un nuevo API que marca los datos no confiables recibidos desde el espacio de usuario. Esto ayudará a prevenir problemas de seguridad y bugs.</description>
+  </item>
+  <item>
+    <title>Ubuntu Core 26: seguridad y eficiencia para dispositivos IoT y embebidos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-ubuntu-core-26-seguridad-y-eficiencia-para-dispositivos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-ubuntu-core-26-seguridad-y-eficiencia-para-dispositivos.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Canonical ha lanzado Ubuntu Core 26, una versión de Linux diseñada específicamente para dispositivos IoT y sistemas embebidos. Esta versión ofrece una seguridad y eficiencia mejoradas, lo que la convierte en una opción atractiva para…</description>
+  </item>
+  <item>
+    <title>Un clásico digital se renueva con tecnología moderna</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-un-clasico-digital-se-renueva-con-tecnologia-moderna.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-un-clasico-digital-se-renueva-con-tecnologia-moderna.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un dispositivo de la década de 1990 ha sido transformado en un dispositivo más capaz gracias a la integración de un Raspberry Pi Zero y una pantalla LCD de alta resolución.</description>
+  </item>
+  <item>
+    <title>Nueva configuración para OneXPlayer llega a Linux 7.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-nueva-configuracion-para-onexplayer-llega-a-linux-72.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-nueva-configuracion-para-onexplayer-llega-a-linux-72.md</guid>
+    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa Valve ha estado trabajando en un nuevo driver para el OneXPlayer, un dispositivo de juego portátil que utiliza Linux. Este nuevo driver permitirá a los usuarios personalizar la configuración de su dispositivo de juego,…</description>
+  </item>
   <item>
     <title>Hello Robot establece el estándar para robots seguros y prácticos para hogares</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-18-hello-robot-establece-el-estandar-para-robots-seguros-2.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 18 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>¿Quieres crear un proyecto de moda con un toque de ciencia ficción? Con las gafas de NeoPixel, puedes crear un efecto de escáner de estilo cyberpunk que hará que te sientas como un personaje de una película de acción. En este artículo, te…</description>
-  </item>
-  <item>
-    <title>Hello Robot establece el estándar para robots de hogar seguros y prácticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-hello-robot-establece-el-estandar-para-robots-de-hoga-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-hello-robot-establece-el-estandar-para-robots-de-hoga-2.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa Hello Robot ha lanzado su robot Stretch 4, diseñado para realizar tareas prácticas y seguras en el hogar. Este robot es el resultado de una evolución de la tecnología de robótica para adaptarse a las necesidades reales de los…</description>
-  </item>
-  <item>
-    <title>Máquinas robóticas pesadas operan de manera autónoma en la industria</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-maquinas-roboticas-pesadas-operan-de-manera-autonoma-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-maquinas-roboticas-pesadas-operan-de-manera-autonoma-en.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa ETH Zurich ha desarrollado un sistema de manipulación de materiales autónomo que puede manejar cargas pesadas de manera segura y eficiente. Este avance tiene importantes implicaciones para la industria, ya que puede reducir la…</description>
-  </item>
-  <item>
-    <title>QERRA-v2: motor de evaluación ética explicable para robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-qerra-v2-motor-de-evaluacion-etica-explicable-para-robo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-qerra-v2-motor-de-evaluacion-etica-explicable-para-robo.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de desarrolladores ha creado QERRA-v2, un motor de evaluación ética que permite a los robots tomar decisiones informadas y transparentes. Este sistema utiliza 12 vectores humanos inmutables para evaluar situaciones y devuelve…</description>
-  </item>
-  <item>
-    <title>Asimov: un robot humanoide abierto para todos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-asimov-un-robot-humanoide-abierto-para-todos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-17-asimov-un-robot-humanoide-abierto-para-todos.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica humanoide se ha vuelto más accesible gracias a Asimov, un robot abierto que permite a cualquier persona experimentar con tecnología de vanguardia. Después de años de proyectos costosos y cerrados, Asimov es un cambio de…</description>
-  </item>
-  <item>
-    <title>ArXiv prohíbe a autores que usen LLMs sin revisión</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-arxiv-prohibe-a-autores-que-usen-llms-sin-revision.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-arxiv-prohibe-a-autores-que-usen-llms-sin-revision.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La plataforma de investigación ArXiv adopta medidas para evitar la publicación de artículos generados por inteligencia artificial sin revisión. Esto se debe a que muchos de estos artículos contienen errores, plagios o contenido sesgado.</description>
-  </item>
-  <item>
-    <title>Análisis del desafío AIC: lecciones aprendidas y camino a seguir</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-analisis-del-desafio-aic-lecciones-aprendidas-y-camino-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-analisis-del-desafio-aic-lecciones-aprendidas-y-camino-.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El desafío AIC ha concluido su fase de calificación y los participantes están buscando mejorar sus resultados. En este artículo, se analiza qué se puede hacer mejor para mejorar los resultados en este desafío.</description>
-  </item>
-  <item>
-    <title>Inteligencia artificial para manos robóticas con habilidades humanas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-inteligencia-artificial-para-manos-roboticas-con-habi-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-inteligencia-artificial-para-manos-roboticas-con-habi-2.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La inteligencia artificial ha logrado dar a las manos robóticas la capacidad de realizar tareas complejas con la misma precisión que un ser humano. Esto ha sido posible gracias al desarrollo de un sistema de control avanzado que permite a…</description>
-  </item>
-  <item>
-    <title>Claude Desktop Buddy: un compañero de escritorio interactivo con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-claude-desktop-buddy-un-companero-de-escritorio-inter-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-claude-desktop-buddy-un-companero-de-escritorio-inter-2.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Anthropic ha liberado un proyecto de código abierto llamado Claude Desktop Buddy, que convierte dispositivos ESP32-S3 en compañeros de escritorio interactivos con IA. Esto permite a los usuarios interactuar con el agente de IA Claude de…</description>
-  </item>
-  <item>
-    <title>Greg Brockman asume el liderazgo de la estrategia de productos en OpenAI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-greg-brockman-asume-el-liderazgo-de-la-estrategia-de-pr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-17-greg-brockman-asume-el-liderazgo-de-la-estrategia-de-pr.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Greg Brockman, cofundador y presidente de OpenAI, asume el liderazgo de la estrategia de productos de la empresa mientras su CEO, Fidji Simo, está en licencia médica. Esto se suma a la reestructuración de la empresa, que busca enfocarse en…</description>
-  </item>
-  <item>
-    <title>M5Stack PaperColor: el primer kit de desarrollo con pantalla de papel color</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-m5stack-papercolor-el-primer-kit-de-desarrollo-con-pa-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-m5stack-papercolor-el-primer-kit-de-desarrollo-con-pa-2.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>M5Stack ha lanzado su primer kit de desarrollo con pantalla de papel color, el M5Paper Color, que combina una pantalla de papel color con un procesador ESP32-S3 y una variedad de sensores y conectividad.</description>
-  </item>
-  <item>
-    <title>CircuitPython 10.3.0-alpha.2: Nueva versión con mejoras y correcciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-circuitpython-1030-alpha2-nueva-version-con-mejoras-y-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-circuitpython-1030-alpha2-nueva-version-con-mejoras-y-c.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de CircuitPython ha lanzado una nueva versión alpha de su firmware, con mejoras en la estabilidad y correcciones de errores en varias platinas. Esta versión es una actualización importante para los desarrolladores que trabajan…</description>
-  </item>
-  <item>
-    <title>PENOX WristBuds: un reloj inteligente con audífonos TWS integrados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-penox-wristbuds-un-reloj-inteligente-con-audifonos-tws-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-17-penox-wristbuds-un-reloj-inteligente-con-audifonos-tws-.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>PENOX WristBuds es un reloj inteligente con audífonos TWS integrados que elimina la necesidad de un caso de carga separado. Diseñado para entusiastas del exterior y el mercado de movilidad sin desorden.</description>
-  </item>
-  <item>
-    <title>Preservación de memoria durante actualizaciones en vivo del kernel Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-preservacion-de-memoria-durante-actualizaciones-en-vivo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-preservacion-de-memoria-durante-actualizaciones-en-vivo.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El kernel Linux ha sido mejorado con la capacidad de realizar actualizaciones en vivo, pero aún faltan detalles importantes. La preservación de memoria durante este proceso es uno de ellos. Pratyush Yadav ha liderado un esfuerzo para…</description>
-  </item>
-  <item>
-    <title>Windows CE en Nintendo 64: un desafío tecnológico logrado</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-windows-ce-en-nintendo-64-un-desafio-tecnologico-lograd.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-windows-ce-en-nintendo-64-un-desafio-tecnologico-lograd.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un ingeniero ha logrado ejecutar Windows CE en un Nintendo 64, demostrando la versatilidad de la plataforma. Este logro abre nuevas posibilidades para la comunidad de desarrolladores.</description>
-  </item>
-  <item>
-    <title>Convirtiendo tu Macropad en un mago de atajos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-convirtiendo-tu-macropad-en-un-mago-de-atajos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-17-convirtiendo-tu-macropad-en-un-mago-de-atajos.md</guid>
-    <pubDate>Sun, 17 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Descubre cómo transformar tu Macropad en un poderoso herramienta para automatizar tareas y mejorar tu productividad. Con la guía de Adafruit, podrás crear atajos personalizados y configurar tus aplicaciones favoritas de manera sencilla.</description>
   </item>
 </channel>
 </rss>

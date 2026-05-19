@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Ouster presenta tecnología LiDAR con color nativo en San Francisco",
+      "category": "robotica",
+      "date": "2026-05-19",
+      "slug": "ouster-presenta-tecnologia-lidar-con-color-nativo-en-sa",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Ouster, una empresa pionera en tecnología LiDAR, anuncia un evento en San Francisco para presentar sus últimas innovaciones en sensores LiDAR con color nativo. Esta tecnología revolucionaria tiene aplicaciones en la industria automotriz,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-19-ouster-presenta-tecnologia-lidar-con-color-nativo-en-sa.md"
+    },
+    {
+      "title": "Detectar colapso de ejecución antes del E-stop: ros2_kinematic_guard",
+      "category": "robotica",
+      "date": "2026-05-19",
+      "slug": "detectar-colapso-de-ejecucion-antes-del-e-stop-ros2-kin",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un nuevo paquete de ROS 2 llamado ros2_kinematic_guard busca detectar colapso de ejecución en sistemas de robots móviles antes de que el sistema de seguridad intervenga. Esto puede evitar paradas bruscas y mejorar la disponibilidad del…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-19-detectar-colapso-de-ejecucion-antes-del-e-stop-ros2-kin.md"
+    },
+    {
+      "title": "Máquinas robóticas operan de forma autónoma en industrias pesadas",
+      "category": "robotica",
+      "date": "2026-05-19",
+      "slug": "maquinas-roboticas-operan-de-forma-autonoma-en-industri",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "automatizacion"
+      ],
+      "preview": "La tecnología robótica ha dado un paso importante en la automatización de industrias pesadas. Un equipo de investigación de la Universidad de Zúrich ETH ha desarrollado una solución autónoma para el manejo de materiales en entornos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-19-maquinas-roboticas-operan-de-forma-autonoma-en-industri.md"
+    },
+    {
+      "title": "Anthropic compra herramientas de desarrollo de Stainless, usadas por OpenAI y Google",
+      "category": "ia",
+      "date": "2026-05-19",
+      "slug": "anthropic-compra-herramientas-de-desarrollo-de-stainles",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "La empresa Anthropic ha adquirido Stainless, una startup que ha desarrollado herramientas de desarrollo utilizadas por algunas de las principales empresas de inteligencia artificial, incluyendo OpenAI y Google. Esta adquisición elimina a…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-19-anthropic-compra-herramientas-de-desarrollo-de-stainles.md"
+    },
+    {
+      "title": "Elon Musk pierde demanda contra OpenAI y Sam Altman",
+      "category": "ia",
+      "date": "2026-05-19",
+      "slug": "elon-musk-pierde-demanda-contra-openai-y-sam-altman",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Elon Musk ha perdido su demanda contra Sam Altman y OpenAI, después de que un jurado californiano encontrara que sus reclamaciones habían sido presentadas demasiado tarde. La demanda de Musk se centraba en la creación de una filial…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-19-elon-musk-pierde-demanda-contra-openai-y-sam-altman.md"
+    },
+    {
+      "title": "Avances en Inteligencia Artificial para Equipos Robóticos",
+      "category": "ia",
+      "date": "2026-05-19",
+      "slug": "avances-en-inteligencia-artificial-para-equipos-robotic",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "llms"
+      ],
+      "preview": "El Johns Hopkins Applied Physics Laboratory ha estado trabajando en la creación de inteligencia artificial agente para equipos robóticos. Este avance busca resolver los desafíos de la autonomía, la coordinación y la adaptabilidad en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-19-avances-en-inteligencia-artificial-para-equipos-robotic.md"
+    },
+    {
+      "title": "SandboxAQ integra modelos de descubrimiento de fármacos en Claude sin necesidad de experiencia en informática",
+      "category": "ia",
+      "date": "2026-05-19",
+      "slug": "sandboxaq-integra-modelos-de-descubrimiento-de-farmacos",
+      "tags": [
+        "ia-local",
+        "llms",
+        "benchmarks"
+      ],
+      "preview": "La compañía SandboxAQ ha anunciado la integración de sus modelos de descubrimiento de fármacos en Claude, un sistema de inteligencia artificial que permite a los usuarios acceder a herramientas de descubrimiento de fármacos y ciencia de…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-19-sandboxaq-integra-modelos-de-descubrimiento-de-farmacos.md"
+    },
+    {
+      "title": "Clasificando tareas para robots: entendiendo lo que significa 'dulce, sucio y peligroso'",
+      "category": "ia",
+      "date": "2026-05-19",
+      "slug": "clasificando-tareas-para-robots-entendiendo-lo-que-sign",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica ha utilizado durante años los términos 'dulce, sucio y peligroso' (DDD) para describir tareas o trabajos donde los robots pueden ser útiles. Sin embargo, determinar qué actividades humanas encajan en estas categorías no es tan…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-19-clasificando-tareas-para-robots-entendiendo-lo-que-sign.md"
+    },
+    {
+      "title": "Kit industrial para Raspberry Pi con interfaces aisladas y DIN rail",
+      "category": "embebidos",
+      "date": "2026-05-19",
+      "slug": "kit-industrial-para-raspberry-pi-con-interfaces-aislada",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Waveshare ha lanzado un kit que convierte un Raspberry Pi 4 o 5 en un ordenador industrial con interfaces aisladas y una carcasa para DIN rail. Esto permite a los usuarios crear sistemas de control industrial más fáciles y económicos.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-19-kit-industrial-para-raspberry-pi-con-interfaces-aislada.md"
+    },
+    {
+      "title": "Nueva placa ESP32-S3 PowerFeather V2 con soporte para baterías LiFePO4",
+      "category": "embebidos",
+      "date": "2026-05-19",
+      "slug": "nueva-placa-esp32-s3-powerfeather-v2-con-soporte-para-b",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La placa ESP32-S3 PowerFeather V2 es una actualización de la placa ESP32-S3 PowerFeather, que ahora soporta baterías LiFePO4, además de Li-Ion y LiPo. Esto significa que los usuarios pueden aprovechar las ventajas de las baterías LiFePO4,…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-19-nueva-placa-esp32-s3-powerfeather-v2-con-soporte-para-b.md"
+    },
+    {
+      "title": "Linux 7.2 arreglará problemas de frecuencia en procesadores Intel Bartlett Lake",
+      "category": "linux",
+      "date": "2026-05-19",
+      "slug": "linux-72-arreglara-problemas-de-frecuencia-en-procesado",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La próxima versión de Linux 7.2 incluirá un arreglo para que los procesadores Intel Bartlett Lake no reporten frecuencias de máxima incorrectas. Esto se debe a un problema detectado en el driver Intel P-State.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-19-linux-72-arreglara-problemas-de-frecuencia-en-procesado.md"
+    },
+    {
+      "title": "Linux trabaja en un API de datos no confiables basado en Rust",
+      "category": "linux",
+      "date": "2026-05-19",
+      "slug": "linux-trabaja-en-un-api-de-datos-no-confiables-basado-e",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux está mejorando su seguridad con un nuevo API que marca los datos no confiables recibidos desde el espacio de usuario. Esto ayudará a prevenir problemas de seguridad y bugs.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-19-linux-trabaja-en-un-api-de-datos-no-confiables-basado-e.md"
+    },
+    {
+      "title": "Ubuntu Core 26: seguridad y eficiencia para dispositivos IoT y embebidos",
+      "category": "linux",
+      "date": "2026-05-19",
+      "slug": "ubuntu-core-26-seguridad-y-eficiencia-para-dispositivos",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Canonical ha lanzado Ubuntu Core 26, una versión de Linux diseñada específicamente para dispositivos IoT y sistemas embebidos. Esta versión ofrece una seguridad y eficiencia mejoradas, lo que la convierte en una opción atractiva para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-19-ubuntu-core-26-seguridad-y-eficiencia-para-dispositivos.md"
+    },
+    {
+      "title": "Un clásico digital se renueva con tecnología moderna",
+      "category": "linux",
+      "date": "2026-05-19",
+      "slug": "un-clasico-digital-se-renueva-con-tecnologia-moderna",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un dispositivo de la década de 1990 ha sido transformado en un dispositivo más capaz gracias a la integración de un Raspberry Pi Zero y una pantalla LCD de alta resolución.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-19-un-clasico-digital-se-renueva-con-tecnologia-moderna.md"
+    },
+    {
+      "title": "Nueva configuración para OneXPlayer llega a Linux 7.2",
+      "category": "linux",
+      "date": "2026-05-19",
+      "slug": "nueva-configuracion-para-onexplayer-llega-a-linux-72",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "La empresa Valve ha estado trabajando en un nuevo driver para el OneXPlayer, un dispositivo de juego portátil que utiliza Linux. Este nuevo driver permitirá a los usuarios personalizar la configuración de su dispositivo de juego,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-19-nueva-configuracion-para-onexplayer-llega-a-linux-72.md"
+    },
+    {
       "title": "Hello Robot establece el estándar para robots seguros y prácticos para hogares",
       "category": "robotica",
       "date": "2026-05-18",
