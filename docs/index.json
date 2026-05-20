@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Fusión de tecnologías de navegación robótica con rtabmap_ros",
+      "category": "robotica",
+      "date": "2026-05-20",
+      "slug": "fusion-de-tecnologias-de-navegacion-robotica-con-rtabma",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica ha logrado un avance significativo en la navegación de robots con la fusión de tecnologías de navegación robótica en el proyecto rtabmap_ros. Esta integración permite a los robots navegar de manera más precisa y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-20-fusion-de-tecnologias-de-navegacion-robotica-con-rtabma.md"
+    },
+    {
+      "title": "Construye un sistema de agarre de robots con aprendizaje por refuerzo en Isaac Lab",
+      "category": "robotica",
+      "date": "2026-05-20",
+      "slug": "construye-un-sistema-de-agarre-de-robots-con-aprendizaj",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado un sistema de agarre de robots utilizando aprendizaje por refuerzo en el entorno de simulación de NVIDIA Isaac Lab. Este proyecto permite entrenar y evaluar políticas de manipulación robótica de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-20-construye-un-sistema-de-agarre-de-robots-con-aprendizaj.md"
+    },
+    {
+      "title": "Robots recuperan chips de circuitos para reducir residuos electrónicos",
+      "category": "robotica",
+      "date": "2026-05-20",
+      "slug": "robots-recuperan-chips-de-circuitos-para-reducir-residu",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "electronica"
+      ],
+      "preview": "La cantidad de residuos electrónicos se está volviendo un problema cada vez más grave. La Unión Europea y California están implementando nuevas regulaciones para reducir la cantidad de residuos electrónicos que se exportan o se destruyen.…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-20-robots-recuperan-chips-de-circuitos-para-reducir-residu.md"
+    },
+    {
+      "title": "Seguridad en robots domésticos: la relación entre humanos y máquinas",
+      "category": "robotica",
+      "date": "2026-05-20",
+      "slug": "seguridad-en-robots-domesticos-la-relacion-entre-humano",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La Organización Internacional de Normalización (ISO) está actualizando sus requisitos de seguridad para robots de cuidado personal. Este cambio es importante porque los fabricantes de robots humanoides están pasando de prototipos de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-20-seguridad-en-robots-domesticos-la-relacion-entre-humano.md"
+    },
+    {
+      "title": "Gmail Live: un asistente de IA para buscar correos electrónicos de manera natural",
+      "category": "ia",
+      "date": "2026-05-20",
+      "slug": "gmail-live-un-asistente-de-ia-para-buscar-correos-elect",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Google ha anunciado la expansión de su función 'AI Inbox' en Gmail, que permite buscar correos electrónicos de manera natural utilizando un asistente de IA llamado Gmail Live. Esto puede ser especialmente útil para encontrar información…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-20-gmail-live-un-asistente-de-ia-para-buscar-correos-elect.md"
+    },
+    {
+      "title": "La batalla entre humanos y IA en el desarrollo de software",
+      "category": "ia",
+      "date": "2026-05-20",
+      "slug": "la-batalla-entre-humanos-y-ia-en-el-desarrollo-de-softw",
+      "tags": [
+        "ia-local",
+        "codigo",
+        "linux"
+      ],
+      "preview": "El desarrollo de software se enfrenta a un nuevo desafío: la proliferación de pruebas y solicitudes de código generadas por agentes de inteligencia artificial (IA). Esto ha llevado a los mantenedores de proyectos a cuestionar la calidad y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-20-la-batalla-entre-humanos-y-ia-en-el-desarrollo-de-softw.md"
+    },
+    {
+      "title": "Clasificando tareas peligrosas: un marco para la robótica",
+      "category": "ia",
+      "date": "2026-05-20",
+      "slug": "clasificando-tareas-peligrosas-un-marco-para-la-robotic",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La robótica busca automatizar tareas peligrosas, pero ¿cómo definimos qué es peligroso? Un equipo de investigadores ha propuesto un marco para clasificar tareas según su peligrosidad, basado en la literatura social y la experiencia de la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-20-clasificando-tareas-peligrosas-un-marco-para-la-robotic.md"
+    },
+    {
+      "title": "Nuevos agentes de IA en Google para buscar y aprender sin esfuerzo",
+      "category": "ia",
+      "date": "2026-05-20",
+      "slug": "nuevos-agentes-de-ia-en-google-para-buscar-y-aprender-s",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Google ha anunciado la llegada de nuevos agentes de IA en su buscador, que permiten a los usuarios crear y personalizar múltiples agentes para estar al día sobre temas de interés. Estos agentes pueden operar de manera continua en segundo…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-20-nuevos-agentes-de-ia-en-google-para-buscar-y-aprender-s.md"
+    },
+    {
+      "title": "Nueva plataforma de servidores de IA con 2880 TOPS de rendimiento",
+      "category": "ia",
+      "date": "2026-05-20",
+      "slug": "nueva-plataforma-de-servidores-de-ia-con-2880-tops-de-r",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Firefly ha lanzado el CSC2-N48SPK3, un servidor de 2U con 48 nodos de cómputo distribuido, cada uno con un SoC SpacemiT K3 que ofrece hasta 60 TOPS de rendimiento en AI. Este servidor es ideal para aplicaciones de procesamiento de lenguaje…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-20-nueva-plataforma-de-servidores-de-ia-con-2880-tops-de-r.md"
+    },
+    {
+      "title": "Mapear campos magnéticos: un dispositivo innovador",
+      "category": "embebidos",
+      "date": "2026-05-20",
+      "slug": "mapear-campos-magneticos-un-dispositivo-innovador",
+      "tags": [
+        "microcontroladores",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Un ingeniero ha creado un dispositivo para mapear campos magnéticos, utilizando tecnología de última generación. Este dispositivo puede ser útil para investigadores y científicos que buscan detectar anomalías magnéticas en la Tierra.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-20-mapear-campos-magneticos-un-dispositivo-innovador.md"
+    },
+    {
+      "title": "Impresión de circuitos impresos con 3D Printers: una solución rápida",
+      "category": "embebidos",
+      "date": "2026-05-20",
+      "slug": "impresion-de-circuitos-impresos-con-3d-printers-una-sol",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "herramientas"
+      ],
+      "preview": "La impresión de circuitos impresos ha mejorado en la última década, pero la creación de prototipos rápidos sigue siendo un desafío. Ahora, un equipo de investigación ha encontrado una solución innovadora utilizando 3D Printers.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-20-impresion-de-circuitos-impresos-con-3d-printers-una-sol.md"
+    },
+    {
+      "title": "Mejorando el rendimiento de operaciones en Linux",
+      "category": "linux",
+      "date": "2026-05-20",
+      "slug": "mejorando-el-rendimiento-de-operaciones-en-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El rendimiento de las operaciones en Linux se está mejorando gracias a un cambio fundamental en cómo se accede a variables por CPU. Este cambio podría mejorar el rendimiento en una amplia gama de arquitecturas.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-20-mejorando-el-rendimiento-de-operaciones-en-linux.md"
+    },
+    {
+      "title": "Ubuntu Core 26: una versión segura y optimizada para dispositivos IoT y embebidos",
+      "category": "linux",
+      "date": "2026-05-20",
+      "slug": "ubuntu-core-26-una-version-segura-y-optimizada-para-dis",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Canonical ha lanzado Ubuntu Core 26, una versión de Ubuntu diseñada específicamente para dispositivos IoT y sistemas embebidos. Esta versión ofrece una seguridad extendida de hasta 15 años y una serie de características innovadoras que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-20-ubuntu-core-26-una-version-segura-y-optimizada-para-dis.md"
+    },
+    {
+      "title": "Calculadora científica FPGA: diseño y construcción desde cero",
+      "category": "linux",
+      "date": "2026-05-20",
+      "slug": "calculadora-cientifica-fpga-diseno-y-construccion-desde",
+      "tags": [
+        "fpga",
+        "cpu",
+        "python"
+      ],
+      "preview": "Un equipo de ingenieros ha diseñado y construido una calculadora científica desde cero, utilizando un FPGA Altera Cyclone II y una CPU personalizada. Esta calculadora utiliza el formato de números binarios decimales (BCD) y ofrece…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-20-calculadora-cientifica-fpga-diseno-y-construccion-desde.md"
+    },
+    {
+      "title": "Fedora retira paquetes de Deepin debido a preocupaciones de seguridad",
+      "category": "linux",
+      "date": "2026-05-20",
+      "slug": "fedora-retira-paquetes-de-deepin-debido-a-preocupacione",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La distribución Linux Fedora ha decidido retirar los paquetes de Deepin debido a preocupaciones de seguridad y falta de actividad en su mantenimiento. Esta decisión se toma un año después de que SUSE también decidió retirar sus paquetes de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-20-fedora-retira-paquetes-de-deepin-debido-a-preocupacione.md"
+    },
+    {
       "title": "Ouster presenta tecnología LiDAR con color nativo en San Francisco",
       "category": "robotica",
       "date": "2026-05-19",
