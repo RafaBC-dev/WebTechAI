@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Por qué los robots guiados por visión fallan en producción a pesar de detectar correctamente",
+      "category": "robotica",
+      "date": "2026-05-21",
+      "slug": "por-que-los-robots-guiados-por-vision-fallan-en-producc",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los robots guiados por visión son comunes en la producción, pero a menudo fallan debido a problemas de precisión y estabilidad. Un desarrollador ha identificado las causas de estos problemas y propone una solución para mejorar la precisión…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-21-por-que-los-robots-guiados-por-vision-fallan-en-producc.md"
+    },
+    {
+      "title": "Nuevas parches mejoran el rendimiento de Linux en Microsoft Surface Pro 9 5G",
+      "category": "robotica",
+      "date": "2026-05-21",
+      "slug": "nuevas-parches-mejoran-el-rendimiento-de-linux-en-micro",
+      "tags": [
+        "linux",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Después de dos años de trabajo, los desarrolladores han logrado mejorar significativamente el rendimiento de Linux en el Microsoft Surface Pro 9 5G, permitiendo que el portátil funcione de manera más efectiva y con características como…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-21-nuevas-parches-mejoran-el-rendimiento-de-linux-en-micro.md"
+    },
+    {
+      "title": "La seguridad de los robots domésticos: un enfoque basado en relaciones",
+      "category": "robotica",
+      "date": "2026-05-21",
+      "slug": "la-seguridad-de-los-robots-domesticos-un-enfoque-basado",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La Organización Internacional de Normalización (ISO) está actualizando sus requisitos de seguridad para robots de cuidado personal después de 12 años. Este cambio es crucial debido a la evolución de la tecnología y la comprensión de la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-21-la-seguridad-de-los-robots-domesticos-un-enfoque-basado.md"
+    },
+    {
+      "title": "Protocolo SpatialDDS para compartir datos espaciales en tiempo real",
+      "category": "robotica",
+      "date": "2026-05-21",
+      "slug": "protocolo-spatialdds-para-compartir-datos-espaciales-en",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La comunidad de robótica y sistemas embebidos acaba de recibir un regalo importante: SpatialDDS, un protocolo de cómputo espacial abierto que permite compartir datos espaciales en tiempo real entre diferentes dominios, incluyendo robots,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-21-protocolo-spatialdds-para-compartir-datos-espaciales-en.md"
+    },
+    {
+      "title": "Robots recuperan chips valiosos de residuos electrónicos",
+      "category": "ia",
+      "date": "2026-05-21",
+      "slug": "robots-recuperan-chips-valiosos-de-residuos-electronico",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "electronica"
+      ],
+      "preview": "La generación de residuos electrónicos es un problema creciente, y la recuperación de materiales valiosos de estos residuos es cada vez más importante. La empresa Tuurny está desarrollando robots para recuperar chips de circuitos impresos…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-21-robots-recuperan-chips-valiosos-de-residuos-electronico.md"
+    },
+    {
+      "title": "¿Tendrá la robótica un momento ChatGPT?",
+      "category": "ia",
+      "date": "2026-05-21",
+      "slug": "tendra-la-robotica-un-momento-chatgpt",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La robótica está a punto de experimentar un cambio revolucionario gracias a la inteligencia artificial. En las próximas décadas, robots autónomos y de IA trabajarán junto a las personas en fábricas, realizarán tareas tediosas en almacenes,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-21-tendra-la-robotica-un-momento-chatgpt.md"
+    },
+    {
+      "title": "IEEE/OES OCEANS 2026 Monterey: Límite de propuestas extendido",
+      "category": "ia",
+      "date": "2026-05-21",
+      "slug": "ieeeoes-oceans-2026-monterey-limite-de-propuestas-exten",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La conferencia IEEE/OES OCEANS 2026 Monterey ha extendido el límite de propuestas para sesiones de trabajo y tutoriales hasta el 26 de mayo de 2026. Esta oportunidad es ideal para contribuir al programa técnico y conectarse con la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-21-ieeeoes-oceans-2026-monterey-limite-de-propuestas-exten.md"
+    },
+    {
+      "title": "Synaptics Coralboard: una placa de desarrollo para inteligencia artificial en el borde",
+      "category": "ia",
+      "date": "2026-05-21",
+      "slug": "synaptics-coralboard-una-placa-de-desarrollo-para-intel",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Synaptics ha lanzado la Coralboard, una placa de desarrollo que combina un procesador de inteligencia artificial (AI) con una arquitectura de bordes, permitiendo la ejecución de modelos de aprendizaje automático en tiempo real. Esta placa…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-21-synaptics-coralboard-una-placa-de-desarrollo-para-intel.md"
+    },
+    {
+      "title": "Encuadernación 3D para el módulo ESP32 Sunton",
+      "category": "embebidos",
+      "date": "2026-05-21",
+      "slug": "encuadernacion-3d-para-el-modulo-esp32-sunton",
+      "tags": [
+        "diseño-3d",
+        "esp32",
+        "arduino"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una encuadernación 3D para el módulo ESP32 Sunton, un popular módulo de controlador de pantalla táctil. Esta encuadernación es ideal para proyectos de ESPHome y Home Assistant.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-21-encuadernacion-3d-para-el-modulo-esp32-sunton.md"
+    },
+    {
+      "title": "Cable USB inalámbrico para hacking con microSD y control remoto",
+      "category": "embebidos",
+      "date": "2026-05-21",
+      "slug": "cable-usb-inalambrico-para-hacking-con-microsd-y-contro",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado un cable USB inalámbrico con microSD para hacking y automatización, que se puede controlar desde smartphones o computadoras.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-21-cable-usb-inalambrico-para-hacking-con-microsd-y-contro.md"
+    },
+    {
+      "title": "Soldering Cable Holder: un soporte de cables para soldar sin problemas",
+      "category": "embebidos",
+      "date": "2026-05-21",
+      "slug": "soldering-cable-holder-un-soporte-de-cables-para-soldar",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "robotica"
+      ],
+      "preview": "Adafruit ha compartido un proyecto interesante de impresión 3D que permite crear un soporte de cables para soldar sin necesidad de usar clips o ganchos. Este proyecto es relevante para los entusiastas de la electrónica y la robótica que…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-21-soldering-cable-holder-un-soporte-de-cables-para-soldar.md"
+    },
+    {
+      "title": "Raspberry Pi lanza su propio microcontrolador, el RP2350",
+      "category": "embebidos",
+      "date": "2026-05-21",
+      "slug": "raspberry-pi-lanza-su-propio-microcontrolador-el-rp2350",
+      "tags": [
+        "microcontroladores",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "Raspberry Pi, conocido por sus placas de desarrollo, ha lanzado su propio microcontrolador, el RP2350. Este chip es el resultado de la experiencia y la retroalimentación de los clientes de la empresa.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-21-raspberry-pi-lanza-su-propio-microcontrolador-el-rp2350.md"
+    },
+    {
+      "title": "Apple Pocket Pi: una consola portátil de juegos retro con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-05-21",
+      "slug": "apple-pocket-pi-una-consola-portatil-de-juegos-retro-co",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Adafruit presenta el Apple Pocket Pi, una consola de juegos retro portátil que combina la potencia de Raspberry Pi con la creatividad de la impresión 3D.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-21-apple-pocket-pi-una-consola-portatil-de-juegos-retro-co.md"
+    },
+    {
+      "title": "Mejoras en el driver AMDGPU para Linux 7.2",
+      "category": "linux",
+      "date": "2026-05-21",
+      "slug": "mejoras-en-el-driver-amdgpu-para-linux-72",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa AMD ha estado trabajando en mejorar el driver AMDGPU para Linux 7.2, lo que permitirá una mejor experiencia de usuario y una mayor estabilidad en los sistemas que utilicen hardware AMD.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-21-mejoras-en-el-driver-amdgpu-para-linux-72.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para diversas distribuciones de Linux",
+      "category": "linux",
+      "date": "2026-05-21",
+      "slug": "actualizaciones-de-seguridad-para-diversas-distribucion",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes. Estas actualizaciones afectan a diferentes componentes del sistema, como el kernel, libpng, nginx, ruby y más.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-21-actualizaciones-de-seguridad-para-diversas-distribucion.md"
+    },
+    {
       "title": "Fusión de tecnologías de navegación robótica con rtabmap_ros",
       "category": "robotica",
       "date": "2026-05-20",

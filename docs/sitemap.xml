@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-20</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-20</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-21</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-por-que-los-robots-guiados-por-vision-fallan-en-producc.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-nuevas-parches-mejoran-el-rendimiento-de-linux-en-micro.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-la-seguridad-de-los-robots-domesticos-un-enfoque-basado.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-protocolo-spatialdds-para-compartir-datos-espaciales-en.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-robots-recuperan-chips-valiosos-de-residuos-electronico.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-tendra-la-robotica-un-momento-chatgpt.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-ieeeoes-oceans-2026-monterey-limite-de-propuestas-exten.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-synaptics-coralboard-una-placa-de-desarrollo-para-intel.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-encuadernacion-3d-para-el-modulo-esp32-sunton.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-cable-usb-inalambrico-para-hacking-con-microsd-y-contro.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-soldering-cable-holder-un-soporte-de-cables-para-soldar.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-raspberry-pi-lanza-su-propio-microcontrolador-el-rp2350.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-apple-pocket-pi-una-consola-portatil-de-juegos-retro-co.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-21-mejoras-en-el-driver-amdgpu-para-linux-72.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-21-actualizaciones-de-seguridad-para-diversas-distribucion.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-fusion-de-tecnologias-de-navegacion-robotica-con-rtabma.md</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-construye-un-sistema-de-agarre-de-robots-con-aprendizaj.md</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-robots-recuperan-chips-de-circuitos-para-reducir-residu.md</loc><lastmod>2026-05-20</lastmod><priority>0.8</priority></url>

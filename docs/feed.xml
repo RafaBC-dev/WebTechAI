@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 20 May 2026 10:19:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 10:31:22 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Por qué los robots guiados por visión fallan en producción a pesar de detectar correctamente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-por-que-los-robots-guiados-por-vision-fallan-en-producc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-por-que-los-robots-guiados-por-vision-fallan-en-producc.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los robots guiados por visión son comunes en la producción, pero a menudo fallan debido a problemas de precisión y estabilidad. Un desarrollador ha identificado las causas de estos problemas y propone una solución para mejorar la precisión…</description>
+  </item>
+  <item>
+    <title>Nuevas parches mejoran el rendimiento de Linux en Microsoft Surface Pro 9 5G</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-nuevas-parches-mejoran-el-rendimiento-de-linux-en-micro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-nuevas-parches-mejoran-el-rendimiento-de-linux-en-micro.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Después de dos años de trabajo, los desarrolladores han logrado mejorar significativamente el rendimiento de Linux en el Microsoft Surface Pro 9 5G, permitiendo que el portátil funcione de manera más efectiva y con características como…</description>
+  </item>
+  <item>
+    <title>La seguridad de los robots domésticos: un enfoque basado en relaciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-la-seguridad-de-los-robots-domesticos-un-enfoque-basado.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-la-seguridad-de-los-robots-domesticos-un-enfoque-basado.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La Organización Internacional de Normalización (ISO) está actualizando sus requisitos de seguridad para robots de cuidado personal después de 12 años. Este cambio es crucial debido a la evolución de la tecnología y la comprensión de la…</description>
+  </item>
+  <item>
+    <title>Protocolo SpatialDDS para compartir datos espaciales en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-protocolo-spatialdds-para-compartir-datos-espaciales-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-protocolo-spatialdds-para-compartir-datos-espaciales-en.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de robótica y sistemas embebidos acaba de recibir un regalo importante: SpatialDDS, un protocolo de cómputo espacial abierto que permite compartir datos espaciales en tiempo real entre diferentes dominios, incluyendo robots,…</description>
+  </item>
+  <item>
+    <title>Robots recuperan chips valiosos de residuos electrónicos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-robots-recuperan-chips-valiosos-de-residuos-electronico.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-robots-recuperan-chips-valiosos-de-residuos-electronico.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La generación de residuos electrónicos es un problema creciente, y la recuperación de materiales valiosos de estos residuos es cada vez más importante. La empresa Tuurny está desarrollando robots para recuperar chips de circuitos impresos…</description>
+  </item>
+  <item>
+    <title>¿Tendrá la robótica un momento ChatGPT?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-tendra-la-robotica-un-momento-chatgpt.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-tendra-la-robotica-un-momento-chatgpt.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica está a punto de experimentar un cambio revolucionario gracias a la inteligencia artificial. En las próximas décadas, robots autónomos y de IA trabajarán junto a las personas en fábricas, realizarán tareas tediosas en almacenes,…</description>
+  </item>
+  <item>
+    <title>IEEE/OES OCEANS 2026 Monterey: Límite de propuestas extendido</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-ieeeoes-oceans-2026-monterey-limite-de-propuestas-exten.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-ieeeoes-oceans-2026-monterey-limite-de-propuestas-exten.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La conferencia IEEE/OES OCEANS 2026 Monterey ha extendido el límite de propuestas para sesiones de trabajo y tutoriales hasta el 26 de mayo de 2026. Esta oportunidad es ideal para contribuir al programa técnico y conectarse con la…</description>
+  </item>
+  <item>
+    <title>Synaptics Coralboard: una placa de desarrollo para inteligencia artificial en el borde</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-synaptics-coralboard-una-placa-de-desarrollo-para-intel.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-21-synaptics-coralboard-una-placa-de-desarrollo-para-intel.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Synaptics ha lanzado la Coralboard, una placa de desarrollo que combina un procesador de inteligencia artificial (AI) con una arquitectura de bordes, permitiendo la ejecución de modelos de aprendizaje automático en tiempo real. Esta placa…</description>
+  </item>
+  <item>
+    <title>Encuadernación 3D para el módulo ESP32 Sunton</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-encuadernacion-3d-para-el-modulo-esp32-sunton.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-encuadernacion-3d-para-el-modulo-esp32-sunton.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado una encuadernación 3D para el módulo ESP32 Sunton, un popular módulo de controlador de pantalla táctil. Esta encuadernación es ideal para proyectos de ESPHome y Home Assistant.</description>
+  </item>
+  <item>
+    <title>Cable USB inalámbrico para hacking con microSD y control remoto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-cable-usb-inalambrico-para-hacking-con-microsd-y-contro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-cable-usb-inalambrico-para-hacking-con-microsd-y-contro.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un equipo de desarrolladores ha creado un cable USB inalámbrico con microSD para hacking y automatización, que se puede controlar desde smartphones o computadoras.</description>
+  </item>
+  <item>
+    <title>Soldering Cable Holder: un soporte de cables para soldar sin problemas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-soldering-cable-holder-un-soporte-de-cables-para-soldar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-soldering-cable-holder-un-soporte-de-cables-para-soldar.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha compartido un proyecto interesante de impresión 3D que permite crear un soporte de cables para soldar sin necesidad de usar clips o ganchos. Este proyecto es relevante para los entusiastas de la electrónica y la robótica que…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi lanza su propio microcontrolador, el RP2350</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-raspberry-pi-lanza-su-propio-microcontrolador-el-rp2350.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-raspberry-pi-lanza-su-propio-microcontrolador-el-rp2350.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Raspberry Pi, conocido por sus placas de desarrollo, ha lanzado su propio microcontrolador, el RP2350. Este chip es el resultado de la experiencia y la retroalimentación de los clientes de la empresa.</description>
+  </item>
+  <item>
+    <title>Apple Pocket Pi: una consola portátil de juegos retro con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-apple-pocket-pi-una-consola-portatil-de-juegos-retro-co.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-21-apple-pocket-pi-una-consola-portatil-de-juegos-retro-co.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta el Apple Pocket Pi, una consola de juegos retro portátil que combina la potencia de Raspberry Pi con la creatividad de la impresión 3D.</description>
+  </item>
+  <item>
+    <title>Mejoras en el driver AMDGPU para Linux 7.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-21-mejoras-en-el-driver-amdgpu-para-linux-72.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-21-mejoras-en-el-driver-amdgpu-para-linux-72.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa AMD ha estado trabajando en mejorar el driver AMDGPU para Linux 7.2, lo que permitirá una mejor experiencia de usuario y una mayor estabilidad en los sistemas que utilicen hardware AMD.</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para diversas distribuciones de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-21-actualizaciones-de-seguridad-para-diversas-distribucion.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-21-actualizaciones-de-seguridad-para-diversas-distribucion.md</guid>
+    <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes. Estas actualizaciones afectan a diferentes componentes del sistema, como el kernel, libpng, nginx, ruby y más.</description>
+  </item>
   <item>
     <title>Fusión de tecnologías de navegación robótica con rtabmap_ros</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-fusion-de-tecnologias-de-navegacion-robotica-con-rtabma.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La distribución Linux Fedora ha decidido retirar los paquetes de Deepin debido a preocupaciones de seguridad y falta de actividad en su mantenimiento. Esta decisión se toma un año después de que SUSE también decidió retirar sus paquetes de…</description>
-  </item>
-  <item>
-    <title>Ouster presenta tecnología LiDAR con color nativo en San Francisco</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-ouster-presenta-tecnologia-lidar-con-color-nativo-en-sa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-ouster-presenta-tecnologia-lidar-con-color-nativo-en-sa.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Ouster, una empresa pionera en tecnología LiDAR, anuncia un evento en San Francisco para presentar sus últimas innovaciones en sensores LiDAR con color nativo. Esta tecnología revolucionaria tiene aplicaciones en la industria automotriz,…</description>
-  </item>
-  <item>
-    <title>Detectar colapso de ejecución antes del E-stop: ros2_kinematic_guard</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-detectar-colapso-de-ejecucion-antes-del-e-stop-ros2-kin.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-detectar-colapso-de-ejecucion-antes-del-e-stop-ros2-kin.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un nuevo paquete de ROS 2 llamado ros2_kinematic_guard busca detectar colapso de ejecución en sistemas de robots móviles antes de que el sistema de seguridad intervenga. Esto puede evitar paradas bruscas y mejorar la disponibilidad del…</description>
-  </item>
-  <item>
-    <title>Máquinas robóticas operan de forma autónoma en industrias pesadas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-maquinas-roboticas-operan-de-forma-autonoma-en-industri.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-19-maquinas-roboticas-operan-de-forma-autonoma-en-industri.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La tecnología robótica ha dado un paso importante en la automatización de industrias pesadas. Un equipo de investigación de la Universidad de Zúrich ETH ha desarrollado una solución autónoma para el manejo de materiales en entornos…</description>
-  </item>
-  <item>
-    <title>Anthropic compra herramientas de desarrollo de Stainless, usadas por OpenAI y Google</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-anthropic-compra-herramientas-de-desarrollo-de-stainles.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-anthropic-compra-herramientas-de-desarrollo-de-stainles.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Anthropic ha adquirido Stainless, una startup que ha desarrollado herramientas de desarrollo utilizadas por algunas de las principales empresas de inteligencia artificial, incluyendo OpenAI y Google. Esta adquisición elimina a…</description>
-  </item>
-  <item>
-    <title>Elon Musk pierde demanda contra OpenAI y Sam Altman</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-elon-musk-pierde-demanda-contra-openai-y-sam-altman.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-elon-musk-pierde-demanda-contra-openai-y-sam-altman.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Elon Musk ha perdido su demanda contra Sam Altman y OpenAI, después de que un jurado californiano encontrara que sus reclamaciones habían sido presentadas demasiado tarde. La demanda de Musk se centraba en la creación de una filial…</description>
-  </item>
-  <item>
-    <title>Avances en Inteligencia Artificial para Equipos Robóticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-avances-en-inteligencia-artificial-para-equipos-robotic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-avances-en-inteligencia-artificial-para-equipos-robotic.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El Johns Hopkins Applied Physics Laboratory ha estado trabajando en la creación de inteligencia artificial agente para equipos robóticos. Este avance busca resolver los desafíos de la autonomía, la coordinación y la adaptabilidad en…</description>
-  </item>
-  <item>
-    <title>SandboxAQ integra modelos de descubrimiento de fármacos en Claude sin necesidad de experiencia en informática</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-sandboxaq-integra-modelos-de-descubrimiento-de-farmacos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-sandboxaq-integra-modelos-de-descubrimiento-de-farmacos.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La compañía SandboxAQ ha anunciado la integración de sus modelos de descubrimiento de fármacos en Claude, un sistema de inteligencia artificial que permite a los usuarios acceder a herramientas de descubrimiento de fármacos y ciencia de…</description>
-  </item>
-  <item>
-    <title>Clasificando tareas para robots: entendiendo lo que significa 'dulce, sucio y peligroso'</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-clasificando-tareas-para-robots-entendiendo-lo-que-sign.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-19-clasificando-tareas-para-robots-entendiendo-lo-que-sign.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica ha utilizado durante años los términos 'dulce, sucio y peligroso' (DDD) para describir tareas o trabajos donde los robots pueden ser útiles. Sin embargo, determinar qué actividades humanas encajan en estas categorías no es tan…</description>
-  </item>
-  <item>
-    <title>Kit industrial para Raspberry Pi con interfaces aisladas y DIN rail</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-kit-industrial-para-raspberry-pi-con-interfaces-aislada.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-kit-industrial-para-raspberry-pi-con-interfaces-aislada.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Waveshare ha lanzado un kit que convierte un Raspberry Pi 4 o 5 en un ordenador industrial con interfaces aisladas y una carcasa para DIN rail. Esto permite a los usuarios crear sistemas de control industrial más fáciles y económicos.</description>
-  </item>
-  <item>
-    <title>Nueva placa ESP32-S3 PowerFeather V2 con soporte para baterías LiFePO4</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-nueva-placa-esp32-s3-powerfeather-v2-con-soporte-para-b.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-19-nueva-placa-esp32-s3-powerfeather-v2-con-soporte-para-b.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La placa ESP32-S3 PowerFeather V2 es una actualización de la placa ESP32-S3 PowerFeather, que ahora soporta baterías LiFePO4, además de Li-Ion y LiPo. Esto significa que los usuarios pueden aprovechar las ventajas de las baterías LiFePO4,…</description>
-  </item>
-  <item>
-    <title>Linux 7.2 arreglará problemas de frecuencia en procesadores Intel Bartlett Lake</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-72-arreglara-problemas-de-frecuencia-en-procesado.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-72-arreglara-problemas-de-frecuencia-en-procesado.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La próxima versión de Linux 7.2 incluirá un arreglo para que los procesadores Intel Bartlett Lake no reporten frecuencias de máxima incorrectas. Esto se debe a un problema detectado en el driver Intel P-State.</description>
-  </item>
-  <item>
-    <title>Linux trabaja en un API de datos no confiables basado en Rust</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-trabaja-en-un-api-de-datos-no-confiables-basado-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-linux-trabaja-en-un-api-de-datos-no-confiables-basado-e.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El kernel de Linux está mejorando su seguridad con un nuevo API que marca los datos no confiables recibidos desde el espacio de usuario. Esto ayudará a prevenir problemas de seguridad y bugs.</description>
-  </item>
-  <item>
-    <title>Ubuntu Core 26: seguridad y eficiencia para dispositivos IoT y embebidos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-ubuntu-core-26-seguridad-y-eficiencia-para-dispositivos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-ubuntu-core-26-seguridad-y-eficiencia-para-dispositivos.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Canonical ha lanzado Ubuntu Core 26, una versión de Linux diseñada específicamente para dispositivos IoT y sistemas embebidos. Esta versión ofrece una seguridad y eficiencia mejoradas, lo que la convierte en una opción atractiva para…</description>
-  </item>
-  <item>
-    <title>Un clásico digital se renueva con tecnología moderna</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-un-clasico-digital-se-renueva-con-tecnologia-moderna.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-un-clasico-digital-se-renueva-con-tecnologia-moderna.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un dispositivo de la década de 1990 ha sido transformado en un dispositivo más capaz gracias a la integración de un Raspberry Pi Zero y una pantalla LCD de alta resolución.</description>
-  </item>
-  <item>
-    <title>Nueva configuración para OneXPlayer llega a Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-nueva-configuracion-para-onexplayer-llega-a-linux-72.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-19-nueva-configuracion-para-onexplayer-llega-a-linux-72.md</guid>
-    <pubDate>Tue, 19 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La empresa Valve ha estado trabajando en un nuevo driver para el OneXPlayer, un dispositivo de juego portátil que utiliza Linux. Este nuevo driver permitirá a los usuarios personalizar la configuración de su dispositivo de juego,…</description>
   </item>
 </channel>
 </rss>
