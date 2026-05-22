@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 10:31:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 10:16:35 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>URML: un lenguaje para la programación de robots industriales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-22-urml-un-lenguaje-para-la-programacion-de-robots-industr.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-22-urml-un-lenguaje-para-la-programacion-de-robots-industr.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de desarrolladores ha creado URML, un lenguaje de programación para robots industriales que permite componer sobre pilas de robótica existentes, en lugar de reemplazarlas. Esto podría revolucionar la forma en que se programan los…</description>
+  </item>
+  <item>
+    <title>Arreglos de red en Linux: la locura continúa sin fin</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-arreglos-de-red-en-linux-la-locura-continua-sin-fin.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-arreglos-de-red-en-linux-la-locura-continua-sin-fin.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de Linux ha estado llena de arreglos de bugs y vulnerabilidades en el kernel, gracias a la ayuda de bots de IA/LLM como Shashiko. Estos arreglos afectan a la red y pueden tener consecuencias importantes en la seguridad y…</description>
+  </item>
+  <item>
+    <title>Computadoras de AI de borde para desarrolladores y emprendedores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-computadoras-de-ai-de-borde-para-desarrolladores-y-empr.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-computadoras-de-ai-de-borde-para-desarrolladores-y-empr.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Seeed Studio ha lanzado las computadoras de AI de borde reComputer RK3576/RK3588, diseñadas para desarrolladores y emprendedores que buscan implementar soluciones de AI en el mundo real.</description>
+  </item>
+  <item>
+    <title>La próxima revolución en la IA física no son robots más inteligentes, sino interfaces más inteligentes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-proxima-revolucion-en-la-ia-fisica-no-son-robots-mas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-proxima-revolucion-en-la-ia-fisica-no-son-robots-mas.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La industria de la IA física ha estado enfocada en mejorar los robots, pero ahora es hora de darle prioridad a la interfaz entre humanos y máquinas. Esto es especialmente importante en entornos donde las manos están ocupadas, los ojos…</description>
+  </item>
+  <item>
+    <title>Mejoras en el subconjunto de sonido de Linux gracias a la IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-mejoras-en-el-subconjunto-de-sonido-de-linux-gracias-a-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-mejoras-en-el-subconjunto-de-sonido-de-linux-gracias-a-.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El subconjunto de sonido de Linux ha visto un aumento en la actividad en las últimas semanas, con muchas correcciones y mejoras gracias a la ayuda de la inteligencia artificial. Esto ha llevado a la aparición de parches y correcciones…</description>
+  </item>
+  <item>
+    <title>El software de código abierto ayuda a los robots a pensar y tomar decisiones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pens.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pens.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de robótica ha visto un gran avance con la creación de software de código abierto que permite a los robots pensar y tomar decisiones de manera más autónoma. Esto ha sido posible gracias a la colaboración de empresas como…</description>
+  </item>
+  <item>
+    <title>¿La robótica tendrá un momento ChatGPT?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-robotica-tendra-un-momento-chatgpt.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-robotica-tendra-un-momento-chatgpt.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica está experimentando un crecimiento exponencial, con inversiones récord en empresas de robótica y una creciente demanda de robots autónomos que trabajen junto a los humanos en diversas industrias.</description>
+  </item>
+  <item>
+    <title>Trump retrasa orden ejecutiva sobre seguridad de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-trump-retrasa-orden-ejecutiva-sobre-seguridad-de-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-trump-retrasa-orden-ejecutiva-sobre-seguridad-de-ia.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El presidente Donald Trump ha retrasado la firma de una orden ejecutiva que permitiría evaluar modelos de IA antes de su lanzamiento. Esto se debe a preocupaciones sobre la seguridad de modelos como Mythos y GPT-5.5 Cyber, que pueden…</description>
+  </item>
+  <item>
+    <title>Casilla de impresión 3D para Raspberry Pi Zero 2W con iluminación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-casilla-de-impresion-3d-para-raspberry-pi-zero-2w-con-i.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-casilla-de-impresion-3d-para-raspberry-pi-zero-2w-con-i.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado una casilla para Raspberry Pi Zero 2W con una iluminación personalizable, lo que permite a los usuarios crear proyectos innovadores y atractivos.</description>
+  </item>
+  <item>
+    <title>Caja para Raspberry Pi Zero 2W con pantalla e-Paper y UPS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-caja-para-raspberry-pi-zero-2w-con-pantalla-e-paper-y-u.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-caja-para-raspberry-pi-zero-2w-con-pantalla-e-paper-y-u.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta una caja para Raspberry Pi Zero 2W con pantalla e-Paper y UPS, ideal para proyectos de robótica y automatización. Esta caja es perfecta para crear proyectos portátiles con Raspberry Pi.</description>
+  </item>
+  <item>
+    <title>Raspberry Pi lanza su propio microcontrolador RP2350</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-raspberry-pi-lanza-su-propio-microcontrolador-rp2350.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-raspberry-pi-lanza-su-propio-microcontrolador-rp2350.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Raspberry Pi, conocido por sus ordenadores de placa única, ha lanzado su propio microcontrolador RP2350, un dispositivo que supera a su predecesor RP2040 en seguridad, potencia y conectividad. Este lanzamiento es un paso importante en la…</description>
+  </item>
+  <item>
+    <title>M5Stack StopWatch: un devkit compacto con AMOLED y audio para IoT y wearables</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-m5stack-stopwatch-un-devkit-compacto-con-amoled-y-audio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-m5stack-stopwatch-un-devkit-compacto-con-amoled-y-audio.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa M5Stack ha lanzado un nuevo devkit llamado StopWatch, que combina una pantalla AMOLED de 1,75 pulgadas con un micrófono, un altavoz y conexiones GPIO. Este dispositivo está diseñado para crear dispositivos IoT portátiles,…</description>
+  </item>
+  <item>
+    <title>Lámpara Cyberpunk con impresión 3D y diseño Art Deco</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-lampara-cyberpunk-con-impresion-3d-y-diseno-art-deco.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-lampara-cyberpunk-con-impresion-3d-y-diseno-art-deco.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado una lámpara impresionante que combina estilos cyberpunk y Art Deco. Esta lámpara, llamada Cyber-Deco Lamp, es un proyecto que ha sido compartido en la plataforma MakerWorld.</description>
+  </item>
+  <item>
+    <title>Resolver rutas de paquetes en controladores de ROS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-resolver-rutas-de-paquetes-en-controladores-de-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-resolver-rutas-de-paquetes-en-controladores-de-ros.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un desarrollador de ROS ha descubierto una forma de cargar parámetros de configuración para controladores de forma dinámica, lo que podría simplificar la gestión de archivos de configuración.</description>
+  </item>
+  <item>
+    <title>GCC 16 se acerca a la paridad con LLVM en soporte para BPF</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-gcc-16-se-acerca-a-la-paridad-con-llvm-en-soporte-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-gcc-16-se-acerca-a-la-paridad-con-llvm-en-soporte-para-.md</guid>
+    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El soporte de BPF en GCC 16 está avanzando rápidamente, alcanzando una paridad cercana con el toolchain de LLVM. Esta mejora es relevante para desarrolladores de software que trabajan con tecnologías de red y seguridad.</description>
+  </item>
   <item>
     <title>Por qué los robots guiados por visión fallan en producción a pesar de detectar correctamente</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-por-que-los-robots-guiados-por-vision-fallan-en-producc.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 21 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes. Estas actualizaciones afectan a diferentes componentes del sistema, como el kernel, libpng, nginx, ruby y más.</description>
-  </item>
-  <item>
-    <title>Fusión de tecnologías de navegación robótica con rtabmap_ros</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-fusion-de-tecnologias-de-navegacion-robotica-con-rtabma.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-fusion-de-tecnologias-de-navegacion-robotica-con-rtabma.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de robótica ha logrado un avance significativo en la navegación de robots con la fusión de tecnologías de navegación robótica en el proyecto rtabmap_ros. Esta integración permite a los robots navegar de manera más precisa y…</description>
-  </item>
-  <item>
-    <title>Construye un sistema de agarre de robots con aprendizaje por refuerzo en Isaac Lab</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-construye-un-sistema-de-agarre-de-robots-con-aprendizaj.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-construye-un-sistema-de-agarre-de-robots-con-aprendizaj.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de desarrolladores ha creado un sistema de agarre de robots utilizando aprendizaje por refuerzo en el entorno de simulación de NVIDIA Isaac Lab. Este proyecto permite entrenar y evaluar políticas de manipulación robótica de…</description>
-  </item>
-  <item>
-    <title>Robots recuperan chips de circuitos para reducir residuos electrónicos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-robots-recuperan-chips-de-circuitos-para-reducir-residu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-robots-recuperan-chips-de-circuitos-para-reducir-residu.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La cantidad de residuos electrónicos se está volviendo un problema cada vez más grave. La Unión Europea y California están implementando nuevas regulaciones para reducir la cantidad de residuos electrónicos que se exportan o se destruyen.…</description>
-  </item>
-  <item>
-    <title>Seguridad en robots domésticos: la relación entre humanos y máquinas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-seguridad-en-robots-domesticos-la-relacion-entre-humano.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-20-seguridad-en-robots-domesticos-la-relacion-entre-humano.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La Organización Internacional de Normalización (ISO) está actualizando sus requisitos de seguridad para robots de cuidado personal. Este cambio es importante porque los fabricantes de robots humanoides están pasando de prototipos de…</description>
-  </item>
-  <item>
-    <title>Gmail Live: un asistente de IA para buscar correos electrónicos de manera natural</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-gmail-live-un-asistente-de-ia-para-buscar-correos-elect.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-gmail-live-un-asistente-de-ia-para-buscar-correos-elect.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google ha anunciado la expansión de su función 'AI Inbox' en Gmail, que permite buscar correos electrónicos de manera natural utilizando un asistente de IA llamado Gmail Live. Esto puede ser especialmente útil para encontrar información…</description>
-  </item>
-  <item>
-    <title>La batalla entre humanos y IA en el desarrollo de software</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-la-batalla-entre-humanos-y-ia-en-el-desarrollo-de-softw.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-la-batalla-entre-humanos-y-ia-en-el-desarrollo-de-softw.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El desarrollo de software se enfrenta a un nuevo desafío: la proliferación de pruebas y solicitudes de código generadas por agentes de inteligencia artificial (IA). Esto ha llevado a los mantenedores de proyectos a cuestionar la calidad y…</description>
-  </item>
-  <item>
-    <title>Clasificando tareas peligrosas: un marco para la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-clasificando-tareas-peligrosas-un-marco-para-la-robotic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-clasificando-tareas-peligrosas-un-marco-para-la-robotic.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica busca automatizar tareas peligrosas, pero ¿cómo definimos qué es peligroso? Un equipo de investigadores ha propuesto un marco para clasificar tareas según su peligrosidad, basado en la literatura social y la experiencia de la…</description>
-  </item>
-  <item>
-    <title>Nuevos agentes de IA en Google para buscar y aprender sin esfuerzo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-nuevos-agentes-de-ia-en-google-para-buscar-y-aprender-s.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-nuevos-agentes-de-ia-en-google-para-buscar-y-aprender-s.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google ha anunciado la llegada de nuevos agentes de IA en su buscador, que permiten a los usuarios crear y personalizar múltiples agentes para estar al día sobre temas de interés. Estos agentes pueden operar de manera continua en segundo…</description>
-  </item>
-  <item>
-    <title>Nueva plataforma de servidores de IA con 2880 TOPS de rendimiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-nueva-plataforma-de-servidores-de-ia-con-2880-tops-de-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-20-nueva-plataforma-de-servidores-de-ia-con-2880-tops-de-r.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Firefly ha lanzado el CSC2-N48SPK3, un servidor de 2U con 48 nodos de cómputo distribuido, cada uno con un SoC SpacemiT K3 que ofrece hasta 60 TOPS de rendimiento en AI. Este servidor es ideal para aplicaciones de procesamiento de lenguaje…</description>
-  </item>
-  <item>
-    <title>Mapear campos magnéticos: un dispositivo innovador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-20-mapear-campos-magneticos-un-dispositivo-innovador.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-20-mapear-campos-magneticos-un-dispositivo-innovador.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha creado un dispositivo para mapear campos magnéticos, utilizando tecnología de última generación. Este dispositivo puede ser útil para investigadores y científicos que buscan detectar anomalías magnéticas en la Tierra.</description>
-  </item>
-  <item>
-    <title>Impresión de circuitos impresos con 3D Printers: una solución rápida</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-20-impresion-de-circuitos-impresos-con-3d-printers-una-sol.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-20-impresion-de-circuitos-impresos-con-3d-printers-una-sol.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La impresión de circuitos impresos ha mejorado en la última década, pero la creación de prototipos rápidos sigue siendo un desafío. Ahora, un equipo de investigación ha encontrado una solución innovadora utilizando 3D Printers.</description>
-  </item>
-  <item>
-    <title>Mejorando el rendimiento de operaciones en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-mejorando-el-rendimiento-de-operaciones-en-linux.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-mejorando-el-rendimiento-de-operaciones-en-linux.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El rendimiento de las operaciones en Linux se está mejorando gracias a un cambio fundamental en cómo se accede a variables por CPU. Este cambio podría mejorar el rendimiento en una amplia gama de arquitecturas.</description>
-  </item>
-  <item>
-    <title>Ubuntu Core 26: una versión segura y optimizada para dispositivos IoT y embebidos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-ubuntu-core-26-una-version-segura-y-optimizada-para-dis.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-ubuntu-core-26-una-version-segura-y-optimizada-para-dis.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Canonical ha lanzado Ubuntu Core 26, una versión de Ubuntu diseñada específicamente para dispositivos IoT y sistemas embebidos. Esta versión ofrece una seguridad extendida de hasta 15 años y una serie de características innovadoras que…</description>
-  </item>
-  <item>
-    <title>Calculadora científica FPGA: diseño y construcción desde cero</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-calculadora-cientifica-fpga-diseno-y-construccion-desde.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-calculadora-cientifica-fpga-diseno-y-construccion-desde.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un equipo de ingenieros ha diseñado y construido una calculadora científica desde cero, utilizando un FPGA Altera Cyclone II y una CPU personalizada. Esta calculadora utiliza el formato de números binarios decimales (BCD) y ofrece…</description>
-  </item>
-  <item>
-    <title>Fedora retira paquetes de Deepin debido a preocupaciones de seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-fedora-retira-paquetes-de-deepin-debido-a-preocupacione.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-20-fedora-retira-paquetes-de-deepin-debido-a-preocupacione.md</guid>
-    <pubDate>Wed, 20 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La distribución Linux Fedora ha decidido retirar los paquetes de Deepin debido a preocupaciones de seguridad y falta de actividad en su mantenimiento. Esta decisión se toma un año después de que SUSE también decidió retirar sus paquetes de…</description>
   </item>
 </channel>
 </rss>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "URML: un lenguaje para la programación de robots industriales",
+      "category": "robotica",
+      "date": "2026-05-22",
+      "slug": "urml-un-lenguaje-para-la-programacion-de-robots-industr",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado URML, un lenguaje de programación para robots industriales que permite componer sobre pilas de robótica existentes, en lugar de reemplazarlas. Esto podría revolucionar la forma en que se programan los…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-22-urml-un-lenguaje-para-la-programacion-de-robots-industr.md"
+    },
+    {
+      "title": "Arreglos de red en Linux: la locura continúa sin fin",
+      "category": "ia",
+      "date": "2026-05-22",
+      "slug": "arreglos-de-red-en-linux-la-locura-continua-sin-fin",
+      "tags": [
+        "linux",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha estado llena de arreglos de bugs y vulnerabilidades en el kernel, gracias a la ayuda de bots de IA/LLM como Shashiko. Estos arreglos afectan a la red y pueden tener consecuencias importantes en la seguridad y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-22-arreglos-de-red-en-linux-la-locura-continua-sin-fin.md"
+    },
+    {
+      "title": "Computadoras de AI de borde para desarrolladores y emprendedores",
+      "category": "ia",
+      "date": "2026-05-22",
+      "slug": "computadoras-de-ai-de-borde-para-desarrolladores-y-empr",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Seeed Studio ha lanzado las computadoras de AI de borde reComputer RK3576/RK3588, diseñadas para desarrolladores y emprendedores que buscan implementar soluciones de AI en el mundo real.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-22-computadoras-de-ai-de-borde-para-desarrolladores-y-empr.md"
+    },
+    {
+      "title": "La próxima revolución en la IA física no son robots más inteligentes, sino interfaces más inteligentes",
+      "category": "ia",
+      "date": "2026-05-22",
+      "slug": "la-proxima-revolucion-en-la-ia-fisica-no-son-robots-mas",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La industria de la IA física ha estado enfocada en mejorar los robots, pero ahora es hora de darle prioridad a la interfaz entre humanos y máquinas. Esto es especialmente importante en entornos donde las manos están ocupadas, los ojos…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-22-la-proxima-revolucion-en-la-ia-fisica-no-son-robots-mas.md"
+    },
+    {
+      "title": "Mejoras en el subconjunto de sonido de Linux gracias a la IA",
+      "category": "ia",
+      "date": "2026-05-22",
+      "slug": "mejoras-en-el-subconjunto-de-sonido-de-linux-gracias-a-",
+      "tags": [
+        "linux",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "El subconjunto de sonido de Linux ha visto un aumento en la actividad en las últimas semanas, con muchas correcciones y mejoras gracias a la ayuda de la inteligencia artificial. Esto ha llevado a la aparición de parches y correcciones…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-22-mejoras-en-el-subconjunto-de-sonido-de-linux-gracias-a-.md"
+    },
+    {
+      "title": "El software de código abierto ayuda a los robots a pensar y tomar decisiones",
+      "category": "ia",
+      "date": "2026-05-22",
+      "slug": "el-software-de-codigo-abierto-ayuda-a-los-robots-a-pens",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica ha visto un gran avance con la creación de software de código abierto que permite a los robots pensar y tomar decisiones de manera más autónoma. Esto ha sido posible gracias a la colaboración de empresas como…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-22-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pens.md"
+    },
+    {
+      "title": "¿La robótica tendrá un momento ChatGPT?",
+      "category": "ia",
+      "date": "2026-05-22",
+      "slug": "la-robotica-tendra-un-momento-chatgpt",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La robótica está experimentando un crecimiento exponencial, con inversiones récord en empresas de robótica y una creciente demanda de robots autónomos que trabajen junto a los humanos en diversas industrias.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-22-la-robotica-tendra-un-momento-chatgpt.md"
+    },
+    {
+      "title": "Trump retrasa orden ejecutiva sobre seguridad de IA",
+      "category": "ia",
+      "date": "2026-05-22",
+      "slug": "trump-retrasa-orden-ejecutiva-sobre-seguridad-de-ia",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El presidente Donald Trump ha retrasado la firma de una orden ejecutiva que permitiría evaluar modelos de IA antes de su lanzamiento. Esto se debe a preocupaciones sobre la seguridad de modelos como Mythos y GPT-5.5 Cyber, que pueden…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-22-trump-retrasa-orden-ejecutiva-sobre-seguridad-de-ia.md"
+    },
+    {
+      "title": "Casilla de impresión 3D para Raspberry Pi Zero 2W con iluminación",
+      "category": "embebidos",
+      "date": "2026-05-22",
+      "slug": "casilla-de-impresion-3d-para-raspberry-pi-zero-2w-con-i",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "linux"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una casilla para Raspberry Pi Zero 2W con una iluminación personalizable, lo que permite a los usuarios crear proyectos innovadores y atractivos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-22-casilla-de-impresion-3d-para-raspberry-pi-zero-2w-con-i.md"
+    },
+    {
+      "title": "Caja para Raspberry Pi Zero 2W con pantalla e-Paper y UPS",
+      "category": "embebidos",
+      "date": "2026-05-22",
+      "slug": "caja-para-raspberry-pi-zero-2w-con-pantalla-e-paper-y-u",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "microcontroladores"
+      ],
+      "preview": "Adafruit presenta una caja para Raspberry Pi Zero 2W con pantalla e-Paper y UPS, ideal para proyectos de robótica y automatización. Esta caja es perfecta para crear proyectos portátiles con Raspberry Pi.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-22-caja-para-raspberry-pi-zero-2w-con-pantalla-e-paper-y-u.md"
+    },
+    {
+      "title": "Raspberry Pi lanza su propio microcontrolador RP2350",
+      "category": "embebidos",
+      "date": "2026-05-22",
+      "slug": "raspberry-pi-lanza-su-propio-microcontrolador-rp2350",
+      "tags": [
+        "microcontroladores",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "Raspberry Pi, conocido por sus ordenadores de placa única, ha lanzado su propio microcontrolador RP2350, un dispositivo que supera a su predecesor RP2040 en seguridad, potencia y conectividad. Este lanzamiento es un paso importante en la…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-22-raspberry-pi-lanza-su-propio-microcontrolador-rp2350.md"
+    },
+    {
+      "title": "M5Stack StopWatch: un devkit compacto con AMOLED y audio para IoT y wearables",
+      "category": "embebidos",
+      "date": "2026-05-22",
+      "slug": "m5stack-stopwatch-un-devkit-compacto-con-amoled-y-audio",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa M5Stack ha lanzado un nuevo devkit llamado StopWatch, que combina una pantalla AMOLED de 1,75 pulgadas con un micrófono, un altavoz y conexiones GPIO. Este dispositivo está diseñado para crear dispositivos IoT portátiles,…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-22-m5stack-stopwatch-un-devkit-compacto-con-amoled-y-audio.md"
+    },
+    {
+      "title": "Lámpara Cyberpunk con impresión 3D y diseño Art Deco",
+      "category": "embebidos",
+      "date": "2026-05-22",
+      "slug": "lampara-cyberpunk-con-impresion-3d-y-diseno-art-deco",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "impresion-3d"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una lámpara impresionante que combina estilos cyberpunk y Art Deco. Esta lámpara, llamada Cyber-Deco Lamp, es un proyecto que ha sido compartido en la plataforma MakerWorld.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-22-lampara-cyberpunk-con-impresion-3d-y-diseno-art-deco.md"
+    },
+    {
+      "title": "Resolver rutas de paquetes en controladores de ROS",
+      "category": "linux",
+      "date": "2026-05-22",
+      "slug": "resolver-rutas-de-paquetes-en-controladores-de-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador de ROS ha descubierto una forma de cargar parámetros de configuración para controladores de forma dinámica, lo que podría simplificar la gestión de archivos de configuración.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-22-resolver-rutas-de-paquetes-en-controladores-de-ros.md"
+    },
+    {
+      "title": "GCC 16 se acerca a la paridad con LLVM en soporte para BPF",
+      "category": "linux",
+      "date": "2026-05-22",
+      "slug": "gcc-16-se-acerca-a-la-paridad-con-llvm-en-soporte-para-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El soporte de BPF en GCC 16 está avanzando rápidamente, alcanzando una paridad cercana con el toolchain de LLVM. Esta mejora es relevante para desarrolladores de software que trabajan con tecnologías de red y seguridad.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-22-gcc-16-se-acerca-a-la-paridad-con-llvm-en-soporte-para-.md"
+    },
+    {
       "title": "Por qué los robots guiados por visión fallan en producción a pesar de detectar correctamente",
       "category": "robotica",
       "date": "2026-05-21",

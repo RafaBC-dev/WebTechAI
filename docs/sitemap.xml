@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-21</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-22</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-22-urml-un-lenguaje-para-la-programacion-de-robots-industr.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-arreglos-de-red-en-linux-la-locura-continua-sin-fin.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-computadoras-de-ai-de-borde-para-desarrolladores-y-empr.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-proxima-revolucion-en-la-ia-fisica-no-son-robots-mas.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-mejoras-en-el-subconjunto-de-sonido-de-linux-gracias-a-.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pens.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-robotica-tendra-un-momento-chatgpt.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-trump-retrasa-orden-ejecutiva-sobre-seguridad-de-ia.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-casilla-de-impresion-3d-para-raspberry-pi-zero-2w-con-i.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-caja-para-raspberry-pi-zero-2w-con-pantalla-e-paper-y-u.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-raspberry-pi-lanza-su-propio-microcontrolador-rp2350.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-m5stack-stopwatch-un-devkit-compacto-con-amoled-y-audio.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-lampara-cyberpunk-con-impresion-3d-y-diseno-art-deco.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-resolver-rutas-de-paquetes-en-controladores-de-ros.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-gcc-16-se-acerca-a-la-paridad-con-llvm-en-soporte-para-.md</loc><lastmod>2026-05-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-por-que-los-robots-guiados-por-vision-fallan-en-producc.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-nuevas-parches-mejoran-el-rendimiento-de-linux-en-micro.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-21-la-seguridad-de-los-robots-domesticos-un-enfoque-basado.md</loc><lastmod>2026-05-21</lastmod><priority>0.8</priority></url>
