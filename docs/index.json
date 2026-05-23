@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Kiosco inteligente con brazo robótico para dispensar alimentos y bebidas automatizados",
+      "category": "robotica",
+      "date": "2026-05-23",
+      "slug": "kiosco-inteligente-con-brazo-robotico-para-dispensar-al",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El proyecto 'Robot Gardener' busca crear un asistente robótico para ayudar a las personas a cultivar alimentos de manera más fácil y sostenible. Este kiosco inteligente con brazo robótico puede dispensar alimentos y bebidas automatizados,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-23-kiosco-inteligente-con-brazo-robotico-para-dispensar-al.md"
+    },
+    {
+      "title": "ROS 2 Lyrical Luth: una nueva versión de ROS 2 está disponible",
+      "category": "robotica",
+      "date": "2026-05-23",
+      "slug": "ros-2-lyrical-luth-una-nueva-version-de-ros-2-esta-disp",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha lanzado una nueva versión de su framework de robótica, ROS 2 Lyrical Luth. Esta versión incluye mejoras y correcciones importantes, y es el resultado del trabajo de muchos contribuyentes y mantenedores. La…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-23-ros-2-lyrical-luth-una-nueva-version-de-ros-2-esta-disp.md"
+    },
+    {
+      "title": "ROSCon China 2026: Jornada de Robótica y Inteligencia Artificial",
+      "category": "robotica",
+      "date": "2026-05-23",
+      "slug": "roscon-china-2026-jornada-de-robotica-y-inteligencia-ar",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica y inteligencia artificial se reúne en China para compartir avances en el ecosistema ROS, robótica y tecnologías de automatización. La conferencia ROSCon China 2026 es un evento ineludible para desarrolladores,…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-23-roscon-china-2026-jornada-de-robotica-y-inteligencia-ar.md"
+    },
+    {
+      "title": "Reverso de motor de Unitree GO-M8018-6: un logro en la robótica",
+      "category": "robotica",
+      "date": "2026-05-23",
+      "slug": "reverso-de-motor-de-unitree-go-m8018-6-un-logro-en-la-r",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha logrado reverse-engineer el motor de un robot quadruped de bajo costo, permitiendo la creación de firmware personalizado y abriendo la puerta a una mayor accesibilidad en la robótica.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-23-reverso-de-motor-de-unitree-go-m8018-6-un-logro-en-la-r.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, demuestra su fuerza y adaptabilidad",
+      "category": "robotica",
+      "date": "2026-05-23",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerza-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-por-refuerzo"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos industriales. Gracias a su tecnología de aprendizaje por refuerzo y control de cuerpo completo, puede manejar objetos…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-23-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerza-.md"
+    },
+    {
+      "title": "La próxima generación de IA física no son robots más inteligentes, sino interfaces más inteligentes",
+      "category": "ia",
+      "date": "2026-05-23",
+      "slug": "la-proxima-generacion-de-ia-fisica-no-son-robots-mas-in",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La industria de la robótica ha estado enfocada en mejorar la capacidad de los robots, pero lo que realmente necesita es una forma más inteligente de interactuar con ellos. Los técnicos de campo, los trabajadores logísticos y las personas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-23-la-proxima-generacion-de-ia-fisica-no-son-robots-mas-in.md"
+    },
+    {
+      "title": "La robótica abierta se abre a la inteligencia artificial",
+      "category": "ia",
+      "date": "2026-05-23",
+      "slug": "la-robotica-abierta-se-abre-a-la-inteligencia-artificia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica ha estado trabajando en la creación de hardware y software abiertos para simplificar el desarrollo de robots. Ahora, se está aplicando el mismo enfoque a la inteligencia artificial (IA) para hacer que los robots…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-23-la-robotica-abierta-se-abre-a-la-inteligencia-artificia.md"
+    },
+    {
+      "title": "FreeBSD 15.1-RC1: Actualización con correcciones de seguridad gracias a IA",
+      "category": "ia",
+      "date": "2026-05-23",
+      "slug": "freebsd-151-rc1-actualizacion-con-correcciones-de-segur",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión de pruebas de FreeBSD 15.1-RC1 ha sido lanzada con una serie de correcciones de seguridad, gracias a la colaboración de herramientas de descubrimiento de vulnerabilidades impulsadas por inteligencia artificial. Esto se suma a la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-23-freebsd-151-rc1-actualizacion-con-correcciones-de-segur.md"
+    },
+    {
+      "title": "Coche eléctrico con Raspberry Pi: un proyecto innovador para la automoción",
+      "category": "embebidos",
+      "date": "2026-05-23",
+      "slug": "coche-electrico-con-raspberry-pi-un-proyecto-innovador-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado un coche eléctrico con Raspberry Pi, que puede ser controlado remotamente y utiliza una plataforma de control de vehículos abierta para integrar partes de diferentes marcas.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-23-coche-electrico-con-raspberry-pi-un-proyecto-innovador-.md"
+    },
+    {
+      "title": "Raspberry Pi lanza un microcontrolador más poderoso y seguro",
+      "category": "embebidos",
+      "date": "2026-05-23",
+      "slug": "raspberry-pi-lanza-un-microcontrolador-mas-poderoso-y-s",
+      "tags": [
+        "microcontroladores",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "Raspberry Pi ha lanzado un nuevo microcontrolador llamado RP2350, que es una actualización del RP2040. Este nuevo chip es más poderoso, seguro y tiene más periféricos que su predecesor.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-23-raspberry-pi-lanza-un-microcontrolador-mas-poderoso-y-s.md"
+    },
+    {
+      "title": "SpacemiT K3 Pico-ITX: un sistema de AI embebido en un kit de construcción",
+      "category": "embebidos",
+      "date": "2026-05-23",
+      "slug": "spacemit-k3-pico-itx-un-sistema-de-ai-embebido-en-un-ki",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "SpacemiT ha lanzado un kit de construcción para un sistema de AI embebido basado en el procesador RISC-V K3 16-core. Este kit es ideal para desarrolladores y entusiastas de la tecnología que quieren experimentar con la IA en un entorno de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-23-spacemit-k3-pico-itx-un-sistema-de-ai-embebido-en-un-ki.md"
+    },
+    {
+      "title": "Desarrolladores de ESP32-S31 para IoT, audio y HMI",
+      "category": "embebidos",
+      "date": "2026-05-23",
+      "slug": "desarrolladores-de-esp32-s31-para-iot-audio-y-hmi",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La empresa ESP32 ha lanzado dos nuevos desarrolladores de ESP32-S31 para aplicaciones IoT, audio y HMI. Estos desarrolladores ofrecen una amplia gama de características, incluyendo Gigabit Ethernet, WiFi 6 y Bluetooth 5.4.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-23-desarrolladores-de-esp32-s31-para-iot-audio-y-hmi.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-05-23",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-16",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo Linux y otros. Estas actualizaciones corrigen vulnerabilidades y mejoran la seguridad de los sistemas.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-23-actualizaciones-de-seguridad-para-sistemas-operativo-16.md"
+    },
+    {
+      "title": "Flipper One: un ordenador portátil abierto y documentado para hacking",
+      "category": "linux",
+      "date": "2026-05-23",
+      "slug": "flipper-one-un-ordenador-portatil-abierto-y-documentado",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "La comunidad detrás del Flipper Zero, un dispositivo de hacking portátil, ha lanzado un nuevo proyecto llamado Flipper One. Este dispositivo no es una sucesión del Flipper Zero, sino un ordenador portátil completamente nuevo con una…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-23-flipper-one-un-ordenador-portatil-abierto-y-documentado.md"
+    },
+    {
+      "title": "Mejorar el rendimiento del sistema con políticas de caché personalizadas",
+      "category": "linux",
+      "date": "2026-05-23",
+      "slug": "mejorar-el-rendimiento-del-sistema-con-politicas-de-cac",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux gestiona el caché de páginas de forma eficiente, pero puede ser optimizado para diferentes cargas de trabajo. Tal Zussman presentó una sesión en el Linux Storage, Filesystem, Memory Management, and BPF Summit 2026 sobre…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-23-mejorar-el-rendimiento-del-sistema-con-politicas-de-cac.md"
+    },
+    {
       "title": "URML: un lenguaje para la programación de robots industriales",
       "category": "robotica",
       "date": "2026-05-22",
