@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 09:00:17 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 09:15:52 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ROS 2 Lyrical Luth: una nueva versión de ROS 2 está disponible</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-ros-2-lyrical-luth-una-nueva-version-de-ros-2-esta-di-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-ros-2-lyrical-luth-una-nueva-version-de-ros-2-esta-di-2.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS (Robot Operating System) ha lanzado una nueva versión de ROS 2, llamada Lyrical Luth, que incluye mejoras y correcciones importantes. Esta versión es el resultado del trabajo colaborativo de muchos contribuyentes y…</description>
+  </item>
+  <item>
+    <title>Atlas, el robot humanoide más capaz, prueba su fuerza en una tarea real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-atlas-el-robot-humanoide-mas-capaz-prueba-su-fuerza-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-atlas-el-robot-humanoide-mas-capaz-prueba-su-fuerza-en-.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos reales. En un vídeo reciente, Atlas ha demostrado su habilidad para levantar y mover un refrigerador, lo que marca un…</description>
+  </item>
+  <item>
+    <title>ROSCon China 2026: Congreso de Robótica en Shanghai</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-roscon-china-2026-congreso-de-robotica-en-shanghai.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-roscon-china-2026-congreso-de-robotica-en-shanghai.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de robótica se reúne en China para compartir avances en tecnologías de IA, robótica y automatización. El evento ROSCon China 2026 tendrá lugar en octubre de 2026 en Shanghai.</description>
+  </item>
+  <item>
+    <title>Kiosco inteligente con brazo robótico para dispensar alimentos y bebidas de manera automática</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-kiosco-inteligente-con-brazo-robotico-para-dispensar--2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-kiosco-inteligente-con-brazo-robotico-para-dispensar--2.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El proyecto Robot Gardener busca crear un asistente robótico de bajo costo que ayude a las personas a cultivar alimentos de manera más fácil y sostenible. Este kiosco inteligente con brazo robótico se diseñó para dispensar alimentos y…</description>
+  </item>
+  <item>
+    <title>La próxima revolución en la IA física: interfaces más inteligentes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-24-la-proxima-revolucion-en-la-ia-fisica-interfaces-mas-in.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-24-la-proxima-revolucion-en-la-ia-fisica-interfaces-mas-in.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La industria de la robótica ha avanzado mucho en los últimos años, pero hay un lado del bucle que se ha descuidado: la interfaz entre humanos y máquinas. La mayoría de las interfaces actuales asumen que el usuario puede pararse, mirar…</description>
+  </item>
+  <item>
+    <title>El software de código abierto ayuda a los robots a pensar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-24-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-24-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-2.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de robótica ha estado trabajando en proyectos de código abierto desde la década de 1990, pero ahora se está aplicando este enfoque a la inteligencia artificial. Esto podría acelerar el desarrollo de robots más inteligentes.</description>
+  </item>
+  <item>
+    <title>Receptor de tráfico inteligente para mejorar la eficiencia del tráfico</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-receptor-de-trafico-inteligente-para-mejorar-la-eficien.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-receptor-de-trafico-inteligente-para-mejorar-la-eficien.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La OpenTrafficMap ESP32-C5 C-ITS receiver board es un proyecto de hardware abierto que recopila datos de tráfico en tiempo real a través de la comunicación V2X (Vehicle-to-Everything) utilizando el protocolo ITS-G5 sobre 802.11p. Esto…</description>
+  </item>
+  <item>
+    <title>Mapa de PCB que muestra la ubicación de familiares en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-mapa-de-pcb-que-muestra-la-ubicacion-de-familiares-en-t.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-mapa-de-pcb-que-muestra-la-ubicacion-de-familiares-en-t.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un ingeniero ha creado un mapa de PCB que muestra la ubicación de sus familiares en tiempo real, utilizando un array de LEDs RGB y un ESP32 para recibir datos de ubicación a través de MQTT</description>
+  </item>
+  <item>
+    <title>Desarrolladores ESP32-S31 para IoT, audio inteligente y HMI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-desarrolladores-esp32-s31-para-iot-audio-inteligente-y-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-desarrolladores-esp32-s31-para-iot-audio-inteligente-y-.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Espera a que lleguen los desarrolladores ESP32-S31, dos tableros de desarrollo que ofrecen características impresionantes para aplicaciones de IoT, audio inteligente y HMI. Estos tableros están diseñados para aprovechar al máximo la…</description>
+  </item>
+  <item>
+    <title>Reseña del kit de chasis SpacemiT K3 Pico-ITX: un mini PC con RISC-V y AI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-resena-del-kit-de-chasis-spacemit-k3-pico-itx-un-mini-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-resena-del-kit-de-chasis-spacemit-k3-pico-itx-un-mini-p.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>SpacemiT ha enviado el kit de chasis K3 Pico-ITX para su revisión. Este kit incluye un procesador RISC-V Edge AI de 16 núcleos y una placa base compatible. La revisión comenzará con la desmontaje y la primera arranque del sistema…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi impulsa un coche eléctrico híbrido con sistemas abiertos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-raspberry-pi-impulsa-un-coche-electrico-hibrido-con-sis.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-raspberry-pi-impulsa-un-coche-electrico-hibrido-con-sis.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un equipo de desarrolladores ha creado un coche eléctrico híbrido utilizando Raspberry Pi, que puede ser controlado remotamente y cuenta con sistemas abiertos para interconectar componentes de diferentes fabricantes. Este proyecto busca…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi lanza un microcontrolador más avanzado y seguro</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-raspberry-pi-lanza-un-microcontrolador-mas-avanzado-y-s.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-24-raspberry-pi-lanza-un-microcontrolador-mas-avanzado-y-s.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Raspberry Pi, conocida por sus placas de computadora y módulos, ha lanzado un nuevo microcontrolador llamado RP2350. Este dispositivo es el sucesor del RP2040 y ofrece mejoras significativas en términos de seguridad y rendimiento.</description>
+  </item>
+  <item>
+    <title>Mejora en la impresión 3D con el extrusor de granos Direct Granules FDM</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-05-24-mejora-en-la-impresion-3d-con-el-extrusor-de-granos-dir.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-05-24-mejora-en-la-impresion-3d-con-el-extrusor-de-granos-dir.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>La impresión 3D con granos o filamentos requiere una consistencia en la velocidad de extrusión. El equipo HomoFaciens ha trabajado en una mejora para el extrusor de granos Direct Granules FDM, que ahora se encuentra en su versión 7.1. Esta…</description>
+  </item>
+  <item>
+    <title>Mejoras en el File Manager y temas de Linux Mint</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-24-mejoras-en-el-file-manager-y-temas-de-linux-mint.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-24-mejoras-en-el-file-manager-y-temas-de-linux-mint.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Linux Mint sigue trabajando en su entorno de escritorio Cinnamon, mejorando la velocidad y funcionalidades de su file manager Nemo, así como la búsqueda de archivos y la gestión de redes inalámbricas.</description>
+  </item>
+  <item>
+    <title>Personaliza la política de caché de páginas con BPF</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-24-personaliza-la-politica-de-cache-de-paginas-con-bpf.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-24-personaliza-la-politica-de-cache-de-paginas-con-bpf.md</guid>
+    <pubDate>Sun, 24 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El kernel de Linux gestiona el caché de páginas para mejorar el rendimiento del sistema. Sin embargo, la política de evicción de páginas es un proceso complejo que puede afectar el rendimiento global del sistema. Un reciente avance en la…</description>
+  </item>
   <item>
     <title>Kiosco inteligente con brazo robótico para dispensar alimentos y bebidas automatizados</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-23-kiosco-inteligente-con-brazo-robotico-para-dispensar-al.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sat, 23 May 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>El kernel de Linux gestiona el caché de páginas de forma eficiente, pero puede ser optimizado para diferentes cargas de trabajo. Tal Zussman presentó una sesión en el Linux Storage, Filesystem, Memory Management, and BPF Summit 2026 sobre…</description>
-  </item>
-  <item>
-    <title>URML: un lenguaje para la programación de robots industriales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-22-urml-un-lenguaje-para-la-programacion-de-robots-industr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-22-urml-un-lenguaje-para-la-programacion-de-robots-industr.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de desarrolladores ha creado URML, un lenguaje de programación para robots industriales que permite componer sobre pilas de robótica existentes, en lugar de reemplazarlas. Esto podría revolucionar la forma en que se programan los…</description>
-  </item>
-  <item>
-    <title>Arreglos de red en Linux: la locura continúa sin fin</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-arreglos-de-red-en-linux-la-locura-continua-sin-fin.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-arreglos-de-red-en-linux-la-locura-continua-sin-fin.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de Linux ha estado llena de arreglos de bugs y vulnerabilidades en el kernel, gracias a la ayuda de bots de IA/LLM como Shashiko. Estos arreglos afectan a la red y pueden tener consecuencias importantes en la seguridad y…</description>
-  </item>
-  <item>
-    <title>Computadoras de AI de borde para desarrolladores y emprendedores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-computadoras-de-ai-de-borde-para-desarrolladores-y-empr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-computadoras-de-ai-de-borde-para-desarrolladores-y-empr.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Seeed Studio ha lanzado las computadoras de AI de borde reComputer RK3576/RK3588, diseñadas para desarrolladores y emprendedores que buscan implementar soluciones de AI en el mundo real.</description>
-  </item>
-  <item>
-    <title>La próxima revolución en la IA física no son robots más inteligentes, sino interfaces más inteligentes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-proxima-revolucion-en-la-ia-fisica-no-son-robots-mas.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-proxima-revolucion-en-la-ia-fisica-no-son-robots-mas.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La industria de la IA física ha estado enfocada en mejorar los robots, pero ahora es hora de darle prioridad a la interfaz entre humanos y máquinas. Esto es especialmente importante en entornos donde las manos están ocupadas, los ojos…</description>
-  </item>
-  <item>
-    <title>Mejoras en el subconjunto de sonido de Linux gracias a la IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-mejoras-en-el-subconjunto-de-sonido-de-linux-gracias-a-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-mejoras-en-el-subconjunto-de-sonido-de-linux-gracias-a-.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El subconjunto de sonido de Linux ha visto un aumento en la actividad en las últimas semanas, con muchas correcciones y mejoras gracias a la ayuda de la inteligencia artificial. Esto ha llevado a la aparición de parches y correcciones…</description>
-  </item>
-  <item>
-    <title>El software de código abierto ayuda a los robots a pensar y tomar decisiones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pens.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pens.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de robótica ha visto un gran avance con la creación de software de código abierto que permite a los robots pensar y tomar decisiones de manera más autónoma. Esto ha sido posible gracias a la colaboración de empresas como…</description>
-  </item>
-  <item>
-    <title>¿La robótica tendrá un momento ChatGPT?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-robotica-tendra-un-momento-chatgpt.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-la-robotica-tendra-un-momento-chatgpt.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica está experimentando un crecimiento exponencial, con inversiones récord en empresas de robótica y una creciente demanda de robots autónomos que trabajen junto a los humanos en diversas industrias.</description>
-  </item>
-  <item>
-    <title>Trump retrasa orden ejecutiva sobre seguridad de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-trump-retrasa-orden-ejecutiva-sobre-seguridad-de-ia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-22-trump-retrasa-orden-ejecutiva-sobre-seguridad-de-ia.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El presidente Donald Trump ha retrasado la firma de una orden ejecutiva que permitiría evaluar modelos de IA antes de su lanzamiento. Esto se debe a preocupaciones sobre la seguridad de modelos como Mythos y GPT-5.5 Cyber, que pueden…</description>
-  </item>
-  <item>
-    <title>Casilla de impresión 3D para Raspberry Pi Zero 2W con iluminación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-casilla-de-impresion-3d-para-raspberry-pi-zero-2w-con-i.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-casilla-de-impresion-3d-para-raspberry-pi-zero-2w-con-i.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado una casilla para Raspberry Pi Zero 2W con una iluminación personalizable, lo que permite a los usuarios crear proyectos innovadores y atractivos.</description>
-  </item>
-  <item>
-    <title>Caja para Raspberry Pi Zero 2W con pantalla e-Paper y UPS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-caja-para-raspberry-pi-zero-2w-con-pantalla-e-paper-y-u.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-caja-para-raspberry-pi-zero-2w-con-pantalla-e-paper-y-u.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit presenta una caja para Raspberry Pi Zero 2W con pantalla e-Paper y UPS, ideal para proyectos de robótica y automatización. Esta caja es perfecta para crear proyectos portátiles con Raspberry Pi.</description>
-  </item>
-  <item>
-    <title>Raspberry Pi lanza su propio microcontrolador RP2350</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-raspberry-pi-lanza-su-propio-microcontrolador-rp2350.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-raspberry-pi-lanza-su-propio-microcontrolador-rp2350.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Raspberry Pi, conocido por sus ordenadores de placa única, ha lanzado su propio microcontrolador RP2350, un dispositivo que supera a su predecesor RP2040 en seguridad, potencia y conectividad. Este lanzamiento es un paso importante en la…</description>
-  </item>
-  <item>
-    <title>M5Stack StopWatch: un devkit compacto con AMOLED y audio para IoT y wearables</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-m5stack-stopwatch-un-devkit-compacto-con-amoled-y-audio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-m5stack-stopwatch-un-devkit-compacto-con-amoled-y-audio.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa M5Stack ha lanzado un nuevo devkit llamado StopWatch, que combina una pantalla AMOLED de 1,75 pulgadas con un micrófono, un altavoz y conexiones GPIO. Este dispositivo está diseñado para crear dispositivos IoT portátiles,…</description>
-  </item>
-  <item>
-    <title>Lámpara Cyberpunk con impresión 3D y diseño Art Deco</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-lampara-cyberpunk-con-impresion-3d-y-diseno-art-deco.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-22-lampara-cyberpunk-con-impresion-3d-y-diseno-art-deco.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado una lámpara impresionante que combina estilos cyberpunk y Art Deco. Esta lámpara, llamada Cyber-Deco Lamp, es un proyecto que ha sido compartido en la plataforma MakerWorld.</description>
-  </item>
-  <item>
-    <title>Resolver rutas de paquetes en controladores de ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-resolver-rutas-de-paquetes-en-controladores-de-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-resolver-rutas-de-paquetes-en-controladores-de-ros.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un desarrollador de ROS ha descubierto una forma de cargar parámetros de configuración para controladores de forma dinámica, lo que podría simplificar la gestión de archivos de configuración.</description>
-  </item>
-  <item>
-    <title>GCC 16 se acerca a la paridad con LLVM en soporte para BPF</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-gcc-16-se-acerca-a-la-paridad-con-llvm-en-soporte-para-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-22-gcc-16-se-acerca-a-la-paridad-con-llvm-en-soporte-para-.md</guid>
-    <pubDate>Fri, 22 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El soporte de BPF en GCC 16 está avanzando rápidamente, alcanzando una paridad cercana con el toolchain de LLVM. Esta mejora es relevante para desarrolladores de software que trabajan con tecnologías de red y seguridad.</description>
   </item>
 </channel>
 </rss>
