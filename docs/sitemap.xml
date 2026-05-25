@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-24</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-25</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-2.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-qerra-v2-evaluacion-etica-para-sistemas-autonomos-y-rob.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-ingeniero-de-robotica-independiente-busca-contratos-y-r.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-ros-2-lyrical-luth-y-11-anos-de-fast-dds-como-middlewar.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-25-la-robotica-abierta-se-abre-a-la-inteligencia-artific-2.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-25-la-proxima-revolucion-en-la-ia-fisica-interfaces-mas--2.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-recepcion-de-datos-de-trafico-en-tiempo-real-con-opentr.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-un-coche-electrico-con-raspberry-pi-y-tecnologia-abiert.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-hacking-un-walkie-talkie-de-video-para-ejecutar-doom.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-monitorea-trafico-en-vivo-con-v2x2map-y-un-esp32-c5.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-raspberry-pi-lanza-un-podcast-y-presenta-su-nuevo-micro.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-personaliza-la-politica-de-cache-de-paginas-con-bpf-2.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-linux-dejara-de-soportar-arcnet-en-isa-y-pcmcia.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-kernel-71-rc5-una-actualizacion-de-linux-con-cambios-im.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-intel-presenta-usb4stream-un-protocolo-para-transferir-.md</loc><lastmod>2026-05-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-ros-2-lyrical-luth-una-nueva-version-de-ros-2-esta-di-2.md</loc><lastmod>2026-05-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-atlas-el-robot-humanoide-mas-capaz-prueba-su-fuerza-en-.md</loc><lastmod>2026-05-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-24-roscon-china-2026-congreso-de-robotica-en-shanghai.md</loc><lastmod>2026-05-24</lastmod><priority>0.8</priority></url>

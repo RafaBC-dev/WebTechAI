@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Atlas, el robot humanoide más capaz, demuestra su fuerza y adaptabilidad",
+      "category": "robotica",
+      "date": "2026-05-25",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-por-refuerzo"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos dinámicos. Lleva solo unos meses desde su debut y ya ha demostrado ser el robot humanoide más capaz y dinámico del…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-25-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-2.md"
+    },
+    {
+      "title": "QERRA-v2: Evaluación ética para sistemas autónomos y robóticos",
+      "category": "robotica",
+      "date": "2026-05-25",
+      "slug": "qerra-v2-evaluacion-etica-para-sistemas-autonomos-y-rob",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Marussa Metocharaki, investigadora griega, ha lanzado la versión 1.8.8 de QERRA-v2 Classical, un motor de evaluación ética explicable para sistemas autónomos y robóticos. Este sistema utiliza el marco SEMEV-12 y devuelve un puntaje…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-25-qerra-v2-evaluacion-etica-para-sistemas-autonomos-y-rob.md"
+    },
+    {
+      "title": "Ingeniero de Robótica Independiente Busca Contratos y Roles a Tiempo Completo",
+      "category": "robotica",
+      "date": "2026-05-25",
+      "slug": "ingeniero-de-robotica-independiente-busca-contratos-y-r",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Jasmeet Singh, un ingeniero de robótica independiente, busca contratos y roles a tiempo completo en simulación, autonomía y sistemas de robótica. Con experiencia en sistemas de robótica autónomos, simulación y migración a ROS 2, Singh es…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-25-ingeniero-de-robotica-independiente-busca-contratos-y-r.md"
+    },
+    {
+      "title": "ROS 2 Lyrical Luth y 11 años de Fast DDS como middleware por defecto",
+      "category": "robotica",
+      "date": "2026-05-25",
+      "slug": "ros-2-lyrical-luth-y-11-anos-de-fast-dds-como-middlewar",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La próxima versión de ROS 2, Lyrical Luth, traerá mejoras en comunicaciones y mantendrá a Fast DDS como middleware por defecto. Esta elección se debe a la confianza de la comunidad en la escalabilidad, fiabilidad y rendimiento de Fast DDS.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-25-ros-2-lyrical-luth-y-11-anos-de-fast-dds-como-middlewar.md"
+    },
+    {
+      "title": "La robótica abierta se abre a la inteligencia artificial",
+      "category": "ia",
+      "date": "2026-05-25",
+      "slug": "la-robotica-abierta-se-abre-a-la-inteligencia-artific-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica ha estado trabajando en software abiertos desde la década de 1990, pero ahora se está aplicando la inteligencia artificial para hacer que los robots piensen y tomen decisiones. Esto podría cambiar la forma en que…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-25-la-robotica-abierta-se-abre-a-la-inteligencia-artific-2.md"
+    },
+    {
+      "title": "La próxima revolución en la IA física: interfaces más inteligentes",
+      "category": "ia",
+      "date": "2026-05-25",
+      "slug": "la-proxima-revolucion-en-la-ia-fisica-interfaces-mas--2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La industria de la IA física ha avanzado rápidamente en los últimos años, pero aún hay un gran desafío por superar: la comunicación eficiente entre humanos y máquinas. Los técnicos de campo, los trabajadores logísticos y las personas con…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-25-la-proxima-revolucion-en-la-ia-fisica-interfaces-mas--2.md"
+    },
+    {
+      "title": "Recepción de datos de tráfico en tiempo real con OpenTrafficMap y ESP32-C5",
+      "category": "embebidos",
+      "date": "2026-05-25",
+      "slug": "recepcion-de-datos-de-trafico-en-tiempo-real-con-opentr",
+      "tags": [
+        "robotica",
+        "esp32",
+        "linux"
+      ],
+      "preview": "El proyecto OpenTrafficMap ha lanzado una placa de hardware abierta llamada ESP32-C5 C-ITS receiver, que recibe datos de tráfico en tiempo real a través de la comunicación V2X (Vehicle-to-Everything) a 802.11p. Esto permite mejorar la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-25-recepcion-de-datos-de-trafico-en-tiempo-real-con-opentr.md"
+    },
+    {
+      "title": "Un coche eléctrico con Raspberry Pi y tecnología abierta",
+      "category": "embebidos",
+      "date": "2026-05-25",
+      "slug": "un-coche-electrico-con-raspberry-pi-y-tecnologia-abiert",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El equipo OVCS ha creado un coche eléctrico que puede ser controlado remotamente utilizando un sistema de control de vehículos abierto y Raspberry Pi. Esta tecnología podría revolucionar la industria del automóvil y permitir la integración…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-25-un-coche-electrico-con-raspberry-pi-y-tecnologia-abiert.md"
+    },
+    {
+      "title": "Hacking un walkie-talkie de video para ejecutar DOOM",
+      "category": "embebidos",
+      "date": "2026-05-25",
+      "slug": "hacking-un-walkie-talkie-de-video-para-ejecutar-doom",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un entusiasta de la ingeniería inversa ha descubierto que los walkie-talkies de video baratos que se venden en línea contienen un microcontrolador potente que puede ser hackeado para ejecutar juegos como DOOM. Esto abre la puerta a una…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-25-hacking-un-walkie-talkie-de-video-para-ejecutar-doom.md"
+    },
+    {
+      "title": "Monitorea tráfico en vivo con V2X2MAP y un ESP32-C5",
+      "category": "embebidos",
+      "date": "2026-05-25",
+      "slug": "monitorea-trafico-en-vivo-con-v2x2map-y-un-esp32-c5",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un desarrollador ha creado una aplicación móvil que permite monitorear el tráfico en vivo utilizando señales V2X y una placa de desarrollo ESP32-C5. Esto puede ser útil para optimizar el tráfico y mejorar la seguridad en las carreteras.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-25-monitorea-trafico-en-vivo-con-v2x2map-y-un-esp32-c5.md"
+    },
+    {
+      "title": "Raspberry Pi lanza un podcast y presenta su nuevo microcontrolador RP2350",
+      "category": "embebidos",
+      "date": "2026-05-25",
+      "slug": "raspberry-pi-lanza-un-podcast-y-presenta-su-nuevo-micro",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "raspberry-pi"
+      ],
+      "preview": "Raspberry Pi, conocido por sus placas de desarrollo, ha lanzado un podcast donde presentan su nuevo microcontrolador RP2350, un dispositivo más seguro y potente que su predecesor RP2040.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-25-raspberry-pi-lanza-un-podcast-y-presenta-su-nuevo-micro.md"
+    },
+    {
+      "title": "Personaliza la política de caché de páginas con BPF",
+      "category": "linux",
+      "date": "2026-05-25",
+      "slug": "personaliza-la-politica-de-cache-de-paginas-con-bpf-2",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux gestiona el caché de páginas de manera eficiente, pero puede ser mejorado para ciertas cargas de trabajo. Un reciente avance en la tecnología BPF permite una personalización más precisa de la política de caché.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-25-personaliza-la-politica-de-cache-de-paginas-con-bpf-2.md"
+    },
+    {
+      "title": "Linux dejará de soportar ARCnet en ISA y PCMCIA",
+      "category": "linux",
+      "date": "2026-05-25",
+      "slug": "linux-dejara-de-soportar-arcnet-en-isa-y-pcmcia",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha decidido eliminar el soporte para ARCnet en ISA y PCMCIA en la próxima versión del kernel, lo que afectará a aquellos que siguen utilizando esta tecnología de red antigua.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-25-linux-dejara-de-soportar-arcnet-en-isa-y-pcmcia.md"
+    },
+    {
+      "title": "Kernel 7.1-rc5: una actualización de Linux con cambios importantes",
+      "category": "linux",
+      "date": "2026-05-25",
+      "slug": "kernel-71-rc5-una-actualizacion-de-linux-con-cambios-im",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel 7.1-rc5 de Linux ha sido lanzado para pruebas, pero su creador, Linus, no está satisfecho con la cantidad de cambios incluidos. Estos cambios pueden afectar la estabilidad del sistema y hacer que sea más difícil encontrar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-25-kernel-71-rc5-una-actualizacion-de-linux-con-cambios-im.md"
+    },
+    {
+      "title": "Intel Presenta USB4STREAM: Un Protocolo para Transferir Datos con USB4 sin Red",
+      "category": "linux",
+      "date": "2026-05-25",
+      "slug": "intel-presenta-usb4stream-un-protocolo-para-transferir-",
+      "tags": [
+        "linux",
+        "usb4",
+        "thunderbolt"
+      ],
+      "preview": "Intel ha presentado un nuevo protocolo llamado USB4STREAM para la transferencia de datos con USB4/Thunderbolt. Este protocolo permite transferir datos directamente entre dos host conectados por cable USB4/Thunderbolt, sin necesidad de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-25-intel-presenta-usb4stream-un-protocolo-para-transferir-.md"
+    },
+    {
       "title": "ROS 2 Lyrical Luth: una nueva versión de ROS 2 está disponible",
       "category": "robotica",
       "date": "2026-05-24",
