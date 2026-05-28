@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-27</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-27</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-28</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-28</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-calculadora-mecanica-3d-impresora-con-raspberry-pi-pico.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-el-caos-de-las-distribuciones-linux-quien-es-responsabl.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-camara-de-seguridad-diy-con-encriptacion-total-y-ia-en-.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-organizador-de-escritorio-modular-con-imanes-para-telef.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-holder-de-almacenamiento-para-tarjetas-de-memoria-y-pen.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-impresion-3d-de-un-jardin-de-suculentas-con-articulacio.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-mano-robotica-hw1-con-10-grados-de-libertad-y-alta-dest.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-el-futuro-de-la-ia-fisica-no-es-robots-mas-inteligentes.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-pruebas-de-fallas-en-baterias-lfp-el-peligro-de-sobreca.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-vertu-lanza-telefono-de-gama-alta-con-inteligencia-arti.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-4.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-herramienta-mot-lucha-contra-el-openwashing-en-modelos-.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-nuevos-compiladores-para-graficos-en-dispositivos-arm-m.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-vulcanexus-hri-interaccion-humano-robotica-para-ros-2.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-3.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-mejora-en-el-driver-linux-para-raspberry-pi-exposicion-.md</loc><lastmod>2026-05-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-revision-del-odroid-h5-un-sbc-con-10gbe-y-flexibilidad.md</loc><lastmod>2026-05-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-actualizacion-de-directrices-para-el-uso-de-herramienta.md</loc><lastmod>2026-05-27</lastmod><priority>0.8</priority></url>

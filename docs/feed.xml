@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 10:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 10:46:35 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Calculadora mecánica 3D impresora con Raspberry Pi Pico</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-calculadora-mecanica-3d-impresora-con-raspberry-pi-pico.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-calculadora-mecanica-3d-impresora-con-raspberry-pi-pico.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Una calculadora mecánica 3D impresora llamada Flapulator ha sido creada utilizando un Raspberry Pi Pico y tecnología de impresión 3D. Esta calculadora es una alternativa física a las calculadoras digitales y ofrece una experiencia de…</description>
+  </item>
+  <item>
+    <title>El caos de las distribuciones Linux: quién es responsable del software</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-el-caos-de-las-distribuciones-linux-quien-es-responsabl.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-el-caos-de-las-distribuciones-linux-quien-es-responsabl.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad Linux enfrenta un problema grave: la falta de responsabilidad en la distribución de software. Esto puede provocar errores y problemas en las aplicaciones, lo que afecta a los usuarios finales. En este artículo, exploraremos el…</description>
+  </item>
+  <item>
+    <title>Cámara de seguridad DIY con encriptación total y IA en el Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-camara-de-seguridad-diy-con-encriptacion-total-y-ia-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-camara-de-seguridad-diy-con-encriptacion-total-y-ia-en-.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Secluso es un sistema de cámara de seguridad DIY que utiliza el Raspberry Pi para ofrecer encriptación total y detección de humanos, mascotas y vehículos. Es una alternativa a las cámaras inteligentes comerciales que envían video en vivo a…</description>
+  </item>
+  <item>
+    <title>Organizador de escritorio modular con imanes para teléfonos y bolígrafos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-organizador-de-escritorio-modular-con-imanes-para-telef.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-organizador-de-escritorio-modular-con-imanes-para-telef.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta un proyecto de impresión 3D que permite crear un organizador de escritorio modular con imanes para teléfonos, bolígrafos y cajas de almacenamiento. Este proyecto es relevante para los entusiastas de la impresión 3D y la…</description>
+  </item>
+  <item>
+    <title>Holder de almacenamiento para tarjetas de memoria y pendrives 3D impreso</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-holder-de-almacenamiento-para-tarjetas-de-memoria-y-pen.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-holder-de-almacenamiento-para-tarjetas-de-memoria-y-pen.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto MakerDennis ha creado un holder de almacenamiento compacto y limpio para cualquier espacio de trabajo de un maker. Este holder puede almacenar hasta 2 pendrives, 4 tarjetas SD y 6 tarjetas micro SD.</description>
+  </item>
+  <item>
+    <title>Impresión 3D de un jardín de suculentas con articulaciones móviles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-impresion-3d-de-un-jardin-de-suculentas-con-articulacio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-impresion-3d-de-un-jardin-de-suculentas-con-articulacio.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado una impresión innovadora de un jardín de suculentas con articulaciones móviles, resolviendo problemas de adhesión a la base. Esta impresión es una excelente oportunidad para aprender sobre la…</description>
+  </item>
+  <item>
+    <title>Mano robótica HW1 con 10 grados de libertad y alta destreza</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-mano-robotica-hw1-con-10-grados-de-libertad-y-alta-dest.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-mano-robotica-hw1-con-10-grados-de-libertad-y-alta-dest.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Gesture Platforms ha lanzado la mano robótica HW1, una herramienta de alta precisión diseñada para investigadores, educadores y aficionados. Esta mano robótica cuenta con 10 grados de libertad y puede manejar cargas dinámicas de…</description>
+  </item>
+  <item>
+    <title>El futuro de la IA física no es robots más inteligentes, sino interfaces más inteligentes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-el-futuro-de-la-ia-fisica-no-es-robots-mas-inteligentes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-el-futuro-de-la-ia-fisica-no-es-robots-mas-inteligentes.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La industria de la robótica ha avanzado rápidamente en los últimos tres años, pero hay un lado del bucle que ha sido ignorado: la interfaz entre humanos y máquinas. Las personas necesitan comunicarse con los robots de manera natural, sin…</description>
+  </item>
+  <item>
+    <title>Pruebas de fallas en baterías LFP: el peligro de sobrecarga</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-pruebas-de-fallas-en-baterias-lfp-el-peligro-de-sobreca.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-pruebas-de-fallas-en-baterias-lfp-el-peligro-de-sobreca.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Una reciente prueba de sobrecarga en baterías LFP ha demostrado el peligro de una reacción química que puede generar gases inflamables y explosivos. Esto es especialmente preocupante en entornos de almacenamiento y uso de baterías.</description>
+  </item>
+  <item>
+    <title>Vertu lanza teléfono de gama alta con inteligencia artificial para ejecutivos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-vertu-lanza-telefono-de-gama-alta-con-inteligencia-arti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-vertu-lanza-telefono-de-gama-alta-con-inteligencia-arti.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La marca de teléfonos de lujo Vertu ha lanzado el Alphafold, un teléfono plegable con inteligencia artificial diseñado para ejecutivos que gestionan operaciones y comunicaciones en movimiento. Con un precio de inicio de $6,880, el…</description>
+  </item>
+  <item>
+    <title>El software de código abierto ayuda a los robots a pensar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-4.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-4.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de robótica ha estado trabajando en el desarrollo de software de código abierto para ayudar a los robots a pensar y tomar decisiones. Ahora, empresas como Hugging Face, Nvidia y Alibaba están invirtiendo en este campo, lo que…</description>
+  </item>
+  <item>
+    <title>Herramienta MOT lucha contra el 'openwashing' en modelos de lenguaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-herramienta-mot-lucha-contra-el-openwashing-en-modelos-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-28-herramienta-mot-lucha-contra-el-openwashing-en-modelos-.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los modelos de lenguaje grandes (LLMs) a menudo se describen como de código abierto, pero en realidad no lo son. La herramienta MOT ayuda a los usuarios a entender el grado de apertura de estos modelos y a combatir el 'openwashing'.</description>
+  </item>
+  <item>
+    <title>Nuevos compiladores para gráficos en dispositivos ARM Mali</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-nuevos-compiladores-para-graficos-en-dispositivos-arm-m.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-nuevos-compiladores-para-graficos-en-dispositivos-arm-m.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de desarrollo de Mesa ha anunciado la creación de un nuevo compilador para gráficos en dispositivos ARM Mali, llamado KRAID. Este proyecto busca mejorar la eficiencia y el rendimiento de los gráficos en dispositivos móviles y…</description>
+  </item>
+  <item>
+    <title>Vulcanexus HRI: Interacción Humano-Robótica para ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-vulcanexus-hri-interaccion-humano-robotica-para-ros-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-vulcanexus-hri-interaccion-humano-robotica-para-ros-2.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La interacción humano-robot es cada vez más importante en entornos de trabajo, servicios públicos y servicios diarios. Ahora, los desarrolladores pueden integrar capacidades de interacción humano-robot en aplicaciones de ROS 2 gracias a…</description>
+  </item>
+  <item>
+    <title>Atlas, el robot humanoide más capaz, demuestra su fuerza y adaptabilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-28-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-3.md</guid>
+    <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Atlas, el robot humanoide desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos industriales dinámicos. Con su tecnología de aprendizaje por refuerzo y control de cuerpo completo, Atlas…</description>
+  </item>
   <item>
     <title>Mejora en el driver Linux para Raspberry Pi: exposición de voltajes</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-mejora-en-el-driver-linux-para-raspberry-pi-exposicion-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>Atlas, el robot humanoide desarrollado por Boston Dynamics, ha demostrado su capacidad en la industria al mover un refrigerador con facilidad. Esto marca un hito en la robótica, ya que los robots humanoides pueden moverse en entornos…</description>
-  </item>
-  <item>
-    <title>Linux dejará de soportar ARCnet en ISA y PCMCIA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-linux-dejara-de-soportar-arcnet-en-isa-y-pcmcia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-linux-dejara-de-soportar-arcnet-en-isa-y-pcmcia.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha decidido eliminar el soporte para ARCnet en ISA y PCMCIA en la próxima versión del kernel, lo que afectará a aquellos que siguen utilizando esta tecnología de red antigua.</description>
-  </item>
-  <item>
-    <title>Personaliza la política de caché de páginas con BPF</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-personaliza-la-politica-de-cache-de-paginas-con-bpf-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-personaliza-la-politica-de-cache-de-paginas-con-bpf-2.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El kernel de Linux gestiona el caché de páginas de manera eficiente, pero puede ser mejorado para ciertas cargas de trabajo. Un reciente avance en la tecnología BPF permite una personalización más precisa de la política de caché.</description>
-  </item>
-  <item>
-    <title>Kernel 7.1-rc5: una actualización de Linux con cambios importantes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-kernel-71-rc5-una-actualizacion-de-linux-con-cambios-im.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-kernel-71-rc5-una-actualizacion-de-linux-con-cambios-im.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El kernel 7.1-rc5 de Linux ha sido lanzado para pruebas, pero su creador, Linus, no está satisfecho con la cantidad de cambios incluidos. Estos cambios pueden afectar la estabilidad del sistema y hacer que sea más difícil encontrar…</description>
-  </item>
-  <item>
-    <title>Intel Presenta USB4STREAM: Un Protocolo para Transferir Datos con USB4 sin Red</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-intel-presenta-usb4stream-un-protocolo-para-transferir-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-25-intel-presenta-usb4stream-un-protocolo-para-transferir-.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Intel ha presentado un nuevo protocolo llamado USB4STREAM para la transferencia de datos con USB4/Thunderbolt. Este protocolo permite transferir datos directamente entre dos host conectados por cable USB4/Thunderbolt, sin necesidad de…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi lanza un podcast y presenta su nuevo microcontrolador RP2350</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-raspberry-pi-lanza-un-podcast-y-presenta-su-nuevo-micro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-raspberry-pi-lanza-un-podcast-y-presenta-su-nuevo-micro.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Raspberry Pi, conocido por sus placas de desarrollo, ha lanzado un podcast donde presentan su nuevo microcontrolador RP2350, un dispositivo más seguro y potente que su predecesor RP2040.</description>
-  </item>
-  <item>
-    <title>Recepción de datos de tráfico en tiempo real con OpenTrafficMap y ESP32-C5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-recepcion-de-datos-de-trafico-en-tiempo-real-con-opentr.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-recepcion-de-datos-de-trafico-en-tiempo-real-con-opentr.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto OpenTrafficMap ha lanzado una placa de hardware abierta llamada ESP32-C5 C-ITS receiver, que recibe datos de tráfico en tiempo real a través de la comunicación V2X (Vehicle-to-Everything) a 802.11p. Esto permite mejorar la…</description>
-  </item>
-  <item>
-    <title>Monitorea tráfico en vivo con V2X2MAP y un ESP32-C5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-monitorea-trafico-en-vivo-con-v2x2map-y-un-esp32-c5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-monitorea-trafico-en-vivo-con-v2x2map-y-un-esp32-c5.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un desarrollador ha creado una aplicación móvil que permite monitorear el tráfico en vivo utilizando señales V2X y una placa de desarrollo ESP32-C5. Esto puede ser útil para optimizar el tráfico y mejorar la seguridad en las carreteras.</description>
-  </item>
-  <item>
-    <title>Hacking un walkie-talkie de video para ejecutar DOOM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-hacking-un-walkie-talkie-de-video-para-ejecutar-doom.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-hacking-un-walkie-talkie-de-video-para-ejecutar-doom.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un entusiasta de la ingeniería inversa ha descubierto que los walkie-talkies de video baratos que se venden en línea contienen un microcontrolador potente que puede ser hackeado para ejecutar juegos como DOOM. Esto abre la puerta a una…</description>
-  </item>
-  <item>
-    <title>Un coche eléctrico con Raspberry Pi y tecnología abierta</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-un-coche-electrico-con-raspberry-pi-y-tecnologia-abiert.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-25-un-coche-electrico-con-raspberry-pi-y-tecnologia-abiert.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El equipo OVCS ha creado un coche eléctrico que puede ser controlado remotamente utilizando un sistema de control de vehículos abierto y Raspberry Pi. Esta tecnología podría revolucionar la industria del automóvil y permitir la integración…</description>
-  </item>
-  <item>
-    <title>La robótica abierta se abre a la inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-25-la-robotica-abierta-se-abre-a-la-inteligencia-artific-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-25-la-robotica-abierta-se-abre-a-la-inteligencia-artific-2.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de robótica ha estado trabajando en software abiertos desde la década de 1990, pero ahora se está aplicando la inteligencia artificial para hacer que los robots piensen y tomen decisiones. Esto podría cambiar la forma en que…</description>
-  </item>
-  <item>
-    <title>La próxima revolución en la IA física: interfaces más inteligentes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-25-la-proxima-revolucion-en-la-ia-fisica-interfaces-mas--2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-25-la-proxima-revolucion-en-la-ia-fisica-interfaces-mas--2.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La industria de la IA física ha avanzado rápidamente en los últimos años, pero aún hay un gran desafío por superar: la comunicación eficiente entre humanos y máquinas. Los técnicos de campo, los trabajadores logísticos y las personas con…</description>
-  </item>
-  <item>
-    <title>ROS 2 Lyrical Luth y 11 años de Fast DDS como middleware por defecto</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-ros-2-lyrical-luth-y-11-anos-de-fast-dds-como-middlewar.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-ros-2-lyrical-luth-y-11-anos-de-fast-dds-como-middlewar.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La próxima versión de ROS 2, Lyrical Luth, traerá mejoras en comunicaciones y mantendrá a Fast DDS como middleware por defecto. Esta elección se debe a la confianza de la comunidad en la escalabilidad, fiabilidad y rendimiento de Fast DDS.</description>
-  </item>
-  <item>
-    <title>QERRA-v2: Evaluación ética para sistemas autónomos y robóticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-qerra-v2-evaluacion-etica-para-sistemas-autonomos-y-rob.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-qerra-v2-evaluacion-etica-para-sistemas-autonomos-y-rob.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Marussa Metocharaki, investigadora griega, ha lanzado la versión 1.8.8 de QERRA-v2 Classical, un motor de evaluación ética explicable para sistemas autónomos y robóticos. Este sistema utiliza el marco SEMEV-12 y devuelve un puntaje…</description>
-  </item>
-  <item>
-    <title>Ingeniero de Robótica Independiente Busca Contratos y Roles a Tiempo Completo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-ingeniero-de-robotica-independiente-busca-contratos-y-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-ingeniero-de-robotica-independiente-busca-contratos-y-r.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Jasmeet Singh, un ingeniero de robótica independiente, busca contratos y roles a tiempo completo en simulación, autonomía y sistemas de robótica. Con experiencia en sistemas de robótica autónomos, simulación y migración a ROS 2, Singh es…</description>
-  </item>
-  <item>
-    <title>Atlas, el robot humanoide más capaz, demuestra su fuerza y adaptabilidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-25-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-2.md</guid>
-    <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos dinámicos. Lleva solo unos meses desde su debut y ya ha demostrado ser el robot humanoide más capaz y dinámico del…</description>
   </item>
 </channel>
 </rss>

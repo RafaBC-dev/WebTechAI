@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Calculadora mecánica 3D impresora con Raspberry Pi Pico",
+      "category": "linux",
+      "date": "2026-05-28",
+      "slug": "calculadora-mecanica-3d-impresora-con-raspberry-pi-pico",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "raspberry-pi"
+      ],
+      "preview": "Una calculadora mecánica 3D impresora llamada Flapulator ha sido creada utilizando un Raspberry Pi Pico y tecnología de impresión 3D. Esta calculadora es una alternativa física a las calculadoras digitales y ofrece una experiencia de…",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-28-calculadora-mecanica-3d-impresora-con-raspberry-pi-pico.md"
+    },
+    {
+      "title": "El caos de las distribuciones Linux: quién es responsable del software",
+      "category": "linux",
+      "date": "2026-05-28",
+      "slug": "el-caos-de-las-distribuciones-linux-quien-es-responsabl",
+      "tags": [
+        "linux",
+        "software",
+        "distribuciones"
+      ],
+      "preview": "La comunidad Linux enfrenta un problema grave: la falta de responsabilidad en la distribución de software. Esto puede provocar errores y problemas en las aplicaciones, lo que afecta a los usuarios finales. En este artículo, exploraremos el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-28-el-caos-de-las-distribuciones-linux-quien-es-responsabl.md"
+    },
+    {
+      "title": "Cámara de seguridad DIY con encriptación total y IA en el Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-05-28",
+      "slug": "camara-de-seguridad-diy-con-encriptacion-total-y-ia-en-",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "Secluso es un sistema de cámara de seguridad DIY que utiliza el Raspberry Pi para ofrecer encriptación total y detección de humanos, mascotas y vehículos. Es una alternativa a las cámaras inteligentes comerciales que envían video en vivo a…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-28-camara-de-seguridad-diy-con-encriptacion-total-y-ia-en-.md"
+    },
+    {
+      "title": "Organizador de escritorio modular con imanes para teléfonos y bolígrafos",
+      "category": "embebidos",
+      "date": "2026-05-28",
+      "slug": "organizador-de-escritorio-modular-con-imanes-para-telef",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "impresion-3d"
+      ],
+      "preview": "Adafruit presenta un proyecto de impresión 3D que permite crear un organizador de escritorio modular con imanes para teléfonos, bolígrafos y cajas de almacenamiento. Este proyecto es relevante para los entusiastas de la impresión 3D y la…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-28-organizador-de-escritorio-modular-con-imanes-para-telef.md"
+    },
+    {
+      "title": "Holder de almacenamiento para tarjetas de memoria y pendrives 3D impreso",
+      "category": "embebidos",
+      "date": "2026-05-28",
+      "slug": "holder-de-almacenamiento-para-tarjetas-de-memoria-y-pen",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "El proyecto MakerDennis ha creado un holder de almacenamiento compacto y limpio para cualquier espacio de trabajo de un maker. Este holder puede almacenar hasta 2 pendrives, 4 tarjetas SD y 6 tarjetas micro SD.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-28-holder-de-almacenamiento-para-tarjetas-de-memoria-y-pen.md"
+    },
+    {
+      "title": "Impresión 3D de un jardín de suculentas con articulaciones móviles",
+      "category": "embebidos",
+      "date": "2026-05-28",
+      "slug": "impresion-3d-de-un-jardin-de-suculentas-con-articulacio",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una impresión innovadora de un jardín de suculentas con articulaciones móviles, resolviendo problemas de adhesión a la base. Esta impresión es una excelente oportunidad para aprender sobre la…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-28-impresion-3d-de-un-jardin-de-suculentas-con-articulacio.md"
+    },
+    {
+      "title": "Mano robótica HW1 con 10 grados de libertad y alta destreza",
+      "category": "embebidos",
+      "date": "2026-05-28",
+      "slug": "mano-robotica-hw1-con-10-grados-de-libertad-y-alta-dest",
+      "tags": [
+        "robotica",
+        "esp32",
+        "python"
+      ],
+      "preview": "La empresa Gesture Platforms ha lanzado la mano robótica HW1, una herramienta de alta precisión diseñada para investigadores, educadores y aficionados. Esta mano robótica cuenta con 10 grados de libertad y puede manejar cargas dinámicas de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-28-mano-robotica-hw1-con-10-grados-de-libertad-y-alta-dest.md"
+    },
+    {
+      "title": "El futuro de la IA física no es robots más inteligentes, sino interfaces más inteligentes",
+      "category": "ia",
+      "date": "2026-05-28",
+      "slug": "el-futuro-de-la-ia-fisica-no-es-robots-mas-inteligentes",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La industria de la robótica ha avanzado rápidamente en los últimos tres años, pero hay un lado del bucle que ha sido ignorado: la interfaz entre humanos y máquinas. Las personas necesitan comunicarse con los robots de manera natural, sin…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-28-el-futuro-de-la-ia-fisica-no-es-robots-mas-inteligentes.md"
+    },
+    {
+      "title": "Pruebas de fallas en baterías LFP: el peligro de sobrecarga",
+      "category": "ia",
+      "date": "2026-05-28",
+      "slug": "pruebas-de-fallas-en-baterias-lfp-el-peligro-de-sobreca",
+      "tags": [
+        "robotica",
+        "baterias",
+        "energia-almacenada"
+      ],
+      "preview": "Una reciente prueba de sobrecarga en baterías LFP ha demostrado el peligro de una reacción química que puede generar gases inflamables y explosivos. Esto es especialmente preocupante en entornos de almacenamiento y uso de baterías.",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-28-pruebas-de-fallas-en-baterias-lfp-el-peligro-de-sobreca.md"
+    },
+    {
+      "title": "Vertu lanza teléfono de gama alta con inteligencia artificial para ejecutivos",
+      "category": "ia",
+      "date": "2026-05-28",
+      "slug": "vertu-lanza-telefono-de-gama-alta-con-inteligencia-arti",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "La marca de teléfonos de lujo Vertu ha lanzado el Alphafold, un teléfono plegable con inteligencia artificial diseñado para ejecutivos que gestionan operaciones y comunicaciones en movimiento. Con un precio de inicio de $6,880, el…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-28-vertu-lanza-telefono-de-gama-alta-con-inteligencia-arti.md"
+    },
+    {
+      "title": "El software de código abierto ayuda a los robots a pensar",
+      "category": "ia",
+      "date": "2026-05-28",
+      "slug": "el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica ha estado trabajando en el desarrollo de software de código abierto para ayudar a los robots a pensar y tomar decisiones. Ahora, empresas como Hugging Face, Nvidia y Alibaba están invirtiendo en este campo, lo que…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-28-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-4.md"
+    },
+    {
+      "title": "Herramienta MOT lucha contra el 'openwashing' en modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-05-28",
+      "slug": "herramienta-mot-lucha-contra-el-openwashing-en-modelos-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Los modelos de lenguaje grandes (LLMs) a menudo se describen como de código abierto, pero en realidad no lo son. La herramienta MOT ayuda a los usuarios a entender el grado de apertura de estos modelos y a combatir el 'openwashing'.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-28-herramienta-mot-lucha-contra-el-openwashing-en-modelos-.md"
+    },
+    {
+      "title": "Nuevos compiladores para gráficos en dispositivos ARM Mali",
+      "category": "robotica",
+      "date": "2026-05-28",
+      "slug": "nuevos-compiladores-para-graficos-en-dispositivos-arm-m",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de desarrollo de Mesa ha anunciado la creación de un nuevo compilador para gráficos en dispositivos ARM Mali, llamado KRAID. Este proyecto busca mejorar la eficiencia y el rendimiento de los gráficos en dispositivos móviles y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-28-nuevos-compiladores-para-graficos-en-dispositivos-arm-m.md"
+    },
+    {
+      "title": "Vulcanexus HRI: Interacción Humano-Robótica para ROS 2",
+      "category": "robotica",
+      "date": "2026-05-28",
+      "slug": "vulcanexus-hri-interaccion-humano-robotica-para-ros-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La interacción humano-robot es cada vez más importante en entornos de trabajo, servicios públicos y servicios diarios. Ahora, los desarrolladores pueden integrar capacidades de interacción humano-robot en aplicaciones de ROS 2 gracias a…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-28-vulcanexus-hri-interaccion-humano-robotica-para-ros-2.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, demuestra su fuerza y adaptabilidad",
+      "category": "robotica",
+      "date": "2026-05-28",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Atlas, el robot humanoide desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos industriales dinámicos. Con su tecnología de aprendizaje por refuerzo y control de cuerpo completo, Atlas…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-28-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-3.md"
+    },
+    {
       "title": "Mejora en el driver Linux para Raspberry Pi: exposición de voltajes",
       "category": "linux",
       "date": "2026-05-27",
