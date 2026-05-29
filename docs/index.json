@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Linux 7.2 arregla problemas de gráficos en procesadores Intel Sandy Bridge",
+      "category": "linux",
+      "date": "2026-05-29",
+      "slug": "linux-72-arregla-problemas-de-graficos-en-procesadores-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El nuevo kernel Linux 7.2 incluye una corrección importante para los procesadores Intel Sandy Bridge, que datan de 15 años atrás. Esta corrección resuelve un problema de reseteo de gráficos que afectaba a los usuarios que utilizaban estos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-29-linux-72-arregla-problemas-de-graficos-en-procesadores-.md"
+    },
+    {
+      "title": "Intel agrega soporte a color de fondo en Linux 7.2",
+      "category": "linux",
+      "date": "2026-05-29",
+      "slug": "intel-agrega-soporte-a-color-de-fondo-en-linux-72",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa Intel ha anunciado que agregará soporte a la propiedad de color de fondo en su driver DRM para Linux 7.2. Esto permitirá a los desarrolladores establecer un color de fondo por defecto en pantallas que no estén cubiertas por…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-29-intel-agrega-soporte-a-color-de-fondo-en-linux-72.md"
+    },
+    {
+      "title": "Tutorial de ROS con contenedores Docker para iniciantes",
+      "category": "linux",
+      "date": "2026-05-29",
+      "slug": "tutorial-de-ros-con-contenedores-docker-para-iniciantes",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado un tutorial de ROS (Robot Operating System) con contenedores Docker para ayudar a los iniciados a empezar a trabajar con este sistema de software de código abierto. Esto es especialmente útil para aquellos que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-29-tutorial-de-ros-con-contenedores-docker-para-iniciantes.md"
+    },
+    {
+      "title": "Actualiza el bootloader UF2 para resolver problemas en SAMD21 y SAMx5x",
+      "category": "linux",
+      "date": "2026-05-29",
+      "slug": "actualiza-el-bootloader-uf2-para-resolver-problemas-en-",
+      "tags": [
+        "arduino",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Si tienes un tablero SAMD21 o SAMx5x, es posible que necesites actualizar el bootloader UF2 para solucionar problemas de compatibilidad con macOS y Linux. Los problemas incluyen la falta de reconocimiento de los dispositivos y la pérdida…",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-29-actualiza-el-bootloader-uf2-para-resolver-problemas-en-.md"
+    },
+    {
+      "title": "Fedora 45: un paso hacia la identificación única de paquetes de software",
+      "category": "linux",
+      "date": "2026-05-29",
+      "slug": "fedora-45-un-paso-hacia-la-identificacion-unica-de-paqu",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Fedora 45 está considerando la adopción de PURL (Package-URL) para identificar de manera única los paquetes de software. Esto permitiría una mapeo más sencillo entre proyectos de código fuente y paquetes de Fedora, lo que facilitaría la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-29-fedora-45-un-paso-hacia-la-identificacion-unica-de-paqu.md"
+    },
+    {
+      "title": "Documentación para agregar nuevos sistemas de archivos a Linux",
+      "category": "linux",
+      "date": "2026-05-29",
+      "slug": "documentacion-para-agregar-nuevos-sistemas-de-archivos-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "En el marco del Linux Storage, Filesystem, Memory Management y BPF Summit, Amir Goldstein presentó una propuesta para documentar la adición de nuevos sistemas de archivos al núcleo de Linux. Esto busca evitar que se agreguen sistemas de…",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-29-documentacion-para-agregar-nuevos-sistemas-de-archivos-.md"
+    },
+    {
+      "title": "Gentoo: la distribución Linux que construye software desde fuentes",
+      "category": "linux",
+      "date": "2026-05-29",
+      "slug": "gentoo-la-distribucion-linux-que-construye-software-des",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El desarrollador de Gentoo, Michał Górny, ha escrito un artículo detallado sobre la filosofía y propósito de esta distribución Linux. Gentoo es conocida por ser una distribución source-first, lo que significa que se instalan aplicaciones…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-29-gentoo-la-distribucion-linux-que-construye-software-des.md"
+    },
+    {
+      "title": "Petros CH32H417M Alef: una placa de cámara USB 3.0 de RISC-V a un precio asequible",
+      "category": "embebidos",
+      "date": "2026-05-29",
+      "slug": "petros-ch32h417m-alef-una-placa-de-camara-usb-30-de-ris",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La placa Petros CH32H417M Alef es una opción atractiva para desarrolladores de robótica y sistemas embebidos que buscan una plataforma de cámara USB 3.0 a un precio razonable. Con su procesador RISC-V y interfaz de cámara digital, esta…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-29-petros-ch32h417m-alef-una-placa-de-camara-usb-30-de-ris.md"
+    },
+    {
+      "title": "u-blox ALMA-B2: módulo Bluetooth 6.0 con procesamiento de AI en tiempo real",
+      "category": "embebidos",
+      "date": "2026-05-29",
+      "slug": "u-blox-alma-b2-modulo-bluetooth-60-con-procesamiento-de",
+      "tags": [
+        "microcontroladores",
+        "ia-local",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "u-blox ha lanzado el módulo ALMA-B2, que combina Bluetooth 6.0 con un procesador de AI en tiempo real. Esto permite aplicaciones de IoT con baja latencia y alta eficiencia energética.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-29-u-blox-alma-b2-modulo-bluetooth-60-con-procesamiento-de.md"
+    },
+    {
+      "title": "La próxima generación de IA física no son robots más inteligentes, sino interfaces más inteligentes",
+      "category": "ia",
+      "date": "2026-05-29",
+      "slug": "la-proxima-generacion-de-ia-fisica-no-son-robots-mas--2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La industria de la IA física ha avanzado rápidamente en los últimos años, pero se ha centrado principalmente en mejorar la capacidad de los robots. Sin embargo, hay un lado del bucle que ha sido ignorado: la interfaz entre humanos y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-29-la-proxima-generacion-de-ia-fisica-no-son-robots-mas--2.md"
+    },
+    {
+      "title": "El software abierto ayuda a los robots a pensar y tomar decisiones",
+      "category": "ia",
+      "date": "2026-05-29",
+      "slug": "el-software-abierto-ayuda-a-los-robots-a-pensar-y-tomar",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica ha estado trabajando en proyectos de código abierto desde la década de 1990, pero ahora se está aplicando a la inteligencia artificial. Esto podría acelerar el desarrollo de robots capaces de razonar y tomar…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-29-el-software-abierto-ayuda-a-los-robots-a-pensar-y-tomar.md"
+    },
+    {
+      "title": "Asana adquiere StackAI para acelerar la automatización de flujos de trabajo",
+      "category": "ia",
+      "date": "2026-05-29",
+      "slug": "asana-adquiere-stackai-para-acelerar-la-automatizacion-",
+      "tags": [
+        "ia-local",
+        "automatizacion",
+        "linux"
+      ],
+      "preview": "Asana, una plataforma de gestión de trabajo, ha adquirido StackAI, una empresa de automatización de flujos de trabajo, por 75 millones de dólares. Esta adquisición forma parte de un esfuerzo más amplio para posicionar a Asana como una…",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-29-asana-adquiere-stackai-para-acelerar-la-automatizacion-.md"
+    },
+    {
+      "title": "AIC: 31 equipos avanzan a la fase 1 del desafío de robótica",
+      "category": "ia",
+      "date": "2026-05-29",
+      "slug": "aic-31-equipos-avanzan-a-la-fase-1-del-desafio-de-robot",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "El desafío de robótica AIC ha superado todas las expectativas con 31 equipos que avanzan a la fase 1. La respuesta y participación de la comunidad han sido impresionantes.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-29-aic-31-equipos-avanzan-a-la-fase-1-del-desafio-de-robot.md"
+    },
+    {
+      "title": "Laptops baratas con procesadores Qualcomm Snapdragon C",
+      "category": "ia",
+      "date": "2026-05-29",
+      "slug": "laptops-baratas-con-procesadores-qualcomm-snapdragon-c",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Qualcomm ha presentado un nuevo procesador para laptops entry-level con precios que comienzan en $300. Estas laptops competirán con modelos de Intel Alder Lake-N y Twin Lake.",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-29-laptops-baratas-con-procesadores-qualcomm-snapdragon-c.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, demuestra su fuerza y adaptabilidad",
+      "category": "robotica",
+      "date": "2026-05-29",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-por-refuerzo"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos dinámicos. Con su tecnología de aprendizaje por refuerzo y control de cuerpo completo, Atlas puede manejar objetos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-29-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-4.md"
+    },
+    {
       "title": "Calculadora mecánica 3D impresora con Raspberry Pi Pico",
       "category": "linux",
       "date": "2026-05-28",

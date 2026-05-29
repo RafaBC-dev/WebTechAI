@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-28</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-28</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-29</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-29</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-linux-72-arregla-problemas-de-graficos-en-procesadores-.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-intel-agrega-soporte-a-color-de-fondo-en-linux-72.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-tutorial-de-ros-con-contenedores-docker-para-iniciantes.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-actualiza-el-bootloader-uf2-para-resolver-problemas-en-.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-fedora-45-un-paso-hacia-la-identificacion-unica-de-paqu.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-documentacion-para-agregar-nuevos-sistemas-de-archivos-.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-gentoo-la-distribucion-linux-que-construye-software-des.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-29-petros-ch32h417m-alef-una-placa-de-camara-usb-30-de-ris.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-29-u-blox-alma-b2-modulo-bluetooth-60-con-procesamiento-de.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-la-proxima-generacion-de-ia-fisica-no-son-robots-mas--2.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-el-software-abierto-ayuda-a-los-robots-a-pensar-y-tomar.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-asana-adquiere-stackai-para-acelerar-la-automatizacion-.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-aic-31-equipos-avanzan-a-la-fase-1-del-desafio-de-robot.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-laptops-baratas-con-procesadores-qualcomm-snapdragon-c.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-29-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-4.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-calculadora-mecanica-3d-impresora-con-raspberry-pi-pico.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-el-caos-de-las-distribuciones-linux-quien-es-responsabl.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-28-camara-de-seguridad-diy-con-encriptacion-total-y-ia-en-.md</loc><lastmod>2026-05-28</lastmod><priority>0.8</priority></url>

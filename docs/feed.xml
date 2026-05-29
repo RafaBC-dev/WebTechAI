@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 10:46:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 10:40:36 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Linux 7.2 arregla problemas de gráficos en procesadores Intel Sandy Bridge</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-linux-72-arregla-problemas-de-graficos-en-procesadores-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-linux-72-arregla-problemas-de-graficos-en-procesadores-.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El nuevo kernel Linux 7.2 incluye una corrección importante para los procesadores Intel Sandy Bridge, que datan de 15 años atrás. Esta corrección resuelve un problema de reseteo de gráficos que afectaba a los usuarios que utilizaban estos…</description>
+  </item>
+  <item>
+    <title>Intel agrega soporte a color de fondo en Linux 7.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-intel-agrega-soporte-a-color-de-fondo-en-linux-72.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-intel-agrega-soporte-a-color-de-fondo-en-linux-72.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa Intel ha anunciado que agregará soporte a la propiedad de color de fondo en su driver DRM para Linux 7.2. Esto permitirá a los desarrolladores establecer un color de fondo por defecto en pantallas que no estén cubiertas por…</description>
+  </item>
+  <item>
+    <title>Tutorial de ROS con contenedores Docker para iniciantes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-tutorial-de-ros-con-contenedores-docker-para-iniciantes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-tutorial-de-ros-con-contenedores-docker-para-iniciantes.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un desarrollador ha creado un tutorial de ROS (Robot Operating System) con contenedores Docker para ayudar a los iniciados a empezar a trabajar con este sistema de software de código abierto. Esto es especialmente útil para aquellos que…</description>
+  </item>
+  <item>
+    <title>Actualiza el bootloader UF2 para resolver problemas en SAMD21 y SAMx5x</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-actualiza-el-bootloader-uf2-para-resolver-problemas-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-actualiza-el-bootloader-uf2-para-resolver-problemas-en-.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Si tienes un tablero SAMD21 o SAMx5x, es posible que necesites actualizar el bootloader UF2 para solucionar problemas de compatibilidad con macOS y Linux. Los problemas incluyen la falta de reconocimiento de los dispositivos y la pérdida…</description>
+  </item>
+  <item>
+    <title>Fedora 45: un paso hacia la identificación única de paquetes de software</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-fedora-45-un-paso-hacia-la-identificacion-unica-de-paqu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-fedora-45-un-paso-hacia-la-identificacion-unica-de-paqu.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Fedora 45 está considerando la adopción de PURL (Package-URL) para identificar de manera única los paquetes de software. Esto permitiría una mapeo más sencillo entre proyectos de código fuente y paquetes de Fedora, lo que facilitaría la…</description>
+  </item>
+  <item>
+    <title>Documentación para agregar nuevos sistemas de archivos a Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-documentacion-para-agregar-nuevos-sistemas-de-archivos-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-documentacion-para-agregar-nuevos-sistemas-de-archivos-.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>En el marco del Linux Storage, Filesystem, Memory Management y BPF Summit, Amir Goldstein presentó una propuesta para documentar la adición de nuevos sistemas de archivos al núcleo de Linux. Esto busca evitar que se agreguen sistemas de…</description>
+  </item>
+  <item>
+    <title>Gentoo: la distribución Linux que construye software desde fuentes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-gentoo-la-distribucion-linux-que-construye-software-des.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-gentoo-la-distribucion-linux-que-construye-software-des.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El desarrollador de Gentoo, Michał Górny, ha escrito un artículo detallado sobre la filosofía y propósito de esta distribución Linux. Gentoo es conocida por ser una distribución source-first, lo que significa que se instalan aplicaciones…</description>
+  </item>
+  <item>
+    <title>Petros CH32H417M Alef: una placa de cámara USB 3.0 de RISC-V a un precio asequible</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-29-petros-ch32h417m-alef-una-placa-de-camara-usb-30-de-ris.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-29-petros-ch32h417m-alef-una-placa-de-camara-usb-30-de-ris.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La placa Petros CH32H417M Alef es una opción atractiva para desarrolladores de robótica y sistemas embebidos que buscan una plataforma de cámara USB 3.0 a un precio razonable. Con su procesador RISC-V y interfaz de cámara digital, esta…</description>
+  </item>
+  <item>
+    <title>u-blox ALMA-B2: módulo Bluetooth 6.0 con procesamiento de AI en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-29-u-blox-alma-b2-modulo-bluetooth-60-con-procesamiento-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-29-u-blox-alma-b2-modulo-bluetooth-60-con-procesamiento-de.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>u-blox ha lanzado el módulo ALMA-B2, que combina Bluetooth 6.0 con un procesador de AI en tiempo real. Esto permite aplicaciones de IoT con baja latencia y alta eficiencia energética.</description>
+  </item>
+  <item>
+    <title>La próxima generación de IA física no son robots más inteligentes, sino interfaces más inteligentes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-la-proxima-generacion-de-ia-fisica-no-son-robots-mas--2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-la-proxima-generacion-de-ia-fisica-no-son-robots-mas--2.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La industria de la IA física ha avanzado rápidamente en los últimos años, pero se ha centrado principalmente en mejorar la capacidad de los robots. Sin embargo, hay un lado del bucle que ha sido ignorado: la interfaz entre humanos y…</description>
+  </item>
+  <item>
+    <title>El software abierto ayuda a los robots a pensar y tomar decisiones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-el-software-abierto-ayuda-a-los-robots-a-pensar-y-tomar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-el-software-abierto-ayuda-a-los-robots-a-pensar-y-tomar.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de robótica ha estado trabajando en proyectos de código abierto desde la década de 1990, pero ahora se está aplicando a la inteligencia artificial. Esto podría acelerar el desarrollo de robots capaces de razonar y tomar…</description>
+  </item>
+  <item>
+    <title>Asana adquiere StackAI para acelerar la automatización de flujos de trabajo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-asana-adquiere-stackai-para-acelerar-la-automatizacion-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-asana-adquiere-stackai-para-acelerar-la-automatizacion-.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Asana, una plataforma de gestión de trabajo, ha adquirido StackAI, una empresa de automatización de flujos de trabajo, por 75 millones de dólares. Esta adquisición forma parte de un esfuerzo más amplio para posicionar a Asana como una…</description>
+  </item>
+  <item>
+    <title>AIC: 31 equipos avanzan a la fase 1 del desafío de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-aic-31-equipos-avanzan-a-la-fase-1-del-desafio-de-robot.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-aic-31-equipos-avanzan-a-la-fase-1-del-desafio-de-robot.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El desafío de robótica AIC ha superado todas las expectativas con 31 equipos que avanzan a la fase 1. La respuesta y participación de la comunidad han sido impresionantes.</description>
+  </item>
+  <item>
+    <title>Laptops baratas con procesadores Qualcomm Snapdragon C</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-laptops-baratas-con-procesadores-qualcomm-snapdragon-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-29-laptops-baratas-con-procesadores-qualcomm-snapdragon-c.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Qualcomm ha presentado un nuevo procesador para laptops entry-level con precios que comienzan en $300. Estas laptops competirán con modelos de Intel Alder Lake-N y Twin Lake.</description>
+  </item>
+  <item>
+    <title>Atlas, el robot humanoide más capaz, demuestra su fuerza y adaptabilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-29-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-4.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-29-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-4.md</guid>
+    <pubDate>Fri, 29 May 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos dinámicos. Con su tecnología de aprendizaje por refuerzo y control de cuerpo completo, Atlas puede manejar objetos…</description>
+  </item>
   <item>
     <title>Calculadora mecánica 3D impresora con Raspberry Pi Pico</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-28-calculadora-mecanica-3d-impresora-con-raspberry-pi-pico.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 28 May 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>Atlas, el robot humanoide desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos industriales dinámicos. Con su tecnología de aprendizaje por refuerzo y control de cuerpo completo, Atlas…</description>
-  </item>
-  <item>
-    <title>Mejora en el driver Linux para Raspberry Pi: exposición de voltajes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-mejora-en-el-driver-linux-para-raspberry-pi-exposicion-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-mejora-en-el-driver-linux-para-raspberry-pi-exposicion-.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Raspberry Pi ha recibido una actualización importante en el driver de hardware de Linux, que permite la exposición de mediciones de voltaje en estas computadoras de placa única ARM. Esto significa que los usuarios podrán…</description>
-  </item>
-  <item>
-    <title>Revisión del ODROID-H5: un SBC con 10GbE y flexibilidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-revision-del-odroid-h5-un-sbc-con-10gbe-y-flexibilidad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-revision-del-odroid-h5-un-sbc-con-10gbe-y-flexibilidad.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Hardkernel ha lanzado el ODROID-H5, un sistema en un solo chip (SBC) con 10GbE y una gran flexibilidad. Este artículo revisa el proceso de desempaquetado, ensamblaje y primer arranque del kit.</description>
-  </item>
-  <item>
-    <title>Actualización de directrices para el uso de herramientas de IA en Python</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-actualizacion-de-directrices-para-el-uso-de-herramienta.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-actualizacion-de-directrices-para-el-uso-de-herramienta.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de desarrolladores de Python ha actualizado sus directrices para el uso de herramientas de inteligencia artificial al contribuir al código fuente de CPython. Esta actualización es importante para todos los contribuyentes, ya…</description>
-  </item>
-  <item>
-    <title>Linux en Android: computación potente a bajo costo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-linux-en-android-computacion-potente-a-bajo-costo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-27-linux-en-android-computacion-potente-a-bajo-costo.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>En algunas partes del mundo, los operadores de telefonía venden teléfonos a precios muy bajos, siempre y cuando estén vinculados a su red. Esto puede ser una oportunidad para los hackers, ya que estos teléfonos pueden ejecutar un entorno…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi lanza su propio microcontrolador, RP2350</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-27-raspberry-pi-lanza-su-propio-microcontrolador-rp2350-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-27-raspberry-pi-lanza-su-propio-microcontrolador-rp2350-2.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Raspberry Pi, conocida por sus placas de desarrollo, ha lanzado su propio microcontrolador, RP2350. Este dispositivo es el resultado de más de cinco años de desarrollo en el equipo de ASIC de la empresa.</description>
-  </item>
-  <item>
-    <title>Desarrollador de RISC-V con USB 3.0 y Ethernet para proyectos embebidos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-27-desarrollador-de-risc-v-con-usb-30-y-ethernet-para-proy.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-27-desarrollador-de-risc-v-con-usb-30-y-ethernet-para-proy.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>MuseLab lanza el nanoCH32H417, un desarrollo de hardware para proyectos embebidos con un microcontrolador RISC-V dual-core que incluye USB 3.0 y Ethernet. Este desarrollo ofrece una opción más asequible para desarrolladores de hardware.</description>
-  </item>
-  <item>
-    <title>Controlador de LED NeoPixels abiertamente disponible para instalaciones de iluminación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-27-controlador-de-led-neopixels-abiertamente-disponible-pa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-27-controlador-de-led-neopixels-abiertamente-disponible-pa.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>LichtBit ha lanzado un controlador de LED NeoPixels basado en ESP32 que puede manejar hasta 2.720 LEDs RGB. Este dispositivo está diseñado para instalaciones de iluminación de gran escala y diseño de escenario personalizado.</description>
-  </item>
-  <item>
-    <title>La próxima revolución en la robótica: interfaces más inteligentes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-la-proxima-revolucion-en-la-robotica-interfaces-mas-int.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-la-proxima-revolucion-en-la-robotica-interfaces-mas-int.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La industria de la robótica ha avanzado rápidamente en los últimos años, pero hay un lado del bucle que ha sido tratado como un problema resuelto durante demasiado tiempo: la interfaz entre humanos y máquinas. Es hora de cambiar esto.</description>
-  </item>
-  <item>
-    <title>El software de código abierto ayuda a los robots a pensar y tomar decisiones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-3.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de robótica ha estado trabajando en el desarrollo de software de código abierto para hacer que los robots puedan pensar y tomar decisiones de manera más autónoma. Este movimiento está acelerando rápidamente y está cambiando la…</description>
-  </item>
-  <item>
-    <title>Lenguaje de máquina en el borde: un paso hacia la IA en el hogar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-lenguaje-de-maquina-en-el-borde-un-paso-hacia-la-ia-en-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-lenguaje-de-maquina-en-el-borde-un-paso-hacia-la-ia-en-.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La combinación de modelos de lenguaje de máquina (LLMs) y cámaras de visión artificial de Raspberry Pi abre nuevas posibilidades para la interacción con la tecnología. En lugar de enviar videos a la nube, estos sistemas pueden describir y…</description>
-  </item>
-  <item>
-    <title>Startup india: entrenando robots con datos de trabajadores de la economía gigante</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-startup-india-entrenando-robots-con-datos-de-trabajador.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-startup-india-entrenando-robots-con-datos-de-trabajador.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La startup Human Archive está recopilando datos de trabajadores de la economía gigante india para entrenar a robots. Esta iniciativa podría revolucionar la robótica y la inteligencia artificial.</description>
-  </item>
-  <item>
-    <title>DuckDuckGo gana usuarios después de la reacción negativa a Google Search con AI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-duckduckgo-gana-usuarios-despues-de-la-reaccion-negativ.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-duckduckgo-gana-usuarios-despues-de-la-reaccion-negativ.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La búsqueda de Google ha cambiado drásticamente con la incorporación de agentes de inteligencia artificial, lo que ha llevado a muchos usuarios a buscar alternativas. DuckDuckGo, un motor de búsqueda enfocado en la privacidad, ha visto un…</description>
-  </item>
-  <item>
-    <title>Nuevos conjuntos de datos sintéticos para la selección de objetos industriales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-nuevos-conjuntos-de-datos-sinteticos-para-la-seleccion-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-27-nuevos-conjuntos-de-datos-sinteticos-para-la-seleccion-.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los desarrolladores de Telekinesis han lanzado nuevos conjuntos de datos sintéticos para la selección de objetos industriales. Estos conjuntos de datos están disponibles en Kaggle y pueden ayudar a los investigadores y desarrolladores a…</description>
-  </item>
-  <item>
-    <title>Connext Robotics Toolkit para ROS Lyrical Luth ahora disponible</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-27-connext-robotics-toolkit-para-ros-lyrical-luth-ahora-di.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-27-connext-robotics-toolkit-para-ros-lyrical-luth-ahora-di.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS 2 acaba de recibir una actualización importante en el Connext Robotics Toolkit, que facilita la integración de sistemas de robótica con native DDS aplicaciones. Esto abre nuevas posibilidades para la producción y el…</description>
-  </item>
-  <item>
-    <title>Atlas, el robot humanoide, demuestra su capacidad en la industria</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-27-atlas-el-robot-humanoide-demuestra-su-capacidad-en-la-i.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-27-atlas-el-robot-humanoide-demuestra-su-capacidad-en-la-i.md</guid>
-    <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Atlas, el robot humanoide desarrollado por Boston Dynamics, ha demostrado su capacidad en la industria al mover un refrigerador con facilidad. Esto marca un hito en la robótica, ya que los robots humanoides pueden moverse en entornos…</description>
   </item>
 </channel>
 </rss>
