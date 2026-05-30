@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Un nuevo handheld de Raspberry Pi impresiona con su versatilidad",
+      "category": "linux",
+      "date": "2026-05-30",
+      "slug": "un-nuevo-handheld-de-raspberry-pi-impresiona-con-su-ver",
+      "tags": [
+        "robotica",
+        "linux",
+        "microcontroladores"
+      ],
+      "preview": "Un nuevo proyecto de un handheld de Raspberry Pi ha captado la atención por su diseño innovador y su capacidad para ofrecer una experiencia de usuario completa. Este dispositivo, llamado PiBrick, es una computadora de sobremesa en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-30-un-nuevo-handheld-de-raspberry-pi-impresiona-con-su-ver.md"
+    },
+    {
+      "title": "Calculadora 3D impresionada con Raspberry Pi Pico",
+      "category": "linux",
+      "date": "2026-05-30",
+      "slug": "calculadora-3d-impresionada-con-raspberry-pi-pico",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "raspberry-pi"
+      ],
+      "preview": "La Raspberry Pi Official Magazine ha lanzado un nuevo número con un artículo destacado: una calculadora 3D impresionada con tecnología mecánica y un Raspberry Pi Pico como cerebro.",
+      "has_command": false,
+      "file_path": "content/linux/2026-05-30-calculadora-3d-impresionada-con-raspberry-pi-pico.md"
+    },
+    {
+      "title": "Petros CH32H417M Alef: una placa de cámara USB 3.0 basada en RISC-V",
+      "category": "embebidos",
+      "date": "2026-05-30",
+      "slug": "petros-ch32h417m-alef-una-placa-de-camara-usb-30-basada",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La placa de cámara Petros CH32H417M Alef es una opción atractiva para desarrolladores de robótica y sistemas embebidos, ofreciendo una combinación de velocidad y flexibilidad en un paquete compacto.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-30-petros-ch32h417m-alef-una-placa-de-camara-usb-30-basada.md"
+    },
+    {
+      "title": "Nueva biblioteca para voz en vivo HD en ESP-NOW con G.722",
+      "category": "embebidos",
+      "date": "2026-05-30",
+      "slug": "nueva-biblioteca-para-voz-en-vivo-hd-en-esp-now-con-g72",
+      "tags": [
+        "robotica",
+        "esp32",
+        "arduino",
+        "linux"
+      ],
+      "preview": "La biblioteca PCMFlow722 permite comunicaciones de voz en vivo de alta calidad en ESP-NOW, revolucionando la comunicación en dispositivos ESP32",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-30-nueva-biblioteca-para-voz-en-vivo-hd-en-esp-now-con-g72.md"
+    },
+    {
+      "title": "Raspberry Pi lanza un podcast para explicar su tecnología de microcontroladores",
+      "category": "embebidos",
+      "date": "2026-05-30",
+      "slug": "raspberry-pi-lanza-un-podcast-para-explicar-su-tecnolog",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Raspberry Pi, conocida por sus tarjetas de desarrollo, ha lanzado un podcast para explicar su tecnología de microcontroladores, incluyendo su nuevo chip RP2350.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-30-raspberry-pi-lanza-un-podcast-para-explicar-su-tecnolog.md"
+    },
+    {
+      "title": "Microchip lanza dsPIC33CK, un MCU de bajo costo para control de motores",
+      "category": "embebidos",
+      "date": "2026-05-30",
+      "slug": "microchip-lanza-dspic33ck-un-mcu-de-bajo-costo-para-con",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "Microchip ha lanzado el dsPIC33CK, una nueva familia de microcontroladores digitales de señal (DSC) de 16 bits diseñados para aplicaciones de control de motores. Estos DSC ofrecen hasta 100 MIPS de rendimiento determinista y integran alta…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-30-microchip-lanza-dspic33ck-un-mcu-de-bajo-costo-para-con.md"
+    },
+    {
+      "title": "Noticias sobre Python en microcontroladores, sin publicidad ni spam",
+      "category": "embebidos",
+      "date": "2026-05-30",
+      "slug": "noticias-sobre-python-en-microcontroladores-sin-publici",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "software"
+      ],
+      "preview": "¿Quieres estar al día con las últimas noticias sobre Python en hardware y software? El boletín semanal 'Python on Microcontrollers' es el lugar perfecto para ti.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-05-30-noticias-sobre-python-en-microcontroladores-sin-publici.md"
+    },
+    {
+      "title": "Lenguajes de lenguaje grande en la periferia: un paso hacia la inteligencia local",
+      "category": "ia",
+      "date": "2026-05-30",
+      "slug": "lenguajes-de-lenguaje-grande-en-la-periferia-un-paso-ha",
+      "tags": [
+        "llms",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Los modelos de lenguaje grande (LLMs) se están convirtiendo en una realidad cada vez más cercana. Ahora, se puede combinar con cámaras de visión artificial para crear sistemas de visión-lenguaje que describen y razonan sobre el mundo…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-30-lenguajes-de-lenguaje-grande-en-la-periferia-un-paso-ha.md"
+    },
+    {
+      "title": "Frontier modelos fallan en tareas de ingeniería de sitio de confiabilidad",
+      "category": "ia",
+      "date": "2026-05-30",
+      "slug": "frontier-modelos-fallan-en-tareas-de-ingenieria-de-siti",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "La empresa Artificial Analysis y IBM han lanzado ITBench-AA, un nuevo estándar de evaluación de modelos de inteligencia artificial para tareas de ingeniería de sitio de confiabilidad. Los resultados son sorprendentes: los modelos más…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-30-frontier-modelos-fallan-en-tareas-de-ingenieria-de-siti.md"
+    },
+    {
+      "title": "Código malicioso en una librería de Java: un nuevo riesgo en la cadena de suministro",
+      "category": "ia",
+      "date": "2026-05-30",
+      "slug": "codigo-malicioso-en-una-libreria-de-java-un-nuevo-riesg",
+      "tags": [
+        "librerias",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Un desarrollador de Java ha descubierto un código malicioso en la librería jqwik, que intenta eliminar pruebas y código existentes. Este incidente destaca un nuevo riesgo en la cadena de suministro que no es detectado por los escáneres de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-30-codigo-malicioso-en-una-libreria-de-java-un-nuevo-riesg.md"
+    },
+    {
+      "title": "La paranoia del AI: cuando la automatización reemplaza a los empleados",
+      "category": "ia",
+      "date": "2026-05-30",
+      "slug": "la-paranoia-del-ai-cuando-la-automatizacion-reemplaza-a",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La reciente reducción de personal en ClickUp y otros casos de tecnología están generando una crisis de confianza en la inteligencia artificial. ¿Qué pasa cuando los que deciden reemplazar a los empleados con AI no entienden su trabajo?",
+      "has_command": false,
+      "file_path": "content/ia/2026-05-30-la-paranoia-del-ai-cuando-la-automatizacion-reemplaza-a.md"
+    },
+    {
+      "title": "Software abierto acelera el desarrollo de robots pensantes",
+      "category": "ia",
+      "date": "2026-05-30",
+      "slug": "software-abierto-acelera-el-desarrollo-de-robots-pensan",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica ha estado trabajando en software abierto para mejorar la inteligencia artificial de los robots. Ahora, empresas como Hugging Face, Nvidia y Alibaba están lanzando herramientas y modelos para ayudar a los robots a…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-30-software-abierto-acelera-el-desarrollo-de-robots-pensan.md"
+    },
+    {
+      "title": "Robótica omnidireccional extremadamente avanzada",
+      "category": "robotica",
+      "date": "2026-05-30",
+      "slug": "robotica-omnidireccional-extremadamente-avanzada",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados, y ahora tenemos robots que pueden moverse en cualquier dirección. En este artículo, exploraremos un robot extremadamente omnidireccional que está revolucionando la forma en que pensamos sobre…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-30-robotica-omnidireccional-extremadamente-avanzada.md"
+    },
+    {
+      "title": "ROS News: Reuniones y novedades en robótica y IA",
+      "category": "robotica",
+      "date": "2026-05-30",
+      "slug": "ros-news-reuniones-y-novedades-en-robotica-y-ia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "librerias"
+      ],
+      "preview": "La semana pasada se anunciaron varias reuniones y novedades en el mundo de la robótica y la inteligencia artificial. El ICRA 2026 se llevará a cabo en Viena y contará con un ROS Meetup y un Dronecode Social. Además, se ha completado la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-30-ros-news-reuniones-y-novedades-en-robotica-y-ia.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide que puede levantar una nevera",
+      "category": "robotica",
+      "date": "2026-05-30",
+      "slug": "atlas-el-robot-humanoide-que-puede-levantar-una-nevera",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-por-refuerzo"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para levantar objetos pesados como una nevera. Esto es posible gracias a su sistema de aprendizaje por refuerzo y control de cuerpo completo.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-05-30-atlas-el-robot-humanoide-que-puede-levantar-una-nevera.md"
+    },
+    {
       "title": "Linux 7.2 arregla problemas de gráficos en procesadores Intel Sandy Bridge",
       "category": "linux",
       "date": "2026-05-29",

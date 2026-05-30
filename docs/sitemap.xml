@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-29</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-29</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-30</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-30-un-nuevo-handheld-de-raspberry-pi-impresiona-con-su-ver.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-30-calculadora-3d-impresionada-con-raspberry-pi-pico.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-30-petros-ch32h417m-alef-una-placa-de-camara-usb-30-basada.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-30-nueva-biblioteca-para-voz-en-vivo-hd-en-esp-now-con-g72.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-30-raspberry-pi-lanza-un-podcast-para-explicar-su-tecnolog.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-30-microchip-lanza-dspic33ck-un-mcu-de-bajo-costo-para-con.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-30-noticias-sobre-python-en-microcontroladores-sin-publici.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-30-lenguajes-de-lenguaje-grande-en-la-periferia-un-paso-ha.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-30-frontier-modelos-fallan-en-tareas-de-ingenieria-de-siti.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-30-codigo-malicioso-en-una-libreria-de-java-un-nuevo-riesg.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-30-la-paranoia-del-ai-cuando-la-automatizacion-reemplaza-a.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-30-software-abierto-acelera-el-desarrollo-de-robots-pensan.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-30-robotica-omnidireccional-extremadamente-avanzada.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-30-ros-news-reuniones-y-novedades-en-robotica-y-ia.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-30-atlas-el-robot-humanoide-que-puede-levantar-una-nevera.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-linux-72-arregla-problemas-de-graficos-en-procesadores-.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-intel-agrega-soporte-a-color-de-fondo-en-linux-72.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-29-tutorial-de-ros-con-contenedores-docker-para-iniciantes.md</loc><lastmod>2026-05-29</lastmod><priority>0.8</priority></url>
