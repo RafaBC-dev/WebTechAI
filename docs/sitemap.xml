@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-30</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-31</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-31</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-31-nixos-2605-nueva-version-de-linux-con-20442-nuevos-paqu.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-31-correcciones-de-usb-en-linux-71-rc6-mejoras-en-disposit.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-31-calculadora-3d-impresionada-con-raspberry-pi-flapulator.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-31-nueva-biblioteca-pcmflow722-para-voz-en-vivo-hd-en-esp3.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-31-microcontrolador-de-bajo-costo-para-control-de-motores.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-31-petros-ch32h417m-alef-un-modulo-de-camara-usb-30-risc-v.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-31-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-5.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-31-protestware-un-nuevo-tipo-de-malware-para-agentes-de-co.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-05-31-modeloop-diseno-de-modelos-con-generacion-de-nodos-ros-.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-31-linkforge-un-motor-de-descripcion-de-robots-programable.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-31-visualizador-de-datos-de-ros-en-navegador-sin-instalaci.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-31-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-5.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-05-31-robot-omnidireccional-extremo-el-futuro-de-la-robotica.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-05-31-construye-un-joystick-de-arcade-personalizado-con-tecno.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-05-31-impresion-3d-a-velocidad-record-un-minuto-para-imprimir.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-30-un-nuevo-handheld-de-raspberry-pi-impresiona-con-su-ver.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-30-calculadora-3d-impresionada-con-raspberry-pi-pico.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-05-30-petros-ch32h417m-alef-una-placa-de-camara-usb-30-basada.md</loc><lastmod>2026-05-30</lastmod><priority>0.8</priority></url>

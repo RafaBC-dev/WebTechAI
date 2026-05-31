@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "NixOS 26.05: Nueva versión de Linux con 20.442 nuevos paquetes",
+      "category": "linux",
+      "date": "2026-05-31",
+      "slug": "nixos-2605-nueva-version-de-linux-con-20442-nuevos-paqu",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La distribución de Linux NixOS ha lanzado su versión 26.05, que incluye 20.442 nuevos paquetes y actualiza 20.641 existentes. Esta versión también cambia su implementación de inicialización por defecto a systemd.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-31-nixos-2605-nueva-version-de-linux-con-20442-nuevos-paqu.md"
+    },
+    {
+      "title": "Correcciones de USB en Linux 7.1-rc6: mejoras en dispositivos y estabilidad",
+      "category": "linux",
+      "date": "2026-05-31",
+      "slug": "correcciones-de-usb-en-linux-71-rc6-mejoras-en-disposit",
+      "tags": [
+        "linux",
+        "usb",
+        "kernel"
+      ],
+      "preview": "La próxima versión de Linux 7.1-rc6 incluye varias correcciones y mejoras en la gestión de dispositivos USB. Estas actualizaciones resuelven problemas de estabilidad y funcionamiento en varios dispositivos, incluyendo SSD y puertos USB-C.",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-31-correcciones-de-usb-en-linux-71-rc6-mejoras-en-disposit.md"
+    },
+    {
+      "title": "Calculadora 3D impresionada con Raspberry Pi: Flapulator",
+      "category": "linux",
+      "date": "2026-05-31",
+      "slug": "calculadora-3d-impresionada-con-raspberry-pi-flapulator",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "raspberry-pi"
+      ],
+      "preview": "La revista oficial de Raspberry Pi presenta el Flapulator, una calculadora 3D impresionada con un diseño innovador y un toque de nostalgia. Esta calculadora mecánica utiliza un Raspberry Pi Pico como cerebro y cuenta con interruptores…",
+      "has_command": true,
+      "file_path": "content/linux/2026-05-31-calculadora-3d-impresionada-con-raspberry-pi-flapulator.md"
+    },
+    {
+      "title": "Nueva biblioteca PCMFlow722 para voz en vivo HD en ESP32 con G.722",
+      "category": "embebidos",
+      "date": "2026-05-31",
+      "slug": "nueva-biblioteca-pcmflow722-para-voz-en-vivo-hd-en-esp3",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Una nueva biblioteca llamada PCMFlow722 permite transmitir voz en vivo de alta calidad en tiempo real entre dispositivos ESP32 con una tarjeta de sonido y un micrófono, convirtiéndolos en walkie-talkies.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-31-nueva-biblioteca-pcmflow722-para-voz-en-vivo-hd-en-esp3.md"
+    },
+    {
+      "title": "Microcontrolador de bajo costo para control de motores",
+      "category": "embebidos",
+      "date": "2026-05-31",
+      "slug": "microcontrolador-de-bajo-costo-para-control-de-motores",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "motor-control"
+      ],
+      "preview": "Microchip ha lanzado un nuevo microcontrolador de bajo costo para aplicaciones de control de motores, que ofrece un rendimiento determinista de hasta 100 MIPS y una integración de alta resolución de PWM y ADC.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-31-microcontrolador-de-bajo-costo-para-control-de-motores.md"
+    },
+    {
+      "title": "Petros CH32H417M Alef: un módulo de cámara USB 3.0 RISC-V en miniatura",
+      "category": "embebidos",
+      "date": "2026-05-31",
+      "slug": "petros-ch32h417m-alef-un-modulo-de-camara-usb-30-risc-v",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "La empresa XPU Labs ha lanzado el Petros CH32H417M Alef, un módulo de cámara USB 3.0 RISC-V que se asemeja en tamaño a la Raspberry Pi Pico. Este módulo ofrece una gran cantidad de características y conectividad, lo que lo hace atractivo…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-05-31-petros-ch32h417m-alef-un-modulo-de-camara-usb-30-risc-v.md"
+    },
+    {
+      "title": "El software de código abierto ayuda a los robots a pensar y tomar decisiones",
+      "category": "ia",
+      "date": "2026-05-31",
+      "slug": "el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-5",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El mundo de la robótica acaba de recibir un impulso importante gracias al software de código abierto. Después de que se liberaron hardware de robótica de código abierto, ahora se están abriendo fuentes de código para ayudar a los robots a…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-31-el-software-de-codigo-abierto-ayuda-a-los-robots-a-pe-5.md"
+    },
+    {
+      "title": "Protestware: un nuevo tipo de malware para agentes de codificación",
+      "category": "ia",
+      "date": "2026-05-31",
+      "slug": "protestware-un-nuevo-tipo-de-malware-para-agentes-de-co",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "Un desarrollador ha descubierto un incidente de protestware en la biblioteca jqwik, una herramienta para pruebas de propiedad en Java. Este tipo de malware intenta eliminar pruebas y código existentes, lo que podría tener consecuencias…",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-31-protestware-un-nuevo-tipo-de-malware-para-agentes-de-co.md"
+    },
+    {
+      "title": "Modeloop: diseño de modelos con generación de nodos ROS 2",
+      "category": "ia",
+      "date": "2026-05-31",
+      "slug": "modeloop-diseno-de-modelos-con-generacion-de-nodos-ros-",
+      "tags": [
+        "robotica",
+        "ros2",
+        "linux"
+      ],
+      "preview": "Modeloop es un entorno en la nube que permite diseñar modelos de manera gráfica y generar código para robots y sistemas embebidos. Esta herramienta es especialmente útil para desarrolladores de robótica que trabajan con ROS 2.",
+      "has_command": true,
+      "file_path": "content/ia/2026-05-31-modeloop-diseno-de-modelos-con-generacion-de-nodos-ros-.md"
+    },
+    {
+      "title": "LinkForge: un motor de descripción de robots programable para ROS",
+      "category": "robotica",
+      "date": "2026-05-31",
+      "slug": "linkforge-un-motor-de-descripcion-de-robots-programable",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS ha recibido una actualización importante con la versión 1.4.0 de LinkForge, un motor de descripción de robots programable que busca resolver problemas comunes en la creación de modelos de robots.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-31-linkforge-un-motor-de-descripcion-de-robots-programable.md"
+    },
+    {
+      "title": "Visualizador de datos de ROS en navegador sin instalación",
+      "category": "robotica",
+      "date": "2026-05-31",
+      "slug": "visualizador-de-datos-de-ros-en-navegador-sin-instalaci",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una herramienta para visualizar datos de ROS en el navegador sin necesidad de instalación previa. Esto puede ser útil para desarrolladores de robótica que necesitan analizar datos de sus proyectos sin tener que…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-31-visualizador-de-datos-de-ros-en-navegador-sin-instalaci.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, demuestra su fuerza en la realidad",
+      "category": "robotica",
+      "date": "2026-05-31",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-5",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "automatizacion"
+      ],
+      "preview": "El robot Atlas, creado por Boston Dynamics, ha demostrado su capacidad y dinamismo en la realidad, superando incluso a humanos en algunas tareas. Esto se debe a la tecnología de aprendizaje por refuerzo y control de sistemas que lo permite…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-31-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-5.md"
+    },
+    {
+      "title": "Robot omnidireccional extremo: el futuro de la robótica",
+      "category": "robotica",
+      "date": "2026-05-31",
+      "slug": "robot-omnidireccional-extremo-el-futuro-de-la-robotica",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados, y ahora tenemos robots que pueden moverse en cualquier dirección sin problemas. El robot omnidireccional extremo es un ejemplo de lo que se puede lograr con la tecnología actual.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-05-31-robot-omnidireccional-extremo-el-futuro-de-la-robotica.md"
+    },
+    {
+      "title": "Construye un joystick de arcade personalizado con tecnología Adafruit",
+      "category": "diseño-3d",
+      "date": "2026-05-31",
+      "slug": "construye-un-joystick-de-arcade-personalizado-con-tecno",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "diseño-3d"
+      ],
+      "preview": "Los jugadores de arcade pueden ahora crear sus propios controles personalizados con la ayuda de la placa KB2040 de Adafruit y su firmware GP2040-CE. Este dispositivo puede conectarse a consolas como Switch, PlayStation y Xbox, así como a…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-05-31-construye-un-joystick-de-arcade-personalizado-con-tecno.md"
+    },
+    {
+      "title": "Impresión 3D a velocidad récord: un minuto para imprimir un Benchy",
+      "category": "diseño-3d",
+      "date": "2026-05-31",
+      "slug": "impresion-3d-a-velocidad-record-un-minuto-para-imprimir",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "python"
+      ],
+      "preview": "Después de dos años de experimentación, un ingeniero ha logrado imprimir un Benchy en menos de un minuto, rompiendo un récord en la industria de la impresión 3D. Esta hazaña muestra la potencia de la innovación y la mejora continua en el…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-05-31-impresion-3d-a-velocidad-record-un-minuto-para-imprimir.md"
+    },
+    {
       "title": "Un nuevo handheld de Raspberry Pi impresiona con su versatilidad",
       "category": "linux",
       "date": "2026-05-30",
