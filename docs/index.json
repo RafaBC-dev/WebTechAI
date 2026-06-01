@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Calculadora 3D impresora con Raspberry Pi Pico",
+      "category": "linux",
+      "date": "2026-06-01",
+      "slug": "calculadora-3d-impresora-con-raspberry-pi-pico",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "raspberry-pi"
+      ],
+      "preview": "Una calculadora física con pantalla mecánica 3D impresora, alimentada por un Raspberry Pi Pico, ha sido creada por un científico informático. Esta innovadora calculadora, llamada Flapulator, combina la precisión de un cálculo digital con…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-01-calculadora-3d-impresora-con-raspberry-pi-pico.md"
+    },
+    {
+      "title": "Actualización de Ubuntu 26.04 afecta a robot Lyrical-Dave",
+      "category": "linux",
+      "date": "2026-06-01",
+      "slug": "actualizacion-de-ubuntu-2604-afecta-a-robot-lyrical-dav",
+      "tags": [
+        "robotica",
+        "linux",
+        "python"
+      ],
+      "preview": "Un usuario ha experimentado problemas con su robot Lyrical-Dave después de actualizar a Ubuntu 26.04, debido a cambios en la versión de Python 3.14. Este incidente resalta la importancia de probar y validar las actualizaciones antes de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-01-actualizacion-de-ubuntu-2604-afecta-a-robot-lyrical-dav.md"
+    },
+    {
+      "title": "Linux 7.2 deprecará AF_ALG debido a vulnerabilidades y superficie de ataque",
+      "category": "linux",
+      "date": "2026-06-01",
+      "slug": "linux-72-deprecara-af-alg-debido-a-vulnerabilidades-y-s",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2 del kernel de Linux está a punto de deprecar la interfaz AF_ALG debido a una gran cantidad de vulnerabilidades que han sido descubiertas recientemente. Esta medida se debe a que la interfaz expone una superficie de ataque…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-01-linux-72-deprecara-af-alg-debido-a-vulnerabilidades-y-s.md"
+    },
+    {
+      "title": "Sixfab lanza AI HAT+ para Raspberry Pi 5 con acelerador AI DEEPX DX-M1",
+      "category": "embebidos",
+      "date": "2026-06-01",
+      "slug": "sixfab-lanza-ai-hat-para-raspberry-pi-5-con-acelerador-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "Sixfab ha lanzado el AI HAT+ para Raspberry Pi 5, un módulo de expansión que integra un acelerador AI llamado DEEPX DX-M1. Este acelerador es similar al utilizado en otros dispositivos como el ALPON X5 y el Mini DX-M1 SoM. El AI HAT+ es…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-01-sixfab-lanza-ai-hat-para-raspberry-pi-5-con-acelerador-.md"
+    },
+    {
+      "title": "Raspberry Pi lanza un microcontrolador más potente y seguro",
+      "category": "embebidos",
+      "date": "2026-06-01",
+      "slug": "raspberry-pi-lanza-un-microcontrolador-mas-potente-y-se",
+      "tags": [
+        "microcontroladores",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "Raspberry Pi ha lanzado un nuevo microcontrolador llamado RP2350, que es el sucesor del popular RP2040. Este nuevo chip es más potente y seguro, y está diseñado para satisfacer las necesidades de los desarrolladores de hardware y software.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-01-raspberry-pi-lanza-un-microcontrolador-mas-potente-y-se.md"
+    },
+    {
+      "title": "Módulo NuMaker-GestureAI-M55M1: control de gestos con IA y visión",
+      "category": "embebidos",
+      "date": "2026-06-01",
+      "slug": "modulo-numaker-gestureai-m55m1-control-de-gestos-con-ia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Nuvoton ha lanzado el módulo NuMaker-GestureAI-M55M1, un desarrollo basado en el MCU NuMicro M55M1, que combina un núcleo Cortex-M55 con un microNPU Ethos-U55 para control de gestos y visión con IA. Este módulo es ideal para aplicaciones…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-01-modulo-numaker-gestureai-m55m1-control-de-gestos-con-ia.md"
+    },
+    {
+      "title": "Waveshare RP2350B-Plus-W: una placa de desarrollo con 41 GPIOs y USB-C",
+      "category": "embebidos",
+      "date": "2026-06-01",
+      "slug": "waveshare-rp2350b-plus-w-una-placa-de-desarrollo-con-41",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Waveshare ha lanzado una nueva placa de desarrollo que combina la forma factor de Raspberry Pi Pico 2 W con la potencia del RP2350B, ofreciendo 41 GPIOs y un USB-C port. Esta placa es ideal para proyectos de robótica y automatización.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-01-waveshare-rp2350b-plus-w-una-placa-de-desarrollo-con-41.md"
+    },
+    {
+      "title": "Integrando LLMs con la cámara de visión de Raspberry Pi",
+      "category": "ia",
+      "date": "2026-06-01",
+      "slug": "integrando-llms-con-la-camara-de-vision-de-raspberry-pi",
+      "tags": [
+        "llms",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "La tecnología de LLMs (Modelos de Lenguaje Largo) se combina con la cámara de visión de Raspberry Pi para crear sistemas de visión-idioma que pueden describir y razonar sobre el mundo físico utilizando lenguaje natural. Esto abre nuevas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-01-integrando-llms-con-la-camara-de-vision-de-raspberry-pi.md"
+    },
+    {
+      "title": "Un robot bípede DIY que camina con músculos de aire",
+      "category": "ia",
+      "date": "2026-06-01",
+      "slug": "un-robot-bipede-diy-que-camina-con-musculos-de-aire",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide de tamaño natural que pudiera realizar tareas útiles, como llevar equipaje. Con la ayuda de un grupo de entusiastas de DIY, crearon un robot…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-01-un-robot-bipede-diy-que-camina-con-musculos-de-aire.md"
+    },
+    {
+      "title": "NVIDIA Cosmos 3: El primer modelo abierto para razonamiento y acción física",
+      "category": "ia",
+      "date": "2026-06-01",
+      "slug": "nvidia-cosmos-3-el-primer-modelo-abierto-para-razonamie",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "NVIDIA ha lanzado Cosmos 3, un modelo de razonamiento físico abierto que combina generación de mundos, razonamiento físico y generación de acciones en un solo modelo. Esto revoluciona la forma en que se desarrollan sistemas de inteligencia…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-01-nvidia-cosmos-3-el-primer-modelo-abierto-para-razonamie.md"
+    },
+    {
+      "title": "Robótica: Convertir fracasos en datos de entrenamiento para mejorar el rendimiento",
+      "category": "ia",
+      "date": "2026-06-01",
+      "slug": "robotica-convertir-fracasos-en-datos-de-entrenamiento-p",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de robótica ha encontrado una forma innovadora de mejorar el rendimiento de sus modelos de aprendizaje automático. En lugar de reiniciar el entrenamiento desde cero, utilizan la intervención experta para corregir errores y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-01-robotica-convertir-fracasos-en-datos-de-entrenamiento-p.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, demuestra su fuerza en la realidad",
+      "category": "robotica",
+      "date": "2026-06-01",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-6",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en la realidad, como levantar un refrigerador. Esto marca un hito en la robótica, donde los humanoids pueden dejar de ser solo…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-01-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-6.md"
+    },
+    {
+      "title": "El robot Argus: un ente de 20 brazos que se mueve con sorprendente agilidad",
+      "category": "robotica",
+      "date": "2026-06-01",
+      "slug": "el-robot-argus-un-ente-de-20-brazos-que-se-mueve-con-so",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "Un equipo de investigadores de la Universidad de Duke ha creado un robot llamado Argus, que cuenta con 20 brazos y puede moverse con agilidad y flexibilidad. Este robot utiliza una tecnología llamada 'simetría dinámica' para extender y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-01-el-robot-argus-un-ente-de-20-brazos-que-se-mueve-con-so.md"
+    },
+    {
+      "title": "Video Friday: Robot extremadamente omnidireccional",
+      "category": "robotica",
+      "date": "2026-06-01",
+      "slug": "video-friday-robot-extremadamente-omnidireccional",
+      "tags": [
+        "robotica",
+        "sostenibilidad",
+        "ia-local"
+      ],
+      "preview": "La robótica sigue avanzando a pasos agigantados. Desde drones y máquinas industriales hasta asistentes en casa y robots humanoides. Pero ¿cómo elegir el robot adecuado? No solo en términos de rendimiento y costo, sino también en términos…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-01-video-friday-robot-extremadamente-omnidireccional.md"
+    },
+    {
+      "title": "Robot humanoide AI Sapiens con movimiento generado por texto",
+      "category": "robotica",
+      "date": "2026-06-01",
+      "slug": "robot-humanoide-ai-sapiens-con-movimiento-generado-por-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa ROBOTIS ha presentado su plataforma de robot humanoide AI Sapiens, que utiliza la tecnología NVIDIA Kimodo para generar movimientos directamente a partir de texto. Este avance permite a los desarrolladores crear movimientos…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-01-robot-humanoide-ai-sapiens-con-movimiento-generado-por-.md"
+    },
+    {
       "title": "NixOS 26.05: Nueva versión de Linux con 20.442 nuevos paquetes",
       "category": "linux",
       "date": "2026-05-31",

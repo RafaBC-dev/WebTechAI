@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-05-31</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-05-31</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-01</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-calculadora-3d-impresora-con-raspberry-pi-pico.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-actualizacion-de-ubuntu-2604-afecta-a-robot-lyrical-dav.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-linux-72-deprecara-af-alg-debido-a-vulnerabilidades-y-s.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-sixfab-lanza-ai-hat-para-raspberry-pi-5-con-acelerador-.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-raspberry-pi-lanza-un-microcontrolador-mas-potente-y-se.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-modulo-numaker-gestureai-m55m1-control-de-gestos-con-ia.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-waveshare-rp2350b-plus-w-una-placa-de-desarrollo-con-41.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-integrando-llms-con-la-camara-de-vision-de-raspberry-pi.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-un-robot-bipede-diy-que-camina-con-musculos-de-aire.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-nvidia-cosmos-3-el-primer-modelo-abierto-para-razonamie.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-robotica-convertir-fracasos-en-datos-de-entrenamiento-p.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-6.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-el-robot-argus-un-ente-de-20-brazos-que-se-mueve-con-so.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-video-friday-robot-extremadamente-omnidireccional.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-robot-humanoide-ai-sapiens-con-movimiento-generado-por-.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-31-nixos-2605-nueva-version-de-linux-con-20442-nuevos-paqu.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-31-correcciones-de-usb-en-linux-71-rc6-mejoras-en-disposit.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-05-31-calculadora-3d-impresionada-con-raspberry-pi-flapulator.md</loc><lastmod>2026-05-31</lastmod><priority>0.8</priority></url>
