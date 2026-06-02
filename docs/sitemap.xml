@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-01</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-02</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-02-mejoran-la-trazabilidad-de-funciones-en-el-kernel-de-li.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-02-mir-227-nueva-version-de-las-bibliotecas-de-compositor-.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-02-teleoperacion-de-robots-con-inteligencia-artificial-en-.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-02-lanzamiento-de-la-placa-de-desarrollo-esp32p4c61-tiny.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-02-un-estudiante-crea-un-microcontrolador-inalambrico-de-a.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-02-mini-pc-asus-ascent-qn10-con-procesador-qualcomm-snapdr.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-02-un-agente-de-ia-porta-un-codigo-de-python-a-rust-sin-en.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-02-nordic-agrega-desarrollo-asistido-por-ia-a-su-sdk-y-nrf.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-02-florida-demanda-a-openai-por-vinculos-con-incidentes-vi.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-02-nvidia-lanza-pc-con-cpu-para-inteligencia-artificial.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-02-un-robot-bipede-construido-con-musculos-de-aire-revoluc.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-02-atlas-el-robot-humanoide-mas-capaz-prueba-su-fuerza-con.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-02-robotica-omnidireccional-extremadamente-versatil.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-02-nvidia-isaac-lab-y-piper-robotico-teleoperacion-y-recop.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-02-impresion-3d-de-galletas-un-experimento-divertido-con-t.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-calculadora-3d-impresora-con-raspberry-pi-pico.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-actualizacion-de-ubuntu-2604-afecta-a-robot-lyrical-dav.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-linux-72-deprecara-af-alg-debido-a-vulnerabilidades-y-s.md</loc><lastmod>2026-06-01</lastmod><priority>0.8</priority></url>

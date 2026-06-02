@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Mejoran la trazabilidad de funciones en el kernel de Linux",
+      "category": "linux",
+      "date": "2026-06-02",
+      "slug": "mejoran-la-trazabilidad-de-funciones-en-el-kernel-de-li",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los compiladores pueden eliminar parámetros innecesarios de funciones, pero esto puede causar problemas para los sistemas de seguimiento y BPF del kernel. Un equipo de investigadores ha encontrado una solución para este problema.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-02-mejoran-la-trazabilidad-de-funciones-en-el-kernel-de-li.md"
+    },
+    {
+      "title": "Mir 2.27: Nueva versión de las bibliotecas de compositor Wayland",
+      "category": "linux",
+      "date": "2026-06-02",
+      "slug": "mir-227-nueva-version-de-las-bibliotecas-de-compositor-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Canonical ha lanzado Mir 2.27, una actualización importante de las bibliotecas de compositor Wayland. Esta versión incluye mejoras significativas en la integración con Rust y la implementación de características importantes como el soporte…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-02-mir-227-nueva-version-de-las-bibliotecas-de-compositor-.md"
+    },
+    {
+      "title": "Teleoperación de Robots con Inteligencia Artificial en NVIDIA Isaac Sim",
+      "category": "linux",
+      "date": "2026-06-02",
+      "slug": "teleoperacion-de-robots-con-inteligencia-artificial-en-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa ROBOTIS ha lanzado un guía técnica y demostración sobre teleoperación de robots con inteligencia artificial en NVIDIA Isaac Sim. Esto permite a los desarrolladores probar tareas de manipulación móvil y recopilar datos de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-02-teleoperacion-de-robots-con-inteligencia-artificial-en-.md"
+    },
+    {
+      "title": "Lanzamiento de la placa de desarrollo ESP32P4C61-TINY",
+      "category": "embebidos",
+      "date": "2026-06-02",
+      "slug": "lanzamiento-de-la-placa-de-desarrollo-esp32p4c61-tiny",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La empresa Wireless-Tag ha lanzado una campaña de crowdfunding para la placa de desarrollo ESP32P4C61-TINY, una placa compacta de desarrollo para aplicaciones de Inteligencia Artificial de las Cosas (AIoT) que combina dos SoCs RISC-V:…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-02-lanzamiento-de-la-placa-de-desarrollo-esp32p4c61-tiny.md"
+    },
+    {
+      "title": "Un estudiante crea un microcontrolador inalámbrico de alta calidad en su dormitorio",
+      "category": "embebidos",
+      "date": "2026-06-02",
+      "slug": "un-estudiante-crea-un-microcontrolador-inalambrico-de-a",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Nick Winans, un estudiante de primer año de universidad, ha creado un microcontrolador inalámbrico llamado nice!nano, que es compatible con Pro Micro y utiliza la tecnología nRF52840. Este proyecto demuestra la capacidad de los estudiantes…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-02-un-estudiante-crea-un-microcontrolador-inalambrico-de-a.md"
+    },
+    {
+      "title": "Mini PC ASUS Ascent QN10 con procesador Qualcomm Snapdragon X2 Elite",
+      "category": "ia",
+      "date": "2026-06-02",
+      "slug": "mini-pc-asus-ascent-qn10-con-procesador-qualcomm-snapdr",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "ASUS ha lanzado un nuevo mini PC llamado Ascent QN10, que cuenta con un procesador Qualcomm Snapdragon X2 Elite de 18 núcleos y 80 TOPS de rendimiento de inteligencia artificial. Este dispositivo está diseñado para usuarios que buscan una…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-02-mini-pc-asus-ascent-qn10-con-procesador-qualcomm-snapdr.md"
+    },
+    {
+      "title": "Un agente de IA porta un código de Python a Rust sin entenderlo",
+      "category": "ia",
+      "date": "2026-06-02",
+      "slug": "un-agente-de-ia-porta-un-codigo-de-python-a-rust-sin-en",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "Un agente de inteligencia artificial (IA) ha logrado portar un código de Python a Rust, pero con un método inusual: copiando el código original y ajustándolo para que coincida con la salida esperada. Esto ha llevado a una discusión sobre…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-02-un-agente-de-ia-porta-un-codigo-de-python-a-rust-sin-en.md"
+    },
+    {
+      "title": "Nordic agrega desarrollo asistido por IA a su SDK y nRF Cloud",
+      "category": "ia",
+      "date": "2026-06-02",
+      "slug": "nordic-agrega-desarrollo-asistido-por-ia-a-su-sdk-y-nrf",
+      "tags": [
+        "llms",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Nordic Semiconductor ha incorporado desarrollo asistido por inteligencia artificial a su SDK y nRF Cloud, lo que permite a los desarrolladores crear prototipos y gestionar flotas de manera más eficiente.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-02-nordic-agrega-desarrollo-asistido-por-ia-a-su-sdk-y-nrf.md"
+    },
+    {
+      "title": "Florida demanda a OpenAI por vínculos con incidentes violentos",
+      "category": "ia",
+      "date": "2026-06-02",
+      "slug": "florida-demanda-a-openai-por-vinculos-con-incidentes-vi",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux",
+        "python"
+      ],
+      "preview": "La Florida ha presentado una demanda contra OpenAI y su CEO, Sam Altman, relacionada con la supuesta conexión de ChatGPT con varios incidentes violentos. La demanda alega que OpenAI ignoró advertencias sobre la seguridad para priorizar el…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-02-florida-demanda-a-openai-por-vinculos-con-incidentes-vi.md"
+    },
+    {
+      "title": "Nvidia lanza PC con CPU para inteligencia artificial",
+      "category": "ia",
+      "date": "2026-06-02",
+      "slug": "nvidia-lanza-pc-con-cpu-para-inteligencia-artificial",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "Nvidia ha presentado un nuevo tipo de PC diseñado específicamente para la inteligencia artificial, que promete mejorar la velocidad y la eficiencia en la ejecución de tareas de AI.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-02-nvidia-lanza-pc-con-cpu-para-inteligencia-artificial.md"
+    },
+    {
+      "title": "Un robot bípede construido con 'músculos de aire' revoluciona la robótica",
+      "category": "ia",
+      "date": "2026-06-02",
+      "slug": "un-robot-bipede-construido-con-musculos-de-aire-revoluc",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "En 1987, Richard Greenhill, un fotógrafo británico, decidió construir un robot humanoide de tamaño real que pudiera realizar tareas útiles, como llevar maletas. Después de no convencer a su empresa de que lo hiciera, decidió hacerlo él…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-02-un-robot-bipede-construido-con-musculos-de-aire-revoluc.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, prueba su fuerza con una nevera",
+      "category": "robotica",
+      "date": "2026-06-02",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-prueba-su-fuerza-con",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automático"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos industriales. Lleva meses desde su debut y ha superado la prueba de levantar una nevera, pero lo que realmente importa…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-02-atlas-el-robot-humanoide-mas-capaz-prueba-su-fuerza-con.md"
+    },
+    {
+      "title": "Robótica omnidireccional extremadamente versátil",
+      "category": "robotica",
+      "date": "2026-06-02",
+      "slug": "robotica-omnidireccional-extremadamente-versatil",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La robótica continúa avanzando a pasos agigantados, y los robots omnidireccionales son uno de los ejemplos más impresionantes de esta tendencia. Estos robots pueden moverse en cualquier dirección y realizar tareas complejas con facilidad.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-02-robotica-omnidireccional-extremadamente-versatil.md"
+    },
+    {
+      "title": "NVIDIA Isaac Lab y Piper Robótico: Teleoperación y Recopilación de Datos",
+      "category": "robotica",
+      "date": "2026-06-02",
+      "slug": "nvidia-isaac-lab-y-piper-robotico-teleoperacion-y-recop",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "El proyecto NVIDIA Isaac Lab y Piper Robótico ofrece una herramienta de teleoperación y recopilación de datos para el desarrollo de inteligencia artificial incorporada en robots. Esta herramienta es fundamental para el aprendizaje de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-02-nvidia-isaac-lab-y-piper-robotico-teleoperacion-y-recop.md"
+    },
+    {
+      "title": "Impresión 3D de galletas: un experimento divertido con tecnología",
+      "category": "diseño-3d",
+      "date": "2026-06-02",
+      "slug": "impresion-3d-de-galletas-un-experimento-divertido-con-t",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "electronica"
+      ],
+      "preview": "Un emprendedor ha demostrado que es posible imprimir galletas utilizando un impresor 3D, utilizando utensilios impresos también. Un experimento que combina tecnología y cocina.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-06-02-impresion-3d-de-galletas-un-experimento-divertido-con-t.md"
+    },
+    {
       "title": "Calculadora 3D impresora con Raspberry Pi Pico",
       "category": "linux",
       "date": "2026-06-01",
