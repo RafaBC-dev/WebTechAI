@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Triple LED Matrix Bonnet para Raspberry Pi: controla hasta 3 pantallas",
+      "category": "linux",
+      "date": "2026-06-03",
+      "slug": "triple-led-matrix-bonnet-para-raspberry-pi-controla-has",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La Raspberry Pi Official Magazine ha lanzado un nuevo bonnet para Raspberry Pi que permite controlar hasta tres pantallas LED en paralelo. Este dispositivo es ideal para proyectos de visualización y animación.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-03-triple-led-matrix-bonnet-para-raspberry-pi-controla-has.md"
+    },
+    {
+      "title": "Ubuntu incluirá actualizaciones más recientes de AMD ROCm",
+      "category": "linux",
+      "date": "2026-06-03",
+      "slug": "ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Ubuntu planea mejorar su soporte para la computación de GPU de AMD, permitiendo a los usuarios obtener actualizaciones más recientes de AMD ROCm sin tener que esperar a una nueva versión de Ubuntu. Esto es especialmente importante para la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-03-ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro.md"
+    },
+    {
+      "title": "Juego de dodecaedro con código en ensamblador AArch64",
+      "category": "linux",
+      "date": "2026-06-03",
+      "slug": "juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "codigo"
+      ],
+      "preview": "Un entusiasta de la robótica ha creado un juego de consola portátil que utiliza código en ensamblador AArch64 y se ejecuta en un Raspberry Pi 3 sin sistema operativo. El juego se llama GameDodecahedron y se juega en un dodecaedro de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-03-juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64.md"
+    },
+    {
+      "title": "Mejorando el rendimiento de los atributos extendidos en Linux",
+      "category": "linux",
+      "date": "2026-06-03",
+      "slug": "mejorando-el-rendimiento-de-los-atributos-extendidos-en",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los atributos extendidos (xattrs) son una característica importante de los sistemas de archivos Linux, pero su rendimiento puede ser limitado. Recientemente, el mantenedor de FUSE, Miklos Szeredi, ha presentado una propuesta para mejorar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-03-mejorando-el-rendimiento-de-los-atributos-extendidos-en.md"
+    },
+    {
+      "title": "Unificar metadata de paquetes en sistemas operativos y lenguajes de programación",
+      "category": "linux",
+      "date": "2026-06-03",
+      "slug": "unificar-metadata-de-paquetes-en-sistemas-operativos-y-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La gestión de paquetes en sistemas operativos y lenguajes de programación ha sido un tema clave durante décadas. Sin embargo, con la creciente necesidad de utilizar metadata de paquetes para fines más allá de la gestión de software, como…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-03-unificar-metadata-de-paquetes-en-sistemas-operativos-y-.md"
+    },
+    {
+      "title": "Intel XPU Manager agrega soporte para Arc Pro B65 y B70",
+      "category": "linux",
+      "date": "2026-06-03",
+      "slug": "intel-xpu-manager-agrega-soporte-para-arc-pro-b65-y-b70",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Intel ha lanzado actualizaciones para su herramienta XPU Manager y el driver de NPU Linux. La herramienta XPU Manager ahora soporta la gestión y monitoreo de GPUs de datos centrales Intel, incluyendo las recién lanzadas Arc Pro B65 y B70.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-03-intel-xpu-manager-agrega-soporte-para-arc-pro-b65-y-b70.md"
+    },
+    {
+      "title": "Soporte para GPUs NVIDIA Hopper y Blackwell en el driver Nova se acerca",
+      "category": "linux",
+      "date": "2026-06-03",
+      "slug": "soporte-para-gpus-nvidia-hopper-y-blackwell-en-el-drive",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de desarrollo de Linux ha logrado un avance significativo en el soporte para las GPUs NVIDIA Hopper y Blackwell en el driver Nova, un proyecto de código abierto que busca ofrecer una alternativa a los drivers propietarios de…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-03-soporte-para-gpus-nvidia-hopper-y-blackwell-en-el-drive.md"
+    },
+    {
+      "title": "Adafruit lanza un anillo de LEDs NeoPixel RGB controlable",
+      "category": "embebidos",
+      "date": "2026-06-03",
+      "slug": "adafruit-lanza-un-anillo-de-leds-neopixel-rgb-controlab",
+      "tags": [
+        "robotica",
+        "arduino",
+        "python"
+      ],
+      "preview": "Adafruit ha lanzado un nuevo producto que revoluciona la iluminación de objetos: un anillo de LEDs NeoPixel RGB controlable. Este dispositivo es perfecto para crear disfraces, decoraciones y proyectos de robótica.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-03-adafruit-lanza-un-anillo-de-leds-neopixel-rgb-controlab.md"
+    },
+    {
+      "title": "Cámaras de seguridad Reolink con visión panorámica y seguimiento de objetos",
+      "category": "ia",
+      "date": "2026-06-03",
+      "slug": "camaras-de-seguridad-reolink-con-vision-panoramica-y-se",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Reolink ha lanzado una nueva serie de cámaras de seguridad con visión panorámica y seguimiento de objetos, que combinan la estabilidad de una cámara fija con la flexibilidad de una cámara PTZ.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-03-camaras-de-seguridad-reolink-con-vision-panoramica-y-se.md"
+    },
+    {
+      "title": "El primer robot bipede DIY con músculos de aire",
+      "category": "ia",
+      "date": "2026-06-03",
+      "slug": "el-primer-robot-bipede-diy-con-musculos-de-aire",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide en su garaje, utilizando tecnología innovadora y una comunidad de entusiastas. Su objetivo era crear un robot que pudiera realizar tareas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-03-el-primer-robot-bipede-diy-con-musculos-de-aire.md"
+    },
+    {
+      "title": "Uber limita gastos en inteligencia artificial para controlar costos",
+      "category": "ia",
+      "date": "2026-06-03",
+      "slug": "uber-limita-gastos-en-inteligencia-artificial-para-cont",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Uber ha instituido un límite de gastos en inteligencia artificial (IA) después de gastar todo su presupuesto anual en solo cuatro meses. Esta medida busca controlar los costos de la empresa, que ha estado fomentando el uso de IA entre sus…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-03-uber-limita-gastos-en-inteligencia-artificial-para-cont.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, muestra su fuerza en la realidad",
+      "category": "robotica",
+      "date": "2026-06-03",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-muestra-su-fuerza-en",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-por-refuerzo"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas en entornos reales, como levantar un refrigerador. Esto marca un importante avance en la robótica, ya que los robots humanoides pueden ahora…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-03-atlas-el-robot-humanoide-mas-capaz-muestra-su-fuerza-en.md"
+    },
+    {
+      "title": "Integración de un pallet jack autónomo en Los Ángeles",
+      "category": "robotica",
+      "date": "2026-06-03",
+      "slug": "integracion-de-un-pallet-jack-autonomo-en-los-angeles",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Una empresa está buscando un integrador de robótica para llevar a cabo el hardware de un pallet jack autónomo en Los Ángeles. El objetivo es convertir un camión de mano estándar en un vehículo autónomo que pueda moverse por su cuenta en un…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-03-integracion-de-un-pallet-jack-autonomo-en-los-angeles.md"
+    },
+    {
+      "title": "Robot omnidireccional extremo: la innovación en robótica",
+      "category": "robotica",
+      "date": "2026-06-03",
+      "slug": "robot-omnidireccional-extremo-la-innovacion-en-robotica",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La robótica sigue avanzando a pasos agigantados, y la creación de un robot omnidireccional extremo es un ejemplo de cómo la tecnología puede sorprendernos. Este robot puede moverse en cualquier dirección y realizar tareas complejas con…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-03-robot-omnidireccional-extremo-la-innovacion-en-robotica.md"
+    },
+    {
+      "title": "Convertir una impresora 3D antigua en una cortadora de vinilo a bajo costo",
+      "category": "diseño-3d",
+      "date": "2026-06-03",
+      "slug": "convertir-una-impresora-3d-antigua-en-una-cortadora-de-",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Una comunidad de impresión 3D ha encontrado una forma innovadora de dar nueva vida a sus impresoras 3D antiguas, convirtiéndolas en cortadoras de vinilo de bajo costo. Esto abre nuevas posibilidades para los entusiastas de la impresión 3D…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-06-03-convertir-una-impresora-3d-antigua-en-una-cortadora-de-.md"
+    },
+    {
       "title": "Mejoran la trazabilidad de funciones en el kernel de Linux",
       "category": "linux",
       "date": "2026-06-02",

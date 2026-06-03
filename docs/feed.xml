@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 11:13:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 11:52:31 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Triple LED Matrix Bonnet para Raspberry Pi: controla hasta 3 pantallas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-triple-led-matrix-bonnet-para-raspberry-pi-controla-has.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-triple-led-matrix-bonnet-para-raspberry-pi-controla-has.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La Raspberry Pi Official Magazine ha lanzado un nuevo bonnet para Raspberry Pi que permite controlar hasta tres pantallas LED en paralelo. Este dispositivo es ideal para proyectos de visualización y animación.</description>
+  </item>
+  <item>
+    <title>Ubuntu incluirá actualizaciones más recientes de AMD ROCm</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Ubuntu planea mejorar su soporte para la computación de GPU de AMD, permitiendo a los usuarios obtener actualizaciones más recientes de AMD ROCm sin tener que esperar a una nueva versión de Ubuntu. Esto es especialmente importante para la…</description>
+  </item>
+  <item>
+    <title>Juego de dodecaedro con código en ensamblador AArch64</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un entusiasta de la robótica ha creado un juego de consola portátil que utiliza código en ensamblador AArch64 y se ejecuta en un Raspberry Pi 3 sin sistema operativo. El juego se llama GameDodecahedron y se juega en un dodecaedro de…</description>
+  </item>
+  <item>
+    <title>Mejorando el rendimiento de los atributos extendidos en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-mejorando-el-rendimiento-de-los-atributos-extendidos-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-mejorando-el-rendimiento-de-los-atributos-extendidos-en.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Los atributos extendidos (xattrs) son una característica importante de los sistemas de archivos Linux, pero su rendimiento puede ser limitado. Recientemente, el mantenedor de FUSE, Miklos Szeredi, ha presentado una propuesta para mejorar…</description>
+  </item>
+  <item>
+    <title>Unificar metadata de paquetes en sistemas operativos y lenguajes de programación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-unificar-metadata-de-paquetes-en-sistemas-operativos-y-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-unificar-metadata-de-paquetes-en-sistemas-operativos-y-.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La gestión de paquetes en sistemas operativos y lenguajes de programación ha sido un tema clave durante décadas. Sin embargo, con la creciente necesidad de utilizar metadata de paquetes para fines más allá de la gestión de software, como…</description>
+  </item>
+  <item>
+    <title>Intel XPU Manager agrega soporte para Arc Pro B65 y B70</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-intel-xpu-manager-agrega-soporte-para-arc-pro-b65-y-b70.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-intel-xpu-manager-agrega-soporte-para-arc-pro-b65-y-b70.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Intel ha lanzado actualizaciones para su herramienta XPU Manager y el driver de NPU Linux. La herramienta XPU Manager ahora soporta la gestión y monitoreo de GPUs de datos centrales Intel, incluyendo las recién lanzadas Arc Pro B65 y B70.</description>
+  </item>
+  <item>
+    <title>Soporte para GPUs NVIDIA Hopper y Blackwell en el driver Nova se acerca</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-soporte-para-gpus-nvidia-hopper-y-blackwell-en-el-drive.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-soporte-para-gpus-nvidia-hopper-y-blackwell-en-el-drive.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de desarrollo de Linux ha logrado un avance significativo en el soporte para las GPUs NVIDIA Hopper y Blackwell en el driver Nova, un proyecto de código abierto que busca ofrecer una alternativa a los drivers propietarios de…</description>
+  </item>
+  <item>
+    <title>Adafruit lanza un anillo de LEDs NeoPixel RGB controlable</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-03-adafruit-lanza-un-anillo-de-leds-neopixel-rgb-controlab.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-03-adafruit-lanza-un-anillo-de-leds-neopixel-rgb-controlab.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha lanzado un nuevo producto que revoluciona la iluminación de objetos: un anillo de LEDs NeoPixel RGB controlable. Este dispositivo es perfecto para crear disfraces, decoraciones y proyectos de robótica.</description>
+  </item>
+  <item>
+    <title>Cámaras de seguridad Reolink con visión panorámica y seguimiento de objetos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-camaras-de-seguridad-reolink-con-vision-panoramica-y-se.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-camaras-de-seguridad-reolink-con-vision-panoramica-y-se.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Reolink ha lanzado una nueva serie de cámaras de seguridad con visión panorámica y seguimiento de objetos, que combinan la estabilidad de una cámara fija con la flexibilidad de una cámara PTZ.</description>
+  </item>
+  <item>
+    <title>El primer robot bipede DIY con músculos de aire</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-el-primer-robot-bipede-diy-con-musculos-de-aire.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-el-primer-robot-bipede-diy-con-musculos-de-aire.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide en su garaje, utilizando tecnología innovadora y una comunidad de entusiastas. Su objetivo era crear un robot que pudiera realizar tareas…</description>
+  </item>
+  <item>
+    <title>Uber limita gastos en inteligencia artificial para controlar costos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-uber-limita-gastos-en-inteligencia-artificial-para-cont.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-uber-limita-gastos-en-inteligencia-artificial-para-cont.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Uber ha instituido un límite de gastos en inteligencia artificial (IA) después de gastar todo su presupuesto anual en solo cuatro meses. Esta medida busca controlar los costos de la empresa, que ha estado fomentando el uso de IA entre sus…</description>
+  </item>
+  <item>
+    <title>Atlas, el robot humanoide más capaz, muestra su fuerza en la realidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-atlas-el-robot-humanoide-mas-capaz-muestra-su-fuerza-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-atlas-el-robot-humanoide-mas-capaz-muestra-su-fuerza-en.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas en entornos reales, como levantar un refrigerador. Esto marca un importante avance en la robótica, ya que los robots humanoides pueden ahora…</description>
+  </item>
+  <item>
+    <title>Integración de un pallet jack autónomo en Los Ángeles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-integracion-de-un-pallet-jack-autonomo-en-los-angeles.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-integracion-de-un-pallet-jack-autonomo-en-los-angeles.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Una empresa está buscando un integrador de robótica para llevar a cabo el hardware de un pallet jack autónomo en Los Ángeles. El objetivo es convertir un camión de mano estándar en un vehículo autónomo que pueda moverse por su cuenta en un…</description>
+  </item>
+  <item>
+    <title>Robot omnidireccional extremo: la innovación en robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-robot-omnidireccional-extremo-la-innovacion-en-robotica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-robot-omnidireccional-extremo-la-innovacion-en-robotica.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica sigue avanzando a pasos agigantados, y la creación de un robot omnidireccional extremo es un ejemplo de cómo la tecnología puede sorprendernos. Este robot puede moverse en cualquier dirección y realizar tareas complejas con…</description>
+  </item>
+  <item>
+    <title>Convertir una impresora 3D antigua en una cortadora de vinilo a bajo costo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-03-convertir-una-impresora-3d-antigua-en-una-cortadora-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-03-convertir-una-impresora-3d-antigua-en-una-cortadora-de-.md</guid>
+    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Una comunidad de impresión 3D ha encontrado una forma innovadora de dar nueva vida a sus impresoras 3D antiguas, convirtiéndolas en cortadoras de vinilo de bajo costo. Esto abre nuevas posibilidades para los entusiastas de la impresión 3D…</description>
+  </item>
   <item>
     <title>Mejoran la trazabilidad de funciones en el kernel de Linux</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-02-mejoran-la-trazabilidad-de-funciones-en-el-kernel-de-li.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 02 Jun 2026 08:00:00 +0000</pubDate>
     <category>diseño-3d</category>
     <description>Un emprendedor ha demostrado que es posible imprimir galletas utilizando un impresor 3D, utilizando utensilios impresos también. Un experimento que combina tecnología y cocina.</description>
-  </item>
-  <item>
-    <title>Calculadora 3D impresora con Raspberry Pi Pico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-calculadora-3d-impresora-con-raspberry-pi-pico.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-calculadora-3d-impresora-con-raspberry-pi-pico.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Una calculadora física con pantalla mecánica 3D impresora, alimentada por un Raspberry Pi Pico, ha sido creada por un científico informático. Esta innovadora calculadora, llamada Flapulator, combina la precisión de un cálculo digital con…</description>
-  </item>
-  <item>
-    <title>Actualización de Ubuntu 26.04 afecta a robot Lyrical-Dave</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-actualizacion-de-ubuntu-2604-afecta-a-robot-lyrical-dav.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-actualizacion-de-ubuntu-2604-afecta-a-robot-lyrical-dav.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un usuario ha experimentado problemas con su robot Lyrical-Dave después de actualizar a Ubuntu 26.04, debido a cambios en la versión de Python 3.14. Este incidente resalta la importancia de probar y validar las actualizaciones antes de…</description>
-  </item>
-  <item>
-    <title>Linux 7.2 deprecará AF_ALG debido a vulnerabilidades y superficie de ataque</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-linux-72-deprecara-af-alg-debido-a-vulnerabilidades-y-s.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-01-linux-72-deprecara-af-alg-debido-a-vulnerabilidades-y-s.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.2 del kernel de Linux está a punto de deprecar la interfaz AF_ALG debido a una gran cantidad de vulnerabilidades que han sido descubiertas recientemente. Esta medida se debe a que la interfaz expone una superficie de ataque…</description>
-  </item>
-  <item>
-    <title>Sixfab lanza AI HAT+ para Raspberry Pi 5 con acelerador AI DEEPX DX-M1</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-sixfab-lanza-ai-hat-para-raspberry-pi-5-con-acelerador-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-sixfab-lanza-ai-hat-para-raspberry-pi-5-con-acelerador-.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Sixfab ha lanzado el AI HAT+ para Raspberry Pi 5, un módulo de expansión que integra un acelerador AI llamado DEEPX DX-M1. Este acelerador es similar al utilizado en otros dispositivos como el ALPON X5 y el Mini DX-M1 SoM. El AI HAT+ es…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi lanza un microcontrolador más potente y seguro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-raspberry-pi-lanza-un-microcontrolador-mas-potente-y-se.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-raspberry-pi-lanza-un-microcontrolador-mas-potente-y-se.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Raspberry Pi ha lanzado un nuevo microcontrolador llamado RP2350, que es el sucesor del popular RP2040. Este nuevo chip es más potente y seguro, y está diseñado para satisfacer las necesidades de los desarrolladores de hardware y software.</description>
-  </item>
-  <item>
-    <title>Módulo NuMaker-GestureAI-M55M1: control de gestos con IA y visión</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-modulo-numaker-gestureai-m55m1-control-de-gestos-con-ia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-modulo-numaker-gestureai-m55m1-control-de-gestos-con-ia.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Nuvoton ha lanzado el módulo NuMaker-GestureAI-M55M1, un desarrollo basado en el MCU NuMicro M55M1, que combina un núcleo Cortex-M55 con un microNPU Ethos-U55 para control de gestos y visión con IA. Este módulo es ideal para aplicaciones…</description>
-  </item>
-  <item>
-    <title>Waveshare RP2350B-Plus-W: una placa de desarrollo con 41 GPIOs y USB-C</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-waveshare-rp2350b-plus-w-una-placa-de-desarrollo-con-41.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-01-waveshare-rp2350b-plus-w-una-placa-de-desarrollo-con-41.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Waveshare ha lanzado una nueva placa de desarrollo que combina la forma factor de Raspberry Pi Pico 2 W con la potencia del RP2350B, ofreciendo 41 GPIOs y un USB-C port. Esta placa es ideal para proyectos de robótica y automatización.</description>
-  </item>
-  <item>
-    <title>Integrando LLMs con la cámara de visión de Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-integrando-llms-con-la-camara-de-vision-de-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-integrando-llms-con-la-camara-de-vision-de-raspberry-pi.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La tecnología de LLMs (Modelos de Lenguaje Largo) se combina con la cámara de visión de Raspberry Pi para crear sistemas de visión-idioma que pueden describir y razonar sobre el mundo físico utilizando lenguaje natural. Esto abre nuevas…</description>
-  </item>
-  <item>
-    <title>Un robot bípede DIY que camina con músculos de aire</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-un-robot-bipede-diy-que-camina-con-musculos-de-aire.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-un-robot-bipede-diy-que-camina-con-musculos-de-aire.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide de tamaño natural que pudiera realizar tareas útiles, como llevar equipaje. Con la ayuda de un grupo de entusiastas de DIY, crearon un robot…</description>
-  </item>
-  <item>
-    <title>NVIDIA Cosmos 3: El primer modelo abierto para razonamiento y acción física</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-nvidia-cosmos-3-el-primer-modelo-abierto-para-razonamie.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-nvidia-cosmos-3-el-primer-modelo-abierto-para-razonamie.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>NVIDIA ha lanzado Cosmos 3, un modelo de razonamiento físico abierto que combina generación de mundos, razonamiento físico y generación de acciones en un solo modelo. Esto revoluciona la forma en que se desarrollan sistemas de inteligencia…</description>
-  </item>
-  <item>
-    <title>Robótica: Convertir fracasos en datos de entrenamiento para mejorar el rendimiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-robotica-convertir-fracasos-en-datos-de-entrenamiento-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-01-robotica-convertir-fracasos-en-datos-de-entrenamiento-p.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de robótica ha encontrado una forma innovadora de mejorar el rendimiento de sus modelos de aprendizaje automático. En lugar de reiniciar el entrenamiento desde cero, utilizan la intervención experta para corregir errores y…</description>
-  </item>
-  <item>
-    <title>Atlas, el robot humanoide más capaz, demuestra su fuerza en la realidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-6.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-atlas-el-robot-humanoide-mas-capaz-demuestra-su-fuerz-6.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en la realidad, como levantar un refrigerador. Esto marca un hito en la robótica, donde los humanoids pueden dejar de ser solo…</description>
-  </item>
-  <item>
-    <title>El robot Argus: un ente de 20 brazos que se mueve con sorprendente agilidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-el-robot-argus-un-ente-de-20-brazos-que-se-mueve-con-so.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-el-robot-argus-un-ente-de-20-brazos-que-se-mueve-con-so.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de investigadores de la Universidad de Duke ha creado un robot llamado Argus, que cuenta con 20 brazos y puede moverse con agilidad y flexibilidad. Este robot utiliza una tecnología llamada 'simetría dinámica' para extender y…</description>
-  </item>
-  <item>
-    <title>Video Friday: Robot extremadamente omnidireccional</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-video-friday-robot-extremadamente-omnidireccional.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-video-friday-robot-extremadamente-omnidireccional.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica sigue avanzando a pasos agigantados. Desde drones y máquinas industriales hasta asistentes en casa y robots humanoides. Pero ¿cómo elegir el robot adecuado? No solo en términos de rendimiento y costo, sino también en términos…</description>
-  </item>
-  <item>
-    <title>Robot humanoide AI Sapiens con movimiento generado por texto</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-robot-humanoide-ai-sapiens-con-movimiento-generado-por-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-01-robot-humanoide-ai-sapiens-con-movimiento-generado-por-.md</guid>
-    <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa ROBOTIS ha presentado su plataforma de robot humanoide AI Sapiens, que utiliza la tecnología NVIDIA Kimodo para generar movimientos directamente a partir de texto. Este avance permite a los desarrolladores crear movimientos…</description>
   </item>
 </channel>
 </rss>

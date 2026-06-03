@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-02</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-03</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-triple-led-matrix-bonnet-para-raspberry-pi-controla-has.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-mejorando-el-rendimiento-de-los-atributos-extendidos-en.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-unificar-metadata-de-paquetes-en-sistemas-operativos-y-.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-intel-xpu-manager-agrega-soporte-para-arc-pro-b65-y-b70.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-soporte-para-gpus-nvidia-hopper-y-blackwell-en-el-drive.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-03-adafruit-lanza-un-anillo-de-leds-neopixel-rgb-controlab.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-camaras-de-seguridad-reolink-con-vision-panoramica-y-se.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-el-primer-robot-bipede-diy-con-musculos-de-aire.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-uber-limita-gastos-en-inteligencia-artificial-para-cont.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-atlas-el-robot-humanoide-mas-capaz-muestra-su-fuerza-en.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-integracion-de-un-pallet-jack-autonomo-en-los-angeles.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-robot-omnidireccional-extremo-la-innovacion-en-robotica.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-03-convertir-una-impresora-3d-antigua-en-una-cortadora-de-.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-02-mejoran-la-trazabilidad-de-funciones-en-el-kernel-de-li.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-02-mir-227-nueva-version-de-las-bibliotecas-de-compositor-.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-02-teleoperacion-de-robots-con-inteligencia-artificial-en-.md</loc><lastmod>2026-06-02</lastmod><priority>0.8</priority></url>
