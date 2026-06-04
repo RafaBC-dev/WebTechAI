@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-03</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-04</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-microsoft-lanza-coreutils-para-windows-herramientas-uni.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-ros-pmc-actualizaciones-y-tareas-pendientes-para-el-pro.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-forlinx-lanza-modulo-de-sistema-rockchip-rk3572-con-lin.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-noticias-de-tecnologia-en-linux-y-robotica.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-la-participacion-de-linux-en-steam-se-estabiliza-en-el-.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-04-noticias-de-python-en-microcontroladores-suscribete-gra.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-04-convierte-remotos-ir-viejos-en-clickers-de-presentacion.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-04-aprende-a-crear-proyectos-avanzados-con-raspberry-pi-y-.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-04-bpf-como-evitar-ser-arrastrado-por-la-revolucion-de-los.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-04-un-robot-bipede-de-aire-el-shadow-walker-un-proyecto-di.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-04-avalue-epc-wcl-mini-pc-de-vanguardia-para-inteligencia-.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-04-robot-omnidireccional-extremo-un-salto-hacia-la-robotic.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-04-desarrollo-de-un-robot-agricola-de-precision-para-peque.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-04-atlas-el-robot-humanoide-que-supera-la-capacidad-de-un-.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-04-ros-oe-community-meeting-reunion-de-la-comunidad-de-ope.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-triple-led-matrix-bonnet-para-raspberry-pi-controla-has.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64.md</loc><lastmod>2026-06-03</lastmod><priority>0.8</priority></url>

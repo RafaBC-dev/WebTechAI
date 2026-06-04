@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Microsoft lanza Coreutils para Windows, herramientas Unix en el sistema operativo",
+      "category": "linux",
+      "date": "2026-06-04",
+      "slug": "microsoft-lanza-coreutils-para-windows-herramientas-uni",
+      "tags": [
+        "linux",
+        "herramientas",
+        "codigo"
+      ],
+      "preview": "Microsoft ha lanzado Coreutils para Windows, un conjunto de herramientas de línea de comandos Unix que se ejecutan nativamente en Windows sin necesidad de WSL. Esto significa que desarrolladores pueden utilizar comandos y flujos de trabajo…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-04-microsoft-lanza-coreutils-para-windows-herramientas-uni.md"
+    },
+    {
+      "title": "ROS PMC: Actualizaciones y tareas pendientes para el proyecto ROS 2",
+      "category": "linux",
+      "date": "2026-06-04",
+      "slug": "ros-pmc-actualizaciones-y-tareas-pendientes-para-el-pro",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La reunión semanal de la ROS PMC (Revisión de Proyectos de ROS) ha tenido lugar el 2 de junio de 2026. En esta ocasión, se han discutido varias actualizaciones y tareas pendientes para el proyecto ROS 2. Entre ellas, se encuentra la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-04-ros-pmc-actualizaciones-y-tareas-pendientes-para-el-pro.md"
+    },
+    {
+      "title": "Forlinx lanza módulo de sistema Rockchip RK3572 con Linux 6.12",
+      "category": "linux",
+      "date": "2026-06-04",
+      "slug": "forlinx-lanza-modulo-de-sistema-rockchip-rk3572-con-lin",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Forlinx ha lanzado el módulo de sistema Rockchip RK3572, un procesador de alta gama diseñado para aplicaciones de HMI (Interfaz de Usuario Humano) que aprovechan la inteligencia artificial en la orilla del borde. Este módulo está basado en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-04-forlinx-lanza-modulo-de-sistema-rockchip-rk3572-con-lin.md"
+    },
+    {
+      "title": "Noticias de tecnología en Linux y robótica",
+      "category": "linux",
+      "date": "2026-06-04",
+      "slug": "noticias-de-tecnologia-en-linux-y-robotica",
+      "tags": [
+        "linux",
+        "seguridad",
+        "robotica"
+      ],
+      "preview": "La edición semanal de LWN.net ha lanzado su última versión, con noticias sobre MeshCore, x32 ABI y seguridad en Linux. Además, se presentan actualizaciones en paquetes y herramientas populares.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-04-noticias-de-tecnologia-en-linux-y-robotica.md"
+    },
+    {
+      "title": "La participación de Linux en Steam se estabiliza en el 3,99% en mayo",
+      "category": "linux",
+      "date": "2026-06-04",
+      "slug": "la-participacion-de-linux-en-steam-se-estabiliza-en-el-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La participación de Linux en Steam ha experimentado un aumento significativo en los últimos meses, pero en mayo se estabilizó en un 3,99%. Aunque es un porcentaje menor que el máximo alcanzado en marzo, sigue siendo superior al de macOS.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-04-la-participacion-de-linux-en-steam-se-estabiliza-en-el-.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: suscríbete gratis",
+      "category": "embebidos",
+      "date": "2026-06-04",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-gra",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Si te interesa la robótica y la programación en hardware, esta noticia es para ti. Un nuevo servicio de noticias te permitirá estar al día sobre las últimas novedades en Python para microcontroladores y computadoras de sobremesa.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-04-noticias-de-python-en-microcontroladores-suscribete-gra.md"
+    },
+    {
+      "title": "Convierte remotos IR viejos en clickers de presentación con un RP2040 y firmware TTVKTR",
+      "category": "embebidos",
+      "date": "2026-06-04",
+      "slug": "convierte-remotos-ir-viejos-en-clickers-de-presentacion",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un proyecto de firmware abierto llamado TTVKTR permite convertir remotos IR viejos en clickers de presentación para presentaciones y reuniones. Esto reduce la cantidad de basura electrónica y ofrece una solución sostenible.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-04-convierte-remotos-ir-viejos-en-clickers-de-presentacion.md"
+    },
+    {
+      "title": "Aprende a crear proyectos avanzados con Raspberry Pi y Python",
+      "category": "embebidos",
+      "date": "2026-06-04",
+      "slug": "aprende-a-crear-proyectos-avanzados-con-raspberry-pi-y-",
+      "tags": [
+        "robotica",
+        "python",
+        "raspberry-pi"
+      ],
+      "preview": "La Raspberry Pi ha sido una herramienta fundamental para aprender programación y robótica, pero ¿qué pasa después de aprender los conceptos básicos? La respuesta es un libro nuevo que enseña a crear proyectos avanzados con Python y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-04-aprende-a-crear-proyectos-avanzados-con-raspberry-pi-y-.md"
+    },
+    {
+      "title": "BPF: ¿cómo evitar ser arrastrado por la revolución de los LLM?",
+      "category": "ia",
+      "date": "2026-06-04",
+      "slug": "bpf-como-evitar-ser-arrastrado-por-la-revolucion-de-los",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Alexei Starovoitov ha lanzado un llamamiento para adaptar BPF a la era de los grandes modelos de lenguaje y agentes de codificación. ¿Qué significa esto y por qué es importante?",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-04-bpf-como-evitar-ser-arrastrado-por-la-revolucion-de-los.md"
+    },
+    {
+      "title": "Un robot bipede de aire: el Shadow Walker, un proyecto DIY de 1987",
+      "category": "ia",
+      "date": "2026-06-04",
+      "slug": "un-robot-bipede-de-aire-el-shadow-walker-un-proyecto-di",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "En 1987, un grupo de entusiastas de la robótica, liderados por Richard Greenhill, construyeron un robot bipede llamado Shadow Walker, que utilizaba 'músculos de aire' para moverse. Este proyecto DIY es un ejemplo de innovación y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-04-un-robot-bipede-de-aire-el-shadow-walker-un-proyecto-di.md"
+    },
+    {
+      "title": "Avalue EPC-WCL: mini PC de vanguardia para Inteligencia Artificial",
+      "category": "ia",
+      "date": "2026-06-04",
+      "slug": "avalue-epc-wcl-mini-pc-de-vanguardia-para-inteligencia-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Avalue Technology ha lanzado el EPC-WCL, un mini PC fanless que integra un procesador Intel Core Series 3 Wildcat Lake y ofrece hasta 40 TOPS de rendimiento de IA. Este dispositivo es ideal para aplicaciones de inteligencia artificial,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-04-avalue-epc-wcl-mini-pc-de-vanguardia-para-inteligencia-.md"
+    },
+    {
+      "title": "Robot omnidireccional extremo: un salto hacia la robótica avanzada",
+      "category": "robotica",
+      "date": "2026-06-04",
+      "slug": "robot-omnidireccional-extremo-un-salto-hacia-la-robotic",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "automatizacion"
+      ],
+      "preview": "La robótica continúa evolucionando a pasos agigantados, y una de las últimas novedades es el robot omnidireccional extremo, un dispositivo que puede moverse en cualquier dirección sin necesidad de cambiar su configuración. Esta tecnología…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-04-robot-omnidireccional-extremo-un-salto-hacia-la-robotic.md"
+    },
+    {
+      "title": "Desarrollo de un robot agrícola de precisión para pequeñas granjas",
+      "category": "robotica",
+      "date": "2026-06-04",
+      "slug": "desarrollo-de-un-robot-agricola-de-precision-para-peque",
+      "tags": [
+        "robotica",
+        "agricultura",
+        "precisión"
+      ],
+      "preview": "El proyecto Sowbot busca crear un robot agrícola de precisión para pequeñas granjas agroecológicas. Este robot utiliza tecnología de precisión y robótica para mejorar la eficiencia y sostenibilidad de la agricultura.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-04-desarrollo-de-un-robot-agricola-de-precision-para-peque.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide que supera la capacidad de un humano",
+      "category": "robotica",
+      "date": "2026-06-04",
+      "slug": "atlas-el-robot-humanoide-que-supera-la-capacidad-de-un-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Atlas, el robot humanoide de Boston Dynamics, ha demostrado ser el más capaz y dinámico de su tipo, capaz de realizar tareas complejas en entornos industriales. Su capacidad para aprender y adaptarse a nuevas situaciones lo hace…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-04-atlas-el-robot-humanoide-que-supera-la-capacidad-de-un-.md"
+    },
+    {
+      "title": "ROS OE Community Meeting: Reunión de la comunidad de Open Robotics",
+      "category": "robotica",
+      "date": "2026-06-04",
+      "slug": "ros-oe-community-meeting-reunion-de-la-comunidad-de-ope",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Open Robotics se reúne para discutir el progreso de su proyecto, incluyendo el soporte a MoveIt 2 y Nav2. La reunión tendrá lugar el lunes 8 de junio a las 3 pm UTC.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-04-ros-oe-community-meeting-reunion-de-la-comunidad-de-ope.md"
+    },
+    {
       "title": "Triple LED Matrix Bonnet para Raspberry Pi: controla hasta 3 pantallas",
       "category": "linux",
       "date": "2026-06-03",
