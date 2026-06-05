@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 10:36:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 10:42:50 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>GNOME 51 retira soporte a drivers NVIDIA heredados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-gnome-51-retira-soporte-a-drivers-nvidia-heredados.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-gnome-51-retira-soporte-a-drivers-nvidia-heredados.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 51 de GNOME marca un cambio importante en la forma en que se interactúa con los drivers NVIDIA en Linux. A partir de esta versión, se retiran los soportes a los drivers heredados, lo que debería mejorar la estabilidad y la…</description>
+  </item>
+  <item>
+    <title>Dave Airlie habla sobre el mantenimiento del núcleo Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-dave-airlie-habla-sobre-el-mantenimiento-del-nucleo-lin.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-dave-airlie-habla-sobre-el-mantenimiento-del-nucleo-lin.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El mantenedor de gráficos de Linux, Dave Airlie, ha sido entrevistado en el podcast Software Engineering Radio. En la conversación, habla sobre la importancia de atraer a jóvenes desarrolladores al proyecto Linux y la integración de Rust…</description>
+  </item>
+  <item>
+    <title>Prueba de rendimiento del scheduler BORE en CachyOS Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-prueba-de-rendimiento-del-scheduler-bore-en-cachyos-lin.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-prueba-de-rendimiento-del-scheduler-bore-en-cachyos-lin.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El scheduler BORE, diseñado para mejorar la respuesta de los sistemas bajo carga intensa, ha sido probado en CachyOS Linux. Los resultados muestran una mejora significativa en la respuesta del sistema y la experiencia del usuario.</description>
+  </item>
+  <item>
+    <title>Conecta tu coche a Home Assistant de manera segura y fácil</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-conecta-tu-coche-a-home-assistant-de-manera-segura-y-fa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-conecta-tu-coche-a-home-assistant-de-manera-segura-y-fa.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Conecta tu coche a tu hogar inteligente con Home Assistant y monitorea parámetros importantes de manera remota. Ahora es posible gracias a la creación de un widget que se conecta a la OBD-II del coche.</description>
+  </item>
+  <item>
+    <title>EKOS: un panel de control local ePaper basado en ESP32-S3</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-ekos-un-panel-de-control-local-epaper-basado-en-esp32-s.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-ekos-un-panel-de-control-local-epaper-basado-en-esp32-s.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El EKOS es un panel de control local ePaper diseñado para ofrecer una experiencia de usuario personalizada y privada. Sin necesidad de conexión a la nube o suscripciones, EKOS permite controlar dispositivos y acceder a información en…</description>
+  </item>
+  <item>
+    <title>Un tocadiscos vintage recibe un implante cerebral y se integra con Home Assistant</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-un-tocadiscos-vintage-recibe-un-implante-cerebral-y-se-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-un-tocadiscos-vintage-recibe-un-implante-cerebral-y-se-.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un entusiasta de la música en vinilo ha llevado a cabo un proyecto emocionante: convertir un tocadiscos vintage en un dispositivo inteligente con control automático gracias a un microcontrolador ESP32 y la integración con Home Assistant.</description>
+  </item>
+  <item>
+    <title>Erqos EQSP32CE: PLC industrial con conectividad IoT y interfaces de comunicación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-erqos-eqsp32ce-plc-industrial-con-conectividad-iot-y-in.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-erqos-eqsp32ce-plc-industrial-con-conectividad-iot-y-in.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Erqos EQSP32CE es un controlador lógico industrial de Internet de las Cosas (IoT) que combina conectividad WiFi y Bluetooth con interfaces de comunicación Ethernet, RS232, RS485 y CAN Bus. Este dispositivo es ideal para aplicaciones…</description>
+  </item>
+  <item>
+    <title>Airbnb lanza un nuevo laboratorio de inteligencia artificial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-airbnb-lanza-un-nuevo-laboratorio-de-inteligencia-artif.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-airbnb-lanza-un-nuevo-laboratorio-de-inteligencia-artif.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Brian Chesky, CEO de Airbnb, ha decidido crear un nuevo laboratorio de IA para desarrollar tecnologías de interacción con usuarios y diseño. Esto se debe a su insatisfacción con los modelos de IA actuales.</description>
+  </item>
+  <item>
+    <title>El primer robot bípedo DIY con 'músculos de aire' en lugar de motores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-el-primer-robot-bipedo-diy-con-musculos-de-aire-en-luga.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-el-primer-robot-bipedo-diy-con-musculos-de-aire-en-luga.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide de tamaño real que pudiera realizar tareas útiles, como transportar equipaje. Con la ayuda de un grupo de entusiastas DIY, lograron crear un…</description>
+  </item>
+  <item>
+    <title>Microsoft afirma haber creado qubits con una vida útil de 20 segundos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-microsoft-afirma-haber-creado-qubits-con-una-vida-util-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-microsoft-afirma-haber-creado-qubits-con-una-vida-util-.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft ha logrado un avance importante en la creación de qubits, componentes fundamentales de los ordenadores cuánticos. Estos dispositivos tienen una vida útil de solo unos milisegundos, pero ahora la empresa afirma haber creado qubits…</description>
+  </item>
+  <item>
+    <title>Unificador de escáneres LiDAR para ROS2: sin depender de PCL</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-unificador-de-escaneres-lidar-para-ros2-sin-depender-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-unificador-de-escaneres-lidar-para-ros2-sin-depender-de.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los robots que utilizan múltiples escáneres LiDAR pueden beneficiarse de un nuevo proyecto que fusiona los datos de todos ellos en un solo escáner. Esto puede ser útil para algoritmos de navegación autónoma y detección de obstáculos.</description>
+  </item>
+  <item>
+    <title>Reunión técnica de OSRA: avances en robótica y colaboración</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-reunion-tecnica-de-osra-avances-en-robotica-y-colaborac.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-reunion-tecnica-de-osra-avances-en-robotica-y-colaborac.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La OSRA (Open Source Robotics Foundation) ha celebrado su reunión técnica mensual de marzo de 2026, donde se han discutido avances en robótica, colaboración y interoperabilidad. La reunión ha sido un éxito en términos de participación y…</description>
+  </item>
+  <item>
+    <title>Atlas, el robot humanoide más capaz, demostra su fuerza y adaptabilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-atlas-el-robot-humanoide-mas-capaz-demostra-su-fuerza-y.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-atlas-el-robot-humanoide-mas-capaz-demostra-su-fuerza-y.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos dinámicos. Lleva solo meses desde su debut y ya ha demostrado ser un verdadero avance en la robótica.</description>
+  </item>
+  <item>
+    <title>Motor ético QERRA-v2 para robots humanoides: evaluación explicada</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-motor-etico-qerra-v2-para-robots-humanoides-evaluacion-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-motor-etico-qerra-v2-para-robots-humanoides-evaluacion-.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de investigación ha desarrollado un motor ético para robots humanoides que evalúa las acciones de manera explicada. Este sistema es crucial para garantizar la seguridad y la ética en la toma de decisiones de los robots.</description>
+  </item>
+  <item>
+    <title>Robot Omnidireccional Extremo: La Robotica Avanzada</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-robot-omnidireccional-extremo-la-robotica-avanzada.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-robot-omnidireccional-extremo-la-robotica-avanzada.md</guid>
+    <pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica está avanzando a pasos agigantados, con robots que pueden caminar, volar y manipular objetos con precisión. Pero ¿qué sucede cuando queremos crear un robot que pueda hacerlo todo? El robot omnidireccional extremo es la…</description>
+  </item>
   <item>
     <title>Microsoft lanza Coreutils para Windows, herramientas Unix en el sistema operativo</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-microsoft-lanza-coreutils-para-windows-herramientas-uni.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 04 Jun 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>La comunidad de Open Robotics se reúne para discutir el progreso de su proyecto, incluyendo el soporte a MoveIt 2 y Nav2. La reunión tendrá lugar el lunes 8 de junio a las 3 pm UTC.</description>
-  </item>
-  <item>
-    <title>Triple LED Matrix Bonnet para Raspberry Pi: controla hasta 3 pantallas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-triple-led-matrix-bonnet-para-raspberry-pi-controla-has.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-triple-led-matrix-bonnet-para-raspberry-pi-controla-has.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La Raspberry Pi Official Magazine ha lanzado un nuevo bonnet para Raspberry Pi que permite controlar hasta tres pantallas LED en paralelo. Este dispositivo es ideal para proyectos de visualización y animación.</description>
-  </item>
-  <item>
-    <title>Ubuntu incluirá actualizaciones más recientes de AMD ROCm</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-ubuntu-incluira-actualizaciones-mas-recientes-de-amd-ro.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Ubuntu planea mejorar su soporte para la computación de GPU de AMD, permitiendo a los usuarios obtener actualizaciones más recientes de AMD ROCm sin tener que esperar a una nueva versión de Ubuntu. Esto es especialmente importante para la…</description>
-  </item>
-  <item>
-    <title>Juego de dodecaedro con código en ensamblador AArch64</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-juego-de-dodecaedro-con-codigo-en-ensamblador-aarch64.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un entusiasta de la robótica ha creado un juego de consola portátil que utiliza código en ensamblador AArch64 y se ejecuta en un Raspberry Pi 3 sin sistema operativo. El juego se llama GameDodecahedron y se juega en un dodecaedro de…</description>
-  </item>
-  <item>
-    <title>Mejorando el rendimiento de los atributos extendidos en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-mejorando-el-rendimiento-de-los-atributos-extendidos-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-mejorando-el-rendimiento-de-los-atributos-extendidos-en.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los atributos extendidos (xattrs) son una característica importante de los sistemas de archivos Linux, pero su rendimiento puede ser limitado. Recientemente, el mantenedor de FUSE, Miklos Szeredi, ha presentado una propuesta para mejorar…</description>
-  </item>
-  <item>
-    <title>Unificar metadata de paquetes en sistemas operativos y lenguajes de programación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-unificar-metadata-de-paquetes-en-sistemas-operativos-y-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-unificar-metadata-de-paquetes-en-sistemas-operativos-y-.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La gestión de paquetes en sistemas operativos y lenguajes de programación ha sido un tema clave durante décadas. Sin embargo, con la creciente necesidad de utilizar metadata de paquetes para fines más allá de la gestión de software, como…</description>
-  </item>
-  <item>
-    <title>Intel XPU Manager agrega soporte para Arc Pro B65 y B70</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-intel-xpu-manager-agrega-soporte-para-arc-pro-b65-y-b70.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-intel-xpu-manager-agrega-soporte-para-arc-pro-b65-y-b70.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Intel ha lanzado actualizaciones para su herramienta XPU Manager y el driver de NPU Linux. La herramienta XPU Manager ahora soporta la gestión y monitoreo de GPUs de datos centrales Intel, incluyendo las recién lanzadas Arc Pro B65 y B70.</description>
-  </item>
-  <item>
-    <title>Soporte para GPUs NVIDIA Hopper y Blackwell en el driver Nova se acerca</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-soporte-para-gpus-nvidia-hopper-y-blackwell-en-el-drive.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-03-soporte-para-gpus-nvidia-hopper-y-blackwell-en-el-drive.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de desarrollo de Linux ha logrado un avance significativo en el soporte para las GPUs NVIDIA Hopper y Blackwell en el driver Nova, un proyecto de código abierto que busca ofrecer una alternativa a los drivers propietarios de…</description>
-  </item>
-  <item>
-    <title>Adafruit lanza un anillo de LEDs NeoPixel RGB controlable</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-03-adafruit-lanza-un-anillo-de-leds-neopixel-rgb-controlab.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-03-adafruit-lanza-un-anillo-de-leds-neopixel-rgb-controlab.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado un nuevo producto que revoluciona la iluminación de objetos: un anillo de LEDs NeoPixel RGB controlable. Este dispositivo es perfecto para crear disfraces, decoraciones y proyectos de robótica.</description>
-  </item>
-  <item>
-    <title>Cámaras de seguridad Reolink con visión panorámica y seguimiento de objetos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-camaras-de-seguridad-reolink-con-vision-panoramica-y-se.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-camaras-de-seguridad-reolink-con-vision-panoramica-y-se.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Reolink ha lanzado una nueva serie de cámaras de seguridad con visión panorámica y seguimiento de objetos, que combinan la estabilidad de una cámara fija con la flexibilidad de una cámara PTZ.</description>
-  </item>
-  <item>
-    <title>El primer robot bipede DIY con músculos de aire</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-el-primer-robot-bipede-diy-con-musculos-de-aire.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-el-primer-robot-bipede-diy-con-musculos-de-aire.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide en su garaje, utilizando tecnología innovadora y una comunidad de entusiastas. Su objetivo era crear un robot que pudiera realizar tareas…</description>
-  </item>
-  <item>
-    <title>Uber limita gastos en inteligencia artificial para controlar costos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-uber-limita-gastos-en-inteligencia-artificial-para-cont.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-03-uber-limita-gastos-en-inteligencia-artificial-para-cont.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Uber ha instituido un límite de gastos en inteligencia artificial (IA) después de gastar todo su presupuesto anual en solo cuatro meses. Esta medida busca controlar los costos de la empresa, que ha estado fomentando el uso de IA entre sus…</description>
-  </item>
-  <item>
-    <title>Atlas, el robot humanoide más capaz, muestra su fuerza en la realidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-atlas-el-robot-humanoide-mas-capaz-muestra-su-fuerza-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-atlas-el-robot-humanoide-mas-capaz-muestra-su-fuerza-en.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas en entornos reales, como levantar un refrigerador. Esto marca un importante avance en la robótica, ya que los robots humanoides pueden ahora…</description>
-  </item>
-  <item>
-    <title>Integración de un pallet jack autónomo en Los Ángeles</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-integracion-de-un-pallet-jack-autonomo-en-los-angeles.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-integracion-de-un-pallet-jack-autonomo-en-los-angeles.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una empresa está buscando un integrador de robótica para llevar a cabo el hardware de un pallet jack autónomo en Los Ángeles. El objetivo es convertir un camión de mano estándar en un vehículo autónomo que pueda moverse por su cuenta en un…</description>
-  </item>
-  <item>
-    <title>Robot omnidireccional extremo: la innovación en robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-robot-omnidireccional-extremo-la-innovacion-en-robotica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-03-robot-omnidireccional-extremo-la-innovacion-en-robotica.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica sigue avanzando a pasos agigantados, y la creación de un robot omnidireccional extremo es un ejemplo de cómo la tecnología puede sorprendernos. Este robot puede moverse en cualquier dirección y realizar tareas complejas con…</description>
-  </item>
-  <item>
-    <title>Convertir una impresora 3D antigua en una cortadora de vinilo a bajo costo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-03-convertir-una-impresora-3d-antigua-en-una-cortadora-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-03-convertir-una-impresora-3d-antigua-en-una-cortadora-de-.md</guid>
-    <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Una comunidad de impresión 3D ha encontrado una forma innovadora de dar nueva vida a sus impresoras 3D antiguas, convirtiéndolas en cortadoras de vinilo de bajo costo. Esto abre nuevas posibilidades para los entusiastas de la impresión 3D…</description>
   </item>
 </channel>
 </rss>

@@ -1,6 +1,214 @@
 {
   "news": [
     {
+      "title": "GNOME 51 retira soporte a drivers NVIDIA heredados",
+      "category": "linux",
+      "date": "2026-06-05",
+      "slug": "gnome-51-retira-soporte-a-drivers-nvidia-heredados",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 51 de GNOME marca un cambio importante en la forma en que se interactúa con los drivers NVIDIA en Linux. A partir de esta versión, se retiran los soportes a los drivers heredados, lo que debería mejorar la estabilidad y la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-05-gnome-51-retira-soporte-a-drivers-nvidia-heredados.md"
+    },
+    {
+      "title": "Dave Airlie habla sobre el mantenimiento del núcleo Linux",
+      "category": "linux",
+      "date": "2026-06-05",
+      "slug": "dave-airlie-habla-sobre-el-mantenimiento-del-nucleo-lin",
+      "tags": [
+        "linux",
+        "rust",
+        "codigo"
+      ],
+      "preview": "El mantenedor de gráficos de Linux, Dave Airlie, ha sido entrevistado en el podcast Software Engineering Radio. En la conversación, habla sobre la importancia de atraer a jóvenes desarrolladores al proyecto Linux y la integración de Rust…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-05-dave-airlie-habla-sobre-el-mantenimiento-del-nucleo-lin.md"
+    },
+    {
+      "title": "Prueba de rendimiento del scheduler BORE en CachyOS Linux",
+      "category": "linux",
+      "date": "2026-06-05",
+      "slug": "prueba-de-rendimiento-del-scheduler-bore-en-cachyos-lin",
+      "tags": [
+        "linux",
+        "cachyos",
+        "scheduler",
+        "rendimiento"
+      ],
+      "preview": "El scheduler BORE, diseñado para mejorar la respuesta de los sistemas bajo carga intensa, ha sido probado en CachyOS Linux. Los resultados muestran una mejora significativa en la respuesta del sistema y la experiencia del usuario.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-05-prueba-de-rendimiento-del-scheduler-bore-en-cachyos-lin.md"
+    },
+    {
+      "title": "Conecta tu coche a Home Assistant de manera segura y fácil",
+      "category": "embebidos",
+      "date": "2026-06-05",
+      "slug": "conecta-tu-coche-a-home-assistant-de-manera-segura-y-fa",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Conecta tu coche a tu hogar inteligente con Home Assistant y monitorea parámetros importantes de manera remota. Ahora es posible gracias a la creación de un widget que se conecta a la OBD-II del coche.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-05-conecta-tu-coche-a-home-assistant-de-manera-segura-y-fa.md"
+    },
+    {
+      "title": "EKOS: un panel de control local ePaper basado en ESP32-S3",
+      "category": "embebidos",
+      "date": "2026-06-05",
+      "slug": "ekos-un-panel-de-control-local-epaper-basado-en-esp32-s",
+      "tags": [
+        "esp32",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El EKOS es un panel de control local ePaper diseñado para ofrecer una experiencia de usuario personalizada y privada. Sin necesidad de conexión a la nube o suscripciones, EKOS permite controlar dispositivos y acceder a información en…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-05-ekos-un-panel-de-control-local-epaper-basado-en-esp32-s.md"
+    },
+    {
+      "title": "Un tocadiscos vintage recibe un implante cerebral y se integra con Home Assistant",
+      "category": "embebidos",
+      "date": "2026-06-05",
+      "slug": "un-tocadiscos-vintage-recibe-un-implante-cerebral-y-se-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un entusiasta de la música en vinilo ha llevado a cabo un proyecto emocionante: convertir un tocadiscos vintage en un dispositivo inteligente con control automático gracias a un microcontrolador ESP32 y la integración con Home Assistant.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-05-un-tocadiscos-vintage-recibe-un-implante-cerebral-y-se-.md"
+    },
+    {
+      "title": "Erqos EQSP32CE: PLC industrial con conectividad IoT y interfaces de comunicación",
+      "category": "embebidos",
+      "date": "2026-06-05",
+      "slug": "erqos-eqsp32ce-plc-industrial-con-conectividad-iot-y-in",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Erqos EQSP32CE es un controlador lógico industrial de Internet de las Cosas (IoT) que combina conectividad WiFi y Bluetooth con interfaces de comunicación Ethernet, RS232, RS485 y CAN Bus. Este dispositivo es ideal para aplicaciones…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-05-erqos-eqsp32ce-plc-industrial-con-conectividad-iot-y-in.md"
+    },
+    {
+      "title": "Airbnb lanza un nuevo laboratorio de inteligencia artificial",
+      "category": "ia",
+      "date": "2026-06-05",
+      "slug": "airbnb-lanza-un-nuevo-laboratorio-de-inteligencia-artif",
+      "tags": [
+        "ia-local",
+        "llms",
+        "robotica"
+      ],
+      "preview": "Brian Chesky, CEO de Airbnb, ha decidido crear un nuevo laboratorio de IA para desarrollar tecnologías de interacción con usuarios y diseño. Esto se debe a su insatisfacción con los modelos de IA actuales.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-05-airbnb-lanza-un-nuevo-laboratorio-de-inteligencia-artif.md"
+    },
+    {
+      "title": "El primer robot bípedo DIY con 'músculos de aire' en lugar de motores",
+      "category": "ia",
+      "date": "2026-06-05",
+      "slug": "el-primer-robot-bipedo-diy-con-musculos-de-aire-en-luga",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide de tamaño real que pudiera realizar tareas útiles, como transportar equipaje. Con la ayuda de un grupo de entusiastas DIY, lograron crear un…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-05-el-primer-robot-bipedo-diy-con-musculos-de-aire-en-luga.md"
+    },
+    {
+      "title": "Microsoft afirma haber creado qubits con una vida útil de 20 segundos",
+      "category": "ia",
+      "date": "2026-06-05",
+      "slug": "microsoft-afirma-haber-creado-qubits-con-una-vida-util-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Microsoft ha logrado un avance importante en la creación de qubits, componentes fundamentales de los ordenadores cuánticos. Estos dispositivos tienen una vida útil de solo unos milisegundos, pero ahora la empresa afirma haber creado qubits…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-05-microsoft-afirma-haber-creado-qubits-con-una-vida-util-.md"
+    },
+    {
+      "title": "Unificador de escáneres LiDAR para ROS2: sin depender de PCL",
+      "category": "robotica",
+      "date": "2026-06-05",
+      "slug": "unificador-de-escaneres-lidar-para-ros2-sin-depender-de",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Los robots que utilizan múltiples escáneres LiDAR pueden beneficiarse de un nuevo proyecto que fusiona los datos de todos ellos en un solo escáner. Esto puede ser útil para algoritmos de navegación autónoma y detección de obstáculos.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-05-unificador-de-escaneres-lidar-para-ros2-sin-depender-de.md"
+    },
+    {
+      "title": "Reunión técnica de OSRA: avances en robótica y colaboración",
+      "category": "robotica",
+      "date": "2026-06-05",
+      "slug": "reunion-tecnica-de-osra-avances-en-robotica-y-colaborac",
+      "tags": [
+        "robotica"
+      ],
+      "preview": "La OSRA (Open Source Robotics Foundation) ha celebrado su reunión técnica mensual de marzo de 2026, donde se han discutido avances en robótica, colaboración y interoperabilidad. La reunión ha sido un éxito en términos de participación y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-05-reunion-tecnica-de-osra-avances-en-robotica-y-colaborac.md"
+    },
+    {
+      "title": "Atlas, el robot humanoide más capaz, demostra su fuerza y adaptabilidad",
+      "category": "robotica",
+      "date": "2026-06-05",
+      "slug": "atlas-el-robot-humanoide-mas-capaz-demostra-su-fuerza-y",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-por-refuerzo"
+      ],
+      "preview": "El robot Atlas, desarrollado por Boston Dynamics, ha demostrado su capacidad para realizar tareas complejas en entornos dinámicos. Lleva solo meses desde su debut y ya ha demostrado ser un verdadero avance en la robótica.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-05-atlas-el-robot-humanoide-mas-capaz-demostra-su-fuerza-y.md"
+    },
+    {
+      "title": "Motor ético QERRA-v2 para robots humanoides: evaluación explicada",
+      "category": "robotica",
+      "date": "2026-06-05",
+      "slug": "motor-etico-qerra-v2-para-robots-humanoides-evaluacion-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un equipo de investigación ha desarrollado un motor ético para robots humanoides que evalúa las acciones de manera explicada. Este sistema es crucial para garantizar la seguridad y la ética en la toma de decisiones de los robots.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-05-motor-etico-qerra-v2-para-robots-humanoides-evaluacion-.md"
+    },
+    {
+      "title": "Robot Omnidireccional Extremo: La Robotica Avanzada",
+      "category": "robotica",
+      "date": "2026-06-05",
+      "slug": "robot-omnidireccional-extremo-la-robotica-avanzada",
+      "tags": [
+        "robotica",
+        "ia-local"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados, con robots que pueden caminar, volar y manipular objetos con precisión. Pero ¿qué sucede cuando queremos crear un robot que pueda hacerlo todo? El robot omnidireccional extremo es la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-05-robot-omnidireccional-extremo-la-robotica-avanzada.md"
+    },
+    {
       "title": "Microsoft lanza Coreutils para Windows, herramientas Unix en el sistema operativo",
       "category": "linux",
       "date": "2026-06-04",

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-04</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-05</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-gnome-51-retira-soporte-a-drivers-nvidia-heredados.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-dave-airlie-habla-sobre-el-mantenimiento-del-nucleo-lin.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-prueba-de-rendimiento-del-scheduler-bore-en-cachyos-lin.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-conecta-tu-coche-a-home-assistant-de-manera-segura-y-fa.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-ekos-un-panel-de-control-local-epaper-basado-en-esp32-s.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-un-tocadiscos-vintage-recibe-un-implante-cerebral-y-se-.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-05-erqos-eqsp32ce-plc-industrial-con-conectividad-iot-y-in.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-airbnb-lanza-un-nuevo-laboratorio-de-inteligencia-artif.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-el-primer-robot-bipedo-diy-con-musculos-de-aire-en-luga.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-05-microsoft-afirma-haber-creado-qubits-con-una-vida-util-.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-unificador-de-escaneres-lidar-para-ros2-sin-depender-de.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-reunion-tecnica-de-osra-avances-en-robotica-y-colaborac.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-atlas-el-robot-humanoide-mas-capaz-demostra-su-fuerza-y.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-motor-etico-qerra-v2-para-robots-humanoides-evaluacion-.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-05-robot-omnidireccional-extremo-la-robotica-avanzada.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-microsoft-lanza-coreutils-para-windows-herramientas-uni.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-ros-pmc-actualizaciones-y-tareas-pendientes-para-el-pro.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-04-forlinx-lanza-modulo-de-sistema-rockchip-rk3572-con-lin.md</loc><lastmod>2026-06-04</lastmod><priority>0.8</priority></url>
