@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-05</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-06</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-06-amd-deshabilita-ioctl-linux-debido-a-problemas-de-segur.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-06-cuda-oxide-02-mejoras-en-compilacion-de-cuda-con-rust.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-06-actualizaciones-de-seguridad-para-sistemas-linux.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-06-un-microcontrolador-diminuto-emula-un-procesador-vintag.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-06-streamcrate-servidor-de-medios-portatil-y-versatil.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-06-proyectos-de-python-para-raspberry-pi-un-libro-para-ava.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-06-akiraos-un-sistema-operativo-para-microcontroladores-co.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-06-noticias-de-python-en-microcontroladores-suscribete-g-2.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-06-peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-06-nueva-plataforma-de-ia-en-borde-con-procesador-qualcomm.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-06-un-robot-bipede-diy-que-camina-con-musculos-de-aire-2.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-06-robot-humanoide-que-no-se-cae-escaleras-una-demostracio.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-06-robotica-omnidireccional-extremadamente-versatil-2.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-06-qerra-v2-evaluador-etico-expliquible-para-robotica-huma.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-06-un-robot-autonomo-abierto-que-combina-vision-computacio.md</loc><lastmod>2026-06-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-gnome-51-retira-soporte-a-drivers-nvidia-heredados.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-dave-airlie-habla-sobre-el-mantenimiento-del-nucleo-lin.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-05-prueba-de-rendimiento-del-scheduler-bore-en-cachyos-lin.md</loc><lastmod>2026-06-05</lastmod><priority>0.8</priority></url>

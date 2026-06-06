@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "AMD deshabilita ioctl Linux debido a problemas de seguridad",
+      "category": "linux",
+      "date": "2026-06-06",
+      "slug": "amd-deshabilita-ioctl-linux-debido-a-problemas-de-segur",
+      "tags": [
+        "linux",
+        "seguridad",
+        "ioctl"
+      ],
+      "preview": "La empresa AMD ha deshabilitado una interfaz de ioctl en el kernel Linux debido a problemas de seguridad que han surgido después de su introducción. Esta medida se ha tomado después de que se identificara una vulnerabilidad que permitía a…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-06-amd-deshabilita-ioctl-linux-debido-a-problemas-de-segur.md"
+    },
+    {
+      "title": "CUDA-Oxide 0.2: Mejoras en compilación de CUDA con Rust",
+      "category": "linux",
+      "date": "2026-06-06",
+      "slug": "cuda-oxide-02-mejoras-en-compilacion-de-cuda-con-rust",
+      "tags": [
+        "llms",
+        "robotica",
+        "codigo"
+      ],
+      "preview": "CUDA-Oxide es un proyecto que permite compilar código Rust en CUDA kernels para NVIDIA GPUs. La versión 0.2 de CUDA-Oxide ofrece mejoras significativas en la seguridad, interoperabilidad y rendimiento de los kernels.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-06-cuda-oxide-02-mejoras-en-compilacion-de-cuda-con-rust.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas Linux",
+      "category": "linux",
+      "date": "2026-06-06",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-linux",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las distribuciones Linux AlmaLinux, Debian y Fedora han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes, incluyendo el kernel, Dovecot, Exim4, FRR y otros.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-06-actualizaciones-de-seguridad-para-sistemas-linux.md"
+    },
+    {
+      "title": "Un microcontrolador diminuto emula un procesador vintage con sorprendente velocidad",
+      "category": "embebidos",
+      "date": "2026-06-06",
+      "slug": "un-microcontrolador-diminuto-emula-un-procesador-vintag",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha logrado emular un procesador vintage de la década de 1970 en un microcontrolador diminuto, demostrando que la velocidad no siempre depende del poder de procesamiento.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-06-un-microcontrolador-diminuto-emula-un-procesador-vintag.md"
+    },
+    {
+      "title": "StreamCrate: servidor de medios portátil y versátil",
+      "category": "embebidos",
+      "date": "2026-06-06",
+      "slug": "streamcrate-servidor-de-medios-portatil-y-versatil",
+      "tags": [
+        "robotica",
+        "linux",
+        "raspberry-pi"
+      ],
+      "preview": "Daveed Walzer, un entusiasta de la tecnología, ha creado un servidor de medios portátil y versátil llamado StreamCrate, que utiliza una Raspberry Pi 4 y ofrece una autonomía de 10 horas con una batería de 20.000mAh.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-06-streamcrate-servidor-de-medios-portatil-y-versatil.md"
+    },
+    {
+      "title": "Proyectos de Python para Raspberry Pi: un libro para avanzar en habilidades",
+      "category": "embebidos",
+      "date": "2026-06-06",
+      "slug": "proyectos-de-python-para-raspberry-pi-un-libro-para-ava",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas",
+        "raspberry-pi"
+      ],
+      "preview": "Si has aprendido los fundamentos de Raspberry Pi y Raspberry Pi Pico, ya estás listo para el próximo paso. Un libro nuevo de Python Projects para Raspberry Pi te enseñará a crear proyectos más avanzados con sensores, displays y actuadores.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-06-proyectos-de-python-para-raspberry-pi-un-libro-para-ava.md"
+    },
+    {
+      "title": "AkiraOS: un sistema operativo para microcontroladores con aplicaciones WebAssembly",
+      "category": "embebidos",
+      "date": "2026-06-06",
+      "slug": "akiraos-un-sistema-operativo-para-microcontroladores-co",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "AkiraOS es un sistema operativo para microcontroladores que permite ejecutar aplicaciones WebAssembly de manera sandboxed, lo que facilita la actualización de firmware sin necesidad de reflashing. Esto es similar a los contenedores Docker,…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-06-akiraos-un-sistema-operativo-para-microcontroladores-co.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: ¡suscríbete gratis!",
+      "category": "embebidos",
+      "date": "2026-06-06",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-g-2",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "software"
+      ],
+      "preview": "Si te interesa la robótica y el desarrollo de software para microcontroladores, esta noticia es para ti. ¡Descubre cómo obtener las últimas noticias sobre Python en hardware de una manera sencilla y sin publicidad!",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-06-noticias-de-python-en-microcontroladores-suscribete-g-2.md"
+    },
+    {
+      "title": "Peppe's Ghost: un escáner LiDAR casero con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-06-06",
+      "slug": "peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "linux",
+        "raspberry-pi"
+      ],
+      "preview": "Un entusiasta ha creado un escáner LiDAR casero utilizando un Raspberry Pi 5 y un diseño 3D impresionado. El resultado es un dispositivo capaz de capturar el mundo en forma de punto nube.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-06-peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi.md"
+    },
+    {
+      "title": "Nueva plataforma de IA en borde con procesador Qualcomm Dragonwing Q-7790",
+      "category": "ia",
+      "date": "2026-06-06",
+      "slug": "nueva-plataforma-de-ia-en-borde-con-procesador-qualcomm",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Thundercomm ha lanzado la plataforma de IA en borde TurboX C7790, que ofrece hasta 24 TOPS de rendimiento de IA y compatibilidad con Android y Linux. Esta plataforma es ideal para aplicaciones de IA en borde, como cámaras de IA,…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-06-nueva-plataforma-de-ia-en-borde-con-procesador-qualcomm.md"
+    },
+    {
+      "title": "Un robot bípede DIY que camina con 'músculos de aire'",
+      "category": "ia",
+      "date": "2026-06-06",
+      "slug": "un-robot-bipede-diy-que-camina-con-musculos-de-aire-2",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "En 1987, un fotógrafo británico llamado Richard Greenhill decidió construir un robot humanoide de tamaño real que pudiera realizar tareas útiles, como transportar equipaje. Sin embargo, su proyecto no era solo sobre la construcción de un…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-06-un-robot-bipede-diy-que-camina-con-musculos-de-aire-2.md"
+    },
+    {
+      "title": "Robot humanoide que no se cae escaleras: una demostración impresionante",
+      "category": "ia",
+      "date": "2026-06-06",
+      "slug": "robot-humanoide-que-no-se-cae-escaleras-una-demostracio",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Deep Robotics ha presentado un video impresionante de un robot humanoide que puede caminar sin caerse escaleras. Esto es un logro importante en el campo de la robótica, ya que la estabilidad y la seguridad son fundamentales para…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-06-robot-humanoide-que-no-se-cae-escaleras-una-demostracio.md"
+    },
+    {
+      "title": "Robótica omnidireccional extremadamente versátil",
+      "category": "robotica",
+      "date": "2026-06-06",
+      "slug": "robotica-omnidireccional-extremadamente-versatil-2",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La robótica está evolucionando rápidamente y se está convirtiendo en un componente importante de nuestra vida diaria. Desde drones y máquinas industriales hasta asistentes en la casa y robots humanoides, la presencia de los robots sigue…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-06-robotica-omnidireccional-extremadamente-versatil-2.md"
+    },
+    {
+      "title": "QERRA-v2: Evaluador Ético Expliquible para Robótica Humanoide",
+      "category": "robotica",
+      "date": "2026-06-06",
+      "slug": "qerra-v2-evaluador-etico-expliquible-para-robotica-huma",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un equipo de investigación ha desarrollado QERRA-v2, un evaluador ético expliquible para robots humanoides que ayuda a tomar decisiones seguras y éticas. Este proyecto es crucial para la robótica avanzada y la IA.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-06-qerra-v2-evaluador-etico-expliquible-para-robotica-huma.md"
+    },
+    {
+      "title": "Un Robot Autónomo Abierto que Combina Visión Computacional y Asistencia por Voz",
+      "category": "robotica",
+      "date": "2026-06-06",
+      "slug": "un-robot-autonomo-abierto-que-combina-vision-computacio",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un desarrollador está creando un robot autónomo abierto que integra navegación, visión computacional, interacción por voz y asistencia por inteligencia artificial. Este proyecto busca proporcionar una plataforma única para la interacción…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-06-un-robot-autonomo-abierto-que-combina-vision-computacio.md"
+    },
+    {
       "title": "GNOME 51 retira soporte a drivers NVIDIA heredados",
       "category": "linux",
       "date": "2026-06-05",
