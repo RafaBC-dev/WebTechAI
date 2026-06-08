@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "AMD R600: driver gráfico vintage se limpia gracias a GitHub Copilot",
+      "category": "linux",
+      "date": "2026-06-08",
+      "slug": "amd-r600-driver-grafico-vintage-se-limpia-gracias-a-git",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El desarrollo de drivers gráficos para hardware antiguo no es fácil. Pero gracias a GitHub Copilot, el código del driver AMD R600 se ha limpiado y refactorizado en un gran esfuerzo de la comunidad de desarrolladores.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-08-amd-r600-driver-grafico-vintage-se-limpia-gracias-a-git.md"
+    },
+    {
+      "title": "El futuro de EFS: ¿un nuevo mantenedor o una eliminación?",
+      "category": "linux",
+      "date": "2026-06-08",
+      "slug": "el-futuro-de-efs-un-nuevo-mantenedor-o-una-eliminacion",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux se debate sobre el mantenimiento de un antiguo driver de sistema de archivos, el EFS, que ya no es utilizado por nadie. ¿Qué pasa si alguien se ofrece a mantenerlo, aunque no lo use?",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-08-el-futuro-de-efs-un-nuevo-mantenedor-o-una-eliminacion.md"
+    },
+    {
+      "title": "Armbian Imager 2.0: una herramienta para flashear imágenes en más de 300 tableros",
+      "category": "linux",
+      "date": "2026-06-08",
+      "slug": "armbian-imager-20-una-herramienta-para-flashear-imagene",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Armbian ha lanzado la versión 2.0 de su herramienta de flasheo, Armbian Imager, que permite fácilmente flashear imágenes pre-construidas de Ubuntu o Debian en más de 338 tableros de 64 proveedores diferentes. Esta…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-08-armbian-imager-20-una-herramienta-para-flashear-imagene.md"
+    },
+    {
+      "title": "ROSscope: plataforma de observabilidad abierta para flotas de ROS 2",
+      "category": "linux",
+      "date": "2026-06-08",
+      "slug": "rosscope-plataforma-de-observabilidad-abierta-para-flot",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS ha recibido un regalo con ROSscope, una plataforma de observabilidad abierta que permite monitorear en tiempo real los sistemas ROS 2. Con ROSscope, los desarrolladores pueden detectar anormalidades y mejorar la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-08-rosscope-plataforma-de-observabilidad-abierta-para-flot.md"
+    },
+    {
+      "title": "ROS2 Humble en Windows sin complicaciones: Ros2Simple y Rviz2Windows",
+      "category": "linux",
+      "date": "2026-06-08",
+      "slug": "ros2-humble-en-windows-sin-complicaciones-ros2simple-y-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Después de años de complicaciones, los desarrolladores de ROS2 en Windows pueden respirar aliviados. Dos proyectos recientes han simplificado la vida de los programadores: Ros2Simple y Rviz2Windows.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-08-ros2-humble-en-windows-sin-complicaciones-ros2simple-y-.md"
+    },
+    {
+      "title": "Un escáner LiDAR casero con Raspberry Pi 5 y 3D impresión",
+      "category": "embebidos",
+      "date": "2026-06-08",
+      "slug": "un-escaner-lidar-casero-con-raspberry-pi-5-y-3d-impresi",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "raspberry-pi"
+      ],
+      "preview": "Un entusiasta de la robótica ha creado un escáner LiDAR casero utilizando un Raspberry Pi 5 y una impresión 3D. El resultado es un dispositivo capaz de capturar el mundo en forma de nube de puntos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-08-un-escaner-lidar-casero-con-raspberry-pi-5-y-3d-impresi.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: suscríbete gratis",
+      "category": "embebidos",
+      "date": "2026-06-08",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-g-4",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "La comunidad de Python en hardware ha crecido significativamente en los últimos años. Ahora, hay una herramienta que recopila todas las noticias y actualizaciones en un solo lugar.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-08-noticias-de-python-en-microcontroladores-suscribete-g-4.md"
+    },
+    {
+      "title": "OpenAI lanza una versión renovada de ChatGPT como 'super app'",
+      "category": "ia",
+      "date": "2026-06-08",
+      "slug": "openai-lanza-una-version-renovada-de-chatgpt-como-super",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "OpenAI está trabajando en una versión actualizada de ChatGPT que incluirá herramientas de programación y agentes de inteligencia artificial. Este proyecto busca mejorar la competencia con Anthropic y acercarse a la rentabilidad antes de…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-08-openai-lanza-una-version-renovada-de-chatgpt-como-super.md"
+    },
+    {
+      "title": "Un robot bípede construido con músculos de aire: la innovación de Richard Greenhill",
+      "category": "ia",
+      "date": "2026-06-08",
+      "slug": "un-robot-bipede-construido-con-musculos-de-aire-la-inno",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "En 1987, Richard Greenhill, un fotógrafo británico, decidió construir un robot humanoide de tamaño real que pudiera realizar tareas útiles, como transportar maletas. Después de no convencer a su empresa para que lo ayudara, se puso a…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-08-un-robot-bipede-construido-con-musculos-de-aire-la-inno.md"
+    },
+    {
+      "title": "Consola de juegos generada por IA con Raspberry Pi",
+      "category": "ia",
+      "date": "2026-06-08",
+      "slug": "consola-de-juegos-generada-por-ia-con-raspberry-pi",
+      "tags": [
+        "llms",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "Grigor Todorov ha creado una consola de juegos llamada AI Arcade que utiliza la inteligencia artificial para generar juegos nuevos y únicos. Esta innovadora creación utiliza un Raspberry Pi y un lenguaje de marcado para crear experiencias…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-08-consola-de-juegos-generada-por-ia-con-raspberry-pi.md"
+    },
+    {
+      "title": "Dragonwing: la familia de SoCs de Qualcomm que unifica 5G, Wi-Fi y procesamiento local",
+      "category": "ia",
+      "date": "2026-06-08",
+      "slug": "dragonwing-la-familia-de-socs-de-qualcomm-que-unifica-5",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Qualcomm ha lanzado la familia Dragonwing, una nueva línea de SoCs que integran conectividad 5G, Wi-Fi, procesamiento multimedia y aprendizaje de máquina en un solo chip. Esto revoluciona la forma en que se diseñan dispositivos conectados.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-08-dragonwing-la-familia-de-socs-de-qualcomm-que-unifica-5.md"
+    },
+    {
+      "title": "Robótica avanzada: robots humanoides y sistemas embebidos",
+      "category": "ia",
+      "date": "2026-06-08",
+      "slug": "robotica-avanzada-robots-humanoides-y-sistemas-embebido",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "La semana pasada se presentaron varios avances en la robótica, incluyendo robots humanoides que pueden caminar sin caer por escaleras y sistemas embebidos que permiten la colaboración segura en espacios de trabajo.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-08-robotica-avanzada-robots-humanoides-y-sistemas-embebido.md"
+    },
+    {
+      "title": "Control remoto de brazos robóticos con Inteligencia Artificial",
+      "category": "robotica",
+      "date": "2026-06-08",
+      "slug": "control-remoto-de-brazos-roboticos-con-inteligencia-art",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa NVIDIA ha lanzado una herramienta de control remoto para brazos robóticos llamada Isaac Lab Teleoperation & Data Collection. Esta herramienta permite controlar brazos robóticos de manera remota y recopilar datos de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-08-control-remoto-de-brazos-roboticos-con-inteligencia-art.md"
+    },
+    {
+      "title": "Robótica omnidireccional extremadamente avanzada",
+      "category": "robotica",
+      "date": "2026-06-08",
+      "slug": "robotica-omnidireccional-extremadamente-avanzada-2",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La robótica se está volviendo cada vez más común en nuestras vidas diarias, desde drones y máquinas industriales hasta asistentes en el hogar y robots humanoides. Pero ¿cómo podemos elegir el robot adecuado no solo en términos de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-08-robotica-omnidireccional-extremadamente-avanzada-2.md"
+    },
+    {
+      "title": "Un robot perro animatrónico inspirado en Goddard de Jimmy Neutron",
+      "category": "robotica",
+      "date": "2026-06-08",
+      "slug": "un-robot-perro-animatronico-inspirado-en-goddard-de-jim",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Un entusiasta de la robótica ha creado un robot perro animatrónico inspirado en Goddard, el perro robot de la serie de televisión Jimmy Neutron. Este proyecto es un ejemplo de cómo la robótica y la tecnología pueden ser utilizadas para…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-08-un-robot-perro-animatronico-inspirado-en-goddard-de-jim.md"
+    },
+    {
       "title": "AweSun Cloud KVM Q1: una solución de acceso remoto de hardware asequible",
       "category": "linux",
       "date": "2026-06-07",

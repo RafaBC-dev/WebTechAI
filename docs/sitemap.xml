@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-07</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-08</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-amd-r600-driver-grafico-vintage-se-limpia-gracias-a-git.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-el-futuro-de-efs-un-nuevo-mantenedor-o-una-eliminacion.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-armbian-imager-20-una-herramienta-para-flashear-imagene.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-rosscope-plataforma-de-observabilidad-abierta-para-flot.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-ros2-humble-en-windows-sin-complicaciones-ros2simple-y-.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-08-un-escaner-lidar-casero-con-raspberry-pi-5-y-3d-impresi.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-08-noticias-de-python-en-microcontroladores-suscribete-g-4.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-08-openai-lanza-una-version-renovada-de-chatgpt-como-super.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-08-un-robot-bipede-construido-con-musculos-de-aire-la-inno.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-08-consola-de-juegos-generada-por-ia-con-raspberry-pi.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-08-dragonwing-la-familia-de-socs-de-qualcomm-que-unifica-5.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-08-robotica-avanzada-robots-humanoides-y-sistemas-embebido.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-08-control-remoto-de-brazos-roboticos-con-inteligencia-art.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-08-robotica-omnidireccional-extremadamente-avanzada-2.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-08-un-robot-perro-animatronico-inspirado-en-goddard-de-jim.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-07-awesun-cloud-kvm-q1-una-solucion-de-acceso-remoto-de-ha.md</loc><lastmod>2026-06-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-07-actualizaciones-de-seguridad-para-sistemas-operativo-17.md</loc><lastmod>2026-06-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-07-noticias-de-python-en-microcontroladores-suscribete-g-3.md</loc><lastmod>2026-06-07</lastmod><priority>0.8</priority></url>
