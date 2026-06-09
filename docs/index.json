@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Armbian Imager 2.0: una herramienta para flashear imágenes en más de 300 tableros",
+      "category": "linux",
+      "date": "2026-06-09",
+      "slug": "armbian-imager-20-una-herramienta-para-flashear-image-2",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Armbian ha lanzado la versión 2.0 de su herramienta de flasheo, Armbian Imager, que permite fácilmente instalar imágenes pre-construidas de Ubuntu o Debian en más de 338 tableros de 64 fabricantes diferentes. Esta…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-09-armbian-imager-20-una-herramienta-para-flashear-image-2.md"
+    },
+    {
+      "title": "Rendimiento de tarjetas SD en CircuitPython: qué funcionan mejor",
+      "category": "linux",
+      "date": "2026-06-09",
+      "slug": "rendimiento-de-tarjetas-sd-en-circuitpython-que-funcion",
+      "tags": [
+        "microcontroladores",
+        "python",
+        "herramientas"
+      ],
+      "preview": "La velocidad de las tarjetas SD es crucial en proyectos de robótica y electrónica. Un equipo de Adafruit ha realizado un estudio exhaustivo para determinar qué tarjetas y configuraciones funcionan mejor en CircuitPython.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-09-rendimiento-de-tarjetas-sd-en-circuitpython-que-funcion.md"
+    },
+    {
+      "title": "Actualización de paquetes en ROS Lyrical: 40 nuevos y 101 actualizados",
+      "category": "linux",
+      "date": "2026-06-09",
+      "slug": "actualizacion-de-paquetes-en-ros-lyrical-40-nuevos-y-10",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS Lyrical ha anunciado la disponibilidad de 40 nuevos paquetes y 101 actualizaciones. Esta actualización es importante para los desarrolladores de robots y sistemas embebidos que utilizan ROS Lyrical.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-09-actualizacion-de-paquetes-en-ros-lyrical-40-nuevos-y-10.md"
+    },
+    {
+      "title": "Ubuntu MATE sigue adelante a pesar de la ausencia de Ubuntu MATE 26.04",
+      "category": "linux",
+      "date": "2026-06-09",
+      "slug": "ubuntu-mate-sigue-adelante-a-pesar-de-la-ausencia-de-ub",
+      "tags": [
+        "linux",
+        "ubuntu",
+        "mate"
+      ],
+      "preview": "La comunidad de Ubuntu MATE ha estado en estado de alerta después de que Martin Wimpress dejara su cargo como líder del proyecto y no se lanzara la versión 26.04. Sin embargo, la noticia es que Ubuntu MATE seguirá adelante con un nuevo…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-09-ubuntu-mate-sigue-adelante-a-pesar-de-la-ausencia-de-ub.md"
+    },
+    {
+      "title": "Actualizaciones en fanotify: un sistema de monitoreo de eventos de archivos",
+      "category": "linux",
+      "date": "2026-06-09",
+      "slug": "actualizaciones-en-fanotify-un-sistema-de-monitoreo-de-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El sistema de monitoreo de eventos de archivos fanotify ha sido actualizado con nuevas características y mejoras en su implementación. Este cambio es relevante para desarrolladores que buscan optimizar la gestión de archivos en sistemas de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-09-actualizaciones-en-fanotify-un-sistema-de-monitoreo-de-.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-06-09",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-18",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las últimas actualizaciones de seguridad para sistemas operativos como AlmaLinux, Debian, Fedora, Mageia y Slackware incluyen correcciones para vulnerabilidades en paquetes como bind, kernel, chromium, firefox y samba. Estas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-09-actualizaciones-de-seguridad-para-sistemas-operativo-18.md"
+    },
+    {
+      "title": "Peppe's Ghost: un escáner LiDAR casero con Raspberry Pi 5",
+      "category": "embebidos",
+      "date": "2026-06-09",
+      "slug": "peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi-5",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "diseño-3d"
+      ],
+      "preview": "Un ingeniero ha creado un escáner LiDAR casero utilizando un Raspberry Pi 5 y un diseño 3D impresionado. El proyecto, llamado Peppe's Ghost, captura el mundo como un punto nube y ha generado interés en la comunidad de diseño y robótica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-09-peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi-5.md"
+    },
+    {
+      "title": "Aprende a desarrollar proyectos con Python en Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-06-09",
+      "slug": "aprende-a-desarrollar-proyectos-con-python-en-raspberry",
+      "tags": [
+        "python",
+        "raspberry-pi",
+        "microcontroladores",
+        "software"
+      ],
+      "preview": "La empresa Raspberry Pi ha lanzado un nuevo libro que enseña a desarrollar proyectos avanzados con Python en sus computadoras y microcontroladores. Este libro es ideal para aquellos que han aprendido los fundamentos y buscan llevar sus…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-09-aprende-a-desarrollar-proyectos-con-python-en-raspberry.md"
+    },
+    {
+      "title": "Un robot bípede construido con músculos de aire en lugar de motores",
+      "category": "ia",
+      "date": "2026-06-09",
+      "slug": "un-robot-bipede-construido-con-musculos-de-aire-en-luga",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "En 1987, Richard Greenhill, un fotógrafo británico, decidió construir un robot humanoide que pudiera realizar tareas útiles, como transportar equipaje. Después de no convencer a su empresa para que lo ayudara, decidió construirlo él mismo…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-09-un-robot-bipede-construido-con-musculos-de-aire-en-luga.md"
+    },
+    {
+      "title": "Consola de juegos generada por IA con Raspberry Pi",
+      "category": "ia",
+      "date": "2026-06-09",
+      "slug": "consola-de-juegos-generada-por-ia-con-raspberry-pi-2",
+      "tags": [
+        "llms",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "Grigor Todorov ha creado una consola de juegos que utiliza la inteligencia artificial para generar juegos en tiempo real. Esta innovadora creación utiliza un Raspberry Pi y tiene la capacidad de generar juegos nuevos y diferentes cada vez…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-09-consola-de-juegos-generada-por-ia-con-raspberry-pi-2.md"
+    },
+    {
+      "title": "Video Friday: Robots humanoides que caminan y no se caen",
+      "category": "ia",
+      "date": "2026-06-09",
+      "slug": "video-friday-robots-humanoides-que-caminan-y-no-se-caen",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Esta semana, IEEE Spectrum presenta una selección de videos impresionantes de robots humanoides que caminan sin caerse. ¿Cómo lo logran? ¿Qué tecnologías se utilizan? Descubre los secretos detrás de estos avances en la robótica.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-09-video-friday-robots-humanoides-que-caminan-y-no-se-caen.md"
+    },
+    {
+      "title": "OpenAI presenta su oferta pública de acciones y su subsidiaria Tools for Humanity sufre recortes",
+      "category": "ia",
+      "date": "2026-06-09",
+      "slug": "openai-presenta-su-oferta-publica-de-acciones-y-su-subs",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "OpenAI, conocida por su inteligencia artificial, ha presentado su oferta pública de acciones, mientras que su subsidiaria Tools for Humanity, que utiliza escaneos de iris para verificar identidades, sufre recortes debido a problemas de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-09-openai-presenta-su-oferta-publica-de-acciones-y-su-subs.md"
+    },
+    {
+      "title": "Robótica omnidireccional extremadamente avanzada",
+      "category": "robotica",
+      "date": "2026-06-09",
+      "slug": "robotica-omnidireccional-extremadamente-avanzada-3",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La robótica avanza a pasos agigantados, y ahora tenemos robots que pueden moverse en cualquier dirección sin problemas. En este artículo, exploraremos uno de los ejemplos más impresionantes de robótica omnidireccional.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-09-robotica-omnidireccional-extremadamente-avanzada-3.md"
+    },
+    {
+      "title": "Actualizaciones en Gazebo: mejora de rendimiento y nuevos comitentes",
+      "category": "robotica",
+      "date": "2026-06-09",
+      "slug": "actualizaciones-en-gazebo-mejora-de-rendimiento-y-nuevo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de Gazebo se reunió para discutir actualizaciones y mejoras en el proyecto. Entre ellas, la mejora del rendimiento y la incorporación de nuevos comitentes. Estas mejoras son importantes para la comunidad de robótica y IA.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-09-actualizaciones-en-gazebo-mejora-de-rendimiento-y-nuevo.md"
+    },
+    {
+      "title": "ros_tap: un telemetría sin configuración para robots ROS",
+      "category": "robotica",
+      "date": "2026-06-09",
+      "slug": "ros-tap-un-telemetria-sin-configuracion-para-robots-ros",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias"
+      ],
+      "preview": "Un desarrollador de ROS 2 necesitaba una herramienta para registrar datos de su robot sin tener que configurar nada cada vez que cambiaba el código. Así que creó ros_tap, un telemetría que se conecta automáticamente a la red DDS y registra…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-09-ros-tap-un-telemetria-sin-configuracion-para-robots-ros.md"
+    },
+    {
       "title": "AMD R600: driver gráfico vintage se limpia gracias a GitHub Copilot",
       "category": "linux",
       "date": "2026-06-08",

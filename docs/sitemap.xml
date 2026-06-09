@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-08</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-09</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-armbian-imager-20-una-herramienta-para-flashear-image-2.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-rendimiento-de-tarjetas-sd-en-circuitpython-que-funcion.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizacion-de-paquetes-en-ros-lyrical-40-nuevos-y-10.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-ubuntu-mate-sigue-adelante-a-pesar-de-la-ausencia-de-ub.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizaciones-en-fanotify-un-sistema-de-monitoreo-de-.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizaciones-de-seguridad-para-sistemas-operativo-18.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-09-peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi-5.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-09-aprende-a-desarrollar-proyectos-con-python-en-raspberry.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-un-robot-bipede-construido-con-musculos-de-aire-en-luga.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-consola-de-juegos-generada-por-ia-con-raspberry-pi-2.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-video-friday-robots-humanoides-que-caminan-y-no-se-caen.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-openai-presenta-su-oferta-publica-de-acciones-y-su-subs.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-robotica-omnidireccional-extremadamente-avanzada-3.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-actualizaciones-en-gazebo-mejora-de-rendimiento-y-nuevo.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-ros-tap-un-telemetria-sin-configuracion-para-robots-ros.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-amd-r600-driver-grafico-vintage-se-limpia-gracias-a-git.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-el-futuro-de-efs-un-nuevo-mantenedor-o-una-eliminacion.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-08-armbian-imager-20-una-herramienta-para-flashear-imagene.md</loc><lastmod>2026-06-08</lastmod><priority>0.8</priority></url>
