@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Mejoras en KDE KWin reducen la latencia de juegos en Linux",
+      "category": "linux",
+      "date": "2026-06-10",
+      "slug": "mejoras-en-kde-kwin-reducen-la-latencia-de-juegos-en-li",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El desarrollador Jakub Okoński ha estado trabajando en reducir la latencia de juegos en Linux para que sea más competitivo con Windows. Ha encontrado algunas mejoras en KDE KWin que pueden ayudar a mejorar la experiencia de juego en Linux.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-10-mejoras-en-kde-kwin-reducen-la-latencia-de-juegos-en-li.md"
+    },
+    {
+      "title": "Linux Firmware Repository se prepara para agentes de codificación AI",
+      "category": "linux",
+      "date": "2026-06-10",
+      "slug": "linux-firmware-repository-se-prepara-para-agentes-de-co",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El Linux Firmware Repository, una base de datos de blobs binarios utilizados por los drivers de kernel Linux, se está preparando para incorporar agentes de codificación AI para contribuir a la gestión de firmware y microcódigo. Esto podría…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-10-linux-firmware-repository-se-prepara-para-agentes-de-co.md"
+    },
+    {
+      "title": "Ubuntu MATE: futuro de la versión 26.04",
+      "category": "linux",
+      "date": "2026-06-10",
+      "slug": "ubuntu-mate-futuro-de-la-version-2604",
+      "tags": [
+        "linux",
+        "ubuntu",
+        "mate"
+      ],
+      "preview": "La versión 26.04 de Ubuntu MATE no se lanzó en abril, pero un nuevo equipo está trabajando para asegurar su futuro. Aunque no hubo un lanzamiento oficial, los desarrolladores siguen trabajando para solucionar problemas y mejorar la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-10-ubuntu-mate-futuro-de-la-version-2604.md"
+    },
+    {
+      "title": "AMDGPU Linux Driver se prepara para pruebas de compatibilidad con HDMI 2.1",
+      "category": "linux",
+      "date": "2026-06-10",
+      "slug": "amdgpu-linux-driver-se-prepara-para-pruebas-de-compatib",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El driver de Linux AMDGPU se está actualizando para cumplir con las normas de compatibilidad de HDMI 2.1. Esto permitirá a los usuarios de AMDGPU utilizar dispositivos HDMI 2.1 de manera más efectiva.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-10-amdgpu-linux-driver-se-prepara-para-pruebas-de-compatib.md"
+    },
+    {
+      "title": "Nueva familia de microcontroladores Astra SRW1500 con procesamiento de IA y Wi-Fi 7",
+      "category": "embebidos",
+      "date": "2026-06-10",
+      "slug": "nueva-familia-de-microcontroladores-astra-srw1500-con-p",
+      "tags": [
+        "ia-local",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Synaptics ha lanzado la familia Astra SRW1500 de microcontroladores de bordo (MCU) con procesamiento de inteligencia artificial (IA) integrado y conectividad Wi-Fi 7, destinados a dispositivos IoT de borde inteligentes. Esto revoluciona la…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-10-nueva-familia-de-microcontroladores-astra-srw1500-con-p.md"
+    },
+    {
+      "title": "Análisis de sistemas embebidos con Tracealyzer",
+      "category": "embebidos",
+      "date": "2026-06-10",
+      "slug": "analisis-de-sistemas-embebidos-con-tracealyzer",
+      "tags": [
+        "embebidos",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Erich Styger utiliza Tracealyzer para analizar sistemas embebidos en su proyecto de investigación. Este enfoque permite recopilar y exportar datos de seguimiento de aplicaciones para su análisis posterior.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-10-analisis-de-sistemas-embebidos-con-tracealyzer.md"
+    },
+    {
+      "title": "Consola de juegos generada por IA con Raspberry Pi",
+      "category": "ia",
+      "date": "2026-06-10",
+      "slug": "consola-de-juegos-generada-por-ia-con-raspberry-pi-3",
+      "tags": [
+        "llms",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "Grigor Todorov ha creado una consola de juegos innovadora que utiliza inteligencia artificial para generar juegos en tiempo real. Esta creación es un ejemplo de cómo la tecnología puede revolucionar el mundo de los juegos.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-10-consola-de-juegos-generada-por-ia-con-raspberry-pi-3.md"
+    },
+    {
+      "title": "OpenCV 5: Nueva biblioteca de visión computacional con soporte para LLM/VLM",
+      "category": "ia",
+      "date": "2026-06-10",
+      "slug": "opencv-5-nueva-biblioteca-de-vision-computacional-con-s",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "La biblioteca de visión computacional OpenCV 5 ha sido lanzada con una nueva motor de redes neuronales que ofrece mejor cobertura de ONNX y soporte para modelos de lenguaje y visión. Esto significa que los modelos con formas dinámicas que…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-10-opencv-5-nueva-biblioteca-de-vision-computacional-con-s.md"
+    },
+    {
+      "title": "NanoPi M6V2: la actualización de la SBC con soporte para micrófonos analógicos",
+      "category": "ia",
+      "date": "2026-06-10",
+      "slug": "nanopi-m6v2-la-actualizacion-de-la-sbc-con-soporte-para",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "FriendlyELEC ha lanzado la actualización de la NanoPi M6, una SBC (Single-Board Computer) basada en el procesador Rockchip RK3588S. Esta nueva versión, llamada NanoPi M6V2, cuenta con un conector de 4 pines para dual entrada de micrófono…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-10-nanopi-m6v2-la-actualizacion-de-la-sbc-con-soporte-para.md"
+    },
+    {
+      "title": "OpenCV 5: un salto importante en visión por computadora",
+      "category": "ia",
+      "date": "2026-06-10",
+      "slug": "opencv-5-un-salto-importante-en-vision-por-computadora",
+      "tags": [
+        "ia-local",
+        "librerias",
+        "codigo"
+      ],
+      "preview": "OpenCV, una de las librerías de visión por computadora más populares, ha lanzado su versión 5. Esta actualización traerá mejoras significativas en la aceleración de hardware, soporte a ONNX, integración con Python y más. Esto significa que…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-10-opencv-5-un-salto-importante-en-vision-por-computadora.md"
+    },
+    {
+      "title": "Robot humanoide que no se cae escaleras: un logro impresionante en robótica",
+      "category": "ia",
+      "date": "2026-06-10",
+      "slug": "robot-humanoide-que-no-se-cae-escaleras-un-logro-impres",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica continúa avanzando a pasos agigantados. Un robot humanoide ha sido capaz de caminar por un tramo de escaleras sin caerse, un logro que pone de relieve la complejidad de la robótica y la necesidad de controladores de equilibrio…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-10-robot-humanoide-que-no-se-cae-escaleras-un-logro-impres.md"
+    },
+    {
+      "title": "ROS 2: ¿Qué parte de tu flujo de trabajo te hace perder la paciencia?",
+      "category": "robotica",
+      "date": "2026-06-10",
+      "slug": "ros-2-que-parte-de-tu-flujo-de-trabajo-te-hace-perder-l",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El proyecto ROS 2 (Robot Operating System 2) es una plataforma de software de código abierto para desarrollar aplicaciones de robótica. Recientemente, se ha estado trabajando en mejorar la experiencia de usuario y resolver problemas…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-10-ros-2-que-parte-de-tu-flujo-de-trabajo-te-hace-perder-l.md"
+    },
+    {
+      "title": "Desarrollo de un trípode biohíbrido con cerebro artificial",
+      "category": "robotica",
+      "date": "2026-06-10",
+      "slug": "desarrollo-de-un-tripode-biohibrido-con-cerebro-artific",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "biotecnologia"
+      ],
+      "preview": "Un equipo de investigación ha propuesto un proyecto para crear un trípode de 20 mm que utiliza tejido nervioso y muscular vivo para moverse de manera autónoma. Este proyecto, llamado Tripodal Thinker, busca conectar la robótica con la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-10-desarrollo-de-un-tripode-biohibrido-con-cerebro-artific.md"
+    },
+    {
+      "title": "Contacto: el próximo gran desafío en la robótica",
+      "category": "robotica",
+      "date": "2026-06-10",
+      "slug": "contacto-el-proximo-gran-desafio-en-la-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "En la conferencia ICRA 2026, AGILINK presentó una demostración impresionante de robótica: una mano robótica que creaba un perro de globo sin estallar. Pero detrás de esta demostración juguetona se escondía un desafío técnico complejo.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-10-contacto-el-proximo-gran-desafio-en-la-robotica.md"
+    },
+    {
+      "title": "La increíble supervivencia de Curiosity, el rover de 13 años en Marte",
+      "category": "robotica",
+      "date": "2026-06-10",
+      "slug": "la-increible-supervivencia-de-curiosity-el-rover-de-13-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "El rover Curiosity, lanzado en 2008, ha sobrevivido durante 13 años en Marte, realizando una impresionante cantidad de misiones científicas y trayectos. La clave de su éxito es la continua actualización de software y la ingeniería de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-10-la-increible-supervivencia-de-curiosity-el-rover-de-13-.md"
+    },
+    {
       "title": "Armbian Imager 2.0: una herramienta para flashear imágenes en más de 300 tableros",
       "category": "linux",
       "date": "2026-06-09",

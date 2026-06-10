@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-09</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-mejoras-en-kde-kwin-reducen-la-latencia-de-juegos-en-li.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-linux-firmware-repository-se-prepara-para-agentes-de-co.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-ubuntu-mate-futuro-de-la-version-2604.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-amdgpu-linux-driver-se-prepara-para-pruebas-de-compatib.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-10-nueva-familia-de-microcontroladores-astra-srw1500-con-p.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-10-analisis-de-sistemas-embebidos-con-tracealyzer.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-10-consola-de-juegos-generada-por-ia-con-raspberry-pi-3.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-10-opencv-5-nueva-biblioteca-de-vision-computacional-con-s.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-10-nanopi-m6v2-la-actualizacion-de-la-sbc-con-soporte-para.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-10-opencv-5-un-salto-importante-en-vision-por-computadora.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-10-robot-humanoide-que-no-se-cae-escaleras-un-logro-impres.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-10-ros-2-que-parte-de-tu-flujo-de-trabajo-te-hace-perder-l.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-10-desarrollo-de-un-tripode-biohibrido-con-cerebro-artific.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-10-contacto-el-proximo-gran-desafio-en-la-robotica.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-10-la-increible-supervivencia-de-curiosity-el-rover-de-13-.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-armbian-imager-20-una-herramienta-para-flashear-image-2.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-rendimiento-de-tarjetas-sd-en-circuitpython-que-funcion.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizacion-de-paquetes-en-ros-lyrical-40-nuevos-y-10.md</loc><lastmod>2026-06-09</lastmod><priority>0.8</priority></url>
