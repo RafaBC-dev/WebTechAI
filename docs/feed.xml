@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 10:49:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 11:19:38 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nueva tarjeta de red Gigabit Ethernet para Linux 7.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-nueva-tarjeta-de-red-gigabit-ethernet-para-linux-72.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-nueva-tarjeta-de-red-gigabit-ethernet-para-linux-72.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha estado trabajando en la implementación de una nueva tarjeta de red Gigabit Ethernet, la Airoha AN8801R, que se espera que esté disponible en la versión 7.2 del kernel Linux. Esta tarjeta es ideal para dispositivos…</description>
+  </item>
+  <item>
+    <title>piBrick PocketCM5: un ordenador portátil Linux basado en Raspberry Pi CM5</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-pibrick-pocketcm5-un-ordenador-portatil-linux-basado-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-pibrick-pocketcm5-un-ordenador-portatil-linux-basado-en.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El ingeniero indonesio Ahmad Amarullah ha diseñado un ordenador portátil Linux llamado piBrick PocketCM5, basado en el Raspberry Pi CM5. Este dispositivo es perfecto para desarrolladores, makers y administradores de sistemas que buscan una…</description>
+  </item>
+  <item>
+    <title>Conecta un display DSI a tu Raspberry Pi para proyectos de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-conecta-un-display-dsi-a-tu-raspberry-pi-para-proyectos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-conecta-un-display-dsi-a-tu-raspberry-pi-para-proyectos.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Si buscas mejorar tus proyectos de robótica con una interfaz de usuario fiable y compacta, la conexión de un display DSI a tu Raspberry Pi es una excelente opción. Con su bajo consumo de energía y baja latencia, es ideal para aplicaciones…</description>
+  </item>
+  <item>
+    <title>Emulador MSX2+ en ESP32-S3 con VGA y optimizaciones para Z80</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-emulador-msx2-en-esp32-s3-con-vga-y-optimizaciones-para.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-emulador-msx2-en-esp32-s3-con-vga-y-optimizaciones-para.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un desarrollador ha creado un emulador de MSX2+ que corre en un microcontrolador ESP32-S3 y reproduce video en VGA. Esta noticia es relevante para los entusiastas de la retroinformática y la robótica.</description>
+  </item>
+  <item>
+    <title>Rig de captura de movimiento óptico DIY con 16 cámaras y procesamiento de 4 billones de píxeles por segundo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rig-de-captura-de-movimiento-optico-diy-con-16-camaras-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rig-de-captura-de-movimiento-optico-diy-con-16-camaras-.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Dennis, un maker y creador de contenido de YouTube, ha desarrollado un rig de captura de movimiento óptico DIY con 16 cámaras que puede procesar 4 billones de píxeles por segundo. Este proyecto busca replicar la tecnología de captura de…</description>
+  </item>
+  <item>
+    <title>PZSDR P047: una placa de radio definida por software con tecnología de punta</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-pzsdr-p047-una-placa-de-radio-definida-por-software-con.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-pzsdr-p047-una-placa-de-radio-definida-por-software-con.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa PZSDR ha lanzado una placa de radio definida por software (SDR) de alta gama basada en la tecnología AMD Zynq UltraScale+ ZU47DR RFSoC. Esta placa es ideal para aplicaciones de comunicación inalámbrica avanzadas como la…</description>
+  </item>
+  <item>
+    <title>Rust Embassy para Raspberry Pi Pico 2: ejemplos y aplicaciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rust-embassy-para-raspberry-pi-pico-2-ejemplos-y-aplica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rust-embassy-para-raspberry-pi-pico-2-ejemplos-y-aplica.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de desarrolladores de Raspberry Pi ha lanzado un conjunto de ejemplos de código en Rust para la nueva placa Raspberry Pi Pico 2, aprovechando la potencia de la arquitectura RP2350 y la plataforma Embassy async.</description>
+  </item>
+  <item>
+    <title>EpisodeVault: Herramienta para depurar problemas de modelos de LeRobot</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-episodevault-herramienta-para-depurar-problemas-de-mode.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-episodevault-herramienta-para-depurar-problemas-de-mode.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Si has trabajado con LeRobot v3 y has experimentado regresiones en tus modelos, sabrás que puede ser difícil identificar la causa raíz. EpisodeVault es una herramienta open source diseñada para ayudarte a depurar estos problemas.</description>
+  </item>
+  <item>
+    <title>Un modelo de lenguaje AI alimentado por un manubrio de mano</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-modelo-de-lenguaje-ai-alimentado-por-un-manubrio-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-modelo-de-lenguaje-ai-alimentado-por-un-manubrio-de-.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de desarrolladores ha creado un modelo de lenguaje AI que se alimenta de energía humana, utilizando un manubrio de mano para cargar un Raspberry Pi 5. Este proyecto busca reducir el impacto ambiental de los modelos de lenguaje AI.</description>
+  </item>
+  <item>
+    <title>Video Friday: Robots humanoides y avances en robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-video-friday-robots-humanoides-y-avances-en-robotica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-video-friday-robots-humanoides-y-avances-en-robotica.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La semana de la robótica ha llegado con un montón de noticias emocionantes. Desde robots humanoides que no se caen escaleras hasta sistemas de colaboración en el trabajo, aquí hay lo que debes saber.</description>
+  </item>
+  <item>
+    <title>Un agente de IA se descontrola en Fedora y otros sistemas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-agente-de-ia-se-descontrola-en-fedora-y-otros-sistem.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-agente-de-ia-se-descontrola-en-fedora-y-otros-sistem.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un agente de inteligencia artificial se ha descontrolado en el proyecto Fedora, reasignando bugs, generando código y enviando solicitudes de pull. La causa del comportamiento anormal es aún desconocida.</description>
+  </item>
+  <item>
+    <title>Inseguridad en completados de código: un problema en la IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-inseguridad-en-completados-de-codigo-un-problema-en-la-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-inseguridad-en-completados-de-codigo-un-problema-en-la-.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El desarrollador de seguridad de la Fundación de Python, Seth Larson, ha descubierto que el plugin de completado de código en PyCharm sugiere código que podría llevar a vulnerabilidades graves. ¿Es esto un problema de seguridad o no?</description>
+  </item>
+  <item>
+    <title>Curiosidad: el rover de 13 años que sigue haciendo ciencia en Marte</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-curiosidad-el-rover-de-13-anos-que-sigue-haciendo-cienc.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-curiosidad-el-rover-de-13-anos-que-sigue-haciendo-cienc.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El rover Curiosidad de la NASA ha superado los 13 años de servicio en Marte, lo que es un logro increíble considerando el entorno hostil y la falta de mantenimiento directo. A pesar de la vejez, sigue enviando datos y fotos de la…</description>
+  </item>
+  <item>
+    <title>Norynth ROS2 Bridge: integración de robots con la plataforma de nube</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-norynth-ros2-bridge-integracion-de-robots-con-la-plataf.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-norynth-ros2-bridge-integracion-de-robots-con-la-plataf.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La empresa Norynth Robotics ha lanzado un paquete ROS2 llamado norynth/ros2-bridge, que permite integrar robots con la plataforma de nube de la empresa. Esto abre la puerta a una gestión más eficiente de flotas de robots y la capacidad de…</description>
+  </item>
+  <item>
+    <title>La próxima era de la robótica: el contacto redefine la manipulación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-la-proxima-era-de-la-robotica-el-contacto-redefine-la-m.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-la-proxima-era-de-la-robotica-el-contacto-redefine-la-m.md</guid>
+    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En la conferencia ICRA 2026, una demostración de AGILINK sorprendió a los asistentes con una habilidad que parece jugar a la robótica: hacer un perro de globo. Pero detrás de esta apariencia juguetona, la realidad es que la manipulación de…</description>
+  </item>
   <item>
     <title>Mejoras en KDE KWin reducen la latencia de juegos en Linux</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-mejoras-en-kde-kwin-reducen-la-latencia-de-juegos-en-li.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>El rover Curiosity, lanzado en 2008, ha sobrevivido durante 13 años en Marte, realizando una impresionante cantidad de misiones científicas y trayectos. La clave de su éxito es la continua actualización de software y la ingeniería de…</description>
-  </item>
-  <item>
-    <title>Armbian Imager 2.0: una herramienta para flashear imágenes en más de 300 tableros</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-armbian-imager-20-una-herramienta-para-flashear-image-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-armbian-imager-20-una-herramienta-para-flashear-image-2.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Armbian ha lanzado la versión 2.0 de su herramienta de flasheo, Armbian Imager, que permite fácilmente instalar imágenes pre-construidas de Ubuntu o Debian en más de 338 tableros de 64 fabricantes diferentes. Esta…</description>
-  </item>
-  <item>
-    <title>Rendimiento de tarjetas SD en CircuitPython: qué funcionan mejor</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-rendimiento-de-tarjetas-sd-en-circuitpython-que-funcion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-rendimiento-de-tarjetas-sd-en-circuitpython-que-funcion.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La velocidad de las tarjetas SD es crucial en proyectos de robótica y electrónica. Un equipo de Adafruit ha realizado un estudio exhaustivo para determinar qué tarjetas y configuraciones funcionan mejor en CircuitPython.</description>
-  </item>
-  <item>
-    <title>Actualización de paquetes en ROS Lyrical: 40 nuevos y 101 actualizados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizacion-de-paquetes-en-ros-lyrical-40-nuevos-y-10.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizacion-de-paquetes-en-ros-lyrical-40-nuevos-y-10.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ROS Lyrical ha anunciado la disponibilidad de 40 nuevos paquetes y 101 actualizaciones. Esta actualización es importante para los desarrolladores de robots y sistemas embebidos que utilizan ROS Lyrical.</description>
-  </item>
-  <item>
-    <title>Ubuntu MATE sigue adelante a pesar de la ausencia de Ubuntu MATE 26.04</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-ubuntu-mate-sigue-adelante-a-pesar-de-la-ausencia-de-ub.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-ubuntu-mate-sigue-adelante-a-pesar-de-la-ausencia-de-ub.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Ubuntu MATE ha estado en estado de alerta después de que Martin Wimpress dejara su cargo como líder del proyecto y no se lanzara la versión 26.04. Sin embargo, la noticia es que Ubuntu MATE seguirá adelante con un nuevo…</description>
-  </item>
-  <item>
-    <title>Actualizaciones en fanotify: un sistema de monitoreo de eventos de archivos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizaciones-en-fanotify-un-sistema-de-monitoreo-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizaciones-en-fanotify-un-sistema-de-monitoreo-de-.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El sistema de monitoreo de eventos de archivos fanotify ha sido actualizado con nuevas características y mejoras en su implementación. Este cambio es relevante para desarrolladores que buscan optimizar la gestión de archivos en sistemas de…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizaciones-de-seguridad-para-sistemas-operativo-18.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-09-actualizaciones-de-seguridad-para-sistemas-operativo-18.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las últimas actualizaciones de seguridad para sistemas operativos como AlmaLinux, Debian, Fedora, Mageia y Slackware incluyen correcciones para vulnerabilidades en paquetes como bind, kernel, chromium, firefox y samba. Estas…</description>
-  </item>
-  <item>
-    <title>Peppe's Ghost: un escáner LiDAR casero con Raspberry Pi 5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-09-peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi-5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-09-peppes-ghost-un-escaner-lidar-casero-con-raspberry-pi-5.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha creado un escáner LiDAR casero utilizando un Raspberry Pi 5 y un diseño 3D impresionado. El proyecto, llamado Peppe's Ghost, captura el mundo como un punto nube y ha generado interés en la comunidad de diseño y robótica.</description>
-  </item>
-  <item>
-    <title>Aprende a desarrollar proyectos con Python en Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-09-aprende-a-desarrollar-proyectos-con-python-en-raspberry.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-09-aprende-a-desarrollar-proyectos-con-python-en-raspberry.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Raspberry Pi ha lanzado un nuevo libro que enseña a desarrollar proyectos avanzados con Python en sus computadoras y microcontroladores. Este libro es ideal para aquellos que han aprendido los fundamentos y buscan llevar sus…</description>
-  </item>
-  <item>
-    <title>Un robot bípede construido con músculos de aire en lugar de motores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-un-robot-bipede-construido-con-musculos-de-aire-en-luga.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-un-robot-bipede-construido-con-musculos-de-aire-en-luga.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>En 1987, Richard Greenhill, un fotógrafo británico, decidió construir un robot humanoide que pudiera realizar tareas útiles, como transportar equipaje. Después de no convencer a su empresa para que lo ayudara, decidió construirlo él mismo…</description>
-  </item>
-  <item>
-    <title>Consola de juegos generada por IA con Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-consola-de-juegos-generada-por-ia-con-raspberry-pi-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-consola-de-juegos-generada-por-ia-con-raspberry-pi-2.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Grigor Todorov ha creado una consola de juegos que utiliza la inteligencia artificial para generar juegos en tiempo real. Esta innovadora creación utiliza un Raspberry Pi y tiene la capacidad de generar juegos nuevos y diferentes cada vez…</description>
-  </item>
-  <item>
-    <title>Video Friday: Robots humanoides que caminan y no se caen</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-video-friday-robots-humanoides-que-caminan-y-no-se-caen.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-video-friday-robots-humanoides-que-caminan-y-no-se-caen.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Esta semana, IEEE Spectrum presenta una selección de videos impresionantes de robots humanoides que caminan sin caerse. ¿Cómo lo logran? ¿Qué tecnologías se utilizan? Descubre los secretos detrás de estos avances en la robótica.</description>
-  </item>
-  <item>
-    <title>OpenAI presenta su oferta pública de acciones y su subsidiaria Tools for Humanity sufre recortes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-openai-presenta-su-oferta-publica-de-acciones-y-su-subs.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-09-openai-presenta-su-oferta-publica-de-acciones-y-su-subs.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI, conocida por su inteligencia artificial, ha presentado su oferta pública de acciones, mientras que su subsidiaria Tools for Humanity, que utiliza escaneos de iris para verificar identidades, sufre recortes debido a problemas de…</description>
-  </item>
-  <item>
-    <title>Robótica omnidireccional extremadamente avanzada</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-robotica-omnidireccional-extremadamente-avanzada-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-robotica-omnidireccional-extremadamente-avanzada-3.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica avanza a pasos agigantados, y ahora tenemos robots que pueden moverse en cualquier dirección sin problemas. En este artículo, exploraremos uno de los ejemplos más impresionantes de robótica omnidireccional.</description>
-  </item>
-  <item>
-    <title>Actualizaciones en Gazebo: mejora de rendimiento y nuevos comitentes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-actualizaciones-en-gazebo-mejora-de-rendimiento-y-nuevo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-actualizaciones-en-gazebo-mejora-de-rendimiento-y-nuevo.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de Gazebo se reunió para discutir actualizaciones y mejoras en el proyecto. Entre ellas, la mejora del rendimiento y la incorporación de nuevos comitentes. Estas mejoras son importantes para la comunidad de robótica y IA.</description>
-  </item>
-  <item>
-    <title>ros_tap: un telemetría sin configuración para robots ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-ros-tap-un-telemetria-sin-configuracion-para-robots-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-09-ros-tap-un-telemetria-sin-configuracion-para-robots-ros.md</guid>
-    <pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador de ROS 2 necesitaba una herramienta para registrar datos de su robot sin tener que configurar nada cada vez que cambiaba el código. Así que creó ros_tap, un telemetría que se conecta automáticamente a la red DDS y registra…</description>
   </item>
 </channel>
 </rss>

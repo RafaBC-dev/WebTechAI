@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-10</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-11</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-nueva-tarjeta-de-red-gigabit-ethernet-para-linux-72.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-pibrick-pocketcm5-un-ordenador-portatil-linux-basado-en.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-conecta-un-display-dsi-a-tu-raspberry-pi-para-proyectos.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-emulador-msx2-en-esp32-s3-con-vga-y-optimizaciones-para.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rig-de-captura-de-movimiento-optico-diy-con-16-camaras-.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-pzsdr-p047-una-placa-de-radio-definida-por-software-con.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rust-embassy-para-raspberry-pi-pico-2-ejemplos-y-aplica.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-episodevault-herramienta-para-depurar-problemas-de-mode.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-modelo-de-lenguaje-ai-alimentado-por-un-manubrio-de-.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-video-friday-robots-humanoides-y-avances-en-robotica.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-agente-de-ia-se-descontrola-en-fedora-y-otros-sistem.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-inseguridad-en-completados-de-codigo-un-problema-en-la-.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-curiosidad-el-rover-de-13-anos-que-sigue-haciendo-cienc.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-norynth-ros2-bridge-integracion-de-robots-con-la-plataf.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-la-proxima-era-de-la-robotica-el-contacto-redefine-la-m.md</loc><lastmod>2026-06-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-mejoras-en-kde-kwin-reducen-la-latencia-de-juegos-en-li.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-linux-firmware-repository-se-prepara-para-agentes-de-co.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-10-ubuntu-mate-futuro-de-la-version-2604.md</loc><lastmod>2026-06-10</lastmod><priority>0.8</priority></url>

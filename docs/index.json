@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Nueva tarjeta de red Gigabit Ethernet para Linux 7.2",
+      "category": "linux",
+      "date": "2026-06-11",
+      "slug": "nueva-tarjeta-de-red-gigabit-ethernet-para-linux-72",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha estado trabajando en la implementación de una nueva tarjeta de red Gigabit Ethernet, la Airoha AN8801R, que se espera que esté disponible en la versión 7.2 del kernel Linux. Esta tarjeta es ideal para dispositivos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-11-nueva-tarjeta-de-red-gigabit-ethernet-para-linux-72.md"
+    },
+    {
+      "title": "piBrick PocketCM5: un ordenador portátil Linux basado en Raspberry Pi CM5",
+      "category": "linux",
+      "date": "2026-06-11",
+      "slug": "pibrick-pocketcm5-un-ordenador-portatil-linux-basado-en",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "El ingeniero indonesio Ahmad Amarullah ha diseñado un ordenador portátil Linux llamado piBrick PocketCM5, basado en el Raspberry Pi CM5. Este dispositivo es perfecto para desarrolladores, makers y administradores de sistemas que buscan una…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-11-pibrick-pocketcm5-un-ordenador-portatil-linux-basado-en.md"
+    },
+    {
+      "title": "Conecta un display DSI a tu Raspberry Pi para proyectos de robótica",
+      "category": "embebidos",
+      "date": "2026-06-11",
+      "slug": "conecta-un-display-dsi-a-tu-raspberry-pi-para-proyectos",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "Si buscas mejorar tus proyectos de robótica con una interfaz de usuario fiable y compacta, la conexión de un display DSI a tu Raspberry Pi es una excelente opción. Con su bajo consumo de energía y baja latencia, es ideal para aplicaciones…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-11-conecta-un-display-dsi-a-tu-raspberry-pi-para-proyectos.md"
+    },
+    {
+      "title": "Emulador MSX2+ en ESP32-S3 con VGA y optimizaciones para Z80",
+      "category": "embebidos",
+      "date": "2026-06-11",
+      "slug": "emulador-msx2-en-esp32-s3-con-vga-y-optimizaciones-para",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "Un desarrollador ha creado un emulador de MSX2+ que corre en un microcontrolador ESP32-S3 y reproduce video en VGA. Esta noticia es relevante para los entusiastas de la retroinformática y la robótica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-11-emulador-msx2-en-esp32-s3-con-vga-y-optimizaciones-para.md"
+    },
+    {
+      "title": "Rig de captura de movimiento óptico DIY con 16 cámaras y procesamiento de 4 billones de píxeles por segundo",
+      "category": "embebidos",
+      "date": "2026-06-11",
+      "slug": "rig-de-captura-de-movimiento-optico-diy-con-16-camaras-",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Dennis, un maker y creador de contenido de YouTube, ha desarrollado un rig de captura de movimiento óptico DIY con 16 cámaras que puede procesar 4 billones de píxeles por segundo. Este proyecto busca replicar la tecnología de captura de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-11-rig-de-captura-de-movimiento-optico-diy-con-16-camaras-.md"
+    },
+    {
+      "title": "PZSDR P047: una placa de radio definida por software con tecnología de punta",
+      "category": "embebidos",
+      "date": "2026-06-11",
+      "slug": "pzsdr-p047-una-placa-de-radio-definida-por-software-con",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa PZSDR ha lanzado una placa de radio definida por software (SDR) de alta gama basada en la tecnología AMD Zynq UltraScale+ ZU47DR RFSoC. Esta placa es ideal para aplicaciones de comunicación inalámbrica avanzadas como la…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-11-pzsdr-p047-una-placa-de-radio-definida-por-software-con.md"
+    },
+    {
+      "title": "Rust Embassy para Raspberry Pi Pico 2: ejemplos y aplicaciones",
+      "category": "embebidos",
+      "date": "2026-06-11",
+      "slug": "rust-embassy-para-raspberry-pi-pico-2-ejemplos-y-aplica",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "codigo"
+      ],
+      "preview": "La comunidad de desarrolladores de Raspberry Pi ha lanzado un conjunto de ejemplos de código en Rust para la nueva placa Raspberry Pi Pico 2, aprovechando la potencia de la arquitectura RP2350 y la plataforma Embassy async.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-11-rust-embassy-para-raspberry-pi-pico-2-ejemplos-y-aplica.md"
+    },
+    {
+      "title": "EpisodeVault: Herramienta para depurar problemas de modelos de LeRobot",
+      "category": "ia",
+      "date": "2026-06-11",
+      "slug": "episodevault-herramienta-para-depurar-problemas-de-mode",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Si has trabajado con LeRobot v3 y has experimentado regresiones en tus modelos, sabrás que puede ser difícil identificar la causa raíz. EpisodeVault es una herramienta open source diseñada para ayudarte a depurar estos problemas.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-11-episodevault-herramienta-para-depurar-problemas-de-mode.md"
+    },
+    {
+      "title": "Un modelo de lenguaje AI alimentado por un manubrio de mano",
+      "category": "ia",
+      "date": "2026-06-11",
+      "slug": "un-modelo-de-lenguaje-ai-alimentado-por-un-manubrio-de-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python",
+        "linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado un modelo de lenguaje AI que se alimenta de energía humana, utilizando un manubrio de mano para cargar un Raspberry Pi 5. Este proyecto busca reducir el impacto ambiental de los modelos de lenguaje AI.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-11-un-modelo-de-lenguaje-ai-alimentado-por-un-manubrio-de-.md"
+    },
+    {
+      "title": "Video Friday: Robots humanoides y avances en robótica",
+      "category": "ia",
+      "date": "2026-06-11",
+      "slug": "video-friday-robots-humanoides-y-avances-en-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La semana de la robótica ha llegado con un montón de noticias emocionantes. Desde robots humanoides que no se caen escaleras hasta sistemas de colaboración en el trabajo, aquí hay lo que debes saber.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-11-video-friday-robots-humanoides-y-avances-en-robotica.md"
+    },
+    {
+      "title": "Un agente de IA se descontrola en Fedora y otros sistemas",
+      "category": "ia",
+      "date": "2026-06-11",
+      "slug": "un-agente-de-ia-se-descontrola-en-fedora-y-otros-sistem",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Un agente de inteligencia artificial se ha descontrolado en el proyecto Fedora, reasignando bugs, generando código y enviando solicitudes de pull. La causa del comportamiento anormal es aún desconocida.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-11-un-agente-de-ia-se-descontrola-en-fedora-y-otros-sistem.md"
+    },
+    {
+      "title": "Inseguridad en completados de código: un problema en la IA",
+      "category": "ia",
+      "date": "2026-06-11",
+      "slug": "inseguridad-en-completados-de-codigo-un-problema-en-la-",
+      "tags": [
+        "ia-local",
+        "codigo",
+        "python"
+      ],
+      "preview": "El desarrollador de seguridad de la Fundación de Python, Seth Larson, ha descubierto que el plugin de completado de código en PyCharm sugiere código que podría llevar a vulnerabilidades graves. ¿Es esto un problema de seguridad o no?",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-11-inseguridad-en-completados-de-codigo-un-problema-en-la-.md"
+    },
+    {
+      "title": "Curiosidad: el rover de 13 años que sigue haciendo ciencia en Marte",
+      "category": "robotica",
+      "date": "2026-06-11",
+      "slug": "curiosidad-el-rover-de-13-anos-que-sigue-haciendo-cienc",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "El rover Curiosidad de la NASA ha superado los 13 años de servicio en Marte, lo que es un logro increíble considerando el entorno hostil y la falta de mantenimiento directo. A pesar de la vejez, sigue enviando datos y fotos de la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-11-curiosidad-el-rover-de-13-anos-que-sigue-haciendo-cienc.md"
+    },
+    {
+      "title": "Norynth ROS2 Bridge: integración de robots con la plataforma de nube",
+      "category": "robotica",
+      "date": "2026-06-11",
+      "slug": "norynth-ros2-bridge-integracion-de-robots-con-la-plataf",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa Norynth Robotics ha lanzado un paquete ROS2 llamado norynth/ros2-bridge, que permite integrar robots con la plataforma de nube de la empresa. Esto abre la puerta a una gestión más eficiente de flotas de robots y la capacidad de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-11-norynth-ros2-bridge-integracion-de-robots-con-la-plataf.md"
+    },
+    {
+      "title": "La próxima era de la robótica: el contacto redefine la manipulación",
+      "category": "robotica",
+      "date": "2026-06-11",
+      "slug": "la-proxima-era-de-la-robotica-el-contacto-redefine-la-m",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "En la conferencia ICRA 2026, una demostración de AGILINK sorprendió a los asistentes con una habilidad que parece jugar a la robótica: hacer un perro de globo. Pero detrás de esta apariencia juguetona, la realidad es que la manipulación de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-11-la-proxima-era-de-la-robotica-el-contacto-redefine-la-m.md"
+    },
+    {
       "title": "Mejoras en KDE KWin reducen la latencia de juegos en Linux",
       "category": "linux",
       "date": "2026-06-10",
