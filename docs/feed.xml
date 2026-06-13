@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 12 Jun 2026 10:59:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 09:52:31 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Scaneo 3D con ROS 2 y LiDAR sin necesidad de SDK</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-scaneo-3d-con-ros-2-y-lidar-sin-necesidad-de-sdk.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-scaneo-3d-con-ros-2-y-lidar-sin-necesidad-de-sdk.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha creado un sistema de escaneo 3D utilizando ROS 2 y un LiDAR 2D sin necesidad de SDK. Este sistema puede ser utilizado en aplicaciones de robótica y automatización.</description>
+  </item>
+  <item>
+    <title>Descubren comportamientos robóticos inusuales con MotionDisco</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-descubren-comportamientos-roboticos-inusuales-con-motio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-descubren-comportamientos-roboticos-inusuales-con-motio.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La investigación en robótica avanza con un nuevo framework que permite descubrir movimientos complejos en robots humanoides. Esto abre la puerta a la creación de robots más autónomos y capaces de realizar tareas complejas.</description>
+  </item>
+  <item>
+    <title>ROS 2 se consolida en la industria robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-ros-2-se-consolida-en-la-industria-robotica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-ros-2-se-consolida-en-la-industria-robotica.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La semana pasada, varias empresas anunciaron su apoyo a ROS 2, lo que indica un crecimiento rápido en la adopción de esta tecnología en la industria robótica. Esto se refleja en la planificación de eventos y reuniones relacionados con ROS…</description>
+  </item>
+  <item>
+    <title>ROS2: comunicación multi-máquina entre WSL2 y Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-ros2-comunicacion-multi-maquina-entre-wsl2-y-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-ros2-comunicacion-multi-maquina-entre-wsl2-y-linux.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un usuario de ROS2 está intentando establecer comunicación entre su máquina local con WSL2 (Ubuntu 22.04) y una plataforma Linux nativa, específicamente la NVIDIA Jetson Orin Nano. Sin embargo, está experimentando problemas para que las…</description>
+  </item>
+  <item>
+    <title>Nueva familia de microcontroladores Fortior FU75xx para control de motores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-nueva-familia-de-microcontroladores-fortior-fu75xx-para.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-nueva-familia-de-microcontroladores-fortior-fu75xx-para.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Fortior Technology ha lanzado la familia de microcontroladores FU75xx, diseñada para controlar motores de manera eficiente y precisa. Estos microcontroladores son ideales para aplicaciones de alta velocidad y control en tiempo real, como…</description>
+  </item>
+  <item>
+    <title>Emulación óptima de MSX en ESP32-S3 con salida VGA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-emulacion-optima-de-msx-en-esp32-s3-con-salida-vga.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-emulacion-optima-de-msx-en-esp32-s3-con-salida-vga.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto S3-MSX-PC ha logrado emular con éxito la consola MSX en un ESP32-S3, aprovechando al máximo las capacidades del procesador Xtensa Lx7. Esto permite jugar a juegos clásicos en una plataforma compacta y potente.</description>
+  </item>
+  <item>
+    <title>M5Stack Capsule v1.1: un controlador IoT con sensores y expansión</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-m5stack-capsule-v11-un-controlador-iot-con-sensores-y-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-m5stack-capsule-v11-un-controlador-iot-con-sensores-y-e.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>M5Stack ha lanzado el Capsule v1.1, un controlador IoT con sensores y expansión que se enfoca en aplicaciones como el control de actitud y seguimiento de movimiento, grabación de audio y reconocimiento de voz, y recolección de datos con…</description>
+  </item>
+  <item>
+    <title>El gobierno estadounidense detiene acceso a modelos de IA de Anthropic por preocupaciones de seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-13-el-gobierno-estadounidense-detiene-acceso-a-modelos-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-13-el-gobierno-estadounidense-detiene-acceso-a-modelos-de-.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El gobierno estadounidense ha ordenado a Anthropic cerrar acceso a dos de sus modelos de IA más poderosos, Claude Fable 5 y Claude Mythos 5, debido a preocupaciones de seguridad. Anthropic argumenta que la medida es excesiva y que su…</description>
+  </item>
+  <item>
+    <title>Investigadora destaca método para entrenar robots con suposiciones informadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-13-investigadora-destaca-metodo-para-entrenar-robots-con-s.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-13-investigadora-destaca-metodo-para-entrenar-robots-con-s.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La investigadora Yen-Ling Kuo, de la Universidad de Virginia, ha desarrollado un método innovador para entrenar robots a hacer suposiciones informadas en situaciones desconocidas. Este avance podría mejorar la eficiencia en la recopilación…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-actualizaciones-de-seguridad-para-sistemas-operativo-19.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-actualizaciones-de-seguridad-para-sistemas-operativo-19.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Los desarrolladores de varias distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diferentes paquetes. Estas actualizaciones afectan a sistemas operativos como AlmaLinux, Debian, Fedora,…</description>
+  </item>
+  <item>
+    <title>Incidente de malware en Arch Linux: más de 1.500 paquetes afectados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-incidente-de-malware-en-arch-linux-mas-de-1500-paquetes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-incidente-de-malware-en-arch-linux-mas-de-1500-paquetes.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Arch Linux ha estado enfrentando un grave incidente de malware en su repositorio de paquetes AUR. Aunque inicialmente se pensaba que solo 400 paquetes estaban comprometidos, la cifra se ha elevado a más de 1.500. Los…</description>
+  </item>
+  <item>
+    <title>GentleOS: un sistema operativo simple para ordenadores antiguos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-gentleos-un-sistema-operativo-simple-para-ordenadores-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-gentleos-un-sistema-operativo-simple-para-ordenadores-a.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>GentleOS es un sistema operativo minimalista diseñado para ordenadores antiguos con procesadores x86 de 16 y 32 bits. Se puede ejecutar en máquinas con pocos recursos y ofrece una interfaz gráfica básica y limpia.</description>
+  </item>
+  <item>
+    <title>Wine 11.11: Mejoras en el driver Wayland para juegos y aplicaciones de Windows</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-wine-1111-mejoras-en-el-driver-wayland-para-juegos-y-ap.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-wine-1111-mejoras-en-el-driver-wayland-para-juegos-y-ap.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Wine, el software que permite ejecutar juegos y aplicaciones de Windows en Linux, ha lanzado su versión 11.11 con importantes mejoras en su driver Wayland. Esto significa que los usuarios de Linux pueden disfrutar de una experiencia más…</description>
+  </item>
+  <item>
+    <title>Cientos de paquetes AUR comprometidos por malware</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-cientos-de-paquetes-aur-comprometidos-por-malware.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-cientos-de-paquetes-aur-comprometidos-por-malware.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un atacante ha comprometido cientos de paquetes en el Arch User Repository (AUR), lo que podría permitir el robo de datos sensibles. Los usuarios de Arch Linux deben verificar si han instalado actualizaciones comprometidas.</description>
+  </item>
+  <item>
+    <title>ESP32-E22: módulo WiFi 6E y Bluetooth 5.4 con certificación Wi-Fi CERTIFIED</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-esp32-e22-modulo-wifi-6e-y-bluetooth-54-con-certificaci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-esp32-e22-modulo-wifi-6e-y-bluetooth-54-con-certificaci.md</guid>
+    <pubDate>Sat, 13 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El módulo ESP32-E22 de Espressif ha obtenido la certificación Wi-Fi CERTIFIED, lo que garantiza su compatibilidad con estándares de WiFi 6E y Bluetooth 5.4. Además, se han lanzado drivers de Linux y Windows para este chip.</description>
+  </item>
   <item>
     <title>Theker, la startup que revoluciona la robótica con máquinas reconfigurables</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-12-theker-la-startup-que-revoluciona-la-robotica-con-maqui.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 12 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>El proyecto Wine Wayland continúa mejorando para que los juegos y aplicaciones de Windows puedan ejecutarse de forma nativa en Linux sin necesidad de X11/XWayland. La última mejora es la implementación de la transparencia en Wayland.</description>
-  </item>
-  <item>
-    <title>Norynth ROS2 Bridge: integración de robots con la plataforma de nube</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-norynth-ros2-bridge-integracion-de-robots-con-la-plataf.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-norynth-ros2-bridge-integracion-de-robots-con-la-plataf.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa Norynth Robotics ha lanzado un paquete ROS2 llamado norynth/ros2-bridge, que permite integrar robots con la plataforma de nube de la empresa. Esto abre la puerta a una gestión más eficiente de flotas de robots y la capacidad de…</description>
-  </item>
-  <item>
-    <title>Curiosidad: el rover de 13 años que sigue haciendo ciencia en Marte</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-curiosidad-el-rover-de-13-anos-que-sigue-haciendo-cienc.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-curiosidad-el-rover-de-13-anos-que-sigue-haciendo-cienc.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El rover Curiosidad de la NASA ha superado los 13 años de servicio en Marte, lo que es un logro increíble considerando el entorno hostil y la falta de mantenimiento directo. A pesar de la vejez, sigue enviando datos y fotos de la…</description>
-  </item>
-  <item>
-    <title>La próxima era de la robótica: el contacto redefine la manipulación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-la-proxima-era-de-la-robotica-el-contacto-redefine-la-m.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-11-la-proxima-era-de-la-robotica-el-contacto-redefine-la-m.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En la conferencia ICRA 2026, una demostración de AGILINK sorprendió a los asistentes con una habilidad que parece jugar a la robótica: hacer un perro de globo. Pero detrás de esta apariencia juguetona, la realidad es que la manipulación de…</description>
-  </item>
-  <item>
-    <title>Emulador MSX2+ en ESP32-S3 con VGA y optimizaciones para Z80</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-emulador-msx2-en-esp32-s3-con-vga-y-optimizaciones-para.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-emulador-msx2-en-esp32-s3-con-vga-y-optimizaciones-para.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un desarrollador ha creado un emulador de MSX2+ que corre en un microcontrolador ESP32-S3 y reproduce video en VGA. Esta noticia es relevante para los entusiastas de la retroinformática y la robótica.</description>
-  </item>
-  <item>
-    <title>Rig de captura de movimiento óptico DIY con 16 cámaras y procesamiento de 4 billones de píxeles por segundo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rig-de-captura-de-movimiento-optico-diy-con-16-camaras-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rig-de-captura-de-movimiento-optico-diy-con-16-camaras-.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Dennis, un maker y creador de contenido de YouTube, ha desarrollado un rig de captura de movimiento óptico DIY con 16 cámaras que puede procesar 4 billones de píxeles por segundo. Este proyecto busca replicar la tecnología de captura de…</description>
-  </item>
-  <item>
-    <title>Rust Embassy para Raspberry Pi Pico 2: ejemplos y aplicaciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rust-embassy-para-raspberry-pi-pico-2-ejemplos-y-aplica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-rust-embassy-para-raspberry-pi-pico-2-ejemplos-y-aplica.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de desarrolladores de Raspberry Pi ha lanzado un conjunto de ejemplos de código en Rust para la nueva placa Raspberry Pi Pico 2, aprovechando la potencia de la arquitectura RP2350 y la plataforma Embassy async.</description>
-  </item>
-  <item>
-    <title>PZSDR P047: una placa de radio definida por software con tecnología de punta</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-pzsdr-p047-una-placa-de-radio-definida-por-software-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-pzsdr-p047-una-placa-de-radio-definida-por-software-con.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa PZSDR ha lanzado una placa de radio definida por software (SDR) de alta gama basada en la tecnología AMD Zynq UltraScale+ ZU47DR RFSoC. Esta placa es ideal para aplicaciones de comunicación inalámbrica avanzadas como la…</description>
-  </item>
-  <item>
-    <title>Conecta un display DSI a tu Raspberry Pi para proyectos de robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-conecta-un-display-dsi-a-tu-raspberry-pi-para-proyectos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-11-conecta-un-display-dsi-a-tu-raspberry-pi-para-proyectos.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Si buscas mejorar tus proyectos de robótica con una interfaz de usuario fiable y compacta, la conexión de un display DSI a tu Raspberry Pi es una excelente opción. Con su bajo consumo de energía y baja latencia, es ideal para aplicaciones…</description>
-  </item>
-  <item>
-    <title>Video Friday: Robots humanoides y avances en robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-video-friday-robots-humanoides-y-avances-en-robotica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-video-friday-robots-humanoides-y-avances-en-robotica.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La semana de la robótica ha llegado con un montón de noticias emocionantes. Desde robots humanoides que no se caen escaleras hasta sistemas de colaboración en el trabajo, aquí hay lo que debes saber.</description>
-  </item>
-  <item>
-    <title>EpisodeVault: Herramienta para depurar problemas de modelos de LeRobot</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-episodevault-herramienta-para-depurar-problemas-de-mode.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-episodevault-herramienta-para-depurar-problemas-de-mode.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Si has trabajado con LeRobot v3 y has experimentado regresiones en tus modelos, sabrás que puede ser difícil identificar la causa raíz. EpisodeVault es una herramienta open source diseñada para ayudarte a depurar estos problemas.</description>
-  </item>
-  <item>
-    <title>Inseguridad en completados de código: un problema en la IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-inseguridad-en-completados-de-codigo-un-problema-en-la-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-inseguridad-en-completados-de-codigo-un-problema-en-la-.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El desarrollador de seguridad de la Fundación de Python, Seth Larson, ha descubierto que el plugin de completado de código en PyCharm sugiere código que podría llevar a vulnerabilidades graves. ¿Es esto un problema de seguridad o no?</description>
-  </item>
-  <item>
-    <title>Un modelo de lenguaje AI alimentado por un manubrio de mano</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-modelo-de-lenguaje-ai-alimentado-por-un-manubrio-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-modelo-de-lenguaje-ai-alimentado-por-un-manubrio-de-.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de desarrolladores ha creado un modelo de lenguaje AI que se alimenta de energía humana, utilizando un manubrio de mano para cargar un Raspberry Pi 5. Este proyecto busca reducir el impacto ambiental de los modelos de lenguaje AI.</description>
-  </item>
-  <item>
-    <title>Un agente de IA se descontrola en Fedora y otros sistemas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-agente-de-ia-se-descontrola-en-fedora-y-otros-sistem.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-11-un-agente-de-ia-se-descontrola-en-fedora-y-otros-sistem.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un agente de inteligencia artificial se ha descontrolado en el proyecto Fedora, reasignando bugs, generando código y enviando solicitudes de pull. La causa del comportamiento anormal es aún desconocida.</description>
-  </item>
-  <item>
-    <title>Nueva tarjeta de red Gigabit Ethernet para Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-nueva-tarjeta-de-red-gigabit-ethernet-para-linux-72.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-nueva-tarjeta-de-red-gigabit-ethernet-para-linux-72.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha estado trabajando en la implementación de una nueva tarjeta de red Gigabit Ethernet, la Airoha AN8801R, que se espera que esté disponible en la versión 7.2 del kernel Linux. Esta tarjeta es ideal para dispositivos…</description>
-  </item>
-  <item>
-    <title>piBrick PocketCM5: un ordenador portátil Linux basado en Raspberry Pi CM5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-pibrick-pocketcm5-un-ordenador-portatil-linux-basado-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-11-pibrick-pocketcm5-un-ordenador-portatil-linux-basado-en.md</guid>
-    <pubDate>Thu, 11 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El ingeniero indonesio Ahmad Amarullah ha diseñado un ordenador portátil Linux llamado piBrick PocketCM5, basado en el Raspberry Pi CM5. Este dispositivo es perfecto para desarrolladores, makers y administradores de sistemas que buscan una…</description>
   </item>
 </channel>
 </rss>

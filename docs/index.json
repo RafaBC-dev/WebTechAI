@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Scaneo 3D con ROS 2 y LiDAR sin necesidad de SDK",
+      "category": "robotica",
+      "date": "2026-06-13",
+      "slug": "scaneo-3d-con-ros-2-y-lidar-sin-necesidad-de-sdk",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado un sistema de escaneo 3D utilizando ROS 2 y un LiDAR 2D sin necesidad de SDK. Este sistema puede ser utilizado en aplicaciones de robótica y automatización.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-13-scaneo-3d-con-ros-2-y-lidar-sin-necesidad-de-sdk.md"
+    },
+    {
+      "title": "Descubren comportamientos robóticos inusuales con MotionDisco",
+      "category": "robotica",
+      "date": "2026-06-13",
+      "slug": "descubren-comportamientos-roboticos-inusuales-con-motio",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "La investigación en robótica avanza con un nuevo framework que permite descubrir movimientos complejos en robots humanoides. Esto abre la puerta a la creación de robots más autónomos y capaces de realizar tareas complejas.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-13-descubren-comportamientos-roboticos-inusuales-con-motio.md"
+    },
+    {
+      "title": "ROS 2 se consolida en la industria robótica",
+      "category": "robotica",
+      "date": "2026-06-13",
+      "slug": "ros-2-se-consolida-en-la-industria-robotica",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La semana pasada, varias empresas anunciaron su apoyo a ROS 2, lo que indica un crecimiento rápido en la adopción de esta tecnología en la industria robótica. Esto se refleja en la planificación de eventos y reuniones relacionados con ROS…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-13-ros-2-se-consolida-en-la-industria-robotica.md"
+    },
+    {
+      "title": "ROS2: comunicación multi-máquina entre WSL2 y Linux",
+      "category": "robotica",
+      "date": "2026-06-13",
+      "slug": "ros2-comunicacion-multi-maquina-entre-wsl2-y-linux",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un usuario de ROS2 está intentando establecer comunicación entre su máquina local con WSL2 (Ubuntu 22.04) y una plataforma Linux nativa, específicamente la NVIDIA Jetson Orin Nano. Sin embargo, está experimentando problemas para que las…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-13-ros2-comunicacion-multi-maquina-entre-wsl2-y-linux.md"
+    },
+    {
+      "title": "Nueva familia de microcontroladores Fortior FU75xx para control de motores",
+      "category": "embebidos",
+      "date": "2026-06-13",
+      "slug": "nueva-familia-de-microcontroladores-fortior-fu75xx-para",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Fortior Technology ha lanzado la familia de microcontroladores FU75xx, diseñada para controlar motores de manera eficiente y precisa. Estos microcontroladores son ideales para aplicaciones de alta velocidad y control en tiempo real, como…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-13-nueva-familia-de-microcontroladores-fortior-fu75xx-para.md"
+    },
+    {
+      "title": "Emulación óptima de MSX en ESP32-S3 con salida VGA",
+      "category": "embebidos",
+      "date": "2026-06-13",
+      "slug": "emulacion-optima-de-msx-en-esp32-s3-con-salida-vga",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "El proyecto S3-MSX-PC ha logrado emular con éxito la consola MSX en un ESP32-S3, aprovechando al máximo las capacidades del procesador Xtensa Lx7. Esto permite jugar a juegos clásicos en una plataforma compacta y potente.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-13-emulacion-optima-de-msx-en-esp32-s3-con-salida-vga.md"
+    },
+    {
+      "title": "M5Stack Capsule v1.1: un controlador IoT con sensores y expansión",
+      "category": "embebidos",
+      "date": "2026-06-13",
+      "slug": "m5stack-capsule-v11-un-controlador-iot-con-sensores-y-e",
+      "tags": [
+        "robotica",
+        "esp32",
+        "arduino"
+      ],
+      "preview": "M5Stack ha lanzado el Capsule v1.1, un controlador IoT con sensores y expansión que se enfoca en aplicaciones como el control de actitud y seguimiento de movimiento, grabación de audio y reconocimiento de voz, y recolección de datos con…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-13-m5stack-capsule-v11-un-controlador-iot-con-sensores-y-e.md"
+    },
+    {
+      "title": "El gobierno estadounidense detiene acceso a modelos de IA de Anthropic por preocupaciones de seguridad",
+      "category": "ia",
+      "date": "2026-06-13",
+      "slug": "el-gobierno-estadounidense-detiene-acceso-a-modelos-de-",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "El gobierno estadounidense ha ordenado a Anthropic cerrar acceso a dos de sus modelos de IA más poderosos, Claude Fable 5 y Claude Mythos 5, debido a preocupaciones de seguridad. Anthropic argumenta que la medida es excesiva y que su…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-13-el-gobierno-estadounidense-detiene-acceso-a-modelos-de-.md"
+    },
+    {
+      "title": "Investigadora destaca método para entrenar robots con suposiciones informadas",
+      "category": "ia",
+      "date": "2026-06-13",
+      "slug": "investigadora-destaca-metodo-para-entrenar-robots-con-s",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La investigadora Yen-Ling Kuo, de la Universidad de Virginia, ha desarrollado un método innovador para entrenar robots a hacer suposiciones informadas en situaciones desconocidas. Este avance podría mejorar la eficiencia en la recopilación…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-13-investigadora-destaca-metodo-para-entrenar-robots-con-s.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-06-13",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-19",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Los desarrolladores de varias distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diferentes paquetes. Estas actualizaciones afectan a sistemas operativos como AlmaLinux, Debian, Fedora,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-13-actualizaciones-de-seguridad-para-sistemas-operativo-19.md"
+    },
+    {
+      "title": "Incidente de malware en Arch Linux: más de 1.500 paquetes afectados",
+      "category": "linux",
+      "date": "2026-06-13",
+      "slug": "incidente-de-malware-en-arch-linux-mas-de-1500-paquetes",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Arch Linux ha estado enfrentando un grave incidente de malware en su repositorio de paquetes AUR. Aunque inicialmente se pensaba que solo 400 paquetes estaban comprometidos, la cifra se ha elevado a más de 1.500. Los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-13-incidente-de-malware-en-arch-linux-mas-de-1500-paquetes.md"
+    },
+    {
+      "title": "GentleOS: un sistema operativo simple para ordenadores antiguos",
+      "category": "linux",
+      "date": "2026-06-13",
+      "slug": "gentleos-un-sistema-operativo-simple-para-ordenadores-a",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "GentleOS es un sistema operativo minimalista diseñado para ordenadores antiguos con procesadores x86 de 16 y 32 bits. Se puede ejecutar en máquinas con pocos recursos y ofrece una interfaz gráfica básica y limpia.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-13-gentleos-un-sistema-operativo-simple-para-ordenadores-a.md"
+    },
+    {
+      "title": "Wine 11.11: Mejoras en el driver Wayland para juegos y aplicaciones de Windows",
+      "category": "linux",
+      "date": "2026-06-13",
+      "slug": "wine-1111-mejoras-en-el-driver-wayland-para-juegos-y-ap",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Wine, el software que permite ejecutar juegos y aplicaciones de Windows en Linux, ha lanzado su versión 11.11 con importantes mejoras en su driver Wayland. Esto significa que los usuarios de Linux pueden disfrutar de una experiencia más…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-13-wine-1111-mejoras-en-el-driver-wayland-para-juegos-y-ap.md"
+    },
+    {
+      "title": "Cientos de paquetes AUR comprometidos por malware",
+      "category": "linux",
+      "date": "2026-06-13",
+      "slug": "cientos-de-paquetes-aur-comprometidos-por-malware",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Un atacante ha comprometido cientos de paquetes en el Arch User Repository (AUR), lo que podría permitir el robo de datos sensibles. Los usuarios de Arch Linux deben verificar si han instalado actualizaciones comprometidas.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-13-cientos-de-paquetes-aur-comprometidos-por-malware.md"
+    },
+    {
+      "title": "ESP32-E22: módulo WiFi 6E y Bluetooth 5.4 con certificación Wi-Fi CERTIFIED",
+      "category": "linux",
+      "date": "2026-06-13",
+      "slug": "esp32-e22-modulo-wifi-6e-y-bluetooth-54-con-certificaci",
+      "tags": [
+        "esp32",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "El módulo ESP32-E22 de Espressif ha obtenido la certificación Wi-Fi CERTIFIED, lo que garantiza su compatibilidad con estándares de WiFi 6E y Bluetooth 5.4. Además, se han lanzado drivers de Linux y Windows para este chip.",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-13-esp32-e22-modulo-wifi-6e-y-bluetooth-54-con-certificaci.md"
+    },
+    {
       "title": "Theker, la startup que revoluciona la robótica con máquinas reconfigurables",
       "category": "robotica",
       "date": "2026-06-12",

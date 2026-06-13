@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-12</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-12</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-13</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-scaneo-3d-con-ros-2-y-lidar-sin-necesidad-de-sdk.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-descubren-comportamientos-roboticos-inusuales-con-motio.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-ros-2-se-consolida-en-la-industria-robotica.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-ros2-comunicacion-multi-maquina-entre-wsl2-y-linux.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-nueva-familia-de-microcontroladores-fortior-fu75xx-para.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-emulacion-optima-de-msx-en-esp32-s3-con-salida-vga.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-13-m5stack-capsule-v11-un-controlador-iot-con-sensores-y-e.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-13-el-gobierno-estadounidense-detiene-acceso-a-modelos-de-.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-13-investigadora-destaca-metodo-para-entrenar-robots-con-s.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-actualizaciones-de-seguridad-para-sistemas-operativo-19.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-incidente-de-malware-en-arch-linux-mas-de-1500-paquetes.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-gentleos-un-sistema-operativo-simple-para-ordenadores-a.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-wine-1111-mejoras-en-el-driver-wayland-para-juegos-y-ap.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-cientos-de-paquetes-aur-comprometidos-por-malware.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-13-esp32-e22-modulo-wifi-6e-y-bluetooth-54-con-certificaci.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-12-theker-la-startup-que-revoluciona-la-robotica-con-maqui.md</loc><lastmod>2026-06-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-12-navegacion-autonoma-con-lekiwi-y-nav2-un-paso-adelante-.md</loc><lastmod>2026-06-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-12-la-tecnologia-de-contacto-revoluciona-la-robotica-con-l.md</loc><lastmod>2026-06-12</lastmod><priority>0.8</priority></url>
