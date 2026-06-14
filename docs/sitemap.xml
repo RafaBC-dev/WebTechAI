@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-13</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-14</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-descubrimiento-de-movimientos-roboticos-innovadores.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-lsep-v02-una-implementacion-de-referencia-de-ros-2-para.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-despliegue-de-un-swarm-de-5-drones-autonomos-con-ros-2-.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-un-stack-de-robotica-movil-escrito-desde-cero-para-apre.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-noticias-de-python-en-microcontroladores-suscribete-g-5.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-un-tablero-de-ajedrez-con-piezas-que-se-mueven-solas.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-m5stack-capsule-v11-un-controlador-iot-con-esp32-s3-y-s.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-investigadora-de-la-universidad-de-virginia-desarrolla-.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-antropico-suspende-acceso-a-modelos-de-ia-por-orden-del.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-intel-detiene-el-desarrollo-de-bigdl-un-proyecto-de-ia-.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-modelos-de-lenguaje-visual-entrenan-robots-para-leer-em.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-llega-pkgcli-una-interfaz-de-linea-de-comandos-moderna-.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-pakages-aur-comprometidos-que-hacer-si-eres-usuario-de-.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-actualizaciones-de-seguridad-para-sistemas-operativo-20.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-esp32-e22-modulo-wi-fi-6e-y-bluetooth-54-con-certificac.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-scaneo-3d-con-ros-2-y-lidar-sin-necesidad-de-sdk.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-descubren-comportamientos-roboticos-inusuales-con-motio.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-13-ros-2-se-consolida-en-la-industria-robotica.md</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>

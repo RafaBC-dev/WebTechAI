@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Descubrimiento de movimientos robóticos innovadores",
+      "category": "robotica",
+      "date": "2026-06-14",
+      "slug": "descubrimiento-de-movimientos-roboticos-innovadores",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "La robótica sigue avanzando a pasos agigantados, y recientemente se ha presentado un framework llamado MotionDisco que permite descubrir movimientos robóticos complejos de manera autónoma. Esto podría revolucionar la forma en que los…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-14-descubrimiento-de-movimientos-roboticos-innovadores.md"
+    },
+    {
+      "title": "LSEP v0.2: una implementación de referencia de ROS 2 para robótica",
+      "category": "robotica",
+      "date": "2026-06-14",
+      "slug": "lsep-v02-una-implementacion-de-referencia-de-ros-2-para",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica ha recibido una actualización importante con la versión 0.2 de LSEP (Layered State Estimation Protocol), un protocolo de estimación de estados jerárquico para robótica. Esta versión incluye una implementación de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-14-lsep-v02-una-implementacion-de-referencia-de-ros-2-para.md"
+    },
+    {
+      "title": "Despliegue de un swarm de 5 drones autónomos con ROS 2 y micro-ROS",
+      "category": "robotica",
+      "date": "2026-06-14",
+      "slug": "despliegue-de-un-swarm-de-5-drones-autonomos-con-ros-2-",
+      "tags": [
+        "robotica",
+        "drones",
+        "ros2"
+      ],
+      "preview": "Un equipo de desarrolladores ha lanzado un swarm de 5 drones autónomos que utiliza la tecnología ROS 2 y micro-ROS para coordinar sus acciones. Este proyecto es relevante ahora mismo debido a su aplicación en la robótica y la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-14-despliegue-de-un-swarm-de-5-drones-autonomos-con-ros-2-.md"
+    },
+    {
+      "title": "Un stack de robótica móvil escrito desde cero para aprender",
+      "category": "robotica",
+      "date": "2026-06-14",
+      "slug": "un-stack-de-robotica-movil-escrito-desde-cero-para-apre",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un desarrollador ha lanzado un proyecto de código abierto para crear un stack de robótica móvil desde cero, con el objetivo de entender mejor la tecnología detrás de la robótica",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-14-un-stack-de-robotica-movil-escrito-desde-cero-para-apre.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: Suscríbete gratis",
+      "category": "embebidos",
+      "date": "2026-06-14",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-g-5",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "La comunidad de Python en microcontroladores ha crecido significativamente en los últimos años. Para mantenerse al día con las últimas noticias y proyectos, es fundamental tener acceso a una fuente confiable y actualizada. La newsletter de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-14-noticias-de-python-en-microcontroladores-suscribete-g-5.md"
+    },
+    {
+      "title": "Un tablero de ajedrez con piezas que se mueven solas",
+      "category": "embebidos",
+      "date": "2026-06-14",
+      "slug": "un-tablero-de-ajedrez-con-piezas-que-se-mueven-solas",
+      "tags": [
+        "robotica",
+        "esp32",
+        "python"
+      ],
+      "preview": "Un proyecto innovador en robótica y tecnología ha dado vida a un tablero de ajedrez con piezas que se mueven por sí mismas, utilizando tecnología de IoT y control de motores.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-14-un-tablero-de-ajedrez-con-piezas-que-se-mueven-solas.md"
+    },
+    {
+      "title": "M5Stack Capsule v1.1: un controlador IoT con ESP32-S3 y sensores",
+      "category": "embebidos",
+      "date": "2026-06-14",
+      "slug": "m5stack-capsule-v11-un-controlador-iot-con-esp32-s3-y-s",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "esp32"
+      ],
+      "preview": "M5Stack ha lanzado el Capsule v1.1, un controlador IoT con ESP32-S3 y sensores que promete revolucionar la automatización y el desarrollo de sistemas embebidos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-14-m5stack-capsule-v11-un-controlador-iot-con-esp32-s3-y-s.md"
+    },
+    {
+      "title": "Investigadora de la Universidad de Virginia desarrolla un método para mejorar la toma de decisiones de los robots",
+      "category": "ia",
+      "date": "2026-06-14",
+      "slug": "investigadora-de-la-universidad-de-virginia-desarrolla-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Yen-Ling Kuo, una destacada investigadora de la Universidad de Virginia, ha desarrollado un método innovador para mejorar la capacidad de los robots para tomar decisiones informadas en situaciones desconocidas. Este avance puede…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-14-investigadora-de-la-universidad-de-virginia-desarrolla-.md"
+    },
+    {
+      "title": "Antrópico suspende acceso a modelos de IA por orden del gobierno estadounidense",
+      "category": "ia",
+      "date": "2026-06-14",
+      "slug": "antropico-suspende-acceso-a-modelos-de-ia-por-orden-del",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "La empresa de inteligencia artificial Anthropic ha suspendido acceso a sus modelos de IA más recientes, Fable 5 y Mythos 5, debido a una orden del gobierno estadounidense. Esto ha generado preocupación en la industria tecnológica y ha…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-14-antropico-suspende-acceso-a-modelos-de-ia-por-orden-del.md"
+    },
+    {
+      "title": "Intel detiene el desarrollo de BigDL, un proyecto de IA y LLM abiertos",
+      "category": "ia",
+      "date": "2026-06-14",
+      "slug": "intel-detiene-el-desarrollo-de-bigdl-un-proyecto-de-ia-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Intel ha anunciado que detiene el desarrollo de BigDL, un proyecto de código abierto que permite ejecutar modelos de lenguaje grande en una variedad de plataformas, incluyendo procesadores Intel y GPUs. Esto se debe a una reestructuración…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-14-intel-detiene-el-desarrollo-de-bigdl-un-proyecto-de-ia-.md"
+    },
+    {
+      "title": "Modelos de lenguaje visual entrenan robots para leer emociones humanas",
+      "category": "ia",
+      "date": "2026-06-14",
+      "slug": "modelos-de-lenguaje-visual-entrenan-robots-para-leer-em",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Los robots pueden ser más efectivos al trabajar con humanos si pueden leer sus emociones. Un estudio reciente ha entrenado robots para reconocer emociones humanas mediante la combinación de expresiones faciales y factores contextuales.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-14-modelos-de-lenguaje-visual-entrenan-robots-para-leer-em.md"
+    },
+    {
+      "title": "Llega pkgcli, una interfaz de línea de comandos moderna y amigable",
+      "category": "linux",
+      "date": "2026-06-14",
+      "slug": "llega-pkgcli-una-interfaz-de-linea-de-comandos-moderna-",
+      "tags": [
+        "linux",
+        "herramientas",
+        "codigo"
+      ],
+      "preview": "Después de casi dos décadas, se ha lanzado una nueva herramienta para gestionar paquetes en Linux, diseñada para ser más fácil de usar y con una experiencia de scripting mejorada. pkgcli es el nombre de esta herramienta, que se ha…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-14-llega-pkgcli-una-interfaz-de-linea-de-comandos-moderna-.md"
+    },
+    {
+      "title": "Pakages AUR comprometidos: ¿qué hacer si eres usuario de Arch Linux?",
+      "category": "linux",
+      "date": "2026-06-14",
+      "slug": "pakages-aur-comprometidos-que-hacer-si-eres-usuario-de-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Arch Linux ha detectado un ataque a la base de datos de paquetes AUR, lo que ha permitido a un atacante introducir un paquete malicioso. Es posible que usuarios de Arch Linux hayan instalado actualizaciones comprometidas.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-14-pakages-aur-comprometidos-que-hacer-si-eres-usuario-de-.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-06-14",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-20",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "La seguridad es un tema fundamental en la era digital. Los proveedores de sistemas operativos como AlmaLinux, Debian, Fedora, Mageia, Red Hat y SUSE han lanzado actualizaciones de seguridad para proteger a los usuarios contra posibles…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-14-actualizaciones-de-seguridad-para-sistemas-operativo-20.md"
+    },
+    {
+      "title": "ESP32-E22: módulo Wi-Fi 6E y Bluetooth 5.4 con certificación Wi-Fi CERTIFIED",
+      "category": "linux",
+      "date": "2026-06-14",
+      "slug": "esp32-e22-modulo-wi-fi-6e-y-bluetooth-54-con-certificac",
+      "tags": [
+        "esp32",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Espressif ha obtenido la certificación Wi-Fi CERTIFIED para su módulo ESP32-E22, que cuenta con Wi-Fi 6E y Bluetooth 5.4. Además, ha lanzado drivers de Linux para el chip.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-14-esp32-e22-modulo-wi-fi-6e-y-bluetooth-54-con-certificac.md"
+    },
+    {
       "title": "Scaneo 3D con ROS 2 y LiDAR sin necesidad de SDK",
       "category": "robotica",
       "date": "2026-06-13",
