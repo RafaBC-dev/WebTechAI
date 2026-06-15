@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-14</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-15</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-15</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-descubrimiento-de-movimientos-roboticos-un-avance-en-la.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-qerra-v2-evaluacion-etica-y-seguridad-fisica-para-arbol.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-ros2-studio-actualizacion-con-nuevas-caracteristicas-en.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-control-visual-de-robots-aereos-con-precision.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-15-maker-monday-proyectos-innovadores-con-raspberry-pi.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-15-caja-de-almacenamiento-ikea-una-cubierta-impresora-aseq.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-15-investigadora-destaca-metodo-para-entrenar-robots-a-adi.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-15-modelos-de-lenguaje-visual-entrenan-a-robots-para-leer-.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-15-kernel-linux-71-nuevas-caracteristicas-y-mejoras-signif.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-15-mejora-en-linux-72-para-comunicar-comportamiento-de-arc.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-15-linux-71-nuevas-caracteristicas-y-mejoras-en-arquitectu.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-15-el-bicho-del-ano-2000-en-bsd-211-que-sobrevivio-a-2000.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-15-linux-72-un-gran-paso-hacia-la-seguridad-en-el-codigo-c.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-15-pakete-de-aur-de-arch-linux-comprometidos-por-atacante-.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-15-mejoras-en-el-scheduler-de-linux-72-para-intel-y-amd.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-descubrimiento-de-movimientos-roboticos-innovadores.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-lsep-v02-una-implementacion-de-referencia-de-ros-2-para.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-despliegue-de-un-swarm-de-5-drones-autonomos-con-ros-2-.md</loc><lastmod>2026-06-14</lastmod><priority>0.8</priority></url>
