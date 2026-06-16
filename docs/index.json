@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Gazebo: Actualizaciones y cambios en el proyecto de simulación de robótica",
+      "category": "robotica",
+      "date": "2026-06-16",
+      "slug": "gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Gazebo ha tenido una reunión para discutir y aprobar cambios importantes en el proyecto. Entre ellos, la adición de un nuevo miembro como comitente, la revisión de propuestas de financiación y la transición a una nueva…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-16-gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu.md"
+    },
+    {
+      "title": "Descubren comportamientos robóticos inusuales con MotionDisco",
+      "category": "robotica",
+      "date": "2026-06-16",
+      "slug": "descubren-comportamientos-roboticos-inusuales-con-mot-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "La investigación sobre robótica ha dado un paso importante con la creación de MotionDisco, un marco que permite descubrir movimientos complejos en robots humanoides de manera autónoma. Esto abre nuevas posibilidades para la automatización…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-16-descubren-comportamientos-roboticos-inusuales-con-mot-2.md"
+    },
+    {
+      "title": "Un shredder impulsado por bicicleta para reciclar plástico",
+      "category": "diseño-3d",
+      "date": "2026-06-16",
+      "slug": "un-shredder-impulsado-por-bicicleta-para-reciclar-plast",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Un equipo de estudiantes y su profesor han desarrollado un shredder impulsado por bicicleta para reciclar plástico de impresoras 3D. Esta innovadora solución puede ayudar a reducir la cantidad de residuos plásticos en el planeta.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-06-16-un-shredder-impulsado-por-bicicleta-para-reciclar-plast.md"
+    },
+    {
+      "title": "Maker Monday: Proyectos creativos con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-06-16",
+      "slug": "maker-monday-proyectos-creativos-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "En social media, se están compartiendo proyectos innovadores y divertidos creados con Raspberry Pi, que van desde la creación de un espacio maker hasta la conservación de la naturaleza. Estos proyectos demuestran la versatilidad y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-16-maker-monday-proyectos-creativos-con-raspberry-pi.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: suscríbete gratis",
+      "category": "embebidos",
+      "date": "2026-06-16",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-g-6",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "robotica"
+      ],
+      "preview": "El mundo de la robótica y la electrónica acaba de recibir una herramienta valiosa: una newsletter semanal sobre Python en microcontroladores y single board computers. ¿Qué hay de nuevo en el mundo de la programación de hardware?",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-16-noticias-de-python-en-microcontroladores-suscribete-g-6.md"
+    },
+    {
+      "title": "Respond.io, la plataforma de mensajería AI que recauda $62,5 millones",
+      "category": "ia",
+      "date": "2026-06-16",
+      "slug": "respondio-la-plataforma-de-mensajeria-ai-que-recauda-62",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "software y linux"
+      ],
+      "preview": "Respond.io, una startup de Malasia, ha logrado recaudar $62,5 millones en una ronda de financiación para su plataforma de gestión de conversaciones de clientes con ayuda de IA. Esta plataforma ha crecido un 169% en un año y tiene una…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-16-respondio-la-plataforma-de-mensajeria-ai-que-recauda-62.md"
+    },
+    {
+      "title": "Modelos de lenguaje visual entrenan a robots para leer emociones humanas",
+      "category": "ia",
+      "date": "2026-06-16",
+      "slug": "modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-2",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Los robots pueden ser más efectivos en su interacción con humanos si pueden leer nuestras emociones. Un estudio reciente ha entrenado a robots para leer emociones humanas mediante un modelo de lenguaje visual.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-16-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-2.md"
+    },
+    {
+      "title": "Investigadora destaca método para entrenar robots a hacer suposiciones informadas",
+      "category": "ia",
+      "date": "2026-06-16",
+      "slug": "investigadora-destaca-metodo-para-entrenar-robots-a-hac",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La investigadora Yen-Ling Kuo ha desarrollado un método innovador para entrenar robots a identificar y estimar la incertidumbre en escenarios no entrenados. Esto puede mejorar la eficiencia en la recopilación de datos para el entrenamiento…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-16-investigadora-destaca-metodo-para-entrenar-robots-a-hac.md"
+    },
+    {
+      "title": "XFS ya no es experimental en Linux 7.2: mejora para dispositivos zonados",
+      "category": "linux",
+      "date": "2026-06-16",
+      "slug": "xfs-ya-no-es-experimental-en-linux-72-mejora-para-dispo",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2 del kernel Linux incluye una actualización importante para el sistema de archivos XFS, que ahora ya no es experimental. Esto significa que los dispositivos zonados, como los discos duros de grabación en hilera (SMR) y los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-16-xfs-ya-no-es-experimental-en-linux-72-mejora-para-dispo.md"
+    },
+    {
+      "title": "KDE Plasma 6.7: un entorno de escritorio con mejoras significativas",
+      "category": "linux",
+      "date": "2026-06-16",
+      "slug": "kde-plasma-67-un-entorno-de-escritorio-con-mejoras-sign",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de KDE ha lanzado la versión 6.7 de Plasma, un entorno de escritorio de código abierto que ofrece mejoras significativas en la experiencia del usuario. Entre ellas, la capacidad de crear escritorios virtuales por pantalla y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-16-kde-plasma-67-un-entorno-de-escritorio-con-mejoras-sign.md"
+    },
+    {
+      "title": "Honda Civics y la vulnerabilidad de actualización de software",
+      "category": "linux",
+      "date": "2026-06-16",
+      "slug": "honda-civics-y-la-vulnerabilidad-de-actualizacion-de-so",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un ingeniero ha descubierto una vulnerabilidad en los sistemas de entretenimiento de algunos modelos de Honda Civic, que permiten actualizar el software mediante un USB. Esto podría ser una solución para propietarios de vehículos con…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-16-honda-civics-y-la-vulnerabilidad-de-actualizacion-de-so.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-06-16",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-21",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Los sistemas operativos más populares han lanzado actualizaciones de seguridad para corregir vulnerabilidades críticas. Estas actualizaciones afectan a sistemas como Debian, Fedora, Mageia, Oracle y Red Hat.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-16-actualizaciones-de-seguridad-para-sistemas-operativo-21.md"
+    },
+    {
+      "title": "Lanzado el kernel Linux 7.1: nuevas características y desarrolladores",
+      "category": "linux",
+      "date": "2026-06-16",
+      "slug": "lanzado-el-kernel-linux-71-nuevas-caracteristicas-y-des",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Linus Torvalds ha lanzado el kernel Linux 7.1, una actualización importante que trae consigo una gran cantidad de nuevas características y desarrolladores. Esta versión marca un hito en la evolución del proyecto Linux, que sigue siendo una…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-16-lanzado-el-kernel-linux-71-nuevas-caracteristicas-y-des.md"
+    },
+    {
+      "title": "AMD lanza plataforma de desarrollo de IA con procesador Ryzen AI Max+ 395",
+      "category": "linux",
+      "date": "2026-06-16",
+      "slug": "amd-lanza-plataforma-de-desarrollo-de-ia-con-procesador",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "AMD ha lanzado la plataforma de desarrollo de IA Ryzen AI Halo, que ofrece un procesador Ryzen AI Max+ 395 con una velocidad de 126 TOPS. Esta plataforma está diseñada para desarrolladores de IA y científicos de la computación que buscan…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-16-amd-lanza-plataforma-de-desarrollo-de-ia-con-procesador.md"
+    },
+    {
+      "title": "Linux 7.2: mejoras en gestión de energía y soporte de hardware",
+      "category": "linux",
+      "date": "2026-06-16",
+      "slug": "linux-72-mejoras-en-gestion-de-energia-y-soporte-de-har",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2 del kernel de Linux ha sido actualizada con mejoras significativas en la gestión de energía y soporte de hardware. Estas actualizaciones incluyen soporte para nuevos dispositivos y la eliminación de soporte para hardware…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-16-linux-72-mejoras-en-gestion-de-energia-y-soporte-de-har.md"
+    },
+    {
       "title": "Descubrimiento de movimientos robóticos: un avance en la manipulación de objetos",
       "category": "robotica",
       "date": "2026-06-15",

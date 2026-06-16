@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-15</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-15</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-16</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-descubren-comportamientos-roboticos-inusuales-con-mot-2.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-16-un-shredder-impulsado-por-bicicleta-para-reciclar-plast.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-maker-monday-proyectos-creativos-con-raspberry-pi.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-noticias-de-python-en-microcontroladores-suscribete-g-6.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-respondio-la-plataforma-de-mensajeria-ai-que-recauda-62.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-2.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-investigadora-destaca-metodo-para-entrenar-robots-a-hac.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-xfs-ya-no-es-experimental-en-linux-72-mejora-para-dispo.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-kde-plasma-67-un-entorno-de-escritorio-con-mejoras-sign.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-honda-civics-y-la-vulnerabilidad-de-actualizacion-de-so.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-actualizaciones-de-seguridad-para-sistemas-operativo-21.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-lanzado-el-kernel-linux-71-nuevas-caracteristicas-y-des.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-amd-lanza-plataforma-de-desarrollo-de-ia-con-procesador.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-linux-72-mejoras-en-gestion-de-energia-y-soporte-de-har.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-descubrimiento-de-movimientos-roboticos-un-avance-en-la.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-qerra-v2-evaluacion-etica-y-seguridad-fisica-para-arbol.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-ros2-studio-actualizacion-con-nuevas-caracteristicas-en.md</loc><lastmod>2026-06-15</lastmod><priority>0.8</priority></url>

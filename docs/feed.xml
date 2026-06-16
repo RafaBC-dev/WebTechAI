@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 12:58:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 12:03:16 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Gazebo: Actualizaciones y cambios en el proyecto de simulación de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de Gazebo ha tenido una reunión para discutir y aprobar cambios importantes en el proyecto. Entre ellos, la adición de un nuevo miembro como comitente, la revisión de propuestas de financiación y la transición a una nueva…</description>
+  </item>
+  <item>
+    <title>Descubren comportamientos robóticos inusuales con MotionDisco</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-descubren-comportamientos-roboticos-inusuales-con-mot-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-descubren-comportamientos-roboticos-inusuales-con-mot-2.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La investigación sobre robótica ha dado un paso importante con la creación de MotionDisco, un marco que permite descubrir movimientos complejos en robots humanoides de manera autónoma. Esto abre nuevas posibilidades para la automatización…</description>
+  </item>
+  <item>
+    <title>Un shredder impulsado por bicicleta para reciclar plástico</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-16-un-shredder-impulsado-por-bicicleta-para-reciclar-plast.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-16-un-shredder-impulsado-por-bicicleta-para-reciclar-plast.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un equipo de estudiantes y su profesor han desarrollado un shredder impulsado por bicicleta para reciclar plástico de impresoras 3D. Esta innovadora solución puede ayudar a reducir la cantidad de residuos plásticos en el planeta.</description>
+  </item>
+  <item>
+    <title>Maker Monday: Proyectos creativos con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-maker-monday-proyectos-creativos-con-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-maker-monday-proyectos-creativos-con-raspberry-pi.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>En social media, se están compartiendo proyectos innovadores y divertidos creados con Raspberry Pi, que van desde la creación de un espacio maker hasta la conservación de la naturaleza. Estos proyectos demuestran la versatilidad y…</description>
+  </item>
+  <item>
+    <title>Noticias de Python en Microcontroladores: suscríbete gratis</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-noticias-de-python-en-microcontroladores-suscribete-g-6.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-noticias-de-python-en-microcontroladores-suscribete-g-6.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El mundo de la robótica y la electrónica acaba de recibir una herramienta valiosa: una newsletter semanal sobre Python en microcontroladores y single board computers. ¿Qué hay de nuevo en el mundo de la programación de hardware?</description>
+  </item>
+  <item>
+    <title>Respond.io, la plataforma de mensajería AI que recauda $62,5 millones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-respondio-la-plataforma-de-mensajeria-ai-que-recauda-62.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-respondio-la-plataforma-de-mensajeria-ai-que-recauda-62.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Respond.io, una startup de Malasia, ha logrado recaudar $62,5 millones en una ronda de financiación para su plataforma de gestión de conversaciones de clientes con ayuda de IA. Esta plataforma ha crecido un 169% en un año y tiene una…</description>
+  </item>
+  <item>
+    <title>Modelos de lenguaje visual entrenan a robots para leer emociones humanas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-2.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los robots pueden ser más efectivos en su interacción con humanos si pueden leer nuestras emociones. Un estudio reciente ha entrenado a robots para leer emociones humanas mediante un modelo de lenguaje visual.</description>
+  </item>
+  <item>
+    <title>Investigadora destaca método para entrenar robots a hacer suposiciones informadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-investigadora-destaca-metodo-para-entrenar-robots-a-hac.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-investigadora-destaca-metodo-para-entrenar-robots-a-hac.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La investigadora Yen-Ling Kuo ha desarrollado un método innovador para entrenar robots a identificar y estimar la incertidumbre en escenarios no entrenados. Esto puede mejorar la eficiencia en la recopilación de datos para el entrenamiento…</description>
+  </item>
+  <item>
+    <title>XFS ya no es experimental en Linux 7.2: mejora para dispositivos zonados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-xfs-ya-no-es-experimental-en-linux-72-mejora-para-dispo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-xfs-ya-no-es-experimental-en-linux-72-mejora-para-dispo.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.2 del kernel Linux incluye una actualización importante para el sistema de archivos XFS, que ahora ya no es experimental. Esto significa que los dispositivos zonados, como los discos duros de grabación en hilera (SMR) y los…</description>
+  </item>
+  <item>
+    <title>KDE Plasma 6.7: un entorno de escritorio con mejoras significativas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-kde-plasma-67-un-entorno-de-escritorio-con-mejoras-sign.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-kde-plasma-67-un-entorno-de-escritorio-con-mejoras-sign.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de KDE ha lanzado la versión 6.7 de Plasma, un entorno de escritorio de código abierto que ofrece mejoras significativas en la experiencia del usuario. Entre ellas, la capacidad de crear escritorios virtuales por pantalla y…</description>
+  </item>
+  <item>
+    <title>Honda Civics y la vulnerabilidad de actualización de software</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-honda-civics-y-la-vulnerabilidad-de-actualizacion-de-so.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-honda-civics-y-la-vulnerabilidad-de-actualizacion-de-so.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un ingeniero ha descubierto una vulnerabilidad en los sistemas de entretenimiento de algunos modelos de Honda Civic, que permiten actualizar el software mediante un USB. Esto podría ser una solución para propietarios de vehículos con…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-actualizaciones-de-seguridad-para-sistemas-operativo-21.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-actualizaciones-de-seguridad-para-sistemas-operativo-21.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Los sistemas operativos más populares han lanzado actualizaciones de seguridad para corregir vulnerabilidades críticas. Estas actualizaciones afectan a sistemas como Debian, Fedora, Mageia, Oracle y Red Hat.</description>
+  </item>
+  <item>
+    <title>Lanzado el kernel Linux 7.1: nuevas características y desarrolladores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-lanzado-el-kernel-linux-71-nuevas-caracteristicas-y-des.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-lanzado-el-kernel-linux-71-nuevas-caracteristicas-y-des.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Linus Torvalds ha lanzado el kernel Linux 7.1, una actualización importante que trae consigo una gran cantidad de nuevas características y desarrolladores. Esta versión marca un hito en la evolución del proyecto Linux, que sigue siendo una…</description>
+  </item>
+  <item>
+    <title>AMD lanza plataforma de desarrollo de IA con procesador Ryzen AI Max+ 395</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-amd-lanza-plataforma-de-desarrollo-de-ia-con-procesador.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-amd-lanza-plataforma-de-desarrollo-de-ia-con-procesador.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>AMD ha lanzado la plataforma de desarrollo de IA Ryzen AI Halo, que ofrece un procesador Ryzen AI Max+ 395 con una velocidad de 126 TOPS. Esta plataforma está diseñada para desarrolladores de IA y científicos de la computación que buscan…</description>
+  </item>
+  <item>
+    <title>Linux 7.2: mejoras en gestión de energía y soporte de hardware</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-linux-72-mejoras-en-gestion-de-energia-y-soporte-de-har.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-linux-72-mejoras-en-gestion-de-energia-y-soporte-de-har.md</guid>
+    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.2 del kernel de Linux ha sido actualizada con mejoras significativas en la gestión de energía y soporte de hardware. Estas actualizaciones incluyen soporte para nuevos dispositivos y la eliminación de soporte para hardware…</description>
+  </item>
   <item>
     <title>Descubrimiento de movimientos robóticos: un avance en la manipulación de objetos</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-15-descubrimiento-de-movimientos-roboticos-un-avance-en-la.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 15 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>El scheduler de Linux 7.2 ha sido actualizado con una nueva característica llamada Cache Aware Scheduling, que busca mejorar el rendimiento de los procesadores Intel y AMD al optimizar la localidad de cache.</description>
-  </item>
-  <item>
-    <title>Descubrimiento de movimientos robóticos innovadores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-descubrimiento-de-movimientos-roboticos-innovadores.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-descubrimiento-de-movimientos-roboticos-innovadores.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica sigue avanzando a pasos agigantados, y recientemente se ha presentado un framework llamado MotionDisco que permite descubrir movimientos robóticos complejos de manera autónoma. Esto podría revolucionar la forma en que los…</description>
-  </item>
-  <item>
-    <title>LSEP v0.2: una implementación de referencia de ROS 2 para robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-lsep-v02-una-implementacion-de-referencia-de-ros-2-para.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-lsep-v02-una-implementacion-de-referencia-de-ros-2-para.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de robótica ha recibido una actualización importante con la versión 0.2 de LSEP (Layered State Estimation Protocol), un protocolo de estimación de estados jerárquico para robótica. Esta versión incluye una implementación de…</description>
-  </item>
-  <item>
-    <title>Despliegue de un swarm de 5 drones autónomos con ROS 2 y micro-ROS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-despliegue-de-un-swarm-de-5-drones-autonomos-con-ros-2-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-despliegue-de-un-swarm-de-5-drones-autonomos-con-ros-2-.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de desarrolladores ha lanzado un swarm de 5 drones autónomos que utiliza la tecnología ROS 2 y micro-ROS para coordinar sus acciones. Este proyecto es relevante ahora mismo debido a su aplicación en la robótica y la…</description>
-  </item>
-  <item>
-    <title>Un stack de robótica móvil escrito desde cero para aprender</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-un-stack-de-robotica-movil-escrito-desde-cero-para-apre.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-14-un-stack-de-robotica-movil-escrito-desde-cero-para-apre.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador ha lanzado un proyecto de código abierto para crear un stack de robótica móvil desde cero, con el objetivo de entender mejor la tecnología detrás de la robótica</description>
-  </item>
-  <item>
-    <title>Noticias de Python en Microcontroladores: Suscríbete gratis</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-noticias-de-python-en-microcontroladores-suscribete-g-5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-noticias-de-python-en-microcontroladores-suscribete-g-5.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de Python en microcontroladores ha crecido significativamente en los últimos años. Para mantenerse al día con las últimas noticias y proyectos, es fundamental tener acceso a una fuente confiable y actualizada. La newsletter de…</description>
-  </item>
-  <item>
-    <title>Un tablero de ajedrez con piezas que se mueven solas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-un-tablero-de-ajedrez-con-piezas-que-se-mueven-solas.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-un-tablero-de-ajedrez-con-piezas-que-se-mueven-solas.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un proyecto innovador en robótica y tecnología ha dado vida a un tablero de ajedrez con piezas que se mueven por sí mismas, utilizando tecnología de IoT y control de motores.</description>
-  </item>
-  <item>
-    <title>M5Stack Capsule v1.1: un controlador IoT con ESP32-S3 y sensores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-m5stack-capsule-v11-un-controlador-iot-con-esp32-s3-y-s.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-14-m5stack-capsule-v11-un-controlador-iot-con-esp32-s3-y-s.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>M5Stack ha lanzado el Capsule v1.1, un controlador IoT con ESP32-S3 y sensores que promete revolucionar la automatización y el desarrollo de sistemas embebidos.</description>
-  </item>
-  <item>
-    <title>Investigadora de la Universidad de Virginia desarrolla un método para mejorar la toma de decisiones de los robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-investigadora-de-la-universidad-de-virginia-desarrolla-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-investigadora-de-la-universidad-de-virginia-desarrolla-.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Yen-Ling Kuo, una destacada investigadora de la Universidad de Virginia, ha desarrollado un método innovador para mejorar la capacidad de los robots para tomar decisiones informadas en situaciones desconocidas. Este avance puede…</description>
-  </item>
-  <item>
-    <title>Antrópico suspende acceso a modelos de IA por orden del gobierno estadounidense</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-antropico-suspende-acceso-a-modelos-de-ia-por-orden-del.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-antropico-suspende-acceso-a-modelos-de-ia-por-orden-del.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa de inteligencia artificial Anthropic ha suspendido acceso a sus modelos de IA más recientes, Fable 5 y Mythos 5, debido a una orden del gobierno estadounidense. Esto ha generado preocupación en la industria tecnológica y ha…</description>
-  </item>
-  <item>
-    <title>Intel detiene el desarrollo de BigDL, un proyecto de IA y LLM abiertos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-intel-detiene-el-desarrollo-de-bigdl-un-proyecto-de-ia-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-intel-detiene-el-desarrollo-de-bigdl-un-proyecto-de-ia-.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Intel ha anunciado que detiene el desarrollo de BigDL, un proyecto de código abierto que permite ejecutar modelos de lenguaje grande en una variedad de plataformas, incluyendo procesadores Intel y GPUs. Esto se debe a una reestructuración…</description>
-  </item>
-  <item>
-    <title>Modelos de lenguaje visual entrenan robots para leer emociones humanas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-modelos-de-lenguaje-visual-entrenan-robots-para-leer-em.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-14-modelos-de-lenguaje-visual-entrenan-robots-para-leer-em.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los robots pueden ser más efectivos al trabajar con humanos si pueden leer sus emociones. Un estudio reciente ha entrenado robots para reconocer emociones humanas mediante la combinación de expresiones faciales y factores contextuales.</description>
-  </item>
-  <item>
-    <title>Llega pkgcli, una interfaz de línea de comandos moderna y amigable</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-llega-pkgcli-una-interfaz-de-linea-de-comandos-moderna-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-llega-pkgcli-una-interfaz-de-linea-de-comandos-moderna-.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Después de casi dos décadas, se ha lanzado una nueva herramienta para gestionar paquetes en Linux, diseñada para ser más fácil de usar y con una experiencia de scripting mejorada. pkgcli es el nombre de esta herramienta, que se ha…</description>
-  </item>
-  <item>
-    <title>Pakages AUR comprometidos: ¿qué hacer si eres usuario de Arch Linux?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-pakages-aur-comprometidos-que-hacer-si-eres-usuario-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-pakages-aur-comprometidos-que-hacer-si-eres-usuario-de-.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Arch Linux ha detectado un ataque a la base de datos de paquetes AUR, lo que ha permitido a un atacante introducir un paquete malicioso. Es posible que usuarios de Arch Linux hayan instalado actualizaciones comprometidas.</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-actualizaciones-de-seguridad-para-sistemas-operativo-20.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-actualizaciones-de-seguridad-para-sistemas-operativo-20.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La seguridad es un tema fundamental en la era digital. Los proveedores de sistemas operativos como AlmaLinux, Debian, Fedora, Mageia, Red Hat y SUSE han lanzado actualizaciones de seguridad para proteger a los usuarios contra posibles…</description>
-  </item>
-  <item>
-    <title>ESP32-E22: módulo Wi-Fi 6E y Bluetooth 5.4 con certificación Wi-Fi CERTIFIED</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-esp32-e22-modulo-wi-fi-6e-y-bluetooth-54-con-certificac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-14-esp32-e22-modulo-wi-fi-6e-y-bluetooth-54-con-certificac.md</guid>
-    <pubDate>Sun, 14 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Espressif ha obtenido la certificación Wi-Fi CERTIFIED para su módulo ESP32-E22, que cuenta con Wi-Fi 6E y Bluetooth 5.4. Además, ha lanzado drivers de Linux para el chip.</description>
   </item>
 </channel>
 </rss>
