@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "OpenUSD: Estándar para la interoperabilidad de activos de simulación en robótica",
+      "category": "robotica",
+      "date": "2026-06-17",
+      "slug": "openusd-estandar-para-la-interoperabilidad-de-activos-d",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS está trabajando en un nuevo estándar para la interoperabilidad de activos de simulación en robótica. Esto permitirá a los desarrolladores crear activos de simulación una vez y utilizarlos en diferentes plataformas de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-17-openusd-estandar-para-la-interoperabilidad-de-activos-d.md"
+    },
+    {
+      "title": "Descubriendo movimientos robóticos complejos sin ayuda humana",
+      "category": "robotica",
+      "date": "2026-06-17",
+      "slug": "descubriendo-movimientos-roboticos-complejos-sin-ayuda-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La robótica ha alcanzado un nuevo nivel con la presentación de MotionDisco, un marco que permite descubrir movimientos complejos en robots humanoides sin la necesidad de teleoperación o retargeting de demostraciones humanas. Esto abre…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-17-descubriendo-movimientos-roboticos-complejos-sin-ayuda-.md"
+    },
+    {
+      "title": "ROS2 en STM32: opciones para comunicación serial con SBC",
+      "category": "embebidos",
+      "date": "2026-06-17",
+      "slug": "ros2-en-stm32-opciones-para-comunicacion-serial-con-sbc",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un desarrollador está buscando la mejor forma de conectar un microcontrolador STM32 con un SBC (Sistema en un Chip) para crear un robot con ROS2. Explora tres opciones para la comunicación serial.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-17-ros2-en-stm32-opciones-para-comunicacion-serial-con-sbc.md"
+    },
+    {
+      "title": "Proyectos Maker de Raspberry Pi: innovación y creatividad",
+      "category": "embebidos",
+      "date": "2026-06-17",
+      "slug": "proyectos-maker-de-raspberry-pi-innovacion-y-creativida",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "En las redes sociales se están compartiendo proyectos innovadores y creativos que utilizan Raspberry Pi. Desde la creación de un espacio maker hasta la conservación de la naturaleza, estos proyectos demuestran la versatilidad de esta…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-17-proyectos-maker-de-raspberry-pi-innovacion-y-creativida.md"
+    },
+    {
+      "title": "SCINTIX P4: un módulo de cálculo compatible con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-06-17",
+      "slug": "scintix-p4-un-modulo-de-calculo-compatible-con-raspberr",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa RELOC ha lanzado el SCINTIX P4, un módulo de cálculo basado en el ESP32-P4 que es compatible con las placas de carrier de Raspberry Pi CM4/CM5. Este módulo ofrece una gran cantidad de características, incluyendo conectividad…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-17-scintix-p4-un-modulo-de-calculo-compatible-con-raspberr.md"
+    },
+    {
+      "title": "Android 17 lanza nuevas herramientas de multitarea y características de IA",
+      "category": "ia",
+      "date": "2026-06-17",
+      "slug": "android-17-lanza-nuevas-herramientas-de-multitarea-y-ca",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Google ha lanzado la versión final de Android 17 y Wear OS 7, con nuevas características que incluyen herramientas de multitarea y modelos de IA como Gemini Omni y Lyria 3.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-17-android-17-lanza-nuevas-herramientas-de-multitarea-y-ca.md"
+    },
+    {
+      "title": "Integración de LeRobot con Strands Robots: un paso hacia la robótica autónoma",
+      "category": "ia",
+      "date": "2026-06-17",
+      "slug": "integracion-de-lerobot-con-strands-robots-un-paso-hacia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La integración de LeRobot con Strands Robots permite a los desarrolladores crear agentes de robótica autónoma que pueden aprender y adaptarse en entornos reales. Esto abre nuevas posibilidades para la automatización y la robótica en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-17-integracion-de-lerobot-con-strands-robots-un-paso-hacia.md"
+    },
+    {
+      "title": "Investigadora destaca método para entrenar robots para adivinar con precisión",
+      "category": "ia",
+      "date": "2026-06-17",
+      "slug": "investigadora-destaca-metodo-para-entrenar-robots-para-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automático"
+      ],
+      "preview": "La investigadora Yen-Ling Kuo ha desarrollado un método innovador para entrenar robots a adivinar con precisión en situaciones desconocidas. Esto podría mejorar la eficiencia en la recopilación de datos para el entrenamiento de modelos en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-17-investigadora-destaca-metodo-para-entrenar-robots-para-.md"
+    },
+    {
+      "title": "Qt Creator 20: IDE con soporte para agentes de IA",
+      "category": "ia",
+      "date": "2026-06-17",
+      "slug": "qt-creator-20-ide-con-soporte-para-agentes-de-ia",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La versión 20 de Qt Creator, un IDE popular para programación en Qt/C++, ha sido lanzada con un nuevo soporte para agentes de inteligencia artificial. Esto permite a los desarrolladores aprovechar la potencia de la IA en sus proyectos de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-17-qt-creator-20-ide-con-soporte-para-agentes-de-ia.md"
+    },
+    {
+      "title": "Modelos de lenguaje visual entrenan a robots para leer emociones humanas",
+      "category": "ia",
+      "date": "2026-06-17",
+      "slug": "modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-3",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "python"
+      ],
+      "preview": "Los robots están avanzando en términos de destreza y capacidades físicas, pero ¿cómo podrán interactuar con humanos de manera efectiva? Un estudio reciente ha entrenado a robots para leer emociones humanas mediante modelos de lenguaje…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-17-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-3.md"
+    },
+    {
+      "title": "Cámara de seguridad con armas defensivas para proteger tu hogar",
+      "category": "ia",
+      "date": "2026-06-17",
+      "slug": "camara-de-seguridad-con-armas-defensivas-para-proteger-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Una cámara de seguridad personalizada con armas defensivas y visión artificial para proteger tu hogar de intrusos. Un proyecto innovador que combina tecnología y seguridad.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-17-camara-de-seguridad-con-armas-defensivas-para-proteger-.md"
+    },
+    {
+      "title": "El estado de Fedora en 2026: crecimiento y desafíos",
+      "category": "linux",
+      "date": "2026-06-17",
+      "slug": "el-estado-de-fedora-en-2026-crecimiento-y-desafios",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La conferencia Fedora Flock en Praga ha revelado que Fedora experimenta un crecimiento en su uso, pero enfrenta un declive en la cantidad de desarrolladores activos. Esto plantea desafíos para mantener la estabilidad y seguridad del…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-17-el-estado-de-fedora-en-2026-crecimiento-y-desafios.md"
+    },
+    {
+      "title": "Raspberry Pi: un dispositivo pequeño con gran potencial en el mundo empresarial",
+      "category": "linux",
+      "date": "2026-06-17",
+      "slug": "raspberry-pi-un-dispositivo-pequeno-con-gran-potencial-",
+      "tags": [
+        "raspberry-pi",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "La Raspberry Pi se ha convertido en una opción atractiva para empresas que buscan reducir costos y mejorar la eficiencia energética. Organizaciones como McDonald's y centros de aprendizaje en el Reino Unido ya están implementando esta…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-17-raspberry-pi-un-dispositivo-pequeno-con-gran-potencial-.md"
+    },
+    {
+      "title": "Construyendo Linux para la Adafruit Fruit Jam con RISC-V",
+      "category": "linux",
+      "date": "2026-06-17",
+      "slug": "construyendo-linux-para-la-adafruit-fruit-jam-con-risc-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La comunidad de desarrolladores de Linux ha logrado crear una versión personalizada de Linux para la Adafruit Fruit Jam, una placa de desarrollo basada en RISC-V. Esta noticia es relevante para los entusiastas de la robótica y la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-17-construyendo-linux-para-la-adafruit-fruit-jam-con-risc-.md"
+    },
+    {
+      "title": "FreeBSD actualiza su driver gráfico basado en Linux 6.12 LTS",
+      "category": "linux",
+      "date": "2026-06-17",
+      "slug": "freebsd-actualiza-su-driver-grafico-basado-en-linux-612",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de FreeBSD ha actualizado su driver gráfico drm-kmod para mejorar la experiencia en laptops y escritorios. Este cambio permitirá a los usuarios disfrutar de nuevas características y mejoras de rendimiento en hardware gráfico…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-17-freebsd-actualiza-su-driver-grafico-basado-en-linux-612.md"
+    },
+    {
       "title": "Gazebo: Actualizaciones y cambios en el proyecto de simulación de robótica",
       "category": "robotica",
       "date": "2026-06-16",

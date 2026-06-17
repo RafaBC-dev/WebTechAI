@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-16</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-17-openusd-estandar-para-la-interoperabilidad-de-activos-d.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-17-descubriendo-movimientos-roboticos-complejos-sin-ayuda-.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-17-ros2-en-stm32-opciones-para-comunicacion-serial-con-sbc.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-17-proyectos-maker-de-raspberry-pi-innovacion-y-creativida.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-17-scintix-p4-un-modulo-de-calculo-compatible-con-raspberr.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-17-android-17-lanza-nuevas-herramientas-de-multitarea-y-ca.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-17-integracion-de-lerobot-con-strands-robots-un-paso-hacia.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-17-investigadora-destaca-metodo-para-entrenar-robots-para-.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-17-qt-creator-20-ide-con-soporte-para-agentes-de-ia.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-17-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-3.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-17-camara-de-seguridad-con-armas-defensivas-para-proteger-.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-17-el-estado-de-fedora-en-2026-crecimiento-y-desafios.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-17-raspberry-pi-un-dispositivo-pequeno-con-gran-potencial-.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-17-construyendo-linux-para-la-adafruit-fruit-jam-con-risc-.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-17-freebsd-actualiza-su-driver-grafico-basado-en-linux-612.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-descubren-comportamientos-roboticos-inusuales-con-mot-2.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-16-un-shredder-impulsado-por-bicicleta-para-reciclar-plast.md</loc><lastmod>2026-06-16</lastmod><priority>0.8</priority></url>
