@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La clave para que robots humanoides ganen maratones",
+      "category": "robotica",
+      "date": "2026-06-18",
+      "slug": "la-clave-para-que-robots-humanoides-ganen-maratones",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "El robot humanoide Honor Lightning ha batido el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos. ¿Cómo lo lograron? ¿Qué tecnología o técnica secreta utilizaron?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-18-la-clave-para-que-robots-humanoides-ganen-maratones.md"
+    },
+    {
+      "title": "Proyectos maker innovadores para Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-06-18",
+      "slug": "proyectos-maker-innovadores-para-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La comunidad de Raspberry Pi comparte proyectos maker impresionantes en redes sociales, desde proyectos de conservación hasta juegos clásicos. ¿Qué hay detrás de estos proyectos y cómo se han creado?",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-18-proyectos-maker-innovadores-para-raspberry-pi.md"
+    },
+    {
+      "title": "Raspberry Pi y LED Matrix en un caso 3D impresionado",
+      "category": "embebidos",
+      "date": "2026-06-18",
+      "slug": "raspberry-pi-y-led-matrix-en-un-caso-3d-impresionado",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Adafruit ha presentado un caso 3D impresionado para Raspberry Pi 4 y una matriz LED de 64x64, diseñado para retrogaming y automatas celulares. Este proyecto combina la tecnología de impresión 3D con la robótica y la electrónica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-18-raspberry-pi-y-led-matrix-en-un-caso-3d-impresionado.md"
+    },
+    {
+      "title": "Encuadernación 3D para LED Matrix Portal S3 de Adafruit",
+      "category": "embebidos",
+      "date": "2026-06-18",
+      "slug": "encuadernacion-3d-para-led-matrix-portal-s3-de-adafruit",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "arduino"
+      ],
+      "preview": "Adafruit ha lanzado una encuadernación 3D para su panel LED de 62×32 con la placa Matrix Portal S3. Esta encuadernación permite montar la placa y el panel de manera segura y fácil de usar.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-18-encuadernacion-3d-para-led-matrix-portal-s3-de-adafruit.md"
+    },
+    {
+      "title": "Un bebé axolotl articulado 3D impresionado sin soportes ni ensamblaje",
+      "category": "embebidos",
+      "date": "2026-06-18",
+      "slug": "un-bebe-axolotl-articulado-3d-impresionado-sin-soportes",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Adafruit presenta su proyecto semanal de impresión 3D, una articulada bebé axolotl impresionada sin soportes ni ensamblaje. Esta creación de FilliFuu es un ejemplo de la creatividad y habilidad de la comunidad de impresión 3D.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-18-un-bebe-axolotl-articulado-3d-impresionado-sin-soportes.md"
+    },
+    {
+      "title": "¿Cómo desactivar la IA en tus Google Docs?",
+      "category": "ia",
+      "date": "2026-06-18",
+      "slug": "como-desactivar-la-ia-en-tus-google-docs",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La IA de Google Docs puede ser molesta. Si has abierto un documento para escribir y te encuentras con una caja de texto invitándote a 'escribir con Gemini', aquí te explicamos cómo desactivarla.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-18-como-desactivar-la-ia-en-tus-google-docs.md"
+    },
+    {
+      "title": "Modelos de lenguaje visual entrenan a robots para leer emociones humanas",
+      "category": "ia",
+      "date": "2026-06-18",
+      "slug": "modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los robots podrían trabajar junto a humanos, pero para hacerlo necesitan leer nuestras emociones. Un estudio reciente ha entrenado a robots para leer emociones humanas mediante modelos de lenguaje visual.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-18-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-4.md"
+    },
+    {
+      "title": "Integración de LeRobot con Strands Robots para robótica de código abierto",
+      "category": "ia",
+      "date": "2026-06-18",
+      "slug": "integracion-de-lerobot-con-strands-robots-para-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La empresa Amazon ha lanzado una integración innovadora entre LeRobot y Strands Robots, permitiendo a los desarrolladores crear robots autónomos de código abierto con una sola herramienta. Esta integración revoluciona la forma en que se…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-18-integracion-de-lerobot-con-strands-robots-para-robotica.md"
+    },
+    {
+      "title": "GLM-5.2: el modelo de lenguaje abiertamente disponible más poderoso hasta la fecha",
+      "category": "ia",
+      "date": "2026-06-18",
+      "slug": "glm-52-el-modelo-de-lenguaje-abiertamente-disponible-ma",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa china Z.ai ha lanzado GLM-5.2, un modelo de lenguaje de gran tamaño que supera en capacidad a sus predecesores. Este modelo de lenguaje de texto solo ha sido liberado bajo una licencia MIT, lo que permite a cualquier…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-18-glm-52-el-modelo-de-lenguaje-abiertamente-disponible-ma.md"
+    },
+    {
+      "title": "Investigadora desarrolla método para mejorar la toma de decisiones en robots",
+      "category": "ia",
+      "date": "2026-06-18",
+      "slug": "investigadora-desarrolla-metodo-para-mejorar-la-toma-de",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La Dra. Yen-Ling Kuo, investigadora en la Universidad de Virginia, ha desarrollado un método innovador para mejorar la capacidad de los robots para tomar decisiones informadas en situaciones desconocidas. Este avance puede revolucionar la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-18-investigadora-desarrolla-metodo-para-mejorar-la-toma-de.md"
+    },
+    {
+      "title": "La revolución en la generación de código: ¿qué cambió en 2025?",
+      "category": "ia",
+      "date": "2026-06-18",
+      "slug": "la-revolucion-en-la-generacion-de-codigo-que-cambio-en-",
+      "tags": [
+        "llms",
+        "ia",
+        "codigo"
+      ],
+      "preview": "En 2025, la forma en que se produce código cambió drásticamente. La generación de código se volvió instantánea y gratuita, lo que llevó a una transformación en la forma en que se desarrolla software.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-18-la-revolucion-en-la-generacion-de-codigo-que-cambio-en-.md"
+    },
+    {
+      "title": "SteamOS 3.8.10: una actualización importante para Steam Deck y Steam Machine",
+      "category": "linux",
+      "date": "2026-06-18",
+      "slug": "steamos-3810-una-actualizacion-importante-para-steam-de",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "Valve ha lanzado SteamOS 3.8.10, una actualización importante para su plataforma Linux en casa, que incluye mejoras en la compatibilidad con hardware, la experiencia de usuario y la seguridad.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-18-steamos-3810-una-actualizacion-importante-para-steam-de.md"
+    },
+    {
+      "title": "Commodore lanza un teléfono móvil con Linux y diseño de flip phone",
+      "category": "linux",
+      "date": "2026-06-18",
+      "slug": "commodore-lanza-un-telefono-movil-con-linux-y-diseno-de",
+      "tags": [
+        "linux",
+        "robotica",
+        "software"
+      ],
+      "preview": "La empresa Commodore ha presentado un teléfono móvil con Linux y diseño de flip phone, que combina la nostalgia de la época de los teléfonos móviles antiguos con componentes modernos de alta calidad.",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-18-commodore-lanza-un-telefono-movil-con-linux-y-diseno-de.md"
+    },
+    {
+      "title": "Actualización de paquetes en Kilted Kaiju: 98 nuevos y 455 actualizados",
+      "category": "linux",
+      "date": "2026-06-18",
+      "slug": "actualizacion-de-paquetes-en-kilted-kaiju-98-nuevos-y-4",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Kilted Kaiju ha lanzado una actualización significativa que incluye 98 nuevos paquetes y actualiza 455 otros. Esta actualización es el resultado del trabajo colaborativo de muchos desarrolladores, incluyendo los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-18-actualizacion-de-paquetes-en-kilted-kaiju-98-nuevos-y-4.md"
+    },
+    {
+      "title": "Linux 7.2 prepara drivers EDAC para procesadores Intel futuros",
+      "category": "linux",
+      "date": "2026-06-18",
+      "slug": "linux-72-prepara-drivers-edac-para-procesadores-intel-f",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2 de Linux está trabajando en mejorar los drivers EDAC para prepararse para la llegada de nuevos procesadores Intel, como Diamond Rapids y Nova Lake H. Esto permitirá una mayor detección y corrección de errores en la memoria.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-18-linux-72-prepara-drivers-edac-para-procesadores-intel-f.md"
+    },
+    {
       "title": "OpenUSD: Estándar para la interoperabilidad de activos de simulación en robótica",
       "category": "robotica",
       "date": "2026-06-17",

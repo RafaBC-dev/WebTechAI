@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 17 Jun 2026 11:28:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 11:06:24 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>La clave para que robots humanoides ganen maratones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-18-la-clave-para-que-robots-humanoides-ganen-maratones.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-18-la-clave-para-que-robots-humanoides-ganen-maratones.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot humanoide Honor Lightning ha batido el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos. ¿Cómo lo lograron? ¿Qué tecnología o técnica secreta utilizaron?</description>
+  </item>
+  <item>
+    <title>Proyectos maker innovadores para Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-proyectos-maker-innovadores-para-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-proyectos-maker-innovadores-para-raspberry-pi.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de Raspberry Pi comparte proyectos maker impresionantes en redes sociales, desde proyectos de conservación hasta juegos clásicos. ¿Qué hay detrás de estos proyectos y cómo se han creado?</description>
+  </item>
+  <item>
+    <title>Raspberry Pi y LED Matrix en un caso 3D impresionado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-raspberry-pi-y-led-matrix-en-un-caso-3d-impresionado.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-raspberry-pi-y-led-matrix-en-un-caso-3d-impresionado.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha presentado un caso 3D impresionado para Raspberry Pi 4 y una matriz LED de 64x64, diseñado para retrogaming y automatas celulares. Este proyecto combina la tecnología de impresión 3D con la robótica y la electrónica.</description>
+  </item>
+  <item>
+    <title>Encuadernación 3D para LED Matrix Portal S3 de Adafruit</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-encuadernacion-3d-para-led-matrix-portal-s3-de-adafruit.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-encuadernacion-3d-para-led-matrix-portal-s3-de-adafruit.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha lanzado una encuadernación 3D para su panel LED de 62×32 con la placa Matrix Portal S3. Esta encuadernación permite montar la placa y el panel de manera segura y fácil de usar.</description>
+  </item>
+  <item>
+    <title>Un bebé axolotl articulado 3D impresionado sin soportes ni ensamblaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-un-bebe-axolotl-articulado-3d-impresionado-sin-soportes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-un-bebe-axolotl-articulado-3d-impresionado-sin-soportes.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta su proyecto semanal de impresión 3D, una articulada bebé axolotl impresionada sin soportes ni ensamblaje. Esta creación de FilliFuu es un ejemplo de la creatividad y habilidad de la comunidad de impresión 3D.</description>
+  </item>
+  <item>
+    <title>¿Cómo desactivar la IA en tus Google Docs?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-como-desactivar-la-ia-en-tus-google-docs.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-como-desactivar-la-ia-en-tus-google-docs.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La IA de Google Docs puede ser molesta. Si has abierto un documento para escribir y te encuentras con una caja de texto invitándote a 'escribir con Gemini', aquí te explicamos cómo desactivarla.</description>
+  </item>
+  <item>
+    <title>Modelos de lenguaje visual entrenan a robots para leer emociones humanas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-4.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-4.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los robots podrían trabajar junto a humanos, pero para hacerlo necesitan leer nuestras emociones. Un estudio reciente ha entrenado a robots para leer emociones humanas mediante modelos de lenguaje visual.</description>
+  </item>
+  <item>
+    <title>Integración de LeRobot con Strands Robots para robótica de código abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-integracion-de-lerobot-con-strands-robots-para-robotica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-integracion-de-lerobot-con-strands-robots-para-robotica.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Amazon ha lanzado una integración innovadora entre LeRobot y Strands Robots, permitiendo a los desarrolladores crear robots autónomos de código abierto con una sola herramienta. Esta integración revoluciona la forma en que se…</description>
+  </item>
+  <item>
+    <title>GLM-5.2: el modelo de lenguaje abiertamente disponible más poderoso hasta la fecha</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-glm-52-el-modelo-de-lenguaje-abiertamente-disponible-ma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-glm-52-el-modelo-de-lenguaje-abiertamente-disponible-ma.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa china Z.ai ha lanzado GLM-5.2, un modelo de lenguaje de gran tamaño que supera en capacidad a sus predecesores. Este modelo de lenguaje de texto solo ha sido liberado bajo una licencia MIT, lo que permite a cualquier…</description>
+  </item>
+  <item>
+    <title>Investigadora desarrolla método para mejorar la toma de decisiones en robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-investigadora-desarrolla-metodo-para-mejorar-la-toma-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-investigadora-desarrolla-metodo-para-mejorar-la-toma-de.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La Dra. Yen-Ling Kuo, investigadora en la Universidad de Virginia, ha desarrollado un método innovador para mejorar la capacidad de los robots para tomar decisiones informadas en situaciones desconocidas. Este avance puede revolucionar la…</description>
+  </item>
+  <item>
+    <title>La revolución en la generación de código: ¿qué cambió en 2025?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-la-revolucion-en-la-generacion-de-codigo-que-cambio-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-la-revolucion-en-la-generacion-de-codigo-que-cambio-en-.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>En 2025, la forma en que se produce código cambió drásticamente. La generación de código se volvió instantánea y gratuita, lo que llevó a una transformación en la forma en que se desarrolla software.</description>
+  </item>
+  <item>
+    <title>SteamOS 3.8.10: una actualización importante para Steam Deck y Steam Machine</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-steamos-3810-una-actualizacion-importante-para-steam-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-steamos-3810-una-actualizacion-importante-para-steam-de.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Valve ha lanzado SteamOS 3.8.10, una actualización importante para su plataforma Linux en casa, que incluye mejoras en la compatibilidad con hardware, la experiencia de usuario y la seguridad.</description>
+  </item>
+  <item>
+    <title>Commodore lanza un teléfono móvil con Linux y diseño de flip phone</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-commodore-lanza-un-telefono-movil-con-linux-y-diseno-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-commodore-lanza-un-telefono-movil-con-linux-y-diseno-de.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa Commodore ha presentado un teléfono móvil con Linux y diseño de flip phone, que combina la nostalgia de la época de los teléfonos móviles antiguos con componentes modernos de alta calidad.</description>
+  </item>
+  <item>
+    <title>Actualización de paquetes en Kilted Kaiju: 98 nuevos y 455 actualizados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-actualizacion-de-paquetes-en-kilted-kaiju-98-nuevos-y-4.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-actualizacion-de-paquetes-en-kilted-kaiju-98-nuevos-y-4.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Kilted Kaiju ha lanzado una actualización significativa que incluye 98 nuevos paquetes y actualiza 455 otros. Esta actualización es el resultado del trabajo colaborativo de muchos desarrolladores, incluyendo los…</description>
+  </item>
+  <item>
+    <title>Linux 7.2 prepara drivers EDAC para procesadores Intel futuros</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-linux-72-prepara-drivers-edac-para-procesadores-intel-f.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-linux-72-prepara-drivers-edac-para-procesadores-intel-f.md</guid>
+    <pubDate>Thu, 18 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.2 de Linux está trabajando en mejorar los drivers EDAC para prepararse para la llegada de nuevos procesadores Intel, como Diamond Rapids y Nova Lake H. Esto permitirá una mayor detección y corrección de errores en la memoria.</description>
+  </item>
   <item>
     <title>OpenUSD: Estándar para la interoperabilidad de activos de simulación en robótica</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-17-openusd-estandar-para-la-interoperabilidad-de-activos-d.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Wed, 17 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La comunidad de FreeBSD ha actualizado su driver gráfico drm-kmod para mejorar la experiencia en laptops y escritorios. Este cambio permitirá a los usuarios disfrutar de nuevas características y mejoras de rendimiento en hardware gráfico…</description>
-  </item>
-  <item>
-    <title>Gazebo: Actualizaciones y cambios en el proyecto de simulación de robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-gazebo-actualizaciones-y-cambios-en-el-proyecto-de-simu.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de Gazebo ha tenido una reunión para discutir y aprobar cambios importantes en el proyecto. Entre ellos, la adición de un nuevo miembro como comitente, la revisión de propuestas de financiación y la transición a una nueva…</description>
-  </item>
-  <item>
-    <title>Descubren comportamientos robóticos inusuales con MotionDisco</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-descubren-comportamientos-roboticos-inusuales-con-mot-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-16-descubren-comportamientos-roboticos-inusuales-con-mot-2.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La investigación sobre robótica ha dado un paso importante con la creación de MotionDisco, un marco que permite descubrir movimientos complejos en robots humanoides de manera autónoma. Esto abre nuevas posibilidades para la automatización…</description>
-  </item>
-  <item>
-    <title>Un shredder impulsado por bicicleta para reciclar plástico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-16-un-shredder-impulsado-por-bicicleta-para-reciclar-plast.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-16-un-shredder-impulsado-por-bicicleta-para-reciclar-plast.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un equipo de estudiantes y su profesor han desarrollado un shredder impulsado por bicicleta para reciclar plástico de impresoras 3D. Esta innovadora solución puede ayudar a reducir la cantidad de residuos plásticos en el planeta.</description>
-  </item>
-  <item>
-    <title>Maker Monday: Proyectos creativos con Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-maker-monday-proyectos-creativos-con-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-maker-monday-proyectos-creativos-con-raspberry-pi.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>En social media, se están compartiendo proyectos innovadores y divertidos creados con Raspberry Pi, que van desde la creación de un espacio maker hasta la conservación de la naturaleza. Estos proyectos demuestran la versatilidad y…</description>
-  </item>
-  <item>
-    <title>Noticias de Python en Microcontroladores: suscríbete gratis</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-noticias-de-python-en-microcontroladores-suscribete-g-6.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-16-noticias-de-python-en-microcontroladores-suscribete-g-6.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El mundo de la robótica y la electrónica acaba de recibir una herramienta valiosa: una newsletter semanal sobre Python en microcontroladores y single board computers. ¿Qué hay de nuevo en el mundo de la programación de hardware?</description>
-  </item>
-  <item>
-    <title>Respond.io, la plataforma de mensajería AI que recauda $62,5 millones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-respondio-la-plataforma-de-mensajeria-ai-que-recauda-62.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-respondio-la-plataforma-de-mensajeria-ai-que-recauda-62.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Respond.io, una startup de Malasia, ha logrado recaudar $62,5 millones en una ronda de financiación para su plataforma de gestión de conversaciones de clientes con ayuda de IA. Esta plataforma ha crecido un 169% en un año y tiene una…</description>
-  </item>
-  <item>
-    <title>Modelos de lenguaje visual entrenan a robots para leer emociones humanas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-2.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los robots pueden ser más efectivos en su interacción con humanos si pueden leer nuestras emociones. Un estudio reciente ha entrenado a robots para leer emociones humanas mediante un modelo de lenguaje visual.</description>
-  </item>
-  <item>
-    <title>Investigadora destaca método para entrenar robots a hacer suposiciones informadas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-investigadora-destaca-metodo-para-entrenar-robots-a-hac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-16-investigadora-destaca-metodo-para-entrenar-robots-a-hac.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La investigadora Yen-Ling Kuo ha desarrollado un método innovador para entrenar robots a identificar y estimar la incertidumbre en escenarios no entrenados. Esto puede mejorar la eficiencia en la recopilación de datos para el entrenamiento…</description>
-  </item>
-  <item>
-    <title>XFS ya no es experimental en Linux 7.2: mejora para dispositivos zonados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-xfs-ya-no-es-experimental-en-linux-72-mejora-para-dispo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-xfs-ya-no-es-experimental-en-linux-72-mejora-para-dispo.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.2 del kernel Linux incluye una actualización importante para el sistema de archivos XFS, que ahora ya no es experimental. Esto significa que los dispositivos zonados, como los discos duros de grabación en hilera (SMR) y los…</description>
-  </item>
-  <item>
-    <title>KDE Plasma 6.7: un entorno de escritorio con mejoras significativas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-kde-plasma-67-un-entorno-de-escritorio-con-mejoras-sign.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-kde-plasma-67-un-entorno-de-escritorio-con-mejoras-sign.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de KDE ha lanzado la versión 6.7 de Plasma, un entorno de escritorio de código abierto que ofrece mejoras significativas en la experiencia del usuario. Entre ellas, la capacidad de crear escritorios virtuales por pantalla y…</description>
-  </item>
-  <item>
-    <title>Honda Civics y la vulnerabilidad de actualización de software</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-honda-civics-y-la-vulnerabilidad-de-actualizacion-de-so.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-honda-civics-y-la-vulnerabilidad-de-actualizacion-de-so.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un ingeniero ha descubierto una vulnerabilidad en los sistemas de entretenimiento de algunos modelos de Honda Civic, que permiten actualizar el software mediante un USB. Esto podría ser una solución para propietarios de vehículos con…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-actualizaciones-de-seguridad-para-sistemas-operativo-21.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-actualizaciones-de-seguridad-para-sistemas-operativo-21.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los sistemas operativos más populares han lanzado actualizaciones de seguridad para corregir vulnerabilidades críticas. Estas actualizaciones afectan a sistemas como Debian, Fedora, Mageia, Oracle y Red Hat.</description>
-  </item>
-  <item>
-    <title>Lanzado el kernel Linux 7.1: nuevas características y desarrolladores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-lanzado-el-kernel-linux-71-nuevas-caracteristicas-y-des.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-lanzado-el-kernel-linux-71-nuevas-caracteristicas-y-des.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Linus Torvalds ha lanzado el kernel Linux 7.1, una actualización importante que trae consigo una gran cantidad de nuevas características y desarrolladores. Esta versión marca un hito en la evolución del proyecto Linux, que sigue siendo una…</description>
-  </item>
-  <item>
-    <title>AMD lanza plataforma de desarrollo de IA con procesador Ryzen AI Max+ 395</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-amd-lanza-plataforma-de-desarrollo-de-ia-con-procesador.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-amd-lanza-plataforma-de-desarrollo-de-ia-con-procesador.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>AMD ha lanzado la plataforma de desarrollo de IA Ryzen AI Halo, que ofrece un procesador Ryzen AI Max+ 395 con una velocidad de 126 TOPS. Esta plataforma está diseñada para desarrolladores de IA y científicos de la computación que buscan…</description>
-  </item>
-  <item>
-    <title>Linux 7.2: mejoras en gestión de energía y soporte de hardware</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-linux-72-mejoras-en-gestion-de-energia-y-soporte-de-har.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-16-linux-72-mejoras-en-gestion-de-energia-y-soporte-de-har.md</guid>
-    <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.2 del kernel de Linux ha sido actualizada con mejoras significativas en la gestión de energía y soporte de hardware. Estas actualizaciones incluyen soporte para nuevos dispositivos y la eliminación de soporte para hardware…</description>
   </item>
 </channel>
 </rss>

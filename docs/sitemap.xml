@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-17</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-18</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-18-la-clave-para-que-robots-humanoides-ganen-maratones.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-proyectos-maker-innovadores-para-raspberry-pi.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-raspberry-pi-y-led-matrix-en-un-caso-3d-impresionado.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-encuadernacion-3d-para-led-matrix-portal-s3-de-adafruit.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-un-bebe-axolotl-articulado-3d-impresionado-sin-soportes.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-como-desactivar-la-ia-en-tus-google-docs.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-4.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-integracion-de-lerobot-con-strands-robots-para-robotica.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-glm-52-el-modelo-de-lenguaje-abiertamente-disponible-ma.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-investigadora-desarrolla-metodo-para-mejorar-la-toma-de.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-18-la-revolucion-en-la-generacion-de-codigo-que-cambio-en-.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-steamos-3810-una-actualizacion-importante-para-steam-de.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-commodore-lanza-un-telefono-movil-con-linux-y-diseno-de.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-actualizacion-de-paquetes-en-kilted-kaiju-98-nuevos-y-4.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-18-linux-72-prepara-drivers-edac-para-procesadores-intel-f.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-17-openusd-estandar-para-la-interoperabilidad-de-activos-d.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-17-descubriendo-movimientos-roboticos-complejos-sin-ayuda-.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-17-ros2-en-stm32-opciones-para-comunicacion-serial-con-sbc.md</loc><lastmod>2026-06-17</lastmod><priority>0.8</priority></url>
