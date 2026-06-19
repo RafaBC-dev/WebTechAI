@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "La clave para que los robots humanoides ganen maratones",
+      "category": "robotica",
+      "date": "2026-06-19",
+      "slug": "la-clave-para-que-los-robots-humanoides-ganen-maratones",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "El robot humanoide Honor Lightning ha roto el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos, superando a los humanos en 7 minutos y a los robots en casi dos horas. ¿Cuál es el secreto detrás de este logro?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-19-la-clave-para-que-los-robots-humanoides-ganen-maratones.md"
+    },
+    {
+      "title": "Robot agrícola autónomo WEEDINATOR, un horticultor eficaz para 2026",
+      "category": "robotica",
+      "date": "2026-06-19",
+      "slug": "robot-agricola-autonomo-weedinator-un-horticultor-efica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Después de casi una década de trabajo en el proyecto WEEDINATOR, un robot agrícola autónomo ha alcanzado un hito importante: se ha convertido en un horticultor eficaz. El robot utiliza tecnología de visión computacional y control de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-19-robot-agricola-autonomo-weedinator-un-horticultor-efica.md"
+    },
+    {
+      "title": "Impresión 3D de una manta rayadora con detalles impresionantes",
+      "category": "diseño-3d",
+      "date": "2026-06-19",
+      "slug": "impresion-3d-de-una-manta-rayadora-con-detalles-impresi",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una manta rayadora impresionante con detalles precisos, utilizando una tecnología de impresión 3D avanzada. Este proyecto muestra la capacidad de la impresión 3D para crear objetos complejos y…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-06-19-impresion-3d-de-una-manta-rayadora-con-detalles-impresi.md"
+    },
+    {
+      "title": "Impresión 3D de un engranaje planetario que gira libremente",
+      "category": "embebidos",
+      "date": "2026-06-19",
+      "slug": "impresion-3d-de-un-engranaje-planetario-que-gira-librem",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "impression-3d"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una impresión en lugar de un engranaje planetario que gira libremente directamente desde la placa. Esta innovación abre nuevas posibilidades para proyectos de robótica y automatización.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-19-impresion-3d-de-un-engranaje-planetario-que-gira-librem.md"
+    },
+    {
+      "title": "Un casco de gato inspirado en Loki creado con impresión 3D",
+      "category": "embebidos",
+      "date": "2026-06-19",
+      "slug": "un-casco-de-gato-inspirado-en-loki-creado-con-impresion",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "hardware"
+      ],
+      "preview": "La comunidad de impresión 3D sigue sorprendiendo con proyectos innovadores y divertidos. En esta ocasión, un creador ha diseñado un casco de gato inspirado en Loki, el personaje de Marvel, utilizando la impresión 3D.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-19-un-casco-de-gato-inspirado-en-loki-creado-con-impresion.md"
+    },
+    {
+      "title": "AMD lanza un agente de codificación AI para scripts Bash",
+      "category": "ia",
+      "date": "2026-06-19",
+      "slug": "amd-lanza-un-agente-de-codificacion-ai-para-scripts-bas",
+      "tags": [
+        "ia-local",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "AMD ha lanzado un nuevo agente de codificación AI llamado gaia-bash, diseñado para ayudar a los desarrolladores a escribir, revisar, probar y depurar scripts Bash en hardware AMD.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-19-amd-lanza-un-agente-de-codificacion-ai-para-scripts-bas.md"
+    },
+    {
+      "title": "Modelos de lenguaje visual entrenan a robots para leer emociones humanas",
+      "category": "ia",
+      "date": "2026-06-19",
+      "slug": "modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-5",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmark"
+      ],
+      "preview": "Los robots están avanzando en términos de dexteridad y capacidades físicas, pero aún no pueden leer las emociones humanas. Un estudio reciente ha entrenado a robots para leer emociones humanas mediante un modelo de lenguaje visual.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-19-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-5.md"
+    },
+    {
+      "title": "Baseten, startup de IA, recibe $1.5 billones en una ronda de financiación impresionante",
+      "category": "ia",
+      "date": "2026-06-19",
+      "slug": "baseten-startup-de-ia-recibe-15-billones-en-una-ronda-d",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "La startup de inteligencia artificial Baseten está a punto de cerrar una ronda de financiación de $1.5 billones, lo que representa un aumento del 160% en su valoración en menos de medio año. Esta noticia destaca la creciente inversión en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-19-baseten-startup-de-ia-recibe-15-billones-en-una-ronda-d.md"
+    },
+    {
+      "title": "Recomendaciones para usar LLM-back generative AI en contribuciones de FOSS",
+      "category": "ia",
+      "date": "2026-06-19",
+      "slug": "recomendaciones-para-usar-llm-back-generative-ai-en-con",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La Software Freedom Conservancy ha lanzado recomendaciones para usar sistemas de inteligencia artificial generativa respaldados por LLM en contribuciones de software libre. Estas recomendaciones buscan ayudar a los desarrolladores de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-19-recomendaciones-para-usar-llm-back-generative-ai-en-con.md"
+    },
+    {
+      "title": "Investigadora entrena robots para hacer suposiciones informadas",
+      "category": "ia",
+      "date": "2026-06-19",
+      "slug": "investigadora-entrena-robots-para-hacer-suposiciones-in",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Yen-Ling Kuo, una experta en robótica, ha desarrollado un método innovador para que los robots puedan identificar y estimar la incertidumbre en escenarios no entrenados. Esto podría mejorar la eficiencia en la recopilación de datos…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-19-investigadora-entrena-robots-para-hacer-suposiciones-in.md"
+    },
+    {
+      "title": "Qualcomm cambia el juego con Linux 2.0 para IoT",
+      "category": "linux",
+      "date": "2026-06-19",
+      "slug": "qualcomm-cambia-el-juego-con-linux-20-para-iot",
+      "tags": [
+        "linux",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Después de años de problemas con Linux en SoCs de Qualcomm, la empresa anuncia un cambio radical con Linux 2.0 para Dragonwing IoT. Este nuevo enfoque promete una experiencia más predecible y escalable.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-19-qualcomm-cambia-el-juego-con-linux-20-para-iot.md"
+    },
+    {
+      "title": "Corriendo Linux en un procesador de 1980: un logro impresionante",
+      "category": "linux",
+      "date": "2026-06-19",
+      "slug": "corriendo-linux-en-un-procesador-de-1980-un-logro-impre",
+      "tags": [
+        "linux",
+        "embebidos",
+        "codigo"
+      ],
+      "preview": "Los desarrolladores de Linux han estado eliminando soporte para procesadores antiguos, pero un ingeniero ha logrado correr el kernel más reciente en un Motorola 68008 de 1980. Esto demuestra la flexibilidad y la capacidad de adaptación de…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-19-corriendo-linux-en-un-procesador-de-1980-un-logro-impre.md"
+    },
+    {
+      "title": "Repo-Semantic-Memory: un sistema de contexto para codificadores en ROS 2",
+      "category": "linux",
+      "date": "2026-06-19",
+      "slug": "repo-semantic-memory-un-sistema-de-contexto-para-codifi",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "Repo-Semantic-Memory (RSM) es una herramienta que ayuda a los desarrolladores de ROS 2 a encontrar y acceder a la información relevante de un proyecto, reduciendo el tiempo y la complejidad en la codificación.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-19-repo-semantic-memory-un-sistema-de-contexto-para-codifi.md"
+    },
+    {
+      "title": "Nueva extensión para VS Code para ejecutar ROS2 de manera rápida",
+      "category": "linux",
+      "date": "2026-06-19",
+      "slug": "nueva-extension-para-vs-code-para-ejecutar-ros2-de-mane",
+      "tags": [
+        "robotica",
+        "codigo",
+        "linux"
+      ],
+      "preview": "La comunidad de desarrolladores de ROS2 ha recibido una noticia importante con la creación de una nueva extensión para VS Code que permite ejecutar launch files, nodos Python y C++ de manera rápida y sencilla.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-19-nueva-extension-para-vs-code-para-ejecutar-ros2-de-mane.md"
+    },
+    {
+      "title": "Vulnerabilidad de lectura de archivos arbitrarios en WebsocketServer",
+      "category": "linux",
+      "date": "2026-06-19",
+      "slug": "vulnerabilidad-de-lectura-de-archivos-arbitrarios-en-we",
+      "tags": [
+        "robotica",
+        "linux",
+        "seguridad"
+      ],
+      "preview": "Una vulnerabilidad de seguridad ha sido identificada en el plugin WebsocketServer de Gazebo, que permite la lectura de archivos arbitrarios en el sistema host. Esto puede ser explotado por cualquier cliente en la red que pueda alcanzar el…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-19-vulnerabilidad-de-lectura-de-archivos-arbitrarios-en-we.md"
+    },
+    {
       "title": "La clave para que robots humanoides ganen maratones",
       "category": "robotica",
       "date": "2026-06-18",

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-18</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-19</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-la-clave-para-que-los-robots-humanoides-ganen-maratones.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-robot-agricola-autonomo-weedinator-un-horticultor-efica.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-19-impresion-3d-de-una-manta-rayadora-con-detalles-impresi.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-19-impresion-3d-de-un-engranaje-planetario-que-gira-librem.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-19-un-casco-de-gato-inspirado-en-loki-creado-con-impresion.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-amd-lanza-un-agente-de-codificacion-ai-para-scripts-bas.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-5.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-baseten-startup-de-ia-recibe-15-billones-en-una-ronda-d.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-recomendaciones-para-usar-llm-back-generative-ai-en-con.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-investigadora-entrena-robots-para-hacer-suposiciones-in.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-qualcomm-cambia-el-juego-con-linux-20-para-iot.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-corriendo-linux-en-un-procesador-de-1980-un-logro-impre.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-repo-semantic-memory-un-sistema-de-contexto-para-codifi.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-nueva-extension-para-vs-code-para-ejecutar-ros2-de-mane.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-vulnerabilidad-de-lectura-de-archivos-arbitrarios-en-we.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-18-la-clave-para-que-robots-humanoides-ganen-maratones.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-proyectos-maker-innovadores-para-raspberry-pi.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-18-raspberry-pi-y-led-matrix-en-un-caso-3d-impresionado.md</loc><lastmod>2026-06-18</lastmod><priority>0.8</priority></url>
