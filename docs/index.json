@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Reunión de la comunidad ROS OE: sincronización y mejora de UX",
+      "category": "robotica",
+      "date": "2026-06-20",
+      "slug": "reunion-de-la-comunidad-ros-oe-sincronizacion-y-mejora-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad ROS OE se reúne para discutir la sincronización de las liberaciones de ROS y Space ROS, y mejorar la experiencia de usuario para nuevos usuarios.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-20-reunion-de-la-comunidad-ros-oe-sincronizacion-y-mejora-.md"
+    },
+    {
+      "title": "ROS2 Masterclass: Formación en Robótica con ROS2 y Oportunidades Laborales",
+      "category": "robotica",
+      "date": "2026-06-20",
+      "slug": "ros2-masterclass-formacion-en-robotica-con-ros2-y-oport",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa ETGAH ha lanzado la primera cohorte de su ROS2 Robotics Masterclass, una formación en línea de un mes que ofrece experiencia práctica en robótica con ROS2. Los participantes recibirán entrenamiento en vivo, proyectos prácticos…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-20-ros2-masterclass-formacion-en-robotica-con-ros2-y-oport.md"
+    },
+    {
+      "title": "Cómo Amazon dio un alma a su robot Astro",
+      "category": "robotica",
+      "date": "2026-06-20",
+      "slug": "como-amazon-dio-un-alma-a-su-robot-astro",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon creó Astro, un robot que puede moverse por la casa y ayudar a los usuarios. Pero ¿cómo le dio un carácter a este robot? A continuación, se explica cómo se creó el carácter de Astro y qué lecciones se pueden aprender de este proyecto.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-20-como-amazon-dio-un-alma-a-su-robot-astro.md"
+    },
+    {
+      "title": "Cómo los robots humanoides ganaron la maratón: la fórmula detrás del éxito",
+      "category": "robotica",
+      "date": "2026-06-20",
+      "slug": "como-los-robots-humanoides-ganaron-la-maraton-la-formul",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "El robot humanoid 'Honor Lightning' ha roto el récord mundial de maratón con un tiempo de 50 minutos y 26 segundos. Pero ¿qué secreto ha permitido a este robot superar a los humanos y a otros robots?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-20-como-los-robots-humanoides-ganaron-la-maraton-la-formul.md"
+    },
+    {
+      "title": "¿Los robots necesitan piernas? Explorando la robótica del futuro",
+      "category": "robotica",
+      "date": "2026-06-20",
+      "slug": "los-robots-necesitan-piernas-explorando-la-robotica-del",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de diseñar robots que puedan operar en entornos extremos. En este artículo, veremos algunos ejemplos de robots innovadores que están cambiando…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-20-los-robots-necesitan-piernas-explorando-la-robotica-del.md"
+    },
+    {
+      "title": "ZeroDDS: una alternativa de comunicación segura para ROS 2",
+      "category": "robotica",
+      "date": "2026-06-20",
+      "slug": "zerodds-una-alternativa-de-comunicacion-segura-para-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "ZeroDDS es un proyecto que busca abordar los problemas de comunicación en ROS 2, una plataforma de robótica de código abierto. Después de recopilar 349 informes de problemas reales, los desarrolladores han creado una solución alternativa…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-20-zerodds-una-alternativa-de-comunicacion-segura-para-ros.md"
+    },
+    {
+      "title": "Maker Monday: Proyectos innovadores con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-06-20",
+      "slug": "maker-monday-proyectos-innovadores-con-raspberry-pi-2",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "En las redes sociales, se están compartiendo proyectos creativos y útiles creados con Raspberry Pi, desde una 'paradise maker' hasta una forma de conservar la naturaleza.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-20-maker-monday-proyectos-innovadores-con-raspberry-pi-2.md"
+    },
+    {
+      "title": "Un dispositivo de Raspberry Pi Zero para IoT con soporte de energía y conectividad",
+      "category": "embebidos",
+      "date": "2026-06-20",
+      "slug": "un-dispositivo-de-raspberry-pi-zero-para-iot-con-soport",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La Raspberry Pi Zero es un dispositivo popular para proyectos de IoT, pero a menudo requiere componentes adicionales para funcionar en entornos de campo. El Edgeberry Zero es una solución que combina la Pi Zero con un suministro de energía…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-20-un-dispositivo-de-raspberry-pi-zero-para-iot-con-soport.md"
+    },
+    {
+      "title": "Pine64 lanza PineVoice, un altavoz inteligente de $50 para Home Assistant",
+      "category": "embebidos",
+      "date": "2026-06-20",
+      "slug": "pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-par",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Pine64 ha lanzado PineVoice, un altavoz inteligente de bajo costo basado en el microcontrolador Bouffalo Lab BL606P. Este dispositivo es ideal para integrarlo con Home Assistant y disfrutar de una experiencia de voz asistida en casa.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-20-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-par.md"
+    },
+    {
+      "title": "Lenguajes de modelo de lenguaje: ¿pueden hacer cálculos correctamente?",
+      "category": "ia",
+      "date": "2026-06-20",
+      "slug": "lenguajes-de-modelo-de-lenguaje-pueden-hacer-calculos-c",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Los lenguajes de modelo de lenguaje (LLM) son capaces de realizar tareas complejas, pero ¿qué sucede cuando se les pide que hagan cálculos simples? Un proyecto reciente busca mejorar la capacidad de los LLM para realizar aritmética.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-20-lenguajes-de-modelo-de-lenguaje-pueden-hacer-calculos-c.md"
+    },
+    {
+      "title": "Systemd v261: Nuevas funcionalidades para sistemas embebidos",
+      "category": "linux",
+      "date": "2026-06-20",
+      "slug": "systemd-v261-nuevas-funcionalidades-para-sistemas-embeb",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Systemd v261 ha sido lanzado con una larga lista de cambios, incluyendo un nuevo subconjunto para servicios de metadatos de instancia en la nube y funcionalidades de secreto de arranque para sistemas que carecen de un TPM físico. Esto…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-20-systemd-v261-nuevas-funcionalidades-para-sistemas-embeb.md"
+    },
+    {
+      "title": "Soporte para tarjetas gráficas Barco MXRT en Linux gracias a AMD",
+      "category": "linux",
+      "date": "2026-06-20",
+      "slug": "soporte-para-tarjetas-graficas-barco-mxrt-en-linux-grac",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa Barco ha estado utilizando tarjetas gráficas basadas en GPU de AMD para sus sistemas de visualización médica, pero hasta ahora solo habían sido compatibles con Windows. Sin embargo, un desarrollador ha creado un parche para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-20-soporte-para-tarjetas-graficas-barco-mxrt-en-linux-grac.md"
+    },
+    {
+      "title": "NVK Vulkan Driver de NVIDIA ahora admite DLSS en Linux",
+      "category": "linux",
+      "date": "2026-06-20",
+      "slug": "nvk-vulkan-driver-de-nvidia-ahora-admite-dlss-en-linux",
+      "tags": [
+        "linux",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "El driver NVK de Vulkan de NVIDIA ha alcanzado un importante hito: ahora admite la tecnología de supermuestreo de aprendizaje profundo (DLSS) en Linux. Esto significa que los jugadores de Linux pueden disfrutar de una experiencia de juego…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-20-nvk-vulkan-driver-de-nvidia-ahora-admite-dlss-en-linux.md"
+    },
+    {
+      "title": "BPF programas pueden suspenderse y reanudarse, facilitando tareas largas",
+      "category": "linux",
+      "date": "2026-06-20",
+      "slug": "bpf-programas-pueden-suspenderse-y-reanudarse-facilitan",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El desarrollo de BPF programas en Linux ha permitido extender muchas funcionalidades del kernel, pero ha tenido un inconveniente: debían completarse en el mismo contexto en el que comenzaron. Esto ha limitado su utilidad para tareas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-20-bpf-programas-pueden-suspenderse-y-reanudarse-facilitan.md"
+    },
+    {
+      "title": "Mejoras en el driver NTFS y soporte para enlaces simbólicos en Linux 7.2",
+      "category": "linux",
+      "date": "2026-06-20",
+      "slug": "mejoras-en-el-driver-ntfs-y-soporte-para-enlaces-simbol",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El driver NTFS de Linux ha recibido importantes mejoras en la versión 7.2, incluyendo soporte para enlaces simbólicos nativos de Windows y una mayor hardening contra metadatos malformados.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-20-mejoras-en-el-driver-ntfs-y-soporte-para-enlaces-simbol.md"
+    },
+    {
       "title": "La clave para que los robots humanoides ganen maratones",
       "category": "robotica",
       "date": "2026-06-19",

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-19</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-20</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-20</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-reunion-de-la-comunidad-ros-oe-sincronizacion-y-mejora-.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-ros2-masterclass-formacion-en-robotica-con-ros2-y-oport.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-como-amazon-dio-un-alma-a-su-robot-astro.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-como-los-robots-humanoides-ganaron-la-maraton-la-formul.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-los-robots-necesitan-piernas-explorando-la-robotica-del.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-zerodds-una-alternativa-de-comunicacion-segura-para-ros.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-maker-monday-proyectos-innovadores-con-raspberry-pi-2.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-un-dispositivo-de-raspberry-pi-zero-para-iot-con-soport.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-par.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-20-lenguajes-de-modelo-de-lenguaje-pueden-hacer-calculos-c.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-systemd-v261-nuevas-funcionalidades-para-sistemas-embeb.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-soporte-para-tarjetas-graficas-barco-mxrt-en-linux-grac.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-nvk-vulkan-driver-de-nvidia-ahora-admite-dlss-en-linux.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-bpf-programas-pueden-suspenderse-y-reanudarse-facilitan.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-mejoras-en-el-driver-ntfs-y-soporte-para-enlaces-simbol.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-la-clave-para-que-los-robots-humanoides-ganen-maratones.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-robot-agricola-autonomo-weedinator-un-horticultor-efica.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-19-impresion-3d-de-una-manta-rayadora-con-detalles-impresi.md</loc><lastmod>2026-06-19</lastmod><priority>0.8</priority></url>
