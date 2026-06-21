@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "¿Los robots necesitan piernas? Explorando la innovación en robótica",
+      "category": "robotica",
+      "date": "2026-06-21",
+      "slug": "los-robots-necesitan-piernas-explorando-la-innovacion-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La robótica está evolucionando rápidamente, con proyectos que desafían la idea de que los robots necesitan piernas para ser efectivos. En este artículo, exploraremos algunas de las innovaciones más interesantes en el campo de la robótica.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-21-los-robots-necesitan-piernas-explorando-la-innovacion-e.md"
+    },
+    {
+      "title": "Amazon Astro: La robotización del hogar y la creación de personajes robóticos",
+      "category": "robotica",
+      "date": "2026-06-21",
+      "slug": "amazon-astro-la-robotizacion-del-hogar-y-la-creacion-de",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Amazon Astro es un robot de hogar que utiliza cámaras y sensores para mapear y navegar por el hogar y el lugar de trabajo. Su objetivo es ser un compañero de confianza que pueda realizar tareas y proporcionar información de manera…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-21-amazon-astro-la-robotizacion-del-hogar-y-la-creacion-de.md"
+    },
+    {
+      "title": "La clave para que los robots humanoides ganen maratones",
+      "category": "robotica",
+      "date": "2026-06-21",
+      "slug": "la-clave-para-que-los-robots-humanoides-ganen-maraton-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El robot humanoide Honor Lightning ha batido el récord mundial de velocidad en una carrera de media maratón, pero ¿qué secreto ha permitido su éxito? En este artículo, exploraremos las limitaciones físicas que enfrentan los robots…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-21-la-clave-para-que-los-robots-humanoides-ganen-maraton-2.md"
+    },
+    {
+      "title": "¿Por qué las tarjetas de red SFP+ se calientan demasiado?",
+      "category": "embebidos",
+      "date": "2026-06-21",
+      "slug": "por-que-las-tarjetas-de-red-sfp-se-calientan-demasiado",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un usuario ha descubierto que las tarjetas de red SFP+ de 10 Gbit se calientan demasiado, lo que puede provocar problemas de funcionamiento. Esto se debe a que las tarjetas están diseñadas para funcionar con fibra óptica, pero se están…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-21-por-que-las-tarjetas-de-red-sfp-se-calientan-demasiado.md"
+    },
+    {
+      "title": "Maker Monday: Proyectos increíbles con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-06-21",
+      "slug": "maker-monday-proyectos-increibles-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La comunidad de Maker Monday comparte proyectos emocionantes creados con Raspberry Pi, desde un parque de juegos hasta una forma innovadora de conservar la naturaleza.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-21-maker-monday-proyectos-increibles-con-raspberry-pi.md"
+    },
+    {
+      "title": "Pine64 lanza PineVoice, un altavoz inteligente de $50 para Home Assistant",
+      "category": "embebidos",
+      "date": "2026-06-21",
+      "slug": "pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-p-2",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Pine64 ha lanzado PineVoice, un altavoz inteligente de $50 basado en el microcontrolador RISC-V Bouffalo Lab BL606P. Este dispositivo está diseñado para trabajar con Home Assistant y ofrece varias características interesantes.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-21-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-p-2.md"
+    },
+    {
+      "title": "Un disco de 1980 funciona en un WiiU gracias a un cable y un adaptador",
+      "category": "ia",
+      "date": "2026-06-21",
+      "slug": "un-disco-de-1980-funciona-en-un-wiiu-gracias-a-un-cable",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "Un equipo de experimentación ha logrado conectar un disco de 1980 a un WiiU, demostrando que la tecnología antigua puede seguir siendo útil en la actualidad.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-21-un-disco-de-1980-funciona-en-un-wiiu-gracias-a-un-cable.md"
+    },
+    {
+      "title": "Meredith Whittaker advierte sobre los peligros de los chatbots de IA",
+      "category": "ia",
+      "date": "2026-06-21",
+      "slug": "meredith-whittaker-advierte-sobre-los-peligros-de-los-c",
+      "tags": [
+        "ia-local",
+        "linux",
+        "python"
+      ],
+      "preview": "La presidenta de Signal, Meredith Whittaker, ha expresado su preocupación sobre la creciente popularidad de los chatbots de IA como ChatGPT y Claude, que pueden acceder a información personal y comprometer la privacidad de los usuarios.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-21-meredith-whittaker-advierte-sobre-los-peligros-de-los-c.md"
+    },
+    {
+      "title": "Crear un servicio personalizado en Flowstate para AIC Phase 1",
+      "category": "ia",
+      "date": "2026-06-21",
+      "slug": "crear-un-servicio-personalizado-en-flowstate-para-aic-p",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El equipo de AIC ha lanzado una nueva fase de su proyecto, que requiere la creación de un servicio personalizado en Flowstate. Este servicio debe ser capaz de interactuar con el router de AIC y ejecutar ciertas acciones. Sin embargo, la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-21-crear-un-servicio-personalizado-en-flowstate-para-aic-p.md"
+    },
+    {
+      "title": "Scry: una herramienta de depuración de robots ROS 2 con asistencia de IA",
+      "category": "ia",
+      "date": "2026-06-21",
+      "slug": "scry-una-herramienta-de-depuracion-de-robots-ros-2-con-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python",
+        "herramientas"
+      ],
+      "preview": "Después de años de frustración con la depuración en campo, un desarrollador ha creado Scry, una herramienta de depuración de robots ROS 2 que utiliza una asistencia de IA para ayudar a los usuarios a identificar y solucionar problemas en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-21-scry-una-herramienta-de-depuracion-de-robots-ros-2-con-.md"
+    },
+    {
+      "title": "Systemd v261: Nueva versión con cambios significativos",
+      "category": "linux",
+      "date": "2026-06-21",
+      "slug": "systemd-v261-nueva-version-con-cambios-significativos",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 261 de Systemd ha sido lanzada con una larga lista de cambios importantes, incluyendo un nuevo subsistema para servicios en la nube y funcionalidades de seguridad para sistemas sin TPM físico. Esto afecta a sistemas Linux y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-21-systemd-v261-nueva-version-con-cambios-significativos.md"
+    },
+    {
+      "title": "Nueva herramienta de depuración gráfica para ROS 2 y Eclipse Cyclone DDS",
+      "category": "linux",
+      "date": "2026-06-21",
+      "slug": "nueva-herramienta-de-depuracion-grafica-para-ros-2-y-ec",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha recibido un regalo con la llegada de CycloneDDS Insight, una herramienta de depuración gráfica que facilita la inspección y depuración de sistemas ROS 2 distribuidos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-21-nueva-herramienta-de-depuracion-grafica-para-ros-2-y-ec.md"
+    },
+    {
+      "title": "NVIDIA prepara soporte para 'Blackwell-Next' en Linux 7.2",
+      "category": "linux",
+      "date": "2026-06-21",
+      "slug": "nvidia-prepara-soporte-para-blackwell-next-en-linux-72",
+      "tags": [
+        "linux",
+        "nvidia",
+        "gpu"
+      ],
+      "preview": "NVIDIA ha comenzado a preparar el soporte para su próxima generación de GPUs, denominada 'Blackwell-Next', en la versión 7.2 del kernel de Linux. Esto significa que los usuarios de Linux podrán disfrutar de una mayor compatibilidad con las…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-21-nvidia-prepara-soporte-para-blackwell-next-en-linux-72.md"
+    },
+    {
+      "title": "Programas BPF pueden suspenderse y reanudarse: un cambio importante",
+      "category": "linux",
+      "date": "2026-06-21",
+      "slug": "programas-bpf-pueden-suspenderse-y-reanudarse-un-cambio",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los programas BPF son una herramienta poderosa para extender el kernel de Linux, pero hasta ahora han tenido una limitación importante: debían terminar en el mismo contexto en que comenzaron. Esto puede cambiar pronto gracias a un trabajo…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-21-programas-bpf-pueden-suspenderse-y-reanudarse-un-cambio.md"
+    },
+    {
+      "title": "KUnit de Linux ahora soporta JUnit para mejorar la interoperabilidad",
+      "category": "linux",
+      "date": "2026-06-21",
+      "slug": "kunit-de-linux-ahora-soporta-junit-para-mejorar-la-inte",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La herramienta de pruebas unitarias KUnit de Linux ha agregado soporte para la salida en formato JUnit, lo que mejorará la interoperabilidad con sistemas de integración continua como Jenkins.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-21-kunit-de-linux-ahora-soporta-junit-para-mejorar-la-inte.md"
+    },
+    {
       "title": "Reunión de la comunidad ROS OE: sincronización y mejora de UX",
       "category": "robotica",
       "date": "2026-06-20",

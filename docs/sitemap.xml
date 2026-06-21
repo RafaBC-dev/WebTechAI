@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-20</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-20</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-21</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-los-robots-necesitan-piernas-explorando-la-innovacion-e.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-amazon-astro-la-robotizacion-del-hogar-y-la-creacion-de.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-la-clave-para-que-los-robots-humanoides-ganen-maraton-2.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-por-que-las-tarjetas-de-red-sfp-se-calientan-demasiado.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-maker-monday-proyectos-increibles-con-raspberry-pi.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-p-2.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-un-disco-de-1980-funciona-en-un-wiiu-gracias-a-un-cable.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-meredith-whittaker-advierte-sobre-los-peligros-de-los-c.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-crear-un-servicio-personalizado-en-flowstate-para-aic-p.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-scry-una-herramienta-de-depuracion-de-robots-ros-2-con-.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-systemd-v261-nueva-version-con-cambios-significativos.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-nueva-herramienta-de-depuracion-grafica-para-ros-2-y-ec.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-nvidia-prepara-soporte-para-blackwell-next-en-linux-72.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-programas-bpf-pueden-suspenderse-y-reanudarse-un-cambio.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-kunit-de-linux-ahora-soporta-junit-para-mejorar-la-inte.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-reunion-de-la-comunidad-ros-oe-sincronizacion-y-mejora-.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-ros2-masterclass-formacion-en-robotica-con-ros2-y-oport.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-como-amazon-dio-un-alma-a-su-robot-astro.md</loc><lastmod>2026-06-20</lastmod><priority>0.8</priority></url>

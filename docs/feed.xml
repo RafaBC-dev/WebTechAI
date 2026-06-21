@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 09:59:07 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 10:27:12 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>¿Los robots necesitan piernas? Explorando la innovación en robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-los-robots-necesitan-piernas-explorando-la-innovacion-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-los-robots-necesitan-piernas-explorando-la-innovacion-e.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica está evolucionando rápidamente, con proyectos que desafían la idea de que los robots necesitan piernas para ser efectivos. En este artículo, exploraremos algunas de las innovaciones más interesantes en el campo de la robótica.</description>
+  </item>
+  <item>
+    <title>Amazon Astro: La robotización del hogar y la creación de personajes robóticos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-amazon-astro-la-robotizacion-del-hogar-y-la-creacion-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-amazon-astro-la-robotizacion-del-hogar-y-la-creacion-de.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Amazon Astro es un robot de hogar que utiliza cámaras y sensores para mapear y navegar por el hogar y el lugar de trabajo. Su objetivo es ser un compañero de confianza que pueda realizar tareas y proporcionar información de manera…</description>
+  </item>
+  <item>
+    <title>La clave para que los robots humanoides ganen maratones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-la-clave-para-que-los-robots-humanoides-ganen-maraton-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-la-clave-para-que-los-robots-humanoides-ganen-maraton-2.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot humanoide Honor Lightning ha batido el récord mundial de velocidad en una carrera de media maratón, pero ¿qué secreto ha permitido su éxito? En este artículo, exploraremos las limitaciones físicas que enfrentan los robots…</description>
+  </item>
+  <item>
+    <title>¿Por qué las tarjetas de red SFP+ se calientan demasiado?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-por-que-las-tarjetas-de-red-sfp-se-calientan-demasiado.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-por-que-las-tarjetas-de-red-sfp-se-calientan-demasiado.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un usuario ha descubierto que las tarjetas de red SFP+ de 10 Gbit se calientan demasiado, lo que puede provocar problemas de funcionamiento. Esto se debe a que las tarjetas están diseñadas para funcionar con fibra óptica, pero se están…</description>
+  </item>
+  <item>
+    <title>Maker Monday: Proyectos increíbles con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-maker-monday-proyectos-increibles-con-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-maker-monday-proyectos-increibles-con-raspberry-pi.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de Maker Monday comparte proyectos emocionantes creados con Raspberry Pi, desde un parque de juegos hasta una forma innovadora de conservar la naturaleza.</description>
+  </item>
+  <item>
+    <title>Pine64 lanza PineVoice, un altavoz inteligente de $50 para Home Assistant</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-p-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-21-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-p-2.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Pine64 ha lanzado PineVoice, un altavoz inteligente de $50 basado en el microcontrolador RISC-V Bouffalo Lab BL606P. Este dispositivo está diseñado para trabajar con Home Assistant y ofrece varias características interesantes.</description>
+  </item>
+  <item>
+    <title>Un disco de 1980 funciona en un WiiU gracias a un cable y un adaptador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-un-disco-de-1980-funciona-en-un-wiiu-gracias-a-un-cable.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-un-disco-de-1980-funciona-en-un-wiiu-gracias-a-un-cable.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de experimentación ha logrado conectar un disco de 1980 a un WiiU, demostrando que la tecnología antigua puede seguir siendo útil en la actualidad.</description>
+  </item>
+  <item>
+    <title>Meredith Whittaker advierte sobre los peligros de los chatbots de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-meredith-whittaker-advierte-sobre-los-peligros-de-los-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-meredith-whittaker-advierte-sobre-los-peligros-de-los-c.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La presidenta de Signal, Meredith Whittaker, ha expresado su preocupación sobre la creciente popularidad de los chatbots de IA como ChatGPT y Claude, que pueden acceder a información personal y comprometer la privacidad de los usuarios.</description>
+  </item>
+  <item>
+    <title>Crear un servicio personalizado en Flowstate para AIC Phase 1</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-crear-un-servicio-personalizado-en-flowstate-para-aic-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-crear-un-servicio-personalizado-en-flowstate-para-aic-p.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El equipo de AIC ha lanzado una nueva fase de su proyecto, que requiere la creación de un servicio personalizado en Flowstate. Este servicio debe ser capaz de interactuar con el router de AIC y ejecutar ciertas acciones. Sin embargo, la…</description>
+  </item>
+  <item>
+    <title>Scry: una herramienta de depuración de robots ROS 2 con asistencia de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-scry-una-herramienta-de-depuracion-de-robots-ros-2-con-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-21-scry-una-herramienta-de-depuracion-de-robots-ros-2-con-.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Después de años de frustración con la depuración en campo, un desarrollador ha creado Scry, una herramienta de depuración de robots ROS 2 que utiliza una asistencia de IA para ayudar a los usuarios a identificar y solucionar problemas en…</description>
+  </item>
+  <item>
+    <title>Systemd v261: Nueva versión con cambios significativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-systemd-v261-nueva-version-con-cambios-significativos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-systemd-v261-nueva-version-con-cambios-significativos.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 261 de Systemd ha sido lanzada con una larga lista de cambios importantes, incluyendo un nuevo subsistema para servicios en la nube y funcionalidades de seguridad para sistemas sin TPM físico. Esto afecta a sistemas Linux y…</description>
+  </item>
+  <item>
+    <title>Nueva herramienta de depuración gráfica para ROS 2 y Eclipse Cyclone DDS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-nueva-herramienta-de-depuracion-grafica-para-ros-2-y-ec.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-nueva-herramienta-de-depuracion-grafica-para-ros-2-y-ec.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS 2 ha recibido un regalo con la llegada de CycloneDDS Insight, una herramienta de depuración gráfica que facilita la inspección y depuración de sistemas ROS 2 distribuidos.</description>
+  </item>
+  <item>
+    <title>NVIDIA prepara soporte para 'Blackwell-Next' en Linux 7.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-nvidia-prepara-soporte-para-blackwell-next-en-linux-72.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-nvidia-prepara-soporte-para-blackwell-next-en-linux-72.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>NVIDIA ha comenzado a preparar el soporte para su próxima generación de GPUs, denominada 'Blackwell-Next', en la versión 7.2 del kernel de Linux. Esto significa que los usuarios de Linux podrán disfrutar de una mayor compatibilidad con las…</description>
+  </item>
+  <item>
+    <title>Programas BPF pueden suspenderse y reanudarse: un cambio importante</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-programas-bpf-pueden-suspenderse-y-reanudarse-un-cambio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-programas-bpf-pueden-suspenderse-y-reanudarse-un-cambio.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Los programas BPF son una herramienta poderosa para extender el kernel de Linux, pero hasta ahora han tenido una limitación importante: debían terminar en el mismo contexto en que comenzaron. Esto puede cambiar pronto gracias a un trabajo…</description>
+  </item>
+  <item>
+    <title>KUnit de Linux ahora soporta JUnit para mejorar la interoperabilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-kunit-de-linux-ahora-soporta-junit-para-mejorar-la-inte.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-21-kunit-de-linux-ahora-soporta-junit-para-mejorar-la-inte.md</guid>
+    <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La herramienta de pruebas unitarias KUnit de Linux ha agregado soporte para la salida en formato JUnit, lo que mejorará la interoperabilidad con sistemas de integración continua como Jenkins.</description>
+  </item>
   <item>
     <title>Reunión de la comunidad ROS OE: sincronización y mejora de UX</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-reunion-de-la-comunidad-ros-oe-sincronizacion-y-mejora-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>El driver NTFS de Linux ha recibido importantes mejoras en la versión 7.2, incluyendo soporte para enlaces simbólicos nativos de Windows y una mayor hardening contra metadatos malformados.</description>
-  </item>
-  <item>
-    <title>La clave para que los robots humanoides ganen maratones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-la-clave-para-que-los-robots-humanoides-ganen-maratones.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-la-clave-para-que-los-robots-humanoides-ganen-maratones.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot humanoide Honor Lightning ha roto el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos, superando a los humanos en 7 minutos y a los robots en casi dos horas. ¿Cuál es el secreto detrás de este logro?</description>
-  </item>
-  <item>
-    <title>Robot agrícola autónomo WEEDINATOR, un horticultor eficaz para 2026</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-robot-agricola-autonomo-weedinator-un-horticultor-efica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-19-robot-agricola-autonomo-weedinator-un-horticultor-efica.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Después de casi una década de trabajo en el proyecto WEEDINATOR, un robot agrícola autónomo ha alcanzado un hito importante: se ha convertido en un horticultor eficaz. El robot utiliza tecnología de visión computacional y control de…</description>
-  </item>
-  <item>
-    <title>Impresión 3D de una manta rayadora con detalles impresionantes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-19-impresion-3d-de-una-manta-rayadora-con-detalles-impresi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-19-impresion-3d-de-una-manta-rayadora-con-detalles-impresi.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>La comunidad de impresión 3D ha creado una manta rayadora impresionante con detalles precisos, utilizando una tecnología de impresión 3D avanzada. Este proyecto muestra la capacidad de la impresión 3D para crear objetos complejos y…</description>
-  </item>
-  <item>
-    <title>Impresión 3D de un engranaje planetario que gira libremente</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-19-impresion-3d-de-un-engranaje-planetario-que-gira-librem.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-19-impresion-3d-de-un-engranaje-planetario-que-gira-librem.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado una impresión en lugar de un engranaje planetario que gira libremente directamente desde la placa. Esta innovación abre nuevas posibilidades para proyectos de robótica y automatización.</description>
-  </item>
-  <item>
-    <title>Un casco de gato inspirado en Loki creado con impresión 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-19-un-casco-de-gato-inspirado-en-loki-creado-con-impresion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-19-un-casco-de-gato-inspirado-en-loki-creado-con-impresion.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D sigue sorprendiendo con proyectos innovadores y divertidos. En esta ocasión, un creador ha diseñado un casco de gato inspirado en Loki, el personaje de Marvel, utilizando la impresión 3D.</description>
-  </item>
-  <item>
-    <title>AMD lanza un agente de codificación AI para scripts Bash</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-amd-lanza-un-agente-de-codificacion-ai-para-scripts-bas.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-amd-lanza-un-agente-de-codificacion-ai-para-scripts-bas.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>AMD ha lanzado un nuevo agente de codificación AI llamado gaia-bash, diseñado para ayudar a los desarrolladores a escribir, revisar, probar y depurar scripts Bash en hardware AMD.</description>
-  </item>
-  <item>
-    <title>Modelos de lenguaje visual entrenan a robots para leer emociones humanas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-modelos-de-lenguaje-visual-entrenan-a-robots-para-lee-5.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los robots están avanzando en términos de dexteridad y capacidades físicas, pero aún no pueden leer las emociones humanas. Un estudio reciente ha entrenado a robots para leer emociones humanas mediante un modelo de lenguaje visual.</description>
-  </item>
-  <item>
-    <title>Baseten, startup de IA, recibe $1.5 billones en una ronda de financiación impresionante</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-baseten-startup-de-ia-recibe-15-billones-en-una-ronda-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-baseten-startup-de-ia-recibe-15-billones-en-una-ronda-d.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La startup de inteligencia artificial Baseten está a punto de cerrar una ronda de financiación de $1.5 billones, lo que representa un aumento del 160% en su valoración en menos de medio año. Esta noticia destaca la creciente inversión en…</description>
-  </item>
-  <item>
-    <title>Recomendaciones para usar LLM-back generative AI en contribuciones de FOSS</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-recomendaciones-para-usar-llm-back-generative-ai-en-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-recomendaciones-para-usar-llm-back-generative-ai-en-con.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La Software Freedom Conservancy ha lanzado recomendaciones para usar sistemas de inteligencia artificial generativa respaldados por LLM en contribuciones de software libre. Estas recomendaciones buscan ayudar a los desarrolladores de…</description>
-  </item>
-  <item>
-    <title>Investigadora entrena robots para hacer suposiciones informadas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-investigadora-entrena-robots-para-hacer-suposiciones-in.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-19-investigadora-entrena-robots-para-hacer-suposiciones-in.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Yen-Ling Kuo, una experta en robótica, ha desarrollado un método innovador para que los robots puedan identificar y estimar la incertidumbre en escenarios no entrenados. Esto podría mejorar la eficiencia en la recopilación de datos…</description>
-  </item>
-  <item>
-    <title>Qualcomm cambia el juego con Linux 2.0 para IoT</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-qualcomm-cambia-el-juego-con-linux-20-para-iot.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-qualcomm-cambia-el-juego-con-linux-20-para-iot.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Después de años de problemas con Linux en SoCs de Qualcomm, la empresa anuncia un cambio radical con Linux 2.0 para Dragonwing IoT. Este nuevo enfoque promete una experiencia más predecible y escalable.</description>
-  </item>
-  <item>
-    <title>Corriendo Linux en un procesador de 1980: un logro impresionante</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-corriendo-linux-en-un-procesador-de-1980-un-logro-impre.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-corriendo-linux-en-un-procesador-de-1980-un-logro-impre.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los desarrolladores de Linux han estado eliminando soporte para procesadores antiguos, pero un ingeniero ha logrado correr el kernel más reciente en un Motorola 68008 de 1980. Esto demuestra la flexibilidad y la capacidad de adaptación de…</description>
-  </item>
-  <item>
-    <title>Repo-Semantic-Memory: un sistema de contexto para codificadores en ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-repo-semantic-memory-un-sistema-de-contexto-para-codifi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-repo-semantic-memory-un-sistema-de-contexto-para-codifi.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Repo-Semantic-Memory (RSM) es una herramienta que ayuda a los desarrolladores de ROS 2 a encontrar y acceder a la información relevante de un proyecto, reduciendo el tiempo y la complejidad en la codificación.</description>
-  </item>
-  <item>
-    <title>Nueva extensión para VS Code para ejecutar ROS2 de manera rápida</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-nueva-extension-para-vs-code-para-ejecutar-ros2-de-mane.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-nueva-extension-para-vs-code-para-ejecutar-ros2-de-mane.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de desarrolladores de ROS2 ha recibido una noticia importante con la creación de una nueva extensión para VS Code que permite ejecutar launch files, nodos Python y C++ de manera rápida y sencilla.</description>
-  </item>
-  <item>
-    <title>Vulnerabilidad de lectura de archivos arbitrarios en WebsocketServer</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-vulnerabilidad-de-lectura-de-archivos-arbitrarios-en-we.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-19-vulnerabilidad-de-lectura-de-archivos-arbitrarios-en-we.md</guid>
-    <pubDate>Fri, 19 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Una vulnerabilidad de seguridad ha sido identificada en el plugin WebsocketServer de Gazebo, que permite la lectura de archivos arbitrarios en el sistema host. Esto puede ser explotado por cualquier cliente en la red que pueda alcanzar el…</description>
   </item>
 </channel>
 </rss>
