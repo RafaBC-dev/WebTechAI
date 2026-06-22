@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sun, 21 Jun 2026 10:27:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 22 Jun 2026 12:43:25 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>La clave para que robots humanoides ganen maratones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-la-clave-para-que-robots-humanoides-ganen-maratones-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-la-clave-para-que-robots-humanoides-ganen-maratones-2.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot humanoide Honor Lightning ha batido el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos. ¿Qué tecnología o técnica ha permitido lograr este récord impresionante?</description>
+  </item>
+  <item>
+    <title>Cracow Robotics &amp; AI Club #16: Robótica y Inteligencia Artificial en acción</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-cracow-robotics-ai-club-16-robotica-y-inteligencia-arti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-cracow-robotics-ai-club-16-robotica-y-inteligencia-arti.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El Cracow Robotics &amp; AI Club se reúne de nuevo para compartir conocimientos y experiencias en el campo de la robótica y la inteligencia artificial. En esta ocasión, expertos en el campo presentarán proyectos y tecnologías innovadoras que…</description>
+  </item>
+  <item>
+    <title>Nueva tecnología de LiDAR directo Time-of-Flight para aplicaciones de robótica y más</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-nueva-tecnologia-de-lidar-directo-time-of-flight-para-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-nueva-tecnologia-de-lidar-directo-time-of-flight-para-a.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>STMicroelectronics ha lanzado su primera tecnología de LiDAR directo Time-of-Flight (dToF) en un módulo compacto, que ofrece una gama de sensación de 5 cm a 9 metros y una resolución de 2,3K zonas. Esto revoluciona la capacidad de los…</description>
+  </item>
+  <item>
+    <title>Amazon Astro: El robot que nos enseñó a dar alma a los robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-r.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-r.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Amazon presentó Astro, su primer robot de hogar, en 2018. Este robot era capaz de mapear y navegar espacios, realizar tareas y transportar objetos pequeños. Sin embargo, la pregunta era: ¿sería simplemente una versión de Alexa en ruedas o…</description>
+  </item>
+  <item>
+    <title>¿Los robots necesitan piernas? Explorando nuevas formas de movilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-los-robots-necesitan-piernas-explorando-nuevas-formas-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-los-robots-necesitan-piernas-explorando-nuevas-formas-d.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de movilidad para los robots. Desde robots con piernas hasta aquellos que pueden moverse de manera autónoma, la tecnología está avanzando a…</description>
+  </item>
+  <item>
+    <title>UTFS: un sistema de archivos ligero para dispositivos embebidos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-22-utfs-un-sistema-de-archivos-ligero-para-dispositivos-em.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-22-utfs-un-sistema-de-archivos-ligero-para-dispositivos-em.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>CLI Systems ha presentado UTFS, un sistema de almacenamiento ligero diseñado para pequeños microcontroladores. Este sistema de archivos es ideal para dispositivos con recursos limitados, ya que no requiere memoria dinámica y evita…</description>
+  </item>
+  <item>
+    <title>Crear un servicio personalizado en Flowstate para AIC Phase 1</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-crear-un-servicio-personalizado-en-flowstate-para-aic-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-crear-un-servicio-personalizado-en-flowstate-para-aic-2.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El equipo de AIC ha lanzado una nueva fase de su proyecto, que requiere la creación de un servicio personalizado en Flowstate. Este servicio debe ser capaz de interactuar con el router de AIC y ejecutar ciertas acciones. Sin embargo, la…</description>
+  </item>
+  <item>
+    <title>Adafruit presenta nuevas herramientas y proyectos de robótica y electrónica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-adafruit-presenta-nuevas-herramientas-y-proyectos-de-ro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-adafruit-presenta-nuevas-herramientas-y-proyectos-de-ro.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Adafruit ha lanzado su editorial semanal, donde presentan sus últimas creaciones y proyectos en robótica, electrónica y software. Esta semana destacan proyectos de poi con luces animadas y la implementación de audio USB en TinyUSB.</description>
+  </item>
+  <item>
+    <title>Meredith Whittaker advierte sobre los peligros de los chatbots de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-meredith-whittaker-advierte-sobre-los-peligros-de-los-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-meredith-whittaker-advierte-sobre-los-peligros-de-los-2.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La presidenta de Signal, Meredith Whittaker, ha emitido una advertencia sobre los chatbots de IA como ChatGPT y Claude, recordando que no son seres conscientes ni interlocutores sentientes. Estos chatbots están siendo utilizados cada vez…</description>
+  </item>
+  <item>
+    <title>Revisión del mini PC GEEKOM A7 2026 Edition con AMD Ryzen 5 7545U</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-revision-del-mini-pc-geekom-a7-2026-edition-con-amd-ryz.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-revision-del-mini-pc-geekom-a7-2026-edition-con-amd-ryz.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El mini PC GEEKOM A7 2026 Edition es un dispositivo compacto que combina un procesador AMD Ryzen 5 7545U con 16 GB de RAM y 466 GB de almacenamiento. En esta revisión, exploramos sus características y desempeño en Windows 11 Pro.</description>
+  </item>
+  <item>
+    <title>Programe BPF como coroutines: un cambio revolucionario en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-programe-bpf-como-coroutines-un-cambio-revolucionario-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-programe-bpf-como-coroutines-un-cambio-revolucionario-e.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Los BPF programs son una herramienta poderosa para extender el kernel de Linux, pero hasta ahora, debían ejecutarse hasta su finalización en el mismo contexto en que comenzaron. Sin embargo, gracias al trabajo de Kumar Kartikeya Dwivedi,…</description>
+  </item>
+  <item>
+    <title>Systemd v261: una actualización significativa para sistemas Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-systemd-v261-una-actualizacion-significativa-para-siste.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-systemd-v261-una-actualizacion-significativa-para-siste.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 261 de Systemd ha sido lanzada con una larga lista de cambios, incluyendo una nueva función de 'boot secret' para sistemas que carecen de un TPM físico. Esto significa que los sistemas pueden ahora generar y utilizar claves de…</description>
+  </item>
+  <item>
+    <title>MetriPlane v0.2.0: herramienta de observabilidad física para celdas de trabajo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-metriplane-v020-herramienta-de-observabilidad-fisica-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-metriplane-v020-herramienta-de-observabilidad-fisica-pa.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Open Robotics ha recibido una actualización de MetriPlane, una herramienta de código abierto que permite a los desarrolladores de robótica y fabricación crear un registro de eventos físicos reutilizables y verificables.…</description>
+  </item>
+  <item>
+    <title>Mejoras en la configuración de hardware para Linux 7.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-mejoras-en-la-configuracion-de-hardware-para-linux-72.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-mejoras-en-la-configuracion-de-hardware-para-linux-72.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.2 del kernel de Linux ha llegado con algunas novedades interesantes para los gamers y usuarios de escritorio. Entre ellas, la inclusión de un nuevo driver para la configuración de hardware que mejorará la experiencia de…</description>
+  </item>
+  <item>
+    <title>Valve crea el Inspector de Ray-Tracing para optimizar los controladores de GPU de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-valve-crea-el-inspector-de-ray-tracing-para-optimizar-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-valve-crea-el-inspector-de-ray-tracing-para-optimizar-l.md</guid>
+    <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Valve ha creado un nuevo herramienta llamada Ray-Tracing Inspector (RTI) para ayudar a optimizar los controladores de GPU de Linux. Esta herramienta es importante porque permitirá a los desarrolladores analizar y mejorar el rendimiento de…</description>
+  </item>
   <item>
     <title>¿Los robots necesitan piernas? Explorando la innovación en robótica</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-los-robots-necesitan-piernas-explorando-la-innovacion-e.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sun, 21 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La herramienta de pruebas unitarias KUnit de Linux ha agregado soporte para la salida en formato JUnit, lo que mejorará la interoperabilidad con sistemas de integración continua como Jenkins.</description>
-  </item>
-  <item>
-    <title>Reunión de la comunidad ROS OE: sincronización y mejora de UX</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-reunion-de-la-comunidad-ros-oe-sincronizacion-y-mejora-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-reunion-de-la-comunidad-ros-oe-sincronizacion-y-mejora-.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad ROS OE se reúne para discutir la sincronización de las liberaciones de ROS y Space ROS, y mejorar la experiencia de usuario para nuevos usuarios.</description>
-  </item>
-  <item>
-    <title>ROS2 Masterclass: Formación en Robótica con ROS2 y Oportunidades Laborales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-ros2-masterclass-formacion-en-robotica-con-ros2-y-oport.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-ros2-masterclass-formacion-en-robotica-con-ros2-y-oport.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa ETGAH ha lanzado la primera cohorte de su ROS2 Robotics Masterclass, una formación en línea de un mes que ofrece experiencia práctica en robótica con ROS2. Los participantes recibirán entrenamiento en vivo, proyectos prácticos…</description>
-  </item>
-  <item>
-    <title>Cómo Amazon dio un alma a su robot Astro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-como-amazon-dio-un-alma-a-su-robot-astro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-como-amazon-dio-un-alma-a-su-robot-astro.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Amazon creó Astro, un robot que puede moverse por la casa y ayudar a los usuarios. Pero ¿cómo le dio un carácter a este robot? A continuación, se explica cómo se creó el carácter de Astro y qué lecciones se pueden aprender de este proyecto.</description>
-  </item>
-  <item>
-    <title>Cómo los robots humanoides ganaron la maratón: la fórmula detrás del éxito</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-como-los-robots-humanoides-ganaron-la-maraton-la-formul.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-como-los-robots-humanoides-ganaron-la-maraton-la-formul.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot humanoid 'Honor Lightning' ha roto el récord mundial de maratón con un tiempo de 50 minutos y 26 segundos. Pero ¿qué secreto ha permitido a este robot superar a los humanos y a otros robots?</description>
-  </item>
-  <item>
-    <title>¿Los robots necesitan piernas? Explorando la robótica del futuro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-los-robots-necesitan-piernas-explorando-la-robotica-del.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-los-robots-necesitan-piernas-explorando-la-robotica-del.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de diseñar robots que puedan operar en entornos extremos. En este artículo, veremos algunos ejemplos de robots innovadores que están cambiando…</description>
-  </item>
-  <item>
-    <title>ZeroDDS: una alternativa de comunicación segura para ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-zerodds-una-alternativa-de-comunicacion-segura-para-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-20-zerodds-una-alternativa-de-comunicacion-segura-para-ros.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>ZeroDDS es un proyecto que busca abordar los problemas de comunicación en ROS 2, una plataforma de robótica de código abierto. Después de recopilar 349 informes de problemas reales, los desarrolladores han creado una solución alternativa…</description>
-  </item>
-  <item>
-    <title>Maker Monday: Proyectos innovadores con Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-maker-monday-proyectos-innovadores-con-raspberry-pi-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-maker-monday-proyectos-innovadores-con-raspberry-pi-2.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>En las redes sociales, se están compartiendo proyectos creativos y útiles creados con Raspberry Pi, desde una 'paradise maker' hasta una forma de conservar la naturaleza.</description>
-  </item>
-  <item>
-    <title>Un dispositivo de Raspberry Pi Zero para IoT con soporte de energía y conectividad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-un-dispositivo-de-raspberry-pi-zero-para-iot-con-soport.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-un-dispositivo-de-raspberry-pi-zero-para-iot-con-soport.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La Raspberry Pi Zero es un dispositivo popular para proyectos de IoT, pero a menudo requiere componentes adicionales para funcionar en entornos de campo. El Edgeberry Zero es una solución que combina la Pi Zero con un suministro de energía…</description>
-  </item>
-  <item>
-    <title>Pine64 lanza PineVoice, un altavoz inteligente de $50 para Home Assistant</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-par.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-20-pine64-lanza-pinevoice-un-altavoz-inteligente-de-50-par.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Pine64 ha lanzado PineVoice, un altavoz inteligente de bajo costo basado en el microcontrolador Bouffalo Lab BL606P. Este dispositivo es ideal para integrarlo con Home Assistant y disfrutar de una experiencia de voz asistida en casa.</description>
-  </item>
-  <item>
-    <title>Lenguajes de modelo de lenguaje: ¿pueden hacer cálculos correctamente?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-20-lenguajes-de-modelo-de-lenguaje-pueden-hacer-calculos-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-20-lenguajes-de-modelo-de-lenguaje-pueden-hacer-calculos-c.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los lenguajes de modelo de lenguaje (LLM) son capaces de realizar tareas complejas, pero ¿qué sucede cuando se les pide que hagan cálculos simples? Un proyecto reciente busca mejorar la capacidad de los LLM para realizar aritmética.</description>
-  </item>
-  <item>
-    <title>Systemd v261: Nuevas funcionalidades para sistemas embebidos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-systemd-v261-nuevas-funcionalidades-para-sistemas-embeb.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-systemd-v261-nuevas-funcionalidades-para-sistemas-embeb.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Systemd v261 ha sido lanzado con una larga lista de cambios, incluyendo un nuevo subconjunto para servicios de metadatos de instancia en la nube y funcionalidades de secreto de arranque para sistemas que carecen de un TPM físico. Esto…</description>
-  </item>
-  <item>
-    <title>Soporte para tarjetas gráficas Barco MXRT en Linux gracias a AMD</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-soporte-para-tarjetas-graficas-barco-mxrt-en-linux-grac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-soporte-para-tarjetas-graficas-barco-mxrt-en-linux-grac.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La empresa Barco ha estado utilizando tarjetas gráficas basadas en GPU de AMD para sus sistemas de visualización médica, pero hasta ahora solo habían sido compatibles con Windows. Sin embargo, un desarrollador ha creado un parche para…</description>
-  </item>
-  <item>
-    <title>NVK Vulkan Driver de NVIDIA ahora admite DLSS en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-nvk-vulkan-driver-de-nvidia-ahora-admite-dlss-en-linux.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-nvk-vulkan-driver-de-nvidia-ahora-admite-dlss-en-linux.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El driver NVK de Vulkan de NVIDIA ha alcanzado un importante hito: ahora admite la tecnología de supermuestreo de aprendizaje profundo (DLSS) en Linux. Esto significa que los jugadores de Linux pueden disfrutar de una experiencia de juego…</description>
-  </item>
-  <item>
-    <title>BPF programas pueden suspenderse y reanudarse, facilitando tareas largas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-bpf-programas-pueden-suspenderse-y-reanudarse-facilitan.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-bpf-programas-pueden-suspenderse-y-reanudarse-facilitan.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El desarrollo de BPF programas en Linux ha permitido extender muchas funcionalidades del kernel, pero ha tenido un inconveniente: debían completarse en el mismo contexto en el que comenzaron. Esto ha limitado su utilidad para tareas…</description>
-  </item>
-  <item>
-    <title>Mejoras en el driver NTFS y soporte para enlaces simbólicos en Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-mejoras-en-el-driver-ntfs-y-soporte-para-enlaces-simbol.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-20-mejoras-en-el-driver-ntfs-y-soporte-para-enlaces-simbol.md</guid>
-    <pubDate>Sat, 20 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El driver NTFS de Linux ha recibido importantes mejoras en la versión 7.2, incluyendo soporte para enlaces simbólicos nativos de Windows y una mayor hardening contra metadatos malformados.</description>
   </item>
 </channel>
 </rss>

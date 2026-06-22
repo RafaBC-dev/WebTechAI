@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-21</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-22</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-la-clave-para-que-robots-humanoides-ganen-maratones-2.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-cracow-robotics-ai-club-16-robotica-y-inteligencia-arti.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-nueva-tecnologia-de-lidar-directo-time-of-flight-para-a.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-r.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-los-robots-necesitan-piernas-explorando-nuevas-formas-d.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-22-utfs-un-sistema-de-archivos-ligero-para-dispositivos-em.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-crear-un-servicio-personalizado-en-flowstate-para-aic-2.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-adafruit-presenta-nuevas-herramientas-y-proyectos-de-ro.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-meredith-whittaker-advierte-sobre-los-peligros-de-los-2.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-22-revision-del-mini-pc-geekom-a7-2026-edition-con-amd-ryz.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-programe-bpf-como-coroutines-un-cambio-revolucionario-e.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-systemd-v261-una-actualizacion-significativa-para-siste.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-metriplane-v020-herramienta-de-observabilidad-fisica-pa.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-mejoras-en-la-configuracion-de-hardware-para-linux-72.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-22-valve-crea-el-inspector-de-ray-tracing-para-optimizar-l.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-los-robots-necesitan-piernas-explorando-la-innovacion-e.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-amazon-astro-la-robotizacion-del-hogar-y-la-creacion-de.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-21-la-clave-para-que-los-robots-humanoides-ganen-maraton-2.md</loc><lastmod>2026-06-21</lastmod><priority>0.8</priority></url>

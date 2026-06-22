@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La clave para que robots humanoides ganen maratones",
+      "category": "robotica",
+      "date": "2026-06-22",
+      "slug": "la-clave-para-que-robots-humanoides-ganen-maratones-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "El robot humanoide Honor Lightning ha batido el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos. ¿Qué tecnología o técnica ha permitido lograr este récord impresionante?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-22-la-clave-para-que-robots-humanoides-ganen-maratones-2.md"
+    },
+    {
+      "title": "Cracow Robotics & AI Club #16: Robótica y Inteligencia Artificial en acción",
+      "category": "robotica",
+      "date": "2026-06-22",
+      "slug": "cracow-robotics-ai-club-16-robotica-y-inteligencia-arti",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El Cracow Robotics & AI Club se reúne de nuevo para compartir conocimientos y experiencias en el campo de la robótica y la inteligencia artificial. En esta ocasión, expertos en el campo presentarán proyectos y tecnologías innovadoras que…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-22-cracow-robotics-ai-club-16-robotica-y-inteligencia-arti.md"
+    },
+    {
+      "title": "Nueva tecnología de LiDAR directo Time-of-Flight para aplicaciones de robótica y más",
+      "category": "robotica",
+      "date": "2026-06-22",
+      "slug": "nueva-tecnologia-de-lidar-directo-time-of-flight-para-a",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "STMicroelectronics ha lanzado su primera tecnología de LiDAR directo Time-of-Flight (dToF) en un módulo compacto, que ofrece una gama de sensación de 5 cm a 9 metros y una resolución de 2,3K zonas. Esto revoluciona la capacidad de los…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-22-nueva-tecnologia-de-lidar-directo-time-of-flight-para-a.md"
+    },
+    {
+      "title": "Amazon Astro: El robot que nos enseñó a dar alma a los robots",
+      "category": "robotica",
+      "date": "2026-06-22",
+      "slug": "amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-r",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Amazon presentó Astro, su primer robot de hogar, en 2018. Este robot era capaz de mapear y navegar espacios, realizar tareas y transportar objetos pequeños. Sin embargo, la pregunta era: ¿sería simplemente una versión de Alexa en ruedas o…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-22-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-r.md"
+    },
+    {
+      "title": "¿Los robots necesitan piernas? Explorando nuevas formas de movilidad",
+      "category": "robotica",
+      "date": "2026-06-22",
+      "slug": "los-robots-necesitan-piernas-explorando-nuevas-formas-d",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de movilidad para los robots. Desde robots con piernas hasta aquellos que pueden moverse de manera autónoma, la tecnología está avanzando a…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-22-los-robots-necesitan-piernas-explorando-nuevas-formas-d.md"
+    },
+    {
+      "title": "UTFS: un sistema de archivos ligero para dispositivos embebidos",
+      "category": "embebidos",
+      "date": "2026-06-22",
+      "slug": "utfs-un-sistema-de-archivos-ligero-para-dispositivos-em",
+      "tags": [
+        "embebidos",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "CLI Systems ha presentado UTFS, un sistema de almacenamiento ligero diseñado para pequeños microcontroladores. Este sistema de archivos es ideal para dispositivos con recursos limitados, ya que no requiere memoria dinámica y evita…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-22-utfs-un-sistema-de-archivos-ligero-para-dispositivos-em.md"
+    },
+    {
+      "title": "Crear un servicio personalizado en Flowstate para AIC Phase 1",
+      "category": "ia",
+      "date": "2026-06-22",
+      "slug": "crear-un-servicio-personalizado-en-flowstate-para-aic-2",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El equipo de AIC ha lanzado una nueva fase de su proyecto, que requiere la creación de un servicio personalizado en Flowstate. Este servicio debe ser capaz de interactuar con el router de AIC y ejecutar ciertas acciones. Sin embargo, la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-22-crear-un-servicio-personalizado-en-flowstate-para-aic-2.md"
+    },
+    {
+      "title": "Adafruit presenta nuevas herramientas y proyectos de robótica y electrónica",
+      "category": "ia",
+      "date": "2026-06-22",
+      "slug": "adafruit-presenta-nuevas-herramientas-y-proyectos-de-ro",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software"
+      ],
+      "preview": "Adafruit ha lanzado su editorial semanal, donde presentan sus últimas creaciones y proyectos en robótica, electrónica y software. Esta semana destacan proyectos de poi con luces animadas y la implementación de audio USB en TinyUSB.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-22-adafruit-presenta-nuevas-herramientas-y-proyectos-de-ro.md"
+    },
+    {
+      "title": "Meredith Whittaker advierte sobre los peligros de los chatbots de IA",
+      "category": "ia",
+      "date": "2026-06-22",
+      "slug": "meredith-whittaker-advierte-sobre-los-peligros-de-los-2",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La presidenta de Signal, Meredith Whittaker, ha emitido una advertencia sobre los chatbots de IA como ChatGPT y Claude, recordando que no son seres conscientes ni interlocutores sentientes. Estos chatbots están siendo utilizados cada vez…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-22-meredith-whittaker-advierte-sobre-los-peligros-de-los-2.md"
+    },
+    {
+      "title": "Revisión del mini PC GEEKOM A7 2026 Edition con AMD Ryzen 5 7545U",
+      "category": "ia",
+      "date": "2026-06-22",
+      "slug": "revision-del-mini-pc-geekom-a7-2026-edition-con-amd-ryz",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El mini PC GEEKOM A7 2026 Edition es un dispositivo compacto que combina un procesador AMD Ryzen 5 7545U con 16 GB de RAM y 466 GB de almacenamiento. En esta revisión, exploramos sus características y desempeño en Windows 11 Pro.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-22-revision-del-mini-pc-geekom-a7-2026-edition-con-amd-ryz.md"
+    },
+    {
+      "title": "Programe BPF como coroutines: un cambio revolucionario en Linux",
+      "category": "linux",
+      "date": "2026-06-22",
+      "slug": "programe-bpf-como-coroutines-un-cambio-revolucionario-e",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los BPF programs son una herramienta poderosa para extender el kernel de Linux, pero hasta ahora, debían ejecutarse hasta su finalización en el mismo contexto en que comenzaron. Sin embargo, gracias al trabajo de Kumar Kartikeya Dwivedi,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-22-programe-bpf-como-coroutines-un-cambio-revolucionario-e.md"
+    },
+    {
+      "title": "Systemd v261: una actualización significativa para sistemas Linux",
+      "category": "linux",
+      "date": "2026-06-22",
+      "slug": "systemd-v261-una-actualizacion-significativa-para-siste",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 261 de Systemd ha sido lanzada con una larga lista de cambios, incluyendo una nueva función de 'boot secret' para sistemas que carecen de un TPM físico. Esto significa que los sistemas pueden ahora generar y utilizar claves de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-22-systemd-v261-una-actualizacion-significativa-para-siste.md"
+    },
+    {
+      "title": "MetriPlane v0.2.0: herramienta de observabilidad física para celdas de trabajo",
+      "category": "linux",
+      "date": "2026-06-22",
+      "slug": "metriplane-v020-herramienta-de-observabilidad-fisica-pa",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias"
+      ],
+      "preview": "La comunidad de Open Robotics ha recibido una actualización de MetriPlane, una herramienta de código abierto que permite a los desarrolladores de robótica y fabricación crear un registro de eventos físicos reutilizables y verificables.…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-22-metriplane-v020-herramienta-de-observabilidad-fisica-pa.md"
+    },
+    {
+      "title": "Mejoras en la configuración de hardware para Linux 7.2",
+      "category": "linux",
+      "date": "2026-06-22",
+      "slug": "mejoras-en-la-configuracion-de-hardware-para-linux-72",
+      "tags": [
+        "linux",
+        "robotica",
+        "codigo"
+      ],
+      "preview": "La versión 7.2 del kernel de Linux ha llegado con algunas novedades interesantes para los gamers y usuarios de escritorio. Entre ellas, la inclusión de un nuevo driver para la configuración de hardware que mejorará la experiencia de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-22-mejoras-en-la-configuracion-de-hardware-para-linux-72.md"
+    },
+    {
+      "title": "Valve crea el Inspector de Ray-Tracing para optimizar los controladores de GPU de Linux",
+      "category": "linux",
+      "date": "2026-06-22",
+      "slug": "valve-crea-el-inspector-de-ray-tracing-para-optimizar-l",
+      "tags": [
+        "linux",
+        "ray-tracing",
+        "gpu"
+      ],
+      "preview": "Valve ha creado un nuevo herramienta llamada Ray-Tracing Inspector (RTI) para ayudar a optimizar los controladores de GPU de Linux. Esta herramienta es importante porque permitirá a los desarrolladores analizar y mejorar el rendimiento de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-22-valve-crea-el-inspector-de-ray-tracing-para-optimizar-l.md"
+    },
+    {
       "title": "¿Los robots necesitan piernas? Explorando la innovación en robótica",
       "category": "robotica",
       "date": "2026-06-21",
