@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Aprende a desarrollar robots con ROS en este curso en línea",
+      "category": "robotica",
+      "date": "2026-06-23",
+      "slug": "aprende-a-desarrollar-robots-con-ros-en-este-curso-en-l",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS ha lanzado un nuevo curso en línea para desarrolladores de robots que desean aprender a programar robots reales utilizando ROS y ROS 2. Este curso es ideal para aquellos que quieren desarrollar habilidades prácticas y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-23-aprende-a-desarrollar-robots-con-ros-en-este-curso-en-l.md"
+    },
+    {
+      "title": "Nueva versión de Mobile Robot URDF Maker revoluciona la creación de robots móviles",
+      "category": "robotica",
+      "date": "2026-06-23",
+      "slug": "nueva-version-de-mobile-robot-urdf-maker-revoluciona-la",
+      "tags": [
+        "robotica",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica acaba de recibir un regalo importante: la versión 4.0 de Mobile Robot URDF Maker, una herramienta que permite crear robots móviles de manera rápida y sencilla. Con esta nueva versión, los usuarios pueden crear…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-23-nueva-version-de-mobile-robot-urdf-maker-revoluciona-la.md"
+    },
+    {
+      "title": "¿Necesitan los robots piernas para moverse?",
+      "category": "robotica",
+      "date": "2026-06-23",
+      "slug": "necesitan-los-robots-piernas-para-moverse",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "agentes"
+      ],
+      "preview": "La robótica sigue avanzando, y ahora se pregunta si los robots necesitan piernas para moverse. ¿Qué implica esto y cómo afecta a la industria?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-23-necesitan-los-robots-piernas-para-moverse.md"
+    },
+    {
+      "title": "Amazon Astro: el robot que nos enseñó a darle alma a los robots",
+      "category": "robotica",
+      "date": "2026-06-23",
+      "slug": "amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-los",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon presentó Astro, un robot de hogar que se movía y interactuaba con sus usuarios. Pero la pregunta era: ¿sería solo una versión de Alexa en movimiento o tendría su propia personalidad?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-23-amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-los.md"
+    },
+    {
+      "title": "Cómo los robots humanoides ganan maratones: la fórmula detrás del éxito",
+      "category": "robotica",
+      "date": "2026-06-23",
+      "slug": "como-los-robots-humanoides-ganan-maratones-la-formula-d",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "El robot humanoide Honor Lightning ha roto el récord mundial de la mitad de maratón, completando la carrera en 50 minutos y 26 segundos. Pero ¿cómo lo lograron? ¿Cuál es la clave detrás de su éxito?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-23-como-los-robots-humanoides-ganan-maratones-la-formula-d.md"
+    },
+    {
+      "title": "La comunidad de Raspberry Pi organiza eventos en todo el mundo este verano",
+      "category": "embebidos",
+      "date": "2026-06-23",
+      "slug": "la-comunidad-de-raspberry-pi-organiza-eventos-en-todo-e",
+      "tags": [
+        "robotica",
+        "linux",
+        "microcontroladores"
+      ],
+      "preview": "La comunidad de Raspberry Pi ha estado organizando eventos de maker y tinkerer durante años. Este verano, eventos similares se están llevando a cabo en Karachi, Bangalore, París y Cornwall, entre otros lugares. Si no hay nada cerca de ti,…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-23-la-comunidad-de-raspberry-pi-organiza-eventos-en-todo-e.md"
+    },
+    {
+      "title": "Plataforma de prototipado para dispositivos IoT de bajo consumo",
+      "category": "embebidos",
+      "date": "2026-06-23",
+      "slug": "plataforma-de-prototipado-para-dispositivos-iot-de-bajo",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Nordic Semiconductor ha lanzado la plataforma de prototipado nRF54L15 Tag, diseñada para acelerar el desarrollo de dispositivos IoT de ultra-bajo consumo, incluyendo rastreadores de activos compatibles con los ecosistemas Apple Find My y…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-23-plataforma-de-prototipado-para-dispositivos-iot-de-bajo.md"
+    },
+    {
+      "title": "Noticias sobre Python en microcontroladores, sin publicidad ni spam",
+      "category": "embebidos",
+      "date": "2026-06-23",
+      "slug": "noticias-sobre-python-en-microcontroladores-sin-publi-2",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "¿Quieres estar al día con las últimas noticias sobre Python en hardware y single board computers? La newsletter 'Python on Microcontrollers' es la herramienta perfecta para ti. Recibe una resumen semanal de software, eventos, proyectos y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-23-noticias-sobre-python-en-microcontroladores-sin-publi-2.md"
+    },
+    {
+      "title": "El mundo de la IA se vuelve 'loopy': un paso importante hacia la automatización",
+      "category": "ia",
+      "date": "2026-06-23",
+      "slug": "el-mundo-de-la-ia-se-vuelve-loopy-un-paso-importante-ha",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Boris Cherny, creador de Claude Code, ha presentado en la conferencia @Scale de Meta una idea revolucionaria: los 'loops' en la IA. Estos ciclos podrían ser el próximo paso importante hacia la automatización y el manejo de tareas complejas.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-23-el-mundo-de-la-ia-se-vuelve-loopy-un-paso-importante-ha.md"
+    },
+    {
+      "title": "OpenAI lanza iniciativa para ayudar a parchar bugs en código abierto",
+      "category": "ia",
+      "date": "2026-06-23",
+      "slug": "openai-lanza-iniciativa-para-ayudar-a-parchar-bugs-en-c",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "OpenAI anuncia una nueva iniciativa para mejorar la seguridad de código abierto y ayudar a los mantenedores a parchar bugs. Esta iniciativa se llama 'Patch the Planet' y busca reducir la carga de trabajo de los mantenedores al identificar…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-23-openai-lanza-iniciativa-para-ayudar-a-parchar-bugs-en-c.md"
+    },
+    {
+      "title": "Porteo de modelo de imagen de relleno a un navegador con Claude Code",
+      "category": "ia",
+      "date": "2026-06-23",
+      "slug": "porteo-de-modelo-de-imagen-de-relleno-a-un-navegador-co",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha logrado portar un modelo de relleno de imágenes a un navegador web utilizando Claude Code y WebGPU. Esto permite que los usuarios puedan utilizar la tecnología de relleno de imágenes en sus navegadores sin necesidad de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-23-porteo-de-modelo-de-imagen-de-relleno-a-un-navegador-co.md"
+    },
+    {
+      "title": "Dispositivo Edge AI industrial fanless con SoC Rockchip RK3576",
+      "category": "ia",
+      "date": "2026-06-23",
+      "slug": "dispositivo-edge-ai-industrial-fanless-con-soc-rockchip",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "MYiR MAC-B5760 es un dispositivo Edge AI industrial fanless que combina potencia de cálculo con eficiencia energética, ofreciendo una solución ideal para aplicaciones industriales que requieren procesamiento de datos en tiempo real.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-23-dispositivo-edge-ai-industrial-fanless-con-soc-rockchip.md"
+    },
+    {
+      "title": "Ataques de inyección de prompts: el peligro de la confusión de roles",
+      "category": "ia",
+      "date": "2026-06-23",
+      "slug": "ataques-de-inyeccion-de-prompts-el-peligro-de-la-confus",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de investigadores ha descubierto un método para burlar la seguridad de los modelos de lenguaje, aprovechando la confusión de roles que pueden experimentar al tratar con textos de diferentes fuentes.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-23-ataques-de-inyeccion-de-prompts-el-peligro-de-la-confus.md"
+    },
+    {
+      "title": "Linux 7.2 reduce overhead en RISC-V y soporta Eswin SoC por defecto",
+      "category": "linux",
+      "date": "2026-06-23",
+      "slug": "linux-72-reduce-overhead-en-risc-v-y-soporta-eswin-soc-",
+      "tags": [
+        "linux",
+        "risc-v",
+        "embebidos"
+      ],
+      "preview": "La versión 7.2 del kernel Linux para arquitectura RISC-V ha sido actualizada con mejoras significativas. Ahora reduce el overhead en el arranque del kernel y soporta por defecto la Eswin SoC, popular en la placa de desarrollo SiFive HiFive…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-23-linux-72-reduce-overhead-en-risc-v-y-soporta-eswin-soc-.md"
+    },
+    {
+      "title": "Python sin bloqueo de interpretación: el futuro de la programación",
+      "category": "linux",
+      "date": "2026-06-23",
+      "slug": "python-sin-bloqueo-de-interpretacion-el-futuro-de-la-pr",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Python ha estado trabajando en la eliminación del bloqueo de interpretación (GIL) para permitir la ejecución paralela de hilos en el intérprete. Esto podría revolucionar la forma en que se escriben aplicaciones en Python.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-23-python-sin-bloqueo-de-interpretacion-el-futuro-de-la-pr.md"
+    },
+    {
       "title": "La clave para que robots humanoides ganen maratones",
       "category": "robotica",
       "date": "2026-06-22",

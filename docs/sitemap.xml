@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-22</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-23</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-23</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-aprende-a-desarrollar-robots-con-ros-en-este-curso-en-l.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-nueva-version-de-mobile-robot-urdf-maker-revoluciona-la.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-necesitan-los-robots-piernas-para-moverse.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-los.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-como-los-robots-humanoides-ganan-maratones-la-formula-d.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-23-la-comunidad-de-raspberry-pi-organiza-eventos-en-todo-e.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-23-plataforma-de-prototipado-para-dispositivos-iot-de-bajo.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-23-noticias-sobre-python-en-microcontroladores-sin-publi-2.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-23-el-mundo-de-la-ia-se-vuelve-loopy-un-paso-importante-ha.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-23-openai-lanza-iniciativa-para-ayudar-a-parchar-bugs-en-c.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-23-porteo-de-modelo-de-imagen-de-relleno-a-un-navegador-co.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-23-dispositivo-edge-ai-industrial-fanless-con-soc-rockchip.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-23-ataques-de-inyeccion-de-prompts-el-peligro-de-la-confus.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-23-linux-72-reduce-overhead-en-risc-v-y-soporta-eswin-soc-.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-23-python-sin-bloqueo-de-interpretacion-el-futuro-de-la-pr.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-la-clave-para-que-robots-humanoides-ganen-maratones-2.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-cracow-robotics-ai-club-16-robotica-y-inteligencia-arti.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-22-nueva-tecnologia-de-lidar-directo-time-of-flight-para-a.md</loc><lastmod>2026-06-22</lastmod><priority>0.8</priority></url>
