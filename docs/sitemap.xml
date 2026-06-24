@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-23</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-23</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-24</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-rob.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-la-clave-para-que-los-robots-humanoides-ganen-maraton-3.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-necesitan-los-robots-piernas-para-moverse-explorando-nu.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-masterclass-de-desarrollo-de-robotica-con-ros-para-prin.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-un-teclado-t9-para-smartphones-la-nostalgia-en-un-dispo.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-visualiza-senales-de-radio-con-quadrf-un-tile-de-radio-.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-desarrollador-de-rp2350b-con-depurador-integrado-y-hdmi.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-24-claude-tag-la-inteligencia-artificial-que-aprende-con-t.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-24-indias-moengage-apuesta-por-millones-de-agentes-de-ia-e.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-5-monitores-en-un-commodore-128-la-ingenieria-de-una-ha.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-aliro-un-estandar-abierto-para-control-de-acceso-digita.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-linux-sched-ext-codigo-fuente-reestructurado-tras-criti.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-linux-72-mejoras-en-la-integridad-de-sistemas-con-sopor.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-actualizacion-de-paquetes-en-ros-lyrical-93-nuevos-paqu.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-kasan-para-codigo-bpf-compilado-en-tiempo-justo.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-aprende-a-desarrollar-robots-con-ros-en-este-curso-en-l.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-nueva-version-de-mobile-robot-urdf-maker-revoluciona-la.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-23-necesitan-los-robots-piernas-para-moverse.md</loc><lastmod>2026-06-23</lastmod><priority>0.8</priority></url>

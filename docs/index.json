@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Amazon Astro: El robot que enseñó a darle alma a los robots",
+      "category": "robotica",
+      "date": "2026-06-24",
+      "slug": "amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-rob",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon Astro es un robot de hogar que ha revolucionado la forma en que interactuamos con los robots. Su capacidad para navegar y comunicarse de manera intuitiva ha llevado a una pregunta fundamental: ¿cómo podemos darle alma a un robot?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-24-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-rob.md"
+    },
+    {
+      "title": "La clave para que los robots humanoides ganen maratones",
+      "category": "robotica",
+      "date": "2026-06-24",
+      "slug": "la-clave-para-que-los-robots-humanoides-ganen-maraton-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "El robot humanoides Honor Lightning ha batido el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos. ¿Cuál es el secreto detrás de este logro impresionante?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-24-la-clave-para-que-los-robots-humanoides-ganen-maraton-3.md"
+    },
+    {
+      "title": "¿Necesitan los robots piernas para moverse? Explorando nuevas formas de locomoción",
+      "category": "robotica",
+      "date": "2026-06-24",
+      "slug": "necesitan-los-robots-piernas-para-moverse-explorando-nu",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "agentes"
+      ],
+      "preview": "La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de locomoción para los robots. En este artículo, veremos algunos ejemplos de robots que no necesitan piernas para moverse y cómo están…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-24-necesitan-los-robots-piernas-para-moverse-explorando-nu.md"
+    },
+    {
+      "title": "Masterclass de Desarrollo de Robótica con ROS para Principiantes",
+      "category": "robotica",
+      "date": "2026-06-24",
+      "slug": "masterclass-de-desarrollo-de-robotica-con-ros-para-prin",
+      "tags": [
+        "robotica",
+        "linux",
+        "python"
+      ],
+      "preview": "La comunidad de ROS ha lanzado un nuevo programa de formación en línea para desarrolladores de robótica, diseñado para enseñar habilidades prácticas en ROS y ROS 2 a través de robots reales y proyectos estructurados.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-24-masterclass-de-desarrollo-de-robotica-con-ros-para-prin.md"
+    },
+    {
+      "title": "Un teclado T9 para smartphones: la nostalgia en un dispositivo moderno",
+      "category": "embebidos",
+      "date": "2026-06-24",
+      "slug": "un-teclado-t9-para-smartphones-la-nostalgia-en-un-dispo",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Los smartphones modernos suelen tener teclados táctiles decentes, pero ¿recuerdas cuando teníamos que teclear en el teclado numérico? Un ingeniero ha recreado ese experiencio en un dispositivo moderno.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-24-un-teclado-t9-para-smartphones-la-nostalgia-en-un-dispo.md"
+    },
+    {
+      "title": "Visualiza señales de radio con QuadRF, un tile de radio definido por software",
+      "category": "embebidos",
+      "date": "2026-06-24",
+      "slug": "visualiza-senales-de-radio-con-quadrf-un-tile-de-radio-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El proyecto QuadRF permite visualizar señales de radio en el entorno utilizando una aplicación de realidad aumentada. Esta tecnología podría ser útil para identificar dispositivos inalámbricos en un área determinada.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-24-visualiza-senales-de-radio-con-quadrf-un-tile-de-radio-.md"
+    },
+    {
+      "title": "Desarrollador de RP2350B con depurador integrado y HDMI",
+      "category": "embebidos",
+      "date": "2026-06-24",
+      "slug": "desarrollador-de-rp2350b-con-depurador-integrado-y-hdmi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Una nueva placa de desarrollo llamada 'Bells&Whistles' ha sido lanzada, que incluye un depurador integrado y un conector HDMI, lo que la hace ideal para prototipado y desarrollo de proyectos de código abierto.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-24-desarrollador-de-rp2350b-con-depurador-integrado-y-hdmi.md"
+    },
+    {
+      "title": "Claude Tag: la inteligencia artificial que aprende con tus chats en Slack",
+      "category": "ia",
+      "date": "2026-06-24",
+      "slug": "claude-tag-la-inteligencia-artificial-que-aprende-con-t",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Anthropic ha lanzado Claude Tag, una herramienta de inteligencia artificial que se integra en Slack y actúa como un compañero de trabajo. Esta herramienta permite a los usuarios obtener respuestas y realizar tareas en tiempo real,…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-24-claude-tag-la-inteligencia-artificial-que-aprende-con-t.md"
+    },
+    {
+      "title": "India's MoEngage apuesta por millones de agentes de IA en marketing",
+      "category": "ia",
+      "date": "2026-06-24",
+      "slug": "indias-moengage-apuesta-por-millones-de-agentes-de-ia-e",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "marketing"
+      ],
+      "preview": "La empresa de software de marketing MoEngage ha adquirido a Aampe, una startup que desarrolla agentes de IA para personalizar mensajes de marketing. Esta adquisición marca un giro en la industria del marketing, donde la automatización y la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-24-indias-moengage-apuesta-por-millones-de-agentes-de-ia-e.md"
+    },
+    {
+      "title": "5 monitores en un Commodore 128: la ingeniería de una hazaña retro",
+      "category": "linux",
+      "date": "2026-06-24",
+      "slug": "5-monitores-en-un-commodore-128-la-ingenieria-de-una-ha",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "El ingeniero de retroinformática The 8-Bit Guy ha logrado conectar 5 monitores a un Commodore 128 sin modificar el ordenador en sí, utilizando una combinación de hardware y software creativos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-24-5-monitores-en-un-commodore-128-la-ingenieria-de-una-ha.md"
+    },
+    {
+      "title": "Aliro: un estándar abierto para control de acceso digital",
+      "category": "linux",
+      "date": "2026-06-24",
+      "slug": "aliro-un-estandar-abierto-para-control-de-acceso-digita",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La Connectivity Standards Alliance ha lanzado Aliro, un estándar abierto para control de acceso digital que funciona sobre NFC, Bluetooth LE o UWB. Este estándar busca abordar la fragmentación del mercado y permitir la interoperabilidad…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-24-aliro-un-estandar-abierto-para-control-de-acceso-digita.md"
+    },
+    {
+      "title": "Linux sched_ext: Código fuente reestructurado tras crítica de Linus Torvalds",
+      "category": "linux",
+      "date": "2026-06-24",
+      "slug": "linux-sched-ext-codigo-fuente-reestructurado-tras-criti",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Linus Torvalds, creador de Linux, ha criticado la forma en que se ha estructurado el código fuente del proyecto sched_ext. Ha sugerido que se utilice una estructura de directorios más organizada para evitar la proliferación de archivos con…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-24-linux-sched-ext-codigo-fuente-reestructurado-tras-criti.md"
+    },
+    {
+      "title": "Linux 7.2: Mejoras en la integridad de sistemas con soporte post-cuántico",
+      "category": "linux",
+      "date": "2026-06-24",
+      "slug": "linux-72-mejoras-en-la-integridad-de-sistemas-con-sopor",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2 del kernel Linux ha sido lanzada con importantes mejoras en la integridad de sistemas, incluyendo el soporte post-cuántico para firmas de ML-DSA. Esto significa que los sistemas Linux pueden ahora validar firmas de manera…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-24-linux-72-mejoras-en-la-integridad-de-sistemas-con-sopor.md"
+    },
+    {
+      "title": "Actualización de paquetes en ROS Lyrical: 93 nuevos paquetes y 70 actualizaciones",
+      "category": "linux",
+      "date": "2026-06-24",
+      "slug": "actualizacion-de-paquetes-en-ros-lyrical-93-nuevos-paqu",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS Lyrical ha lanzado una actualización importante con 93 nuevos paquetes y 70 actualizaciones. Esta actualización es el resultado del trabajo de muchos contribuyentes y mantenedores que han trabajado para mejorar la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-24-actualizacion-de-paquetes-en-ros-lyrical-93-nuevos-paqu.md"
+    },
+    {
+      "title": "KASAN para código BPF compilado en tiempo justo",
+      "category": "linux",
+      "date": "2026-06-24",
+      "slug": "kasan-para-codigo-bpf-compilado-en-tiempo-justo",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto KASAN se ha expandido para incluir código BPF compilado en tiempo justo, lo que ayudará a detectar errores en el compilador JIT. Esto es especialmente importante para garantizar la seguridad y estabilidad del kernel Linux.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-24-kasan-para-codigo-bpf-compilado-en-tiempo-justo.md"
+    },
+    {
       "title": "Aprende a desarrollar robots con ROS en este curso en línea",
       "category": "robotica",
       "date": "2026-06-23",
