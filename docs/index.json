@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "La clave para que los robots humanoides ganen maratones",
+      "category": "robotica",
+      "date": "2026-06-25",
+      "slug": "la-clave-para-que-los-robots-humanoides-ganen-maraton-4",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "El robot humanoides Honor Lightning ha batido el récord mundial de media maratón, pero ¿qué secreto ha utilizado para lograrlo? ¿Es una tecnología mágica o una técnica innovadora?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-25-la-clave-para-que-los-robots-humanoides-ganen-maraton-4.md"
+    },
+    {
+      "title": "Amazon Astro: ¿Cómo darle alma a un robot?",
+      "category": "robotica",
+      "date": "2026-06-25",
+      "slug": "amazon-astro-como-darle-alma-a-un-robot",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Amazon Astro es un robot de hogar que utiliza cámaras y sensores para navegar y explorar su entorno. Pero ¿qué hace que un robot sea más que una simple máquina? En este artículo, descubrirás cómo Amazon diole alma a Astro.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-25-amazon-astro-como-darle-alma-a-un-robot.md"
+    },
+    {
+      "title": "¿Necesitan los robots piernas para moverse?",
+      "category": "robotica",
+      "date": "2026-06-25",
+      "slug": "necesitan-los-robots-piernas-para-moverse-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica avanza a pasos agigantados, y ahora se pregunta si los robots necesitan piernas para moverse. En este artículo, exploraremos algunas de las últimas innovaciones en robótica que están cambiando la forma en que pensamos sobre la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-25-necesitan-los-robots-piernas-para-moverse-2.md"
+    },
+    {
+      "title": "Quectel FCM365X: módulo IoT dual-banda WiFi 6 y BLE 5.4",
+      "category": "embebidos",
+      "date": "2026-06-25",
+      "slug": "quectel-fcm365x-modulo-iot-dual-banda-wifi-6-y-ble-54",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Quectel ha lanzado el módulo IoT FCM365X, que ofrece conectividad dual-banda WiFi 6 y Bluetooth Low Energy 5.4, junto con una variedad de interfaces y una temperatura de operación de -40°C a +85°C. Este módulo es ideal para aplicaciones de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-25-quectel-fcm365x-modulo-iot-dual-banda-wifi-6-y-ble-54.md"
+    },
+    {
+      "title": "OpenC6 BIOS: un proyecto de firmware para ESP32-C6 con actualizaciones en vivo",
+      "category": "embebidos",
+      "date": "2026-06-25",
+      "slug": "openc6-bios-un-proyecto-de-firmware-para-esp32-c6-con-a",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "esp32"
+      ],
+      "preview": "Un equipo de desarrolladores ha lanzado OpenC6 BIOS, un proyecto de firmware que permite a los dispositivos con ESP32-C6 ejecutar código de aplicaciones separado del firmware base, lo que facilita la actualización y el mantenimiento de los…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-25-openc6-bios-un-proyecto-de-firmware-para-esp32-c6-con-a.md"
+    },
+    {
+      "title": "Cámara de visión AI con procesamiento en borde: NeoEyes NE503",
+      "category": "ia",
+      "date": "2026-06-25",
+      "slug": "camara-de-vision-ai-con-procesamiento-en-borde-neoeyes-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La cámara de visión NeoEyes NE503 es un dispositivo de visión AI que procesa imágenes en tiempo real sin necesidad de conexión a la nube o un servidor local. Esto lo hace ideal para aplicaciones de monitoreo y seguridad.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-25-camara-de-vision-ai-con-procesamiento-en-borde-neoeyes-.md"
+    },
+    {
+      "title": "Control de robots con lenguaje natural a través de MCP",
+      "category": "ia",
+      "date": "2026-06-25",
+      "slug": "control-de-robots-con-lenguaje-natural-a-traves-de-mcp",
+      "tags": [
+        "llms",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La comunidad de Open-RMF se reunirá para presentar una forma innovadora de controlar flotas de robots mediante comandos en lenguaje natural. Este avance podría revolucionar la forma en que interactuamos con los robots en entornos como…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-25-control-de-robots-con-lenguaje-natural-a-traves-de-mcp.md"
+    },
+    {
+      "title": "Actualizaciones en el mundo de la robótica y el software",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "actualizaciones-en-el-mundo-de-la-robotica-y-el-softwar",
+      "tags": [
+        "python",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La semana pasada se han producido varias actualizaciones importantes en el mundo de la robótica y el software. Entre ellas, se destaca la liberación de una versión nueva de Python, así como actualizaciones en herramientas como GIMP y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-25-actualizaciones-en-el-mundo-de-la-robotica-y-el-softwar.md"
+    },
+    {
+      "title": "La historia de los transputers: una arquitectura paralela de la década de 1980",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "la-historia-de-los-transputers-una-arquitectura-paralel",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "En la década de 1980, la industria de los semiconductores británica creó los transputers, una arquitectura paralela que buscaba aprovechar la potencia de múltiples procesadores. Aunque la industria se desvió hacia la paralelización a nivel…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-25-la-historia-de-los-transputers-una-arquitectura-paralel.md"
+    },
+    {
+      "title": "Mejoras en Linux 7.2 aumentan el rendimiento de MongoDB en un 30-100%",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "mejoras-en-linux-72-aumentan-el-rendimiento-de-mongodb-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2 del kernel de Linux ha sido actualizada con varias mejoras en la gestión de memoria, lo que ha llevado a un aumento significativo en el rendimiento de MongoDB en ciertas cargas de trabajo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-25-mejoras-en-linux-72-aumentan-el-rendimiento-de-mongodb-.md"
+    },
+    {
+      "title": "Un lector de iButton más conveniente para aplicaciones industriales",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "un-lector-de-ibutton-mas-conveniente-para-aplicaciones-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Los iButtons son dispositivos pequeños utilizados para registrar datos en entornos industriales, pero hasta ahora, leer su información era un proceso tedioso y anticuado. Geoffrey Wells ha diseñado una solución más moderna llamada…",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-25-un-lector-de-ibutton-mas-conveniente-para-aplicaciones-.md"
+    },
+    {
+      "title": "Actualizaciones en el driver NTFS3 para Linux 7.2",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "actualizaciones-en-el-driver-ntfs3-para-linux-72",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El driver NTFS3 para Linux ha recibido actualizaciones importantes en Linux 7.2, incluyendo correcciones de errores y mejoras menores. Esta actualización es relevante para usuarios de Linux que necesitan leer y escribir en sistemas de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-25-actualizaciones-en-el-driver-ntfs3-para-linux-72.md"
+    },
+    {
+      "title": "KSMBD agrega soporte para compresión de SMB2 en Linux 7.2",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "ksmbd-agrega-soporte-para-compresion-de-smb2-en-linux-7",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto KSMBD, un servidor de archivos SMB3 en kernel, ha recibido una actualización importante con la adición de soporte para compresión de SMB2 en Linux 7.2. Esto permitirá a los usuarios aprovechar la compresión de datos en tiempo…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-25-ksmbd-agrega-soporte-para-compresion-de-smb2-en-linux-7.md"
+    },
+    {
+      "title": "Control de brazos robóticos en paralelo: transporte seguro y estable",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "control-de-brazos-roboticos-en-paralelo-transporte-segu",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Desarrolladores de ROBOTIS han creado un paquete de control de movimiento para robots con dos brazos que permite transporte seguro y estable de objetos. Este avance es fundamental para la robótica y la investigación en inteligencia…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-25-control-de-brazos-roboticos-en-paralelo-transporte-segu.md"
+    },
+    {
+      "title": "Fedora impone 2FA para proteger su cadena de suministro",
+      "category": "linux",
+      "date": "2026-06-25",
+      "slug": "fedora-impone-2fa-para-proteger-su-cadena-de-suministro",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Fedora, una distribución de Linux popular, ha sufrido un ataque de malware gracias a una cuenta comprometida. Para evitar que esto vuelva a ocurrir, el proyecto está implementando la autenticación en dos factores (2FA) para sus paqueteros.",
+      "has_command": false,
+      "file_path": "content/linux/2026-06-25-fedora-impone-2fa-para-proteger-su-cadena-de-suministro.md"
+    },
+    {
       "title": "Amazon Astro: El robot que enseñó a darle alma a los robots",
       "category": "robotica",
       "date": "2026-06-24",

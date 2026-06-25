@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-24</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-25</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-la-clave-para-que-los-robots-humanoides-ganen-maraton-4.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-amazon-astro-como-darle-alma-a-un-robot.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-necesitan-los-robots-piernas-para-moverse-2.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-25-quectel-fcm365x-modulo-iot-dual-banda-wifi-6-y-ble-54.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-25-openc6-bios-un-proyecto-de-firmware-para-esp32-c6-con-a.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-25-camara-de-vision-ai-con-procesamiento-en-borde-neoeyes-.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-25-control-de-robots-con-lenguaje-natural-a-traves-de-mcp.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-actualizaciones-en-el-mundo-de-la-robotica-y-el-softwar.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-la-historia-de-los-transputers-una-arquitectura-paralel.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-mejoras-en-linux-72-aumentan-el-rendimiento-de-mongodb-.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-un-lector-de-ibutton-mas-conveniente-para-aplicaciones-.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-actualizaciones-en-el-driver-ntfs3-para-linux-72.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-ksmbd-agrega-soporte-para-compresion-de-smb2-en-linux-7.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-control-de-brazos-roboticos-en-paralelo-transporte-segu.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-fedora-impone-2fa-para-proteger-su-cadena-de-suministro.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-rob.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-la-clave-para-que-los-robots-humanoides-ganen-maraton-3.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-necesitan-los-robots-piernas-para-moverse-explorando-nu.md</loc><lastmod>2026-06-24</lastmod><priority>0.8</priority></url>
