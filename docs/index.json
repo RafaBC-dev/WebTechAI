@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Proyecto de robot humanoide abierto 'AI Sapiens' de ROBOTIS",
+      "category": "robotica",
+      "date": "2026-06-26",
+      "slug": "proyecto-de-robot-humanoide-abierto-ai-sapiens-de-robot",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "ROBOTIS ha lanzado el proyecto de robot humanoide abierto 'AI Sapiens', una plataforma de desarrollo para la comunidad de robótica. Este proyecto busca proporcionar recursos y herramientas para la creación de robots humanoides con…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-26-proyecto-de-robot-humanoide-abierto-ai-sapiens-de-robot.md"
+    },
+    {
+      "title": "Amazon Astro: El robot que enseñó a darle alma a los robots",
+      "category": "robotica",
+      "date": "2026-06-26",
+      "slug": "amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-r-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon Astro es un robot de hogar que se lanzó en 2018 y revolucionó la forma en que se diseñan los robots. Su equipo de desarrollo tuvo que decidir si el robot era simplemente una versión en movimiento de Alexa o si tenía su propio…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-26-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-r-2.md"
+    },
+    {
+      "title": "¿Cómo los robots humanoides ganaron la maratón? El secreto detrás de Honor Lightning",
+      "category": "robotica",
+      "date": "2026-06-26",
+      "slug": "como-los-robots-humanoides-ganaron-la-maraton-el-secret",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El robot humanoid Honor Lightning ha batido el récord mundial de la mitad de maratón con un tiempo de 50 minutos y 26 segundos. Pero ¿cómo lo lograron? ¿Qué tecnología o técnica secreta utilizan?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-26-como-los-robots-humanoides-ganaron-la-maraton-el-secret.md"
+    },
+    {
+      "title": "¿Los robots realmente necesitan piernas?",
+      "category": "robotica",
+      "date": "2026-06-26",
+      "slug": "los-robots-realmente-necesitan-piernas",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "drones"
+      ],
+      "preview": "En este artículo, exploramos la pregunta de si los robots necesitan piernas para ser efectivos en diferentes tareas. Desde robots humanoides hasta rovers espaciales, vemos cómo diferentes diseños de robots están abordando este desafío.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-26-los-robots-realmente-necesitan-piernas.md"
+    },
+    {
+      "title": "Reproducción de registros multimodales en un navegador",
+      "category": "robotica",
+      "date": "2026-06-26",
+      "slug": "reproduccion-de-registros-multimodales-en-un-navegador",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una herramienta llamada Driveline para reproducir registros multimodales en un navegador web, lo que permite visualizar video y señales de manera sincronizada.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-26-reproduccion-de-registros-multimodales-en-un-navegador.md"
+    },
+    {
+      "title": "El robot Ace de Sony supera a un profesional de tenis de mesa en un partido real",
+      "category": "robotica",
+      "date": "2026-06-26",
+      "slug": "el-robot-ace-de-sony-supera-a-un-profesional-de-tenis-d",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El robot Ace de Sony AI ha logrado un hito inédito en la historia de la robótica: superar a un jugador profesional de tenis de mesa en un partido real. Este logro demuestra la capacidad del robot para detectar y reaccionar a un objeto en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-26-el-robot-ace-de-sony-supera-a-un-profesional-de-tenis-d.md"
+    },
+    {
+      "title": "Makerfabs MaTouch ESP32-P4: una pantalla HMI con 4G LTE y Ethernet",
+      "category": "embebidos",
+      "date": "2026-06-26",
+      "slug": "makerfabs-matouch-esp32-p4-una-pantalla-hmi-con-4g-lte-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Makerfabs ha lanzado el MaTouch ESP32-P4, un desarrollo de plataforma de pantalla HMI con 4G LTE y Ethernet. Esta pantalla es ideal para aplicaciones de HMI, inteligencia artificial en el borde y sistemas embebidos conectados.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-26-makerfabs-matouch-esp32-p4-una-pantalla-hmi-con-4g-lte-.md"
+    },
+    {
+      "title": "Alternativas a MinIO: Ceph y Garage para almacenamiento en la nube",
+      "category": "ia",
+      "date": "2026-06-26",
+      "slug": "alternativas-a-minio-ceph-y-garage-para-almacenamiento-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "MinIO, un popular servidor de almacenamiento en objetos, ha sido archivado y sus usuarios buscan alternativas. Dos proyectos en particular, Ceph y Garage, ofrecen compatibilidad con la API S3 de Amazon y son opciones viables.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-26-alternativas-a-minio-ceph-y-garage-para-almacenamiento-.md"
+    },
+    {
+      "title": "Patronus AI recibe $50M para crear mundos digitales que prueban a los agentes de IA",
+      "category": "ia",
+      "date": "2026-06-26",
+      "slug": "patronus-ai-recibe-50m-para-crear-mundos-digitales-que-",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "benchmarks"
+      ],
+      "preview": "La empresa Patronus AI está ayudando a los laboratorios de IA a crear agentes más confiables mediante la creación de mundos digitales simulados para probar su rendimiento en escenarios complejos y variados.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-26-patronus-ai-recibe-50m-para-crear-mundos-digitales-que-.md"
+    },
+    {
+      "title": "Raspberry Pi 4 a 1.25 GHz: una opción más asequible pero con rendimiento limitado",
+      "category": "ia",
+      "date": "2026-06-26",
+      "slug": "raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-pero-",
+      "tags": [
+        "microcontroladores",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "Cytron ha lanzado una versión asequible del Raspberry Pi 4 con 1.25 GHz, pero con 4GB o 8GB de RAM, lo que significa que no alcanza la velocidad máxima de 1.8 GHz. Aunque es una opción más asequible, su rendimiento es limitado.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-26-raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-pero-.md"
+    },
+    {
+      "title": "Claude de Anthropic supera a ChatGPT en crecimiento de usuarios pagos",
+      "category": "ia",
+      "date": "2026-06-26",
+      "slug": "claude-de-anthropic-supera-a-chatgpt-en-crecimiento-de-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La plataforma de inteligencia artificial Claude de Anthropic está ganando popularidad entre los consumidores que pagan por servicios de IA, superando a ChatGPT en crecimiento de usuarios pagos. Según datos de Indagari, la plataforma ha…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-26-claude-de-anthropic-supera-a-chatgpt-en-crecimiento-de-.md"
+    },
+    {
+      "title": "La Casa Blanca pide a OpenAI que retrasé la liberación de su modelo GPT 5.6 por preocupaciones de seguridad",
+      "category": "ia",
+      "date": "2026-06-26",
+      "slug": "la-casa-blanca-pide-a-openai-que-retrase-la-liberacion-",
+      "tags": [
+        "ia-local",
+        "llms",
+        "linux"
+      ],
+      "preview": "La Casa Blanca ha pedido a OpenAI que retrasé la liberación de su modelo GPT 5.6 debido a preocupaciones sobre su seguridad. El modelo, que es una de las versiones más avanzadas de la inteligencia artificial desarrollada por la empresa, ha…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-26-la-casa-blanca-pide-a-openai-que-retrase-la-liberacion-.md"
+    },
+    {
+      "title": "Convierte tu Smart TV en una computadora personal",
+      "category": "linux",
+      "date": "2026-06-26",
+      "slug": "convierte-tu-smart-tv-en-una-computadora-personal",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Una guía reciente muestra cómo transformar una Smart TV en una computadora personal, liberando su potencial de software. Esto podría ser especialmente útil para aquellos que buscan una forma económica de acceder a una computadora básica.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-26-convierte-tu-smart-tv-en-una-computadora-personal.md"
+    },
+    {
+      "title": "Laptop seguro para niños: una solución alternativa a la verificación de edad",
+      "category": "linux",
+      "date": "2026-06-26",
+      "slug": "laptop-seguro-para-ninos-una-solucion-alternativa-a-la-",
+      "tags": [
+        "linux",
+        "ia-local",
+        "robotica"
+      ],
+      "preview": "La verificación de edad en línea ha sido un tema de debate reciente, pero ¿qué hay detrás de esta idea? Un ingeniero ha creado un laptop seguro para niños que puede ser una solución alternativa.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-26-laptop-seguro-para-ninos-una-solucion-alternativa-a-la-.md"
+    },
+    {
+      "title": "Linux 7.2 agrega soporte para pantallas táctiles Wacom W9000",
+      "category": "linux",
+      "date": "2026-06-26",
+      "slug": "linux-72-agrega-soporte-para-pantallas-tactiles-wacom-w",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2 de Linux ha agregado un nuevo driver para pantallas táctiles Wacom W9000, lo que permitirá a los usuarios aprovechar al máximo estas pantallas en sus dispositivos Linux. Esta actualización es especialmente relevante para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-26-linux-72-agrega-soporte-para-pantallas-tactiles-wacom-w.md"
+    },
+    {
       "title": "La clave para que los robots humanoides ganen maratones",
       "category": "robotica",
       "date": "2026-06-25",

@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 25 Jun 2026 10:03:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jun 2026 10:15:28 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Proyecto de robot humanoide abierto 'AI Sapiens' de ROBOTIS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-proyecto-de-robot-humanoide-abierto-ai-sapiens-de-robot.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-proyecto-de-robot-humanoide-abierto-ai-sapiens-de-robot.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>ROBOTIS ha lanzado el proyecto de robot humanoide abierto 'AI Sapiens', una plataforma de desarrollo para la comunidad de robótica. Este proyecto busca proporcionar recursos y herramientas para la creación de robots humanoides con…</description>
+  </item>
+  <item>
+    <title>Amazon Astro: El robot que enseñó a darle alma a los robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-r-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-r-2.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Amazon Astro es un robot de hogar que se lanzó en 2018 y revolucionó la forma en que se diseñan los robots. Su equipo de desarrollo tuvo que decidir si el robot era simplemente una versión en movimiento de Alexa o si tenía su propio…</description>
+  </item>
+  <item>
+    <title>¿Cómo los robots humanoides ganaron la maratón? El secreto detrás de Honor Lightning</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-como-los-robots-humanoides-ganaron-la-maraton-el-secret.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-como-los-robots-humanoides-ganaron-la-maraton-el-secret.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot humanoid Honor Lightning ha batido el récord mundial de la mitad de maratón con un tiempo de 50 minutos y 26 segundos. Pero ¿cómo lo lograron? ¿Qué tecnología o técnica secreta utilizan?</description>
+  </item>
+  <item>
+    <title>¿Los robots realmente necesitan piernas?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-los-robots-realmente-necesitan-piernas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-los-robots-realmente-necesitan-piernas.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En este artículo, exploramos la pregunta de si los robots necesitan piernas para ser efectivos en diferentes tareas. Desde robots humanoides hasta rovers espaciales, vemos cómo diferentes diseños de robots están abordando este desafío.</description>
+  </item>
+  <item>
+    <title>Reproducción de registros multimodales en un navegador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-reproduccion-de-registros-multimodales-en-un-navegador.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-reproduccion-de-registros-multimodales-en-un-navegador.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha creado una herramienta llamada Driveline para reproducir registros multimodales en un navegador web, lo que permite visualizar video y señales de manera sincronizada.</description>
+  </item>
+  <item>
+    <title>El robot Ace de Sony supera a un profesional de tenis de mesa en un partido real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-el-robot-ace-de-sony-supera-a-un-profesional-de-tenis-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-el-robot-ace-de-sony-supera-a-un-profesional-de-tenis-d.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot Ace de Sony AI ha logrado un hito inédito en la historia de la robótica: superar a un jugador profesional de tenis de mesa en un partido real. Este logro demuestra la capacidad del robot para detectar y reaccionar a un objeto en…</description>
+  </item>
+  <item>
+    <title>Makerfabs MaTouch ESP32-P4: una pantalla HMI con 4G LTE y Ethernet</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-26-makerfabs-matouch-esp32-p4-una-pantalla-hmi-con-4g-lte-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-26-makerfabs-matouch-esp32-p4-una-pantalla-hmi-con-4g-lte-.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Makerfabs ha lanzado el MaTouch ESP32-P4, un desarrollo de plataforma de pantalla HMI con 4G LTE y Ethernet. Esta pantalla es ideal para aplicaciones de HMI, inteligencia artificial en el borde y sistemas embebidos conectados.</description>
+  </item>
+  <item>
+    <title>Alternativas a MinIO: Ceph y Garage para almacenamiento en la nube</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-alternativas-a-minio-ceph-y-garage-para-almacenamiento-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-alternativas-a-minio-ceph-y-garage-para-almacenamiento-.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>MinIO, un popular servidor de almacenamiento en objetos, ha sido archivado y sus usuarios buscan alternativas. Dos proyectos en particular, Ceph y Garage, ofrecen compatibilidad con la API S3 de Amazon y son opciones viables.</description>
+  </item>
+  <item>
+    <title>Patronus AI recibe $50M para crear mundos digitales que prueban a los agentes de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-patronus-ai-recibe-50m-para-crear-mundos-digitales-que-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-patronus-ai-recibe-50m-para-crear-mundos-digitales-que-.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Patronus AI está ayudando a los laboratorios de IA a crear agentes más confiables mediante la creación de mundos digitales simulados para probar su rendimiento en escenarios complejos y variados.</description>
+  </item>
+  <item>
+    <title>Raspberry Pi 4 a 1.25 GHz: una opción más asequible pero con rendimiento limitado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-pero-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-pero-.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Cytron ha lanzado una versión asequible del Raspberry Pi 4 con 1.25 GHz, pero con 4GB o 8GB de RAM, lo que significa que no alcanza la velocidad máxima de 1.8 GHz. Aunque es una opción más asequible, su rendimiento es limitado.</description>
+  </item>
+  <item>
+    <title>Claude de Anthropic supera a ChatGPT en crecimiento de usuarios pagos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-claude-de-anthropic-supera-a-chatgpt-en-crecimiento-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-claude-de-anthropic-supera-a-chatgpt-en-crecimiento-de-.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La plataforma de inteligencia artificial Claude de Anthropic está ganando popularidad entre los consumidores que pagan por servicios de IA, superando a ChatGPT en crecimiento de usuarios pagos. Según datos de Indagari, la plataforma ha…</description>
+  </item>
+  <item>
+    <title>La Casa Blanca pide a OpenAI que retrasé la liberación de su modelo GPT 5.6 por preocupaciones de seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-la-casa-blanca-pide-a-openai-que-retrase-la-liberacion-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-la-casa-blanca-pide-a-openai-que-retrase-la-liberacion-.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La Casa Blanca ha pedido a OpenAI que retrasé la liberación de su modelo GPT 5.6 debido a preocupaciones sobre su seguridad. El modelo, que es una de las versiones más avanzadas de la inteligencia artificial desarrollada por la empresa, ha…</description>
+  </item>
+  <item>
+    <title>Convierte tu Smart TV en una computadora personal</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-convierte-tu-smart-tv-en-una-computadora-personal.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-convierte-tu-smart-tv-en-una-computadora-personal.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Una guía reciente muestra cómo transformar una Smart TV en una computadora personal, liberando su potencial de software. Esto podría ser especialmente útil para aquellos que buscan una forma económica de acceder a una computadora básica.</description>
+  </item>
+  <item>
+    <title>Laptop seguro para niños: una solución alternativa a la verificación de edad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-laptop-seguro-para-ninos-una-solucion-alternativa-a-la-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-laptop-seguro-para-ninos-una-solucion-alternativa-a-la-.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La verificación de edad en línea ha sido un tema de debate reciente, pero ¿qué hay detrás de esta idea? Un ingeniero ha creado un laptop seguro para niños que puede ser una solución alternativa.</description>
+  </item>
+  <item>
+    <title>Linux 7.2 agrega soporte para pantallas táctiles Wacom W9000</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-linux-72-agrega-soporte-para-pantallas-tactiles-wacom-w.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-linux-72-agrega-soporte-para-pantallas-tactiles-wacom-w.md</guid>
+    <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 7.2 de Linux ha agregado un nuevo driver para pantallas táctiles Wacom W9000, lo que permitirá a los usuarios aprovechar al máximo estas pantallas en sus dispositivos Linux. Esta actualización es especialmente relevante para…</description>
+  </item>
   <item>
     <title>La clave para que los robots humanoides ganen maratones</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-la-clave-para-que-los-robots-humanoides-ganen-maraton-4.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Fedora, una distribución de Linux popular, ha sufrido un ataque de malware gracias a una cuenta comprometida. Para evitar que esto vuelva a ocurrir, el proyecto está implementando la autenticación en dos factores (2FA) para sus paqueteros.</description>
-  </item>
-  <item>
-    <title>Amazon Astro: El robot que enseñó a darle alma a los robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-rob.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-rob.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Amazon Astro es un robot de hogar que ha revolucionado la forma en que interactuamos con los robots. Su capacidad para navegar y comunicarse de manera intuitiva ha llevado a una pregunta fundamental: ¿cómo podemos darle alma a un robot?</description>
-  </item>
-  <item>
-    <title>La clave para que los robots humanoides ganen maratones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-la-clave-para-que-los-robots-humanoides-ganen-maraton-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-la-clave-para-que-los-robots-humanoides-ganen-maraton-3.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot humanoides Honor Lightning ha batido el récord mundial de media maratón con un tiempo de 50 minutos y 26 segundos. ¿Cuál es el secreto detrás de este logro impresionante?</description>
-  </item>
-  <item>
-    <title>¿Necesitan los robots piernas para moverse? Explorando nuevas formas de locomoción</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-necesitan-los-robots-piernas-para-moverse-explorando-nu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-necesitan-los-robots-piernas-para-moverse-explorando-nu.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de locomoción para los robots. En este artículo, veremos algunos ejemplos de robots que no necesitan piernas para moverse y cómo están…</description>
-  </item>
-  <item>
-    <title>Masterclass de Desarrollo de Robótica con ROS para Principiantes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-masterclass-de-desarrollo-de-robotica-con-ros-para-prin.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-24-masterclass-de-desarrollo-de-robotica-con-ros-para-prin.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS ha lanzado un nuevo programa de formación en línea para desarrolladores de robótica, diseñado para enseñar habilidades prácticas en ROS y ROS 2 a través de robots reales y proyectos estructurados.</description>
-  </item>
-  <item>
-    <title>Un teclado T9 para smartphones: la nostalgia en un dispositivo moderno</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-un-teclado-t9-para-smartphones-la-nostalgia-en-un-dispo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-un-teclado-t9-para-smartphones-la-nostalgia-en-un-dispo.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Los smartphones modernos suelen tener teclados táctiles decentes, pero ¿recuerdas cuando teníamos que teclear en el teclado numérico? Un ingeniero ha recreado ese experiencio en un dispositivo moderno.</description>
-  </item>
-  <item>
-    <title>Visualiza señales de radio con QuadRF, un tile de radio definido por software</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-visualiza-senales-de-radio-con-quadrf-un-tile-de-radio-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-visualiza-senales-de-radio-con-quadrf-un-tile-de-radio-.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto QuadRF permite visualizar señales de radio en el entorno utilizando una aplicación de realidad aumentada. Esta tecnología podría ser útil para identificar dispositivos inalámbricos en un área determinada.</description>
-  </item>
-  <item>
-    <title>Desarrollador de RP2350B con depurador integrado y HDMI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-desarrollador-de-rp2350b-con-depurador-integrado-y-hdmi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-24-desarrollador-de-rp2350b-con-depurador-integrado-y-hdmi.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Una nueva placa de desarrollo llamada 'Bells&amp;Whistles' ha sido lanzada, que incluye un depurador integrado y un conector HDMI, lo que la hace ideal para prototipado y desarrollo de proyectos de código abierto.</description>
-  </item>
-  <item>
-    <title>Claude Tag: la inteligencia artificial que aprende con tus chats en Slack</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-24-claude-tag-la-inteligencia-artificial-que-aprende-con-t.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-24-claude-tag-la-inteligencia-artificial-que-aprende-con-t.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Anthropic ha lanzado Claude Tag, una herramienta de inteligencia artificial que se integra en Slack y actúa como un compañero de trabajo. Esta herramienta permite a los usuarios obtener respuestas y realizar tareas en tiempo real,…</description>
-  </item>
-  <item>
-    <title>India's MoEngage apuesta por millones de agentes de IA en marketing</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-24-indias-moengage-apuesta-por-millones-de-agentes-de-ia-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-24-indias-moengage-apuesta-por-millones-de-agentes-de-ia-e.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa de software de marketing MoEngage ha adquirido a Aampe, una startup que desarrolla agentes de IA para personalizar mensajes de marketing. Esta adquisición marca un giro en la industria del marketing, donde la automatización y la…</description>
-  </item>
-  <item>
-    <title>5 monitores en un Commodore 128: la ingeniería de una hazaña retro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-5-monitores-en-un-commodore-128-la-ingenieria-de-una-ha.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-5-monitores-en-un-commodore-128-la-ingenieria-de-una-ha.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El ingeniero de retroinformática The 8-Bit Guy ha logrado conectar 5 monitores a un Commodore 128 sin modificar el ordenador en sí, utilizando una combinación de hardware y software creativos.</description>
-  </item>
-  <item>
-    <title>Aliro: un estándar abierto para control de acceso digital</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-aliro-un-estandar-abierto-para-control-de-acceso-digita.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-aliro-un-estandar-abierto-para-control-de-acceso-digita.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La Connectivity Standards Alliance ha lanzado Aliro, un estándar abierto para control de acceso digital que funciona sobre NFC, Bluetooth LE o UWB. Este estándar busca abordar la fragmentación del mercado y permitir la interoperabilidad…</description>
-  </item>
-  <item>
-    <title>Linux sched_ext: Código fuente reestructurado tras crítica de Linus Torvalds</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-linux-sched-ext-codigo-fuente-reestructurado-tras-criti.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-linux-sched-ext-codigo-fuente-reestructurado-tras-criti.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Linus Torvalds, creador de Linux, ha criticado la forma en que se ha estructurado el código fuente del proyecto sched_ext. Ha sugerido que se utilice una estructura de directorios más organizada para evitar la proliferación de archivos con…</description>
-  </item>
-  <item>
-    <title>Linux 7.2: Mejoras en la integridad de sistemas con soporte post-cuántico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-linux-72-mejoras-en-la-integridad-de-sistemas-con-sopor.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-linux-72-mejoras-en-la-integridad-de-sistemas-con-sopor.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.2 del kernel Linux ha sido lanzada con importantes mejoras en la integridad de sistemas, incluyendo el soporte post-cuántico para firmas de ML-DSA. Esto significa que los sistemas Linux pueden ahora validar firmas de manera…</description>
-  </item>
-  <item>
-    <title>Actualización de paquetes en ROS Lyrical: 93 nuevos paquetes y 70 actualizaciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-actualizacion-de-paquetes-en-ros-lyrical-93-nuevos-paqu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-actualizacion-de-paquetes-en-ros-lyrical-93-nuevos-paqu.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ROS Lyrical ha lanzado una actualización importante con 93 nuevos paquetes y 70 actualizaciones. Esta actualización es el resultado del trabajo de muchos contribuyentes y mantenedores que han trabajado para mejorar la…</description>
-  </item>
-  <item>
-    <title>KASAN para código BPF compilado en tiempo justo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-kasan-para-codigo-bpf-compilado-en-tiempo-justo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-24-kasan-para-codigo-bpf-compilado-en-tiempo-justo.md</guid>
-    <pubDate>Wed, 24 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El proyecto KASAN se ha expandido para incluir código BPF compilado en tiempo justo, lo que ayudará a detectar errores en el compilador JIT. Esto es especialmente importante para garantizar la seguridad y estabilidad del kernel Linux.</description>
   </item>
 </channel>
 </rss>

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-25</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-26</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-26</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-proyecto-de-robot-humanoide-abierto-ai-sapiens-de-robot.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-amazon-astro-el-robot-que-enseno-a-darle-alma-a-los-r-2.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-como-los-robots-humanoides-ganaron-la-maraton-el-secret.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-los-robots-realmente-necesitan-piernas.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-reproduccion-de-registros-multimodales-en-un-navegador.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-el-robot-ace-de-sony-supera-a-un-profesional-de-tenis-d.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-26-makerfabs-matouch-esp32-p4-una-pantalla-hmi-con-4g-lte-.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-alternativas-a-minio-ceph-y-garage-para-almacenamiento-.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-patronus-ai-recibe-50m-para-crear-mundos-digitales-que-.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-pero-.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-claude-de-anthropic-supera-a-chatgpt-en-crecimiento-de-.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-26-la-casa-blanca-pide-a-openai-que-retrase-la-liberacion-.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-convierte-tu-smart-tv-en-una-computadora-personal.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-laptop-seguro-para-ninos-una-solucion-alternativa-a-la-.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-26-linux-72-agrega-soporte-para-pantallas-tactiles-wacom-w.md</loc><lastmod>2026-06-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-la-clave-para-que-los-robots-humanoides-ganen-maraton-4.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-amazon-astro-como-darle-alma-a-un-robot.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-necesitan-los-robots-piernas-para-moverse-2.md</loc><lastmod>2026-06-25</lastmod><priority>0.8</priority></url>
