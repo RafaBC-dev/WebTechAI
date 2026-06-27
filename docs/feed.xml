@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 26 Jun 2026 10:15:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 09:23:49 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ROS 2 Jazzy disponible en macOS sin Docker ni VMs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-2-jazzy-disponible-en-macos-sin-docker-ni-vms.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-2-jazzy-disponible-en-macos-sin-docker-ni-vms.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de robótica y sistemas embebidos ha ganado un gran aliado con la llegada de ROS 2 Jazzy en macOS. Gracias a Homebrew, ahora es posible instalar este entorno de desarrollo de manera nativa en tu máquina macOS sin necesidad de…</description>
+  </item>
+  <item>
+    <title>Amazon Astro: El robot que aprendió a tener alma</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-amazon-astro-el-robot-que-aprendio-a-tener-alma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-amazon-astro-el-robot-que-aprendio-a-tener-alma.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Amazon Astro es un robot de hogar que utiliza cámaras y sensores para navegar y mapear espacios. Pero lo que hace que sea interesante es que su equipo de diseño decidió darle un carácter propio, en lugar de simplemente ser una versión en…</description>
+  </item>
+  <item>
+    <title>Sony's Ace Robot, un campeón de mesa de ping-pong con ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-sonys-ace-robot-un-campeon-de-mesa-de-ping-pong-con-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-sonys-ace-robot-un-campeon-de-mesa-de-ping-pong-con-ros.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El robot de mesa de ping-pong de Sony, Ace, ha demostrado ser un campeón en partidos reales contra profesionales. Esto se debe a que utiliza la tecnología ROS 2, una plataforma de software de código abierto para robótica.</description>
+  </item>
+  <item>
+    <title>¿Necesitan los robots piernas para moverse?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-necesitan-los-robots-piernas-para-moverse-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-necesitan-los-robots-piernas-para-moverse-3.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los robots están avanzando rápidamente en su capacidad para moverse y actuar de manera independiente. Pero ¿necesitan realmente piernas para hacerlo? En este artículo, exploramos algunas de las últimas innovaciones en robótica que están…</description>
+  </item>
+  <item>
+    <title>ROS-Ws: Herramienta para la gestión de espacios de trabajo de ROS2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-ws-herramienta-para-la-gestion-de-espacios-de-traba.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-ws-herramienta-para-la-gestion-de-espacios-de-traba.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La gestión de múltiples proyectos en ROS2 puede ser un desafío. Una herramienta reciente llamada ROS-Ws busca simplificar la tarea de cambiar entre espacios de trabajo y automatizar la fuente de configuración.</description>
+  </item>
+  <item>
+    <title>Makerfabs MaTouch ESP32-P4: una pantalla táctil con 4G LTE y Ethernet</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-makerfabs-matouch-esp32-p4-una-pantalla-tactil-con-4g-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-makerfabs-matouch-esp32-p4-una-pantalla-tactil-con-4g-l.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Makerfabs ha lanzado el MaTouch ESP32-P4, una pantalla táctil de 10.1 pulgadas con conectividad 4G LTE y Ethernet, perfecta para aplicaciones de HMI y edge AI.</description>
+  </item>
+  <item>
+    <title>Reproducción de YouTube en un Game Boy Color con una tarjeta especial</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-reproduccion-de-youtube-en-un-game-boy-color-con-una-ta.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-reproduccion-de-youtube-en-un-game-boy-color-con-una-ta.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un ingeniero ha logrado reproducir videos de YouTube en un Game Boy Color, el clásico dispositivo de Nintendo, utilizando una tarjeta personalizada y una conexión Wi-Fi.</description>
+  </item>
+  <item>
+    <title>WipperSnapper para Raspberry Pi y más: Adafruit IO y Adafruit Learning System</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-wippersnapper-para-raspberry-pi-y-mas-adafruit-io-y-ada.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-wippersnapper-para-raspberry-pi-y-mas-adafruit-io-y-ada.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit ha lanzado una serie de actualizaciones importantes en su plataforma de IoT y aprendizaje en línea. Entre ellas, WipperSnapper para Raspberry Pi, una herramienta que facilita la conexión de dispositivos a la plataforma, y una…</description>
+  </item>
+  <item>
+    <title>Robotas con manos artificiales: avances en robótica y seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-robotas-con-manos-artificiales-avances-en-robotica-y-se.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-robotas-con-manos-artificiales-avances-en-robotica-y-se.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica sigue avanzando con proyectos innovadores que buscan mejorar la seguridad y la cooperación entre humanos y robots. En este artículo, exploraremos algunos de los últimos avances en robótica y seguridad, destacando la importancia…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi 4 Model B con CPU a 1.25 GHz, ¿un descuento o un problema?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-raspberry-pi-4-model-b-con-cpu-a-125-ghz-un-descuento-o.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-raspberry-pi-4-model-b-con-cpu-a-125-ghz-un-descuento-o.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Cytron ha lanzado una versión especial del Raspberry Pi 4 Model B con una velocidad de CPU reducida a 1.25 GHz, pero ¿qué significa esto para los usuarios?</description>
+  </item>
+  <item>
+    <title>OpenAI limita la liberación de GPT-5.6 tras solicitud del gobierno</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-limita-la-liberacion-de-gpt-56-tras-solicitud-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-limita-la-liberacion-de-gpt-56-tras-solicitud-de.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa OpenAI ha decidido restringir la liberación de su modelo de inteligencia artificial GPT-5.6 tras una solicitud del gobierno de los Estados Unidos. Esto ha generado debate sobre el control gubernamental sobre la liberación de…</description>
+  </item>
+  <item>
+    <title>OpenAI establece su presencia en la India con un nuevo director</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-establece-su-presencia-en-la-india-con-un-nuevo-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-establece-su-presencia-en-la-india-con-un-nuevo-.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha nombrado a Prabhjeet Singh como su primer director en la India, con el objetivo de escalar su presencia en el país. La empresa ha estado invirtiendo en la India durante varios meses, abriendo oficinas en Nueva Delhi, Mumbai y…</description>
+  </item>
+  <item>
+    <title>Plataforma educativa LEAP: acceso a contenido en áreas remotas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-plataforma-educativa-leap-acceso-a-contenido-en-areas-r.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-plataforma-educativa-leap-acceso-a-contenido-en-areas-r.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>En áreas remotas con poca o ninguna conexión a Internet, la educación puede ser un desafío. La plataforma LEAP busca resolver este problema proporcionando acceso a contenido educativo a través de una red local.</description>
+  </item>
+  <item>
+    <title>GEEKOM A7 2026 Edition: Una mini PC con Ubuntu 26.04 y AMD Ryzen 5 7545U</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-geekom-a7-2026-edition-una-mini-pc-con-ubuntu-2604-y-am.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-geekom-a7-2026-edition-una-mini-pc-con-ubuntu-2604-y-am.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La mini PC GEEKOM A7 2026 Edition ha sido revisada en Windows 11 y ahora se analiza su rendimiento con Ubuntu 26.04 en un sistema dual boot. ¿Cómo se instaló y cómo se comportó en este entorno?</description>
+  </item>
+  <item>
+    <title>Nuevas actualizaciones para el driver de Linux de Intel permiten HDR en conexiones DP MST</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-nuevas-actualizaciones-para-el-driver-de-linux-de-intel.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-nuevas-actualizaciones-para-el-driver-de-linux-de-intel.md</guid>
+    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El driver de Linux de Intel ha tenido una limitación importante en su soporte para pantallas con alta dinámica de rango (HDR). Sin embargo, gracias a las actualizaciones de código de Gil Dekel de Google, esta limitación pronto será…</description>
+  </item>
   <item>
     <title>Proyecto de robot humanoide abierto 'AI Sapiens' de ROBOTIS</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-26-proyecto-de-robot-humanoide-abierto-ai-sapiens-de-robot.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 26 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La versión 7.2 de Linux ha agregado un nuevo driver para pantallas táctiles Wacom W9000, lo que permitirá a los usuarios aprovechar al máximo estas pantallas en sus dispositivos Linux. Esta actualización es especialmente relevante para…</description>
-  </item>
-  <item>
-    <title>La clave para que los robots humanoides ganen maratones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-la-clave-para-que-los-robots-humanoides-ganen-maraton-4.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-la-clave-para-que-los-robots-humanoides-ganen-maraton-4.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot humanoides Honor Lightning ha batido el récord mundial de media maratón, pero ¿qué secreto ha utilizado para lograrlo? ¿Es una tecnología mágica o una técnica innovadora?</description>
-  </item>
-  <item>
-    <title>Amazon Astro: ¿Cómo darle alma a un robot?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-amazon-astro-como-darle-alma-a-un-robot.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-amazon-astro-como-darle-alma-a-un-robot.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Amazon Astro es un robot de hogar que utiliza cámaras y sensores para navegar y explorar su entorno. Pero ¿qué hace que un robot sea más que una simple máquina? En este artículo, descubrirás cómo Amazon diole alma a Astro.</description>
-  </item>
-  <item>
-    <title>¿Necesitan los robots piernas para moverse?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-necesitan-los-robots-piernas-para-moverse-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-25-necesitan-los-robots-piernas-para-moverse-2.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica avanza a pasos agigantados, y ahora se pregunta si los robots necesitan piernas para moverse. En este artículo, exploraremos algunas de las últimas innovaciones en robótica que están cambiando la forma en que pensamos sobre la…</description>
-  </item>
-  <item>
-    <title>Quectel FCM365X: módulo IoT dual-banda WiFi 6 y BLE 5.4</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-25-quectel-fcm365x-modulo-iot-dual-banda-wifi-6-y-ble-54.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-25-quectel-fcm365x-modulo-iot-dual-banda-wifi-6-y-ble-54.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Quectel ha lanzado el módulo IoT FCM365X, que ofrece conectividad dual-banda WiFi 6 y Bluetooth Low Energy 5.4, junto con una variedad de interfaces y una temperatura de operación de -40°C a +85°C. Este módulo es ideal para aplicaciones de…</description>
-  </item>
-  <item>
-    <title>OpenC6 BIOS: un proyecto de firmware para ESP32-C6 con actualizaciones en vivo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-25-openc6-bios-un-proyecto-de-firmware-para-esp32-c6-con-a.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-25-openc6-bios-un-proyecto-de-firmware-para-esp32-c6-con-a.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un equipo de desarrolladores ha lanzado OpenC6 BIOS, un proyecto de firmware que permite a los dispositivos con ESP32-C6 ejecutar código de aplicaciones separado del firmware base, lo que facilita la actualización y el mantenimiento de los…</description>
-  </item>
-  <item>
-    <title>Cámara de visión AI con procesamiento en borde: NeoEyes NE503</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-25-camara-de-vision-ai-con-procesamiento-en-borde-neoeyes-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-25-camara-de-vision-ai-con-procesamiento-en-borde-neoeyes-.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La cámara de visión NeoEyes NE503 es un dispositivo de visión AI que procesa imágenes en tiempo real sin necesidad de conexión a la nube o un servidor local. Esto lo hace ideal para aplicaciones de monitoreo y seguridad.</description>
-  </item>
-  <item>
-    <title>Control de robots con lenguaje natural a través de MCP</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-25-control-de-robots-con-lenguaje-natural-a-traves-de-mcp.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-25-control-de-robots-con-lenguaje-natural-a-traves-de-mcp.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de Open-RMF se reunirá para presentar una forma innovadora de controlar flotas de robots mediante comandos en lenguaje natural. Este avance podría revolucionar la forma en que interactuamos con los robots en entornos como…</description>
-  </item>
-  <item>
-    <title>Actualizaciones en el mundo de la robótica y el software</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-actualizaciones-en-el-mundo-de-la-robotica-y-el-softwar.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-actualizaciones-en-el-mundo-de-la-robotica-y-el-softwar.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La semana pasada se han producido varias actualizaciones importantes en el mundo de la robótica y el software. Entre ellas, se destaca la liberación de una versión nueva de Python, así como actualizaciones en herramientas como GIMP y…</description>
-  </item>
-  <item>
-    <title>La historia de los transputers: una arquitectura paralela de la década de 1980</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-la-historia-de-los-transputers-una-arquitectura-paralel.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-la-historia-de-los-transputers-una-arquitectura-paralel.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>En la década de 1980, la industria de los semiconductores británica creó los transputers, una arquitectura paralela que buscaba aprovechar la potencia de múltiples procesadores. Aunque la industria se desvió hacia la paralelización a nivel…</description>
-  </item>
-  <item>
-    <title>Mejoras en Linux 7.2 aumentan el rendimiento de MongoDB en un 30-100%</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-mejoras-en-linux-72-aumentan-el-rendimiento-de-mongodb-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-mejoras-en-linux-72-aumentan-el-rendimiento-de-mongodb-.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.2 del kernel de Linux ha sido actualizada con varias mejoras en la gestión de memoria, lo que ha llevado a un aumento significativo en el rendimiento de MongoDB en ciertas cargas de trabajo.</description>
-  </item>
-  <item>
-    <title>Un lector de iButton más conveniente para aplicaciones industriales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-un-lector-de-ibutton-mas-conveniente-para-aplicaciones-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-un-lector-de-ibutton-mas-conveniente-para-aplicaciones-.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los iButtons son dispositivos pequeños utilizados para registrar datos en entornos industriales, pero hasta ahora, leer su información era un proceso tedioso y anticuado. Geoffrey Wells ha diseñado una solución más moderna llamada…</description>
-  </item>
-  <item>
-    <title>Actualizaciones en el driver NTFS3 para Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-actualizaciones-en-el-driver-ntfs3-para-linux-72.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-actualizaciones-en-el-driver-ntfs3-para-linux-72.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El driver NTFS3 para Linux ha recibido actualizaciones importantes en Linux 7.2, incluyendo correcciones de errores y mejoras menores. Esta actualización es relevante para usuarios de Linux que necesitan leer y escribir en sistemas de…</description>
-  </item>
-  <item>
-    <title>KSMBD agrega soporte para compresión de SMB2 en Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-ksmbd-agrega-soporte-para-compresion-de-smb2-en-linux-7.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-ksmbd-agrega-soporte-para-compresion-de-smb2-en-linux-7.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El proyecto KSMBD, un servidor de archivos SMB3 en kernel, ha recibido una actualización importante con la adición de soporte para compresión de SMB2 en Linux 7.2. Esto permitirá a los usuarios aprovechar la compresión de datos en tiempo…</description>
-  </item>
-  <item>
-    <title>Control de brazos robóticos en paralelo: transporte seguro y estable</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-control-de-brazos-roboticos-en-paralelo-transporte-segu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-control-de-brazos-roboticos-en-paralelo-transporte-segu.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Desarrolladores de ROBOTIS han creado un paquete de control de movimiento para robots con dos brazos que permite transporte seguro y estable de objetos. Este avance es fundamental para la robótica y la investigación en inteligencia…</description>
-  </item>
-  <item>
-    <title>Fedora impone 2FA para proteger su cadena de suministro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-fedora-impone-2fa-para-proteger-su-cadena-de-suministro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-25-fedora-impone-2fa-para-proteger-su-cadena-de-suministro.md</guid>
-    <pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Fedora, una distribución de Linux popular, ha sufrido un ataque de malware gracias a una cuenta comprometida. Para evitar que esto vuelva a ocurrir, el proyecto está implementando la autenticación en dos factores (2FA) para sus paqueteros.</description>
   </item>
 </channel>
 </rss>
