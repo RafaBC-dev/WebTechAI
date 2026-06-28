@@ -1,6 +1,215 @@
 {
   "news": [
     {
+      "title": "Amazon Astro: el robot que nos enseñó a dar alma a los robots",
+      "category": "robotica",
+      "date": "2026-06-28",
+      "slug": "amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon presentó Astro, su primer robot doméstico, en 2018. Este robot era capaz de moverse por la casa, detectar objetos y personas, y transportar pequeños artículos. Sin embargo, la pregunta era: ¿sería simplemente una versión de Alexa en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-28-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-2.md"
+    },
+    {
+      "title": "Gestión de espacios de trabajo ROS2 con ws: una herramienta útil",
+      "category": "robotica",
+      "date": "2026-06-28",
+      "slug": "gestion-de-espacios-de-trabajo-ros2-con-ws-una-herramie",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Los desarrolladores de ROS2 a menudo trabajan en múltiples proyectos, cada uno con su propio espacio de trabajo. Una herramienta reciente llamada ws simplifica la gestión de estos espacios de trabajo y la configuración de los entornos de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-28-gestion-de-espacios-de-trabajo-ros2-con-ws-una-herramie.md"
+    },
+    {
+      "title": "¿Los robots necesitan piernas? Explorando las opciones",
+      "category": "robotica",
+      "date": "2026-06-28",
+      "slug": "los-robots-necesitan-piernas-explorando-las-opciones",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "automatizacion"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados, y la pregunta de si los robots necesitan piernas es cada vez más relevante. En este artículo, exploraremos algunas de las opciones y tecnologías que están cambiando la forma en que pensamos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-28-los-robots-necesitan-piernas-explorando-las-opciones.md"
+    },
+    {
+      "title": "ROS 2 Jazzy ahora disponible en Homebrew para macOS",
+      "category": "robotica",
+      "date": "2026-06-28",
+      "slug": "ros-2-jazzy-ahora-disponible-en-homebrew-para-macos",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica ha obtenido un gran avance con la disponibilidad de ROS 2 Jazzy en Homebrew para macOS, lo que permite una experiencia nativa y sin necesidad de contenedores o máquinas virtuales.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-28-ros-2-jazzy-ahora-disponible-en-homebrew-para-macos.md"
+    },
+    {
+      "title": "Sony's Ace Robot Supera a Jugadores de Tenis de Mesa Profesionales",
+      "category": "robotica",
+      "date": "2026-06-28",
+      "slug": "sonys-ace-robot-supera-a-jugadores-de-tenis-de-mesa-pro",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El robot de tenis de mesa Sony AI's Ace ha ganado juegos contra jugadores profesionales en partidos reales. Esto se logró gracias a la tecnología de inteligencia artificial y robótica utilizada en su desarrollo. La noticia es relevante…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-28-sonys-ace-robot-supera-a-jugadores-de-tenis-de-mesa-pro.md"
+    },
+    {
+      "title": "Crea tu propio altavoz desde cero con tecnología de vanguardia",
+      "category": "diseño-3d",
+      "date": "2026-06-28",
+      "slug": "crea-tu-propio-altavoz-desde-cero-con-tecnologia-de-van",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "Un experimentado ingeniero ha diseñado un altavoz innovador que utiliza tecnología 3D para crear un altavoz funcional y reconocible. Este proyecto es una demostración impresionante de la capacidad de la tecnología para crear dispositivos…",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-06-28-crea-tu-propio-altavoz-desde-cero-con-tecnologia-de-van.md"
+    },
+    {
+      "title": "Arduino lanza módulos Modulino Hub y Extender para I2C a larga distancia",
+      "category": "embebidos",
+      "date": "2026-06-28",
+      "slug": "arduino-lanza-modulos-modulino-hub-y-extender-para-i2c-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "arduino"
+      ],
+      "preview": "Arduino ha presentado tres nuevos módulos Modulino: el Modulino Hub, el Modulino Extender y el Modulino Motors. El Modulino Hub y el Modulino Extender están diseñados para mejorar la comunicación I2C en proyectos de robótica y…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-28-arduino-lanza-modulos-modulino-hub-y-extender-para-i2c-.md"
+    },
+    {
+      "title": "Un fundador lucha contra el cáncer con la ayuda de la inteligencia artificial",
+      "category": "ia",
+      "date": "2026-06-28",
+      "slug": "un-fundador-lucha-contra-el-cancer-con-la-ayuda-de-la-i",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Conno Christou, un empresario de 35 años, descubrió que tenía un tumor agresivo de linfoma no Hodgkin en 2025, después de una rutina de seguimiento exhaustiva de su salud. La IA ayudó a tomar decisiones críticas sobre su tratamiento.",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-28-un-fundador-lucha-contra-el-cancer-con-la-ayuda-de-la-i.md"
+    },
+    {
+      "title": "Robotas con manos artificiales: avances en la robótica",
+      "category": "ia",
+      "date": "2026-06-28",
+      "slug": "robotas-con-manos-artificiales-avances-en-la-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La robótica ha experimentado un gran avance con la creación de manos artificiales que pueden interactuar con objetos de manera más natural. Estas manos pueden ser controladas por sistemas de visión y aprendizaje automático, lo que las hace…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-28-robotas-con-manos-artificiales-avances-en-la-robotica.md"
+    },
+    {
+      "title": "Raspberry Pi 4 a 1,25 GHz: una opción más asequible para proyectos de IA y robótica",
+      "category": "ia",
+      "date": "2026-06-28",
+      "slug": "raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-para-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Cytron ha lanzado una versión asequible del Raspberry Pi 4 Model B con un procesador a 1,25 GHz, lo que lo convierte en una opción más atractiva para proyectos de IA y robótica. Esta versión es compatible con los ecosistemas y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-28-raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-para-.md"
+    },
+    {
+      "title": "El ejecutivo de Apple Vision Pro se une a OpenAI",
+      "category": "ia",
+      "date": "2026-06-28",
+      "slug": "el-ejecutivo-de-apple-vision-pro-se-une-a-openai",
+      "tags": [
+        "ia-local",
+        "robotica"
+      ],
+      "preview": "El vicepresidente de Apple responsable del desarrollo de la gafas de realidad aumentada Vision Pro, Paul Meade, deja la compañía para unirse a la empresa de inteligencia artificial OpenAI. Esta noticia puede tener implicaciones importantes…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-28-el-ejecutivo-de-apple-vision-pro-se-une-a-openai.md"
+    },
+    {
+      "title": "GEEKOM A7 2026 Edition: Prueba de Ubuntu 26.04 en un mini PC AMD Ryzen 5 7545U",
+      "category": "linux",
+      "date": "2026-06-28",
+      "slug": "geekom-a7-2026-edition-prueba-de-ubuntu-2604-en-un-mini",
+      "tags": [
+        "linux",
+        "ubuntu",
+        "robotica"
+      ],
+      "preview": "La GEEKOM A7 2026 Edition es un mini PC potente que combina un procesador AMD Ryzen 5 7545U con un sistema operativo Ubuntu 26.04. En esta prueba, exploramos cómo funciona el sistema y qué características ofrece.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-28-geekom-a7-2026-edition-prueba-de-ubuntu-2604-en-un-mini.md"
+    },
+    {
+      "title": "Mejoras en Linux MD RAID5: hasta un 17% de aumento en rendimiento",
+      "category": "linux",
+      "date": "2026-06-28",
+      "slug": "mejoras-en-linux-md-raid5-hasta-un-17-de-aumento-en-ren",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha presentado una serie de parches para mejorar la escalabilidad del RAID5, lo que podría llevar a un aumento del 10-17% en el rendimiento en ciertas configuraciones.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-28-mejoras-en-linux-md-raid5-hasta-un-17-de-aumento-en-ren.md"
+    },
+    {
+      "title": "Plataforma educativa LEAP brinda acceso a contenidos en áreas remotas",
+      "category": "linux",
+      "date": "2026-06-28",
+      "slug": "plataforma-educativa-leap-brinda-acceso-a-contenidos-en",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "En áreas remotas sin acceso a internet, la educación puede ser un desafío. La plataforma LEAP busca cambiar esto, permitiendo a los estudiantes acceder a contenidos educativos sin necesidad de conexión a internet.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-28-plataforma-educativa-leap-brinda-acceso-a-contenidos-en.md"
+    },
+    {
+      "title": "Nueva función de THP para combinar el mejor de HugeTLB y THP en Linux",
+      "category": "linux",
+      "date": "2026-06-28",
+      "slug": "nueva-funcion-de-thp-para-combinar-el-mejor-de-hugetlb-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El desarrollador de Linux Qi Zheng ha presentado una nueva función llamada Reserved THP, que combina las ventajas de HugeTLB y THP para mejorar la gestión de memoria en Linux. Esta función podría resolver problemas de reserva de memoria en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-28-nueva-funcion-de-thp-para-combinar-el-mejor-de-hugetlb-.md"
+    },
+    {
       "title": "ROS 2 Jazzy disponible en macOS sin Docker ni VMs",
       "category": "robotica",
       "date": "2026-06-27",

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-27</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-27</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-28</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-28</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-2.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-gestion-de-espacios-de-trabajo-ros2-con-ws-una-herramie.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-los-robots-necesitan-piernas-explorando-las-opciones.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-ros-2-jazzy-ahora-disponible-en-homebrew-para-macos.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-sonys-ace-robot-supera-a-jugadores-de-tenis-de-mesa-pro.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-06-28-crea-tu-propio-altavoz-desde-cero-con-tecnologia-de-van.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-28-arduino-lanza-modulos-modulino-hub-y-extender-para-i2c-.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-28-un-fundador-lucha-contra-el-cancer-con-la-ayuda-de-la-i.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-28-robotas-con-manos-artificiales-avances-en-la-robotica.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-28-raspberry-pi-4-a-125-ghz-una-opcion-mas-asequible-para-.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-28-el-ejecutivo-de-apple-vision-pro-se-une-a-openai.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-28-geekom-a7-2026-edition-prueba-de-ubuntu-2604-en-un-mini.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-28-mejoras-en-linux-md-raid5-hasta-un-17-de-aumento-en-ren.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-28-plataforma-educativa-leap-brinda-acceso-a-contenidos-en.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-28-nueva-funcion-de-thp-para-combinar-el-mejor-de-hugetlb-.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-2-jazzy-disponible-en-macos-sin-docker-ni-vms.md</loc><lastmod>2026-06-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-amazon-astro-el-robot-que-aprendio-a-tener-alma.md</loc><lastmod>2026-06-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-sonys-ace-robot-un-campeon-de-mesa-de-ping-pong-con-ros.md</loc><lastmod>2026-06-27</lastmod><priority>0.8</priority></url>
