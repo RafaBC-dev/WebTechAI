@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "¿Los robots necesitan piernas? Explorando nuevas formas de movimiento",
+      "category": "robotica",
+      "date": "2026-06-29",
+      "slug": "los-robots-necesitan-piernas-explorando-nuevas-formas-2",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "En el mundo de la robótica, la pregunta de si los robots necesitan piernas es cada vez más relevante. Con la creciente popularidad de los robots autónomos y la necesidad de explorar entornos hostiles, los ingenieros están buscando nuevas…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-29-los-robots-necesitan-piernas-explorando-nuevas-formas-2.md"
+    },
+    {
+      "title": "Amazon Astro: el robot que nos enseñó a dar alma a los robots",
+      "category": "robotica",
+      "date": "2026-06-29",
+      "slug": "amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "En 2018, Amazon lanzó Astro, su primer robot para hogares y oficinas. Este robot utilizaba cámaras y sensores para mapear y navegar por espacios, y podía patrullar, revisar a los seres queridos y transportar objetos pequeños. Pero ¿qué es…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-29-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-3.md"
+    },
+    {
+      "title": "Ros2-dev-suite: una herramienta de desarrollo para ROS 2 en VS Code",
+      "category": "robotica",
+      "date": "2026-06-29",
+      "slug": "ros2-dev-suite-una-herramienta-de-desarrollo-para-ros-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha lanzado una nueva herramienta de desarrollo llamada Ros2-dev-suite, que permite a los desarrolladores trabajar de manera más eficiente en el entorno de desarrollo integrado (IDE) VS Code. Esta herramienta es una…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-29-ros2-dev-suite-una-herramienta-de-desarrollo-para-ros-2.md"
+    },
+    {
+      "title": "RUBI: una herramienta de utilidad para ROS 2",
+      "category": "robotica",
+      "date": "2026-06-29",
+      "slug": "rubi-una-herramienta-de-utilidad-para-ros-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha lanzado una herramienta de utilidad llamada RUBI, que ofrece una interfaz gráfica de usuario para monitorear y controlar sistemas ROS 2 de manera sencilla y eficiente.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-29-rubi-una-herramienta-de-utilidad-para-ros-2.md"
+    },
+    {
+      "title": "HamsterOS: un sistema operativo gráfico en un floppy de 1,44 MB",
+      "category": "robotica",
+      "date": "2026-06-29",
+      "slug": "hamsteros-un-sistema-operativo-grafico-en-un-floppy-de-",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "El proyecto HamsterOS busca revivir la emoción de trabajar con hardware vintage, ofreciendo un sistema operativo gráfico completo en un floppy de 1,44 MB. Este proyecto es relevante para entusiastas de la retrocomputación que buscan…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-29-hamsteros-un-sistema-operativo-grafico-en-un-floppy-de-.md"
+    },
+    {
+      "title": "Módulo de conectividad inalámbrica de 6 en 1 con Wi-Fi 6, Bluetooth 5.4 y LTE-M",
+      "category": "embebidos",
+      "date": "2026-06-29",
+      "slug": "modulo-de-conectividad-inalambrica-de-6-en-1-con-wi-fi-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Simplia ha lanzado un módulo de conectividad inalámbrica de 6 en 1 que combina Wi-Fi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT y GNSS en un solo módulo M.2 2230. Esto revoluciona la conectividad inalámbrica en dispositivos embebidos.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-29-modulo-de-conectividad-inalambrica-de-6-en-1-con-wi-fi-.md"
+    },
+    {
+      "title": "DEBIX T62P-01: un SBC industrial para IoT y Edge Computing",
+      "category": "embebidos",
+      "date": "2026-06-29",
+      "slug": "debix-t62p-01-un-sbc-industrial-para-iot-y-edge-computi",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Polyhex Technology ha lanzado el DEBIX T62P-01, un SBC compacto para aplicaciones industriales que integra un SoC Texas Instruments Sitara AM62P y ofrece conectividad de red y Wi-Fi 6. Este dispositivo está diseñado para uso en Internet de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-29-debix-t62p-01-un-sbc-industrial-para-iot-y-edge-computi.md"
+    },
+    {
+      "title": "Waveshare ESP32-C6-Zero-B: un módulo embebido con amplia gama de voltaje",
+      "category": "embebidos",
+      "date": "2026-06-29",
+      "slug": "waveshare-esp32-c6-zero-b-un-modulo-embebido-con-amplia",
+      "tags": [
+        "esp32",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Waveshare ha lanzado un nuevo módulo embebido llamado ESP32-C6-Zero-B, que ofrece una amplia gama de voltaje y una serie de características avanzadas. Este módulo es ideal para aplicaciones industriales y de IoT.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-29-waveshare-esp32-c6-zero-b-un-modulo-embebido-con-amplia.md"
+    },
+    {
+      "title": "Ford rehíre a expertos en ingeniería después de que la IA fallara",
+      "category": "ia",
+      "date": "2026-06-29",
+      "slug": "ford-rehire-a-expertos-en-ingenieria-despues-de-que-la-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La empresa automotriz Ford ha rehído a 350 expertos en ingeniería después de que sus sistemas de calidad automatizados fallaran en producir productos de alta calidad. Esto ha llevado a una mejora significativa en la calidad de sus…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-29-ford-rehire-a-expertos-en-ingenieria-despues-de-que-la-.md"
+    },
+    {
+      "title": "Robotas con manos inteligentes: un paso hacia la seguridad y la cooperación",
+      "category": "ia",
+      "date": "2026-06-29",
+      "slug": "robotas-con-manos-inteligentes-un-paso-hacia-la-segurid",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La robótica está avanzando rápidamente, y una de las áreas más emocionantes es la creación de manos inteligentes para robots. Estas manos pueden aprender a interactuar con objetos y personas de manera segura y eficiente, lo que abre nuevas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-29-robotas-con-manos-inteligentes-un-paso-hacia-la-segurid.md"
+    },
+    {
+      "title": "Crea tu hogar inteligente con privacidad garantizada",
+      "category": "ia",
+      "date": "2026-06-29",
+      "slug": "crea-tu-hogar-inteligente-con-privacidad-garantizada",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La idea de un hogar inteligente ha sido un sueño de la humanidad desde la serie 'Los Jetsons' de 1962. Ahora, con el aumento de dispositivos conectados, es hora de preguntarnos qué está pasando con nuestra información personal.",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-29-crea-tu-hogar-inteligente-con-privacidad-garantizada.md"
+    },
+    {
+      "title": "Plataforma educativa LEAP: acceso a contenido sin necesidad de internet",
+      "category": "linux",
+      "date": "2026-06-29",
+      "slug": "plataforma-educativa-leap-acceso-a-contenido-sin-necesi",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "En áreas remotas con poca o ninguna conexión a internet, la educación se ve afectada. La plataforma LEAP busca solucionar este problema, permitiendo a los estudiantes acceder a contenido educativo sin necesidad de conexión a internet.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-29-plataforma-educativa-leap-acceso-a-contenido-sin-necesi.md"
+    },
+    {
+      "title": "Configura un servidor de Hytale en Linux: una guía paso a paso",
+      "category": "linux",
+      "date": "2026-06-29",
+      "slug": "configura-un-servidor-de-hytale-en-linux-una-guia-paso-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Si eres un fanático de Hytale, sabes que este juego sandbox es extremadamente moddable. Pero para aprovechar al máximo esta característica, necesitas un servidor dedicado. En este artículo, te mostraremos cómo configurar un servidor de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-29-configura-un-servidor-de-hytale-en-linux-una-guia-paso-.md"
+    },
+    {
+      "title": "AMD introduce un nuevo tipo de núcleo de CPU para disminuir el consumo de energía",
+      "category": "linux",
+      "date": "2026-06-29",
+      "slug": "amd-introduce-un-nuevo-tipo-de-nucleo-de-cpu-para-dismi",
+      "tags": [
+        "linux",
+        "amd",
+        "cpu"
+      ],
+      "preview": "AMD ha presentado un nuevo tipo de núcleo de CPU llamado 'Low Power' que está diseñado para minimizar el consumo de energía durante cargas de trabajo de fondo o de espera. Esto es especialmente relevante para plataformas heterogéneas de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-29-amd-introduce-un-nuevo-tipo-de-nucleo-de-cpu-para-dismi.md"
+    },
+    {
+      "title": "Linux en un Sega Megadrive: un logro técnico impresionante",
+      "category": "linux",
+      "date": "2026-06-29",
+      "slug": "linux-en-un-sega-megadrive-un-logro-tecnico-impresionan",
+      "tags": [
+        "linux",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "Después de más de 30 años, se ha logrado instalar Linux en un Sega Megadrive, una consola de juegos de la época que parecía imposible de modificar. Esta noticia sorprende a la comunidad de tecnología y nos hace reflexionar sobre la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-29-linux-en-un-sega-megadrive-un-logro-tecnico-impresionan.md"
+    },
+    {
       "title": "Amazon Astro: el robot que nos enseñó a dar alma a los robots",
       "category": "robotica",
       "date": "2026-06-28",

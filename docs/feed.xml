@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sun, 28 Jun 2026 09:54:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 29 Jun 2026 11:55:23 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>¿Los robots necesitan piernas? Explorando nuevas formas de movimiento</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-los-robots-necesitan-piernas-explorando-nuevas-formas-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-los-robots-necesitan-piernas-explorando-nuevas-formas-2.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En el mundo de la robótica, la pregunta de si los robots necesitan piernas es cada vez más relevante. Con la creciente popularidad de los robots autónomos y la necesidad de explorar entornos hostiles, los ingenieros están buscando nuevas…</description>
+  </item>
+  <item>
+    <title>Amazon Astro: el robot que nos enseñó a dar alma a los robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-3.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En 2018, Amazon lanzó Astro, su primer robot para hogares y oficinas. Este robot utilizaba cámaras y sensores para mapear y navegar por espacios, y podía patrullar, revisar a los seres queridos y transportar objetos pequeños. Pero ¿qué es…</description>
+  </item>
+  <item>
+    <title>Ros2-dev-suite: una herramienta de desarrollo para ROS 2 en VS Code</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-ros2-dev-suite-una-herramienta-de-desarrollo-para-ros-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-ros2-dev-suite-una-herramienta-de-desarrollo-para-ros-2.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS 2 ha lanzado una nueva herramienta de desarrollo llamada Ros2-dev-suite, que permite a los desarrolladores trabajar de manera más eficiente en el entorno de desarrollo integrado (IDE) VS Code. Esta herramienta es una…</description>
+  </item>
+  <item>
+    <title>RUBI: una herramienta de utilidad para ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-rubi-una-herramienta-de-utilidad-para-ros-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-rubi-una-herramienta-de-utilidad-para-ros-2.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS 2 ha lanzado una herramienta de utilidad llamada RUBI, que ofrece una interfaz gráfica de usuario para monitorear y controlar sistemas ROS 2 de manera sencilla y eficiente.</description>
+  </item>
+  <item>
+    <title>HamsterOS: un sistema operativo gráfico en un floppy de 1,44 MB</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-hamsteros-un-sistema-operativo-grafico-en-un-floppy-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-hamsteros-un-sistema-operativo-grafico-en-un-floppy-de-.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El proyecto HamsterOS busca revivir la emoción de trabajar con hardware vintage, ofreciendo un sistema operativo gráfico completo en un floppy de 1,44 MB. Este proyecto es relevante para entusiastas de la retrocomputación que buscan…</description>
+  </item>
+  <item>
+    <title>Módulo de conectividad inalámbrica de 6 en 1 con Wi-Fi 6, Bluetooth 5.4 y LTE-M</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-modulo-de-conectividad-inalambrica-de-6-en-1-con-wi-fi-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-modulo-de-conectividad-inalambrica-de-6-en-1-con-wi-fi-.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Simplia ha lanzado un módulo de conectividad inalámbrica de 6 en 1 que combina Wi-Fi 6, Bluetooth 5.4, 802.15.4, LTE-M, NB-IoT y GNSS en un solo módulo M.2 2230. Esto revoluciona la conectividad inalámbrica en dispositivos embebidos.</description>
+  </item>
+  <item>
+    <title>DEBIX T62P-01: un SBC industrial para IoT y Edge Computing</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-debix-t62p-01-un-sbc-industrial-para-iot-y-edge-computi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-debix-t62p-01-un-sbc-industrial-para-iot-y-edge-computi.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Polyhex Technology ha lanzado el DEBIX T62P-01, un SBC compacto para aplicaciones industriales que integra un SoC Texas Instruments Sitara AM62P y ofrece conectividad de red y Wi-Fi 6. Este dispositivo está diseñado para uso en Internet de…</description>
+  </item>
+  <item>
+    <title>Waveshare ESP32-C6-Zero-B: un módulo embebido con amplia gama de voltaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-waveshare-esp32-c6-zero-b-un-modulo-embebido-con-amplia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-waveshare-esp32-c6-zero-b-un-modulo-embebido-con-amplia.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Waveshare ha lanzado un nuevo módulo embebido llamado ESP32-C6-Zero-B, que ofrece una amplia gama de voltaje y una serie de características avanzadas. Este módulo es ideal para aplicaciones industriales y de IoT.</description>
+  </item>
+  <item>
+    <title>Ford rehíre a expertos en ingeniería después de que la IA fallara</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-ford-rehire-a-expertos-en-ingenieria-despues-de-que-la-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-ford-rehire-a-expertos-en-ingenieria-despues-de-que-la-.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa automotriz Ford ha rehído a 350 expertos en ingeniería después de que sus sistemas de calidad automatizados fallaran en producir productos de alta calidad. Esto ha llevado a una mejora significativa en la calidad de sus…</description>
+  </item>
+  <item>
+    <title>Robotas con manos inteligentes: un paso hacia la seguridad y la cooperación</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-robotas-con-manos-inteligentes-un-paso-hacia-la-segurid.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-robotas-con-manos-inteligentes-un-paso-hacia-la-segurid.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica está avanzando rápidamente, y una de las áreas más emocionantes es la creación de manos inteligentes para robots. Estas manos pueden aprender a interactuar con objetos y personas de manera segura y eficiente, lo que abre nuevas…</description>
+  </item>
+  <item>
+    <title>Crea tu hogar inteligente con privacidad garantizada</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-crea-tu-hogar-inteligente-con-privacidad-garantizada.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-crea-tu-hogar-inteligente-con-privacidad-garantizada.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La idea de un hogar inteligente ha sido un sueño de la humanidad desde la serie 'Los Jetsons' de 1962. Ahora, con el aumento de dispositivos conectados, es hora de preguntarnos qué está pasando con nuestra información personal.</description>
+  </item>
+  <item>
+    <title>Plataforma educativa LEAP: acceso a contenido sin necesidad de internet</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-plataforma-educativa-leap-acceso-a-contenido-sin-necesi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-plataforma-educativa-leap-acceso-a-contenido-sin-necesi.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>En áreas remotas con poca o ninguna conexión a internet, la educación se ve afectada. La plataforma LEAP busca solucionar este problema, permitiendo a los estudiantes acceder a contenido educativo sin necesidad de conexión a internet.</description>
+  </item>
+  <item>
+    <title>Configura un servidor de Hytale en Linux: una guía paso a paso</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-configura-un-servidor-de-hytale-en-linux-una-guia-paso-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-configura-un-servidor-de-hytale-en-linux-una-guia-paso-.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Si eres un fanático de Hytale, sabes que este juego sandbox es extremadamente moddable. Pero para aprovechar al máximo esta característica, necesitas un servidor dedicado. En este artículo, te mostraremos cómo configurar un servidor de…</description>
+  </item>
+  <item>
+    <title>AMD introduce un nuevo tipo de núcleo de CPU para disminuir el consumo de energía</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-amd-introduce-un-nuevo-tipo-de-nucleo-de-cpu-para-dismi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-amd-introduce-un-nuevo-tipo-de-nucleo-de-cpu-para-dismi.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>AMD ha presentado un nuevo tipo de núcleo de CPU llamado 'Low Power' que está diseñado para minimizar el consumo de energía durante cargas de trabajo de fondo o de espera. Esto es especialmente relevante para plataformas heterogéneas de…</description>
+  </item>
+  <item>
+    <title>Linux en un Sega Megadrive: un logro técnico impresionante</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-linux-en-un-sega-megadrive-un-logro-tecnico-impresionan.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-linux-en-un-sega-megadrive-un-logro-tecnico-impresionan.md</guid>
+    <pubDate>Mon, 29 Jun 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Después de más de 30 años, se ha logrado instalar Linux en un Sega Megadrive, una consola de juegos de la época que parecía imposible de modificar. Esta noticia sorprende a la comunidad de tecnología y nos hace reflexionar sobre la…</description>
+  </item>
   <item>
     <title>Amazon Astro: el robot que nos enseñó a dar alma a los robots</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-2.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sun, 28 Jun 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>El desarrollador de Linux Qi Zheng ha presentado una nueva función llamada Reserved THP, que combina las ventajas de HugeTLB y THP para mejorar la gestión de memoria en Linux. Esta función podría resolver problemas de reserva de memoria en…</description>
-  </item>
-  <item>
-    <title>ROS 2 Jazzy disponible en macOS sin Docker ni VMs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-2-jazzy-disponible-en-macos-sin-docker-ni-vms.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-2-jazzy-disponible-en-macos-sin-docker-ni-vms.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de robótica y sistemas embebidos ha ganado un gran aliado con la llegada de ROS 2 Jazzy en macOS. Gracias a Homebrew, ahora es posible instalar este entorno de desarrollo de manera nativa en tu máquina macOS sin necesidad de…</description>
-  </item>
-  <item>
-    <title>Amazon Astro: El robot que aprendió a tener alma</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-amazon-astro-el-robot-que-aprendio-a-tener-alma.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-amazon-astro-el-robot-que-aprendio-a-tener-alma.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Amazon Astro es un robot de hogar que utiliza cámaras y sensores para navegar y mapear espacios. Pero lo que hace que sea interesante es que su equipo de diseño decidió darle un carácter propio, en lugar de simplemente ser una versión en…</description>
-  </item>
-  <item>
-    <title>Sony's Ace Robot, un campeón de mesa de ping-pong con ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-sonys-ace-robot-un-campeon-de-mesa-de-ping-pong-con-ros.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-sonys-ace-robot-un-campeon-de-mesa-de-ping-pong-con-ros.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El robot de mesa de ping-pong de Sony, Ace, ha demostrado ser un campeón en partidos reales contra profesionales. Esto se debe a que utiliza la tecnología ROS 2, una plataforma de software de código abierto para robótica.</description>
-  </item>
-  <item>
-    <title>¿Necesitan los robots piernas para moverse?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-necesitan-los-robots-piernas-para-moverse-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-necesitan-los-robots-piernas-para-moverse-3.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los robots están avanzando rápidamente en su capacidad para moverse y actuar de manera independiente. Pero ¿necesitan realmente piernas para hacerlo? En este artículo, exploramos algunas de las últimas innovaciones en robótica que están…</description>
-  </item>
-  <item>
-    <title>ROS-Ws: Herramienta para la gestión de espacios de trabajo de ROS2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-ws-herramienta-para-la-gestion-de-espacios-de-traba.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-27-ros-ws-herramienta-para-la-gestion-de-espacios-de-traba.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La gestión de múltiples proyectos en ROS2 puede ser un desafío. Una herramienta reciente llamada ROS-Ws busca simplificar la tarea de cambiar entre espacios de trabajo y automatizar la fuente de configuración.</description>
-  </item>
-  <item>
-    <title>Makerfabs MaTouch ESP32-P4: una pantalla táctil con 4G LTE y Ethernet</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-makerfabs-matouch-esp32-p4-una-pantalla-tactil-con-4g-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-makerfabs-matouch-esp32-p4-una-pantalla-tactil-con-4g-l.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Makerfabs ha lanzado el MaTouch ESP32-P4, una pantalla táctil de 10.1 pulgadas con conectividad 4G LTE y Ethernet, perfecta para aplicaciones de HMI y edge AI.</description>
-  </item>
-  <item>
-    <title>Reproducción de YouTube en un Game Boy Color con una tarjeta especial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-reproduccion-de-youtube-en-un-game-boy-color-con-una-ta.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-reproduccion-de-youtube-en-un-game-boy-color-con-una-ta.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha logrado reproducir videos de YouTube en un Game Boy Color, el clásico dispositivo de Nintendo, utilizando una tarjeta personalizada y una conexión Wi-Fi.</description>
-  </item>
-  <item>
-    <title>WipperSnapper para Raspberry Pi y más: Adafruit IO y Adafruit Learning System</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-wippersnapper-para-raspberry-pi-y-mas-adafruit-io-y-ada.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-27-wippersnapper-para-raspberry-pi-y-mas-adafruit-io-y-ada.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado una serie de actualizaciones importantes en su plataforma de IoT y aprendizaje en línea. Entre ellas, WipperSnapper para Raspberry Pi, una herramienta que facilita la conexión de dispositivos a la plataforma, y una…</description>
-  </item>
-  <item>
-    <title>Robotas con manos artificiales: avances en robótica y seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-robotas-con-manos-artificiales-avances-en-robotica-y-se.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-robotas-con-manos-artificiales-avances-en-robotica-y-se.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica sigue avanzando con proyectos innovadores que buscan mejorar la seguridad y la cooperación entre humanos y robots. En este artículo, exploraremos algunos de los últimos avances en robótica y seguridad, destacando la importancia…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi 4 Model B con CPU a 1.25 GHz, ¿un descuento o un problema?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-raspberry-pi-4-model-b-con-cpu-a-125-ghz-un-descuento-o.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-raspberry-pi-4-model-b-con-cpu-a-125-ghz-un-descuento-o.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Cytron ha lanzado una versión especial del Raspberry Pi 4 Model B con una velocidad de CPU reducida a 1.25 GHz, pero ¿qué significa esto para los usuarios?</description>
-  </item>
-  <item>
-    <title>OpenAI limita la liberación de GPT-5.6 tras solicitud del gobierno</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-limita-la-liberacion-de-gpt-56-tras-solicitud-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-limita-la-liberacion-de-gpt-56-tras-solicitud-de.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa OpenAI ha decidido restringir la liberación de su modelo de inteligencia artificial GPT-5.6 tras una solicitud del gobierno de los Estados Unidos. Esto ha generado debate sobre el control gubernamental sobre la liberación de…</description>
-  </item>
-  <item>
-    <title>OpenAI establece su presencia en la India con un nuevo director</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-establece-su-presencia-en-la-india-con-un-nuevo-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-27-openai-establece-su-presencia-en-la-india-con-un-nuevo-.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha nombrado a Prabhjeet Singh como su primer director en la India, con el objetivo de escalar su presencia en el país. La empresa ha estado invirtiendo en la India durante varios meses, abriendo oficinas en Nueva Delhi, Mumbai y…</description>
-  </item>
-  <item>
-    <title>Plataforma educativa LEAP: acceso a contenido en áreas remotas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-plataforma-educativa-leap-acceso-a-contenido-en-areas-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-plataforma-educativa-leap-acceso-a-contenido-en-areas-r.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>En áreas remotas con poca o ninguna conexión a Internet, la educación puede ser un desafío. La plataforma LEAP busca resolver este problema proporcionando acceso a contenido educativo a través de una red local.</description>
-  </item>
-  <item>
-    <title>GEEKOM A7 2026 Edition: Una mini PC con Ubuntu 26.04 y AMD Ryzen 5 7545U</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-geekom-a7-2026-edition-una-mini-pc-con-ubuntu-2604-y-am.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-geekom-a7-2026-edition-una-mini-pc-con-ubuntu-2604-y-am.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La mini PC GEEKOM A7 2026 Edition ha sido revisada en Windows 11 y ahora se analiza su rendimiento con Ubuntu 26.04 en un sistema dual boot. ¿Cómo se instaló y cómo se comportó en este entorno?</description>
-  </item>
-  <item>
-    <title>Nuevas actualizaciones para el driver de Linux de Intel permiten HDR en conexiones DP MST</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-nuevas-actualizaciones-para-el-driver-de-linux-de-intel.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-27-nuevas-actualizaciones-para-el-driver-de-linux-de-intel.md</guid>
-    <pubDate>Sat, 27 Jun 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El driver de Linux de Intel ha tenido una limitación importante en su soporte para pantallas con alta dinámica de rango (HDR). Sin embargo, gracias a las actualizaciones de código de Gil Dekel de Google, esta limitación pronto será…</description>
   </item>
 </channel>
 </rss>

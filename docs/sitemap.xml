@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-28</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-28</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-29</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-29</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-los-robots-necesitan-piernas-explorando-nuevas-formas-2.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-3.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-ros2-dev-suite-una-herramienta-de-desarrollo-para-ros-2.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-rubi-una-herramienta-de-utilidad-para-ros-2.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-hamsteros-un-sistema-operativo-grafico-en-un-floppy-de-.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-modulo-de-conectividad-inalambrica-de-6-en-1-con-wi-fi-.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-debix-t62p-01-un-sbc-industrial-para-iot-y-edge-computi.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-29-waveshare-esp32-c6-zero-b-un-modulo-embebido-con-amplia.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-ford-rehire-a-expertos-en-ingenieria-despues-de-que-la-.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-robotas-con-manos-inteligentes-un-paso-hacia-la-segurid.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-29-crea-tu-hogar-inteligente-con-privacidad-garantizada.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-plataforma-educativa-leap-acceso-a-contenido-sin-necesi.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-configura-un-servidor-de-hytale-en-linux-una-guia-paso-.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-amd-introduce-un-nuevo-tipo-de-nucleo-de-cpu-para-dismi.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-29-linux-en-un-sega-megadrive-un-logro-tecnico-impresionan.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-2.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-gestion-de-espacios-de-trabajo-ros2-con-ws-una-herramie.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-28-los-robots-necesitan-piernas-explorando-las-opciones.md</loc><lastmod>2026-06-28</lastmod><priority>0.8</priority></url>
