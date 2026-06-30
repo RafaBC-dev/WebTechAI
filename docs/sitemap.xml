@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-29</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-29</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-30</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-30-control-offboard-con-px4-y-ros-2-una-solucion-segura-pa.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-30-necesitan-los-robots-piernas-explorando-nuevas-formas-d.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-30-como-amazon-dio-alma-a-su-robot-astro.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-30-un-reloj-de-memoria-magnetica-usb-que-revoluciona-la-te.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-30-un-tricorder-casero-a-la-medida-de-star-trek.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-30-casilla-de-impresion-3d-para-esp32-s3-supermini-con-opc.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-30-waveshare-esp32-c6-zero-b-una-tarjeta-de-desarrollo-con.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-06-30-xiao-nrf54lm20a-una-placa-iot-ultra-baja-en-consumo-par.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-30-base44-lanza-su-propio-modelo-de-ia-para-crear-aplicaci.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-06-30-robotas-con-manos-tecnologia-para-mejorar-la-seguridad-.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-30-banana-pi-lanza-bpi-vp10-un-modulo-de-control-de-servos.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-30-wine-1112-escalado-fraccionario-y-mejoras-en-wayland.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-30-bcachefs-incluira-codigo-rust-en-su-modulo-de-kernel.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-30-git-2550-una-nueva-version-con-caracteristicas-innovado.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-06-30-xsnow-un-programa-de-debian-con-un-mensaje-politico-ocu.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-los-robots-necesitan-piernas-explorando-nuevas-formas-2.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-los-3.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-29-ros2-dev-suite-una-herramienta-de-desarrollo-para-ros-2.md</loc><lastmod>2026-06-29</lastmod><priority>0.8</priority></url>

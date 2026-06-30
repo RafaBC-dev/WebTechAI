@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Control Offboard con PX4 y ROS 2: una solución segura para drones autónomos",
+      "category": "robotica",
+      "date": "2026-06-30",
+      "slug": "control-offboard-con-px4-y-ros-2-una-solucion-segura-pa",
+      "tags": [
+        "robotica",
+        "drones",
+        "linux"
+      ],
+      "preview": "Los desarrolladores de drones autónomos saben que el modo Offboard de PX4 puede ser un desafío. Sin embargo, una solución reciente utiliza ROS 2 y Micro XRCE-DDS para implementar un estado de máquina no bloqueante que garantiza la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-30-control-offboard-con-px4-y-ros-2-una-solucion-segura-pa.md"
+    },
+    {
+      "title": "¿Necesitan los robots piernas? Explorando nuevas formas de movimiento",
+      "category": "robotica",
+      "date": "2026-06-30",
+      "slug": "necesitan-los-robots-piernas-explorando-nuevas-formas-d",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "agentes"
+      ],
+      "preview": "La robótica está evolucionando a pasos agigantados. Mientras algunos robots siguen utilizando piernas, otros están explorando nuevas formas de movimiento. En este artículo, exploraremos algunas de las últimas innovaciones en este campo y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-06-30-necesitan-los-robots-piernas-explorando-nuevas-formas-d.md"
+    },
+    {
+      "title": "Cómo Amazon dio alma a su robot Astro",
+      "category": "robotica",
+      "date": "2026-06-30",
+      "slug": "como-amazon-dio-alma-a-su-robot-astro",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon creó Astro, un robot que puede moverse por la casa y ayudar a los usuarios. Pero ¿cómo se le dio personalidad a este robot?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-06-30-como-amazon-dio-alma-a-su-robot-astro.md"
+    },
+    {
+      "title": "Un reloj de memoria magnética USB que revoluciona la tecnología",
+      "category": "embebidos",
+      "date": "2026-06-30",
+      "slug": "un-reloj-de-memoria-magnetica-usb-que-revoluciona-la-te",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "diseño-3d"
+      ],
+      "preview": "La falta de memoria DRAM y NAND Flash en el mercado de consumo ha generado preocupación entre los entusiastas de la tecnología. Sin embargo, un proyecto reciente ha revolucionado la forma en que se almacenan los datos, utilizando una…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-30-un-reloj-de-memoria-magnetica-usb-que-revoluciona-la-te.md"
+    },
+    {
+      "title": "Un tricorder casero a la medida de Star Trek",
+      "category": "embebidos",
+      "date": "2026-06-30",
+      "slug": "un-tricorder-casero-a-la-medida-de-star-trek",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "diseño-3d"
+      ],
+      "preview": "Hamzah Abugosh ha creado un dispositivo portátil que combina múltiples sensores para medir la temperatura, humedad, presión, gases, luz UV, proximidad, color, distancia, sonido y señales inalámbricas. ¿Qué hace que este tricorder sea tan…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-30-un-tricorder-casero-a-la-medida-de-star-trek.md"
+    },
+    {
+      "title": "Casilla de impresión 3D para ESP32-S3 SuperMini con opciones de montaje",
+      "category": "embebidos",
+      "date": "2026-06-30",
+      "slug": "casilla-de-impresion-3d-para-esp32-s3-supermini-con-opc",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "microcontroladores"
+      ],
+      "preview": "Adafruit presenta una nueva casilla de impresión 3D para el ESP32-S3 SuperMini, una placa de microcontrolador popular. Esta casilla ofrece varias opciones de montaje, incluyendo una montura de cable y agujeros para una montura de pared…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-30-casilla-de-impresion-3d-para-esp32-s3-supermini-con-opc.md"
+    },
+    {
+      "title": "Waveshare ESP32-C6-Zero-B: una tarjeta de desarrollo con amplia gama de voltaje",
+      "category": "embebidos",
+      "date": "2026-06-30",
+      "slug": "waveshare-esp32-c6-zero-b-una-tarjeta-de-desarrollo-con",
+      "tags": [
+        "esp32",
+        "arduino",
+        "microcontroladores"
+      ],
+      "preview": "Waveshare ha lanzado una nueva tarjeta de desarrollo llamada ESP32-C6-Zero-B, que ofrece una amplia gama de voltaje de 5V a 36V, lo que la hace ideal para aplicaciones industriales. Esta tarjeta es una variante de la ESP32-C6-Zero, pero…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-06-30-waveshare-esp32-c6-zero-b-una-tarjeta-de-desarrollo-con.md"
+    },
+    {
+      "title": "XIAO nRF54LM20A: una placa IoT ultra-baja en consumo para aplicaciones inalámbricas",
+      "category": "embebidos",
+      "date": "2026-06-30",
+      "slug": "xiao-nrf54lm20a-una-placa-iot-ultra-baja-en-consumo-par",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa Seeed Studio ha lanzado la placa XIAO nRF54LM20A, una plataforma IoT ultra-baja en consumo que ofrece conectividad inalámbrica a través de Bluetooth 6.0, Matter, Thread, Zigbee, NFC y protocolos propietarios. Esta placa es ideal…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-06-30-xiao-nrf54lm20a-una-placa-iot-ultra-baja-en-consumo-par.md"
+    },
+    {
+      "title": "Base44 lanza su propio modelo de IA para crear aplicaciones con lenguaje natural",
+      "category": "ia",
+      "date": "2026-06-30",
+      "slug": "base44-lanza-su-propio-modelo-de-ia-para-crear-aplicaci",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La plataforma de código Base44, adquirida por Wix por $80 millones, ha lanzado su propio modelo de inteligencia artificial (IA) para apoyar a los usuarios en la creación de aplicaciones con lenguaje natural. Esta decisión refleja la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-06-30-base44-lanza-su-propio-modelo-de-ia-para-crear-aplicaci.md"
+    },
+    {
+      "title": "Robotas con manos: tecnología para mejorar la seguridad y la precisión",
+      "category": "ia",
+      "date": "2026-06-30",
+      "slug": "robotas-con-manos-tecnologia-para-mejorar-la-seguridad-",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados, y uno de los aspectos más interesantes es la creación de manos robóticas que puedan interactuar de manera segura y precisa con el entorno humano. En este artículo, exploraremos algunas de las…",
+      "has_command": false,
+      "file_path": "content/ia/2026-06-30-robotas-con-manos-tecnologia-para-mejorar-la-seguridad-.md"
+    },
+    {
+      "title": "Banana Pi lanza BPI-VP10: un módulo de control de servos a bajo costo",
+      "category": "linux",
+      "date": "2026-06-30",
+      "slug": "banana-pi-lanza-bpi-vp10-un-modulo-de-control-de-servos",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "Banana Pi ha lanzado el BPI-VP10, un módulo de control de servos a bajo costo basado en el microcontrolador Fortior FU7512L. Este módulo está diseñado para aplicaciones de control industrial que requieren servos de 100W/200W. Con el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-30-banana-pi-lanza-bpi-vp10-un-modulo-de-control-de-servos.md"
+    },
+    {
+      "title": "Wine 11.12: Escalado fraccionario y mejoras en Wayland",
+      "category": "linux",
+      "date": "2026-06-30",
+      "slug": "wine-1112-escalado-fraccionario-y-mejoras-en-wayland",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 11.12 de Wine ha sido lanzada con soporte para escalado fraccionario en Wayland, lo que permite una experiencia de escalado de interfaz de usuario más agradable en pantallas de alta resolución.",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-30-wine-1112-escalado-fraccionario-y-mejoras-en-wayland.md"
+    },
+    {
+      "title": "Bcachefs incluirá código Rust en su módulo de kernel",
+      "category": "linux",
+      "date": "2026-06-30",
+      "slug": "bcachefs-incluira-codigo-rust-en-su-modulo-de-kernel",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La próxima versión de Bcachefs incluirá código Rust en su módulo de kernel, lo que permitirá mejorar la seguridad y la eficiencia del sistema de archivos. Esto es un paso importante hacia la integración de Rust en el núcleo del sistema…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-30-bcachefs-incluira-codigo-rust-en-su-modulo-de-kernel.md"
+    },
+    {
+      "title": "Git 2.55.0: una nueva versión con características innovadoras",
+      "category": "linux",
+      "date": "2026-06-30",
+      "slug": "git-2550-una-nueva-version-con-caracteristicas-innovado",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 2.55.0 de Git ha sido lanzada, con cambios significativos en la herramienta de control de versiones. Entre los nuevos cambios, se incluyen características experimentales para el comando 'git history' y la adición de un daemon de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-30-git-2550-una-nueva-version-con-caracteristicas-innovado.md"
+    },
+    {
+      "title": "Xsnow: un programa de Debian con un mensaje político oculto",
+      "category": "linux",
+      "date": "2026-06-30",
+      "slug": "xsnow-un-programa-de-debian-con-un-mensaje-politico-ocu",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La aplicación xsnow, que genera un efecto de nieve en pantallas X11, ha sido encontrada con un mensaje político oculto en su código. El mantenimiento del programa ha incluido una protesta política en forma de un 'huevo de Pascua' que se…",
+      "has_command": true,
+      "file_path": "content/linux/2026-06-30-xsnow-un-programa-de-debian-con-un-mensaje-politico-ocu.md"
+    },
+    {
       "title": "¿Los robots necesitan piernas? Explorando nuevas formas de movimiento",
       "category": "robotica",
       "date": "2026-06-29",
