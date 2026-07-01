@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-06-30</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-06-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-01</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-necesitan-los-robots-piernas-para-moverse-4.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-validador-de-urdf-un-nuevo-herramienta-para-evitar-erro.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-startup-de-robotica-quirurgica-busca-co-fundador-tecnic.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-las-m.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-control-xbox-para-turtlebot3-con-retroalimentacion-tact.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-puente-de-adquisicion-de-datos-industrial-con-raspberry.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-flipper-lanza-el-busy-bar-un-multitool-de-productividad.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-nvidia-jetson-orin-nx-en-una-tarjeta-compacta-para-robo.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-noticias-de-python-en-microcontroladores-suscribete-g-7.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-01-eeuu-levanta-restricciones-a-modelos-de-ia-de-anthropic.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-01-robotica-avances-en-la-creacion-de-manos-artificiales-p.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-circuitpython-agrega-soporte-a-audio-usb-para-proyectos.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-actualizaciones-de-seguridad-para-sistemas-operativo-22.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-rhombus-un-lenguaje-de-programacion-flexible-y-facil-de.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-malware-en-arch-linux-y-avances-en-linux-72.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-30-control-offboard-con-px4-y-ros-2-una-solucion-segura-pa.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-30-necesitan-los-robots-piernas-explorando-nuevas-formas-d.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-06-30-como-amazon-dio-alma-a-su-robot-astro.md</loc><lastmod>2026-06-30</lastmod><priority>0.8</priority></url>

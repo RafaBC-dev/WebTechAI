@@ -1,6 +1,215 @@
 {
   "news": [
     {
+      "title": "¿Necesitan los robots piernas para moverse?",
+      "category": "robotica",
+      "date": "2026-07-01",
+      "slug": "necesitan-los-robots-piernas-para-moverse-4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "agentes"
+      ],
+      "preview": "La robotica avanzada se está desarrollando a pasos agigantados. Pero ¿qué papel juegan las piernas en este futuro robótico? En este artículo, exploraremos varios proyectos que cuestionan la necesidad de piernas en los robots.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-01-necesitan-los-robots-piernas-para-moverse-4.md"
+    },
+    {
+      "title": "Validador de URDF: un nuevo herramienta para evitar errores en la robótica",
+      "category": "robotica",
+      "date": "2026-07-01",
+      "slug": "validador-de-urdf-un-nuevo-herramienta-para-evitar-erro",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Los desarrolladores de ROS 2 han sufrido con la falta de herramientas para validar la consistencia física de sus robots. Un estudio de 2024 encontró que errores semánticos en los archivos URDF son una de las causas más comunes de fallos en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-01-validador-de-urdf-un-nuevo-herramienta-para-evitar-erro.md"
+    },
+    {
+      "title": "Startup de robótica quirúrgica busca co-fundador técnico",
+      "category": "robotica",
+      "date": "2026-07-01",
+      "slug": "startup-de-robotica-quirurgica-busca-co-fundador-tecnic",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "hardware"
+      ],
+      "preview": "Un cirujano practicante está creando una startup que busca abordar un vacío de datos en la inteligencia artificial quirúrgica. Se busca un co-fundador técnico con experiencia en hardware y sensores.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-01-startup-de-robotica-quirurgica-busca-co-fundador-tecnic.md"
+    },
+    {
+      "title": "Amazon Astro: el robot que nos enseñó a dar alma a las máquinas",
+      "category": "robotica",
+      "date": "2026-07-01",
+      "slug": "amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-las-m",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon ha lanzado un robot llamado Astro, diseñado para ayudar en la vida diaria de los usuarios. Aunque inicialmente no tenía una personalidad definida, el equipo de desarrollo decidió darle un carácter propio, lo que llevó a una serie de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-01-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-las-m.md"
+    },
+    {
+      "title": "Control Xbox para TurtleBot3 con retroalimentación táctil y freno",
+      "category": "robotica",
+      "date": "2026-07-01",
+      "slug": "control-xbox-para-turtlebot3-con-retroalimentacion-tact",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un desarrollador ha creado un paquete ROS 2 para controlar un TurtleBot3 con un controlador Xbox Bluetooth, añadiendo retroalimentación táctil y freno. Esto permite una experiencia de conducción más realista y segura.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-01-control-xbox-para-turtlebot3-con-retroalimentacion-tact.md"
+    },
+    {
+      "title": "Puente de adquisición de datos industrial con Raspberry Pi CM0",
+      "category": "embebidos",
+      "date": "2026-07-01",
+      "slug": "puente-de-adquisicion-de-datos-industrial-con-raspberry",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa EDATEC ha lanzado un nuevo dispositivo de adquisición de datos industrial basado en el módulo de computación Raspberry Pi CM0. Este dispositivo es ideal para aplicaciones de automatización industrial y de borde con múltiples…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-01-puente-de-adquisicion-de-datos-industrial-con-raspberry.md"
+    },
+    {
+      "title": "Flipper lanza el BUSY Bar, un multitool de productividad open-source",
+      "category": "embebidos",
+      "date": "2026-07-01",
+      "slug": "flipper-lanza-el-busy-bar-un-multitool-de-productividad",
+      "tags": [
+        "robotica",
+        "software y linux",
+        "diseño y hardware"
+      ],
+      "preview": "Flipper, conocida por sus herramientas de hacking inalámbricas, ha lanzado el BUSY Bar, un dispositivo de productividad open-source diseñado para ayudar a las personas a eliminar distracciones y estar más enfocadas en su trabajo.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-01-flipper-lanza-el-busy-bar-un-multitool-de-productividad.md"
+    },
+    {
+      "title": "NVIDIA Jetson Orin NX en una tarjeta compacta para robots y drones",
+      "category": "embebidos",
+      "date": "2026-07-01",
+      "slug": "nvidia-jetson-orin-nx-en-una-tarjeta-compacta-para-robo",
+      "tags": [
+        "robotica",
+        "drones",
+        "microcontroladores"
+      ],
+      "preview": "WeAct ha lanzado la N006, una tarjeta de expansión compacta para el módulo NVIDIA Jetson Orin NX, diseñada para robots y drones. Esta tarjeta mide apenas 90x60mm y ofrece una amplia gama de conectividad y características.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-01-nvidia-jetson-orin-nx-en-una-tarjeta-compacta-para-robo.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: suscríbete gratis",
+      "category": "embebidos",
+      "date": "2026-07-01",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-g-7",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "¿Quieres estar al día con las últimas noticias sobre Python en hardware? La newsletter 'Python on Microcontrollers' es la herramienta perfecta para ti. Recibe cada semana una resumen de software, eventos, proyectos y hardware actualizado…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-01-noticias-de-python-en-microcontroladores-suscribete-g-7.md"
+    },
+    {
+      "title": "EE.UU. levanta restricciones a modelos de IA de Anthropic",
+      "category": "ia",
+      "date": "2026-07-01",
+      "slug": "eeuu-levanta-restricciones-a-modelos-de-ia-de-anthropic",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La administración Trump ha eliminado las restricciones a los modelos de IA Mythos y Fable de Anthropic, lo que permitirá su acceso público nuevamente. Esto se debe a que la empresa había cumplido con los requisitos de seguridad y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-01-eeuu-levanta-restricciones-a-modelos-de-ia-de-anthropic.md"
+    },
+    {
+      "title": "Robotica: Avances en la creación de manos artificiales para robots",
+      "category": "ia",
+      "date": "2026-07-01",
+      "slug": "robotica-avances-en-la-creacion-de-manos-artificiales-p",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La robótica ha dado un paso importante con la creación de manos artificiales que pueden interactuar con objetos de manera natural. Estas manos están diseñadas para mejorar la seguridad y la eficiencia de los robots en entornos donde se…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-01-robotica-avances-en-la-creacion-de-manos-artificiales-p.md"
+    },
+    {
+      "title": "CircuitPython agrega soporte a audio USB para proyectos de Morse",
+      "category": "linux",
+      "date": "2026-07-01",
+      "slug": "circuitpython-agrega-soporte-a-audio-usb-para-proyectos",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "codigo"
+      ],
+      "preview": "Adafruit ha lanzado una guía para utilizar la biblioteca TinyUSB en CircuitPython para crear un teclado de Morse que envíe señales de audio a un ordenador o equipo digital de audio.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-01-circuitpython-agrega-soporte-a-audio-usb-para-proyectos.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-01",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-22",
+      "tags": [
+        "linux",
+        "seguridad"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Oracle y SUSE. Estas actualizaciones corregirán vulnerabilidades y mejorarán la seguridad de los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-01-actualizaciones-de-seguridad-para-sistemas-operativo-22.md"
+    },
+    {
+      "title": "Rhombus: un lenguaje de programación flexible y fácil de usar",
+      "category": "linux",
+      "date": "2026-07-01",
+      "slug": "rhombus-un-lenguaje-de-programacion-flexible-y-facil-de",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "Los lenguajes de programación Lisp han sido conocidos durante mucho tiempo por su capacidad para metaprogramación y flexibilidad. Sin embargo, su sintaxis basada en paréntesis puede ser difícil de adaptar. Rhombus es un nuevo lenguaje que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-01-rhombus-un-lenguaje-de-programacion-flexible-y-facil-de.md"
+    },
+    {
+      "title": "Malware en Arch Linux y avances en Linux 7.2",
+      "category": "linux",
+      "date": "2026-07-01",
+      "slug": "malware-en-arch-linux-y-avances-en-linux-72",
+      "tags": [
+        "linux",
+        "seguridad",
+        "aur"
+      ],
+      "preview": "En junio, Arch Linux sufrió un ataque de malware que comprometió más de 1.500 paquetes en su repositorio de usuarios contribuyentes. Además, se eliminó la API strncpy del kernel de Linux 7.2 después de seis años de trabajo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-01-malware-en-arch-linux-y-avances-en-linux-72.md"
+    },
+    {
       "title": "Control Offboard con PX4 y ROS 2: una solución segura para drones autónomos",
       "category": "robotica",
       "date": "2026-06-30",
