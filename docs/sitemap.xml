@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-01</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-02</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-configurando-robots-doble-armado-con-comunicacion-can.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-los-robots-necesitan-piernas-explorando-la-robotica-d-2.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-l-2.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-robot-autonomo-con-mapeo-y-navegacion-sin-necesidad-de-.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-organizador-3d-para-herramientas-de-electronica-y-solda.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-ruta-de-circuitos-en-pc-de-alta-densidad-con-gpu-aceler.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-emulador-de-game-boy-en-pantalla-e-ink-a-60-fps-con-esp.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-casilla-de-encuadre-para-esp32-s3-con-montaje-magnetico.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-puente-de-adquisicion-de-datos-industrial-con-raspber-2.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-02-sipeed-nanokvm-go-un-kvm-usb-c-con-funcion-de-recuerdo-.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-02-robotas-con-manos-artificiales-el-futuro-de-la-robotica.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-la-utilizacion-de-steam-en-linux-disminuyo-ligeramente-.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-actualizaciones-en-linux-y-robotica-git-podman-y-system.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-mejorando-el-acceso-a-almacenamiento-local-en-bpf.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-fedora-council-detiene-discusiones-sobre-escritorio-de-.md</loc><lastmod>2026-07-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-necesitan-los-robots-piernas-para-moverse-4.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-validador-de-urdf-un-nuevo-herramienta-para-evitar-erro.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-startup-de-robotica-quirurgica-busca-co-fundador-tecnic.md</loc><lastmod>2026-07-01</lastmod><priority>0.8</priority></url>

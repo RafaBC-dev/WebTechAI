@@ -1,6 +1,215 @@
 {
   "news": [
     {
+      "title": "Configurando Robots Doble-Armado con Comunicación CAN",
+      "category": "robotica",
+      "date": "2026-07-02",
+      "slug": "configurando-robots-doble-armado-con-comunicacion-can",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los robots doble-armado están revolucionando la investigación en inteligencia artificial, teleoperación y aprendizaje por imitación. En este tutorial, aprenderás a configurar dos robots AgileX NERO 7-DOF en un setup maestro-sinónimo…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-02-configurando-robots-doble-armado-con-comunicacion-can.md"
+    },
+    {
+      "title": "¿Los robots necesitan piernas? Explorando la robótica del futuro",
+      "category": "robotica",
+      "date": "2026-07-02",
+      "slug": "los-robots-necesitan-piernas-explorando-la-robotica-d-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica está evolucionando a pasos agigantados. De la investigación en la NASA a la creación de robots capaces de realizar tareas complejas, los límites de la robótica están siendo constantemente desafiados. ¿Qué papel juegan las…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-02-los-robots-necesitan-piernas-explorando-la-robotica-d-2.md"
+    },
+    {
+      "title": "Amazon Astro: El robot que nos enseñó a darle alma a los robots",
+      "category": "robotica",
+      "date": "2026-07-02",
+      "slug": "amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-l-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon lanzó Astro, su primer robot doméstico, en 2018. Este robot podía navegar por casa, revisar a los seres queridos y transportar objetos pequeños. Pero la pregunta era: ¿sería simplemente Alexa en ruedas o un robot con su propio…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-02-amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-l-2.md"
+    },
+    {
+      "title": "Robot autónomo con mapeo y navegación sin necesidad de mapa previo",
+      "category": "robotica",
+      "date": "2026-07-02",
+      "slug": "robot-autonomo-con-mapeo-y-navegacion-sin-necesidad-de-",
+      "tags": [
+        "robotica",
+        "linux",
+        "python"
+      ],
+      "preview": "El proyecto kc_vision es un robot autónomo de tierra que puede mapear su entorno, navegar hacia objetivos específicos y cubrir áreas enteras sin necesidad de un mapa previo. Esto se logra gracias a la integración de tecnologías como SLAM,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-02-robot-autonomo-con-mapeo-y-navegacion-sin-necesidad-de-.md"
+    },
+    {
+      "title": "Organizador 3D para herramientas de electrónica y soldadura",
+      "category": "embebidos",
+      "date": "2026-07-02",
+      "slug": "organizador-3d-para-herramientas-de-electronica-y-solda",
+      "tags": [
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Un ingeniero ha diseñado un organizador 3D para herramientas de electrónica y soldadura, ideal para mantener herramientas y componentes ordenados en cualquier estación de trabajo.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-02-organizador-3d-para-herramientas-de-electronica-y-solda.md"
+    },
+    {
+      "title": "Ruta de circuitos en PC de alta densidad con GPU acelerada",
+      "category": "embebidos",
+      "date": "2026-07-02",
+      "slug": "ruta-de-circuitos-en-pc-de-alta-densidad-con-gpu-aceler",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Un ingeniero ha creado una herramienta que acelera la ruta de circuitos en PC de alta densidad, reduciendo el tiempo de diseño a meses en lugar de años.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-02-ruta-de-circuitos-en-pc-de-alta-densidad-con-gpu-aceler.md"
+    },
+    {
+      "title": "Emulador de Game Boy en pantalla E Ink a 60 FPS con ESP32-S3",
+      "category": "embebidos",
+      "date": "2026-07-02",
+      "slug": "emulador-de-game-boy-en-pantalla-e-ink-a-60-fps-con-esp",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un ingeniero ha logrado emular un Game Boy en una pantalla E Ink con una velocidad de refresco de 60 FPS, utilizando un microcontrolador ESP32-S3 y una pantalla de 4,7 pulgadas con resolución 960x540.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-02-emulador-de-game-boy-en-pantalla-e-ink-a-60-fps-con-esp.md"
+    },
+    {
+      "title": "Casilla de encuadre para ESP32-S3 con montaje magnético",
+      "category": "embebidos",
+      "date": "2026-07-02",
+      "slug": "casilla-de-encuadre-para-esp32-s3-con-montaje-magnetico",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "esp32"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una casilla de encuadre para el microcontrolador ESP32-S3 con características innovadoras como montaje magnético y ventilación personalizable.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-02-casilla-de-encuadre-para-esp32-s3-con-montaje-magnetico.md"
+    },
+    {
+      "title": "Puente de adquisición de datos industrial con Raspberry Pi CM0",
+      "category": "embebidos",
+      "date": "2026-07-02",
+      "slug": "puente-de-adquisicion-de-datos-industrial-con-raspber-2",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa EDATEC ha lanzado el ED-IPC1200, un puente de adquisición de datos industrial basado en el Raspberry Pi Compute Module Zero (CM0) que ofrece una amplia gama de interfaces I/O y conectividad para aplicaciones de automatización…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-02-puente-de-adquisicion-de-datos-industrial-con-raspber-2.md"
+    },
+    {
+      "title": "Sipeed NanoKVM-Go: un KVM USB-C con función de recuerdo y AI",
+      "category": "ia",
+      "date": "2026-07-02",
+      "slug": "sipeed-nanokvm-go-un-kvm-usb-c-con-funcion-de-recuerdo-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Sipeed ha lanzado un nuevo dispositivo KVM (Controlador de Video y Teclado) USB-C llamado NanoKVM-Go, que permite controlar dispositivos USB-C desde cualquier lugar con una sola cable. Este dispositivo también cuenta con una función de…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-02-sipeed-nanokvm-go-un-kvm-usb-c-con-funcion-de-recuerdo-.md"
+    },
+    {
+      "title": "Robotas con manos artificiales: el futuro de la robótica",
+      "category": "ia",
+      "date": "2026-07-02",
+      "slug": "robotas-con-manos-artificiales-el-futuro-de-la-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La robótica ha dado un paso importante con la creación de manos artificiales que pueden interactuar con objetos de manera natural. Estas manos están diseñadas para ser seguras y eficientes en entornos humanos.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-02-robotas-con-manos-artificiales-el-futuro-de-la-robotica.md"
+    },
+    {
+      "title": "La utilización de Steam en Linux disminuyó ligeramente en junio",
+      "category": "linux",
+      "date": "2026-07-02",
+      "slug": "la-utilizacion-de-steam-en-linux-disminuyo-ligeramente-",
+      "tags": [
+        "linux",
+        "steam",
+        "gaming"
+      ],
+      "preview": "La popularidad de Steam en Linux experimentó un pequeño retroceso en junio, después de un aumento significativo en marzo. Esto podría estar relacionado con un aumento en la utilización de Steam en China.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-02-la-utilizacion-de-steam-en-linux-disminuyo-ligeramente-.md"
+    },
+    {
+      "title": "Actualizaciones en Linux y robótica: Git, Podman y systemd",
+      "category": "linux",
+      "date": "2026-07-02",
+      "slug": "actualizaciones-en-linux-y-robotica-git-podman-y-system",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La última edición de LWN.net Weekly Edition trae noticias importantes sobre la comunidad de Linux, incluyendo actualizaciones en Git, Podman y systemd. Estas herramientas son fundamentales para desarrolladores y administradores de sistemas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-02-actualizaciones-en-linux-y-robotica-git-podman-y-system.md"
+    },
+    {
+      "title": "Mejorando el acceso a almacenamiento local en BPF",
+      "category": "linux",
+      "date": "2026-07-02",
+      "slug": "mejorando-el-acceso-a-almacenamiento-local-en-bpf",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los desarrolladores Amery Hung y Jakub Sitnicki han presentado un proyecto para mejorar la eficiencia en el acceso a datos almacenados localmente en el kernel Linux. Esto es especialmente relevante en el contexto de la red, donde se…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-02-mejorando-el-acceso-a-almacenamiento-local-en-bpf.md"
+    },
+    {
+      "title": "Fedora Council detiene discusiones sobre escritorio de desarrollo de IA",
+      "category": "linux",
+      "date": "2026-07-02",
+      "slug": "fedora-council-detiene-discusiones-sobre-escritorio-de-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La Fedora Council ha decidido detener las discusiones sobre el escritorio de desarrollo de IA en Fedora debido a la falta de un proceso de comunidad efectivo. Esto ha generado una gran variedad de opiniones sobre la inclusión de NVIDIA's…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-02-fedora-council-detiene-discusiones-sobre-escritorio-de-.md"
+    },
+    {
       "title": "¿Necesitan los robots piernas para moverse?",
       "category": "robotica",
       "date": "2026-07-01",
