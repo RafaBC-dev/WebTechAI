@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Amazon Astro: el robot que aprendió a tener alma",
+      "category": "robotica",
+      "date": "2026-07-03",
+      "slug": "amazon-astro-el-robot-que-aprendio-a-tener-alma-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "Amazon Astro es un robot de hogar que utiliza cámaras y sensores para navegar y explorar espacios. Pero ¿cómo se le dio alma a este robot? En este artículo, exploraremos cómo se creó el personaje de Astro y qué lecciones podemos aprender…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-03-amazon-astro-el-robot-que-aprendio-a-tener-alma-2.md"
+    },
+    {
+      "title": "NVIDIA Jetson Orin Nano/NX en un 'caja de inteligencia artificial' para robots humanoides",
+      "category": "robotica",
+      "date": "2026-07-03",
+      "slug": "nvidia-jetson-orin-nanonx-en-un-caja-de-inteligencia-ar",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Mekotronics ha lanzado una 'caja de inteligencia artificial' basada en la tecnología NVIDIA Jetson Orin Nano y NX, destinada a aplicaciones en robots humanoides, transporte inteligente y ciudades inteligentes.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-03-nvidia-jetson-orin-nanonx-en-un-caja-de-inteligencia-ar.md"
+    },
+    {
+      "title": "Actualización de paquetes ROS 2 Humble Hawksbill con 147 nuevos y 618 actualizados",
+      "category": "robotica",
+      "date": "2026-07-03",
+      "slug": "actualizacion-de-paquetes-ros-2-humble-hawksbill-con-14",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha lanzado una actualización significativa con 147 nuevos paquetes y 618 actualizaciones, mejorando la funcionalidad y la estabilidad del framework de robótica.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-03-actualizacion-de-paquetes-ros-2-humble-hawksbill-con-14.md"
+    },
+    {
+      "title": "¿Necesitan los robots piernas para moverse?",
+      "category": "robotica",
+      "date": "2026-07-03",
+      "slug": "necesitan-los-robots-piernas-para-moverse-5",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "drones"
+      ],
+      "preview": "Los robots están avanzando en su capacidad para moverse y actuar en entornos complejos. Pero ¿necesitan realmente piernas para hacerlo? En este artículo, exploraremos algunas de las últimas innovaciones en robótica que desafían esta idea.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-03-necesitan-los-robots-piernas-para-moverse-5.md"
+    },
+    {
+      "title": "Nueva placa de desarrollo de Edge AI más pequeña y asequible",
+      "category": "embebidos",
+      "date": "2026-07-03",
+      "slug": "nueva-placa-de-desarrollo-de-edge-ai-mas-pequena-y-aseq",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa RT-Thread ha lanzado una nueva placa de desarrollo llamada Titan Mini, diseñada para aplicaciones de Edge AI y desarrollo de sistemas embebidos. Esta placa es una versión más pequeña y asequible de la placa RA8P1 Titan,…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-03-nueva-placa-de-desarrollo-de-edge-ai-mas-pequena-y-aseq.md"
+    },
+    {
+      "title": "Nueva versión de Flexi Cat: un gato de impresión 3D más fuerte y realista",
+      "category": "embebidos",
+      "date": "2026-07-03",
+      "slug": "nueva-version-de-flexi-cat-un-gato-de-impresion-3d-mas-",
+      "tags": [
+        "diseño-3d",
+        "impresion-3d",
+        "robotica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una nueva versión de Flexi Cat, un modelo de gato flexible y realista que impresiona en un solo paso. Esta versión cuenta con articulaciones más fuertes y un diseño más suave y redondo.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-03-nueva-version-de-flexi-cat-un-gato-de-impresion-3d-mas-.md"
+    },
+    {
+      "title": "Lámpara 3D impresora: un diseño minimalista para iluminación LED",
+      "category": "embebidos",
+      "date": "2026-07-03",
+      "slug": "lampara-3d-impresora-un-diseno-minimalista-para-ilumina",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "linux"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una lámpara minimalista 3D impresora compatible con sockets estándar E14 y E27, diseñada para luces LED. Un proyecto perfecto para un fin de semana",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-03-lampara-3d-impresora-un-diseno-minimalista-para-ilumina.md"
+    },
+    {
+      "title": "ESP32-C5: módulo IoT con WiFi 6 y Bluetooth LE y pantalla de 1,47 pulgadas",
+      "category": "embebidos",
+      "date": "2026-07-03",
+      "slug": "esp32-c5-modulo-iot-con-wifi-6-y-bluetooth-le-y-pantall",
+      "tags": [
+        "esp32",
+        "robotica",
+        "microcontroladores"
+      ],
+      "preview": "Waveshare ha lanzado el ESP32-C5-LCD-1.47, un módulo IoT que combina WiFi 6 y Bluetooth LE con una pantalla de 1,47 pulgadas. Este módulo es ideal para proyectos de IoT que requieren una conexión a Internet segura y una interfaz visual",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-03-esp32-c5-modulo-iot-con-wifi-6-y-bluetooth-le-y-pantall.md"
+    },
+    {
+      "title": "Zuckerberg reconoce que la IA no avanza tan rápido como esperaba",
+      "category": "ia",
+      "date": "2026-07-03",
+      "slug": "zuckerberg-reconoce-que-la-ia-no-avanza-tan-rapido-como",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Mark Zuckerberg ha reconocido que la velocidad de desarrollo de agentes de inteligencia artificial no ha sido tan rápida como se esperaba. Esto se debe a que la empresa Meta ha tenido que hacer recortes de personal y reasignar a 7.000…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-03-zuckerberg-reconoce-que-la-ia-no-avanza-tan-rapido-como.md"
+    },
+    {
+      "title": "Ataque CoT: cómo los modelos de IA pueden ser engañados",
+      "category": "ia",
+      "date": "2026-07-03",
+      "slug": "ataque-cot-como-los-modelos-de-ia-pueden-ser-enganados",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Los investigadores han descubierto un nuevo ataque que puede hacer que los modelos de IA de lenguaje grande (LLMs) respondan de manera incorrecta. El ataque, llamado CoT Forgery, aprovecha la confusión entre el estilo de escritura y los…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-03-ataque-cot-como-los-modelos-de-ia-pueden-ser-enganados.md"
+    },
+    {
+      "title": "Robotas con manos artificiales: la tecnología que revoluciona la robótica",
+      "category": "ia",
+      "date": "2026-07-03",
+      "slug": "robotas-con-manos-artificiales-la-tecnologia-que-revolu",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados con la creación de manos artificiales que pueden realizar tareas complejas y interactuar con objetos de manera natural. Esta tecnología tiene aplicaciones en diversas industrias y puede…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-03-robotas-con-manos-artificiales-la-tecnologia-que-revolu.md"
+    },
+    {
+      "title": "ReactOS implementa primer sistema de llamada de Windows NT6",
+      "category": "linux",
+      "date": "2026-07-03",
+      "slug": "reactos-implementa-primer-sistema-de-llamada-de-windows",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto ReactOS, que busca ser una versión abierta de Windows, ha alcanzado un nuevo hito en su camino hacia la compatibilidad con Windows Vista y versiones posteriores. Después de años de trabajo, ReactOS ha implementado por primera…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-03-reactos-implementa-primer-sistema-de-llamada-de-windows.md"
+    },
+    {
+      "title": "Fedora 45 considera activar Shadow Stack por defecto para mejorar la seguridad",
+      "category": "linux",
+      "date": "2026-07-03",
+      "slug": "fedora-45-considera-activar-shadow-stack-por-defecto-pa",
+      "tags": [
+        "linux",
+        "seguridad",
+        "fedora"
+      ],
+      "preview": "La distribución Linux Fedora 45 podría incluir un cambio importante en la seguridad de sus sistemas. La propuesta de cambio busca activar por defecto la tecnología Shadow Stack en los sistemas x86_64, lo que ayudaría a proteger contra…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-03-fedora-45-considera-activar-shadow-stack-por-defecto-pa.md"
+    },
+    {
+      "title": "EFS File-System se eliminará de Linux 7.3 después de 20+ años sin mantenimiento",
+      "category": "linux",
+      "date": "2026-07-03",
+      "slug": "efs-file-system-se-eliminara-de-linux-73-despues-de-20-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Después de 20 años sin ser actualizado, el EFS file-system se eliminará de Linux 7.3. Este cambio afectará a usuarios de sistemas de archivo específicos, pero no tendrá un impacto significativo en la mayoría de los usuarios de Linux.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-03-efs-file-system-se-eliminara-de-linux-73-despues-de-20-.md"
+    },
+    {
+      "title": "Restauración del árbol de publicación del kernel Linux",
+      "category": "linux",
+      "date": "2026-07-03",
+      "slug": "restauracion-del-arbol-de-publicacion-del-kernel-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El árbol de publicación del kernel Linux ha sufrido un error en su infraestructura de mirroring, lo que provocó que se eliminara temporalmente su contenido. Afortunadamente, no se perdió ningún dato y se está restaurando el árbol.",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-03-restauracion-del-arbol-de-publicacion-del-kernel-linux.md"
+    },
+    {
       "title": "Configurando Robots Doble-Armado con Comunicación CAN",
       "category": "robotica",
       "date": "2026-07-02",

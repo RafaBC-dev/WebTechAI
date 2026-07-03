@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 02 Jul 2026 09:54:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 09:51:50 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Amazon Astro: el robot que aprendió a tener alma</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-amazon-astro-el-robot-que-aprendio-a-tener-alma-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-amazon-astro-el-robot-que-aprendio-a-tener-alma-2.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Amazon Astro es un robot de hogar que utiliza cámaras y sensores para navegar y explorar espacios. Pero ¿cómo se le dio alma a este robot? En este artículo, exploraremos cómo se creó el personaje de Astro y qué lecciones podemos aprender…</description>
+  </item>
+  <item>
+    <title>NVIDIA Jetson Orin Nano/NX en un 'caja de inteligencia artificial' para robots humanoides</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-nvidia-jetson-orin-nanonx-en-un-caja-de-inteligencia-ar.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-nvidia-jetson-orin-nanonx-en-un-caja-de-inteligencia-ar.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Mekotronics ha lanzado una 'caja de inteligencia artificial' basada en la tecnología NVIDIA Jetson Orin Nano y NX, destinada a aplicaciones en robots humanoides, transporte inteligente y ciudades inteligentes.</description>
+  </item>
+  <item>
+    <title>Actualización de paquetes ROS 2 Humble Hawksbill con 147 nuevos y 618 actualizados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-actualizacion-de-paquetes-ros-2-humble-hawksbill-con-14.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-actualizacion-de-paquetes-ros-2-humble-hawksbill-con-14.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS 2 ha lanzado una actualización significativa con 147 nuevos paquetes y 618 actualizaciones, mejorando la funcionalidad y la estabilidad del framework de robótica.</description>
+  </item>
+  <item>
+    <title>¿Necesitan los robots piernas para moverse?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-necesitan-los-robots-piernas-para-moverse-5.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-necesitan-los-robots-piernas-para-moverse-5.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los robots están avanzando en su capacidad para moverse y actuar en entornos complejos. Pero ¿necesitan realmente piernas para hacerlo? En este artículo, exploraremos algunas de las últimas innovaciones en robótica que desafían esta idea.</description>
+  </item>
+  <item>
+    <title>Nueva placa de desarrollo de Edge AI más pequeña y asequible</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-nueva-placa-de-desarrollo-de-edge-ai-mas-pequena-y-aseq.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-nueva-placa-de-desarrollo-de-edge-ai-mas-pequena-y-aseq.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa RT-Thread ha lanzado una nueva placa de desarrollo llamada Titan Mini, diseñada para aplicaciones de Edge AI y desarrollo de sistemas embebidos. Esta placa es una versión más pequeña y asequible de la placa RA8P1 Titan,…</description>
+  </item>
+  <item>
+    <title>Nueva versión de Flexi Cat: un gato de impresión 3D más fuerte y realista</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-nueva-version-de-flexi-cat-un-gato-de-impresion-3d-mas-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-nueva-version-de-flexi-cat-un-gato-de-impresion-3d-mas-.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado una nueva versión de Flexi Cat, un modelo de gato flexible y realista que impresiona en un solo paso. Esta versión cuenta con articulaciones más fuertes y un diseño más suave y redondo.</description>
+  </item>
+  <item>
+    <title>Lámpara 3D impresora: un diseño minimalista para iluminación LED</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-lampara-3d-impresora-un-diseno-minimalista-para-ilumina.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-lampara-3d-impresora-un-diseno-minimalista-para-ilumina.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado una lámpara minimalista 3D impresora compatible con sockets estándar E14 y E27, diseñada para luces LED. Un proyecto perfecto para un fin de semana</description>
+  </item>
+  <item>
+    <title>ESP32-C5: módulo IoT con WiFi 6 y Bluetooth LE y pantalla de 1,47 pulgadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-esp32-c5-modulo-iot-con-wifi-6-y-bluetooth-le-y-pantall.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-03-esp32-c5-modulo-iot-con-wifi-6-y-bluetooth-le-y-pantall.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Waveshare ha lanzado el ESP32-C5-LCD-1.47, un módulo IoT que combina WiFi 6 y Bluetooth LE con una pantalla de 1,47 pulgadas. Este módulo es ideal para proyectos de IoT que requieren una conexión a Internet segura y una interfaz visual</description>
+  </item>
+  <item>
+    <title>Zuckerberg reconoce que la IA no avanza tan rápido como esperaba</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-03-zuckerberg-reconoce-que-la-ia-no-avanza-tan-rapido-como.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-03-zuckerberg-reconoce-que-la-ia-no-avanza-tan-rapido-como.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Mark Zuckerberg ha reconocido que la velocidad de desarrollo de agentes de inteligencia artificial no ha sido tan rápida como se esperaba. Esto se debe a que la empresa Meta ha tenido que hacer recortes de personal y reasignar a 7.000…</description>
+  </item>
+  <item>
+    <title>Ataque CoT: cómo los modelos de IA pueden ser engañados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-03-ataque-cot-como-los-modelos-de-ia-pueden-ser-enganados.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-03-ataque-cot-como-los-modelos-de-ia-pueden-ser-enganados.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los investigadores han descubierto un nuevo ataque que puede hacer que los modelos de IA de lenguaje grande (LLMs) respondan de manera incorrecta. El ataque, llamado CoT Forgery, aprovecha la confusión entre el estilo de escritura y los…</description>
+  </item>
+  <item>
+    <title>Robotas con manos artificiales: la tecnología que revoluciona la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-03-robotas-con-manos-artificiales-la-tecnologia-que-revolu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-03-robotas-con-manos-artificiales-la-tecnologia-que-revolu.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica está avanzando a pasos agigantados con la creación de manos artificiales que pueden realizar tareas complejas y interactuar con objetos de manera natural. Esta tecnología tiene aplicaciones en diversas industrias y puede…</description>
+  </item>
+  <item>
+    <title>ReactOS implementa primer sistema de llamada de Windows NT6</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-reactos-implementa-primer-sistema-de-llamada-de-windows.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-reactos-implementa-primer-sistema-de-llamada-de-windows.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El proyecto ReactOS, que busca ser una versión abierta de Windows, ha alcanzado un nuevo hito en su camino hacia la compatibilidad con Windows Vista y versiones posteriores. Después de años de trabajo, ReactOS ha implementado por primera…</description>
+  </item>
+  <item>
+    <title>Fedora 45 considera activar Shadow Stack por defecto para mejorar la seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-fedora-45-considera-activar-shadow-stack-por-defecto-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-fedora-45-considera-activar-shadow-stack-por-defecto-pa.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La distribución Linux Fedora 45 podría incluir un cambio importante en la seguridad de sus sistemas. La propuesta de cambio busca activar por defecto la tecnología Shadow Stack en los sistemas x86_64, lo que ayudaría a proteger contra…</description>
+  </item>
+  <item>
+    <title>EFS File-System se eliminará de Linux 7.3 después de 20+ años sin mantenimiento</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-efs-file-system-se-eliminara-de-linux-73-despues-de-20-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-efs-file-system-se-eliminara-de-linux-73-despues-de-20-.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Después de 20 años sin ser actualizado, el EFS file-system se eliminará de Linux 7.3. Este cambio afectará a usuarios de sistemas de archivo específicos, pero no tendrá un impacto significativo en la mayoría de los usuarios de Linux.</description>
+  </item>
+  <item>
+    <title>Restauración del árbol de publicación del kernel Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-restauracion-del-arbol-de-publicacion-del-kernel-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-03-restauracion-del-arbol-de-publicacion-del-kernel-linux.md</guid>
+    <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El árbol de publicación del kernel Linux ha sufrido un error en su infraestructura de mirroring, lo que provocó que se eliminara temporalmente su contenido. Afortunadamente, no se perdió ningún dato y se está restaurando el árbol.</description>
+  </item>
   <item>
     <title>Configurando Robots Doble-Armado con Comunicación CAN</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-configurando-robots-doble-armado-con-comunicacion-can.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La Fedora Council ha decidido detener las discusiones sobre el escritorio de desarrollo de IA en Fedora debido a la falta de un proceso de comunidad efectivo. Esto ha generado una gran variedad de opiniones sobre la inclusión de NVIDIA's…</description>
-  </item>
-  <item>
-    <title>¿Necesitan los robots piernas para moverse?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-necesitan-los-robots-piernas-para-moverse-4.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-necesitan-los-robots-piernas-para-moverse-4.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robotica avanzada se está desarrollando a pasos agigantados. Pero ¿qué papel juegan las piernas en este futuro robótico? En este artículo, exploraremos varios proyectos que cuestionan la necesidad de piernas en los robots.</description>
-  </item>
-  <item>
-    <title>Validador de URDF: un nuevo herramienta para evitar errores en la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-validador-de-urdf-un-nuevo-herramienta-para-evitar-erro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-validador-de-urdf-un-nuevo-herramienta-para-evitar-erro.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los desarrolladores de ROS 2 han sufrido con la falta de herramientas para validar la consistencia física de sus robots. Un estudio de 2024 encontró que errores semánticos en los archivos URDF son una de las causas más comunes de fallos en…</description>
-  </item>
-  <item>
-    <title>Startup de robótica quirúrgica busca co-fundador técnico</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-startup-de-robotica-quirurgica-busca-co-fundador-tecnic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-startup-de-robotica-quirurgica-busca-co-fundador-tecnic.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un cirujano practicante está creando una startup que busca abordar un vacío de datos en la inteligencia artificial quirúrgica. Se busca un co-fundador técnico con experiencia en hardware y sensores.</description>
-  </item>
-  <item>
-    <title>Amazon Astro: el robot que nos enseñó a dar alma a las máquinas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-las-m.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-amazon-astro-el-robot-que-nos-enseno-a-dar-alma-a-las-m.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Amazon ha lanzado un robot llamado Astro, diseñado para ayudar en la vida diaria de los usuarios. Aunque inicialmente no tenía una personalidad definida, el equipo de desarrollo decidió darle un carácter propio, lo que llevó a una serie de…</description>
-  </item>
-  <item>
-    <title>Control Xbox para TurtleBot3 con retroalimentación táctil y freno</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-control-xbox-para-turtlebot3-con-retroalimentacion-tact.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-01-control-xbox-para-turtlebot3-con-retroalimentacion-tact.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador ha creado un paquete ROS 2 para controlar un TurtleBot3 con un controlador Xbox Bluetooth, añadiendo retroalimentación táctil y freno. Esto permite una experiencia de conducción más realista y segura.</description>
-  </item>
-  <item>
-    <title>Puente de adquisición de datos industrial con Raspberry Pi CM0</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-puente-de-adquisicion-de-datos-industrial-con-raspberry.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-puente-de-adquisicion-de-datos-industrial-con-raspberry.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa EDATEC ha lanzado un nuevo dispositivo de adquisición de datos industrial basado en el módulo de computación Raspberry Pi CM0. Este dispositivo es ideal para aplicaciones de automatización industrial y de borde con múltiples…</description>
-  </item>
-  <item>
-    <title>Flipper lanza el BUSY Bar, un multitool de productividad open-source</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-flipper-lanza-el-busy-bar-un-multitool-de-productividad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-flipper-lanza-el-busy-bar-un-multitool-de-productividad.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Flipper, conocida por sus herramientas de hacking inalámbricas, ha lanzado el BUSY Bar, un dispositivo de productividad open-source diseñado para ayudar a las personas a eliminar distracciones y estar más enfocadas en su trabajo.</description>
-  </item>
-  <item>
-    <title>NVIDIA Jetson Orin NX en una tarjeta compacta para robots y drones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-nvidia-jetson-orin-nx-en-una-tarjeta-compacta-para-robo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-nvidia-jetson-orin-nx-en-una-tarjeta-compacta-para-robo.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>WeAct ha lanzado la N006, una tarjeta de expansión compacta para el módulo NVIDIA Jetson Orin NX, diseñada para robots y drones. Esta tarjeta mide apenas 90x60mm y ofrece una amplia gama de conectividad y características.</description>
-  </item>
-  <item>
-    <title>Noticias de Python en Microcontroladores: suscríbete gratis</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-noticias-de-python-en-microcontroladores-suscribete-g-7.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-01-noticias-de-python-en-microcontroladores-suscribete-g-7.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>¿Quieres estar al día con las últimas noticias sobre Python en hardware? La newsletter 'Python on Microcontrollers' es la herramienta perfecta para ti. Recibe cada semana una resumen de software, eventos, proyectos y hardware actualizado…</description>
-  </item>
-  <item>
-    <title>EE.UU. levanta restricciones a modelos de IA de Anthropic</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-01-eeuu-levanta-restricciones-a-modelos-de-ia-de-anthropic.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-01-eeuu-levanta-restricciones-a-modelos-de-ia-de-anthropic.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La administración Trump ha eliminado las restricciones a los modelos de IA Mythos y Fable de Anthropic, lo que permitirá su acceso público nuevamente. Esto se debe a que la empresa había cumplido con los requisitos de seguridad y…</description>
-  </item>
-  <item>
-    <title>Robotica: Avances en la creación de manos artificiales para robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-01-robotica-avances-en-la-creacion-de-manos-artificiales-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-01-robotica-avances-en-la-creacion-de-manos-artificiales-p.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica ha dado un paso importante con la creación de manos artificiales que pueden interactuar con objetos de manera natural. Estas manos están diseñadas para mejorar la seguridad y la eficiencia de los robots en entornos donde se…</description>
-  </item>
-  <item>
-    <title>CircuitPython agrega soporte a audio USB para proyectos de Morse</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-circuitpython-agrega-soporte-a-audio-usb-para-proyectos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-circuitpython-agrega-soporte-a-audio-usb-para-proyectos.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Adafruit ha lanzado una guía para utilizar la biblioteca TinyUSB en CircuitPython para crear un teclado de Morse que envíe señales de audio a un ordenador o equipo digital de audio.</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-actualizaciones-de-seguridad-para-sistemas-operativo-22.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-actualizaciones-de-seguridad-para-sistemas-operativo-22.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Oracle y SUSE. Estas actualizaciones corregirán vulnerabilidades y mejorarán la seguridad de los…</description>
-  </item>
-  <item>
-    <title>Rhombus: un lenguaje de programación flexible y fácil de usar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-rhombus-un-lenguaje-de-programacion-flexible-y-facil-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-rhombus-un-lenguaje-de-programacion-flexible-y-facil-de.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los lenguajes de programación Lisp han sido conocidos durante mucho tiempo por su capacidad para metaprogramación y flexibilidad. Sin embargo, su sintaxis basada en paréntesis puede ser difícil de adaptar. Rhombus es un nuevo lenguaje que…</description>
-  </item>
-  <item>
-    <title>Malware en Arch Linux y avances en Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-malware-en-arch-linux-y-avances-en-linux-72.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-01-malware-en-arch-linux-y-avances-en-linux-72.md</guid>
-    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>En junio, Arch Linux sufrió un ataque de malware que comprometió más de 1.500 paquetes en su repositorio de usuarios contribuyentes. Además, se eliminó la API strncpy del kernel de Linux 7.2 después de seis años de trabajo.</description>
   </item>
 </channel>
 </rss>
