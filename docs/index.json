@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Nuevas actualizaciones en ROS 2 Humble Hawksbill",
+      "category": "robotica",
+      "date": "2026-07-04",
+      "slug": "nuevas-actualizaciones-en-ros-2-humble-hawksbill",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha lanzado actualizaciones significativas en su versión Humble Hawksbill, incluyendo 147 nuevos paquetes y 618 actualizaciones. Esto mejorará la experiencia de desarrollo y la estabilidad de la plataforma.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-04-nuevas-actualizaciones-en-ros-2-humble-hawksbill.md"
+    },
+    {
+      "title": "¿Necesitan los robots piernas para moverse?",
+      "category": "robotica",
+      "date": "2026-07-04",
+      "slug": "necesitan-los-robots-piernas-para-moverse-6",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La robótica sigue avanzando a pasos agigantados. Los investigadores están explorando nuevas formas de diseño para los robots, como la posibilidad de que no necesiten piernas para moverse. ¿Qué significa esto para el futuro de la robótica?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-04-necesitan-los-robots-piernas-para-moverse-6.md"
+    },
+    {
+      "title": "Un rover lunar basado en Mars: la próxima misión de NASA",
+      "category": "robotica",
+      "date": "2026-07-04",
+      "slug": "un-rover-lunar-basado-en-mars-la-proxima-mision-de-nasa",
+      "tags": [
+        "robotica",
+        "espacio",
+        "nasa"
+      ],
+      "preview": "NASA está considerando un proyecto para un rover avanzado alimentado por una fuente nuclear que se desplegará en el polo sur de la Luna como parte de sus planes para una base lunar. Este rover, llamado PROMISE, se basará en el testbed del…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-04-un-rover-lunar-basado-en-mars-la-proxima-mision-de-nasa.md"
+    },
+    {
+      "title": "ATLAS: un tricorder moderno para sobrevivir en terrenos inhóspitos",
+      "category": "embebidos",
+      "date": "2026-07-04",
+      "slug": "atlas-un-tricorder-moderno-para-sobrevivir-en-terrenos-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "ia-local"
+      ],
+      "preview": "El equipo de Star Trek se inspiró en el tricorder, pero ahora tenemos una herramienta real que puede ayudarnos a sobrevivir en entornos hostiles. ATLAS es un dispositivo portátil que combina sensores y tecnología de inteligencia artificial…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-04-atlas-un-tricorder-moderno-para-sobrevivir-en-terrenos-.md"
+    },
+    {
+      "title": "Un hub de USB personalizable con pantalla táctil y encoder rotativo",
+      "category": "embebidos",
+      "date": "2026-07-04",
+      "slug": "un-hub-de-usb-personalizable-con-pantalla-tactil-y-enco",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa Innoelement ha lanzado el HALO TOUCH V2, un hub de USB multifuncional con pantalla táctil y encoder rotativo diseñado para ser un compañero de escritorio interactivo. Este dispositivo integra monitoreo de sistema, reproducción…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-04-un-hub-de-usb-personalizable-con-pantalla-tactil-y-enco.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: suscríbete gratis",
+      "category": "embebidos",
+      "date": "2026-07-04",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-g-8",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "robotica"
+      ],
+      "preview": "Si te interesa la robótica y el desarrollo de software para microcontroladores, esta noticia es para ti. Un equipo de desarrolladores ha creado un servicio de noticias semanal que te mantiene al día sobre las últimas novedades en Python…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-04-noticias-de-python-en-microcontroladores-suscribete-g-8.md"
+    },
+    {
+      "title": "Monitoreo de calidad del aire inteligente para impresoras 3D",
+      "category": "embebidos",
+      "date": "2026-07-04",
+      "slug": "monitoreo-de-calidad-del-aire-inteligente-para-impresor",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa BIGTREETECH ha lanzado el BIQU Panda Sense Pro, un dispositivo que monitorea la calidad del aire en entornos de impresión 3D. Este dispositivo es capaz de detectar partículas, gases y temperatura, lo que permite a los usuarios…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-04-monitoreo-de-calidad-del-aire-inteligente-para-impresor.md"
+    },
+    {
+      "title": "Nueva placa IoT con ESP32-C5 y pantalla LCD de 1,47 pulgadas",
+      "category": "embebidos",
+      "date": "2026-07-04",
+      "slug": "nueva-placa-iot-con-esp32-c5-y-pantalla-lcd-de-147-pulg",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La placa IoT Waveshare ESP32-C5-LCD-1.47 ofrece conectividad WiFi 6 y Bluetooth LE, junto con una pantalla LCD de alta resolución. Esta placa es ideal para proyectos de IoT que requieren una conexión estable y una interfaz gráfica…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-04-nueva-placa-iot-con-esp32-c5-y-pantalla-lcd-de-147-pulg.md"
+    },
+    {
+      "title": "Mark Zuckerberg admite que los agentes de IA no han avanzado como esperaba",
+      "category": "ia",
+      "date": "2026-07-04",
+      "slug": "mark-zuckerberg-admite-que-los-agentes-de-ia-no-han-ava",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Mark Zuckerberg, CEO de Meta, ha admitido que la velocidad de desarrollo de los agentes de IA no ha sido la esperada. Esto se debe a que la empresa ha realizado importantes ajustes en su estructura de trabajo, incluyendo la reasignación de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-04-mark-zuckerberg-admite-que-los-agentes-de-ia-no-han-ava.md"
+    },
+    {
+      "title": "Crea una casa inteligente con privacidad garantizada",
+      "category": "ia",
+      "date": "2026-07-04",
+      "slug": "crea-una-casa-inteligente-con-privacidad-garantizada",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La idea de una casa inteligente ha estado presente en la sociedad desde la serie de animación 'Los Jetsons' de 1962. Ahora, con el aumento de dispositivos conectados en nuestras vidas, es hora de reconsiderar la forma en que interactuamos…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-04-crea-una-casa-inteligente-con-privacidad-garantizada.md"
+    },
+    {
+      "title": "Robotas con manos artificiales: avances en robótica y seguridad humana",
+      "category": "ia",
+      "date": "2026-07-04",
+      "slug": "robotas-con-manos-artificiales-avances-en-robotica-y--2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La robótica continúa avanzando con proyectos innovadores que buscan mejorar la interacción entre humanos y robots. En este artículo, exploraremos los últimos avances en robótica y seguridad humana, incluyendo la creación de manos…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-04-robotas-con-manos-artificiales-avances-en-robotica-y--2.md"
+    },
+    {
+      "title": "Hugging Face y Cerebras revolucionan la IA de voz con Gemma 4",
+      "category": "ia",
+      "date": "2026-07-04",
+      "slug": "hugging-face-y-cerebras-revolucionan-la-ia-de-voz-con-g",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Hugging Face y Cerebras han desarrollado un sistema de IA de voz en tiempo real que supera las limitaciones de la latencia actual. Este avance permitirá conversaciones más naturales y fluidas.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-04-hugging-face-y-cerebras-revolucionan-la-ia-de-voz-con-g.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para Linux y sistemas embebidos",
+      "category": "linux",
+      "date": "2026-07-04",
+      "slug": "actualizaciones-de-seguridad-para-linux-y-sistemas-embe",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varias distribuciones de Linux y sistemas embebidos, incluyendo AlmaLinux, Debian, Fedora, Oracle, Red Hat y SUSE. Estas actualizaciones incluyen parches de seguridad…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-04-actualizaciones-de-seguridad-para-linux-y-sistemas-embe.md"
+    },
+    {
+      "title": "Provisionamiento seguro de Raspberry Pi a gran escala",
+      "category": "linux",
+      "date": "2026-07-04",
+      "slug": "provisionamiento-seguro-de-raspberry-pi-a-gran-escala",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La empresa ha lanzado una actualización importante a su software de provisionamiento seguro para Raspberry Pi, permitiendo provisionar sistemas operativos complejos y desplegar Raspberry Pi Connect a gran escala de manera más sencilla.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-04-provisionamiento-seguro-de-raspberry-pi-a-gran-escala.md"
+    },
+    {
+      "title": "Dispositivo de autenticación de huella dactilar inalámbrico para Linux y Mac",
+      "category": "linux",
+      "date": "2026-07-04",
+      "slug": "dispositivo-de-autenticacion-de-huella-dactilar-inalamb",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y Linux"
+      ],
+      "preview": "Después de la popularidad de la autenticación de huella dactilar en laptops y ordenadores de escritorio, [superdog] decidió crear un dispositivo similar para Linux y Mac. Este proyecto, llamado immurok, tiene como objetivo facilitar la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-04-dispositivo-de-autenticacion-de-huella-dactilar-inalamb.md"
+    },
+    {
       "title": "Amazon Astro: el robot que aprendió a tener alma",
       "category": "robotica",
       "date": "2026-07-03",

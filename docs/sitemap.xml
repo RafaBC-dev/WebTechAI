@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-03</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-04</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-nuevas-actualizaciones-en-ros-2-humble-hawksbill.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-necesitan-los-robots-piernas-para-moverse-6.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-un-rover-lunar-basado-en-mars-la-proxima-mision-de-nasa.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-atlas-un-tricorder-moderno-para-sobrevivir-en-terrenos-.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-un-hub-de-usb-personalizable-con-pantalla-tactil-y-enco.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-noticias-de-python-en-microcontroladores-suscribete-g-8.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-monitoreo-de-calidad-del-aire-inteligente-para-impresor.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-nueva-placa-iot-con-esp32-c5-y-pantalla-lcd-de-147-pulg.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-mark-zuckerberg-admite-que-los-agentes-de-ia-no-han-ava.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-crea-una-casa-inteligente-con-privacidad-garantizada.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-robotas-con-manos-artificiales-avances-en-robotica-y--2.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-hugging-face-y-cerebras-revolucionan-la-ia-de-voz-con-g.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-actualizaciones-de-seguridad-para-linux-y-sistemas-embe.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-provisionamiento-seguro-de-raspberry-pi-a-gran-escala.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-dispositivo-de-autenticacion-de-huella-dactilar-inalamb.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-amazon-astro-el-robot-que-aprendio-a-tener-alma-2.md</loc><lastmod>2026-07-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-nvidia-jetson-orin-nanonx-en-un-caja-de-inteligencia-ar.md</loc><lastmod>2026-07-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-actualizacion-de-paquetes-ros-2-humble-hawksbill-con-14.md</loc><lastmod>2026-07-03</lastmod><priority>0.8</priority></url>

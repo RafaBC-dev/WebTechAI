@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 03 Jul 2026 09:51:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 09:16:38 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nuevas actualizaciones en ROS 2 Humble Hawksbill</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-nuevas-actualizaciones-en-ros-2-humble-hawksbill.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-nuevas-actualizaciones-en-ros-2-humble-hawksbill.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS 2 ha lanzado actualizaciones significativas en su versión Humble Hawksbill, incluyendo 147 nuevos paquetes y 618 actualizaciones. Esto mejorará la experiencia de desarrollo y la estabilidad de la plataforma.</description>
+  </item>
+  <item>
+    <title>¿Necesitan los robots piernas para moverse?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-necesitan-los-robots-piernas-para-moverse-6.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-necesitan-los-robots-piernas-para-moverse-6.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La robótica sigue avanzando a pasos agigantados. Los investigadores están explorando nuevas formas de diseño para los robots, como la posibilidad de que no necesiten piernas para moverse. ¿Qué significa esto para el futuro de la robótica?</description>
+  </item>
+  <item>
+    <title>Un rover lunar basado en Mars: la próxima misión de NASA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-un-rover-lunar-basado-en-mars-la-proxima-mision-de-nasa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-un-rover-lunar-basado-en-mars-la-proxima-mision-de-nasa.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>NASA está considerando un proyecto para un rover avanzado alimentado por una fuente nuclear que se desplegará en el polo sur de la Luna como parte de sus planes para una base lunar. Este rover, llamado PROMISE, se basará en el testbed del…</description>
+  </item>
+  <item>
+    <title>ATLAS: un tricorder moderno para sobrevivir en terrenos inhóspitos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-atlas-un-tricorder-moderno-para-sobrevivir-en-terrenos-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-atlas-un-tricorder-moderno-para-sobrevivir-en-terrenos-.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El equipo de Star Trek se inspiró en el tricorder, pero ahora tenemos una herramienta real que puede ayudarnos a sobrevivir en entornos hostiles. ATLAS es un dispositivo portátil que combina sensores y tecnología de inteligencia artificial…</description>
+  </item>
+  <item>
+    <title>Un hub de USB personalizable con pantalla táctil y encoder rotativo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-un-hub-de-usb-personalizable-con-pantalla-tactil-y-enco.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-un-hub-de-usb-personalizable-con-pantalla-tactil-y-enco.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Innoelement ha lanzado el HALO TOUCH V2, un hub de USB multifuncional con pantalla táctil y encoder rotativo diseñado para ser un compañero de escritorio interactivo. Este dispositivo integra monitoreo de sistema, reproducción…</description>
+  </item>
+  <item>
+    <title>Noticias de Python en Microcontroladores: suscríbete gratis</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-noticias-de-python-en-microcontroladores-suscribete-g-8.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-noticias-de-python-en-microcontroladores-suscribete-g-8.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Si te interesa la robótica y el desarrollo de software para microcontroladores, esta noticia es para ti. Un equipo de desarrolladores ha creado un servicio de noticias semanal que te mantiene al día sobre las últimas novedades en Python…</description>
+  </item>
+  <item>
+    <title>Monitoreo de calidad del aire inteligente para impresoras 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-monitoreo-de-calidad-del-aire-inteligente-para-impresor.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-monitoreo-de-calidad-del-aire-inteligente-para-impresor.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa BIGTREETECH ha lanzado el BIQU Panda Sense Pro, un dispositivo que monitorea la calidad del aire en entornos de impresión 3D. Este dispositivo es capaz de detectar partículas, gases y temperatura, lo que permite a los usuarios…</description>
+  </item>
+  <item>
+    <title>Nueva placa IoT con ESP32-C5 y pantalla LCD de 1,47 pulgadas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-nueva-placa-iot-con-esp32-c5-y-pantalla-lcd-de-147-pulg.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-04-nueva-placa-iot-con-esp32-c5-y-pantalla-lcd-de-147-pulg.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La placa IoT Waveshare ESP32-C5-LCD-1.47 ofrece conectividad WiFi 6 y Bluetooth LE, junto con una pantalla LCD de alta resolución. Esta placa es ideal para proyectos de IoT que requieren una conexión estable y una interfaz gráfica…</description>
+  </item>
+  <item>
+    <title>Mark Zuckerberg admite que los agentes de IA no han avanzado como esperaba</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-mark-zuckerberg-admite-que-los-agentes-de-ia-no-han-ava.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-mark-zuckerberg-admite-que-los-agentes-de-ia-no-han-ava.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Mark Zuckerberg, CEO de Meta, ha admitido que la velocidad de desarrollo de los agentes de IA no ha sido la esperada. Esto se debe a que la empresa ha realizado importantes ajustes en su estructura de trabajo, incluyendo la reasignación de…</description>
+  </item>
+  <item>
+    <title>Crea una casa inteligente con privacidad garantizada</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-crea-una-casa-inteligente-con-privacidad-garantizada.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-crea-una-casa-inteligente-con-privacidad-garantizada.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La idea de una casa inteligente ha estado presente en la sociedad desde la serie de animación 'Los Jetsons' de 1962. Ahora, con el aumento de dispositivos conectados en nuestras vidas, es hora de reconsiderar la forma en que interactuamos…</description>
+  </item>
+  <item>
+    <title>Robotas con manos artificiales: avances en robótica y seguridad humana</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-robotas-con-manos-artificiales-avances-en-robotica-y--2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-robotas-con-manos-artificiales-avances-en-robotica-y--2.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica continúa avanzando con proyectos innovadores que buscan mejorar la interacción entre humanos y robots. En este artículo, exploraremos los últimos avances en robótica y seguridad humana, incluyendo la creación de manos…</description>
+  </item>
+  <item>
+    <title>Hugging Face y Cerebras revolucionan la IA de voz con Gemma 4</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-hugging-face-y-cerebras-revolucionan-la-ia-de-voz-con-g.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-04-hugging-face-y-cerebras-revolucionan-la-ia-de-voz-con-g.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Hugging Face y Cerebras han desarrollado un sistema de IA de voz en tiempo real que supera las limitaciones de la latencia actual. Este avance permitirá conversaciones más naturales y fluidas.</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para Linux y sistemas embebidos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-actualizaciones-de-seguridad-para-linux-y-sistemas-embe.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-actualizaciones-de-seguridad-para-linux-y-sistemas-embe.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las empresas de software han lanzado actualizaciones de seguridad para varias distribuciones de Linux y sistemas embebidos, incluyendo AlmaLinux, Debian, Fedora, Oracle, Red Hat y SUSE. Estas actualizaciones incluyen parches de seguridad…</description>
+  </item>
+  <item>
+    <title>Provisionamiento seguro de Raspberry Pi a gran escala</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-provisionamiento-seguro-de-raspberry-pi-a-gran-escala.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-provisionamiento-seguro-de-raspberry-pi-a-gran-escala.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa ha lanzado una actualización importante a su software de provisionamiento seguro para Raspberry Pi, permitiendo provisionar sistemas operativos complejos y desplegar Raspberry Pi Connect a gran escala de manera más sencilla.</description>
+  </item>
+  <item>
+    <title>Dispositivo de autenticación de huella dactilar inalámbrico para Linux y Mac</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-dispositivo-de-autenticacion-de-huella-dactilar-inalamb.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-04-dispositivo-de-autenticacion-de-huella-dactilar-inalamb.md</guid>
+    <pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Después de la popularidad de la autenticación de huella dactilar en laptops y ordenadores de escritorio, [superdog] decidió crear un dispositivo similar para Linux y Mac. Este proyecto, llamado immurok, tiene como objetivo facilitar la…</description>
+  </item>
   <item>
     <title>Amazon Astro: el robot que aprendió a tener alma</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-03-amazon-astro-el-robot-que-aprendio-a-tener-alma-2.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>El árbol de publicación del kernel Linux ha sufrido un error en su infraestructura de mirroring, lo que provocó que se eliminara temporalmente su contenido. Afortunadamente, no se perdió ningún dato y se está restaurando el árbol.</description>
-  </item>
-  <item>
-    <title>Configurando Robots Doble-Armado con Comunicación CAN</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-configurando-robots-doble-armado-con-comunicacion-can.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-configurando-robots-doble-armado-con-comunicacion-can.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los robots doble-armado están revolucionando la investigación en inteligencia artificial, teleoperación y aprendizaje por imitación. En este tutorial, aprenderás a configurar dos robots AgileX NERO 7-DOF en un setup maestro-sinónimo…</description>
-  </item>
-  <item>
-    <title>¿Los robots necesitan piernas? Explorando la robótica del futuro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-los-robots-necesitan-piernas-explorando-la-robotica-d-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-los-robots-necesitan-piernas-explorando-la-robotica-d-2.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica está evolucionando a pasos agigantados. De la investigación en la NASA a la creación de robots capaces de realizar tareas complejas, los límites de la robótica están siendo constantemente desafiados. ¿Qué papel juegan las…</description>
-  </item>
-  <item>
-    <title>Amazon Astro: El robot que nos enseñó a darle alma a los robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-l-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-amazon-astro-el-robot-que-nos-enseno-a-darle-alma-a-l-2.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Amazon lanzó Astro, su primer robot doméstico, en 2018. Este robot podía navegar por casa, revisar a los seres queridos y transportar objetos pequeños. Pero la pregunta era: ¿sería simplemente Alexa en ruedas o un robot con su propio…</description>
-  </item>
-  <item>
-    <title>Robot autónomo con mapeo y navegación sin necesidad de mapa previo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-robot-autonomo-con-mapeo-y-navegacion-sin-necesidad-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-02-robot-autonomo-con-mapeo-y-navegacion-sin-necesidad-de-.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El proyecto kc_vision es un robot autónomo de tierra que puede mapear su entorno, navegar hacia objetivos específicos y cubrir áreas enteras sin necesidad de un mapa previo. Esto se logra gracias a la integración de tecnologías como SLAM,…</description>
-  </item>
-  <item>
-    <title>Organizador 3D para herramientas de electrónica y soldadura</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-organizador-3d-para-herramientas-de-electronica-y-solda.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-organizador-3d-para-herramientas-de-electronica-y-solda.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha diseñado un organizador 3D para herramientas de electrónica y soldadura, ideal para mantener herramientas y componentes ordenados en cualquier estación de trabajo.</description>
-  </item>
-  <item>
-    <title>Ruta de circuitos en PC de alta densidad con GPU acelerada</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-ruta-de-circuitos-en-pc-de-alta-densidad-con-gpu-aceler.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-ruta-de-circuitos-en-pc-de-alta-densidad-con-gpu-aceler.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha creado una herramienta que acelera la ruta de circuitos en PC de alta densidad, reduciendo el tiempo de diseño a meses en lugar de años.</description>
-  </item>
-  <item>
-    <title>Emulador de Game Boy en pantalla E Ink a 60 FPS con ESP32-S3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-emulador-de-game-boy-en-pantalla-e-ink-a-60-fps-con-esp.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-emulador-de-game-boy-en-pantalla-e-ink-a-60-fps-con-esp.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha logrado emular un Game Boy en una pantalla E Ink con una velocidad de refresco de 60 FPS, utilizando un microcontrolador ESP32-S3 y una pantalla de 4,7 pulgadas con resolución 960x540.</description>
-  </item>
-  <item>
-    <title>Casilla de encuadre para ESP32-S3 con montaje magnético</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-casilla-de-encuadre-para-esp32-s3-con-montaje-magnetico.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-casilla-de-encuadre-para-esp32-s3-con-montaje-magnetico.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado una casilla de encuadre para el microcontrolador ESP32-S3 con características innovadoras como montaje magnético y ventilación personalizable.</description>
-  </item>
-  <item>
-    <title>Puente de adquisición de datos industrial con Raspberry Pi CM0</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-puente-de-adquisicion-de-datos-industrial-con-raspber-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-02-puente-de-adquisicion-de-datos-industrial-con-raspber-2.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa EDATEC ha lanzado el ED-IPC1200, un puente de adquisición de datos industrial basado en el Raspberry Pi Compute Module Zero (CM0) que ofrece una amplia gama de interfaces I/O y conectividad para aplicaciones de automatización…</description>
-  </item>
-  <item>
-    <title>Sipeed NanoKVM-Go: un KVM USB-C con función de recuerdo y AI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-02-sipeed-nanokvm-go-un-kvm-usb-c-con-funcion-de-recuerdo-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-02-sipeed-nanokvm-go-un-kvm-usb-c-con-funcion-de-recuerdo-.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Sipeed ha lanzado un nuevo dispositivo KVM (Controlador de Video y Teclado) USB-C llamado NanoKVM-Go, que permite controlar dispositivos USB-C desde cualquier lugar con una sola cable. Este dispositivo también cuenta con una función de…</description>
-  </item>
-  <item>
-    <title>Robotas con manos artificiales: el futuro de la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-02-robotas-con-manos-artificiales-el-futuro-de-la-robotica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-02-robotas-con-manos-artificiales-el-futuro-de-la-robotica.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica ha dado un paso importante con la creación de manos artificiales que pueden interactuar con objetos de manera natural. Estas manos están diseñadas para ser seguras y eficientes en entornos humanos.</description>
-  </item>
-  <item>
-    <title>La utilización de Steam en Linux disminuyó ligeramente en junio</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-la-utilizacion-de-steam-en-linux-disminuyo-ligeramente-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-la-utilizacion-de-steam-en-linux-disminuyo-ligeramente-.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La popularidad de Steam en Linux experimentó un pequeño retroceso en junio, después de un aumento significativo en marzo. Esto podría estar relacionado con un aumento en la utilización de Steam en China.</description>
-  </item>
-  <item>
-    <title>Actualizaciones en Linux y robótica: Git, Podman y systemd</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-actualizaciones-en-linux-y-robotica-git-podman-y-system.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-actualizaciones-en-linux-y-robotica-git-podman-y-system.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La última edición de LWN.net Weekly Edition trae noticias importantes sobre la comunidad de Linux, incluyendo actualizaciones en Git, Podman y systemd. Estas herramientas son fundamentales para desarrolladores y administradores de sistemas…</description>
-  </item>
-  <item>
-    <title>Mejorando el acceso a almacenamiento local en BPF</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-mejorando-el-acceso-a-almacenamiento-local-en-bpf.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-mejorando-el-acceso-a-almacenamiento-local-en-bpf.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los desarrolladores Amery Hung y Jakub Sitnicki han presentado un proyecto para mejorar la eficiencia en el acceso a datos almacenados localmente en el kernel Linux. Esto es especialmente relevante en el contexto de la red, donde se…</description>
-  </item>
-  <item>
-    <title>Fedora Council detiene discusiones sobre escritorio de desarrollo de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-fedora-council-detiene-discusiones-sobre-escritorio-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-02-fedora-council-detiene-discusiones-sobre-escritorio-de-.md</guid>
-    <pubDate>Thu, 02 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La Fedora Council ha decidido detener las discusiones sobre el escritorio de desarrollo de IA en Fedora debido a la falta de un proceso de comunidad efectivo. Esto ha generado una gran variedad de opiniones sobre la inclusión de NVIDIA's…</description>
   </item>
 </channel>
 </rss>
