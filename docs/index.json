@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Integración de ROS 2 en Rust para desarrollar clientes ROS 2",
+      "category": "robotica",
+      "date": "2026-07-05",
+      "slug": "integracion-de-ros-2-en-rust-para-desarrollar-clientes-",
+      "tags": [
+        "robotica",
+        "codigo",
+        "linux"
+      ],
+      "preview": "Los desarrolladores de robótica pueden ahora crear clientes ROS 2 en Rust sin necesidad de utilizar Colcon o la biblioteca ros2_rust. Esto se logra gracias a la biblioteca ros-env, que permite acceder a los mensajes ROS 2 desde cualquier…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-05-integracion-de-ros-2-en-rust-para-desarrollar-clientes-.md"
+    },
+    {
+      "title": "Dashboard de telemetría en tiempo real para robots sin servidor de visualización",
+      "category": "robotica",
+      "date": "2026-07-05",
+      "slug": "dashboard-de-telemetria-en-tiempo-real-para-robots-sin-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Si has construido una interfaz de usuario para operadores o una estación terrestre en React, sabes que la visualización de telemetría en tiempo real es un desafío. Hasta ahora, las opciones eran usar Foxglove o Grafana como infraestructura…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-05-dashboard-de-telemetria-en-tiempo-real-para-robots-sin-.md"
+    },
+    {
+      "title": "¿Los robots necesitan piernas? Explorando nuevas formas de movimiento",
+      "category": "robotica",
+      "date": "2026-07-05",
+      "slug": "los-robots-necesitan-piernas-explorando-nuevas-formas-3",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de movimiento para los robots. Desde robots con piernas hasta robots que pueden caminar sobre sus manos, la innovación en este campo está…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-05-los-robots-necesitan-piernas-explorando-nuevas-formas-3.md"
+    },
+    {
+      "title": "Un rover lunar inspirado en la misión Mars para la exploración de la Luna",
+      "category": "robotica",
+      "date": "2026-07-05",
+      "slug": "un-rover-lunar-inspirado-en-la-mision-mars-para-la-expl",
+      "tags": [
+        "robotica",
+        "espacio",
+        "lunar"
+      ],
+      "preview": "NASA considera un proyecto para un rover nuclear impulsado que se desplegará en el Polo Sur de la Luna como parte de sus planes de Base Lunar. Este rover, llamado PROMISE, se basa en el testbed de la misión Curiosity de Marte y podría…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-05-un-rover-lunar-inspirado-en-la-mision-mars-para-la-expl.md"
+    },
+    {
+      "title": "BIGTREETECH Panda Sense Pro: monitoreo de calidad del aire inteligente para impresoras 3D",
+      "category": "embebidos",
+      "date": "2026-07-05",
+      "slug": "bigtreetech-panda-sense-pro-monitoreo-de-calidad-del-ai",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "BIGTREETECH ha lanzado el Panda Sense Pro, un monitoreo de calidad del aire inteligente para entornos de impresión 3D. Este dispositivo mide en tiempo real partículas, gases, temperatura y humedad, ayudando a los usuarios a monitorizar la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-05-bigtreetech-panda-sense-pro-monitoreo-de-calidad-del-ai.md"
+    },
+    {
+      "title": "Emulador de Macintosh en ESP32-P4: retrocomputación en un dispositivo portátil",
+      "category": "embebidos",
+      "date": "2026-07-05",
+      "slug": "emulador-de-macintosh-en-esp32-p4-retrocomputacion-en-u",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Austin McChord ha logrado emular un Macintosh en un dispositivo ESP32-P4, permitiendo a los usuarios disfrutar de la experiencia de retrocomputación en un dispositivo portátil. Esto es posible gracias a la capacidad del ESP32-P4 para…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-05-emulador-de-macintosh-en-esp32-p4-retrocomputacion-en-u.md"
+    },
+    {
+      "title": "HALO TOUCH V2: un hub USB personalizable con pantalla táctil y encoder rotativo",
+      "category": "embebidos",
+      "date": "2026-07-05",
+      "slug": "halo-touch-v2-un-hub-usb-personalizable-con-pantalla-ta",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El HALO TOUCH V2 es un hub USB multifuncional diseñado para ser un compañero de escritorio interactivo. Combina monitoreo de sistema, reproducción de medios y características de productividad para escritorios, oficinas y configuraciones de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-05-halo-touch-v2-un-hub-usb-personalizable-con-pantalla-ta.md"
+    },
+    {
+      "title": "ATLAS: un tricorder moderno para sobrevivir en terrenos hostiles",
+      "category": "embebidos",
+      "date": "2026-07-05",
+      "slug": "atlas-un-tricorder-moderno-para-sobrevivir-en-terreno-2",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "El equipo de exploración y los ingenieros tienen ahora una herramienta poderosa en sus manos: ATLAS, un tricorder portátil que les permite sobrevivir en terrenos hostiles gracias a su capacidad de medir y analizar múltiples factores…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-05-atlas-un-tricorder-moderno-para-sobrevivir-en-terreno-2.md"
+    },
+    {
+      "title": "Robotas con manos artificiales: avances en robótica y seguridad humana",
+      "category": "ia",
+      "date": "2026-07-05",
+      "slug": "robotas-con-manos-artificiales-avances-en-robotica-y--3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica continúa avanzando con proyectos que buscan mejorar la seguridad y la interacción entre humanos y robots. En este artículo, exploraremos algunos de los avances más interesantes en el campo de la robótica, incluyendo la creación…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-05-robotas-con-manos-artificiales-avances-en-robotica-y--3.md"
+    },
+    {
+      "title": "Crea una casa inteligente con privacidad garantizada",
+      "category": "ia",
+      "date": "2026-07-05",
+      "slug": "crea-una-casa-inteligente-con-privacidad-garantizada-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La idea de una casa inteligente ha estado presente en la sociedad desde la serie de dibujos animados 'Los Jetsons' de 1962. Sin embargo, con la creciente cantidad de dispositivos conectados a Internet, nuestra privacidad está en riesgo. Un…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-05-crea-una-casa-inteligente-con-privacidad-garantizada-2.md"
+    },
+    {
+      "title": "Actualizaciones de kernels estables con correcciones de seguridad",
+      "category": "linux",
+      "date": "2026-07-05",
+      "slug": "actualizaciones-de-kernels-estables-con-correcciones-de",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha lanzado actualizaciones de siete kernels estables con correcciones de seguridad importantes. Estas actualizaciones afectan a usuarios de sistemas Linux y deben ser implementadas de inmediato.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-05-actualizaciones-de-kernels-estables-con-correcciones-de.md"
+    },
+    {
+      "title": "Provisionamiento seguro de Raspberry Pi a gran escala",
+      "category": "linux",
+      "date": "2026-07-05",
+      "slug": "provisionamiento-seguro-de-raspberry-pi-a-gran-escala-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La compañía ha lanzado una actualización importante de su software de provisionamiento seguro de Raspberry Pi, rpi-sb-provisioner, que facilita la configuración de sistemas operativos complejos y la implementación de Raspberry Pi Connect a…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-05-provisionamiento-seguro-de-raspberry-pi-a-gran-escala-2.md"
+    },
+    {
+      "title": "Mejora significativa en la latencia de submisión de tareas en Linux DRM",
+      "category": "linux",
+      "date": "2026-07-05",
+      "slug": "mejora-significativa-en-la-latencia-de-submision-de-tar",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los desarrolladores de Linux han presentado un conjunto de parches para mejorar la latencia de submisión de tareas en el gerente de renderizado directo (DRM). Esto es especialmente importante para sistemas sobrecargados con procesos de CPU…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-05-mejora-significativa-en-la-latencia-de-submision-de-tar.md"
+    },
+    {
+      "title": "Actualización de OpenRazer resuelve compatibilidad con Linux 7.2",
+      "category": "linux",
+      "date": "2026-07-05",
+      "slug": "actualizacion-de-openrazer-resuelve-compatibilidad-con-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha recibido una actualización importante para OpenRazer, un conjunto de drivers para dispositivos Razer. Esta actualización resuelve problemas de compatibilidad con Linux 7.2, lo que permite a los usuarios disfrutar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-05-actualizacion-de-openrazer-resuelve-compatibilidad-con-.md"
+    },
+    {
+      "title": "FEX 2607: Mejoras para ejecutar juegos y software x86_64 en ARM",
+      "category": "linux",
+      "date": "2026-07-05",
+      "slug": "fex-2607-mejoras-para-ejecutar-juegos-y-software-x86-64",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La herramienta FEX Emulator ha lanzado su versión 2607, con mejoras para ejecutar juegos y software x86_64 en sistemas ARM. Esto permitirá a los usuarios disfrutar de juegos de Windows en sus dispositivos ARM, gracias a la tecnología Steam…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-05-fex-2607-mejoras-para-ejecutar-juegos-y-software-x86-64.md"
+    },
+    {
       "title": "Nuevas actualizaciones en ROS 2 Humble Hawksbill",
       "category": "robotica",
       "date": "2026-07-04",

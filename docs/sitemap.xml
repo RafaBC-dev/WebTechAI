@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-04</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-04</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-05</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-integracion-de-ros-2-en-rust-para-desarrollar-clientes-.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-dashboard-de-telemetria-en-tiempo-real-para-robots-sin-.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-los-robots-necesitan-piernas-explorando-nuevas-formas-3.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-un-rover-lunar-inspirado-en-la-mision-mars-para-la-expl.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-bigtreetech-panda-sense-pro-monitoreo-de-calidad-del-ai.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-emulador-de-macintosh-en-esp32-p4-retrocomputacion-en-u.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-halo-touch-v2-un-hub-usb-personalizable-con-pantalla-ta.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-atlas-un-tricorder-moderno-para-sobrevivir-en-terreno-2.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-05-robotas-con-manos-artificiales-avances-en-robotica-y--3.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-05-crea-una-casa-inteligente-con-privacidad-garantizada-2.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-actualizaciones-de-kernels-estables-con-correcciones-de.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-provisionamiento-seguro-de-raspberry-pi-a-gran-escala-2.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-mejora-significativa-en-la-latencia-de-submision-de-tar.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-actualizacion-de-openrazer-resuelve-compatibilidad-con-.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-fex-2607-mejoras-para-ejecutar-juegos-y-software-x86-64.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-nuevas-actualizaciones-en-ros-2-humble-hawksbill.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-necesitan-los-robots-piernas-para-moverse-6.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-04-un-rover-lunar-basado-en-mars-la-proxima-mision-de-nasa.md</loc><lastmod>2026-07-04</lastmod><priority>0.8</priority></url>
