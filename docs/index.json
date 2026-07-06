@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Robot Agrícola Autónomo con ROS 2 y Intel RealSense",
+      "category": "robotica",
+      "date": "2026-07-06",
+      "slug": "robot-agricola-autonomo-con-ros-2-y-intel-realsense",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un ingeniero en mecánica ha desarrollado un robot agrícola autónomo utilizando ROS 2, Nav2 y Intel RealSense. Este proyecto busca integrar componentes de un sistema robótico completo en una plataforma única.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-06-robot-agricola-autonomo-con-ros-2-y-intel-realsense.md"
+    },
+    {
+      "title": "Un rover lunar inspirado en la misión de Marte para la base lunar de la NASA",
+      "category": "robotica",
+      "date": "2026-07-06",
+      "slug": "un-rover-lunar-inspirado-en-la-mision-de-marte-para-la-",
+      "tags": [
+        "robotica",
+        "espacio",
+        "nasa"
+      ],
+      "preview": "La NASA está considerando un proyecto para un rover nuclearmente alimentado que se desplegará en el polo sur de la Luna como parte de sus planes de base lunar. Este rover, llamado PROMISE, se basará en el testbed del rover Curiosity de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-06-un-rover-lunar-inspirado-en-la-mision-de-marte-para-la-.md"
+    },
+    {
+      "title": "Nueva ROS 2 node para la cámara HD de PlayStation 5",
+      "category": "robotica",
+      "date": "2026-07-06",
+      "slug": "nueva-ros-2-node-para-la-camara-hd-de-playstation-5",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha recibido una noticia interesante: se ha implementado una nueva node para la cámara HD de PlayStation 5, una cámara estéreo con alta resolución y un precio asequible. Esto puede ser una excelente opción para…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-06-nueva-ros-2-node-para-la-camara-hd-de-playstation-5.md"
+    },
+    {
+      "title": "¿Necesitan los robots piernas? Un debate en la robótica",
+      "category": "robotica",
+      "date": "2026-07-06",
+      "slug": "necesitan-los-robots-piernas-un-debate-en-la-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmark"
+      ],
+      "preview": "La robótica se está volviendo cada vez más sofisticada, pero ¿qué papel juegan las piernas en este proceso? En este artículo, exploraremos algunos ejemplos de robots que están desafiando la norma de tener piernas y cómo están cambiando la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-06-necesitan-los-robots-piernas-un-debate-en-la-robotica.md"
+    },
+    {
+      "title": "Tiny AM62L: un módulo de sistema en un paquete compacto para aplicaciones industriales",
+      "category": "embebidos",
+      "date": "2026-07-06",
+      "slug": "tiny-am62l-un-modulo-de-sistema-en-un-paquete-compacto-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Calixto Systems ha lanzado el AM62L STAMP SOM, un módulo de sistema en un paquete compacto de 40x40mm que integra un procesador dual-core Arm Cortex-A53 de Texas Instruments. Este módulo está diseñado para aplicaciones industriales, como…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-06-tiny-am62l-un-modulo-de-sistema-en-un-paquete-compacto-.md"
+    },
+    {
+      "title": "Adafruit: Nuevos proyectos y herramientas para Raspberry Pi y CircuitPython",
+      "category": "embebidos",
+      "date": "2026-07-06",
+      "slug": "adafruit-nuevos-proyectos-y-herramientas-para-raspberry",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Adafruit ha lanzado una serie de proyectos y herramientas interesantes para Raspberry Pi y CircuitPython. Desde una herramienta de código Morse hasta actualizaciones en el sistema de aprendizaje, hay mucho que explorar.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-06-adafruit-nuevos-proyectos-y-herramientas-para-raspberry.md"
+    },
+    {
+      "title": "u-blox lanza chips GNSS de bajo consumo para dispositivos inalámbricos",
+      "category": "embebidos",
+      "date": "2026-07-06",
+      "slug": "u-blox-lanza-chips-gnss-de-bajo-consumo-para-dispositiv",
+      "tags": [
+        "robotica",
+        "drones",
+        "embebidos"
+      ],
+      "preview": "u-blox ha presentado una nueva familia de chips GNSS de bajo consumo que se destinan a dispositivos inalámbricos como telemetría de vehículos, seguimiento de activos, dispositivos de ropa, drones y otros dispositivos industriales y de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-06-u-blox-lanza-chips-gnss-de-bajo-consumo-para-dispositiv.md"
+    },
+    {
+      "title": "Un cluster de 8192 microcontroladores crea un GPU personalizado",
+      "category": "embebidos",
+      "date": "2026-07-06",
+      "slug": "un-cluster-de-8192-microcontroladores-crea-un-gpu-perso",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "diseño-3d"
+      ],
+      "preview": "Un ingeniero ha creado un sistema de GPU personalizado utilizando 8192 microcontroladores, cada uno con su propio LED RGB. Este proyecto es un ejemplo innovador de cómo se puede aprovechar la tecnología de los microcontroladores para crear…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-06-un-cluster-de-8192-microcontroladores-crea-un-gpu-perso.md"
+    },
+    {
+      "title": "Beelink EQi Wildcat Lake: Mini PC con Intel Core 3 304 y 15 TOPS de IA",
+      "category": "ia",
+      "date": "2026-07-06",
+      "slug": "beelink-eqi-wildcat-lake-mini-pc-con-intel-core-3-304-y",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Beelink ha lanzado el EQi Wildcat Lake, un mini PC con procesador Intel Core 3 304 y un acelerador de IA de 15 TOPS. Este dispositivo ofrece una potencia significativa para aplicaciones de inteligencia artificial y procesamiento de datos…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-06-beelink-eqi-wildcat-lake-mini-pc-con-intel-core-3-304-y.md"
+    },
+    {
+      "title": "Robotica Autónoma con Visión y Lenguaje: un marco de trabajo innovador",
+      "category": "ia",
+      "date": "2026-07-06",
+      "slug": "robotica-autonoma-con-vision-y-lenguaje-un-marco-de-tra",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La robótica autónoma ha dado un paso importante con la creación de un marco de trabajo que combina visión, lenguaje y acción para realizar tareas complejas. Este sistema permite a los robots tomar decisiones y actuar de manera autónoma en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-06-robotica-autonoma-con-vision-y-lenguaje-un-marco-de-tra.md"
+    },
+    {
+      "title": "Robotas con manos artificiales: el futuro de la robótica",
+      "category": "ia",
+      "date": "2026-07-06",
+      "slug": "robotas-con-manos-artificiales-el-futuro-de-la-roboti-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados, y uno de los avances más emocionantes es la creación de manos artificiales que pueden interactuar con el entorno de manera natural. Estas manos están diseñadas para ser seguras y efectivas en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-06-robotas-con-manos-artificiales-el-futuro-de-la-roboti-2.md"
+    },
+    {
+      "title": "Ubuntu ARM64: un paso hacia la igualdad con las arquitecturas x86",
+      "category": "linux",
+      "date": "2026-07-06",
+      "slug": "ubuntu-arm64-un-paso-hacia-la-igualdad-con-las-arquitec",
+      "tags": [
+        "linux",
+        "ubuntu",
+        "arm64"
+      ],
+      "preview": "Canonical, el proveedor de Ubuntu, ha estado trabajando durante un año para hacer que Ubuntu en ARM64 sea una arquitectura de primera clase. Esto significa que los usuarios de ARM64 tendrán acceso a los mismos paquetes y funcionalidades…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-06-ubuntu-arm64-un-paso-hacia-la-igualdad-con-las-arquitec.md"
+    },
+    {
+      "title": "Pioneer DJM-S11: mixer profesional de DJ compatible con Linux 7.3",
+      "category": "linux",
+      "date": "2026-07-06",
+      "slug": "pioneer-djm-s11-mixer-profesional-de-dj-compatible-con-",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "La empresa Pioneer ha anunciado que su mixer profesional de DJ, el DJM-S11, será compatible con Linux 7.3 gracias a un parche de código de 87 líneas. Esto permitirá a los DJs utilizar este equipo en entornos Linux, lo que es una gran…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-06-pioneer-djm-s11-mixer-profesional-de-dj-compatible-con-.md"
+    },
+    {
+      "title": "Nuevos kernels estables para Linux con correcciones de seguridad",
+      "category": "linux",
+      "date": "2026-07-06",
+      "slug": "nuevos-kernels-estables-para-linux-con-correcciones-de-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Greg Kroah-Hartman ha anunciado la liberación de siete kernels estables para Linux, incluyendo correcciones importantes para vulnerabilidades de seguridad. Estos kernels son una actualización esencial para garantizar la seguridad de los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-06-nuevos-kernels-estables-para-linux-con-correcciones-de-.md"
+    },
+    {
+      "title": "Mejoras en el driver de Uniwill para Linux 7.3",
+      "category": "linux",
+      "date": "2026-07-06",
+      "slug": "mejoras-en-el-driver-de-uniwill-para-linux-73",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El driver de Uniwill para Linux está recibiendo varias mejoras importantes que afectarán a los usuarios de laptops de la marca. Entre las novedades destacan la adición de soporte para teclados con retroiluminación, la capacidad de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-06-mejoras-en-el-driver-de-uniwill-para-linux-73.md"
+    },
+    {
       "title": "Integración de ROS 2 en Rust para desarrollar clientes ROS 2",
       "category": "robotica",
       "date": "2026-07-05",

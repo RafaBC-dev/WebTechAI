@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-05</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-06</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-robot-agricola-autonomo-con-ros-2-y-intel-realsense.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-un-rover-lunar-inspirado-en-la-mision-de-marte-para-la-.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-nueva-ros-2-node-para-la-camara-hd-de-playstation-5.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-necesitan-los-robots-piernas-un-debate-en-la-robotica.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-tiny-am62l-un-modulo-de-sistema-en-un-paquete-compacto-.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-adafruit-nuevos-proyectos-y-herramientas-para-raspberry.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-u-blox-lanza-chips-gnss-de-bajo-consumo-para-dispositiv.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-un-cluster-de-8192-microcontroladores-crea-un-gpu-perso.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-beelink-eqi-wildcat-lake-mini-pc-con-intel-core-3-304-y.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-robotica-autonoma-con-vision-y-lenguaje-un-marco-de-tra.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-robotas-con-manos-artificiales-el-futuro-de-la-roboti-2.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-ubuntu-arm64-un-paso-hacia-la-igualdad-con-las-arquitec.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-pioneer-djm-s11-mixer-profesional-de-dj-compatible-con-.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-nuevos-kernels-estables-para-linux-con-correcciones-de-.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-mejoras-en-el-driver-de-uniwill-para-linux-73.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-integracion-de-ros-2-en-rust-para-desarrollar-clientes-.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-dashboard-de-telemetria-en-tiempo-real-para-robots-sin-.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-los-robots-necesitan-piernas-explorando-nuevas-formas-3.md</loc><lastmod>2026-07-05</lastmod><priority>0.8</priority></url>
