@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Un rover lunar inspirado en la misión de Marte para explorar la Luna",
+      "category": "robotica",
+      "date": "2026-07-07",
+      "slug": "un-rover-lunar-inspirado-en-la-mision-de-marte-para-exp",
+      "tags": [
+        "robotica",
+        "espacio",
+        "linux"
+      ],
+      "preview": "NASA considera un proyecto para enviar un rover nuclear a la Luna como parte de sus planes para una base lunar. Este rover, llamado PROMISE, se basará en el testbed del rover Curiosity de Marte y explorará el polo sur de la Luna.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-07-un-rover-lunar-inspirado-en-la-mision-de-marte-para-exp.md"
+    },
+    {
+      "title": "BAGEL: un visor y editor de ROS bag en el navegador",
+      "category": "robotica",
+      "date": "2026-07-07",
+      "slug": "bagel-un-visor-y-editor-de-ros-bag-en-el-navegador",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "BAGEL es una herramienta innovadora que permite visualizar y editar registros de ROS (Robot Operating System) directamente en el navegador, sin necesidad de instalar dependencias nativas o ROS. Esta herramienta ha evolucionado desde su…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-07-bagel-un-visor-y-editor-de-ros-bag-en-el-navegador.md"
+    },
+    {
+      "title": "Japón pierde liderazgo en robots humanoides ante la competencia china",
+      "category": "robotica",
+      "date": "2026-07-07",
+      "slug": "japon-pierde-liderazgo-en-robots-humanoides-ante-la-com",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Japón, pionero en robots humanoides, se enfrenta a la competencia china en la creación de robots cada vez más avanzados. La situación se hizo evidente en el reciente Humanoids Summit en Tokio.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-07-japon-pierde-liderazgo-en-robots-humanoides-ante-la-com.md"
+    },
+    {
+      "title": "PocketMage: asistente digital personal con tecnología ESP32-S3",
+      "category": "embebidos",
+      "date": "2026-07-07",
+      "slug": "pocketmage-asistente-digital-personal-con-tecnologia-es",
+      "tags": [
+        "esp32",
+        "robotica",
+        "microcontroladores"
+      ],
+      "preview": "El proyecto PocketMage ha lanzado una campaña de financiación en Crowd Supply con un objetivo de $100,000. Esta asistente digital personal está basada en el microcontrolador ESP32-S3 y cuenta con una pantalla E Ink de 3,1 pulgadas, una…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-07-pocketmage-asistente-digital-personal-con-tecnologia-es.md"
+    },
+    {
+      "title": "Mercedes-Benz lanza plataforma de desarrollo automotriz abierta",
+      "category": "embebidos",
+      "date": "2026-07-07",
+      "slug": "mercedes-benz-lanza-plataforma-de-desarrollo-automotriz",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Mercedes-Benz ha lanzado una plataforma de desarrollo automotriz abierta llamada ARDEP, que ofrece una plataforma de hardware y software para desarrollar sistemas de control de motores y otros componentes de vehículos. Esta plataforma es…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-07-mercedes-benz-lanza-plataforma-de-desarrollo-automotriz.md"
+    },
+    {
+      "title": "Cannón de patatas automático alimentado por cinta",
+      "category": "embebidos",
+      "date": "2026-07-07",
+      "slug": "cannon-de-patatas-automatico-alimentado-por-cinta",
+      "tags": [
+        "robotica",
+        "electronica",
+        "linux"
+      ],
+      "preview": "Un inventor estadounidense ha creado un cannón de patatas que puede disparar tubérculos a alta velocidad de manera automática, alimentado por una cinta de alimentación. Este dispositivo es un ejemplo de la creatividad y la innovación en la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-07-cannon-de-patatas-automatico-alimentado-por-cinta.md"
+    },
+    {
+      "title": "Robotas con manos inteligentes: la próxima generación de robots",
+      "category": "ia",
+      "date": "2026-07-07",
+      "slug": "robotas-con-manos-inteligentes-la-proxima-generacion-de",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automático"
+      ],
+      "preview": "La robótica está avanzando a pasos agigantados, y ahora podemos ver robots con manos que pueden interactuar con objetos de manera más natural. Esto cambia la forma en que los robots pueden ayudarnos en diversas tareas, desde la manufactura…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-07-robotas-con-manos-inteligentes-la-proxima-generacion-de.md"
+    },
+    {
+      "title": "Ataque de ransomware impulsado por IA: ¿qué hay detrás de JadePuffer?",
+      "category": "ia",
+      "date": "2026-07-07",
+      "slug": "ataque-de-ransomware-impulsado-por-ia-que-hay-detras-de",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Un equipo de investigación ha documentado el primer caso conocido de 'ransomware agente', un tipo de ataque de extorsión llevado a cabo por una inteligencia artificial (IA) desde principio a fin. Sin embargo, hay un detalle importante que…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-07-ataque-de-ransomware-impulsado-por-ia-que-hay-detras-de.md"
+    },
+    {
+      "title": "Mini PC Beelink EQi Wildcat Lake: Análisis detallado de su especificación y características",
+      "category": "ia",
+      "date": "2026-07-07",
+      "slug": "mini-pc-beelink-eqi-wildcat-lake-analisis-detallado-de-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo",
+        "hardware"
+      ],
+      "preview": "El mini PC Beelink EQi Wildcat Lake es una de las últimas generaciones de dispositivos de este tipo, equipado con un procesador Intel Core 3 304 y una gran cantidad de características avanzadas. En este artículo, exploraremos en detalle…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-07-mini-pc-beelink-eqi-wildcat-lake-analisis-detallado-de-.md"
+    },
+    {
+      "title": "Mejoras de rendimiento para la versión de código abierto del procesador 80386",
+      "category": "ia",
+      "date": "2026-07-07",
+      "slug": "mejoras-de-rendimiento-para-la-version-de-codigo-abiert",
+      "tags": [
+        "embebidos",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El proyecto z386 ha logrado una mejora significativa en el rendimiento de su implementación en un núcleo FPGA del procesador 80386, un clásico de la historia de la informática. Esta mejora se debe a la implementación de una función nativa…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-07-mejoras-de-rendimiento-para-la-version-de-codigo-abiert.md"
+    },
+    {
+      "title": "El misterioso iomap: el corazón del kernel de Linux",
+      "category": "linux",
+      "date": "2026-07-07",
+      "slug": "el-misterioso-iomap-el-corazon-del-kernel-de-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux es el núcleo de la operación de cualquier sistema basado en Linux, y su implementación de filesystems es un tema complejo. Sin embargo, hay un componente clave llamado iomap que a menudo se menciona, pero pocos saben qué…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-07-el-misterioso-iomap-el-corazon-del-kernel-de-linux.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-07",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-23",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las distribuciones de Linux AlmaLinux, Debian y Fedora han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes. Estas actualizaciones son importantes para garantizar la seguridad de los sistemas y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-07-actualizaciones-de-seguridad-para-sistemas-operativo-23.md"
+    },
+    {
+      "title": "Nick Desaulniers regresa a Google para mejorar el soporte de LLVM en Linux",
+      "category": "linux",
+      "date": "2026-07-07",
+      "slug": "nick-desaulniers-regresa-a-google-para-mejorar-el-sopor",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Nick Desaulniers, un destacado desarrollador de LLVM, ha regresado a Google después de un año alejado. Su regreso es importante para mejorar el soporte de LLVM en Linux, lo que permitirá a los desarrolladores aprovechar las características…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-07-nick-desaulniers-regresa-a-google-para-mejorar-el-sopor.md"
+    },
+    {
+      "title": "IBM retira el driver de red 10Gb Ethernet EHEA del kernel Linux",
+      "category": "linux",
+      "date": "2026-07-07",
+      "slug": "ibm-retira-el-driver-de-red-10gb-ethernet-ehea-del-kern",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa IBM ha decidido retirar el driver de red 10Gb Ethernet EHEA del kernel Linux debido a que el hardware asociado ha sido obsoleto desde 2020. Esto no es sorprendente, ya que el kernel Linux ha estado eliminando drivers de hardware…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-07-ibm-retira-el-driver-de-red-10gb-ethernet-ehea-del-kern.md"
+    },
+    {
+      "title": "ROS: una renovada documentación para mejorar la experiencia de usuario",
+      "category": "linux",
+      "date": "2026-07-07",
+      "slug": "ros-una-renovada-documentacion-para-mejorar-la-experien",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS (Robot Operating System) está a punto de alcanzar un importante hito en la mejora de su documentación. Después de meses de trabajo, se está a punto de implementar una nueva estructura de contenido y una revisión general…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-07-ros-una-renovada-documentacion-para-mejorar-la-experien.md"
+    },
+    {
       "title": "Robot Agrícola Autónomo con ROS 2 y Intel RealSense",
       "category": "robotica",
       "date": "2026-07-06",

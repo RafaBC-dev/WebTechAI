@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 06 Jul 2026 11:23:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 10:20:10 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Un rover lunar inspirado en la misión de Marte para explorar la Luna</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-un-rover-lunar-inspirado-en-la-mision-de-marte-para-exp.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-un-rover-lunar-inspirado-en-la-mision-de-marte-para-exp.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>NASA considera un proyecto para enviar un rover nuclear a la Luna como parte de sus planes para una base lunar. Este rover, llamado PROMISE, se basará en el testbed del rover Curiosity de Marte y explorará el polo sur de la Luna.</description>
+  </item>
+  <item>
+    <title>BAGEL: un visor y editor de ROS bag en el navegador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-bagel-un-visor-y-editor-de-ros-bag-en-el-navegador.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-bagel-un-visor-y-editor-de-ros-bag-en-el-navegador.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>BAGEL es una herramienta innovadora que permite visualizar y editar registros de ROS (Robot Operating System) directamente en el navegador, sin necesidad de instalar dependencias nativas o ROS. Esta herramienta ha evolucionado desde su…</description>
+  </item>
+  <item>
+    <title>Japón pierde liderazgo en robots humanoides ante la competencia china</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-japon-pierde-liderazgo-en-robots-humanoides-ante-la-com.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-japon-pierde-liderazgo-en-robots-humanoides-ante-la-com.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Japón, pionero en robots humanoides, se enfrenta a la competencia china en la creación de robots cada vez más avanzados. La situación se hizo evidente en el reciente Humanoids Summit en Tokio.</description>
+  </item>
+  <item>
+    <title>PocketMage: asistente digital personal con tecnología ESP32-S3</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-pocketmage-asistente-digital-personal-con-tecnologia-es.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-pocketmage-asistente-digital-personal-con-tecnologia-es.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto PocketMage ha lanzado una campaña de financiación en Crowd Supply con un objetivo de $100,000. Esta asistente digital personal está basada en el microcontrolador ESP32-S3 y cuenta con una pantalla E Ink de 3,1 pulgadas, una…</description>
+  </item>
+  <item>
+    <title>Mercedes-Benz lanza plataforma de desarrollo automotriz abierta</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-mercedes-benz-lanza-plataforma-de-desarrollo-automotriz.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-mercedes-benz-lanza-plataforma-de-desarrollo-automotriz.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Mercedes-Benz ha lanzado una plataforma de desarrollo automotriz abierta llamada ARDEP, que ofrece una plataforma de hardware y software para desarrollar sistemas de control de motores y otros componentes de vehículos. Esta plataforma es…</description>
+  </item>
+  <item>
+    <title>Cannón de patatas automático alimentado por cinta</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-cannon-de-patatas-automatico-alimentado-por-cinta.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-cannon-de-patatas-automatico-alimentado-por-cinta.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un inventor estadounidense ha creado un cannón de patatas que puede disparar tubérculos a alta velocidad de manera automática, alimentado por una cinta de alimentación. Este dispositivo es un ejemplo de la creatividad y la innovación en la…</description>
+  </item>
+  <item>
+    <title>Robotas con manos inteligentes: la próxima generación de robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-robotas-con-manos-inteligentes-la-proxima-generacion-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-robotas-con-manos-inteligentes-la-proxima-generacion-de.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La robótica está avanzando a pasos agigantados, y ahora podemos ver robots con manos que pueden interactuar con objetos de manera más natural. Esto cambia la forma en que los robots pueden ayudarnos en diversas tareas, desde la manufactura…</description>
+  </item>
+  <item>
+    <title>Ataque de ransomware impulsado por IA: ¿qué hay detrás de JadePuffer?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-ataque-de-ransomware-impulsado-por-ia-que-hay-detras-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-ataque-de-ransomware-impulsado-por-ia-que-hay-detras-de.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de investigación ha documentado el primer caso conocido de 'ransomware agente', un tipo de ataque de extorsión llevado a cabo por una inteligencia artificial (IA) desde principio a fin. Sin embargo, hay un detalle importante que…</description>
+  </item>
+  <item>
+    <title>Mini PC Beelink EQi Wildcat Lake: Análisis detallado de su especificación y características</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-mini-pc-beelink-eqi-wildcat-lake-analisis-detallado-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-mini-pc-beelink-eqi-wildcat-lake-analisis-detallado-de-.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El mini PC Beelink EQi Wildcat Lake es una de las últimas generaciones de dispositivos de este tipo, equipado con un procesador Intel Core 3 304 y una gran cantidad de características avanzadas. En este artículo, exploraremos en detalle…</description>
+  </item>
+  <item>
+    <title>Mejoras de rendimiento para la versión de código abierto del procesador 80386</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-mejoras-de-rendimiento-para-la-version-de-codigo-abiert.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-mejoras-de-rendimiento-para-la-version-de-codigo-abiert.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El proyecto z386 ha logrado una mejora significativa en el rendimiento de su implementación en un núcleo FPGA del procesador 80386, un clásico de la historia de la informática. Esta mejora se debe a la implementación de una función nativa…</description>
+  </item>
+  <item>
+    <title>El misterioso iomap: el corazón del kernel de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-el-misterioso-iomap-el-corazon-del-kernel-de-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-el-misterioso-iomap-el-corazon-del-kernel-de-linux.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El kernel de Linux es el núcleo de la operación de cualquier sistema basado en Linux, y su implementación de filesystems es un tema complejo. Sin embargo, hay un componente clave llamado iomap que a menudo se menciona, pero pocos saben qué…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-actualizaciones-de-seguridad-para-sistemas-operativo-23.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-actualizaciones-de-seguridad-para-sistemas-operativo-23.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las distribuciones de Linux AlmaLinux, Debian y Fedora han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes. Estas actualizaciones son importantes para garantizar la seguridad de los sistemas y…</description>
+  </item>
+  <item>
+    <title>Nick Desaulniers regresa a Google para mejorar el soporte de LLVM en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-nick-desaulniers-regresa-a-google-para-mejorar-el-sopor.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-nick-desaulniers-regresa-a-google-para-mejorar-el-sopor.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Nick Desaulniers, un destacado desarrollador de LLVM, ha regresado a Google después de un año alejado. Su regreso es importante para mejorar el soporte de LLVM en Linux, lo que permitirá a los desarrolladores aprovechar las características…</description>
+  </item>
+  <item>
+    <title>IBM retira el driver de red 10Gb Ethernet EHEA del kernel Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-ibm-retira-el-driver-de-red-10gb-ethernet-ehea-del-kern.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-ibm-retira-el-driver-de-red-10gb-ethernet-ehea-del-kern.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa IBM ha decidido retirar el driver de red 10Gb Ethernet EHEA del kernel Linux debido a que el hardware asociado ha sido obsoleto desde 2020. Esto no es sorprendente, ya que el kernel Linux ha estado eliminando drivers de hardware…</description>
+  </item>
+  <item>
+    <title>ROS: una renovada documentación para mejorar la experiencia de usuario</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-ros-una-renovada-documentacion-para-mejorar-la-experien.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-ros-una-renovada-documentacion-para-mejorar-la-experien.md</guid>
+    <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS (Robot Operating System) está a punto de alcanzar un importante hito en la mejora de su documentación. Después de meses de trabajo, se está a punto de implementar una nueva estructura de contenido y una revisión general…</description>
+  </item>
   <item>
     <title>Robot Agrícola Autónomo con ROS 2 y Intel RealSense</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-robot-agricola-autonomo-con-ros-2-y-intel-realsense.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>El driver de Uniwill para Linux está recibiendo varias mejoras importantes que afectarán a los usuarios de laptops de la marca. Entre las novedades destacan la adición de soporte para teclados con retroiluminación, la capacidad de…</description>
-  </item>
-  <item>
-    <title>Integración de ROS 2 en Rust para desarrollar clientes ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-integracion-de-ros-2-en-rust-para-desarrollar-clientes-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-integracion-de-ros-2-en-rust-para-desarrollar-clientes-.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los desarrolladores de robótica pueden ahora crear clientes ROS 2 en Rust sin necesidad de utilizar Colcon o la biblioteca ros2_rust. Esto se logra gracias a la biblioteca ros-env, que permite acceder a los mensajes ROS 2 desde cualquier…</description>
-  </item>
-  <item>
-    <title>Dashboard de telemetría en tiempo real para robots sin servidor de visualización</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-dashboard-de-telemetria-en-tiempo-real-para-robots-sin-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-dashboard-de-telemetria-en-tiempo-real-para-robots-sin-.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Si has construido una interfaz de usuario para operadores o una estación terrestre en React, sabes que la visualización de telemetría en tiempo real es un desafío. Hasta ahora, las opciones eran usar Foxglove o Grafana como infraestructura…</description>
-  </item>
-  <item>
-    <title>¿Los robots necesitan piernas? Explorando nuevas formas de movimiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-los-robots-necesitan-piernas-explorando-nuevas-formas-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-los-robots-necesitan-piernas-explorando-nuevas-formas-3.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica está evolucionando rápidamente, y los investigadores están explorando nuevas formas de movimiento para los robots. Desde robots con piernas hasta robots que pueden caminar sobre sus manos, la innovación en este campo está…</description>
-  </item>
-  <item>
-    <title>Un rover lunar inspirado en la misión Mars para la exploración de la Luna</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-un-rover-lunar-inspirado-en-la-mision-mars-para-la-expl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-05-un-rover-lunar-inspirado-en-la-mision-mars-para-la-expl.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>NASA considera un proyecto para un rover nuclear impulsado que se desplegará en el Polo Sur de la Luna como parte de sus planes de Base Lunar. Este rover, llamado PROMISE, se basa en el testbed de la misión Curiosity de Marte y podría…</description>
-  </item>
-  <item>
-    <title>BIGTREETECH Panda Sense Pro: monitoreo de calidad del aire inteligente para impresoras 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-bigtreetech-panda-sense-pro-monitoreo-de-calidad-del-ai.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-bigtreetech-panda-sense-pro-monitoreo-de-calidad-del-ai.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>BIGTREETECH ha lanzado el Panda Sense Pro, un monitoreo de calidad del aire inteligente para entornos de impresión 3D. Este dispositivo mide en tiempo real partículas, gases, temperatura y humedad, ayudando a los usuarios a monitorizar la…</description>
-  </item>
-  <item>
-    <title>Emulador de Macintosh en ESP32-P4: retrocomputación en un dispositivo portátil</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-emulador-de-macintosh-en-esp32-p4-retrocomputacion-en-u.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-emulador-de-macintosh-en-esp32-p4-retrocomputacion-en-u.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Austin McChord ha logrado emular un Macintosh en un dispositivo ESP32-P4, permitiendo a los usuarios disfrutar de la experiencia de retrocomputación en un dispositivo portátil. Esto es posible gracias a la capacidad del ESP32-P4 para…</description>
-  </item>
-  <item>
-    <title>HALO TOUCH V2: un hub USB personalizable con pantalla táctil y encoder rotativo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-halo-touch-v2-un-hub-usb-personalizable-con-pantalla-ta.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-halo-touch-v2-un-hub-usb-personalizable-con-pantalla-ta.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El HALO TOUCH V2 es un hub USB multifuncional diseñado para ser un compañero de escritorio interactivo. Combina monitoreo de sistema, reproducción de medios y características de productividad para escritorios, oficinas y configuraciones de…</description>
-  </item>
-  <item>
-    <title>ATLAS: un tricorder moderno para sobrevivir en terrenos hostiles</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-atlas-un-tricorder-moderno-para-sobrevivir-en-terreno-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-05-atlas-un-tricorder-moderno-para-sobrevivir-en-terreno-2.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El equipo de exploración y los ingenieros tienen ahora una herramienta poderosa en sus manos: ATLAS, un tricorder portátil que les permite sobrevivir en terrenos hostiles gracias a su capacidad de medir y analizar múltiples factores…</description>
-  </item>
-  <item>
-    <title>Robotas con manos artificiales: avances en robótica y seguridad humana</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-05-robotas-con-manos-artificiales-avances-en-robotica-y--3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-05-robotas-con-manos-artificiales-avances-en-robotica-y--3.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica continúa avanzando con proyectos que buscan mejorar la seguridad y la interacción entre humanos y robots. En este artículo, exploraremos algunos de los avances más interesantes en el campo de la robótica, incluyendo la creación…</description>
-  </item>
-  <item>
-    <title>Crea una casa inteligente con privacidad garantizada</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-05-crea-una-casa-inteligente-con-privacidad-garantizada-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-05-crea-una-casa-inteligente-con-privacidad-garantizada-2.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La idea de una casa inteligente ha estado presente en la sociedad desde la serie de dibujos animados 'Los Jetsons' de 1962. Sin embargo, con la creciente cantidad de dispositivos conectados a Internet, nuestra privacidad está en riesgo. Un…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de kernels estables con correcciones de seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-actualizaciones-de-kernels-estables-con-correcciones-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-actualizaciones-de-kernels-estables-con-correcciones-de.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha lanzado actualizaciones de siete kernels estables con correcciones de seguridad importantes. Estas actualizaciones afectan a usuarios de sistemas Linux y deben ser implementadas de inmediato.</description>
-  </item>
-  <item>
-    <title>Provisionamiento seguro de Raspberry Pi a gran escala</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-provisionamiento-seguro-de-raspberry-pi-a-gran-escala-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-provisionamiento-seguro-de-raspberry-pi-a-gran-escala-2.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La compañía ha lanzado una actualización importante de su software de provisionamiento seguro de Raspberry Pi, rpi-sb-provisioner, que facilita la configuración de sistemas operativos complejos y la implementación de Raspberry Pi Connect a…</description>
-  </item>
-  <item>
-    <title>Mejora significativa en la latencia de submisión de tareas en Linux DRM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-mejora-significativa-en-la-latencia-de-submision-de-tar.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-mejora-significativa-en-la-latencia-de-submision-de-tar.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los desarrolladores de Linux han presentado un conjunto de parches para mejorar la latencia de submisión de tareas en el gerente de renderizado directo (DRM). Esto es especialmente importante para sistemas sobrecargados con procesos de CPU…</description>
-  </item>
-  <item>
-    <title>Actualización de OpenRazer resuelve compatibilidad con Linux 7.2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-actualizacion-de-openrazer-resuelve-compatibilidad-con-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-actualizacion-de-openrazer-resuelve-compatibilidad-con-.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha recibido una actualización importante para OpenRazer, un conjunto de drivers para dispositivos Razer. Esta actualización resuelve problemas de compatibilidad con Linux 7.2, lo que permite a los usuarios disfrutar…</description>
-  </item>
-  <item>
-    <title>FEX 2607: Mejoras para ejecutar juegos y software x86_64 en ARM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-fex-2607-mejoras-para-ejecutar-juegos-y-software-x86-64.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-05-fex-2607-mejoras-para-ejecutar-juegos-y-software-x86-64.md</guid>
-    <pubDate>Sun, 05 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La herramienta FEX Emulator ha lanzado su versión 2607, con mejoras para ejecutar juegos y software x86_64 en sistemas ARM. Esto permitirá a los usuarios disfrutar de juegos de Windows en sus dispositivos ARM, gracias a la tecnología Steam…</description>
   </item>
 </channel>
 </rss>

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-06</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-07</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-un-rover-lunar-inspirado-en-la-mision-de-marte-para-exp.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-bagel-un-visor-y-editor-de-ros-bag-en-el-navegador.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-japon-pierde-liderazgo-en-robots-humanoides-ante-la-com.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-pocketmage-asistente-digital-personal-con-tecnologia-es.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-mercedes-benz-lanza-plataforma-de-desarrollo-automotriz.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-07-cannon-de-patatas-automatico-alimentado-por-cinta.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-robotas-con-manos-inteligentes-la-proxima-generacion-de.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-ataque-de-ransomware-impulsado-por-ia-que-hay-detras-de.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-mini-pc-beelink-eqi-wildcat-lake-analisis-detallado-de-.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-07-mejoras-de-rendimiento-para-la-version-de-codigo-abiert.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-el-misterioso-iomap-el-corazon-del-kernel-de-linux.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-actualizaciones-de-seguridad-para-sistemas-operativo-23.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-nick-desaulniers-regresa-a-google-para-mejorar-el-sopor.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-ibm-retira-el-driver-de-red-10gb-ethernet-ehea-del-kern.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-07-ros-una-renovada-documentacion-para-mejorar-la-experien.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-robot-agricola-autonomo-con-ros-2-y-intel-realsense.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-un-rover-lunar-inspirado-en-la-mision-de-marte-para-la-.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-nueva-ros-2-node-para-la-camara-hd-de-playstation-5.md</loc><lastmod>2026-07-06</lastmod><priority>0.8</priority></url>
