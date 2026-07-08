@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-07</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-08</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-japon-se-enfrenta-a-la-competencia-de-china-en-la-robot.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-un-rover-lunar-inspirado-en-la-mision-de-marte-para-e-2.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-bagel-herramienta-de-depuracion-y-visualizacion-de-dato.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-rack-de-raspberry-pi-un-sistema-de-montaje-para-cluster.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-adafruit-anuncia-nuevos-productos-y-tecnologias-en-su-n.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-un-dispositivo-de-radar-aereo-personalizado-con-esp32.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-08-zml-lanza-software-para-acelerar-la-inferencia-en-multi.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-08-meta-lanza-muse-image-un-generador-de-imagenes-con-ia-q.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-atari-jaguar-ejecuta-linux-un-logro-tecnologico-sorpren.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-actualizaciones-de-seguridad-para-sistemas-operativo-24.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-ros-documentacion-revision-importante-para-mejorar-la-e.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-amd-limpia-bugs-en-su-driver-de-graficos-linux.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-nueva-placa-de-digital-signage-con-android-14-y-procesa.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-mejoras-en-la-asignacion-de-memoria-y-actualizaciones-r.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-un-rover-lunar-inspirado-en-la-mision-de-marte-para-exp.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-bagel-un-visor-y-editor-de-ros-bag-en-el-navegador.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-japon-pierde-liderazgo-en-robots-humanoides-ante-la-com.md</loc><lastmod>2026-07-07</lastmod><priority>0.8</priority></url>

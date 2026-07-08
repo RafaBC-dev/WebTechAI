@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 07 Jul 2026 10:20:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 09:21:36 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Japón se enfrenta a la competencia de China en la robótica humana</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-japon-se-enfrenta-a-la-competencia-de-china-en-la-robot.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-japon-se-enfrenta-a-la-competencia-de-china-en-la-robot.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La industria de la robótica humana se está convirtiendo en un campo cada vez más competitivo, con China liderando la carrera y Japón luchando para mantener su posición. La reciente conferencia Humanoids Summit en Tokio mostró la brecha…</description>
+  </item>
+  <item>
+    <title>Un rover lunar inspirado en la misión de Marte para explorar el polo sur de la Luna</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-un-rover-lunar-inspirado-en-la-mision-de-marte-para-e-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-un-rover-lunar-inspirado-en-la-mision-de-marte-para-e-2.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La NASA está considerando un proyecto para un rover avanzado impulsado por un reactor nuclear que se desplegará en el polo sur de la Luna como parte de los planes de Base Lunar. Este rover, llamado PROMISE, se basará en el testbed de la…</description>
+  </item>
+  <item>
+    <title>IEEE honra a Toshio Fukuda, pionero en la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) ha reconocido a Toshio Fukuda, un destacado investigador en robótica, por sus contribuciones a la comunidad. Fukuda ha escrito más de 2.000 artículos de investigación y ha sido…</description>
+  </item>
+  <item>
+    <title>BAGEL: Herramienta de depuración y visualización de datos de robótica en el navegador</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-bagel-herramienta-de-depuracion-y-visualizacion-de-dato.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-bagel-herramienta-de-depuracion-y-visualizacion-de-dato.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>BAGEL es una herramienta de depuración y visualización de datos de robótica que permite a los desarrolladores visualizar y editar datos de sensores y actuadores en tiempo real, sin necesidad de instalar ROS o dependencias nativas.</description>
+  </item>
+  <item>
+    <title>Rack de Raspberry Pi: un sistema de montaje para clusters en racks estándar</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-rack-de-raspberry-pi-un-sistema-de-montaje-para-cluster.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-rack-de-raspberry-pi-un-sistema-de-montaje-para-cluster.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa KKSB Cases ha lanzado una serie de paneles de rack diseñados específicamente para montar clusters de Raspberry Pi en racks estándar. Estos paneles ofrecen una forma sencilla de organizar y gestionar cables en un entorno de rack.</description>
+  </item>
+  <item>
+    <title>Adafruit anuncia nuevos productos y tecnologías en su newsletter</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-adafruit-anuncia-nuevos-productos-y-tecnologias-en-su-n.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-adafruit-anuncia-nuevos-productos-y-tecnologias-en-su-n.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit, una empresa líder en tecnología de robótica y electrónica, ha lanzado su newsletter semanal, New nEw NEWS, que presenta nuevos productos, ofertas especiales y contenido original. En este artículo, exploraremos los últimos…</description>
+  </item>
+  <item>
+    <title>Un dispositivo de radar aéreo personalizado con ESP32</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-un-dispositivo-de-radar-aereo-personalizado-con-esp32.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-08-un-dispositivo-de-radar-aereo-personalizado-con-esp32.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Mateusz Juszczyk ha creado un dispositivo de radar aéreo personalizado que utiliza la tecnología ESP32 para mostrar la ubicación de aviones cercanos en tiempo real. Este dispositivo es una excelente demostración de la capacidad de la…</description>
+  </item>
+  <item>
+    <title>ZML lanza software para acelerar la inferencia en múltiples chips de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-08-zml-lanza-software-para-acelerar-la-inferencia-en-multi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-08-zml-lanza-software-para-acelerar-la-inferencia-en-multi.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa francesa ZML ha lanzado un software gratuito que permite ejecutar modelos de lenguaje grande en una variedad de chips, incluyendo Nvidia, AMD, Google y más. Esto podría romper la dominancia de Nvidia en el mercado de chips de IA…</description>
+  </item>
+  <item>
+    <title>Meta lanza Muse Image, un generador de imágenes con IA que ya genera controversia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-08-meta-lanza-muse-image-un-generador-de-imagenes-con-ia-q.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-08-meta-lanza-muse-image-un-generador-de-imagenes-con-ia-q.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Meta ha lanzado Muse Image, un generador de imágenes con inteligencia artificial que permite crear imágenes personalizadas y editar fotos de otros usuarios de Instagram sin su consentimiento. Esto ha generado preocupaciones sobre la…</description>
+  </item>
+  <item>
+    <title>Atari Jaguar ejecuta Linux: un logro tecnológico sorprendente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-atari-jaguar-ejecuta-linux-un-logro-tecnologico-sorpren.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-atari-jaguar-ejecuta-linux-un-logro-tecnologico-sorpren.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La Atari Jaguar, una consola de juegos olvidada de la década de 1990, ha sido capaz de ejecutar Linux gracias a un proyecto de hackeo. Este logro demuestra la versatilidad de la tecnología Linux y su capacidad para funcionar en…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-actualizaciones-de-seguridad-para-sistemas-operativo-24.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-actualizaciones-de-seguridad-para-sistemas-operativo-24.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las empresas Oracle y Fedora han lanzado actualizaciones de seguridad para varios paquetes de software, incluyendo el kernel, el sistema de gestión de paquetes y herramientas de seguridad. Estas actualizaciones corrigen vulnerabilidades…</description>
+  </item>
+  <item>
+    <title>ROS Documentación: Revisión Importante para Mejorar la Experiencia de los Usuarios</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-ros-documentacion-revision-importante-para-mejorar-la-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-ros-documentacion-revision-importante-para-mejorar-la-e.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS está a punto de alcanzar un hito importante en la revisión de su documentación. Después de meses de trabajo, se está a punto de implementar un nuevo diseño de información y una revisión completa de la documentación de…</description>
+  </item>
+  <item>
+    <title>AMD limpia BUG()s en su driver de gráficos Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-amd-limpia-bugs-en-su-driver-de-graficos-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-amd-limpia-bugs-en-su-driver-de-graficos-linux.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa AMD está trabajando en eliminar el uso de la macro BUG() en su driver de gráficos Linux, lo que podría evitar problemas de seguridad y mejorar la estabilidad del sistema.</description>
+  </item>
+  <item>
+    <title>Nueva placa de digital signage con Android 14 y procesador Rockchip RK3576</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-nueva-placa-de-digital-signage-con-android-14-y-procesa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-nueva-placa-de-digital-signage-con-android-14-y-procesa.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Rikomagic DS04 es una nueva placa de digital signage que ofrece una solución de bajo costo para la visualización de contenido en tiempo real. Con Android 14 y un procesador Rockchip RK3576, esta placa se destaca por su eficiencia y…</description>
+  </item>
+  <item>
+    <title>Mejoras en la asignación de memoria y actualizaciones RCU en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-mejoras-en-la-asignacion-de-memoria-y-actualizaciones-r.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-08-mejoras-en-la-asignacion-de-memoria-y-actualizaciones-r.md</guid>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Puranjay Mohan ha presentado una serie de mejoras en la asignación de memoria y actualizaciones de lectura en el sistema operativo Linux. Estas mejoras buscan mejorar la eficiencia y la estabilidad del sistema.</description>
+  </item>
   <item>
     <title>Un rover lunar inspirado en la misión de Marte para explorar la Luna</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-07-un-rover-lunar-inspirado-en-la-mision-de-marte-para-exp.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>La comunidad de ROS (Robot Operating System) está a punto de alcanzar un importante hito en la mejora de su documentación. Después de meses de trabajo, se está a punto de implementar una nueva estructura de contenido y una revisión general…</description>
-  </item>
-  <item>
-    <title>Robot Agrícola Autónomo con ROS 2 y Intel RealSense</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-robot-agricola-autonomo-con-ros-2-y-intel-realsense.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-robot-agricola-autonomo-con-ros-2-y-intel-realsense.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un ingeniero en mecánica ha desarrollado un robot agrícola autónomo utilizando ROS 2, Nav2 y Intel RealSense. Este proyecto busca integrar componentes de un sistema robótico completo en una plataforma única.</description>
-  </item>
-  <item>
-    <title>Un rover lunar inspirado en la misión de Marte para la base lunar de la NASA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-un-rover-lunar-inspirado-en-la-mision-de-marte-para-la-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-un-rover-lunar-inspirado-en-la-mision-de-marte-para-la-.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La NASA está considerando un proyecto para un rover nuclearmente alimentado que se desplegará en el polo sur de la Luna como parte de sus planes de base lunar. Este rover, llamado PROMISE, se basará en el testbed del rover Curiosity de…</description>
-  </item>
-  <item>
-    <title>Nueva ROS 2 node para la cámara HD de PlayStation 5</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-nueva-ros-2-node-para-la-camara-hd-de-playstation-5.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-nueva-ros-2-node-para-la-camara-hd-de-playstation-5.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS 2 ha recibido una noticia interesante: se ha implementado una nueva node para la cámara HD de PlayStation 5, una cámara estéreo con alta resolución y un precio asequible. Esto puede ser una excelente opción para…</description>
-  </item>
-  <item>
-    <title>¿Necesitan los robots piernas? Un debate en la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-necesitan-los-robots-piernas-un-debate-en-la-robotica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-06-necesitan-los-robots-piernas-un-debate-en-la-robotica.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica se está volviendo cada vez más sofisticada, pero ¿qué papel juegan las piernas en este proceso? En este artículo, exploraremos algunos ejemplos de robots que están desafiando la norma de tener piernas y cómo están cambiando la…</description>
-  </item>
-  <item>
-    <title>Tiny AM62L: un módulo de sistema en un paquete compacto para aplicaciones industriales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-tiny-am62l-un-modulo-de-sistema-en-un-paquete-compacto-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-tiny-am62l-un-modulo-de-sistema-en-un-paquete-compacto-.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Calixto Systems ha lanzado el AM62L STAMP SOM, un módulo de sistema en un paquete compacto de 40x40mm que integra un procesador dual-core Arm Cortex-A53 de Texas Instruments. Este módulo está diseñado para aplicaciones industriales, como…</description>
-  </item>
-  <item>
-    <title>Adafruit: Nuevos proyectos y herramientas para Raspberry Pi y CircuitPython</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-adafruit-nuevos-proyectos-y-herramientas-para-raspberry.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-adafruit-nuevos-proyectos-y-herramientas-para-raspberry.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado una serie de proyectos y herramientas interesantes para Raspberry Pi y CircuitPython. Desde una herramienta de código Morse hasta actualizaciones en el sistema de aprendizaje, hay mucho que explorar.</description>
-  </item>
-  <item>
-    <title>u-blox lanza chips GNSS de bajo consumo para dispositivos inalámbricos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-u-blox-lanza-chips-gnss-de-bajo-consumo-para-dispositiv.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-u-blox-lanza-chips-gnss-de-bajo-consumo-para-dispositiv.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>u-blox ha presentado una nueva familia de chips GNSS de bajo consumo que se destinan a dispositivos inalámbricos como telemetría de vehículos, seguimiento de activos, dispositivos de ropa, drones y otros dispositivos industriales y de…</description>
-  </item>
-  <item>
-    <title>Un cluster de 8192 microcontroladores crea un GPU personalizado</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-un-cluster-de-8192-microcontroladores-crea-un-gpu-perso.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-06-un-cluster-de-8192-microcontroladores-crea-un-gpu-perso.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha creado un sistema de GPU personalizado utilizando 8192 microcontroladores, cada uno con su propio LED RGB. Este proyecto es un ejemplo innovador de cómo se puede aprovechar la tecnología de los microcontroladores para crear…</description>
-  </item>
-  <item>
-    <title>Beelink EQi Wildcat Lake: Mini PC con Intel Core 3 304 y 15 TOPS de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-beelink-eqi-wildcat-lake-mini-pc-con-intel-core-3-304-y.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-beelink-eqi-wildcat-lake-mini-pc-con-intel-core-3-304-y.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Beelink ha lanzado el EQi Wildcat Lake, un mini PC con procesador Intel Core 3 304 y un acelerador de IA de 15 TOPS. Este dispositivo ofrece una potencia significativa para aplicaciones de inteligencia artificial y procesamiento de datos…</description>
-  </item>
-  <item>
-    <title>Robotica Autónoma con Visión y Lenguaje: un marco de trabajo innovador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-robotica-autonoma-con-vision-y-lenguaje-un-marco-de-tra.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-robotica-autonoma-con-vision-y-lenguaje-un-marco-de-tra.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica autónoma ha dado un paso importante con la creación de un marco de trabajo que combina visión, lenguaje y acción para realizar tareas complejas. Este sistema permite a los robots tomar decisiones y actuar de manera autónoma en…</description>
-  </item>
-  <item>
-    <title>Robotas con manos artificiales: el futuro de la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-robotas-con-manos-artificiales-el-futuro-de-la-roboti-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-06-robotas-con-manos-artificiales-el-futuro-de-la-roboti-2.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La robótica está avanzando a pasos agigantados, y uno de los avances más emocionantes es la creación de manos artificiales que pueden interactuar con el entorno de manera natural. Estas manos están diseñadas para ser seguras y efectivas en…</description>
-  </item>
-  <item>
-    <title>Ubuntu ARM64: un paso hacia la igualdad con las arquitecturas x86</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-ubuntu-arm64-un-paso-hacia-la-igualdad-con-las-arquitec.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-ubuntu-arm64-un-paso-hacia-la-igualdad-con-las-arquitec.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Canonical, el proveedor de Ubuntu, ha estado trabajando durante un año para hacer que Ubuntu en ARM64 sea una arquitectura de primera clase. Esto significa que los usuarios de ARM64 tendrán acceso a los mismos paquetes y funcionalidades…</description>
-  </item>
-  <item>
-    <title>Pioneer DJM-S11: mixer profesional de DJ compatible con Linux 7.3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-pioneer-djm-s11-mixer-profesional-de-dj-compatible-con-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-pioneer-djm-s11-mixer-profesional-de-dj-compatible-con-.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La empresa Pioneer ha anunciado que su mixer profesional de DJ, el DJM-S11, será compatible con Linux 7.3 gracias a un parche de código de 87 líneas. Esto permitirá a los DJs utilizar este equipo en entornos Linux, lo que es una gran…</description>
-  </item>
-  <item>
-    <title>Nuevos kernels estables para Linux con correcciones de seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-nuevos-kernels-estables-para-linux-con-correcciones-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-nuevos-kernels-estables-para-linux-con-correcciones-de-.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Greg Kroah-Hartman ha anunciado la liberación de siete kernels estables para Linux, incluyendo correcciones importantes para vulnerabilidades de seguridad. Estos kernels son una actualización esencial para garantizar la seguridad de los…</description>
-  </item>
-  <item>
-    <title>Mejoras en el driver de Uniwill para Linux 7.3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-mejoras-en-el-driver-de-uniwill-para-linux-73.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-06-mejoras-en-el-driver-de-uniwill-para-linux-73.md</guid>
-    <pubDate>Mon, 06 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El driver de Uniwill para Linux está recibiendo varias mejoras importantes que afectarán a los usuarios de laptops de la marca. Entre las novedades destacan la adición de soporte para teclados con retroiluminación, la capacidad de…</description>
   </item>
 </channel>
 </rss>

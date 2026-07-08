@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Japón se enfrenta a la competencia de China en la robótica humana",
+      "category": "robotica",
+      "date": "2026-07-08",
+      "slug": "japon-se-enfrenta-a-la-competencia-de-china-en-la-robot",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La industria de la robótica humana se está convirtiendo en un campo cada vez más competitivo, con China liderando la carrera y Japón luchando para mantener su posición. La reciente conferencia Humanoids Summit en Tokio mostró la brecha…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-08-japon-se-enfrenta-a-la-competencia-de-china-en-la-robot.md"
+    },
+    {
+      "title": "Un rover lunar inspirado en la misión de Marte para explorar el polo sur de la Luna",
+      "category": "robotica",
+      "date": "2026-07-08",
+      "slug": "un-rover-lunar-inspirado-en-la-mision-de-marte-para-e-2",
+      "tags": [
+        "robotica",
+        "espacio",
+        "nasa"
+      ],
+      "preview": "La NASA está considerando un proyecto para un rover avanzado impulsado por un reactor nuclear que se desplegará en el polo sur de la Luna como parte de los planes de Base Lunar. Este rover, llamado PROMISE, se basará en el testbed de la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-08-un-rover-lunar-inspirado-en-la-mision-de-marte-para-e-2.md"
+    },
+    {
+      "title": "IEEE honra a Toshio Fukuda, pionero en la robótica",
+      "category": "robotica",
+      "date": "2026-07-08",
+      "slug": "ieee-honra-a-toshio-fukuda-pionero-en-la-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) ha reconocido a Toshio Fukuda, un destacado investigador en robótica, por sus contribuciones a la comunidad. Fukuda ha escrito más de 2.000 artículos de investigación y ha sido…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-08-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica.md"
+    },
+    {
+      "title": "BAGEL: Herramienta de depuración y visualización de datos de robótica en el navegador",
+      "category": "robotica",
+      "date": "2026-07-08",
+      "slug": "bagel-herramienta-de-depuracion-y-visualizacion-de-dato",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "BAGEL es una herramienta de depuración y visualización de datos de robótica que permite a los desarrolladores visualizar y editar datos de sensores y actuadores en tiempo real, sin necesidad de instalar ROS o dependencias nativas.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-08-bagel-herramienta-de-depuracion-y-visualizacion-de-dato.md"
+    },
+    {
+      "title": "Rack de Raspberry Pi: un sistema de montaje para clusters en racks estándar",
+      "category": "embebidos",
+      "date": "2026-07-08",
+      "slug": "rack-de-raspberry-pi-un-sistema-de-montaje-para-cluster",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "La empresa KKSB Cases ha lanzado una serie de paneles de rack diseñados específicamente para montar clusters de Raspberry Pi en racks estándar. Estos paneles ofrecen una forma sencilla de organizar y gestionar cables en un entorno de rack.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-08-rack-de-raspberry-pi-un-sistema-de-montaje-para-cluster.md"
+    },
+    {
+      "title": "Adafruit anuncia nuevos productos y tecnologías en su newsletter",
+      "category": "embebidos",
+      "date": "2026-07-08",
+      "slug": "adafruit-anuncia-nuevos-productos-y-tecnologias-en-su-n",
+      "tags": [
+        "robotica",
+        "software y linux",
+        "diseño y hardware"
+      ],
+      "preview": "Adafruit, una empresa líder en tecnología de robótica y electrónica, ha lanzado su newsletter semanal, New nEw NEWS, que presenta nuevos productos, ofertas especiales y contenido original. En este artículo, exploraremos los últimos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-08-adafruit-anuncia-nuevos-productos-y-tecnologias-en-su-n.md"
+    },
+    {
+      "title": "Un dispositivo de radar aéreo personalizado con ESP32",
+      "category": "embebidos",
+      "date": "2026-07-08",
+      "slug": "un-dispositivo-de-radar-aereo-personalizado-con-esp32",
+      "tags": [
+        "esp32",
+        "robotica",
+        "microcontroladores"
+      ],
+      "preview": "Mateusz Juszczyk ha creado un dispositivo de radar aéreo personalizado que utiliza la tecnología ESP32 para mostrar la ubicación de aviones cercanos en tiempo real. Este dispositivo es una excelente demostración de la capacidad de la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-08-un-dispositivo-de-radar-aereo-personalizado-con-esp32.md"
+    },
+    {
+      "title": "ZML lanza software para acelerar la inferencia en múltiples chips de IA",
+      "category": "ia",
+      "date": "2026-07-08",
+      "slug": "zml-lanza-software-para-acelerar-la-inferencia-en-multi",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa francesa ZML ha lanzado un software gratuito que permite ejecutar modelos de lenguaje grande en una variedad de chips, incluyendo Nvidia, AMD, Google y más. Esto podría romper la dominancia de Nvidia en el mercado de chips de IA…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-08-zml-lanza-software-para-acelerar-la-inferencia-en-multi.md"
+    },
+    {
+      "title": "Meta lanza Muse Image, un generador de imágenes con IA que ya genera controversia",
+      "category": "ia",
+      "date": "2026-07-08",
+      "slug": "meta-lanza-muse-image-un-generador-de-imagenes-con-ia-q",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Meta ha lanzado Muse Image, un generador de imágenes con inteligencia artificial que permite crear imágenes personalizadas y editar fotos de otros usuarios de Instagram sin su consentimiento. Esto ha generado preocupaciones sobre la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-08-meta-lanza-muse-image-un-generador-de-imagenes-con-ia-q.md"
+    },
+    {
+      "title": "Atari Jaguar ejecuta Linux: un logro tecnológico sorprendente",
+      "category": "linux",
+      "date": "2026-07-08",
+      "slug": "atari-jaguar-ejecuta-linux-un-logro-tecnologico-sorpren",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La Atari Jaguar, una consola de juegos olvidada de la década de 1990, ha sido capaz de ejecutar Linux gracias a un proyecto de hackeo. Este logro demuestra la versatilidad de la tecnología Linux y su capacidad para funcionar en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-08-atari-jaguar-ejecuta-linux-un-logro-tecnologico-sorpren.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-08",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-24",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas Oracle y Fedora han lanzado actualizaciones de seguridad para varios paquetes de software, incluyendo el kernel, el sistema de gestión de paquetes y herramientas de seguridad. Estas actualizaciones corrigen vulnerabilidades…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-08-actualizaciones-de-seguridad-para-sistemas-operativo-24.md"
+    },
+    {
+      "title": "ROS Documentación: Revisión Importante para Mejorar la Experiencia de los Usuarios",
+      "category": "linux",
+      "date": "2026-07-08",
+      "slug": "ros-documentacion-revision-importante-para-mejorar-la-e",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS está a punto de alcanzar un hito importante en la revisión de su documentación. Después de meses de trabajo, se está a punto de implementar un nuevo diseño de información y una revisión completa de la documentación de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-08-ros-documentacion-revision-importante-para-mejorar-la-e.md"
+    },
+    {
+      "title": "AMD limpia BUG()s en su driver de gráficos Linux",
+      "category": "linux",
+      "date": "2026-07-08",
+      "slug": "amd-limpia-bugs-en-su-driver-de-graficos-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa AMD está trabajando en eliminar el uso de la macro BUG() en su driver de gráficos Linux, lo que podría evitar problemas de seguridad y mejorar la estabilidad del sistema.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-08-amd-limpia-bugs-en-su-driver-de-graficos-linux.md"
+    },
+    {
+      "title": "Nueva placa de digital signage con Android 14 y procesador Rockchip RK3576",
+      "category": "linux",
+      "date": "2026-07-08",
+      "slug": "nueva-placa-de-digital-signage-con-android-14-y-procesa",
+      "tags": [
+        "robotica",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "Rikomagic DS04 es una nueva placa de digital signage que ofrece una solución de bajo costo para la visualización de contenido en tiempo real. Con Android 14 y un procesador Rockchip RK3576, esta placa se destaca por su eficiencia y…",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-08-nueva-placa-de-digital-signage-con-android-14-y-procesa.md"
+    },
+    {
+      "title": "Mejoras en la asignación de memoria y actualizaciones RCU en Linux",
+      "category": "linux",
+      "date": "2026-07-08",
+      "slug": "mejoras-en-la-asignacion-de-memoria-y-actualizaciones-r",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Puranjay Mohan ha presentado una serie de mejoras en la asignación de memoria y actualizaciones de lectura en el sistema operativo Linux. Estas mejoras buscan mejorar la eficiencia y la estabilidad del sistema.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-08-mejoras-en-la-asignacion-de-memoria-y-actualizaciones-r.md"
+    },
+    {
       "title": "Un rover lunar inspirado en la misión de Marte para explorar la Luna",
       "category": "robotica",
       "date": "2026-07-07",
