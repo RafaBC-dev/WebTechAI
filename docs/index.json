@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "BAGEL: Herramienta de depuración y visualización de datos de robótica en navegador",
+      "category": "robotica",
+      "date": "2026-07-09",
+      "slug": "bagel-herramienta-de-depuracion-y-visualizacion-de-da-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "BAGEL es una herramienta en línea que permite visualizar y editar datos de robótica de manera sencilla y sin necesidad de instalaciones nativas. Ha evolucionado desde una simple herramienta de visualización hasta una herramienta de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-09-bagel-herramienta-de-depuracion-y-visualizacion-de-da-2.md"
+    },
+    {
+      "title": "IEEE honra a Toshio Fukuda, pionero en robótica",
+      "category": "robotica",
+      "date": "2026-07-09",
+      "slug": "ieee-honra-a-toshio-fukuda-pionero-en-robotica",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El Institute of Electrical and Electronics Engineers (IEEE) ha reconocido a Toshio Fukuda, un destacado experto en robótica, por su contribución a la investigación y el desarrollo en este campo. Fukuda es conocido por sus trabajos pioneros…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-09-ieee-honra-a-toshio-fukuda-pionero-en-robotica.md"
+    },
+    {
+      "title": "Japón pierde terreno en robótica humana frente a China",
+      "category": "robotica",
+      "date": "2026-07-09",
+      "slug": "japon-pierde-terreno-en-robotica-humana-frente-a-china",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Japón, pionero en robótica humana, se enfrenta a la competencia de China, que ha avanzado significativamente en este campo. La cumbre de Humanoids en Tokio reveló la brecha entre ambos países.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-09-japon-pierde-terreno-en-robotica-humana-frente-a-china.md"
+    },
+    {
+      "title": "Un rover lunar inspirado en Mars Curiosity para la base lunar de la NASA",
+      "category": "robotica",
+      "date": "2026-07-09",
+      "slug": "un-rover-lunar-inspirado-en-mars-curiosity-para-la-base",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local",
+        "esp32"
+      ],
+      "preview": "La NASA está considerando un proyecto para un rover avanzado con energía nuclear que exploraría el polo sur de la Luna como parte de sus planes para una base lunar. Este proyecto, llamado PROMISE, se basaría en el rover de prueba de la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-09-un-rover-lunar-inspirado-en-mars-curiosity-para-la-base.md"
+    },
+    {
+      "title": "Rack de Raspberry Pi: un sistema de montaje para clusters en racks estándar",
+      "category": "embebidos",
+      "date": "2026-07-09",
+      "slug": "rack-de-raspberry-pi-un-sistema-de-montaje-para-clust-2",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "KKSB Cases ha lanzado una serie de paneles de rack diseñados para clusters de Raspberry Pi en enclosures de rack estándar. Estos paneles permiten montar hasta 10 Raspberry Pi en un rack de 2U, 5 en un rack de 1U y 2 en un rack de 10…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-09-rack-de-raspberry-pi-un-sistema-de-montaje-para-clust-2.md"
+    },
+    {
+      "title": "Case de impresión 3D para el ESP32-C6 SuperMini con USB-C",
+      "category": "embebidos",
+      "date": "2026-07-09",
+      "slug": "case-de-impresion-3d-para-el-esp32-c6-supermini-con-usb",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "esp32"
+      ],
+      "preview": "Adafruit presenta una noticia emocionante para los entusiastas de la robótica y la impresión 3D. Un ingeniero ha diseñado un caso de impresión 3D para el ESP32-C6 SuperMini con USB-C, que es una excelente opción para proyectos de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-09-case-de-impresion-3d-para-el-esp32-c6-supermini-con-usb.md"
+    },
+    {
+      "title": "Sistema de persiana motorizada DIY con impresión 3D y control electrónico",
+      "category": "embebidos",
+      "date": "2026-07-09",
+      "slug": "sistema-de-persiana-motorizada-diy-con-impresion-3d-y-c",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "microcontroladores"
+      ],
+      "preview": "El proyecto DIY Motorized Roller Blind System permite a los aficionados a la electrónica y la impresión 3D crear un sistema de persiana motorizada de bajo costo y fácil de implementar. Este sistema utiliza un motor DC de 12V y una batería…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-09-sistema-de-persiana-motorizada-diy-con-impresion-3d-y-c.md"
+    },
+    {
+      "title": "ATLAS: un tricorder moderno para supervivencia en terrenos inhóspitos",
+      "category": "embebidos",
+      "date": "2026-07-09",
+      "slug": "atlas-un-tricorder-moderno-para-supervivencia-en-terren",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "ia-local"
+      ],
+      "preview": "El equipo de exploración y los ingenieros tienen una nueva herramienta de campo que les permite sobrevivir en terrenos inhóspitos. ATLAS es un tricorder portátil que combina sensores y tecnología de inteligencia artificial para…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-09-atlas-un-tricorder-moderno-para-supervivencia-en-terren.md"
+    },
+    {
+      "title": "Un conjunto de componentes 3D impresos para crear entornos industriales futuristas",
+      "category": "embebidos",
+      "date": "2026-07-09",
+      "slug": "un-conjunto-de-componentes-3d-impresos-para-crear-entor",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "robotica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado un conjunto de componentes 3D impresos llamado Sci-Fi Greebles, perfecto para crear dioramas, entornos industriales y propuestas futuristas. Estos componentes incluyen cables, tuberías, pantallas y…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-09-un-conjunto-de-componentes-3d-impresos-para-crear-entor.md"
+    },
+    {
+      "title": "SpaceXAI lanza Grok 4.5, un modelo de IA de clase Opus",
+      "category": "ia",
+      "date": "2026-07-09",
+      "slug": "spacexai-lanza-grok-45-un-modelo-de-ia-de-clase-opus",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "SpaceXAI ha lanzado su último modelo de IA, Grok 4.5, que se describe como un 'modelo de clase Opus' capaz de realizar tareas complejas y rutinarias con eficiencia y a un costo más bajo.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-09-spacexai-lanza-grok-45-un-modelo-de-ia-de-clase-opus.md"
+    },
+    {
+      "title": "Construyendo a Rocky, el robot de la película 'Proyecto Hail Mary'",
+      "category": "ia",
+      "date": "2026-07-09",
+      "slug": "construyendo-a-rocky-el-robot-de-la-pelicula-proyecto-h",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "raspberry-pi"
+      ],
+      "preview": "Un ingeniero ha creado un robot llamado Rocky, inspirado en la película 'Proyecto Hail Mary', utilizando un Raspberry Pi y tecnologías de IA. Este proyecto es un ejemplo de cómo la robótica y la IA pueden ser utilizadas para crear sistemas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-09-construyendo-a-rocky-el-robot-de-la-pelicula-proyecto-h.md"
+    },
+    {
+      "title": "Dongle USB para DECT NR+: una herramienta para desarrolladores de IoT",
+      "category": "linux",
+      "date": "2026-07-09",
+      "slug": "dongle-usb-para-dect-nr-una-herramienta-para-desarrolla",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Norik Systems ha lanzado un dongle USB basado en el nRF9151 de Nordic Semiconductor, diseñado para trabajar como nodo hijo o como gateway USB en redes DECT NR+. Esta tecnología es ideal para aplicaciones IoT de largo alcance y baja…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-09-dongle-usb-para-dect-nr-una-herramienta-para-desarrolla.md"
+    },
+    {
+      "title": "Sabotaje en OpenMandriva: repositorios dañados por contribuyente descontento",
+      "category": "linux",
+      "date": "2026-07-09",
+      "slug": "sabotaje-en-openmandriva-repositorios-danados-por-contr",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La distribución de Linux OpenMandriva ha sufrido un sabotaje en sus repositorios, causado por un contribuyente con credenciales administrativas. El incidente podría haber dañado los sistemas de usuarios que utilizan gnome o cosmic.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-09-sabotaje-en-openmandriva-repositorios-danados-por-contr.md"
+    },
+    {
+      "title": "ROS: una actualización importante en la documentación",
+      "category": "linux",
+      "date": "2026-07-09",
+      "slug": "ros-una-actualizacion-importante-en-la-documentacion",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS (Robot Operating System) está a punto de alcanzar un importante hito en la mejora de la documentación de sus proyectos. Después de meses de trabajo, se está a punto de fusionar una solicitud de cambios que reorganizará…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-09-ros-una-actualizacion-importante-en-la-documentacion.md"
+    },
+    {
+      "title": "Rikomagic DS04: un reproductor de señalización digital con Android 14",
+      "category": "linux",
+      "date": "2026-07-09",
+      "slug": "rikomagic-ds04-un-reproductor-de-senalizacion-digital-c",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "Rikomagic DS04 es un reproductor de señalización digital que ejecuta Android 14 en un procesador Rockchip RK3576. Este dispositivo es ideal para aplicaciones de señalización digital que requieren una alta calidad de imagen y una…",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-09-rikomagic-ds04-un-reproductor-de-senalizacion-digital-c.md"
+    },
+    {
       "title": "Japón se enfrenta a la competencia de China en la robótica humana",
       "category": "robotica",
       "date": "2026-07-08",

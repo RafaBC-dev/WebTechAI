@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-08</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-09</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-09-bagel-herramienta-de-depuracion-y-visualizacion-de-da-2.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-09-ieee-honra-a-toshio-fukuda-pionero-en-robotica.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-09-japon-pierde-terreno-en-robotica-humana-frente-a-china.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-09-un-rover-lunar-inspirado-en-mars-curiosity-para-la-base.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-09-rack-de-raspberry-pi-un-sistema-de-montaje-para-clust-2.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-09-case-de-impresion-3d-para-el-esp32-c6-supermini-con-usb.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-09-sistema-de-persiana-motorizada-diy-con-impresion-3d-y-c.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-09-atlas-un-tricorder-moderno-para-supervivencia-en-terren.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-09-un-conjunto-de-componentes-3d-impresos-para-crear-entor.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-09-spacexai-lanza-grok-45-un-modelo-de-ia-de-clase-opus.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-09-construyendo-a-rocky-el-robot-de-la-pelicula-proyecto-h.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-09-dongle-usb-para-dect-nr-una-herramienta-para-desarrolla.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-09-sabotaje-en-openmandriva-repositorios-danados-por-contr.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-09-ros-una-actualizacion-importante-en-la-documentacion.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-09-rikomagic-ds04-un-reproductor-de-senalizacion-digital-c.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-japon-se-enfrenta-a-la-competencia-de-china-en-la-robot.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-un-rover-lunar-inspirado-en-la-mision-de-marte-para-e-2.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-08-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica.md</loc><lastmod>2026-07-08</lastmod><priority>0.8</priority></url>
