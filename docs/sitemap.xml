@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-09</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-10-nvidia-agrega-soporte-para-su-proximo-procesador-rosa-c.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-10-robot-triage-un-herramienta-para-detectar-fallas-en-reg.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-10-el-pionero-de-la-robotica-toshio-fukuda-recibe-un-premi.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-10-un-rover-lunar-basado-en-un-rover-de-marte-para-la-base.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-10-podra-japon-recuperar-su-liderazgo-en-la-robotica-human.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-10-un-pequeno-dispositivo-de-notificacion-se-convierte-en-.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-10-makerfabs-mauwb-modulo-uwb-para-home-assistant-con-poe-.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-10-open-book-touch-un-lector-de-e-papeleria-abierto-y-sin-.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-10-openai-lanza-su-nueva-familia-de-modelos-con-gpt-56.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-10-openral-el-marco-de-trabajo-para-inteligencia-artificia.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-10-fidji-simo-abandona-su-puesto-como-numero-dos-en-openai.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-10-openai-confirma-su-modelo-gpt-56-como-preferido-para-co.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-10-dongle-usb-para-dect-nr-conectividad-5g-sin-celda.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-10-kitty-un-emulador-de-terminal-rapido-y-potente-para-lin.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-10-contadores-digitales-tres-disenos-diferentes-para-recor.md</loc><lastmod>2026-07-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-09-bagel-herramienta-de-depuracion-y-visualizacion-de-da-2.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-09-ieee-honra-a-toshio-fukuda-pionero-en-robotica.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-09-japon-pierde-terreno-en-robotica-humana-frente-a-china.md</loc><lastmod>2026-07-09</lastmod><priority>0.8</priority></url>

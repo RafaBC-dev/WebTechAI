@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "NVIDIA agrega soporte para su próximo procesador Rosa con el núcleo Rigel",
+      "category": "robotica",
+      "date": "2026-07-10",
+      "slug": "nvidia-agrega-soporte-para-su-proximo-procesador-rosa-c",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "NVIDIA ha confirmado detalles sobre su próximo procesador Rosa, que sucederá a Vera. El nuevo procesador contará con un núcleo Rigel, basado en el diseño Olympus. Esto es importante porque marca un paso importante en la integración de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-10-nvidia-agrega-soporte-para-su-proximo-procesador-rosa-c.md"
+    },
+    {
+      "title": "Robot-triage: un herramienta para detectar fallas en registros de robots",
+      "category": "robotica",
+      "date": "2026-07-10",
+      "slug": "robot-triage-un-herramienta-para-detectar-fallas-en-reg",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una herramienta llamada robot-triage que ayuda a detectar fallas en registros de robots, lo que puede ahorrar tiempo y esfuerzo en la depuración de problemas. Esta herramienta es especialmente útil para aquellos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-10-robot-triage-un-herramienta-para-detectar-fallas-en-reg.md"
+    },
+    {
+      "title": "El pionero de la robótica Toshio Fukuda recibe un premio de la IEEE",
+      "category": "robotica",
+      "date": "2026-07-10",
+      "slug": "el-pionero-de-la-robotica-toshio-fukuda-recibe-un-premi",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El profesor Toshio Fukuda, experto en robótica, ha sido galardonado con el premio Richard M. Emberson Award de la IEEE por su contribución a la robótica y la innovación en el campo de la inteligencia artificial.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-10-el-pionero-de-la-robotica-toshio-fukuda-recibe-un-premi.md"
+    },
+    {
+      "title": "Un rover lunar basado en un rover de Marte para la base lunar de la NASA",
+      "category": "robotica",
+      "date": "2026-07-10",
+      "slug": "un-rover-lunar-basado-en-un-rover-de-marte-para-la-base",
+      "tags": [
+        "robotica",
+        "espacio",
+        "linux"
+      ],
+      "preview": "La NASA está considerando un proyecto para un rover avanzado alimentado por un reactor nuclear que se desplegará en el polo sur de la Luna como parte de sus planes para una base lunar. Este rover, llamado PROMISE, se basa en el testbed del…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-10-un-rover-lunar-basado-en-un-rover-de-marte-para-la-base.md"
+    },
+    {
+      "title": "¿Podrá Japón recuperar su liderazgo en la robótica humana?",
+      "category": "robotica",
+      "date": "2026-07-10",
+      "slug": "podra-japon-recuperar-su-liderazgo-en-la-robotica-human",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Japón fue pionero en la creación de robots humanoides, pero ahora se enfrenta a la competencia de China en este campo. La cuestión es si puede recuperar su liderazgo.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-10-podra-japon-recuperar-su-liderazgo-en-la-robotica-human.md"
+    },
+    {
+      "title": "Un pequeño dispositivo de notificación se convierte en un hackeable notificador de escritorio",
+      "category": "embebidos",
+      "date": "2026-07-10",
+      "slug": "un-pequeno-dispositivo-de-notificacion-se-convierte-en-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "El GeekMagic SmallTV es un dispositivo pequeño y versátil que puede mostrar información de todo tipo, desde la hora y el clima hasta el precio actual del Bitcoin. Recientemente, un desarrollador ha creado un firmware personalizado para…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-10-un-pequeno-dispositivo-de-notificacion-se-convierte-en-.md"
+    },
+    {
+      "title": "Makerfabs MaUWB: módulo UWB para Home Assistant con PoE y carcasa",
+      "category": "embebidos",
+      "date": "2026-07-10",
+      "slug": "makerfabs-mauwb-modulo-uwb-para-home-assistant-con-poe-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Makerfabs ha lanzado el MaUWB, un módulo UWB (Ultra-Wideband) basado en ESP32-S3 que se integra con Home Assistant para crear sistemas de ubicación en tiempo real. Este módulo es ideal para aplicaciones de ubicación en interiores, como…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-10-makerfabs-mauwb-modulo-uwb-para-home-assistant-con-poe-.md"
+    },
+    {
+      "title": "Open Book Touch: un lector de e-papelería abierto y sin DRM",
+      "category": "embebidos",
+      "date": "2026-07-10",
+      "slug": "open-book-touch-un-lector-de-e-papeleria-abierto-y-sin-",
+      "tags": [
+        "esp32",
+        "arduino",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Oddly Specific Objects ha lanzado una campaña de financiación colectiva para el Open Book Touch, un lector de e-papelería con pantalla táctil y conexión WiFi. Este dispositivo es el resultado de la unión de tecnología abierta y hardware de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-10-open-book-touch-un-lector-de-e-papeleria-abierto-y-sin-.md"
+    },
+    {
+      "title": "OpenAI lanza su nueva familia de modelos con GPT-5.6",
+      "category": "ia",
+      "date": "2026-07-10",
+      "slug": "openai-lanza-su-nueva-familia-de-modelos-con-gpt-56",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "OpenAI ha presentado su nueva familia de modelos de inteligencia artificial, incluyendo GPT-5.6, que promete mejorar la eficiencia y la seguridad en diversas áreas, como la programación y la investigación científica.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-10-openai-lanza-su-nueva-familia-de-modelos-con-gpt-56.md"
+    },
+    {
+      "title": "OpenRAL: el marco de trabajo para inteligencia artificial física",
+      "category": "ia",
+      "date": "2026-07-10",
+      "slug": "openral-el-marco-de-trabajo-para-inteligencia-artificia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Después de años de desarrollo, OpenRAL ha llegado para revolucionar la robótica con un marco de trabajo para inteligencia artificial física que permite a los robots interactuar con su entorno de manera más segura y eficiente.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-10-openral-el-marco-de-trabajo-para-inteligencia-artificia.md"
+    },
+    {
+      "title": "Fidji Simo abandona su puesto como número dos en OpenAI",
+      "category": "ia",
+      "date": "2026-07-10",
+      "slug": "fidji-simo-abandona-su-puesto-como-numero-dos-en-openai",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Fidji Simo, la número dos de OpenAI, ha anunciado su decisión de dejar su puesto a tiempo completo debido a problemas de salud. Simo había sido CEO de Aplicaciones en OpenAI desde mayo de 2025 y había sido clave en la expansión de la…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-10-fidji-simo-abandona-su-puesto-como-numero-dos-en-openai.md"
+    },
+    {
+      "title": "OpenAI confirma su modelo GPT 5.6 como preferido para Copilot 365 de Microsoft",
+      "category": "ia",
+      "date": "2026-07-10",
+      "slug": "openai-confirma-su-modelo-gpt-56-como-preferido-para-co",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "OpenAI ha lanzado su modelo GPT 5.6, que se convertirá en el modelo preferido para el asistente de productividad Copilot 365 de Microsoft. Esta noticia se produce en un momento en el que se especulaba sobre una posible separación entre…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-10-openai-confirma-su-modelo-gpt-56-como-preferido-para-co.md"
+    },
+    {
+      "title": "Dongle USB para DECT NR+: conectividad 5G sin celda",
+      "category": "linux",
+      "date": "2026-07-10",
+      "slug": "dongle-usb-para-dect-nr-conectividad-5g-sin-celda",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Norik Systems ha lanzado un dongle USB basado en el nRF9151 de Nordic Semiconductor, diseñado para trabajar como nodo hijo o gateway USB en redes DECT NR+.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-10-dongle-usb-para-dect-nr-conectividad-5g-sin-celda.md"
+    },
+    {
+      "title": "Kitty: un emulador de terminal rápido y potente para Linux",
+      "category": "linux",
+      "date": "2026-07-10",
+      "slug": "kitty-un-emulador-de-terminal-rapido-y-potente-para-lin",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Kitty es un emulador de terminal que ha ganado popularidad en la comunidad de desarrolladores de Linux, gracias a su velocidad y características avanzadas. Ahora, con una nueva versión, Kitty ofrece un nivel de soporte para ratones más…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-10-kitty-un-emulador-de-terminal-rapido-y-potente-para-lin.md"
+    },
+    {
+      "title": "Contadores digitales: tres diseños diferentes para recordar lo bueno que tenemos",
+      "category": "linux",
+      "date": "2026-07-10",
+      "slug": "contadores-digitales-tres-disenos-diferentes-para-recor",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un ingeniero ha creado tres contadores digitales diferentes utilizando módulos electrónicos integrados, mostrando cómo la tecnología ha avanzado y simplificado la vida de los ingenieros de hardware.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-10-contadores-digitales-tres-disenos-diferentes-para-recor.md"
+    },
+    {
       "title": "BAGEL: Herramienta de depuración y visualización de datos de robótica en navegador",
       "category": "robotica",
       "date": "2026-07-09",
