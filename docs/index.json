@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Robótica avanza: equipos humanoides juegan fútbol y robots nadan y vuelan",
+      "category": "robotica",
+      "date": "2026-07-11",
+      "slug": "robotica-avanza-equipos-humanoides-juegan-futbol-y-robo",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "En el marco del RoboCup 2026, dos equipos humanoides de robots jugaron un partido de fútbol 11 contra 11, un logro sin precedentes en la robótica. Además, científicos han diseñado un robot que puede nadar y volar como un ave, y se ha…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-11-robotica-avanza-equipos-humanoides-juegan-futbol-y-robo.md"
+    },
+    {
+      "title": "IEEE honra a Toshio Fukuda, pionero en la robótica",
+      "category": "robotica",
+      "date": "2026-07-11",
+      "slug": "ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Toshio Fukuda, un destacado experto en robótica, ha sido galardonado con el premio Richard M. Emberson por su contribución a la tecnología. Su trabajo ha tenido un impacto significativo en el desarrollo de sistemas robóticos y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-11-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-2.md"
+    },
+    {
+      "title": "Robotas terrestres en la zona de combate: la revolución ucraniana",
+      "category": "robotica",
+      "date": "2026-07-11",
+      "slug": "robotas-terrestres-en-la-zona-de-combate-la-revolucion-",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "En la guerra ruso-ucraniana, los robots terrestres han cambiado el curso de la batalla. Los ucranianos han desarrollado robots capaces de patrullar la zona de combate sin humanos, utilizando drones y redes de sensores controladas por…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-11-robotas-terrestres-en-la-zona-de-combate-la-revolucion-.md"
+    },
+    {
+      "title": "ROSCon Global: Último día para comprar entradas con descuento",
+      "category": "robotica",
+      "date": "2026-07-11",
+      "slug": "roscon-global-ultimo-dia-para-comprar-entradas-con-desc",
+      "tags": [
+        "robotica",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "La comunidad de robótica se reúne en ROSCon Global, donde se presentarán innovaciones y herramientas para mejorar la robótica. No te pierdas la oportunidad de estar al día con las últimas tendencias en el campo.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-11-roscon-global-ultimo-dia-para-comprar-entradas-con-desc.md"
+    },
+    {
+      "title": "Mesa's Rusticl ahora soporta Arm Mali Panfrost por defecto",
+      "category": "robotica",
+      "date": "2026-07-11",
+      "slug": "mesas-rusticl-ahora-soporta-arm-mali-panfrost-por-defec",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Mesa ha logrado un avance importante en la integración de gráficos en sistemas Arm Mali. Con la actualización de Mesa 26.2, la driver Panfrost ya no requiere configuración adicional para funcionar con Rusticl.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-11-mesas-rusticl-ahora-soporta-arm-mali-panfrost-por-defec.md"
+    },
+    {
+      "title": "Herramientas en línea gratuitas para URDF y simulación de robótica",
+      "category": "diseño-3d",
+      "date": "2026-07-11",
+      "slug": "herramientas-en-linea-gratuitas-para-urdf-y-simulacion-",
+      "tags": [
+        "robotica",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Un ingeniero de robótica ha creado una suite de herramientas en línea para validar y visualizar modelos de URDF, convertir formatos y calcular parámetros de robótica. Estas herramientas están diseñadas para ser utilizadas sin necesidad de…",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-07-11-herramientas-en-linea-gratuitas-para-urdf-y-simulacion-.md"
+    },
+    {
+      "title": "Nueva placa de desarrollo ELM11-Feather con FPGA y Lua",
+      "category": "embebidos",
+      "date": "2026-07-11",
+      "slug": "nueva-placa-de-desarrollo-elm11-feather-con-fpga-y-lua",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La empresa BrisbaneSilicon ha lanzado una nueva placa de desarrollo llamada ELM11-Feather, que combina un FPGA Gowin GW1NR con la capacidad de programación en Lua. Esta placa es compatible con la forma factor Adafruit Feather y ofrece una…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-11-nueva-placa-de-desarrollo-elm11-feather-con-fpga-y-lua.md"
+    },
+    {
+      "title": "Open Book Touch: un lector de e-papelería abierto y sin DRM",
+      "category": "embebidos",
+      "date": "2026-07-11",
+      "slug": "open-book-touch-un-lector-de-e-papeleria-abierto-y-si-2",
+      "tags": [
+        "microcontroladores",
+        "software-y-linux",
+        "diseño-y-hardware"
+      ],
+      "preview": "Oddly Specific Objects ha lanzado una campaña de crowdfunding para el Open Book Touch, un lector de e-papelería con pantalla táctil y conexión WiFi. Este dispositivo abierto y sin DRM ofrece una experiencia de lectura única y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-11-open-book-touch-un-lector-de-e-papeleria-abierto-y-si-2.md"
+    },
+    {
+      "title": "M5Stack Stamp-C5: el módulo IoT más pequeño con ESP32-C5",
+      "category": "embebidos",
+      "date": "2026-07-11",
+      "slug": "m5stack-stamp-c5-el-modulo-iot-mas-pequeno-con-esp32-c5",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "esp32"
+      ],
+      "preview": "M5Stack ha lanzado el Stamp-C5, un módulo IoT extremadamente pequeño basado en el ESP32-C5, que ofrece conectividad WiFi 6, Bluetooth LE y 802.15.4, y hasta 19 pines GPIO.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-11-m5stack-stamp-c5-el-modulo-iot-mas-pequeno-con-esp32-c5.md"
+    },
+    {
+      "title": "El problema de los scrapers de datos en modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-07-11",
+      "slug": "el-problema-de-los-scrapers-de-datos-en-modelos-de-leng",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los scrapers de datos han estado causando problemas en la web desde 2025, y su impacto sigue en aumento. Estos bots están saturando sitios web con tráfico y dificultando mantener la web abierta. ¿Qué está sucediendo y qué se puede hacer al…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-11-el-problema-de-los-scrapers-de-datos-en-modelos-de-leng.md"
+    },
+    {
+      "title": "Apple demanda a OpenAI por supuesto robo de secretos comerciales",
+      "category": "ia",
+      "date": "2026-07-11",
+      "slug": "apple-demanda-a-openai-por-supuesto-robo-de-secretos-co",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Apple ha presentado una demanda contra OpenAI por acusaciones de robo de secretos comerciales y incumplimiento de contrato. La demanda se centra en la supuesta participación de la dirección de OpenAI en la extracción de información…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-11-apple-demanda-a-openai-por-supuesto-robo-de-secretos-co.md"
+    },
+    {
+      "title": "El auge de la IA abierta: Hugging Face lidera la revolución",
+      "category": "ia",
+      "date": "2026-07-11",
+      "slug": "el-auge-de-la-ia-abierta-hugging-face-lidera-la-revoluc",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La tecnología de la inteligencia artificial (IA) abierta está experimentando un auge sin precedentes, según Clem Delangue, CEO de Hugging Face. Esta empresa ha crecido hasta convertirse en algo similar a GitHub para la IA, donde…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-11-el-auge-de-la-ia-abierta-hugging-face-lidera-la-revoluc.md"
+    },
+    {
+      "title": "QBE 1.3: un compilador backend más rápido y eficiente",
+      "category": "linux",
+      "date": "2026-07-11",
+      "slug": "qbe-13-un-compilador-backend-mas-rapido-y-eficiente",
+      "tags": [
+        "codigo",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "QBE, un compilador backend desarrollado por Quentin Carbonneaux, ha lanzado su versión 1.3. Esta actualización aporta mejoras significativas en términos de rendimiento y eficiencia, convirtiéndolo en una opción atractiva para…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-11-qbe-13-un-compilador-backend-mas-rapido-y-eficiente.md"
+    },
+    {
+      "title": "Wine 11.13: Mejoras en input pointers y mapeo de teclas para X11",
+      "category": "linux",
+      "date": "2026-07-11",
+      "slug": "wine-1113-mejoras-en-input-pointers-y-mapeo-de-teclas-p",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 11.13 de Wine ha sido lanzada, ofreciendo mejoras en la compatibilidad con juegos y aplicaciones de Windows en Linux. Entre las novedades, se encuentran mejoras en la gestión de input pointers y un mejor mapeo de teclas para X11.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-11-wine-1113-mejoras-en-input-pointers-y-mapeo-de-teclas-p.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-11",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-25",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las últimas actualizaciones de seguridad para sistemas operativos como AlmaLinux, Debian, Fedora, Mageia, Slackware y SUSE incluyen parches para vulnerabilidades en paquetes como gstreamer, kernel, nginx y pam. Estas actualizaciones son…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-11-actualizaciones-de-seguridad-para-sistemas-operativo-25.md"
+    },
+    {
       "title": "NVIDIA agrega soporte para su próximo procesador Rosa con el núcleo Rigel",
       "category": "robotica",
       "date": "2026-07-10",
