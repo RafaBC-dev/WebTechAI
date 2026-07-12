@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-11</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-12</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-12</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-12-ieee-reconoce-a-toshio-fukuda-por-sus-contribuciones-a-.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-12-robotica-un-mundial-de-futbol-con-robots-humanoides.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-12-roscon-global-ultima-oportunidad-para-comprar-entradas-.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-12-robotas-de-combate-ucranianas-desempenan-un-papel-cruci.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-12-herramientas-en-linea-gratuitas-para-urdf-y-simulacio-2.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-12-nueva-placa-de-desarrollo-elm11-feather-con-fpga-y-lu-2.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-12-lectura-electronica-abierta-open-book-touch-un-e-reader.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-12-m5stack-stamp-c5-el-modulo-iot-mas-pequeno-y-potente-co.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-12-el-problema-de-los-scrapers-de-datos-de-ia-continua-cre.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-12-openai-se-enfoca-en-familias-con-chatgpt.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-12-apple-demanda-a-openai-por-supuesto-robo-de-secretos--2.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-12-mejoras-en-la-deteccion-de-pantallas-en-linux-72-rc3.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-12-convertir-una-tableta-de-2007-en-un-gamepad-de-wii-u.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-12-qbe-13-un-compilador-backend-mas-rapido-y-escalable.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-12-vehiculos-definidos-por-software-el-futuro-de-la-automo.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-11-robotica-avanza-equipos-humanoides-juegan-futbol-y-robo.md</loc><lastmod>2026-07-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-11-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-2.md</loc><lastmod>2026-07-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-11-robotas-terrestres-en-la-zona-de-combate-la-revolucion-.md</loc><lastmod>2026-07-11</lastmod><priority>0.8</priority></url>
