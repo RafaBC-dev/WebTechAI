@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-12</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-12</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-13</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-roboticos-ucranianos-patrullan-la-zona-de-combate-con-e.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-plataforma-de-robotica-movil-openamrobot-se-lanza-en-co.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-la-copa-del-mundo-de-robots-se-celebra-en-corea-del-sur.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-ieee-honra-a-toshio-fukuda-pionero-en-robotica-2.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-wismesh-station-una-gateway-de-red-de-sensores-para-ras.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-raspberry-pi-obtiene-tarjeta-de-expansion-con-ethernet-.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-la-cadena-de-newton-es-realmente-perpetua.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-el-problema-de-los-scrapers-de-datos-para-modelos-de-le.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-analisis-detallado-del-mini-pc-beelink-eqi-con-intel-co.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-apple-demanda-a-openai-por-presunta-robo-de-secretos-co.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-openai-se-enfoca-en-familias-con-chatgpt-2.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-los-origenes-de-la-inteligencia-artificial-reflexiones-.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-mejora-de-soporte-para-raspberry-pi-5-en-el-kernel-linu.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-nueva-version-de-qbe-metaprogramming-rendimiento-y-comp.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-linux-72-rc3-el-proximo-paso-hacia-la-estabilidad.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-12-ieee-reconoce-a-toshio-fukuda-por-sus-contribuciones-a-.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-12-robotica-un-mundial-de-futbol-con-robots-humanoides.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-12-roscon-global-ultima-oportunidad-para-comprar-entradas-.md</loc><lastmod>2026-07-12</lastmod><priority>0.8</priority></url>

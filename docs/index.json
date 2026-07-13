@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Robóticos ucranianos patrullan la zona de combate con éxito",
+      "category": "robotica",
+      "date": "2026-07-13",
+      "slug": "roboticos-ucranianos-patrullan-la-zona-de-combate-con-e",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "En medio de la guerra en Ucrania, los robóticos han demostrado ser una herramienta valiosa para patrullar la zona de combate y reducir el riesgo para los soldados humanos. Los vehículos aéreos no tripulados (UAV) y los vehículos terrestres…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-13-roboticos-ucranianos-patrullan-la-zona-de-combate-con-e.md"
+    },
+    {
+      "title": "Plataforma de robótica móvil OpenAMRobot se lanza en código abierto",
+      "category": "robotica",
+      "date": "2026-07-13",
+      "slug": "plataforma-de-robotica-movil-openamrobot-se-lanza-en-co",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de robótica acaba de recibir un regalo importante: OpenAMRobot, una plataforma de robótica móvil de código abierto que permite a los desarrolladores crear robots autónomos y experimentar con Inteligencia Artificial. Esta…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-13-plataforma-de-robotica-movil-openamrobot-se-lanza-en-co.md"
+    },
+    {
+      "title": "La Copa del Mundo de robots se celebra en Corea del Sur",
+      "category": "robotica",
+      "date": "2026-07-13",
+      "slug": "la-copa-del-mundo-de-robots-se-celebra-en-corea-del-sur",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "drones"
+      ],
+      "preview": "La tecnología robótica alcanza un nuevo hito con la primera Copa del Mundo de robots humanoides. Dos equipos de robots humanoides jugaron un partido de fútbol contra cada otro en Corea del Sur, marcando un hito importante en la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-13-la-copa-del-mundo-de-robots-se-celebra-en-corea-del-sur.md"
+    },
+    {
+      "title": "IEEE honra a Toshio Fukuda, pionero en robótica",
+      "category": "robotica",
+      "date": "2026-07-13",
+      "slug": "ieee-honra-a-toshio-fukuda-pionero-en-robotica-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El IEEE ha reconocido a Toshio Fukuda por su contribución destacada a la robótica, una carrera que ha marcado la historia de la tecnología. Con más de 2.000 publicaciones y varios libros sobre el tema, Fukuda es un referente en el campo.…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-13-ieee-honra-a-toshio-fukuda-pionero-en-robotica-2.md"
+    },
+    {
+      "title": "WisMesh Station: una gateway de red de sensores para Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-07-13",
+      "slug": "wismesh-station-una-gateway-de-red-de-sensores-para-ras",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "RAKwireless ha lanzado el WisMesh Station, una gateway de red de sensores basada en Raspberry Pi 4 que permite crear redes de sensores inalámbricas de larga distancia. Esta tecnología promete revolucionar la forma en que se conectan los…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-13-wismesh-station-una-gateway-de-red-de-sensores-para-ras.md"
+    },
+    {
+      "title": "Raspberry Pi obtiene tarjeta de expansión con Ethernet de pares simples",
+      "category": "embebidos",
+      "date": "2026-07-13",
+      "slug": "raspberry-pi-obtiene-tarjeta-de-expansion-con-ethernet-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Brechel Electronic ha lanzado dos nuevas tarjetas de expansión de Ethernet de pares simples para plataformas Raspberry Pi, que permiten la comunicación a 10 Mbit/s sobre un par twisted",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-13-raspberry-pi-obtiene-tarjeta-de-expansion-con-ethernet-.md"
+    },
+    {
+      "title": "¿La Cadena de Newton es realmente perpetua?",
+      "category": "embebidos",
+      "date": "2026-07-13",
+      "slug": "la-cadena-de-newton-es-realmente-perpetua",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y Linux"
+      ],
+      "preview": "Una creación de hacking ha revelado que la Cadena de Newton, un objeto de oficina popular, no es tan perpetuo como parece. Un pequeño truco electrónico hace que parezca que funciona sin ayuda.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-13-la-cadena-de-newton-es-realmente-perpetua.md"
+    },
+    {
+      "title": "El problema de los scrapers de datos para modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-07-13",
+      "slug": "el-problema-de-los-scrapers-de-datos-para-modelos-de-le",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los scrapers de datos para modelos de lenguaje han alcanzado nuevas alturas, sobrecargando sitios web con tráfico y dificultando mantener la web abierta. ¿De dónde proviene este tráfico y qué se puede hacer al respecto?",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-13-el-problema-de-los-scrapers-de-datos-para-modelos-de-le.md"
+    },
+    {
+      "title": "Análisis detallado del mini PC Beelink EQi con Intel Core 3 304",
+      "category": "ia",
+      "date": "2026-07-13",
+      "slug": "analisis-detallado-del-mini-pc-beelink-eqi-con-intel-co",
+      "tags": [
+        "ia-local",
+        "linux",
+        "robotica"
+      ],
+      "preview": "El Beelink EQi es un mini PC reciente que integra un procesador Intel Core 3 304, conocido como Wildcat Lake. En este artículo, se analiza su rendimiento y características en detalle.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-13-analisis-detallado-del-mini-pc-beelink-eqi-con-intel-co.md"
+    },
+    {
+      "title": "Apple demanda a OpenAI por presunta robo de secretos comerciales",
+      "category": "ia",
+      "date": "2026-07-13",
+      "slug": "apple-demanda-a-openai-por-presunta-robo-de-secretos-co",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Apple ha presentado una demanda contra OpenAI por acusaciones de robo de secretos comerciales y incumplimiento de contrato. La demanda se centra en la supuesta utilización de información confidencial de Apple por parte de OpenAI,…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-13-apple-demanda-a-openai-por-presunta-robo-de-secretos-co.md"
+    },
+    {
+      "title": "OpenAI se enfoca en familias con ChatGPT",
+      "category": "ia",
+      "date": "2026-07-13",
+      "slug": "openai-se-enfoca-en-familias-con-chatgpt-2",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "OpenAI está ampliando su enfoque en generación de contenido inteligente para incluir a las familias y cuidadores. Esto se debe a que la audiencia de ChatGPT está creciendo rápidamente entre adultos mayores y padres.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-13-openai-se-enfoca-en-familias-con-chatgpt-2.md"
+    },
+    {
+      "title": "Los orígenes de la Inteligencia Artificial: reflexiones de 1964",
+      "category": "ia",
+      "date": "2026-07-13",
+      "slug": "los-origenes-de-la-inteligencia-artificial-reflexiones-",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "codigo"
+      ],
+      "preview": "En 1964, el matemático Irving John Good publicó un artículo que podría haber sido escrito hoy en día. En él, predijo la creación de una máquina ultrainteligente que podría cambiar el curso de la historia. Aunque no se ha logrado aún, sus…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-13-los-origenes-de-la-inteligencia-artificial-reflexiones-.md"
+    },
+    {
+      "title": "Mejora de soporte para Raspberry Pi 5 en el kernel Linux",
+      "category": "linux",
+      "date": "2026-07-13",
+      "slug": "mejora-de-soporte-para-raspberry-pi-5-en-el-kernel-linu",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "Después de más de dos años y medio desde su lanzamiento, el soporte para el Raspberry Pi 5 en el kernel Linux sigue mejorando. La última noticia es que se está trabajando en la integración del driver IOMMU para este dispositivo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-13-mejora-de-soporte-para-raspberry-pi-5-en-el-kernel-linu.md"
+    },
+    {
+      "title": "Nueva versión de QBE: metaprogramming, rendimiento y compatibilidad cruzada",
+      "category": "linux",
+      "date": "2026-07-13",
+      "slug": "nueva-version-de-qbe-metaprogramming-rendimiento-y-comp",
+      "tags": [
+        "codigo",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "QBE es un backend compacto de compilador desarrollado por Quentin Carbonneaux, una alternativa ligera a backend de compilador más grandes como LLVM y GCC. Ahora ha lanzado una nueva versión con mejoras significativas.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-13-nueva-version-de-qbe-metaprogramming-rendimiento-y-comp.md"
+    },
+    {
+      "title": "Linux 7.2-rc3: el próximo paso hacia la estabilidad",
+      "category": "linux",
+      "date": "2026-07-13",
+      "slug": "linux-72-rc3-el-proximo-paso-hacia-la-estabilidad",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2-rc3 de Linux está disponible para su prueba y mejora, con cambios significativos en el soporte para RISC-V, correcciones en el driver de Dreamcast y mejoras en la detección de pantallas. Esto es un paso importante hacia la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-13-linux-72-rc3-el-proximo-paso-hacia-la-estabilidad.md"
+    },
+    {
       "title": "IEEE Reconoce a Toshio Fukuda por sus Contribuciones a la Robótica",
       "category": "robotica",
       "date": "2026-07-12",
