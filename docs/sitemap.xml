@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-13</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-13</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-14</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-gazebo-pmc-reunion-semanal-sobre-el-futuro-de-la-roboti.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-linkforge-una-representacion-intermedia-para-describir-.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-plataforma-de-robotica-movil-abierta-y-gratuita-para-ed.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-robotas-de-combate-patrullan-la-zona-de-combate-en-ucra.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-3.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-la-copa-mundial-de-robotica-un-paso-hacia-la-realidad.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-moddo-pinch-el-tablero-de-arduino-mas-pequeno-del-mundo.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-iotlabs-wm-bus-gateway-un-dispositivo-para-home-assista.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-procesador-gpx10-pro-ai-en-dispositivos-embebidos-con-b.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-14-la-logica-de-star-trek-se-vuelve-realidad-en-los-modelo.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-14-pixverse-startup-de-video-generacion-recauda-439-millon.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-actualizaciones-de-seguridad-para-sistemas-operativo-26.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-mejoras-en-el-manejo-de-dispositivos-de-intercambio-en-.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-freebsd-desktop-installer-avances-en-la-integracion-de-.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-protegiendo-kernels-contra-exploits-con-bpf-una-tecnica.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-roboticos-ucranianos-patrullan-la-zona-de-combate-con-e.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-plataforma-de-robotica-movil-openamrobot-se-lanza-en-co.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-la-copa-del-mundo-de-robots-se-celebra-en-corea-del-sur.md</loc><lastmod>2026-07-13</lastmod><priority>0.8</priority></url>

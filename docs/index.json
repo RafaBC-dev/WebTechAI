@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Gazebo PMC: Reunión semanal sobre el futuro de la robótica",
+      "category": "robotica",
+      "date": "2026-07-14",
+      "slug": "gazebo-pmc-reunion-semanal-sobre-el-futuro-de-la-roboti",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Gazebo se reunió esta semana para discutir los próximos pasos en el desarrollo de este framework de robótica. Entre los temas destacados se encuentran la planificación de ROSCon 2026 y la mejora de la infraestructura de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-14-gazebo-pmc-reunion-semanal-sobre-el-futuro-de-la-roboti.md"
+    },
+    {
+      "title": "LinkForge: una representación intermedia para describir robots de manera programática",
+      "category": "robotica",
+      "date": "2026-07-14",
+      "slug": "linkforge-una-representacion-intermedia-para-describir-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "LinkForge, una herramienta desarrollada por un colaborador de ROS, ha superado los 5.000 descargas en la plataforma de extensiones de Blender. Su creador ahora busca entender si la comunidad de ROS necesita una representación intermedia…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-14-linkforge-una-representacion-intermedia-para-describir-.md"
+    },
+    {
+      "title": "Plataforma de robótica móvil abierta y gratuita para educación y experimentación",
+      "category": "robotica",
+      "date": "2026-07-14",
+      "slug": "plataforma-de-robotica-movil-abierta-y-gratuita-para-ed",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica móvil ha recibido una noticia emocionante: la liberación de OpenAMRobot, una plataforma de robótica móvil abierta y gratuita que permite a los desarrolladores crear y experimentar con robots móviles de manera…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-14-plataforma-de-robotica-movil-abierta-y-gratuita-para-ed.md"
+    },
+    {
+      "title": "Robotas de combate patrullan la zona de combate en Ucrania",
+      "category": "robotica",
+      "date": "2026-07-14",
+      "slug": "robotas-de-combate-patrullan-la-zona-de-combate-en-ucra",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Las fuerzas armadas ucranianas han desarrollado una legión de robots de combate que patrullan la zona de combate, reduciendo la presencia humana en la línea del frente. Estos robots, diseñados para ser casi inaudibles y con capacidad de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-14-robotas-de-combate-patrullan-la-zona-de-combate-en-ucra.md"
+    },
+    {
+      "title": "IEEE honra a Toshio Fukuda, pionero en la robótica",
+      "category": "robotica",
+      "date": "2026-07-14",
+      "slug": "ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Toshio Fukuda, un destacado investigador en robótica, ha sido galardonado con el premio Richard M. Emberson de la IEEE. Su trabajo pionero en sistemas robóticos biomédicos, industriales y de micro-nano ha tenido un impacto significativo en…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-14-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-3.md"
+    },
+    {
+      "title": "La Copa Mundial de Robótica: un paso hacia la realidad",
+      "category": "robotica",
+      "date": "2026-07-14",
+      "slug": "la-copa-mundial-de-robotica-un-paso-hacia-la-realidad",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "En la última semana, se ha celebrado la Copa Mundial de Robótica en Incheon, Corea del Sur, donde dos equipos de robots humanoides han jugado un partido de fútbol contra otros dos equipos. Este evento marca un importante hito en la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-14-la-copa-mundial-de-robotica-un-paso-hacia-la-realidad.md"
+    },
+    {
+      "title": "Moddo Pinch: el tablero de Arduino más pequeño del mundo",
+      "category": "embebidos",
+      "date": "2026-07-14",
+      "slug": "moddo-pinch-el-tablero-de-arduino-mas-pequeno-del-mundo",
+      "tags": [
+        "arduino",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "La empresa canadiense Moddo ha lanzado el Pinch, un tablero de Arduino compatible que mide solo 10.9 x 10.5 mm y es el más pequeño del mundo en su categoría.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-14-moddo-pinch-el-tablero-de-arduino-mas-pequeno-del-mundo.md"
+    },
+    {
+      "title": "IoTLabs wM-Bus Gateway: un dispositivo para Home Assistant con conectividad inalámbrica",
+      "category": "embebidos",
+      "date": "2026-07-14",
+      "slug": "iotlabs-wm-bus-gateway-un-dispositivo-para-home-assista",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "IoTLabs ha lanzado un dispositivo llamado wM-Bus Gateway, que permite a los usuarios de Home Assistant conectar dispositivos de medición y sensores inalámbricos a su sistema de automatización doméstica. Este dispositivo es especialmente…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-14-iotlabs-wm-bus-gateway-un-dispositivo-para-home-assista.md"
+    },
+    {
+      "title": "Procesador GPX10 Pro: AI en dispositivos embebidos con batería de moneda",
+      "category": "embebidos",
+      "date": "2026-07-14",
+      "slug": "procesador-gpx10-pro-ai-en-dispositivos-embebidos-con-b",
+      "tags": [
+        "ia-local",
+        "embebidos",
+        "microcontroladores"
+      ],
+      "preview": "Ambient Scientific ha lanzado el GPX10 Pro, un procesador/microcontrolador diseñado para aplicaciones de IA en dispositivos embebidos con restricciones de energía. Este dispositivo puede funcionar durante años con una sola batería de…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-14-procesador-gpx10-pro-ai-en-dispositivos-embebidos-con-b.md"
+    },
+    {
+      "title": "La lógica de Star Trek se vuelve realidad en los modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-07-14",
+      "slug": "la-logica-de-star-trek-se-vuelve-realidad-en-los-modelo",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Los modelos de lenguaje pueden ser vulnerables a ataques de inyección de promp, que pueden hacer que estos modelos se atasquen y consuman muchos recursos. Esto podría llevar a ataques DDoS a servidores de LLM.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-14-la-logica-de-star-trek-se-vuelve-realidad-en-los-modelo.md"
+    },
+    {
+      "title": "PixVerse, startup de video-generación, recauda 439 millones de dólares",
+      "category": "ia",
+      "date": "2026-07-14",
+      "slug": "pixverse-startup-de-video-generacion-recauda-439-millon",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La startup de video-generación PixVerse ha cerrado una ronda de financiación de 439 millones de dólares, lo que eleva su valoración a más de 2 mil millones de dólares. Esta inversión permitirá a la empresa expandir su modelo de mundo y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-14-pixverse-startup-de-video-generacion-recauda-439-millon.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-14",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-26",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las distribuciones Linux Debian, Fedora y Mageia han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes. Estas actualizaciones son importantes para garantizar la seguridad de los sistemas y evitar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-14-actualizaciones-de-seguridad-para-sistemas-operativo-26.md"
+    },
+    {
+      "title": "Mejoras en el manejo de dispositivos de intercambio en Linux",
+      "category": "linux",
+      "date": "2026-07-14",
+      "slug": "mejoras-en-el-manejo-de-dispositivos-de-intercambio-en-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Un conjunto de parches recientes para el núcleo de Linux busca mejorar la gestión de dispositivos de intercambio múltiples en sistemas Linux, especialmente en entornos de servidor complejos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-14-mejoras-en-el-manejo-de-dispositivos-de-intercambio-en-.md"
+    },
+    {
+      "title": "FreeBSD Desktop Installer: avances en la integración de NVIDIA",
+      "category": "linux",
+      "date": "2026-07-14",
+      "slug": "freebsd-desktop-installer-avances-en-la-integracion-de-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto de FreeBSD Desktop Installer ha alcanzado un nuevo hito en su camino hacia la estabilidad. Después de trabajar en la detección automática de GPU Intel y AMD, los desarrolladores han centrado su atención en la integración de…",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-14-freebsd-desktop-installer-avances-en-la-integracion-de-.md"
+    },
+    {
+      "title": "Protegiendo kernels contra exploits con BPF: una técnica innovadora",
+      "category": "linux",
+      "date": "2026-07-14",
+      "slug": "protegiendo-kernels-contra-exploits-con-bpf-una-tecnica",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Cisco enfrenta desafíos únicos al aplicar parches de seguridad en sus dispositivos con kernels personalizados. Un especialista en Linux presentó una técnica que reduce significativamente el tiempo para responder a vulnerabilidades en el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-14-protegiendo-kernels-contra-exploits-con-bpf-una-tecnica.md"
+    },
+    {
       "title": "Robóticos ucranianos patrullan la zona de combate con éxito",
       "category": "robotica",
       "date": "2026-07-13",
