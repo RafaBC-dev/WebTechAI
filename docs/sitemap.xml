@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-14</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-14</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-15</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-15</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-robotica-dos-equipos-de-robots-humanoides-juegan-un-par.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-ros2-ddsconfig-optimizer-ahora-admite-cyclone-dds.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-roboticas-ucranianas-patrullan-la-zona-de-combate-con-e.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-15-forgix-una-placa-de-desarrollo-con-rp2354-y-fpga-trion-.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-15-descuentos-en-pcba-aivon-ofrece-precios-reducidos-y-env.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-convocatoria-para-propuestas-de-temas-para-el-summit-de.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-openai-lanza-su-primer-dispositivo-de-hardware-un-habla.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-asus-y-la-puntuacion-de-reparabilidad-que-significa-y-c.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-ros-pmc-resumen-de-la-reunion-semanal-de-ros-2.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-soporte-para-npu-rk3576-en-linux-un-avance-importante-e.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-apple-m1m2-con-asahi-linux-y-rusticl-primera-implementa.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-el-nacimiento-y-resurreccion-de-linuxorg-la-historia-de.md</loc><lastmod>2026-07-15</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-gazebo-pmc-reunion-semanal-sobre-el-futuro-de-la-roboti.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-linkforge-una-representacion-intermedia-para-describir-.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-plataforma-de-robotica-movil-abierta-y-gratuita-para-ed.md</loc><lastmod>2026-07-14</lastmod><priority>0.8</priority></url>

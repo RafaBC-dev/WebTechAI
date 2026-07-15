@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 14 Jul 2026 09:00:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 09:06:45 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Robótica: dos equipos de robots humanoides juegan un partido de fútbol</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-robotica-dos-equipos-de-robots-humanoides-juegan-un-par.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-robotica-dos-equipos-de-robots-humanoides-juegan-un-par.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En un hito histórico, dos equipos de robots humanoides han jugado un partido de fútbol completo contra cada otro en la RoboCup 2026 en Incheon, Corea del Sur. Este logro marca un avance significativo en la investigación de la robótica y la…</description>
+  </item>
+  <item>
+    <title>ROS2-DDSConfig-Optimizer ahora admite Cyclone DDS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-ros2-ddsconfig-optimizer-ahora-admite-cyclone-dds.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-ros2-ddsconfig-optimizer-ahora-admite-cyclone-dds.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La herramienta ROS2-DDSConfig-Optimizer, impulsada por IA, ha sido actualizada para soportar Cyclone DDS, lo que mejora la configuración de DDS para aplicaciones ROS2. Esto aporta una mayor eficiencia y escalabilidad a los sistemas de…</description>
+  </item>
+  <item>
+    <title>Robóticas ucranianas patrullan la zona de combate con éxito</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-roboticas-ucranianas-patrullan-la-zona-de-combate-con-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-roboticas-ucranianas-patrullan-la-zona-de-combate-con-e.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La guerra en Ucrania ha visto un avance significativo en la utilización de robots en la zona de combate. Los vehículos terrestres controlados a distancia, equipados con ametralladoras y lanzagranadas, han demostrado ser efectivos en la…</description>
+  </item>
+  <item>
+    <title>Forgix: una placa de desarrollo con RP2354 y FPGA Trion T8 en formato Teensy</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-15-forgix-una-placa-de-desarrollo-con-rp2354-y-fpga-trion-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-15-forgix-una-placa-de-desarrollo-con-rp2354-y-fpga-trion-.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adiuvo Engineering ha lanzado la placa de desarrollo Forgix, que combina un microcontrolador Raspberry Pi RP2354 con un FPGA Efinix Trion T8 en el formato Teensy 4.0. Esta placa es única y ofrece una gran cantidad de interfaces y recursos…</description>
+  </item>
+  <item>
+    <title>Descuentos en PCBA: AIVON ofrece precios reducidos y envío gratuito</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-15-descuentos-en-pcba-aivon-ofrece-precios-reducidos-y-env.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-15-descuentos-en-pcba-aivon-ofrece-precios-reducidos-y-env.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>AIVON, un fabricante de PCB confiable, lanza ofertas mensuales de PCBA con precios reducidos y envío gratuito para apoyar a ingenieros, startups y empresas electrónicas.</description>
+  </item>
+  <item>
+    <title>Convocatoria para propuestas de temas para el Summit de Mantenedores 2026</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-convocatoria-para-propuestas-de-temas-para-el-summit-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-convocatoria-para-propuestas-de-temas-para-el-summit-de.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de desarrolladores y mantenedores de kernel se reúne anualmente en el Summit de Mantenedores para discutir problemas de proceso de desarrollo. Esta vez, la convocatoria para propuestas de temas ya está abierta.</description>
+  </item>
+  <item>
+    <title>Unidad de robotica para hogares: tecnología embajada y aprendizaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa X Square Robot busca crear robots capaces de aprender y adaptarse a diferentes situaciones en el hogar. Para lograr esto, han desarrollado un stack de tecnología que integra percepción, planificación y control.</description>
+  </item>
+  <item>
+    <title>OpenAI lanza su primer dispositivo de hardware: un hablante inteligente sin pantalla</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-openai-lanza-su-primer-dispositivo-de-hardware-un-habla.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-openai-lanza-su-primer-dispositivo-de-hardware-un-habla.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI, el creador de ChatGPT, está desarrollando un hablante inteligente sin pantalla que puede moverse y aprender sobre sus dueños. Este dispositivo podría ser un competidor importante para Apple y otros fabricantes de dispositivos…</description>
+  </item>
+  <item>
+    <title>Asus y la puntuación de reparabilidad: ¿qué significa y cómo funciona?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-asus-y-la-puntuacion-de-reparabilidad-que-significa-y-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-asus-y-la-puntuacion-de-reparabilidad-que-significa-y-c.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Asus ha anunciado que su tableta-laptop híbrida ROG Flow Z13 ha obtenido una puntuación de reparabilidad perfecta de 10/10 según el sistema francés. Pero ¿qué significa esto y cómo se calcula?</description>
+  </item>
+  <item>
+    <title>Nueva startup de OpenAI para descubrir fármacos con IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Miles Wang, investigador de OpenAI, deja la empresa para lanzar una startup que utilizará la inteligencia artificial para acelerar la descubierta de fármacos. La nueva empresa podría valer 2 mil millones de dólares y ha generado interés…</description>
+  </item>
+  <item>
+    <title>Eliminando la vulnerabilidad en Tetragon: envío directo de paquetes desde BPF</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Tetragon, una herramienta de monitoreo de seguridad basada en BPF, ha sido vulnerable a ataques que eliminan su agente de usuario. Ahora, un equipo de investigadores ha encontrado una forma de eliminar esta vulnerabilidad, permitiendo que…</description>
+  </item>
+  <item>
+    <title>ROS PMC: Resumen de la reunión semanal de ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-ros-pmc-resumen-de-la-reunion-semanal-de-ros-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-ros-pmc-resumen-de-la-reunion-semanal-de-ros-2.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS 2 se reunió el martes para discutir el estado del proyecto y resolver problemas. La reunión incluyó actualizaciones sobre la buildfarm, el waffle y la gestión de releases.</description>
+  </item>
+  <item>
+    <title>Soporte para NPU RK3576 en Linux: un avance importante en la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-soporte-para-npu-rk3576-en-linux-un-avance-importante-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-soporte-para-npu-rk3576-en-linux-un-avance-importante-e.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El equipo de desarrollo de Linux ha logrado agregar soporte para el procesador de aprendizaje automático (NPU) RK3576 de Rockchip, lo que abre nuevas posibilidades para la robótica y la IA en dispositivos embebidos.</description>
+  </item>
+  <item>
+    <title>Apple M1/M2 con Asahi Linux y Rusticl: Primera implementación conformante de OpenCL 3.1</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-apple-m1m2-con-asahi-linux-y-rusticl-primera-implementa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-apple-m1m2-con-asahi-linux-y-rusticl-primera-implementa.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha logrado una gran hazaña: la primera implementación conformante de OpenCL 3.1 se ha logrado en Apple Silicon M1/M2 con Asahi Linux y el driver Rusticl. Esto significa que se ha demostrado la capacidad de ejecutar…</description>
+  </item>
+  <item>
+    <title>El nacimiento y resurrección de Linux.org: la historia detrás de un sitio web clave</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-el-nacimiento-y-resurreccion-de-linuxorg-la-historia-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-el-nacimiento-y-resurreccion-de-linuxorg-la-historia-de.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>En 1994, Linux era una tecnología en crecimiento y no había recursos para aprender sobre ella. Michael McLagan creó linux.org para llenar ese vacío, pero el sitio web desapareció con el tiempo. Ahora, Rob Kennedy ha compartido la historia…</description>
+  </item>
   <item>
     <title>Gazebo PMC: Reunión semanal sobre el futuro de la robótica</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-gazebo-pmc-reunion-semanal-sobre-el-futuro-de-la-roboti.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Cisco enfrenta desafíos únicos al aplicar parches de seguridad en sus dispositivos con kernels personalizados. Un especialista en Linux presentó una técnica que reduce significativamente el tiempo para responder a vulnerabilidades en el…</description>
-  </item>
-  <item>
-    <title>Robóticos ucranianos patrullan la zona de combate con éxito</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-roboticos-ucranianos-patrullan-la-zona-de-combate-con-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-roboticos-ucranianos-patrullan-la-zona-de-combate-con-e.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En medio de la guerra en Ucrania, los robóticos han demostrado ser una herramienta valiosa para patrullar la zona de combate y reducir el riesgo para los soldados humanos. Los vehículos aéreos no tripulados (UAV) y los vehículos terrestres…</description>
-  </item>
-  <item>
-    <title>Plataforma de robótica móvil OpenAMRobot se lanza en código abierto</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-plataforma-de-robotica-movil-openamrobot-se-lanza-en-co.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-plataforma-de-robotica-movil-openamrobot-se-lanza-en-co.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de robótica acaba de recibir un regalo importante: OpenAMRobot, una plataforma de robótica móvil de código abierto que permite a los desarrolladores crear robots autónomos y experimentar con Inteligencia Artificial. Esta…</description>
-  </item>
-  <item>
-    <title>La Copa del Mundo de robots se celebra en Corea del Sur</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-la-copa-del-mundo-de-robots-se-celebra-en-corea-del-sur.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-la-copa-del-mundo-de-robots-se-celebra-en-corea-del-sur.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La tecnología robótica alcanza un nuevo hito con la primera Copa del Mundo de robots humanoides. Dos equipos de robots humanoides jugaron un partido de fútbol contra cada otro en Corea del Sur, marcando un hito importante en la…</description>
-  </item>
-  <item>
-    <title>IEEE honra a Toshio Fukuda, pionero en robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-ieee-honra-a-toshio-fukuda-pionero-en-robotica-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-13-ieee-honra-a-toshio-fukuda-pionero-en-robotica-2.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El IEEE ha reconocido a Toshio Fukuda por su contribución destacada a la robótica, una carrera que ha marcado la historia de la tecnología. Con más de 2.000 publicaciones y varios libros sobre el tema, Fukuda es un referente en el campo.…</description>
-  </item>
-  <item>
-    <title>WisMesh Station: una gateway de red de sensores para Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-wismesh-station-una-gateway-de-red-de-sensores-para-ras.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-wismesh-station-una-gateway-de-red-de-sensores-para-ras.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>RAKwireless ha lanzado el WisMesh Station, una gateway de red de sensores basada en Raspberry Pi 4 que permite crear redes de sensores inalámbricas de larga distancia. Esta tecnología promete revolucionar la forma en que se conectan los…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi obtiene tarjeta de expansión con Ethernet de pares simples</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-raspberry-pi-obtiene-tarjeta-de-expansion-con-ethernet-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-raspberry-pi-obtiene-tarjeta-de-expansion-con-ethernet-.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Brechel Electronic ha lanzado dos nuevas tarjetas de expansión de Ethernet de pares simples para plataformas Raspberry Pi, que permiten la comunicación a 10 Mbit/s sobre un par twisted</description>
-  </item>
-  <item>
-    <title>¿La Cadena de Newton es realmente perpetua?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-la-cadena-de-newton-es-realmente-perpetua.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-13-la-cadena-de-newton-es-realmente-perpetua.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Una creación de hacking ha revelado que la Cadena de Newton, un objeto de oficina popular, no es tan perpetuo como parece. Un pequeño truco electrónico hace que parezca que funciona sin ayuda.</description>
-  </item>
-  <item>
-    <title>El problema de los scrapers de datos para modelos de lenguaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-el-problema-de-los-scrapers-de-datos-para-modelos-de-le.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-el-problema-de-los-scrapers-de-datos-para-modelos-de-le.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los scrapers de datos para modelos de lenguaje han alcanzado nuevas alturas, sobrecargando sitios web con tráfico y dificultando mantener la web abierta. ¿De dónde proviene este tráfico y qué se puede hacer al respecto?</description>
-  </item>
-  <item>
-    <title>Análisis detallado del mini PC Beelink EQi con Intel Core 3 304</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-analisis-detallado-del-mini-pc-beelink-eqi-con-intel-co.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-analisis-detallado-del-mini-pc-beelink-eqi-con-intel-co.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El Beelink EQi es un mini PC reciente que integra un procesador Intel Core 3 304, conocido como Wildcat Lake. En este artículo, se analiza su rendimiento y características en detalle.</description>
-  </item>
-  <item>
-    <title>Apple demanda a OpenAI por presunta robo de secretos comerciales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-apple-demanda-a-openai-por-presunta-robo-de-secretos-co.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-apple-demanda-a-openai-por-presunta-robo-de-secretos-co.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Apple ha presentado una demanda contra OpenAI por acusaciones de robo de secretos comerciales y incumplimiento de contrato. La demanda se centra en la supuesta utilización de información confidencial de Apple por parte de OpenAI,…</description>
-  </item>
-  <item>
-    <title>OpenAI se enfoca en familias con ChatGPT</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-openai-se-enfoca-en-familias-con-chatgpt-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-openai-se-enfoca-en-familias-con-chatgpt-2.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI está ampliando su enfoque en generación de contenido inteligente para incluir a las familias y cuidadores. Esto se debe a que la audiencia de ChatGPT está creciendo rápidamente entre adultos mayores y padres.</description>
-  </item>
-  <item>
-    <title>Los orígenes de la Inteligencia Artificial: reflexiones de 1964</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-los-origenes-de-la-inteligencia-artificial-reflexiones-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-13-los-origenes-de-la-inteligencia-artificial-reflexiones-.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>En 1964, el matemático Irving John Good publicó un artículo que podría haber sido escrito hoy en día. En él, predijo la creación de una máquina ultrainteligente que podría cambiar el curso de la historia. Aunque no se ha logrado aún, sus…</description>
-  </item>
-  <item>
-    <title>Mejora de soporte para Raspberry Pi 5 en el kernel Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-mejora-de-soporte-para-raspberry-pi-5-en-el-kernel-linu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-mejora-de-soporte-para-raspberry-pi-5-en-el-kernel-linu.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Después de más de dos años y medio desde su lanzamiento, el soporte para el Raspberry Pi 5 en el kernel Linux sigue mejorando. La última noticia es que se está trabajando en la integración del driver IOMMU para este dispositivo.</description>
-  </item>
-  <item>
-    <title>Nueva versión de QBE: metaprogramming, rendimiento y compatibilidad cruzada</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-nueva-version-de-qbe-metaprogramming-rendimiento-y-comp.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-nueva-version-de-qbe-metaprogramming-rendimiento-y-comp.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>QBE es un backend compacto de compilador desarrollado por Quentin Carbonneaux, una alternativa ligera a backend de compilador más grandes como LLVM y GCC. Ahora ha lanzado una nueva versión con mejoras significativas.</description>
-  </item>
-  <item>
-    <title>Linux 7.2-rc3: el próximo paso hacia la estabilidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-linux-72-rc3-el-proximo-paso-hacia-la-estabilidad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-13-linux-72-rc3-el-proximo-paso-hacia-la-estabilidad.md</guid>
-    <pubDate>Mon, 13 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.2-rc3 de Linux está disponible para su prueba y mejora, con cambios significativos en el soporte para RISC-V, correcciones en el driver de Dreamcast y mejoras en la detección de pantallas. Esto es un paso importante hacia la…</description>
   </item>
 </channel>
 </rss>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Robótica: dos equipos de robots humanoides juegan un partido de fútbol",
+      "category": "robotica",
+      "date": "2026-07-15",
+      "slug": "robotica-dos-equipos-de-robots-humanoides-juegan-un-par",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "drones"
+      ],
+      "preview": "En un hito histórico, dos equipos de robots humanoides han jugado un partido de fútbol completo contra cada otro en la RoboCup 2026 en Incheon, Corea del Sur. Este logro marca un avance significativo en la investigación de la robótica y la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-15-robotica-dos-equipos-de-robots-humanoides-juegan-un-par.md"
+    },
+    {
+      "title": "ROS2-DDSConfig-Optimizer ahora admite Cyclone DDS",
+      "category": "robotica",
+      "date": "2026-07-15",
+      "slug": "ros2-ddsconfig-optimizer-ahora-admite-cyclone-dds",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La herramienta ROS2-DDSConfig-Optimizer, impulsada por IA, ha sido actualizada para soportar Cyclone DDS, lo que mejora la configuración de DDS para aplicaciones ROS2. Esto aporta una mayor eficiencia y escalabilidad a los sistemas de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-15-ros2-ddsconfig-optimizer-ahora-admite-cyclone-dds.md"
+    },
+    {
+      "title": "Robóticas ucranianas patrullan la zona de combate con éxito",
+      "category": "robotica",
+      "date": "2026-07-15",
+      "slug": "roboticas-ucranianas-patrullan-la-zona-de-combate-con-e",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La guerra en Ucrania ha visto un avance significativo en la utilización de robots en la zona de combate. Los vehículos terrestres controlados a distancia, equipados con ametralladoras y lanzagranadas, han demostrado ser efectivos en la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-15-roboticas-ucranianas-patrullan-la-zona-de-combate-con-e.md"
+    },
+    {
+      "title": "Forgix: una placa de desarrollo con RP2354 y FPGA Trion T8 en formato Teensy",
+      "category": "embebidos",
+      "date": "2026-07-15",
+      "slug": "forgix-una-placa-de-desarrollo-con-rp2354-y-fpga-trion-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Adiuvo Engineering ha lanzado la placa de desarrollo Forgix, que combina un microcontrolador Raspberry Pi RP2354 con un FPGA Efinix Trion T8 en el formato Teensy 4.0. Esta placa es única y ofrece una gran cantidad de interfaces y recursos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-15-forgix-una-placa-de-desarrollo-con-rp2354-y-fpga-trion-.md"
+    },
+    {
+      "title": "Descuentos en PCBA: AIVON ofrece precios reducidos y envío gratuito",
+      "category": "embebidos",
+      "date": "2026-07-15",
+      "slug": "descuentos-en-pcba-aivon-ofrece-precios-reducidos-y-env",
+      "tags": [
+        "electronica",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "AIVON, un fabricante de PCB confiable, lanza ofertas mensuales de PCBA con precios reducidos y envío gratuito para apoyar a ingenieros, startups y empresas electrónicas.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-15-descuentos-en-pcba-aivon-ofrece-precios-reducidos-y-env.md"
+    },
+    {
+      "title": "Convocatoria para propuestas de temas para el Summit de Mantenedores 2026",
+      "category": "ia",
+      "date": "2026-07-15",
+      "slug": "convocatoria-para-propuestas-de-temas-para-el-summit-de",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de desarrolladores y mantenedores de kernel se reúne anualmente en el Summit de Mantenedores para discutir problemas de proceso de desarrollo. Esta vez, la convocatoria para propuestas de temas ya está abierta.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-15-convocatoria-para-propuestas-de-temas-para-el-summit-de.md"
+    },
+    {
+      "title": "Unidad de robotica para hogares: tecnología embajada y aprendizaje",
+      "category": "ia",
+      "date": "2026-07-15",
+      "slug": "unidad-de-robotica-para-hogares-tecnologia-embajada-y-a",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa X Square Robot busca crear robots capaces de aprender y adaptarse a diferentes situaciones en el hogar. Para lograr esto, han desarrollado un stack de tecnología que integra percepción, planificación y control.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md"
+    },
+    {
+      "title": "OpenAI lanza su primer dispositivo de hardware: un hablante inteligente sin pantalla",
+      "category": "ia",
+      "date": "2026-07-15",
+      "slug": "openai-lanza-su-primer-dispositivo-de-hardware-un-habla",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "OpenAI, el creador de ChatGPT, está desarrollando un hablante inteligente sin pantalla que puede moverse y aprender sobre sus dueños. Este dispositivo podría ser un competidor importante para Apple y otros fabricantes de dispositivos…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-15-openai-lanza-su-primer-dispositivo-de-hardware-un-habla.md"
+    },
+    {
+      "title": "Asus y la puntuación de reparabilidad: ¿qué significa y cómo funciona?",
+      "category": "ia",
+      "date": "2026-07-15",
+      "slug": "asus-y-la-puntuacion-de-reparabilidad-que-significa-y-c",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La empresa Asus ha anunciado que su tableta-laptop híbrida ROG Flow Z13 ha obtenido una puntuación de reparabilidad perfecta de 10/10 según el sistema francés. Pero ¿qué significa esto y cómo se calcula?",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-15-asus-y-la-puntuacion-de-reparabilidad-que-significa-y-c.md"
+    },
+    {
+      "title": "Nueva startup de OpenAI para descubrir fármacos con IA",
+      "category": "ia",
+      "date": "2026-07-15",
+      "slug": "nueva-startup-de-openai-para-descubrir-farmacos-con-ia",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "Miles Wang, investigador de OpenAI, deja la empresa para lanzar una startup que utilizará la inteligencia artificial para acelerar la descubierta de fármacos. La nueva empresa podría valer 2 mil millones de dólares y ha generado interés…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md"
+    },
+    {
+      "title": "Eliminando la vulnerabilidad en Tetragon: envío directo de paquetes desde BPF",
+      "category": "linux",
+      "date": "2026-07-15",
+      "slug": "eliminando-la-vulnerabilidad-en-tetragon-envio-directo-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Tetragon, una herramienta de monitoreo de seguridad basada en BPF, ha sido vulnerable a ataques que eliminan su agente de usuario. Ahora, un equipo de investigadores ha encontrado una forma de eliminar esta vulnerabilidad, permitiendo que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md"
+    },
+    {
+      "title": "ROS PMC: Resumen de la reunión semanal de ROS 2",
+      "category": "linux",
+      "date": "2026-07-15",
+      "slug": "ros-pmc-resumen-de-la-reunion-semanal-de-ros-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 se reunió el martes para discutir el estado del proyecto y resolver problemas. La reunión incluyó actualizaciones sobre la buildfarm, el waffle y la gestión de releases.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-15-ros-pmc-resumen-de-la-reunion-semanal-de-ros-2.md"
+    },
+    {
+      "title": "Soporte para NPU RK3576 en Linux: un avance importante en la robótica",
+      "category": "linux",
+      "date": "2026-07-15",
+      "slug": "soporte-para-npu-rk3576-en-linux-un-avance-importante-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "El equipo de desarrollo de Linux ha logrado agregar soporte para el procesador de aprendizaje automático (NPU) RK3576 de Rockchip, lo que abre nuevas posibilidades para la robótica y la IA en dispositivos embebidos.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-15-soporte-para-npu-rk3576-en-linux-un-avance-importante-e.md"
+    },
+    {
+      "title": "Apple M1/M2 con Asahi Linux y Rusticl: Primera implementación conformante de OpenCL 3.1",
+      "category": "linux",
+      "date": "2026-07-15",
+      "slug": "apple-m1m2-con-asahi-linux-y-rusticl-primera-implementa",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Linux ha logrado una gran hazaña: la primera implementación conformante de OpenCL 3.1 se ha logrado en Apple Silicon M1/M2 con Asahi Linux y el driver Rusticl. Esto significa que se ha demostrado la capacidad de ejecutar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-15-apple-m1m2-con-asahi-linux-y-rusticl-primera-implementa.md"
+    },
+    {
+      "title": "El nacimiento y resurrección de Linux.org: la historia detrás de un sitio web clave",
+      "category": "linux",
+      "date": "2026-07-15",
+      "slug": "el-nacimiento-y-resurreccion-de-linuxorg-la-historia-de",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "En 1994, Linux era una tecnología en crecimiento y no había recursos para aprender sobre ella. Michael McLagan creó linux.org para llenar ese vacío, pero el sitio web desapareció con el tiempo. Ahora, Rob Kennedy ha compartido la historia…",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-15-el-nacimiento-y-resurreccion-de-linuxorg-la-historia-de.md"
+    },
+    {
       "title": "Gazebo PMC: Reunión semanal sobre el futuro de la robótica",
       "category": "robotica",
       "date": "2026-07-14",
