@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 15 Jul 2026 09:06:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 09:10:38 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>NVIDIA lanza módulos Jetson T2000 y T3000 para aplicaciones de IA y robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-nvidia-lanza-modulos-jetson-t2000-y-t3000-para-aplicaci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-nvidia-lanza-modulos-jetson-t2000-y-t3000-para-aplicaci.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>NVIDIA ha lanzado dos nuevos módulos de procesamiento de datos, el Jetson T2000 y el T3000, diseñados para aplicaciones de inteligencia artificial (IA) y robótica en entornos de borde. Estos módulos son más pequeños y asequibles que sus…</description>
+  </item>
+  <item>
+    <title>Robotas de combate ucranianas dominan la zona de batalla</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-robotas-de-combate-ucranianas-dominan-la-zona-de-batall.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-robotas-de-combate-ucranianas-dominan-la-zona-de-batall.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Las fuerzas ucranianas han desarrollado un ejército de robotas de combate que patrullan la zona de batalla, reduciendo la presencia humana en la línea del frente. Estas máquinas están equipadas con armas y sensores y están controladas por…</description>
+  </item>
+  <item>
+    <title>La primera Copa Mundial de Robots se celebra en Corea del Sur</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-la-primera-copa-mundial-de-robots-se-celebra-en-corea-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-la-primera-copa-mundial-de-robots-se-celebra-en-corea-d.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La tecnología robótica ha dado un gran paso adelante con la primera Copa Mundial de Robots, donde dos equipos de robots humanoides jugaron un partido de fútbol contra otros. Esta hazaña marca un hito importante en la investigación y el…</description>
+  </item>
+  <item>
+    <title>Encuentro comunitario ROS OE: avances en navegación y control</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-encuentro-comunitario-ros-oe-avances-en-navegacion-y-co.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-encuentro-comunitario-ros-oe-avances-en-navegacion-y-co.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS OE se reúne el 20 de julio para discutir los últimos avances en navegación y control de robots. Los desarrolladores trabajarán en mejorar la compatibilidad de Navigation2, Moveit2 y ros2_control. También se explorarán…</description>
+  </item>
+  <item>
+    <title>Hub universal de control remoto con tecnología ESP32-S3 y Infrarrojo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-hub-universal-de-control-remoto-con-tecnologia-esp32-s3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-hub-universal-de-control-remoto-con-tecnologia-esp32-s3.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto OpenInfrared Point busca revolucionar la forma en que controlamos dispositivos electrónicos en casa, eliminando la necesidad de remotos dedicados y ofreciendo una solución universal y flexible.</description>
+  </item>
+  <item>
+    <title>La pinza más pequeña del mundo para Arduino: un microcontrolador en una USB-C</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-la-pinza-mas-pequena-del-mundo-para-arduino-un-microcon.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-la-pinza-mas-pequena-del-mundo-para-arduino-un-microcon.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La tecnología de los microcontroladores sigue evolucionando y se están haciendo cada vez más pequeños. La pinza es el ejemplo más reciente de esto, un microcontrolador compatible con Arduino que cabe en la punta de un dedo.</description>
+  </item>
+  <item>
+    <title>Lámpara de Música Inteligente con LEDs y Microfono</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-lampara-de-musica-inteligente-con-leds-y-microfono.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-lampara-de-musica-inteligente-con-leds-y-microfono.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta una lámpara de música inteligente que cambia de color y brillo en función de la música que se escucha. Esta lámpara es una creación de miqu y utiliza tecnología de vanguardia para crear un ambiente inmersivo.</description>
+  </item>
+  <item>
+    <title>Ros2_lingua: un capa de registro de capacidades para LLMs más seguras</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-ros2-lingua-un-capa-de-registro-de-capacidades-para-llm.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-ros2-lingua-un-capa-de-registro-de-capacidades-para-llm.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los LLMs (modelos de lenguaje de aprendizaje automático) están cada vez más integrados con robots, pero esto puede llevar a problemas de seguridad y estabilidad. Ros2_lingua es un proyecto que busca resolver estos problemas mediante un…</description>
+  </item>
+  <item>
+    <title>Hackatón de Inteligencia Artificial con AMD Radeon GPUs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-hackaton-de-inteligencia-artificial-con-amd-radeon-gpus.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-hackaton-de-inteligencia-artificial-con-amd-radeon-gpus.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa AMD anuncia un hackatón global para desarrolladores de inteligencia artificial, donde podrán crear aplicaciones innovadoras utilizando GPUs Radeon y la plataforma ROCm.</description>
+  </item>
+  <item>
+    <title>Un stack de inteligencia artificial para robots generales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-un-stack-de-inteligencia-artificial-para-robots-general.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-un-stack-de-inteligencia-artificial-para-robots-general.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa X Square Robot busca crear robots inteligentes capaces de aprender y adaptarse a diferentes situaciones. Para lograr esto, han desarrollado un stack de inteligencia artificial que integra percepción, planificación y control.</description>
+  </item>
+  <item>
+    <title>Aplicación de IA para optimizar plantas de petróleo y gas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-aplicacion-de-ia-para-optimizar-plantas-de-petroleo-y-g.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-aplicacion-de-ia-para-optimizar-plantas-de-petroleo-y-g.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La startup Applied Computing ha recibido $20 millones para desarrollar un modelo de IA que ayude a operadores de petróleo y gas a tomar decisiones informadas en tiempo real. Esta tecnología podría reducir la energía utilizada y mantener la…</description>
+  </item>
+  <item>
+    <title>Microsoft prepara a su equipo de ventas para competir con OpenAI y Anthropic</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-microsoft-prepara-a-su-equipo-de-ventas-para-competir-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-microsoft-prepara-a-su-equipo-de-ventas-para-competir-c.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft está entrenando a su equipo de ventas para que compare negativamente los productos de AI de OpenAI, Google y Anthropic con sus propios modelos. Esto se debe a que la empresa quiere destacar la eficiencia y coste efectividad de…</description>
+  </item>
+  <item>
+    <title>OpenAI lanza un teclado personalizado para su asistente de código Codex</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-openai-lanza-un-teclado-personalizado-para-su-asistente.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-openai-lanza-un-teclado-personalizado-para-su-asistente.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI, conocida por su asistente de código Codex, ha lanzado un teclado personalizado llamado Codex Micro. Este dispositivo está diseñado para mejorar la experiencia de usuario al interactuar con los agentes de código de Codex. El teclado…</description>
+  </item>
+  <item>
+    <title>Mejorando la prueba de archivos en Linux: un tema en constante evolución</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejorando-la-prueba-de-archivos-en-linux-un-tema-en-con.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejorando-la-prueba-de-archivos-en-linux-un-tema-en-con.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de desarrolladores de archivos de Linux se reunió para discutir la prueba de archivos, un tema crucial para garantizar la estabilidad y seguridad del sistema. Ted Ts'o lideró la discusión y destacó la necesidad de reducir las…</description>
+  </item>
+  <item>
+    <title>Mejoras en la seguridad y rendimiento de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejoras-en-la-seguridad-y-rendimiento-de-linux.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejoras-en-la-seguridad-y-rendimiento-de-linux.md</guid>
+    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión semanal de LWN.net trae noticias sobre la lucha contra los bots de scraping, mejoras en la gestión de colas y pruebas de sistemas de archivos en Linux. Además, se presentan actualizaciones de seguridad y parches importantes.</description>
+  </item>
   <item>
     <title>Robótica: dos equipos de robots humanoides juegan un partido de fútbol</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-15-robotica-dos-equipos-de-robots-humanoides-juegan-un-par.md</link>
@@ -56,12 +176,12 @@
     <description>La comunidad de desarrolladores y mantenedores de kernel se reúne anualmente en el Summit de Mantenedores para discutir problemas de proceso de desarrollo. Esta vez, la convocatoria para propuestas de temas ya está abierta.</description>
   </item>
   <item>
-    <title>Unidad de robotica para hogares: tecnología embajada y aprendizaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md</guid>
+    <title>Nueva startup de OpenAI para descubrir fármacos con IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md</guid>
     <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>La empresa X Square Robot busca crear robots capaces de aprender y adaptarse a diferentes situaciones en el hogar. Para lograr esto, han desarrollado un stack de tecnología que integra percepción, planificación y control.</description>
+    <description>Miles Wang, investigador de OpenAI, deja la empresa para lanzar una startup que utilizará la inteligencia artificial para acelerar la descubierta de fármacos. La nueva empresa podría valer 2 mil millones de dólares y ha generado interés…</description>
   </item>
   <item>
     <title>OpenAI lanza su primer dispositivo de hardware: un hablante inteligente sin pantalla</title>
@@ -72,28 +192,20 @@
     <description>OpenAI, el creador de ChatGPT, está desarrollando un hablante inteligente sin pantalla que puede moverse y aprender sobre sus dueños. Este dispositivo podría ser un competidor importante para Apple y otros fabricantes de dispositivos…</description>
   </item>
   <item>
+    <title>Unidad de robotica para hogares: tecnología embajada y aprendizaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-unidad-de-robotica-para-hogares-tecnologia-embajada-y-a.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa X Square Robot busca crear robots capaces de aprender y adaptarse a diferentes situaciones en el hogar. Para lograr esto, han desarrollado un stack de tecnología que integra percepción, planificación y control.</description>
+  </item>
+  <item>
     <title>Asus y la puntuación de reparabilidad: ¿qué significa y cómo funciona?</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-asus-y-la-puntuacion-de-reparabilidad-que-significa-y-c.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-asus-y-la-puntuacion-de-reparabilidad-que-significa-y-c.md</guid>
     <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
     <description>La empresa Asus ha anunciado que su tableta-laptop híbrida ROG Flow Z13 ha obtenido una puntuación de reparabilidad perfecta de 10/10 según el sistema francés. Pero ¿qué significa esto y cómo se calcula?</description>
-  </item>
-  <item>
-    <title>Nueva startup de OpenAI para descubrir fármacos con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-15-nueva-startup-de-openai-para-descubrir-farmacos-con-ia.md</guid>
-    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Miles Wang, investigador de OpenAI, deja la empresa para lanzar una startup que utilizará la inteligencia artificial para acelerar la descubierta de fármacos. La nueva empresa podría valer 2 mil millones de dólares y ha generado interés…</description>
-  </item>
-  <item>
-    <title>Eliminando la vulnerabilidad en Tetragon: envío directo de paquetes desde BPF</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md</guid>
-    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Tetragon, una herramienta de monitoreo de seguridad basada en BPF, ha sido vulnerable a ataques que eliminan su agente de usuario. Ahora, un equipo de investigadores ha encontrado una forma de eliminar esta vulnerabilidad, permitiendo que…</description>
   </item>
   <item>
     <title>ROS PMC: Resumen de la reunión semanal de ROS 2</title>
@@ -120,132 +232,20 @@
     <description>La comunidad de Linux ha logrado una gran hazaña: la primera implementación conformante de OpenCL 3.1 se ha logrado en Apple Silicon M1/M2 con Asahi Linux y el driver Rusticl. Esto significa que se ha demostrado la capacidad de ejecutar…</description>
   </item>
   <item>
+    <title>Eliminando la vulnerabilidad en Tetragon: envío directo de paquetes desde BPF</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-eliminando-la-vulnerabilidad-en-tetragon-envio-directo-.md</guid>
+    <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Tetragon, una herramienta de monitoreo de seguridad basada en BPF, ha sido vulnerable a ataques que eliminan su agente de usuario. Ahora, un equipo de investigadores ha encontrado una forma de eliminar esta vulnerabilidad, permitiendo que…</description>
+  </item>
+  <item>
     <title>El nacimiento y resurrección de Linux.org: la historia detrás de un sitio web clave</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-el-nacimiento-y-resurreccion-de-linuxorg-la-historia-de.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-15-el-nacimiento-y-resurreccion-de-linuxorg-la-historia-de.md</guid>
     <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>En 1994, Linux era una tecnología en crecimiento y no había recursos para aprender sobre ella. Michael McLagan creó linux.org para llenar ese vacío, pero el sitio web desapareció con el tiempo. Ahora, Rob Kennedy ha compartido la historia…</description>
-  </item>
-  <item>
-    <title>Gazebo PMC: Reunión semanal sobre el futuro de la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-gazebo-pmc-reunion-semanal-sobre-el-futuro-de-la-roboti.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-gazebo-pmc-reunion-semanal-sobre-el-futuro-de-la-roboti.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de Gazebo se reunió esta semana para discutir los próximos pasos en el desarrollo de este framework de robótica. Entre los temas destacados se encuentran la planificación de ROSCon 2026 y la mejora de la infraestructura de…</description>
-  </item>
-  <item>
-    <title>LinkForge: una representación intermedia para describir robots de manera programática</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-linkforge-una-representacion-intermedia-para-describir-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-linkforge-una-representacion-intermedia-para-describir-.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>LinkForge, una herramienta desarrollada por un colaborador de ROS, ha superado los 5.000 descargas en la plataforma de extensiones de Blender. Su creador ahora busca entender si la comunidad de ROS necesita una representación intermedia…</description>
-  </item>
-  <item>
-    <title>Plataforma de robótica móvil abierta y gratuita para educación y experimentación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-plataforma-de-robotica-movil-abierta-y-gratuita-para-ed.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-plataforma-de-robotica-movil-abierta-y-gratuita-para-ed.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de robótica móvil ha recibido una noticia emocionante: la liberación de OpenAMRobot, una plataforma de robótica móvil abierta y gratuita que permite a los desarrolladores crear y experimentar con robots móviles de manera…</description>
-  </item>
-  <item>
-    <title>Robotas de combate patrullan la zona de combate en Ucrania</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-robotas-de-combate-patrullan-la-zona-de-combate-en-ucra.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-robotas-de-combate-patrullan-la-zona-de-combate-en-ucra.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Las fuerzas armadas ucranianas han desarrollado una legión de robots de combate que patrullan la zona de combate, reduciendo la presencia humana en la línea del frente. Estos robots, diseñados para ser casi inaudibles y con capacidad de…</description>
-  </item>
-  <item>
-    <title>IEEE honra a Toshio Fukuda, pionero en la robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-ieee-honra-a-toshio-fukuda-pionero-en-la-robotica-3.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Toshio Fukuda, un destacado investigador en robótica, ha sido galardonado con el premio Richard M. Emberson de la IEEE. Su trabajo pionero en sistemas robóticos biomédicos, industriales y de micro-nano ha tenido un impacto significativo en…</description>
-  </item>
-  <item>
-    <title>La Copa Mundial de Robótica: un paso hacia la realidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-la-copa-mundial-de-robotica-un-paso-hacia-la-realidad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-14-la-copa-mundial-de-robotica-un-paso-hacia-la-realidad.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En la última semana, se ha celebrado la Copa Mundial de Robótica en Incheon, Corea del Sur, donde dos equipos de robots humanoides han jugado un partido de fútbol contra otros dos equipos. Este evento marca un importante hito en la…</description>
-  </item>
-  <item>
-    <title>Moddo Pinch: el tablero de Arduino más pequeño del mundo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-moddo-pinch-el-tablero-de-arduino-mas-pequeno-del-mundo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-moddo-pinch-el-tablero-de-arduino-mas-pequeno-del-mundo.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa canadiense Moddo ha lanzado el Pinch, un tablero de Arduino compatible que mide solo 10.9 x 10.5 mm y es el más pequeño del mundo en su categoría.</description>
-  </item>
-  <item>
-    <title>IoTLabs wM-Bus Gateway: un dispositivo para Home Assistant con conectividad inalámbrica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-iotlabs-wm-bus-gateway-un-dispositivo-para-home-assista.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-iotlabs-wm-bus-gateway-un-dispositivo-para-home-assista.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>IoTLabs ha lanzado un dispositivo llamado wM-Bus Gateway, que permite a los usuarios de Home Assistant conectar dispositivos de medición y sensores inalámbricos a su sistema de automatización doméstica. Este dispositivo es especialmente…</description>
-  </item>
-  <item>
-    <title>Procesador GPX10 Pro: AI en dispositivos embebidos con batería de moneda</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-procesador-gpx10-pro-ai-en-dispositivos-embebidos-con-b.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-14-procesador-gpx10-pro-ai-en-dispositivos-embebidos-con-b.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Ambient Scientific ha lanzado el GPX10 Pro, un procesador/microcontrolador diseñado para aplicaciones de IA en dispositivos embebidos con restricciones de energía. Este dispositivo puede funcionar durante años con una sola batería de…</description>
-  </item>
-  <item>
-    <title>La lógica de Star Trek se vuelve realidad en los modelos de lenguaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-14-la-logica-de-star-trek-se-vuelve-realidad-en-los-modelo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-14-la-logica-de-star-trek-se-vuelve-realidad-en-los-modelo.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los modelos de lenguaje pueden ser vulnerables a ataques de inyección de promp, que pueden hacer que estos modelos se atasquen y consuman muchos recursos. Esto podría llevar a ataques DDoS a servidores de LLM.</description>
-  </item>
-  <item>
-    <title>PixVerse, startup de video-generación, recauda 439 millones de dólares</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-14-pixverse-startup-de-video-generacion-recauda-439-millon.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-14-pixverse-startup-de-video-generacion-recauda-439-millon.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La startup de video-generación PixVerse ha cerrado una ronda de financiación de 439 millones de dólares, lo que eleva su valoración a más de 2 mil millones de dólares. Esta inversión permitirá a la empresa expandir su modelo de mundo y…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-actualizaciones-de-seguridad-para-sistemas-operativo-26.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-actualizaciones-de-seguridad-para-sistemas-operativo-26.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las distribuciones Linux Debian, Fedora y Mageia han lanzado actualizaciones de seguridad para corregir vulnerabilidades en varios paquetes. Estas actualizaciones son importantes para garantizar la seguridad de los sistemas y evitar…</description>
-  </item>
-  <item>
-    <title>Mejoras en el manejo de dispositivos de intercambio en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-mejoras-en-el-manejo-de-dispositivos-de-intercambio-en-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-mejoras-en-el-manejo-de-dispositivos-de-intercambio-en-.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un conjunto de parches recientes para el núcleo de Linux busca mejorar la gestión de dispositivos de intercambio múltiples en sistemas Linux, especialmente en entornos de servidor complejos.</description>
-  </item>
-  <item>
-    <title>FreeBSD Desktop Installer: avances en la integración de NVIDIA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-freebsd-desktop-installer-avances-en-la-integracion-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-freebsd-desktop-installer-avances-en-la-integracion-de-.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El proyecto de FreeBSD Desktop Installer ha alcanzado un nuevo hito en su camino hacia la estabilidad. Después de trabajar en la detección automática de GPU Intel y AMD, los desarrolladores han centrado su atención en la integración de…</description>
-  </item>
-  <item>
-    <title>Protegiendo kernels contra exploits con BPF: una técnica innovadora</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-protegiendo-kernels-contra-exploits-con-bpf-una-tecnica.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-14-protegiendo-kernels-contra-exploits-con-bpf-una-tecnica.md</guid>
-    <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Cisco enfrenta desafíos únicos al aplicar parches de seguridad en sus dispositivos con kernels personalizados. Un especialista en Linux presentó una técnica que reduce significativamente el tiempo para responder a vulnerabilidades en el…</description>
   </item>
 </channel>
 </rss>
