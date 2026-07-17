@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-16</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-navegacion-semantica-en-la-frontera-con-amd-strix-halo.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-drone-invisible-como-hacer-un-dron-que-es-casi-imposibl.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-la-robotica-humana-avanza-un-campeonato-mundial-de-robo.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-control-remoto-universal-con-esp32-s3-y-tecnologias-de-.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-caseta-personalizable-para-esp8266-nodemcu-lista-para-i.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-pico-usb-wifi-un-adaptador-wifi-sin-cables-para-raspber.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-lampara-de-diseno-de-seta-3d-con-led-y-tecnologia-embeb.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-olimex-lanza-una-placa-de-automatizacion-para-raspberry.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-nueva-implementacion-de-x11-en-x86-64-assembly-escrita-.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-google-vids-crea-avatares-digitales-personalizados-y-vi.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-x-square-robot-construyendo-un-stack-de-base-para-robot.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-nueva-plataforma-de-control-de-robots-con-inteligencia-.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-nuevas-herramientas-y-mejoras-en-linux-scraper-bots-io-.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-actualizaciones-de-seguridad-para-sistemas-operativo-27.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-coordina-robots-en-un-espacio-compartido-sin-necesidad-.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-nvidia-lanza-modulos-jetson-t2000-y-t3000-para-aplicaci.md</loc><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-robotas-de-combate-ucranianas-dominan-la-zona-de-batall.md</loc><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-la-primera-copa-mundial-de-robots-se-celebra-en-corea-d.md</loc><lastmod>2026-07-16</lastmod><priority>0.8</priority></url>

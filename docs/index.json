@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Navegación semántica en la frontera con AMD Strix Halo",
+      "category": "robotica",
+      "date": "2026-07-17",
+      "slug": "navegacion-semantica-en-la-frontera-con-amd-strix-halo",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "AMD y Meta han desarrollado una tecnología de navegación semántica que permite a los robots navegar en entornos complejos con precisión y seguridad. Esta tecnología utiliza el modelo SAM3 de Meta y se ejecuta en la GPU del AMD Strix Halo.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-17-navegacion-semantica-en-la-frontera-con-amd-strix-halo.md"
+    },
+    {
+      "title": "Drone invisible: cómo hacer un dron que es casi imposible de ver",
+      "category": "robotica",
+      "date": "2026-07-17",
+      "slug": "drone-invisible-como-hacer-un-dron-que-es-casi-imposibl",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Investigadores de la Universidad Northwestern han presentado un dron llamado Phantom Twist que es prácticamente invisible en vuelo. Esto se logra gracias a su velocidad de rotación extremadamente alta, que crea una especie de efecto de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-17-drone-invisible-como-hacer-un-dron-que-es-casi-imposibl.md"
+    },
+    {
+      "title": "La Robótica Humana Avanza: Un Campeonato Mundial de Robótica",
+      "category": "robotica",
+      "date": "2026-07-17",
+      "slug": "la-robotica-humana-avanza-un-campeonato-mundial-de-robo",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "En el marco de la RoboCup 2026 en Incheon, Corea del Sur, dos equipos de robots humanoides jugaron un partido de fútbol de 11 contra 11, un logro sin precedentes en la historia de la robótica. Este evento marca un hito importante en la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-17-la-robotica-humana-avanza-un-campeonato-mundial-de-robo.md"
+    },
+    {
+      "title": "Control remoto universal con ESP32-S3 y tecnologías de última generación",
+      "category": "embebidos",
+      "date": "2026-07-17",
+      "slug": "control-remoto-universal-con-esp32-s3-y-tecnologias-de-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La empresa OpenInfrared Point ha lanzado un control remoto universal que utiliza la tecnología ESP32-S3 para controlar dispositivos compatibles desde un smartphone. Este dispositivo elimina la necesidad de controles remotos dedicados y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-17-control-remoto-universal-con-esp32-s3-y-tecnologias-de-.md"
+    },
+    {
+      "title": "Caseta personalizable para ESP8266 NodeMCU lista para imprimir en 3D",
+      "category": "embebidos",
+      "date": "2026-07-17",
+      "slug": "caseta-personalizable-para-esp8266-nodemcu-lista-para-i",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "microcontroladores"
+      ],
+      "preview": "El diseñador Derek3Rosen ha creado una caseta paramétrica para ESP8266 NodeMCU que se puede personalizar y lista para imprimir en 3D. Esta caseta ofrece un ajuste ajustado para el MCU y una variedad de opciones de configuración.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-17-caseta-personalizable-para-esp8266-nodemcu-lista-para-i.md"
+    },
+    {
+      "title": "Pico-USB-WiFi: un adaptador WiFi sin cables para Raspberry Pi Pico W",
+      "category": "embebidos",
+      "date": "2026-07-17",
+      "slug": "pico-usb-wifi-un-adaptador-wifi-sin-cables-para-raspber",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un desarrollador ha creado un firmware que convierte el Raspberry Pi Pico W en un adaptador WiFi sin cables, compatible con Windows, Linux, macOS y otros sistemas operativos. Esto permite usar el Pico W como una conexión WiFi sin necesidad…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-17-pico-usb-wifi-un-adaptador-wifi-sin-cables-para-raspber.md"
+    },
+    {
+      "title": "Lámpara de diseño de seta 3D con LED y tecnología embebida",
+      "category": "embebidos",
+      "date": "2026-07-17",
+      "slug": "lampara-de-diseno-de-seta-3d-con-led-y-tecnologia-embeb",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "robotica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado una lámpara de diseño de seta con tecnología embebida y LED, que se puede personalizar y modular. Esta lámpara es un ejemplo de la integración de la impresión 3D con la electrónica y la robótica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-17-lampara-de-diseno-de-seta-3d-con-led-y-tecnologia-embeb.md"
+    },
+    {
+      "title": "Olimex lanza una placa de automatización para Raspberry Pi Pico con alta tensión",
+      "category": "embebidos",
+      "date": "2026-07-17",
+      "slug": "olimex-lanza-una-placa-de-automatizacion-para-raspberry",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Olimex ha lanzado la placa PICO-EVB, diseñada para la automatización con alta tensión en proyectos con Raspberry Pi Pico y compatibles. Esta placa ofrece cuatro entradas de alta tensión y cuatro relés de 15V DC/220V AC.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-17-olimex-lanza-una-placa-de-automatizacion-para-raspberry.md"
+    },
+    {
+      "title": "Nueva implementación de X11 en x86_64 Assembly, escrita por completo en código ensamblador",
+      "category": "ia",
+      "date": "2026-07-17",
+      "slug": "nueva-implementacion-de-x11-en-x86-64-assembly-escrita-",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado una implementación de X11 escrita en código ensamblador x86_64, utilizando la ayuda de inteligencia artificial. Esta creación busca mejorar el rendimiento y la eficiencia energética de los sistemas…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-17-nueva-implementacion-de-x11-en-x86-64-assembly-escrita-.md"
+    },
+    {
+      "title": "Google Vids: crea avatares digitales personalizados y videos con IA",
+      "category": "ia",
+      "date": "2026-07-17",
+      "slug": "google-vids-crea-avatares-digitales-personalizados-y-vi",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Google ha lanzado una actualización de Google Vids que permite crear avatares digitales personalizados y videos con IA. Esta herramienta se ha convertido en una plataforma de creación de video todo en uno, con aplicaciones en el ámbito…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-17-google-vids-crea-avatares-digitales-personalizados-y-vi.md"
+    },
+    {
+      "title": "X Square Robot: construyendo un stack de base para robots generales",
+      "category": "ia",
+      "date": "2026-07-17",
+      "slug": "x-square-robot-construyendo-un-stack-de-base-para-robot",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa X Square Robot busca crear robots capaces de realizar tareas generales, pero para lograrlo, necesita desarrollar una receta equivalente a la que han dado los modelos de lenguaje grandes. Esto implica construir un stack de base…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-17-x-square-robot-construyendo-un-stack-de-base-para-robot.md"
+    },
+    {
+      "title": "Nueva plataforma de control de robots con inteligencia artificial",
+      "category": "ia",
+      "date": "2026-07-17",
+      "slug": "nueva-plataforma-de-control-de-robots-con-inteligencia-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Se ha lanzado una nueva plataforma llamada AgenticROS que permite a los robots controlar su propio cuerpo mediante agentes de inteligencia artificial. Esta innovación puede revolucionar la robótica y la automatización.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-17-nueva-plataforma-de-control-de-robots-con-inteligencia-.md"
+    },
+    {
+      "title": "Nuevas herramientas y mejoras en Linux: scraper bots, io_uring y más",
+      "category": "linux",
+      "date": "2026-07-17",
+      "slug": "nuevas-herramientas-y-mejoras-en-linux-scraper-bots-io-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La edición semanal de LWN.net destaca varias mejoras y herramientas recientes en Linux, incluyendo la lucha contra los bots de scraping, mejoras en io_uring y filesystem testing, y nuevas características en BPF.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-17-nuevas-herramientas-y-mejoras-en-linux-scraper-bots-io-.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-17",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-27",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diferentes paquetes. Estas actualizaciones son importantes para asegurar la seguridad de los sistemas y proteger contra posibles ataques.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-17-actualizaciones-de-seguridad-para-sistemas-operativo-27.md"
+    },
+    {
+      "title": "Coordina robots en un espacio compartido sin necesidad de un planificador central",
+      "category": "linux",
+      "date": "2026-07-17",
+      "slug": "coordina-robots-en-un-espacio-compartido-sin-necesidad-",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias"
+      ],
+      "preview": "Un equipo de investigadores de la Universidad de Örebro ha desarrollado una herramienta llamada pycoordination que permite coordinar robots en un espacio compartido de manera eficiente y sin necesidad de un planificador central. Esta…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-17-coordina-robots-en-un-espacio-compartido-sin-necesidad-.md"
+    },
+    {
       "title": "NVIDIA lanza módulos Jetson T2000 y T3000 para aplicaciones de IA y robótica",
       "category": "robotica",
       "date": "2026-07-16",
