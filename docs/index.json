@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Drones invisibles: la tecnología que hace que los drones sean prácticamente imperceptibles",
+      "category": "robotica",
+      "date": "2026-07-18",
+      "slug": "drones-invisibles-la-tecnologia-que-hace-que-los-drones",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Los drones han sido objeto de críticas por su ruido y visibilidad, pero ahora un equipo de investigadores de la Universidad de Northwestern ha desarrollado un drone llamado Phantom Twist que es prácticamente invisible en vuelo. Esto se…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-18-drones-invisibles-la-tecnologia-que-hace-que-los-drones.md"
+    },
+    {
+      "title": "Estudiante de posgrado equipa a robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-18",
+      "slug": "estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-h",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Sarah Downs, una estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo para que los robots de la NASA puedan ensamblar satélites en el espacio con precisión. Su trabajo tiene el potencial de revolucionar la forma en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-18-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-h.md"
+    },
+    {
+      "title": "Cazando secciones de insectos con un láser femtosecundista",
+      "category": "robotica",
+      "date": "2026-07-18",
+      "slug": "cazando-secciones-de-insectos-con-un-laser-femtosecundi",
+      "tags": [
+        "robotica",
+        "electronica",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha utilizado un láser femtosecundista para cortar secciones de insectos sin dañar sus estructuras internas. Este método innovador podría revolucionar la forma en que se estudian los insectos en laboratorio.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-18-cazando-secciones-de-insectos-con-un-laser-femtosecundi.md"
+    },
+    {
+      "title": "ROS: Noticias y eventos de la comunidad de robótica",
+      "category": "robotica",
+      "date": "2026-07-18",
+      "slug": "ros-noticias-y-eventos-de-la-comunidad-de-robotica",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica ROS (Robot Operating System) ha estado muy activa últimamente. Desde carreras de coches RC hasta lanzamientos de nuevas tecnologías, hay mucho que destacar. En este artículo, exploraremos las últimas noticias y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-18-ros-noticias-y-eventos-de-la-comunidad-de-robotica.md"
+    },
+    {
+      "title": "Cirujanos robotizados: el futuro de la cirugía mínimamente invasiva",
+      "category": "robotica",
+      "date": "2026-07-18",
+      "slug": "cirujanos-robotizados-el-futuro-de-la-cirugia-minimamen",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de investigadores de la Universidad de California en San Diego ha desarrollado un sistema de cirugía robótica que puede realizar tareas complejas con precisión y seguridad. Este avance podría revolucionar la medicina y mejorar…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-18-cirujanos-robotizados-el-futuro-de-la-cirugia-minimamen.md"
+    },
+    {
+      "title": "Controla el brazo robótico AgileX NERO con OpenClaw",
+      "category": "robotica",
+      "date": "2026-07-18",
+      "slug": "controla-el-brazo-robotico-agilex-nero-con-openclaw",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "La popularidad de OpenClaw ha despertado un entusiasmo por crear asistentes robóticos personales. En este tutorial, aprenderás a escribir una habilidad de OpenClaw que permite controlar de manera sencilla el brazo robótico AgileX NERO.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-18-controla-el-brazo-robotico-agilex-nero-con-openclaw.md"
+    },
+    {
+      "title": "Espressif lanza SDK para cerraduras inteligentes Aliro basadas en ESP32-C o ESP32-H",
+      "category": "embebidos",
+      "date": "2026-07-18",
+      "slug": "espressif-lanza-sdk-para-cerraduras-inteligentes-aliro-",
+      "tags": [
+        "microcontroladores",
+        "esp32",
+        "software y linux"
+      ],
+      "preview": "Espressif Systems ha lanzado el SDK para Aliro, una tecnología de acceso digital para cerraduras inteligentes que utiliza NFC, Bluetooth LE o BLE+UWB. Este estándar busca reducir la fragmentación y permitir a los usuarios utilizar carteras…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-18-espressif-lanza-sdk-para-cerraduras-inteligentes-aliro-.md"
+    },
+    {
+      "title": "Cámara de visión artificial reCamera Pro con procesamiento en tiempo real",
+      "category": "ia",
+      "date": "2026-07-18",
+      "slug": "camara-de-vision-artificial-recamera-pro-con-procesamie",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La cámara de visión artificial reCamera Pro de Seeed Studio es una herramienta innovadora que combina visión artificial, lenguaje de marcado y procesamiento de lenguaje natural para aplicaciones de automatización y monitoreo.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-18-camara-de-vision-artificial-recamera-pro-con-procesamie.md"
+    },
+    {
+      "title": "Databricks alcanza valoración de $188 mil millones en el mercado de la IA",
+      "category": "ia",
+      "date": "2026-07-18",
+      "slug": "databricks-alcanza-valoracion-de-188-mil-millones-en-el",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "python"
+      ],
+      "preview": "Databricks, una empresa líder en la creación de software para análisis de datos, ha alcanzado una valoración de $188 mil millones después de una ronda de financiación exitosa. Esta noticia es relevante ya que muestra el crecimiento…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-18-databricks-alcanza-valoracion-de-188-mil-millones-en-el.md"
+    },
+    {
+      "title": "Vertu lanza un teléfono de lujo con un agente de IA para ejecutivos",
+      "category": "ia",
+      "date": "2026-07-18",
+      "slug": "vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-par",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Vertu, fabricante de teléfonos de lujo, ha lanzado el Alphafold, un teléfono plegable que se dirige a ejecutivos y empresarios de alto nivel. Este teléfono no se centra en especificaciones técnicas, sino en proporcionar un asistente de IA…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-18-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-par.md"
+    },
+    {
+      "title": "M5Stack Core2 se convierte en un reproductor de Codex Micro con firmware abierto",
+      "category": "ia",
+      "date": "2026-07-18",
+      "slug": "m5stack-core2-se-convierte-en-un-reproductor-de-codex-m",
+      "tags": [
+        "llms",
+        "agentes",
+        "esp32",
+        "arduino"
+      ],
+      "preview": "IAMLIUBO ha creado un firmware para el controlador IoT M5Stack Core2 que reproduce las características del Codex Micro, un dispositivo de $230 para agentes de código abierto de OpenAI. Esto permite a los desarrolladores controlar y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-18-m5stack-core2-se-convierte-en-un-reproductor-de-codex-m.md"
+    },
+    {
+      "title": "DXVK 3.0.2: Mejoras para juegos en Linux con Direct3D y Vulkan",
+      "category": "linux",
+      "date": "2026-07-18",
+      "slug": "dxvk-302-mejoras-para-juegos-en-linux-con-direct3d-y-vu",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Valve ha lanzado la versión 3.0.2 de DXVK, una herramienta que permite ejecutar juegos de Windows en Linux utilizando la API Vulkan. Esta actualización incluye mejoras para resolver problemas de juegos específicos y facilitar la depuración…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-18-dxvk-302-mejoras-para-juegos-en-linux-con-direct3d-y-vu.md"
+    },
+    {
+      "title": "Problema con la actualización de un paquete de drivers de robótica",
+      "category": "linux",
+      "date": "2026-07-18",
+      "slug": "problema-con-la-actualizacion-de-un-paquete-de-drivers-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un paquete de drivers de robótica llamado tecgihan_driver no se puede actualizar debido a un problema en el proceso de sincronización. Esto bloquea la actualización de la versión 0.2.0 en el repositorio de Ubuntu Humble. El problema puede…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-18-problema-con-la-actualizacion-de-un-paquete-de-drivers-.md"
+    },
+    {
+      "title": "Desarrolladores de FastFlowLM se unen a AMD para impulsar el software de NPU abierto",
+      "category": "linux",
+      "date": "2026-07-18",
+      "slug": "desarrolladores-de-fastflowlm-se-unen-a-amd-para-impuls",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa AMD ha anunciado que los desarrolladores detrás de FastFlowLM, un software de inferencia para modelos de lenguaje y multimodal, se han unido a la compañía. Esta unión busca impulsar la eficiencia y el rendimiento de los modelos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-18-desarrolladores-de-fastflowlm-se-unen-a-amd-para-impuls.md"
+    },
+    {
+      "title": "Cómo liberar impresiones 3D de TPU pegadas a la plataforma de construcción",
+      "category": "diseño-3d",
+      "date": "2026-07-18",
+      "slug": "como-liberar-impresiones-3d-de-tpu-pegadas-a-la-platafo",
+      "tags": [
+        "diseño-3d",
+        "impresion-3d"
+      ],
+      "preview": "¿Has tenido problemas con impresiones 3D de TPU que se han pegado a la plataforma de construcción? Un experto en impresión 3D ha descubierto una solución sorprendente que puede salvar tus impresiones.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-07-18-como-liberar-impresiones-3d-de-tpu-pegadas-a-la-platafo.md"
+    },
+    {
       "title": "Navegación semántica en la frontera con AMD Strix Halo",
       "category": "robotica",
       "date": "2026-07-17",

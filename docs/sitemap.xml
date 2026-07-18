@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-17</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-18</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-drones-invisibles-la-tecnologia-que-hace-que-los-drones.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-h.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-cazando-secciones-de-insectos-con-un-laser-femtosecundi.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-ros-noticias-y-eventos-de-la-comunidad-de-robotica.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-cirujanos-robotizados-el-futuro-de-la-cirugia-minimamen.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-controla-el-brazo-robotico-agilex-nero-con-openclaw.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-18-espressif-lanza-sdk-para-cerraduras-inteligentes-aliro-.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-camara-de-vision-artificial-recamera-pro-con-procesamie.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-databricks-alcanza-valoracion-de-188-mil-millones-en-el.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-par.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-m5stack-core2-se-convierte-en-un-reproductor-de-codex-m.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-dxvk-302-mejoras-para-juegos-en-linux-con-direct3d-y-vu.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-problema-con-la-actualizacion-de-un-paquete-de-drivers-.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-desarrolladores-de-fastflowlm-se-unen-a-amd-para-impuls.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-18-como-liberar-impresiones-3d-de-tpu-pegadas-a-la-platafo.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-navegacion-semantica-en-la-frontera-con-amd-strix-halo.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-drone-invisible-como-hacer-un-dron-que-es-casi-imposibl.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-la-robotica-humana-avanza-un-campeonato-mundial-de-robo.md</loc><lastmod>2026-07-17</lastmod><priority>0.8</priority></url>

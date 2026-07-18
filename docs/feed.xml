@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 17 Jul 2026 09:05:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 08:33:09 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Drones invisibles: la tecnología que hace que los drones sean prácticamente imperceptibles</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-drones-invisibles-la-tecnologia-que-hace-que-los-drones.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-drones-invisibles-la-tecnologia-que-hace-que-los-drones.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los drones han sido objeto de críticas por su ruido y visibilidad, pero ahora un equipo de investigadores de la Universidad de Northwestern ha desarrollado un drone llamado Phantom Twist que es prácticamente invisible en vuelo. Esto se…</description>
+  </item>
+  <item>
+    <title>Estudiante de posgrado equipa a robots de la NASA con habilidades de ensamblaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-h.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-h.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Sarah Downs, una estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo para que los robots de la NASA puedan ensamblar satélites en el espacio con precisión. Su trabajo tiene el potencial de revolucionar la forma en…</description>
+  </item>
+  <item>
+    <title>Cazando secciones de insectos con un láser femtosecundista</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-cazando-secciones-de-insectos-con-un-laser-femtosecundi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-cazando-secciones-de-insectos-con-un-laser-femtosecundi.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un ingeniero ha utilizado un láser femtosecundista para cortar secciones de insectos sin dañar sus estructuras internas. Este método innovador podría revolucionar la forma en que se estudian los insectos en laboratorio.</description>
+  </item>
+  <item>
+    <title>ROS: Noticias y eventos de la comunidad de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-ros-noticias-y-eventos-de-la-comunidad-de-robotica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-ros-noticias-y-eventos-de-la-comunidad-de-robotica.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de robótica ROS (Robot Operating System) ha estado muy activa últimamente. Desde carreras de coches RC hasta lanzamientos de nuevas tecnologías, hay mucho que destacar. En este artículo, exploraremos las últimas noticias y…</description>
+  </item>
+  <item>
+    <title>Cirujanos robotizados: el futuro de la cirugía mínimamente invasiva</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-cirujanos-robotizados-el-futuro-de-la-cirugia-minimamen.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-cirujanos-robotizados-el-futuro-de-la-cirugia-minimamen.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de investigadores de la Universidad de California en San Diego ha desarrollado un sistema de cirugía robótica que puede realizar tareas complejas con precisión y seguridad. Este avance podría revolucionar la medicina y mejorar…</description>
+  </item>
+  <item>
+    <title>Controla el brazo robótico AgileX NERO con OpenClaw</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-controla-el-brazo-robotico-agilex-nero-con-openclaw.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-controla-el-brazo-robotico-agilex-nero-con-openclaw.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La popularidad de OpenClaw ha despertado un entusiasmo por crear asistentes robóticos personales. En este tutorial, aprenderás a escribir una habilidad de OpenClaw que permite controlar de manera sencilla el brazo robótico AgileX NERO.</description>
+  </item>
+  <item>
+    <title>Espressif lanza SDK para cerraduras inteligentes Aliro basadas en ESP32-C o ESP32-H</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-18-espressif-lanza-sdk-para-cerraduras-inteligentes-aliro-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-18-espressif-lanza-sdk-para-cerraduras-inteligentes-aliro-.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Espressif Systems ha lanzado el SDK para Aliro, una tecnología de acceso digital para cerraduras inteligentes que utiliza NFC, Bluetooth LE o BLE+UWB. Este estándar busca reducir la fragmentación y permitir a los usuarios utilizar carteras…</description>
+  </item>
+  <item>
+    <title>Cámara de visión artificial reCamera Pro con procesamiento en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-camara-de-vision-artificial-recamera-pro-con-procesamie.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-camara-de-vision-artificial-recamera-pro-con-procesamie.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La cámara de visión artificial reCamera Pro de Seeed Studio es una herramienta innovadora que combina visión artificial, lenguaje de marcado y procesamiento de lenguaje natural para aplicaciones de automatización y monitoreo.</description>
+  </item>
+  <item>
+    <title>Databricks alcanza valoración de $188 mil millones en el mercado de la IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-databricks-alcanza-valoracion-de-188-mil-millones-en-el.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-databricks-alcanza-valoracion-de-188-mil-millones-en-el.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Databricks, una empresa líder en la creación de software para análisis de datos, ha alcanzado una valoración de $188 mil millones después de una ronda de financiación exitosa. Esta noticia es relevante ya que muestra el crecimiento…</description>
+  </item>
+  <item>
+    <title>Vertu lanza un teléfono de lujo con un agente de IA para ejecutivos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-par.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-par.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Vertu, fabricante de teléfonos de lujo, ha lanzado el Alphafold, un teléfono plegable que se dirige a ejecutivos y empresarios de alto nivel. Este teléfono no se centra en especificaciones técnicas, sino en proporcionar un asistente de IA…</description>
+  </item>
+  <item>
+    <title>M5Stack Core2 se convierte en un reproductor de Codex Micro con firmware abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-m5stack-core2-se-convierte-en-un-reproductor-de-codex-m.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-18-m5stack-core2-se-convierte-en-un-reproductor-de-codex-m.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>IAMLIUBO ha creado un firmware para el controlador IoT M5Stack Core2 que reproduce las características del Codex Micro, un dispositivo de $230 para agentes de código abierto de OpenAI. Esto permite a los desarrolladores controlar y…</description>
+  </item>
+  <item>
+    <title>DXVK 3.0.2: Mejoras para juegos en Linux con Direct3D y Vulkan</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-dxvk-302-mejoras-para-juegos-en-linux-con-direct3d-y-vu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-dxvk-302-mejoras-para-juegos-en-linux-con-direct3d-y-vu.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Valve ha lanzado la versión 3.0.2 de DXVK, una herramienta que permite ejecutar juegos de Windows en Linux utilizando la API Vulkan. Esta actualización incluye mejoras para resolver problemas de juegos específicos y facilitar la depuración…</description>
+  </item>
+  <item>
+    <title>Problema con la actualización de un paquete de drivers de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-problema-con-la-actualizacion-de-un-paquete-de-drivers-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-problema-con-la-actualizacion-de-un-paquete-de-drivers-.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un paquete de drivers de robótica llamado tecgihan_driver no se puede actualizar debido a un problema en el proceso de sincronización. Esto bloquea la actualización de la versión 0.2.0 en el repositorio de Ubuntu Humble. El problema puede…</description>
+  </item>
+  <item>
+    <title>Desarrolladores de FastFlowLM se unen a AMD para impulsar el software de NPU abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-desarrolladores-de-fastflowlm-se-unen-a-amd-para-impuls.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-18-desarrolladores-de-fastflowlm-se-unen-a-amd-para-impuls.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa AMD ha anunciado que los desarrolladores detrás de FastFlowLM, un software de inferencia para modelos de lenguaje y multimodal, se han unido a la compañía. Esta unión busca impulsar la eficiencia y el rendimiento de los modelos…</description>
+  </item>
+  <item>
+    <title>Cómo liberar impresiones 3D de TPU pegadas a la plataforma de construcción</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-18-como-liberar-impresiones-3d-de-tpu-pegadas-a-la-platafo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-18-como-liberar-impresiones-3d-de-tpu-pegadas-a-la-platafo.md</guid>
+    <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>¿Has tenido problemas con impresiones 3D de TPU que se han pegado a la plataforma de construcción? Un experto en impresión 3D ha descubierto una solución sorprendente que puede salvar tus impresiones.</description>
+  </item>
   <item>
     <title>Navegación semántica en la frontera con AMD Strix Halo</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-navegacion-semantica-en-la-frontera-con-amd-strix-halo.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
     <description>Un equipo de investigadores de la Universidad de Örebro ha desarrollado una herramienta llamada pycoordination que permite coordinar robots en un espacio compartido de manera eficiente y sin necesidad de un planificador central. Esta…</description>
-  </item>
-  <item>
-    <title>NVIDIA lanza módulos Jetson T2000 y T3000 para aplicaciones de IA y robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-nvidia-lanza-modulos-jetson-t2000-y-t3000-para-aplicaci.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-nvidia-lanza-modulos-jetson-t2000-y-t3000-para-aplicaci.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>NVIDIA ha lanzado dos nuevos módulos de procesamiento de datos, el Jetson T2000 y el T3000, diseñados para aplicaciones de inteligencia artificial (IA) y robótica en entornos de borde. Estos módulos son más pequeños y asequibles que sus…</description>
-  </item>
-  <item>
-    <title>Robotas de combate ucranianas dominan la zona de batalla</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-robotas-de-combate-ucranianas-dominan-la-zona-de-batall.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-robotas-de-combate-ucranianas-dominan-la-zona-de-batall.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Las fuerzas ucranianas han desarrollado un ejército de robotas de combate que patrullan la zona de batalla, reduciendo la presencia humana en la línea del frente. Estas máquinas están equipadas con armas y sensores y están controladas por…</description>
-  </item>
-  <item>
-    <title>La primera Copa Mundial de Robots se celebra en Corea del Sur</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-la-primera-copa-mundial-de-robots-se-celebra-en-corea-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-la-primera-copa-mundial-de-robots-se-celebra-en-corea-d.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La tecnología robótica ha dado un gran paso adelante con la primera Copa Mundial de Robots, donde dos equipos de robots humanoides jugaron un partido de fútbol contra otros. Esta hazaña marca un hito importante en la investigación y el…</description>
-  </item>
-  <item>
-    <title>Encuentro comunitario ROS OE: avances en navegación y control</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-encuentro-comunitario-ros-oe-avances-en-navegacion-y-co.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-16-encuentro-comunitario-ros-oe-avances-en-navegacion-y-co.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS OE se reúne el 20 de julio para discutir los últimos avances en navegación y control de robots. Los desarrolladores trabajarán en mejorar la compatibilidad de Navigation2, Moveit2 y ros2_control. También se explorarán…</description>
-  </item>
-  <item>
-    <title>Hub universal de control remoto con tecnología ESP32-S3 y Infrarrojo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-hub-universal-de-control-remoto-con-tecnologia-esp32-s3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-hub-universal-de-control-remoto-con-tecnologia-esp32-s3.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto OpenInfrared Point busca revolucionar la forma en que controlamos dispositivos electrónicos en casa, eliminando la necesidad de remotos dedicados y ofreciendo una solución universal y flexible.</description>
-  </item>
-  <item>
-    <title>La pinza más pequeña del mundo para Arduino: un microcontrolador en una USB-C</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-la-pinza-mas-pequena-del-mundo-para-arduino-un-microcon.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-la-pinza-mas-pequena-del-mundo-para-arduino-un-microcon.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La tecnología de los microcontroladores sigue evolucionando y se están haciendo cada vez más pequeños. La pinza es el ejemplo más reciente de esto, un microcontrolador compatible con Arduino que cabe en la punta de un dedo.</description>
-  </item>
-  <item>
-    <title>Lámpara de Música Inteligente con LEDs y Microfono</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-lampara-de-musica-inteligente-con-leds-y-microfono.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-16-lampara-de-musica-inteligente-con-leds-y-microfono.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit presenta una lámpara de música inteligente que cambia de color y brillo en función de la música que se escucha. Esta lámpara es una creación de miqu y utiliza tecnología de vanguardia para crear un ambiente inmersivo.</description>
-  </item>
-  <item>
-    <title>Ros2_lingua: un capa de registro de capacidades para LLMs más seguras</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-ros2-lingua-un-capa-de-registro-de-capacidades-para-llm.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-ros2-lingua-un-capa-de-registro-de-capacidades-para-llm.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los LLMs (modelos de lenguaje de aprendizaje automático) están cada vez más integrados con robots, pero esto puede llevar a problemas de seguridad y estabilidad. Ros2_lingua es un proyecto que busca resolver estos problemas mediante un…</description>
-  </item>
-  <item>
-    <title>Hackatón de Inteligencia Artificial con AMD Radeon GPUs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-hackaton-de-inteligencia-artificial-con-amd-radeon-gpus.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-hackaton-de-inteligencia-artificial-con-amd-radeon-gpus.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa AMD anuncia un hackatón global para desarrolladores de inteligencia artificial, donde podrán crear aplicaciones innovadoras utilizando GPUs Radeon y la plataforma ROCm.</description>
-  </item>
-  <item>
-    <title>Un stack de inteligencia artificial para robots generales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-un-stack-de-inteligencia-artificial-para-robots-general.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-un-stack-de-inteligencia-artificial-para-robots-general.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa X Square Robot busca crear robots inteligentes capaces de aprender y adaptarse a diferentes situaciones. Para lograr esto, han desarrollado un stack de inteligencia artificial que integra percepción, planificación y control.</description>
-  </item>
-  <item>
-    <title>Aplicación de IA para optimizar plantas de petróleo y gas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-aplicacion-de-ia-para-optimizar-plantas-de-petroleo-y-g.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-aplicacion-de-ia-para-optimizar-plantas-de-petroleo-y-g.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La startup Applied Computing ha recibido $20 millones para desarrollar un modelo de IA que ayude a operadores de petróleo y gas a tomar decisiones informadas en tiempo real. Esta tecnología podría reducir la energía utilizada y mantener la…</description>
-  </item>
-  <item>
-    <title>Microsoft prepara a su equipo de ventas para competir con OpenAI y Anthropic</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-microsoft-prepara-a-su-equipo-de-ventas-para-competir-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-microsoft-prepara-a-su-equipo-de-ventas-para-competir-c.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Microsoft está entrenando a su equipo de ventas para que compare negativamente los productos de AI de OpenAI, Google y Anthropic con sus propios modelos. Esto se debe a que la empresa quiere destacar la eficiencia y coste efectividad de…</description>
-  </item>
-  <item>
-    <title>OpenAI lanza un teclado personalizado para su asistente de código Codex</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-openai-lanza-un-teclado-personalizado-para-su-asistente.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-16-openai-lanza-un-teclado-personalizado-para-su-asistente.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI, conocida por su asistente de código Codex, ha lanzado un teclado personalizado llamado Codex Micro. Este dispositivo está diseñado para mejorar la experiencia de usuario al interactuar con los agentes de código de Codex. El teclado…</description>
-  </item>
-  <item>
-    <title>Mejorando la prueba de archivos en Linux: un tema en constante evolución</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejorando-la-prueba-de-archivos-en-linux-un-tema-en-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejorando-la-prueba-de-archivos-en-linux-un-tema-en-con.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de desarrolladores de archivos de Linux se reunió para discutir la prueba de archivos, un tema crucial para garantizar la estabilidad y seguridad del sistema. Ted Ts'o lideró la discusión y destacó la necesidad de reducir las…</description>
-  </item>
-  <item>
-    <title>Mejoras en la seguridad y rendimiento de Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejoras-en-la-seguridad-y-rendimiento-de-linux.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-16-mejoras-en-la-seguridad-y-rendimiento-de-linux.md</guid>
-    <pubDate>Thu, 16 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión semanal de LWN.net trae noticias sobre la lucha contra los bots de scraping, mejoras en la gestión de colas y pruebas de sistemas de archivos en Linux. Además, se presentan actualizaciones de seguridad y parches importantes.</description>
   </item>
 </channel>
 </rss>
