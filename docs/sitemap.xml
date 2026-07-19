@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-18</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-18</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-19</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-ros-noticias-autonomia-robotica-y-competencias.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-hab.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-un-dron-invisible-que-revolotea-a-gran-velocidad.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-cirujanos-robots-la-proxima-revolucion-en-la-cirugia.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-espressif-lanza-sdk-para-cerraduras-inteligentes-alir-2.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-noticias-de-python-en-microcontroladores-suscribete-g-9.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-comunicacion-inalambrica-a-larga-distancia-con-raspberr.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-m5stack-core2-se-convierte-en-un-macro-pad-para-codex-m.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-de-.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-camara-de-vision-artificial-con-procesador-de-lenguaje-.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-error-en-sincronizacion-de-paquetes-de-ubuntu-bloquea-l.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-mejora-del-rendimiento-de-nvk-vulkan-con-mesa-262.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-gnu-hurd-avanza-en-aarch64-y-traductores-en-rust.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-port-de-arch-linux-a-aarch64-para-holo-core-un-paso-hac.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-amd-prepara-solucion-para-el-apple-studio-display-en-li.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-drones-invisibles-la-tecnologia-que-hace-que-los-drones.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-h.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-cazando-secciones-de-insectos-con-un-laser-femtosecundi.md</loc><lastmod>2026-07-18</lastmod><priority>0.8</priority></url>

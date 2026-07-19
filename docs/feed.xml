@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sat, 18 Jul 2026 08:33:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 09:03:40 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>ROS Noticias: Autonomía, Robótica y Competencias</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-ros-noticias-autonomia-robotica-y-competencias.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-ros-noticias-autonomia-robotica-y-competencias.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La semana pasada, la comunidad de ROS (Robot Operating System) ha estado llena de noticias emocionantes. Desde carreras de coches RC autónomos hasta lanzamientos de software y eventos, hay mucho que hablar. En este artículo, te presentamos…</description>
+  </item>
+  <item>
+    <title>Estudiante de posgrado equipa robots de la NASA con habilidades de ensamblaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-hab.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-hab.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La estudiante de posgrado Sarah Downs ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en el espacio con precisión. Su trabajo tiene implicaciones importantes para la exploración espacial y la…</description>
+  </item>
+  <item>
+    <title>Un dron invisible que revolotea a gran velocidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-un-dron-invisible-que-revolotea-a-gran-velocidad.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-un-dron-invisible-que-revolotea-a-gran-velocidad.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los ingenieros de la Universidad de Northwestern han creado un dron llamado Phantom Twist que es prácticamente invisible en vuelo. Su velocidad y diseño lo hacen casi imperceptible para la vista humana.</description>
+  </item>
+  <item>
+    <title>Cirujanos robots: la próxima revolución en la cirugía</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-cirujanos-robots-la-proxima-revolucion-en-la-cirugia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-cirujanos-robots-la-proxima-revolucion-en-la-cirugia.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los cirujanos robots están en camino de revolucionar la cirugía. Un equipo de investigadores ha desarrollado un sistema que permite a estos robots realizar tareas quirúrgicas con precisión y seguridad. Pero ¿qué es lo que hace que estos…</description>
+  </item>
+  <item>
+    <title>Espressif lanza SDK para cerraduras inteligentes Aliro basadas en ESP32</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-espressif-lanza-sdk-para-cerraduras-inteligentes-alir-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-espressif-lanza-sdk-para-cerraduras-inteligentes-alir-2.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Espressif Systems ha lanzado el SDK para Aliro, una tecnología de control de acceso digital que permite a los usuarios acceder a sus hogares de manera segura y conveniente. Esta tecnología se basa en microcontroladores ESP32-C y ESP32-H, y…</description>
+  </item>
+  <item>
+    <title>Noticias de Python en Microcontroladores: suscríbete gratis</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-noticias-de-python-en-microcontroladores-suscribete-g-9.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-noticias-de-python-en-microcontroladores-suscribete-g-9.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Si te interesa la robótica y la programación en microcontroladores, esta noticia es para ti. Un nuevo servicio de noticias semanal te permite estar al día sobre las últimas novedades en Python para hardware.</description>
+  </item>
+  <item>
+    <title>Comunicación inalámbrica a larga distancia con Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-comunicacion-inalambrica-a-larga-distancia-con-raspberr.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-19-comunicacion-inalambrica-a-larga-distancia-con-raspberr.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>¿Necesitas enviar datos desde un proyecto de Raspberry Pi ubicado más allá de tu red Wi-Fi? Ahora tienes una solución más confiable y eficiente gracias a LoRa, un sistema de radio a larga distancia que puede transmitir pequeños paquetes de…</description>
+  </item>
+  <item>
+    <title>M5Stack Core2 se convierte en un macro pad para Codex Micro con firmware abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-m5stack-core2-se-convierte-en-un-macro-pad-para-codex-m.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-m5stack-core2-se-convierte-en-un-macro-pad-para-codex-m.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>IAMLIUBO ha creado un firmware para el M5Stack Core2 que le permite a los desarrolladores reproducir las características del Codex Micro, un macro pad de $230 para la plataforma de agentes de código AI de OpenAI.</description>
+  </item>
+  <item>
+    <title>Vertu lanza un teléfono de lujo con un agente de IA de $6,880</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-de-.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Vertu, fabricante de teléfonos de lujo, lanza el Alphafold, un teléfono plegable que se enfoca en la experiencia de usuario empresarial y cuenta con un agente de IA llamado Hermes Agent. Este teléfono se dirige a ejecutivos que buscan una…</description>
+  </item>
+  <item>
+    <title>Cámara de visión artificial con procesador de lenguaje natural</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-camara-de-vision-artificial-con-procesador-de-lenguaje-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-19-camara-de-vision-artificial-con-procesador-de-lenguaje-.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La cámara de visión artificial reCamera Pro de Seeed Studio combina visión artificial, lenguaje natural y reconocimiento de voz para aplicaciones de IA en tiempo real.</description>
+  </item>
+  <item>
+    <title>Error en sincronización de paquetes de Ubuntu bloquea lanzamiento de driver de robot</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-error-en-sincronizacion-de-paquetes-de-ubuntu-bloquea-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-error-en-sincronizacion-de-paquetes-de-ubuntu-bloquea-l.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El lanzamiento del driver de robot tecgihan_driver 0.2.0 para Ubuntu se ve bloqueado debido a un error en la sincronización de paquetes. El problema se ha estado produciendo durante más de una semana y afecta a la versión Humble (Ubuntu…</description>
+  </item>
+  <item>
+    <title>Mejora del rendimiento de NVK Vulkan con Mesa 26.2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-mejora-del-rendimiento-de-nvk-vulkan-con-mesa-262.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-mejora-del-rendimiento-de-nvk-vulkan-con-mesa-262.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha logrado una mejora significativa en el rendimiento del motor gráfico NVK Vulkan, gracias a la versión 26.2 de Mesa. Esta mejora permite a NVK competir de manera más efectiva con el driver oficial de NVIDIA.</description>
+  </item>
+  <item>
+    <title>GNU Hurd avanza en AArch64 y traductores en Rust</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-gnu-hurd-avanza-en-aarch64-y-traductores-en-rust.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-gnu-hurd-avanza-en-aarch64-y-traductores-en-rust.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El proyecto GNU Hurd sigue avanzando en su desarrollo, con énfasis en la compatibilidad con AArch64 y la creación de traductores en Rust. Esto permitirá a los desarrolladores aprovechar al máximo las capacidades de los sistemas embebidos y…</description>
+  </item>
+  <item>
+    <title>Port de Arch Linux a aarch64 para Holo Core: un paso hacia la compatibilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-port-de-arch-linux-a-aarch64-para-holo-core-un-paso-hac.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-port-de-arch-linux-a-aarch64-para-holo-core-un-paso-hac.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Collabora, en colaboración con Valve, ha publicado un post sobre su trabajo en el port de Arch Linux a aarch64 para Holo Core, un sistema de juego basado en Arm. Este proyecto busca hacer que Arch Linux sea compatible con la arquitectura…</description>
+  </item>
+  <item>
+    <title>AMD prepara solución para el Apple Studio Display en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-amd-prepara-solucion-para-el-apple-studio-display-en-li.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-19-amd-prepara-solucion-para-el-apple-studio-display-en-li.md</guid>
+    <pubDate>Sun, 19 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de desarrolladores de AMD ha estado trabajando en mejorar la compatibilidad del Apple Studio Display con los gráficos Radeon en Linux. Después de varios intentos fallidos, parece que finalmente se ha encontrado la solución.</description>
+  </item>
   <item>
     <title>Drones invisibles: la tecnología que hace que los drones sean prácticamente imperceptibles</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-18-drones-invisibles-la-tecnologia-que-hace-que-los-drones.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sat, 18 Jul 2026 08:00:00 +0000</pubDate>
     <category>diseño-3d</category>
     <description>¿Has tenido problemas con impresiones 3D de TPU que se han pegado a la plataforma de construcción? Un experto en impresión 3D ha descubierto una solución sorprendente que puede salvar tus impresiones.</description>
-  </item>
-  <item>
-    <title>Navegación semántica en la frontera con AMD Strix Halo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-navegacion-semantica-en-la-frontera-con-amd-strix-halo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-navegacion-semantica-en-la-frontera-con-amd-strix-halo.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>AMD y Meta han desarrollado una tecnología de navegación semántica que permite a los robots navegar en entornos complejos con precisión y seguridad. Esta tecnología utiliza el modelo SAM3 de Meta y se ejecuta en la GPU del AMD Strix Halo.</description>
-  </item>
-  <item>
-    <title>Drone invisible: cómo hacer un dron que es casi imposible de ver</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-drone-invisible-como-hacer-un-dron-que-es-casi-imposibl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-drone-invisible-como-hacer-un-dron-que-es-casi-imposibl.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Investigadores de la Universidad Northwestern han presentado un dron llamado Phantom Twist que es prácticamente invisible en vuelo. Esto se logra gracias a su velocidad de rotación extremadamente alta, que crea una especie de efecto de…</description>
-  </item>
-  <item>
-    <title>La Robótica Humana Avanza: Un Campeonato Mundial de Robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-la-robotica-humana-avanza-un-campeonato-mundial-de-robo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-17-la-robotica-humana-avanza-un-campeonato-mundial-de-robo.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>En el marco de la RoboCup 2026 en Incheon, Corea del Sur, dos equipos de robots humanoides jugaron un partido de fútbol de 11 contra 11, un logro sin precedentes en la historia de la robótica. Este evento marca un hito importante en la…</description>
-  </item>
-  <item>
-    <title>Control remoto universal con ESP32-S3 y tecnologías de última generación</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-control-remoto-universal-con-esp32-s3-y-tecnologias-de-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-control-remoto-universal-con-esp32-s3-y-tecnologias-de-.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa OpenInfrared Point ha lanzado un control remoto universal que utiliza la tecnología ESP32-S3 para controlar dispositivos compatibles desde un smartphone. Este dispositivo elimina la necesidad de controles remotos dedicados y…</description>
-  </item>
-  <item>
-    <title>Caseta personalizable para ESP8266 NodeMCU lista para imprimir en 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-caseta-personalizable-para-esp8266-nodemcu-lista-para-i.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-caseta-personalizable-para-esp8266-nodemcu-lista-para-i.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El diseñador Derek3Rosen ha creado una caseta paramétrica para ESP8266 NodeMCU que se puede personalizar y lista para imprimir en 3D. Esta caseta ofrece un ajuste ajustado para el MCU y una variedad de opciones de configuración.</description>
-  </item>
-  <item>
-    <title>Pico-USB-WiFi: un adaptador WiFi sin cables para Raspberry Pi Pico W</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-pico-usb-wifi-un-adaptador-wifi-sin-cables-para-raspber.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-pico-usb-wifi-un-adaptador-wifi-sin-cables-para-raspber.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un desarrollador ha creado un firmware que convierte el Raspberry Pi Pico W en un adaptador WiFi sin cables, compatible con Windows, Linux, macOS y otros sistemas operativos. Esto permite usar el Pico W como una conexión WiFi sin necesidad…</description>
-  </item>
-  <item>
-    <title>Lámpara de diseño de seta 3D con LED y tecnología embebida</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-lampara-de-diseno-de-seta-3d-con-led-y-tecnologia-embeb.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-lampara-de-diseno-de-seta-3d-con-led-y-tecnologia-embeb.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado una lámpara de diseño de seta con tecnología embebida y LED, que se puede personalizar y modular. Esta lámpara es un ejemplo de la integración de la impresión 3D con la electrónica y la robótica.</description>
-  </item>
-  <item>
-    <title>Olimex lanza una placa de automatización para Raspberry Pi Pico con alta tensión</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-olimex-lanza-una-placa-de-automatizacion-para-raspberry.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-17-olimex-lanza-una-placa-de-automatizacion-para-raspberry.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Olimex ha lanzado la placa PICO-EVB, diseñada para la automatización con alta tensión en proyectos con Raspberry Pi Pico y compatibles. Esta placa ofrece cuatro entradas de alta tensión y cuatro relés de 15V DC/220V AC.</description>
-  </item>
-  <item>
-    <title>Nueva implementación de X11 en x86_64 Assembly, escrita por completo en código ensamblador</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-nueva-implementacion-de-x11-en-x86-64-assembly-escrita-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-nueva-implementacion-de-x11-en-x86-64-assembly-escrita-.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de desarrolladores ha creado una implementación de X11 escrita en código ensamblador x86_64, utilizando la ayuda de inteligencia artificial. Esta creación busca mejorar el rendimiento y la eficiencia energética de los sistemas…</description>
-  </item>
-  <item>
-    <title>Google Vids: crea avatares digitales personalizados y videos con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-google-vids-crea-avatares-digitales-personalizados-y-vi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-google-vids-crea-avatares-digitales-personalizados-y-vi.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google ha lanzado una actualización de Google Vids que permite crear avatares digitales personalizados y videos con IA. Esta herramienta se ha convertido en una plataforma de creación de video todo en uno, con aplicaciones en el ámbito…</description>
-  </item>
-  <item>
-    <title>X Square Robot: construyendo un stack de base para robots generales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-x-square-robot-construyendo-un-stack-de-base-para-robot.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-x-square-robot-construyendo-un-stack-de-base-para-robot.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa X Square Robot busca crear robots capaces de realizar tareas generales, pero para lograrlo, necesita desarrollar una receta equivalente a la que han dado los modelos de lenguaje grandes. Esto implica construir un stack de base…</description>
-  </item>
-  <item>
-    <title>Nueva plataforma de control de robots con inteligencia artificial</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-nueva-plataforma-de-control-de-robots-con-inteligencia-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-17-nueva-plataforma-de-control-de-robots-con-inteligencia-.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Se ha lanzado una nueva plataforma llamada AgenticROS que permite a los robots controlar su propio cuerpo mediante agentes de inteligencia artificial. Esta innovación puede revolucionar la robótica y la automatización.</description>
-  </item>
-  <item>
-    <title>Nuevas herramientas y mejoras en Linux: scraper bots, io_uring y más</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-nuevas-herramientas-y-mejoras-en-linux-scraper-bots-io-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-nuevas-herramientas-y-mejoras-en-linux-scraper-bots-io-.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La edición semanal de LWN.net destaca varias mejoras y herramientas recientes en Linux, incluyendo la lucha contra los bots de scraping, mejoras en io_uring y filesystem testing, y nuevas características en BPF.</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-actualizaciones-de-seguridad-para-sistemas-operativo-27.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-actualizaciones-de-seguridad-para-sistemas-operativo-27.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diferentes paquetes. Estas actualizaciones son importantes para asegurar la seguridad de los sistemas y proteger contra posibles ataques.</description>
-  </item>
-  <item>
-    <title>Coordina robots en un espacio compartido sin necesidad de un planificador central</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-coordina-robots-en-un-espacio-compartido-sin-necesidad-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-17-coordina-robots-en-un-espacio-compartido-sin-necesidad-.md</guid>
-    <pubDate>Fri, 17 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un equipo de investigadores de la Universidad de Örebro ha desarrollado una herramienta llamada pycoordination que permite coordinar robots en un espacio compartido de manera eficiente y sin necesidad de un planificador central. Esta…</description>
   </item>
 </channel>
 </rss>

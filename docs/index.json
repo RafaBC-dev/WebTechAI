@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "ROS Noticias: Autonomía, Robótica y Competencias",
+      "category": "robotica",
+      "date": "2026-07-19",
+      "slug": "ros-noticias-autonomia-robotica-y-competencias",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La semana pasada, la comunidad de ROS (Robot Operating System) ha estado llena de noticias emocionantes. Desde carreras de coches RC autónomos hasta lanzamientos de software y eventos, hay mucho que hablar. En este artículo, te presentamos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-19-ros-noticias-autonomia-robotica-y-competencias.md"
+    },
+    {
+      "title": "Estudiante de posgrado equipa robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-19",
+      "slug": "estudiante-de-posgrado-equipa-robots-de-la-nasa-con-hab",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La estudiante de posgrado Sarah Downs ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en el espacio con precisión. Su trabajo tiene implicaciones importantes para la exploración espacial y la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-19-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-hab.md"
+    },
+    {
+      "title": "Un dron invisible que revolotea a gran velocidad",
+      "category": "robotica",
+      "date": "2026-07-19",
+      "slug": "un-dron-invisible-que-revolotea-a-gran-velocidad",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Los ingenieros de la Universidad de Northwestern han creado un dron llamado Phantom Twist que es prácticamente invisible en vuelo. Su velocidad y diseño lo hacen casi imperceptible para la vista humana.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-19-un-dron-invisible-que-revolotea-a-gran-velocidad.md"
+    },
+    {
+      "title": "Cirujanos robots: la próxima revolución en la cirugía",
+      "category": "robotica",
+      "date": "2026-07-19",
+      "slug": "cirujanos-robots-la-proxima-revolucion-en-la-cirugia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Los cirujanos robots están en camino de revolucionar la cirugía. Un equipo de investigadores ha desarrollado un sistema que permite a estos robots realizar tareas quirúrgicas con precisión y seguridad. Pero ¿qué es lo que hace que estos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-19-cirujanos-robots-la-proxima-revolucion-en-la-cirugia.md"
+    },
+    {
+      "title": "Espressif lanza SDK para cerraduras inteligentes Aliro basadas en ESP32",
+      "category": "embebidos",
+      "date": "2026-07-19",
+      "slug": "espressif-lanza-sdk-para-cerraduras-inteligentes-alir-2",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Espressif Systems ha lanzado el SDK para Aliro, una tecnología de control de acceso digital que permite a los usuarios acceder a sus hogares de manera segura y conveniente. Esta tecnología se basa en microcontroladores ESP32-C y ESP32-H, y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-19-espressif-lanza-sdk-para-cerraduras-inteligentes-alir-2.md"
+    },
+    {
+      "title": "Noticias de Python en Microcontroladores: suscríbete gratis",
+      "category": "embebidos",
+      "date": "2026-07-19",
+      "slug": "noticias-de-python-en-microcontroladores-suscribete-g-9",
+      "tags": [
+        "python",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "Si te interesa la robótica y la programación en microcontroladores, esta noticia es para ti. Un nuevo servicio de noticias semanal te permite estar al día sobre las últimas novedades en Python para hardware.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-19-noticias-de-python-en-microcontroladores-suscribete-g-9.md"
+    },
+    {
+      "title": "Comunicación inalámbrica a larga distancia con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-07-19",
+      "slug": "comunicacion-inalambrica-a-larga-distancia-con-raspberr",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "¿Necesitas enviar datos desde un proyecto de Raspberry Pi ubicado más allá de tu red Wi-Fi? Ahora tienes una solución más confiable y eficiente gracias a LoRa, un sistema de radio a larga distancia que puede transmitir pequeños paquetes de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-19-comunicacion-inalambrica-a-larga-distancia-con-raspberr.md"
+    },
+    {
+      "title": "M5Stack Core2 se convierte en un macro pad para Codex Micro con firmware abierto",
+      "category": "ia",
+      "date": "2026-07-19",
+      "slug": "m5stack-core2-se-convierte-en-un-macro-pad-para-codex-m",
+      "tags": [
+        "ia-local",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "IAMLIUBO ha creado un firmware para el M5Stack Core2 que le permite a los desarrolladores reproducir las características del Codex Micro, un macro pad de $230 para la plataforma de agentes de código AI de OpenAI.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-19-m5stack-core2-se-convierte-en-un-macro-pad-para-codex-m.md"
+    },
+    {
+      "title": "Vertu lanza un teléfono de lujo con un agente de IA de $6,880",
+      "category": "ia",
+      "date": "2026-07-19",
+      "slug": "vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-de-",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Vertu, fabricante de teléfonos de lujo, lanza el Alphafold, un teléfono plegable que se enfoca en la experiencia de usuario empresarial y cuenta con un agente de IA llamado Hermes Agent. Este teléfono se dirige a ejecutivos que buscan una…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-19-vertu-lanza-un-telefono-de-lujo-con-un-agente-de-ia-de-.md"
+    },
+    {
+      "title": "Cámara de visión artificial con procesador de lenguaje natural",
+      "category": "ia",
+      "date": "2026-07-19",
+      "slug": "camara-de-vision-artificial-con-procesador-de-lenguaje-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La cámara de visión artificial reCamera Pro de Seeed Studio combina visión artificial, lenguaje natural y reconocimiento de voz para aplicaciones de IA en tiempo real.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-19-camara-de-vision-artificial-con-procesador-de-lenguaje-.md"
+    },
+    {
+      "title": "Error en sincronización de paquetes de Ubuntu bloquea lanzamiento de driver de robot",
+      "category": "linux",
+      "date": "2026-07-19",
+      "slug": "error-en-sincronizacion-de-paquetes-de-ubuntu-bloquea-l",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El lanzamiento del driver de robot tecgihan_driver 0.2.0 para Ubuntu se ve bloqueado debido a un error en la sincronización de paquetes. El problema se ha estado produciendo durante más de una semana y afecta a la versión Humble (Ubuntu…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-19-error-en-sincronizacion-de-paquetes-de-ubuntu-bloquea-l.md"
+    },
+    {
+      "title": "Mejora del rendimiento de NVK Vulkan con Mesa 26.2",
+      "category": "linux",
+      "date": "2026-07-19",
+      "slug": "mejora-del-rendimiento-de-nvk-vulkan-con-mesa-262",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha logrado una mejora significativa en el rendimiento del motor gráfico NVK Vulkan, gracias a la versión 26.2 de Mesa. Esta mejora permite a NVK competir de manera más efectiva con el driver oficial de NVIDIA.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-19-mejora-del-rendimiento-de-nvk-vulkan-con-mesa-262.md"
+    },
+    {
+      "title": "GNU Hurd avanza en AArch64 y traductores en Rust",
+      "category": "linux",
+      "date": "2026-07-19",
+      "slug": "gnu-hurd-avanza-en-aarch64-y-traductores-en-rust",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto GNU Hurd sigue avanzando en su desarrollo, con énfasis en la compatibilidad con AArch64 y la creación de traductores en Rust. Esto permitirá a los desarrolladores aprovechar al máximo las capacidades de los sistemas embebidos y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-19-gnu-hurd-avanza-en-aarch64-y-traductores-en-rust.md"
+    },
+    {
+      "title": "Port de Arch Linux a aarch64 para Holo Core: un paso hacia la compatibilidad",
+      "category": "linux",
+      "date": "2026-07-19",
+      "slug": "port-de-arch-linux-a-aarch64-para-holo-core-un-paso-hac",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Collabora, en colaboración con Valve, ha publicado un post sobre su trabajo en el port de Arch Linux a aarch64 para Holo Core, un sistema de juego basado en Arm. Este proyecto busca hacer que Arch Linux sea compatible con la arquitectura…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-19-port-de-arch-linux-a-aarch64-para-holo-core-un-paso-hac.md"
+    },
+    {
+      "title": "AMD prepara solución para el Apple Studio Display en Linux",
+      "category": "linux",
+      "date": "2026-07-19",
+      "slug": "amd-prepara-solucion-para-el-apple-studio-display-en-li",
+      "tags": [
+        "linux",
+        "robotica",
+        "codigo"
+      ],
+      "preview": "La comunidad de desarrolladores de AMD ha estado trabajando en mejorar la compatibilidad del Apple Studio Display con los gráficos Radeon en Linux. Después de varios intentos fallidos, parece que finalmente se ha encontrado la solución.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-19-amd-prepara-solucion-para-el-apple-studio-display-en-li.md"
+    },
+    {
       "title": "Drones invisibles: la tecnología que hace que los drones sean prácticamente imperceptibles",
       "category": "robotica",
       "date": "2026-07-18",
