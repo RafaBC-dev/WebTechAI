@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-19</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-19</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-20</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-20</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-ros-y-robotica-noticias-y-eventos-del-13-de-julio-de-20.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-drone-invisible-la-tecnologia-detras-de-phantom-twist.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-cirujanos-roboticos-el-futuro-de-la-cirugia-minimamente.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-crear-recursos-educativos-para-robotica-intuitiva-y-apl.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-c.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-20-bundle-de-libros-de-raspberry-pi-a-precio-personalizabl.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-20-comunicacion-de-radio-a-larga-distancia-para-raspberry-.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-20-efinix-lanza-la-familia-de-fpgas-titanium-edge-para-sis.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-20-iotextra-tableros-de-automatizacion-modular-para-raspbe.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-20-podra-apple-detener-los-planes-de-hardware-de-openai.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-20-openai-busca-crear-un-modelo-de-lenguaje-local-para-com.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-20-corriendo-yolo-en-raspberry-pi-con-openvino.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-20-beelink-eqi-304-ubuntu-2604-en-un-mini-pc-wildcat-lake.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-20-linux-72-rc4-el-nuevo-normal-en-el-desarrollo-del-kerne.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-20-7-formas-de-instalar-imanes-en-impresiones-3d-sin-pegam.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-ros-noticias-autonomia-robotica-y-competencias.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-hab.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-19-un-dron-invisible-que-revolotea-a-gran-velocidad.md</loc><lastmod>2026-07-19</lastmod><priority>0.8</priority></url>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "ROS y robótica: noticias y eventos del 13 de julio de 2026",
+      "category": "robotica",
+      "date": "2026-07-20",
+      "slug": "ros-y-robotica-noticias-y-eventos-del-13-de-julio-de-20",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La semana pasada, la Fundación Neobotics visitó ROS By-the-Bay para una competición de coches RC autónomos. Ahora, puedes unirte a la acción en Open Sauce o construir tu propio coche RC autónomo. Además, Autoware ha lanzado una pila de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-20-ros-y-robotica-noticias-y-eventos-del-13-de-julio-de-20.md"
+    },
+    {
+      "title": "Drone invisible: la tecnología detrás de Phantom Twist",
+      "category": "robotica",
+      "date": "2026-07-20",
+      "slug": "drone-invisible-la-tecnologia-detras-de-phantom-twist",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Los drones suelen ser visibles y ruidosos, pero los investigadores de la Universidad Northwestern han creado un modelo llamado Phantom Twist que es prácticamente invisible en vuelo. Su secreto: una velocidad de rotación que hace que sea…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-20-drone-invisible-la-tecnologia-detras-de-phantom-twist.md"
+    },
+    {
+      "title": "Cirujanos robóticos: el futuro de la cirugía mínimamente invasiva",
+      "category": "robotica",
+      "date": "2026-07-20",
+      "slug": "cirujanos-roboticos-el-futuro-de-la-cirugia-minimamente",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Un equipo de investigadores de la Universidad de California en San Diego ha desarrollado un sistema de cirugía robótica que puede realizar tareas quirúrgicas con precisión y agilidad. Este avance podría revolucionar la forma en que se…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-20-cirujanos-roboticos-el-futuro-de-la-cirugia-minimamente.md"
+    },
+    {
+      "title": "Crear recursos educativos para robótica intuitiva y aplicada",
+      "category": "robotica",
+      "date": "2026-07-20",
+      "slug": "crear-recursos-educativos-para-robotica-intuitiva-y-apl",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un grupo de amigos está trabajando en crear recursos educativos para que los principiantes puedan entender y aplicar la matemática y la programación detrás de la robótica. Quieren asegurarse de que estos recursos sean útiles para la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-20-crear-recursos-educativos-para-robotica-intuitiva-y-apl.md"
+    },
+    {
+      "title": "Estudiante de posgrado equipa a los robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-20",
+      "slug": "estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-c",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Sarah Downs, una estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo para que los robots de la NASA puedan ensamblar satélites en el espacio con precisión. Su trabajo tiene el potencial de revolucionar la forma en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-20-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-c.md"
+    },
+    {
+      "title": "Bundle de libros de Raspberry Pi a precio personalizable",
+      "category": "embebidos",
+      "date": "2026-07-20",
+      "slug": "bundle-de-libros-de-raspberry-pi-a-precio-personalizabl",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Humble Bundle ofrece una selección de libros electrónicos de Raspberry Pi Press a precio variable, con una parte de los ingresos destinada a la Fundación Raspberry Pi.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-20-bundle-de-libros-de-raspberry-pi-a-precio-personalizabl.md"
+    },
+    {
+      "title": "Comunicación de radio a larga distancia para Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-07-20",
+      "slug": "comunicacion-de-radio-a-larga-distancia-para-raspberry-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Si necesitas enviar datos desde un proyecto basado en Raspberry Pi más allá de la red Wi-Fi de tu hogar, hay soluciones más fiables que usar un extensor de Wi-Fi o un cable Ethernet muy largo. LoRa es un sistema de radio a larga distancia…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-20-comunicacion-de-radio-a-larga-distancia-para-raspberry-.md"
+    },
+    {
+      "title": "Efinix lanza la familia de FPGAs Titanium Edge para sistemas de IA y visión",
+      "category": "embebidos",
+      "date": "2026-07-20",
+      "slug": "efinix-lanza-la-familia-de-fpgas-titanium-edge-para-sis",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Efinix ha presentado la familia de FPGAs Titanium Edge, diseñadas para aplicaciones de IA y visión en el borde, que ofrecen un consumo de energía estática más bajo y una mayor eficiencia en la implementación de sistemas compactos.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-20-efinix-lanza-la-familia-de-fpgas-titanium-edge-para-sis.md"
+    },
+    {
+      "title": "IoTextra: tableros de automatización modular para Raspberry Pi y ESP32",
+      "category": "embebidos",
+      "date": "2026-07-20",
+      "slug": "iotextra-tableros-de-automatizacion-modular-para-raspbe",
+      "tags": [
+        "robotica",
+        "automatizacion",
+        "microcontroladores"
+      ],
+      "preview": "La empresa Make Things Happy ha lanzado la familia de tableros de automatización IoTextra, diseñados para trabajar con Raspberry Pi y ESP32. Estos tableros ofrecen 4 entradas y 4 salidas, y se pueden configurar para diferentes aplicaciones…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-20-iotextra-tableros-de-automatizacion-modular-para-raspbe.md"
+    },
+    {
+      "title": "¿Podrá Apple detener los planes de hardware de OpenAI?",
+      "category": "ia",
+      "date": "2026-07-20",
+      "slug": "podra-apple-detener-los-planes-de-hardware-de-openai",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Apple ha presentado una demanda contra OpenAI por supuesta violación de secretos comerciales. Esto podría afectar los planes de hardware de OpenAI, incluyendo un dispositivo de asistentes virtuales.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-20-podra-apple-detener-los-planes-de-hardware-de-openai.md"
+    },
+    {
+      "title": "OpenAI busca crear un modelo de lenguaje local para competir con GPT-3",
+      "category": "ia",
+      "date": "2026-07-20",
+      "slug": "openai-busca-crear-un-modelo-de-lenguaje-local-para-com",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La noticia revela que OpenAI está trabajando en un modelo de lenguaje local que pueda competir con la capacidad de GPT-3, pero en lugar de utilizar hardware potente, busca hacerlo en dispositivos de consumo. Esto podría cambiar la forma en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-20-openai-busca-crear-un-modelo-de-lenguaje-local-para-com.md"
+    },
+    {
+      "title": "Corriendo YOLO en Raspberry Pi con OpenVINO",
+      "category": "linux",
+      "date": "2026-07-20",
+      "slug": "corriendo-yolo-en-raspberry-pi-con-openvino",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los desarrolladores de Ultralytics y Intel han creado un guía para correr modelos de visión computacional YOLO en Raspberry Pi utilizando OpenVINO. Esto permite a los usuarios aprovechar la potencia de Raspberry Pi para tareas de visión…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-20-corriendo-yolo-en-raspberry-pi-con-openvino.md"
+    },
+    {
+      "title": "Beelink EQi 304: Ubuntu 26.04 en un mini PC Wildcat Lake",
+      "category": "linux",
+      "date": "2026-07-20",
+      "slug": "beelink-eqi-304-ubuntu-2604-en-un-mini-pc-wildcat-lake",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa Beelink ha lanzado un nuevo mini PC llamado EQi 304, que cuenta con un procesador Intel Core 3 304 y 16 GB de memoria RAM. En este artículo, se analiza la instalación y configuración de Ubuntu 26.04 en este dispositivo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-20-beelink-eqi-304-ubuntu-2604-en-un-mini-pc-wildcat-lake.md"
+    },
+    {
+      "title": "Linux 7.2-rc4: el nuevo normal en el desarrollo del kernel",
+      "category": "linux",
+      "date": "2026-07-20",
+      "slug": "linux-72-rc4-el-nuevo-normal-en-el-desarrollo-del-kerne",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2-rc4 del kernel Linux está disponible para su prueba, con un conjunto de correcciones y mejoras que reflejan el ritmo normal de desarrollo del proyecto. Aunque no hay cambios revolucionarios, la versión sigue avanzando hacia…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-20-linux-72-rc4-el-nuevo-normal-en-el-desarrollo-del-kerne.md"
+    },
+    {
+      "title": "7 formas de instalar imanes en impresiones 3D sin pegamento",
+      "category": "diseño-3d",
+      "date": "2026-07-20",
+      "slug": "7-formas-de-instalar-imanes-en-impresiones-3d-sin-pegam",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "electonica"
+      ],
+      "preview": "Los imanes son una herramienta versátil que se pueden integrar en impresiones 3D para crear objetos con propiedades únicas. Sin embargo, instalarlos de manera efectiva puede ser un desafío.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-07-20-7-formas-de-instalar-imanes-en-impresiones-3d-sin-pegam.md"
+    },
+    {
       "title": "ROS Noticias: Autonomía, Robótica y Competencias",
       "category": "robotica",
       "date": "2026-07-19",
