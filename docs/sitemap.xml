@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-20</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-20</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-21</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-cirujanos-robots-el-futuro-de-la-cirugia-asistida-por-t.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-estudiante-universitaria-equipa-robots-de-la-nasa-con-h.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-drones-invisibles-como-crear-un-vehiculo-aereo-practica.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-gym-gazebo-sim-un-entorno-de-simulacion-para-aprendizaj.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-ros-meetup-barcelona-conecta-con-la-comunidad-de-roboti.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-21-comunicacion-de-radio-a-larga-distancia-con-raspberry-p.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-21-arduino-core-para-nrf54l-soporte-para-microcontroladore.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-21-art-pi-ii-desarrollo-de-placa-de-desarrollo-con-stm32h7.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-21-google-desarrolla-un-nuevo-chip-de-ia-mas-eficiente-par.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-21-google-maps-y-la-lucha-por-la-visibilidad-en-la-escena-.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-21-fedora-reexamina-sus-procesos-de-cambio-para-adaptarse-.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-21-run-ultralytics-yolo-en-raspberry-pi-con-openvino.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-21-mamfs-un-nuevo-filesystem-para-acceso-compartido-de-arc.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-21-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-d-2.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-21-reinicio-frio-para-graficos-intel-en-linux-una-herramie.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-ros-y-robotica-noticias-y-eventos-del-13-de-julio-de-20.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-drone-invisible-la-tecnologia-detras-de-phantom-twist.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-20-cirujanos-roboticos-el-futuro-de-la-cirugia-minimamente.md</loc><lastmod>2026-07-20</lastmod><priority>0.8</priority></url>

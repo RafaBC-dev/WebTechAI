@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Cirujanos robots: el futuro de la cirugía asistida por tecnología avanzada",
+      "category": "robotica",
+      "date": "2026-07-21",
+      "slug": "cirujanos-robots-el-futuro-de-la-cirugia-asistida-por-t",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "medicina"
+      ],
+      "preview": "La robótica está revolucionando la cirugía con la ayuda de cirujanos robots que pueden realizar tareas complejas con precisión y seguridad. Un equipo de investigadores de la Universidad de California en San Diego ha desarrollado un sistema…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-21-cirujanos-robots-el-futuro-de-la-cirugia-asistida-por-t.md"
+    },
+    {
+      "title": "Estudiante universitaria equipa robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-21",
+      "slug": "estudiante-universitaria-equipa-robots-de-la-nasa-con-h",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Una estudiante de posgrado ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en el espacio, insertando antenas en el lugar correcto. Este logro es un paso importante en la exploración espacial y la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-21-estudiante-universitaria-equipa-robots-de-la-nasa-con-h.md"
+    },
+    {
+      "title": "Drones invisibles: cómo crear un vehículo aéreo prácticamente imperceptible",
+      "category": "robotica",
+      "date": "2026-07-21",
+      "slug": "drones-invisibles-como-crear-un-vehiculo-aereo-practica",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Investigadores de la Universidad de Northwestern han desarrollado un drone llamado Phantom Twist que es prácticamente invisible en vuelo. Esta tecnología podría revolucionar la robótica y la vigilancia remota.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-21-drones-invisibles-como-crear-un-vehiculo-aereo-practica.md"
+    },
+    {
+      "title": "Gym Gazebo Sim: un entorno de simulación para aprendizaje por refuerzo en ROS2",
+      "category": "robotica",
+      "date": "2026-07-21",
+      "slug": "gym-gazebo-sim-un-entorno-de-simulacion-para-aprendizaj",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los desarrolladores de Gym Gazebo Sim han creado un entorno de simulación para entrenar agentes de aprendizaje por refuerzo en ROS2 Jazzy y Gazebo Sim Harmonic. Esto permite a los investigadores y desarrolladores experimentar con…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-21-gym-gazebo-sim-un-entorno-de-simulacion-para-aprendizaj.md"
+    },
+    {
+      "title": "ROS Meetup Barcelona: Conecta con la comunidad de robótica",
+      "category": "robotica",
+      "date": "2026-07-21",
+      "slug": "ros-meetup-barcelona-conecta-con-la-comunidad-de-roboti",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de robótica de Barcelona se reúne para compartir experiencias y conocimientos sobre la creación y despliegue de robots en el campo. ANYbotics organiza el próximo ROS Meetup Barcelona, donde se podrán escuchar charlas técnicas,…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-21-ros-meetup-barcelona-conecta-con-la-comunidad-de-roboti.md"
+    },
+    {
+      "title": "Comunicación de radio a larga distancia con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-07-21",
+      "slug": "comunicacion-de-radio-a-larga-distancia-con-raspberry-p",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "¿Necesitas enviar datos desde un proyecto basado en Raspberry Pi más allá del rango de tu red Wi-Fi? Existen soluciones más fiables y asequibles que la extensión de Wi-Fi o cables de Ethernet largos.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-21-comunicacion-de-radio-a-larga-distancia-con-raspberry-p.md"
+    },
+    {
+      "title": "Arduino Core para nRF54L: Soporte para microcontroladores inalámbricos",
+      "category": "embebidos",
+      "date": "2026-07-21",
+      "slug": "arduino-core-para-nrf54l-soporte-para-microcontroladore",
+      "tags": [
+        "arduino",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "Nordic Semiconductor ha lanzado recientemente el nRF54L, un microcontrolador inalámbrico con tecnología Bluetooth LE. Sin embargo, no hay soporte oficial para este chip en el IDE de Arduino. Lolren ha decidido cambiar eso con el proyecto…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-21-arduino-core-para-nrf54l-soporte-para-microcontroladore.md"
+    },
+    {
+      "title": "ART-Pi II: Desarrollo de placa de desarrollo con STM32H7R7 y NeoChrom GPU",
+      "category": "embebidos",
+      "date": "2026-07-21",
+      "slug": "art-pi-ii-desarrollo-de-placa-de-desarrollo-con-stm32h7",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "linux"
+      ],
+      "preview": "La placa de desarrollo ART-Pi II es una solución compacta para proyectos de IoT y robótica que integra un microcontrolador STM32H7R7 con un GPU NeoChrom 2.5D y conectividad WiFi y Bluetooth.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-21-art-pi-ii-desarrollo-de-placa-de-desarrollo-con-stm32h7.md"
+    },
+    {
+      "title": "Google desarrolla un nuevo chip de IA más eficiente para Gemini",
+      "category": "ia",
+      "date": "2026-07-21",
+      "slug": "google-desarrolla-un-nuevo-chip-de-ia-mas-eficiente-par",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Google está trabajando en un nuevo chip de IA diseñado para mejorar la eficiencia de Gemini, su modelo de lenguaje artificial. Esta noticia es relevante porque muestra el compromiso de Google por desarrollar tecnologías más eficientes y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-21-google-desarrolla-un-nuevo-chip-de-ia-mas-eficiente-par.md"
+    },
+    {
+      "title": "Google Maps y la lucha por la visibilidad en la escena gastronómica londinense",
+      "category": "ia",
+      "date": "2026-07-21",
+      "slug": "google-maps-y-la-lucha-por-la-visibilidad-en-la-escena-",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Un análisis de Google Maps revela cómo la plataforma prioriza ciertos restaurantes sobre otros, creando un ciclo vicioso que hace que los nuevos locales tengan dificultades para atraer a clientes. ¿Qué hay detrás de esta decisión?",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-21-google-maps-y-la-lucha-por-la-visibilidad-en-la-escena-.md"
+    },
+    {
+      "title": "Fedora reexamina sus procesos de cambio para adaptarse a la evolución",
+      "category": "linux",
+      "date": "2026-07-21",
+      "slug": "fedora-reexamina-sus-procesos-de-cambio-para-adaptarse-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto Fedora, conocido por sus procesos bien definidos, está experimentando un momento de reflexión sobre sus métodos de cambio. Esto se debe a que algunos de sus procesos ya no son efectivos como antes.",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-21-fedora-reexamina-sus-procesos-de-cambio-para-adaptarse-.md"
+    },
+    {
+      "title": "Run Ultralytics YOLO en Raspberry Pi con OpenVINO",
+      "category": "linux",
+      "date": "2026-07-21",
+      "slug": "run-ultralytics-yolo-en-raspberry-pi-con-openvino",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Los desarrolladores de Intel y Ultralytics han creado un guía para ejecutar modelos de visión computacional YOLO en Raspberry Pi utilizando OpenVINO. Esto permite a los usuarios aprovechar la potencia de la visión artificial en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-21-run-ultralytics-yolo-en-raspberry-pi-con-openvino.md"
+    },
+    {
+      "title": "Mamfs: un nuevo filesystem para acceso compartido de archivos en memoria",
+      "category": "linux",
+      "date": "2026-07-21",
+      "slug": "mamfs-un-nuevo-filesystem-para-acceso-compartido-de-arc",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El filesystem mamfs, diseñado para proporcionar acceso compartido a archivos enormes en memoria, ha regresado al Linux Storage, Filesystem, Memory Management, and BPF Summit (LSFMM+BPF) en 2026. Aunque fue discutido en 2024 y 2025, aún no…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-21-mamfs-un-nuevo-filesystem-para-acceso-compartido-de-arc.md"
+    },
+    {
+      "title": "Gazebo PMC: actualizaciones y cambios en el proyecto de simulación de robótica",
+      "category": "linux",
+      "date": "2026-07-21",
+      "slug": "gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-d-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Gazebo se reunió el 20 de julio de 2026 para discutir actualizaciones y cambios en el proyecto de simulación de robótica. Entre los temas abordados se encuentran la consolidación de dashboards, la mejora de la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-21-gazebo-pmc-actualizaciones-y-cambios-en-el-proyecto-d-2.md"
+    },
+    {
+      "title": "Reinicio frío para gráficos Intel en Linux: una herramienta de recuperación",
+      "category": "linux",
+      "date": "2026-07-21",
+      "slug": "reinicio-frio-para-graficos-intel-en-linux-una-herramie",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Los ingenieros de Intel están trabajando en una herramienta de recuperación para gráficos Intel en Linux que permite reiniciar el dispositivo de gráficos de manera fría en caso de errores persistentes.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-21-reinicio-frio-para-graficos-intel-en-linux-una-herramie.md"
+    },
+    {
       "title": "ROS y robótica: noticias y eventos del 13 de julio de 2026",
       "category": "robotica",
       "date": "2026-07-20",
