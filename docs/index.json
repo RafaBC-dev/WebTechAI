@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Estudiante desarrolla algoritmo para ensamblar satélites en espacio",
+      "category": "robotica",
+      "date": "2026-07-22",
+      "slug": "estudiante-desarrolla-algoritmo-para-ensamblar-satelite",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La estudiante de posgrado Sarah Downs ha colaborado con NASA y la Fuerza Aérea estadounidense para desarrollar un algoritmo que permite a robots ensamblar satélites en espacio con mayor precisión.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-22-estudiante-desarrolla-algoritmo-para-ensamblar-satelite.md"
+    },
+    {
+      "title": "Buildfarm Dashboard: Herramienta centralizada para ROS y Gazebo",
+      "category": "robotica",
+      "date": "2026-07-22",
+      "slug": "buildfarm-dashboard-herramienta-centralizada-para-ros-y",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS y Gazebo ha lanzado una herramienta innovadora para facilitar la colaboración y la resolución de problemas en la infraestructura de estos proyectos. El Buildfarm Dashboard es una plataforma centralizada que ofrece una…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-22-buildfarm-dashboard-herramienta-centralizada-para-ros-y.md"
+    },
+    {
+      "title": "Drones invisibles: la tecnología que hace que los drones sean prácticamente imperceptibles",
+      "category": "robotica",
+      "date": "2026-07-22",
+      "slug": "drones-invisibles-la-tecnologia-que-hace-que-los-dron-2",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "Los drones tradicionales pueden ser ruidosos y visibles, pero un equipo de investigadores de la Universidad de Northwestern ha desarrollado un drone llamado Phantom Twist que es prácticamente invisible en vuelo. Esto se logra gracias a su…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-22-drones-invisibles-la-tecnologia-que-hace-que-los-dron-2.md"
+    },
+    {
+      "title": "ROS 2: Un camino de aprendizaje para desarrolladores de robótica",
+      "category": "robotica",
+      "date": "2026-07-22",
+      "slug": "ros-2-un-camino-de-aprendizaje-para-desarrolladores-de-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha estado buscando una estructura de aprendizaje coherente para desarrolladores de robótica. Después de evaluar 14 programas de aprendizaje, se ha encontrado que ninguna de ellas define un modelo de competencia o…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-22-ros-2-un-camino-de-aprendizaje-para-desarrolladores-de-.md"
+    },
+    {
+      "title": "Cirujanos robóticos: el futuro de la cirugía se acerca",
+      "category": "robotica",
+      "date": "2026-07-22",
+      "slug": "cirujanos-roboticos-el-futuro-de-la-cirugia-se-acerca",
+      "tags": [
+        "robotica",
+        "medicina",
+        "teleoperacion"
+      ],
+      "preview": "La robótica está revolucionando la medicina con la creación de cirujanos robóticos que pueden realizar operaciones con precisión y seguridad. Estos robots están equipados con tecnología de última generación que les permite interactuar con…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-22-cirujanos-roboticos-el-futuro-de-la-cirugia-se-acerca.md"
+    },
+    {
+      "title": "Emulador NES en ESP32: 60 FPS y emulación de audio",
+      "category": "embebidos",
+      "date": "2026-07-22",
+      "slug": "emulador-nes-en-esp32-60-fps-y-emulacion-de-audio",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Un desarrollador ha creado un emulador de Nintendo Entertainment System (NES) que corre en el microcontrolador ESP32, alcanzando 60 frames por segundo y emulando el audio original. Esto permite jugar a juegos de NES en dispositivos…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-22-emulador-nes-en-esp32-60-fps-y-emulacion-de-audio.md"
+    },
+    {
+      "title": "Un aireador DIY inteligente para mejorar la calidad del aire",
+      "category": "embebidos",
+      "date": "2026-07-22",
+      "slug": "un-aireador-diy-inteligente-para-mejorar-la-calidad-del",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un hacker ha diseñado un sistema de aireado inteligente que monitorea y mejora la calidad del aire en un espacio. Este proyecto utiliza tecnología de microcontroladores y sensores para ofrecer una solución innovadora para mantener un…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-22-un-aireador-diy-inteligente-para-mejorar-la-calidad-del.md"
+    },
+    {
+      "title": "Raspberry Pi Touch Display 2: una pantalla táctil para proyectos interactivos",
+      "category": "ia",
+      "date": "2026-07-22",
+      "slug": "raspberry-pi-touch-display-2-una-pantalla-tactil-para-p",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "Raspberry Pi ha lanzado una nueva pantalla táctil de 10,1 pulgadas para proyectos interactivos, como tablets, sistemas de entretenimiento y tableros de información. Esta pantalla es compatible con Raspberry Pi 5 y Compute Modules…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-22-raspberry-pi-touch-display-2-una-pantalla-tactil-para-p.md"
+    },
+    {
+      "title": "Synthesia lanza plataforma de coaching en vivo con IA para empresas",
+      "category": "ia",
+      "date": "2026-07-22",
+      "slug": "synthesia-lanza-plataforma-de-coaching-en-vivo-con-ia-p",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Synthesia, una startup británica, ha lanzado Roleplay Sessions, una plataforma de entrenamiento interactivo que utiliza IA para simular conversaciones en vivo con empleados de empresas. Esta herramienta busca mejorar la formación de…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-22-synthesia-lanza-plataforma-de-coaching-en-vivo-con-ia-p.md"
+    },
+    {
+      "title": "Anthropic adquiere startup de robótica Physical Intelligence: ¿qué significa?",
+      "category": "ia",
+      "date": "2026-07-22",
+      "slug": "anthropic-adquiere-startup-de-robotica-physical-intelli",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La startup de robótica Physical Intelligence ha sido adquirida por Anthropic, una de las empresas líderes en inteligencia artificial. Esta adquisición podría marcar un punto de inflexión en la investigación de la inteligencia artificial y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-22-anthropic-adquiere-startup-de-robotica-physical-intelli.md"
+    },
+    {
+      "title": "Cyclo Intelligence: una plataforma de aprendizaje por imitación para robótica",
+      "category": "ia",
+      "date": "2026-07-22",
+      "slug": "cyclo-intelligence-una-plataforma-de-aprendizaje-por-im",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La ROBOTIS Humanoid Division ha lanzado Cyclo Intelligence, una plataforma de aprendizaje por imitación para robótica que simplifica el proceso de aprendizaje de robots humanoides. Esta herramienta es fundamental para desarrollar…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-22-cyclo-intelligence-una-plataforma-de-aprendizaje-por-im.md"
+    },
+    {
+      "title": "Cryptsetup 2.8.7: una actualización para superar la deprecación de AF_ALG",
+      "category": "linux",
+      "date": "2026-07-22",
+      "slug": "cryptsetup-287-una-actualizacion-para-superar-la-deprec",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha lanzado una actualización de Cryptsetup para abordar los problemas causados por la deprecación de la interfaz AF_ALG. Esta interfaz ha sido eliminada por razones de seguridad, lo que ha dejado a aplicaciones como…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-22-cryptsetup-287-una-actualizacion-para-superar-la-deprec.md"
+    },
+    {
+      "title": "Qualcomm habilita el ASUS Zenbook A16 en Linux",
+      "category": "linux",
+      "date": "2026-07-22",
+      "slug": "qualcomm-habilita-el-asus-zenbook-a16-en-linux",
+      "tags": [
+        "linux",
+        "robotica",
+        "diseño-3d"
+      ],
+      "preview": "La empresa Qualcomm ha publicado parches de Linux para el portátil ASUS Zenbook A16, equipado con el procesador Snapdragon X2 Elite Extreme. Esto significa que los usuarios pueden utilizar Linux en este dispositivo de alta gama.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-22-qualcomm-habilita-el-asus-zenbook-a16-en-linux.md"
+    },
+    {
+      "title": "Aspiradora robótica abierta y sin nube: una alternativa a las rentas",
+      "category": "linux",
+      "date": "2026-07-22",
+      "slug": "aspiradora-robotica-abierta-y-sin-nube-una-alternativa-",
+      "tags": [
+        "robotica",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "La tendencia de la tecnología a convertirse en una suscripción ha llevado a un cambio en la comunidad abierta, donde se están creando reemplazos para estos servicios. Ahora, esto se está aplicando también en hardware.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-22-aspiradora-robotica-abierta-y-sin-nube-una-alternativa-.md"
+    },
+    {
+      "title": "Avalue RIVAR-1539: panel PC industrial sin ventilador con Intel N150",
+      "category": "linux",
+      "date": "2026-07-22",
+      "slug": "avalue-rivar-1539-panel-pc-industrial-sin-ventilador-co",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "Avalue Technology ha presentado el RIVAR-1539, un panel PC industrial sin ventilador de 15,6 pulgadas con procesador Intel N150. Este sistema está diseñado para aplicaciones de edge computing y HMI, como kioscos de autoorden, contadores…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-22-avalue-rivar-1539-panel-pc-industrial-sin-ventilador-co.md"
+    },
+    {
       "title": "Cirujanos robots: el futuro de la cirugía asistida por tecnología avanzada",
       "category": "robotica",
       "date": "2026-07-21",

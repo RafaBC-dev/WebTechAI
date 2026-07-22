@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-21</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-21</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-22</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-estudiante-desarrolla-algoritmo-para-ensamblar-satelite.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-buildfarm-dashboard-herramienta-centralizada-para-ros-y.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-drones-invisibles-la-tecnologia-que-hace-que-los-dron-2.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-ros-2-un-camino-de-aprendizaje-para-desarrolladores-de-.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-cirujanos-roboticos-el-futuro-de-la-cirugia-se-acerca.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-22-emulador-nes-en-esp32-60-fps-y-emulacion-de-audio.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-22-un-aireador-diy-inteligente-para-mejorar-la-calidad-del.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-22-raspberry-pi-touch-display-2-una-pantalla-tactil-para-p.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-22-synthesia-lanza-plataforma-de-coaching-en-vivo-con-ia-p.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-22-anthropic-adquiere-startup-de-robotica-physical-intelli.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-22-cyclo-intelligence-una-plataforma-de-aprendizaje-por-im.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-22-cryptsetup-287-una-actualizacion-para-superar-la-deprec.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-22-qualcomm-habilita-el-asus-zenbook-a16-en-linux.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-22-aspiradora-robotica-abierta-y-sin-nube-una-alternativa-.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-22-avalue-rivar-1539-panel-pc-industrial-sin-ventilador-co.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-cirujanos-robots-el-futuro-de-la-cirugia-asistida-por-t.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-estudiante-universitaria-equipa-robots-de-la-nasa-con-h.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-21-drones-invisibles-como-crear-un-vehiculo-aereo-practica.md</loc><lastmod>2026-07-21</lastmod><priority>0.8</priority></url>
