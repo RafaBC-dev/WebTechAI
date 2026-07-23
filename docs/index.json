@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Drone invisible: cómo crear un vehículo aéreo prácticamente imperceptible",
+      "category": "robotica",
+      "date": "2026-07-23",
+      "slug": "drone-invisible-como-crear-un-vehiculo-aereo-practicame",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "Investigadores de la Universidad de Northwestern han desarrollado un drone llamado Phantom Twist que es prácticamente invisible en vuelo. Gracias a su diseño computacional optimizado, este vehículo aéreo puede volar sin ser detectado por…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-23-drone-invisible-como-crear-un-vehiculo-aereo-practicame.md"
+    },
+    {
+      "title": "¡Nueva oportunidad laboral en robótica: TriOrb busca a un ingeniero!",
+      "category": "robotica",
+      "date": "2026-07-23",
+      "slug": "nueva-oportunidad-laboral-en-robotica-triorb-busca-a-un",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa de robótica TriOrb busca a un ingeniero para liderar proyectos de implementación de robots autónomos en fábricas en Estados Unidos. Esta oportunidad es ideal para aquellos que buscan trabajar en la vanguardia de la tecnología de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-23-nueva-oportunidad-laboral-en-robotica-triorb-busca-a-un.md"
+    },
+    {
+      "title": "Automatizando el desarrollo de robots con ROS 2",
+      "category": "robotica",
+      "date": "2026-07-23",
+      "slug": "automatizando-el-desarrollo-de-robots-con-ros-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un desarrollador de robots busca consejos para llegar a los usuarios de ROS 2, una herramienta clave para automatizar el desarrollo de robots. ¿Cómo se construyó esta herramienta y qué problemas resuelve?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-23-automatizando-el-desarrollo-de-robots-con-ros-2.md"
+    },
+    {
+      "title": "Cirujanos robóticos: la próxima generación de cirugía asistida por robots",
+      "category": "robotica",
+      "date": "2026-07-23",
+      "slug": "cirujanos-roboticos-la-proxima-generacion-de-cirugia-as",
+      "tags": [
+        "robotica",
+        "medicina",
+        "linux"
+      ],
+      "preview": "La robótica médica está avanzando rápidamente y pronto podríamos ver a cirujanos robóticos realizando operaciones complejas. Pero ¿qué es lo que hace que estos robots sean tan capaces?",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-23-cirujanos-roboticos-la-proxima-generacion-de-cirugia-as.md"
+    },
+    {
+      "title": "Estudiante de posgrado equipa robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-23",
+      "slug": "estudiante-de-posgrado-equipa-robots-de-la-nasa-con-h-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Una estudiante de posgrado de la Universidad de Texas A&M ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en espacio, insertando antenas en el lugar correcto. Este logro podría revolucionar la forma en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-23-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-h-2.md"
+    },
+    {
+      "title": "Xteink X4 Pro: un lector de pantalla táctil de E Ink con firmware abierto",
+      "category": "embebidos",
+      "date": "2026-07-23",
+      "slug": "xteink-x4-pro-un-lector-de-pantalla-tactil-de-e-ink-con",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa Xteink ha lanzado el Xteink X4 Pro, un lector de pantalla táctil de E Ink con una pantalla de 4,3 pulgadas, conectividad WiFi y Bluetooth, y una batería de 1100 mAh. Lo que hace que este dispositivo sea especial es que su…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-23-xteink-x4-pro-un-lector-de-pantalla-tactil-de-e-ink-con.md"
+    },
+    {
+      "title": "Sistema de soporte para multímetro 3D impreso",
+      "category": "embebidos",
+      "date": "2026-07-23",
+      "slug": "sistema-de-soporte-para-multimetro-3d-impreso",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado un sistema de soporte para multímetros compactos, lo que permite organizar instrumentos en la mesa de trabajo de manera eficiente.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-23-sistema-de-soporte-para-multimetro-3d-impreso.md"
+    },
+    {
+      "title": "Kit de herramientas de control de voz para Raspberry Pi Pico 2 W",
+      "category": "embebidos",
+      "date": "2026-07-23",
+      "slug": "kit-de-herramientas-de-control-de-voz-para-raspberry-pi",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La tecnología de control de voz se ha vuelto cada vez más común en los dispositivos inteligentes, pero ahora Moonshine AI ha lanzado un kit de herramientas que permite ejecutar este tipo de tecnología localmente en un Raspberry Pi Pico 2…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-23-kit-de-herramientas-de-control-de-voz-para-raspberry-pi.md"
+    },
+    {
+      "title": "Lámpara de escritorio LED impresora en 3D con diseño moderno",
+      "category": "embebidos",
+      "date": "2026-07-23",
+      "slug": "lampara-de-escritorio-led-impresora-en-3d-con-diseno-mo",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La comunidad de impresión en 3D ha creado una lámpara de escritorio LED con diseño moderno y una cabeza inclinada para iluminación focalizada. Esta lámpara es compacta y puede ser utilizada en escritorios o mesas de noche.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-23-lampara-de-escritorio-led-impresora-en-3d-con-diseno-mo.md"
+    },
+    {
+      "title": "Descubre la nRF54L15 Discovery: un devboard con CMSIS-DAP debugger",
+      "category": "embebidos",
+      "date": "2026-07-23",
+      "slug": "descubre-la-nrf54l15-discovery-un-devboard-con-cmsis-da",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La nRF54L15 Discovery es un devboard compacto para aplicaciones IoT que integra un CMSIS-DAP debugger/programador y soporta protocolos como Bluetooth LE, Thread y Zigbee.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-23-descubre-la-nrf54l15-discovery-un-devboard-con-cmsis-da.md"
+    },
+    {
+      "title": "Adaptando GPUs industriales para el escritorio: una solución asequible",
+      "category": "ia",
+      "date": "2026-07-23",
+      "slug": "adaptando-gpus-industriales-para-el-escritorio-una-solu",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Las GPU industriales, diseñadas para centros de datos, pueden ser adaptadas para el escritorio, ofreciendo una solución asequible para tareas que requieren procesamiento paralelo. Esto podría ser especialmente útil para desarrolladores de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-23-adaptando-gpus-industriales-para-el-escritorio-una-solu.md"
+    },
+    {
+      "title": "Modelo de vórtices de avión explica el vuelo en forma de V de las aves",
+      "category": "ia",
+      "date": "2026-07-23",
+      "slug": "modelo-de-vortices-de-avion-explica-el-vuelo-en-forma-d",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de investigadores de la Universidad de Brown ha desarrollado un modelo que explica por qué las aves migratorias vuelan en forma de V, lo que les ahorra energía y les permite mantener una configuración óptima en el vuelo.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-23-modelo-de-vortices-de-avion-explica-el-vuelo-en-forma-d.md"
+    },
+    {
+      "title": "Modelos de Lenguaje en el Kernel: una Nueva Frontera en IA",
+      "category": "linux",
+      "date": "2026-07-23",
+      "slug": "modelos-de-lenguaje-en-el-kernel-una-nueva-frontera-en-",
+      "tags": [
+        "llms",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "Los modelos de lenguaje en el kernel (LLMs) están revolucionando la forma en que los sistemas operativos interactúan con los usuarios. Estos modelos permiten a los sistemas aprender y mejorar su comportamiento de manera autónoma, lo que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-23-modelos-de-lenguaje-en-el-kernel-una-nueva-frontera-en-.md"
+    },
+    {
+      "title": "PyPI rechaza nuevos archivos después de 14 días para evitar ataques",
+      "category": "linux",
+      "date": "2026-07-23",
+      "slug": "pypi-rechaza-nuevos-archivos-despues-de-14-dias-para-ev",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "La Python Software Foundation ha implementado un cambio en el Python Package Index para evitar que proyectos comprometidos contaminen versiones antiguas. Esto se debe a que dos proyectos populares, LiteLLM y Telnyx, fueron comprometidos…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-23-pypi-rechaza-nuevos-archivos-despues-de-14-dias-para-ev.md"
+    },
+    {
+      "title": "Construye un retroconsola personalizado con el Arduino UNO Q Arcade bundle",
+      "category": "linux",
+      "date": "2026-07-23",
+      "slug": "construye-un-retroconsola-personalizado-con-el-arduino-",
+      "tags": [
+        "robotica",
+        "arduino",
+        "linux"
+      ],
+      "preview": "El Arduino UNO Q Arcade bundle es un kit que permite a los usuarios crear una retroconsola personalizada para jugar a juegos clásicos con una gran variedad de opciones de control y configuración.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-23-construye-un-retroconsola-personalizado-con-el-arduino-.md"
+    },
+    {
       "title": "Estudiante desarrolla algoritmo para ensamblar satélites en espacio",
       "category": "robotica",
       "date": "2026-07-22",

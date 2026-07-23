@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-22</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-22</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-23</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-23</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-drone-invisible-como-crear-un-vehiculo-aereo-practicame.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-nueva-oportunidad-laboral-en-robotica-triorb-busca-a-un.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-automatizando-el-desarrollo-de-robots-con-ros-2.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-cirujanos-roboticos-la-proxima-generacion-de-cirugia-as.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-h-2.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-xteink-x4-pro-un-lector-de-pantalla-tactil-de-e-ink-con.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-sistema-de-soporte-para-multimetro-3d-impreso.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-kit-de-herramientas-de-control-de-voz-para-raspberry-pi.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-lampara-de-escritorio-led-impresora-en-3d-con-diseno-mo.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-descubre-la-nrf54l15-discovery-un-devboard-con-cmsis-da.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-23-adaptando-gpus-industriales-para-el-escritorio-una-solu.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-23-modelo-de-vortices-de-avion-explica-el-vuelo-en-forma-d.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-modelos-de-lenguaje-en-el-kernel-una-nueva-frontera-en-.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-pypi-rechaza-nuevos-archivos-despues-de-14-dias-para-ev.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-construye-un-retroconsola-personalizado-con-el-arduino-.md</loc><lastmod>2026-07-23</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-estudiante-desarrolla-algoritmo-para-ensamblar-satelite.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-buildfarm-dashboard-herramienta-centralizada-para-ros-y.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-22-drones-invisibles-la-tecnologia-que-hace-que-los-dron-2.md</loc><lastmod>2026-07-22</lastmod><priority>0.8</priority></url>
