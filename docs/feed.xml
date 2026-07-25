@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 24 Jul 2026 09:17:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 08:57:22 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nueva pantalla táctil de 10 pulgadas para Raspberry Pi, a $80</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-pi-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-pi-.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La Raspberry Pi ha lanzado una nueva pantalla táctil de 10 pulgadas para sus dispositivos, con una resolución más alta y un ángulo de visión más amplio. Esta pantalla es ideal para aplicaciones de automación, kioscos y sistemas de control…</description>
+  </item>
+  <item>
+    <title>OpenAI lanza su primer hardware: un teclado personalizable para ChatGPT</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-openai-lanza-su-primer-hardware-un-teclado-personalizab.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-openai-lanza-su-primer-hardware-un-teclado-personalizab.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha entrado en el mercado de hardware con su primer producto, un teclado personalizable llamado Micro, diseñado para trabajar con ChatGPT. Este lanzamiento ha generado polémica debido a la disputa legal con Apple y la posible…</description>
+  </item>
+  <item>
+    <title>Beelink ME Pro 2-bay NAS con procesador Intel Wildcat Lake</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-beelink-me-pro-2-bay-nas-con-procesador-intel-wildcat-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-beelink-me-pro-2-bay-nas-con-procesador-intel-wildcat-l.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Beelink ha lanzado una actualización de su NAS ME Pro, ahora con procesador Intel Wildcat Lake y mejoras en la conectividad. Este dispositivo es ideal para aquellos que buscan una solución de almacenamiento en red con alta velocidad y…</description>
+  </item>
+  <item>
+    <title>Debian considera una resolución general sobre el uso de LLM en el proyecto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-debian-considera-una-resolucion-general-sobre-el-uso-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-debian-considera-una-resolucion-general-sobre-el-uso-de.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de Debian está debatiendo sobre permitir o no el uso de modelos de lenguaje grande (LLM) en el desarrollo de software. La discusión se centra en si estos modelos pueden contribuir de manera significativa al proyecto sin…</description>
+  </item>
+  <item>
+    <title>Un robot humanoide italiano se hace realidad en solo seis meses</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-un-robot-humanoide-italiano-se-hace-realidad-en-solo-se.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-un-robot-humanoide-italiano-se-hace-realidad-en-solo-se.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El equipo de IEEE Spectrum ha creado un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con personas de manera segura y natural. Este avance es un paso importante hacia la creación de la Inteligencia Física…</description>
+  </item>
+  <item>
+    <title>Cognición adquiere Poke: la personalidad de IA se vuelve un activo competitivo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-cognicion-adquiere-poke-la-personalidad-de-ia-se-vuelve.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-cognicion-adquiere-poke-la-personalidad-de-ia-se-vuelve.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa de código abierto Cognición ha adquirido a Poke, una asistente de IA que interactúa con los usuarios de forma más amistosa que otros asistentes de IA. Esta adquisición destaca la creciente importancia de la personalidad de IA en…</description>
+  </item>
+  <item>
+    <title>Cómo se crea el Fedora 45: El proceso de creación de una distribución Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-25-como-se-crea-el-fedora-45-el-proceso-de-creacion-de-una.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-25-como-se-crea-el-fedora-45-el-proceso-de-creacion-de-una.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El Fedora 45 es una de las distribuciones Linux más populares, pero ¿sabes cómo se crea? Simon de Vlieger, contribuyente de Fedora, nos ofrece una visión detallada del proceso de creación de esta distribución.</description>
+  </item>
+  <item>
+    <title>Actualizaciones importantes en el núcleo estable de Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-25-actualizaciones-importantes-en-el-nucleo-estable-de-lin.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-25-actualizaciones-importantes-en-el-nucleo-estable-de-lin.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El equipo de desarrollo de Linux ha lanzado actualizaciones importantes en varios núcleos estable, incluyendo el 7.1.5, 6.18.40, 6.12.97, 6.6.145, 6.1.178, 5.15.212 y 5.10.261. Estas actualizaciones incluyen más de 2.000 parches, lo que…</description>
+  </item>
+  <item>
+    <title>CirkitScape Top HAT: una tarjeta de expansión para Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-25-cirkitscape-top-hat-una-tarjeta-de-expansion-para-raspb.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-25-cirkitscape-top-hat-una-tarjeta-de-expansion-para-raspb.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>CirkitScape ha lanzado la Top HAT, una tarjeta de expansión para Raspberry Pi que agrega funcionalidades adicionales como GPIOs, RS-485 y ADC. Esta tarjeta busca facilitar la prototipificación y el desarrollo de proyectos con Raspberry Pi.</description>
+  </item>
+  <item>
+    <title>Robot 3D impreso con Inteligencia Artificial para corregir gramática</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-25-robot-3d-impreso-con-inteligencia-artificial-para-corre.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-25-robot-3d-impreso-con-inteligencia-artificial-para-corre.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un entusiasta de la robótica ha creado un robot 3D impreso con Inteligencia Artificial que puede escuchar y corregir errores gramaticales en inglés. Este proyecto combina tecnologías como la impresión 3D, servos y Raspberry Pi.</description>
+  </item>
+  <item>
+    <title>Desarrollo de un robot autónomo con ROS 2 y OpenCV</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-desarrollo-de-un-robot-autonomo-con-ros-2-y-opencv.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-desarrollo-de-un-robot-autonomo-con-ros-2-y-opencv.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un ingeniero ha publicado la segunda parte de su serie sobre el desarrollo de un robot autónomo llamado Pavlov Mini Wheel, que utiliza la plataforma ROS 2 y la biblioteca OpenCV para realizar tareas de detección de objetos y navegación.…</description>
+  </item>
+  <item>
+    <title>Estudiante universitaria equipa a robots de la NASA con habilidades de ensamblaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-estudiante-universitaria-equipa-a-robots-de-la-nasa-con.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-estudiante-universitaria-equipa-a-robots-de-la-nasa-con.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Una estudiante de posgrado ha desarrollado un algoritmo que permite a robots assemblar satélites en espacio, insertando antenas en el lugar correcto. Esta innovación podría revolucionar la forma en que se realizan misiones espaciales.</description>
+  </item>
+  <item>
+    <title>Cirujanos robotizados: el futuro de la cirugía</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-cirujanos-robotizados-el-futuro-de-la-cirugia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-cirujanos-robotizados-el-futuro-de-la-cirugia.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de investigadores de la Universidad de California en San Diego ha desarrollado un sistema de cirugía robotizada que puede realizar tareas quirúrgicas con precisión y seguridad. Este avance podría revolucionar la forma en que se…</description>
+  </item>
+  <item>
+    <title>Fusión de LiDAR y cámaras para mejorar la navegación de robots</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-fusion-de-lidar-y-camaras-para-mejorar-la-navegacion-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-fusion-de-lidar-y-camaras-para-mejorar-la-navegacion-de.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un estudiante de secundaria ha lanzado un paquete de software que fusiona datos de LiDAR y cámaras para mejorar la navegación de robots. Este paquete, llamado scan_detection_fusion, puede ayudar a los robots a detectar obstáculos y a…</description>
+  </item>
+  <item>
+    <title>ROS: Nuevas Noticias y Proyectos en Robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-ros-nuevas-noticias-y-proyectos-en-robotica.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-25-ros-nuevas-noticias-y-proyectos-en-robotica.md</guid>
+    <pubDate>Sat, 25 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La semana pasada se han presentado varias noticias y proyectos interesantes en el mundo de la robótica con ROS (Robot Operating System). Desde la presentación de un robot artístico gigante hasta la mejora de la navegación en entornos…</description>
+  </item>
   <item>
     <title>Anthropic actualiza Claude con modelos más capaces para conversaciones vocales</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-24-anthropic-actualiza-claude-con-modelos-mas-capaces-para.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 24 Jul 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>La Escuela de Verano de ROS en Hangzhou, China ha concluido con éxito después de siete días intensos de conferencias académicas, entrenamiento práctico y proyectos de equipo. Esta evento anual ha reunido a más de 700 estudiantes,…</description>
-  </item>
-  <item>
-    <title>Modelo de vórtices de avión explica el vuelo en forma de V de las aves</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-23-modelo-de-vortices-de-avion-explica-el-vuelo-en-forma-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-23-modelo-de-vortices-de-avion-explica-el-vuelo-en-forma-d.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de investigadores de la Universidad de Brown ha desarrollado un modelo que explica por qué las aves migratorias vuelan en forma de V, lo que les ahorra energía y les permite mantener una configuración óptima en el vuelo.</description>
-  </item>
-  <item>
-    <title>Adaptando GPUs industriales para el escritorio: una solución asequible</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-23-adaptando-gpus-industriales-para-el-escritorio-una-solu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-23-adaptando-gpus-industriales-para-el-escritorio-una-solu.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Las GPU industriales, diseñadas para centros de datos, pueden ser adaptadas para el escritorio, ofreciendo una solución asequible para tareas que requieren procesamiento paralelo. Esto podría ser especialmente útil para desarrolladores de…</description>
-  </item>
-  <item>
-    <title>PyPI rechaza nuevos archivos después de 14 días para evitar ataques</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-pypi-rechaza-nuevos-archivos-despues-de-14-dias-para-ev.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-pypi-rechaza-nuevos-archivos-despues-de-14-dias-para-ev.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La Python Software Foundation ha implementado un cambio en el Python Package Index para evitar que proyectos comprometidos contaminen versiones antiguas. Esto se debe a que dos proyectos populares, LiteLLM y Telnyx, fueron comprometidos…</description>
-  </item>
-  <item>
-    <title>Construye un retroconsola personalizado con el Arduino UNO Q Arcade bundle</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-construye-un-retroconsola-personalizado-con-el-arduino-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-construye-un-retroconsola-personalizado-con-el-arduino-.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El Arduino UNO Q Arcade bundle es un kit que permite a los usuarios crear una retroconsola personalizada para jugar a juegos clásicos con una gran variedad de opciones de control y configuración.</description>
-  </item>
-  <item>
-    <title>Modelos de Lenguaje en el Kernel: una Nueva Frontera en IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-modelos-de-lenguaje-en-el-kernel-una-nueva-frontera-en-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-23-modelos-de-lenguaje-en-el-kernel-una-nueva-frontera-en-.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Los modelos de lenguaje en el kernel (LLMs) están revolucionando la forma en que los sistemas operativos interactúan con los usuarios. Estos modelos permiten a los sistemas aprender y mejorar su comportamiento de manera autónoma, lo que…</description>
-  </item>
-  <item>
-    <title>Descubre la nRF54L15 Discovery: un devboard con CMSIS-DAP debugger</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-descubre-la-nrf54l15-discovery-un-devboard-con-cmsis-da.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-descubre-la-nrf54l15-discovery-un-devboard-con-cmsis-da.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La nRF54L15 Discovery es un devboard compacto para aplicaciones IoT que integra un CMSIS-DAP debugger/programador y soporta protocolos como Bluetooth LE, Thread y Zigbee.</description>
-  </item>
-  <item>
-    <title>Kit de herramientas de control de voz para Raspberry Pi Pico 2 W</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-kit-de-herramientas-de-control-de-voz-para-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-kit-de-herramientas-de-control-de-voz-para-raspberry-pi.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La tecnología de control de voz se ha vuelto cada vez más común en los dispositivos inteligentes, pero ahora Moonshine AI ha lanzado un kit de herramientas que permite ejecutar este tipo de tecnología localmente en un Raspberry Pi Pico 2…</description>
-  </item>
-  <item>
-    <title>Lámpara de escritorio LED impresora en 3D con diseño moderno</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-lampara-de-escritorio-led-impresora-en-3d-con-diseno-mo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-lampara-de-escritorio-led-impresora-en-3d-con-diseno-mo.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión en 3D ha creado una lámpara de escritorio LED con diseño moderno y una cabeza inclinada para iluminación focalizada. Esta lámpara es compacta y puede ser utilizada en escritorios o mesas de noche.</description>
-  </item>
-  <item>
-    <title>Xteink X4 Pro: un lector de pantalla táctil de E Ink con firmware abierto</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-xteink-x4-pro-un-lector-de-pantalla-tactil-de-e-ink-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-xteink-x4-pro-un-lector-de-pantalla-tactil-de-e-ink-con.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Xteink ha lanzado el Xteink X4 Pro, un lector de pantalla táctil de E Ink con una pantalla de 4,3 pulgadas, conectividad WiFi y Bluetooth, y una batería de 1100 mAh. Lo que hace que este dispositivo sea especial es que su…</description>
-  </item>
-  <item>
-    <title>Sistema de soporte para multímetro 3D impreso</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-sistema-de-soporte-para-multimetro-3d-impreso.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-23-sistema-de-soporte-para-multimetro-3d-impreso.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de impresión 3D ha creado un sistema de soporte para multímetros compactos, lo que permite organizar instrumentos en la mesa de trabajo de manera eficiente.</description>
-  </item>
-  <item>
-    <title>Drone invisible: cómo crear un vehículo aéreo prácticamente imperceptible</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-drone-invisible-como-crear-un-vehiculo-aereo-practicame.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-drone-invisible-como-crear-un-vehiculo-aereo-practicame.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Investigadores de la Universidad de Northwestern han desarrollado un drone llamado Phantom Twist que es prácticamente invisible en vuelo. Gracias a su diseño computacional optimizado, este vehículo aéreo puede volar sin ser detectado por…</description>
-  </item>
-  <item>
-    <title>Automatizando el desarrollo de robots con ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-automatizando-el-desarrollo-de-robots-con-ros-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-automatizando-el-desarrollo-de-robots-con-ros-2.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador de robots busca consejos para llegar a los usuarios de ROS 2, una herramienta clave para automatizar el desarrollo de robots. ¿Cómo se construyó esta herramienta y qué problemas resuelve?</description>
-  </item>
-  <item>
-    <title>Cirujanos robóticos: la próxima generación de cirugía asistida por robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-cirujanos-roboticos-la-proxima-generacion-de-cirugia-as.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-cirujanos-roboticos-la-proxima-generacion-de-cirugia-as.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica médica está avanzando rápidamente y pronto podríamos ver a cirujanos robóticos realizando operaciones complejas. Pero ¿qué es lo que hace que estos robots sean tan capaces?</description>
-  </item>
-  <item>
-    <title>Estudiante de posgrado equipa robots de la NASA con habilidades de ensamblaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-h-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-estudiante-de-posgrado-equipa-robots-de-la-nasa-con-h-2.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una estudiante de posgrado de la Universidad de Texas A&amp;M ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en espacio, insertando antenas en el lugar correcto. Este logro podría revolucionar la forma en…</description>
-  </item>
-  <item>
-    <title>¡Nueva oportunidad laboral en robótica: TriOrb busca a un ingeniero!</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-nueva-oportunidad-laboral-en-robotica-triorb-busca-a-un.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-23-nueva-oportunidad-laboral-en-robotica-triorb-busca-a-un.md</guid>
-    <pubDate>Thu, 23 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La empresa de robótica TriOrb busca a un ingeniero para liderar proyectos de implementación de robots autónomos en fábricas en Estados Unidos. Esta oportunidad es ideal para aquellos que buscan trabajar en la vanguardia de la tecnología de…</description>
   </item>
 </channel>
 </rss>

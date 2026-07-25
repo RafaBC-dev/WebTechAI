@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Nueva pantalla táctil de 10 pulgadas para Raspberry Pi, a $80",
+      "category": "ia",
+      "date": "2026-07-25",
+      "slug": "nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-pi-",
+      "tags": [
+        "robotica",
+        "linux",
+        "raspberry-pi"
+      ],
+      "preview": "La Raspberry Pi ha lanzado una nueva pantalla táctil de 10 pulgadas para sus dispositivos, con una resolución más alta y un ángulo de visión más amplio. Esta pantalla es ideal para aplicaciones de automación, kioscos y sistemas de control…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-25-nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-pi-.md"
+    },
+    {
+      "title": "OpenAI lanza su primer hardware: un teclado personalizable para ChatGPT",
+      "category": "ia",
+      "date": "2026-07-25",
+      "slug": "openai-lanza-su-primer-hardware-un-teclado-personalizab",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "OpenAI ha entrado en el mercado de hardware con su primer producto, un teclado personalizable llamado Micro, diseñado para trabajar con ChatGPT. Este lanzamiento ha generado polémica debido a la disputa legal con Apple y la posible…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-25-openai-lanza-su-primer-hardware-un-teclado-personalizab.md"
+    },
+    {
+      "title": "Beelink ME Pro 2-bay NAS con procesador Intel Wildcat Lake",
+      "category": "ia",
+      "date": "2026-07-25",
+      "slug": "beelink-me-pro-2-bay-nas-con-procesador-intel-wildcat-l",
+      "tags": [
+        "linux",
+        "ia-local",
+        "herramientas",
+        "codigo"
+      ],
+      "preview": "Beelink ha lanzado una actualización de su NAS ME Pro, ahora con procesador Intel Wildcat Lake y mejoras en la conectividad. Este dispositivo es ideal para aquellos que buscan una solución de almacenamiento en red con alta velocidad y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-25-beelink-me-pro-2-bay-nas-con-procesador-intel-wildcat-l.md"
+    },
+    {
+      "title": "Debian considera una resolución general sobre el uso de LLM en el proyecto",
+      "category": "ia",
+      "date": "2026-07-25",
+      "slug": "debian-considera-una-resolucion-general-sobre-el-uso-de",
+      "tags": [
+        "ia-local",
+        "llms",
+        "linux"
+      ],
+      "preview": "La comunidad de Debian está debatiendo sobre permitir o no el uso de modelos de lenguaje grande (LLM) en el desarrollo de software. La discusión se centra en si estos modelos pueden contribuir de manera significativa al proyecto sin…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-25-debian-considera-una-resolucion-general-sobre-el-uso-de.md"
+    },
+    {
+      "title": "Un robot humanoide italiano se hace realidad en solo seis meses",
+      "category": "ia",
+      "date": "2026-07-25",
+      "slug": "un-robot-humanoide-italiano-se-hace-realidad-en-solo-se",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El equipo de IEEE Spectrum ha creado un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con personas de manera segura y natural. Este avance es un paso importante hacia la creación de la Inteligencia Física…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-25-un-robot-humanoide-italiano-se-hace-realidad-en-solo-se.md"
+    },
+    {
+      "title": "Cognición adquiere Poke: la personalidad de IA se vuelve un activo competitivo",
+      "category": "ia",
+      "date": "2026-07-25",
+      "slug": "cognicion-adquiere-poke-la-personalidad-de-ia-se-vuelve",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "python"
+      ],
+      "preview": "La empresa de código abierto Cognición ha adquirido a Poke, una asistente de IA que interactúa con los usuarios de forma más amistosa que otros asistentes de IA. Esta adquisición destaca la creciente importancia de la personalidad de IA en…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-25-cognicion-adquiere-poke-la-personalidad-de-ia-se-vuelve.md"
+    },
+    {
+      "title": "Cómo se crea el Fedora 45: El proceso de creación de una distribución Linux",
+      "category": "linux",
+      "date": "2026-07-25",
+      "slug": "como-se-crea-el-fedora-45-el-proceso-de-creacion-de-una",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El Fedora 45 es una de las distribuciones Linux más populares, pero ¿sabes cómo se crea? Simon de Vlieger, contribuyente de Fedora, nos ofrece una visión detallada del proceso de creación de esta distribución.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-25-como-se-crea-el-fedora-45-el-proceso-de-creacion-de-una.md"
+    },
+    {
+      "title": "Actualizaciones importantes en el núcleo estable de Linux",
+      "category": "linux",
+      "date": "2026-07-25",
+      "slug": "actualizaciones-importantes-en-el-nucleo-estable-de-lin",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El equipo de desarrollo de Linux ha lanzado actualizaciones importantes en varios núcleos estable, incluyendo el 7.1.5, 6.18.40, 6.12.97, 6.6.145, 6.1.178, 5.15.212 y 5.10.261. Estas actualizaciones incluyen más de 2.000 parches, lo que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-25-actualizaciones-importantes-en-el-nucleo-estable-de-lin.md"
+    },
+    {
+      "title": "CirkitScape Top HAT: una tarjeta de expansión para Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-07-25",
+      "slug": "cirkitscape-top-hat-una-tarjeta-de-expansion-para-raspb",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "CirkitScape ha lanzado la Top HAT, una tarjeta de expansión para Raspberry Pi que agrega funcionalidades adicionales como GPIOs, RS-485 y ADC. Esta tarjeta busca facilitar la prototipificación y el desarrollo de proyectos con Raspberry Pi.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-25-cirkitscape-top-hat-una-tarjeta-de-expansion-para-raspb.md"
+    },
+    {
+      "title": "Robot 3D impreso con Inteligencia Artificial para corregir gramática",
+      "category": "diseño-3d",
+      "date": "2026-07-25",
+      "slug": "robot-3d-impreso-con-inteligencia-artificial-para-corre",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "raspberry-pi"
+      ],
+      "preview": "Un entusiasta de la robótica ha creado un robot 3D impreso con Inteligencia Artificial que puede escuchar y corregir errores gramaticales en inglés. Este proyecto combina tecnologías como la impresión 3D, servos y Raspberry Pi.",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-07-25-robot-3d-impreso-con-inteligencia-artificial-para-corre.md"
+    },
+    {
+      "title": "Desarrollo de un robot autónomo con ROS 2 y OpenCV",
+      "category": "robotica",
+      "date": "2026-07-25",
+      "slug": "desarrollo-de-un-robot-autonomo-con-ros-2-y-opencv",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un ingeniero ha publicado la segunda parte de su serie sobre el desarrollo de un robot autónomo llamado Pavlov Mini Wheel, que utiliza la plataforma ROS 2 y la biblioteca OpenCV para realizar tareas de detección de objetos y navegación.…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-25-desarrollo-de-un-robot-autonomo-con-ros-2-y-opencv.md"
+    },
+    {
+      "title": "Estudiante universitaria equipa a robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-25",
+      "slug": "estudiante-universitaria-equipa-a-robots-de-la-nasa-con",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Una estudiante de posgrado ha desarrollado un algoritmo que permite a robots assemblar satélites en espacio, insertando antenas en el lugar correcto. Esta innovación podría revolucionar la forma en que se realizan misiones espaciales.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-25-estudiante-universitaria-equipa-a-robots-de-la-nasa-con.md"
+    },
+    {
+      "title": "Cirujanos robotizados: el futuro de la cirugía",
+      "category": "robotica",
+      "date": "2026-07-25",
+      "slug": "cirujanos-robotizados-el-futuro-de-la-cirugia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "teleoperacion"
+      ],
+      "preview": "Un equipo de investigadores de la Universidad de California en San Diego ha desarrollado un sistema de cirugía robotizada que puede realizar tareas quirúrgicas con precisión y seguridad. Este avance podría revolucionar la forma en que se…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-25-cirujanos-robotizados-el-futuro-de-la-cirugia.md"
+    },
+    {
+      "title": "Fusión de LiDAR y cámaras para mejorar la navegación de robots",
+      "category": "robotica",
+      "date": "2026-07-25",
+      "slug": "fusion-de-lidar-y-camaras-para-mejorar-la-navegacion-de",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "Un estudiante de secundaria ha lanzado un paquete de software que fusiona datos de LiDAR y cámaras para mejorar la navegación de robots. Este paquete, llamado scan_detection_fusion, puede ayudar a los robots a detectar obstáculos y a…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-25-fusion-de-lidar-y-camaras-para-mejorar-la-navegacion-de.md"
+    },
+    {
+      "title": "ROS: Nuevas Noticias y Proyectos en Robótica",
+      "category": "robotica",
+      "date": "2026-07-25",
+      "slug": "ros-nuevas-noticias-y-proyectos-en-robotica",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La semana pasada se han presentado varias noticias y proyectos interesantes en el mundo de la robótica con ROS (Robot Operating System). Desde la presentación de un robot artístico gigante hasta la mejora de la navegación en entornos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-25-ros-nuevas-noticias-y-proyectos-en-robotica.md"
+    },
+    {
       "title": "Anthropic actualiza Claude con modelos más capaces para conversaciones vocales",
       "category": "ia",
       "date": "2026-07-24",
