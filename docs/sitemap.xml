@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-25</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-26</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-26</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-nunchaku-4-bit-una-revolucion-en-la-inferencia-de-difus.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-raspberry-pi-touch-display-2-de-10-pulgadas-disponible-.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-aprendizaje-automatico-con-raspberry-pi-proyectos-reale.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-debian-considera-restricciones-para-el-uso-de-modelos-d.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-un-robot-humanoide-italiano-se-vuelve-realidad-en-solo-.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-beelink-me-pro-2-bay-nas-obtiene-tratamiento-de-wildcat.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-26-polka-v05-un-nodo-de-procesamiento-de-lidar-mas-eficien.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-26-actualizaciones-de-seguridad-para-sistemas-operativo-28.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-comunicacion-de-radio-a-larga-distancia-con-lora-para-r.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-reconocimiento-de-voz-y-sintesis-de-habla-en-un-raspber.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-cirkitscape-top-hat-amplia-funcionalidades-de-raspberry.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-2.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-detecta-cambios-en-interfaces-ros-2-antes-de-desplegar.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-un-robot-que-entiende-limites-qerra-v2-un-guardian-de-e.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-cirujanos-roboticos-el-futuro-de-la-cirugia-asistida-po.md</loc><lastmod>2026-07-26</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-pi-.md</loc><lastmod>2026-07-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-openai-lanza-su-primer-hardware-un-teclado-personalizab.md</loc><lastmod>2026-07-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-25-beelink-me-pro-2-bay-nas-con-procesador-intel-wildcat-l.md</loc><lastmod>2026-07-25</lastmod><priority>0.8</priority></url>

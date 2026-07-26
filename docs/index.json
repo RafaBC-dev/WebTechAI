@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Nunchaku 4-bit: una revolución en la inferencia de difusores",
+      "category": "ia",
+      "date": "2026-07-26",
+      "slug": "nunchaku-4-bit-una-revolucion-en-la-inferencia-de-difus",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Los modelos de difusores pueden crear imágenes impresionantes, pero requieren mucha memoria y no son accesibles para la mayoría de los ordenadores de consumo. La cuantización es una solución poderosa que reduce la memoria necesaria, pero…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-26-nunchaku-4-bit-una-revolucion-en-la-inferencia-de-difus.md"
+    },
+    {
+      "title": "Raspberry Pi Touch Display 2 de 10 pulgadas disponible a $80",
+      "category": "ia",
+      "date": "2026-07-26",
+      "slug": "raspberry-pi-touch-display-2-de-10-pulgadas-disponible-",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "La Raspberry Pi ha lanzado un nuevo display táctil de 10 pulgadas, con una resolución más alta y un ángulo de visión más amplio. Este dispositivo es perfecto para aplicaciones como dashboards, kiosks y sistemas de control de robots.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-26-raspberry-pi-touch-display-2-de-10-pulgadas-disponible-.md"
+    },
+    {
+      "title": "Aprendizaje automático con Raspberry Pi: proyectos reales y prácticos",
+      "category": "ia",
+      "date": "2026-07-26",
+      "slug": "aprendizaje-automatico-con-raspberry-pi-proyectos-reale",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "python"
+      ],
+      "preview": "La inteligencia artificial no solo se encuentra en centros de datos gigantes, sino también en una computadora de placa única como la Raspberry Pi, que puede ejecutar modelos de aprendizaje automático localmente, de manera segura y privada.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-26-aprendizaje-automatico-con-raspberry-pi-proyectos-reale.md"
+    },
+    {
+      "title": "Debian considera restricciones para el uso de modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-07-26",
+      "slug": "debian-considera-restricciones-para-el-uso-de-modelos-d",
+      "tags": [
+        "ia-local",
+        "llms",
+        "linux"
+      ],
+      "preview": "El proyecto Debian está debatiendo sobre las limitaciones para el uso de modelos de lenguaje en la creación de su distribución. Esto podría afectar a los usuarios que dependen de estas herramientas.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-26-debian-considera-restricciones-para-el-uso-de-modelos-d.md"
+    },
+    {
+      "title": "Un robot humanoide italiano se vuelve realidad en solo seis meses",
+      "category": "ia",
+      "date": "2026-07-26",
+      "slug": "un-robot-humanoide-italiano-se-vuelve-realidad-en-solo-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La empresa italiana ha creado un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con su entorno de manera natural. Este avance en la robótica podría cambiar la forma en que los humanos interactúan con los robots en…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-26-un-robot-humanoide-italiano-se-vuelve-realidad-en-solo-.md"
+    },
+    {
+      "title": "Beelink ME Pro 2-bay NAS obtiene tratamiento de Wildcat Lake y más",
+      "category": "ia",
+      "date": "2026-07-26",
+      "slug": "beelink-me-pro-2-bay-nas-obtiene-tratamiento-de-wildcat",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "La empresa Beelink ha lanzado una actualización de su NAS ME Pro, equipado con el procesador Intel Wildcat Lake y características avanzadas como 10GbE y Thunderbolt 4.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-26-beelink-me-pro-2-bay-nas-obtiene-tratamiento-de-wildcat.md"
+    },
+    {
+      "title": "Polka v0.5: un nodo de procesamiento de lidar más eficiente",
+      "category": "linux",
+      "date": "2026-07-26",
+      "slug": "polka-v05-un-nodo-de-procesamiento-de-lidar-mas-eficien",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Polka es un nodo de procesamiento de lidar que ha sido actualizado a la versión 0.5, ofreciendo mejoras significativas en eficiencia y rendimiento. Esta actualización es relevante para desarrolladores de robótica y sistemas embebidos que…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-26-polka-v05-un-nodo-de-procesamiento-de-lidar-mas-eficien.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-26",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-28",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Mageia, Oracle y SUSE. Estas actualizaciones corrigen vulnerabilidades críticas en paquetes como Java,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-26-actualizaciones-de-seguridad-para-sistemas-operativo-28.md"
+    },
+    {
+      "title": "Comunicación de radio a larga distancia con LoRa para Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-07-26",
+      "slug": "comunicacion-de-radio-a-larga-distancia-con-lora-para-r",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Si necesitas enviar datos desde un proyecto basado en Raspberry Pi más allá de la red Wi-Fi de tu hogar, hay soluciones más confiables que usar un extensor de Wi-Fi o un cable Ethernet muy largo. LoRa es un sistema de radio a larga…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-26-comunicacion-de-radio-a-larga-distancia-con-lora-para-r.md"
+    },
+    {
+      "title": "Reconocimiento de voz y síntesis de habla en un Raspberry Pi Pico 2",
+      "category": "embebidos",
+      "date": "2026-07-26",
+      "slug": "reconocimiento-de-voz-y-sintesis-de-habla-en-un-raspber",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Pete Warden ha lanzado un proyecto para crear una interfaz de voz completa en un chip de solo 50 centavos. Aunque no ha alcanzado su objetivo, ha logrado un avance significativo. Utiliza un Raspberry Pi Pico 2, un microcontrolador con 520…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-26-reconocimiento-de-voz-y-sintesis-de-habla-en-un-raspber.md"
+    },
+    {
+      "title": "CirkitScape Top HAT: amplía funcionalidades de Raspberry Pi con GPIOs adicionales",
+      "category": "embebidos",
+      "date": "2026-07-26",
+      "slug": "cirkitscape-top-hat-amplia-funcionalidades-de-raspberry",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "CirkitScape ha lanzado el Top HAT, una placa de expansión para Raspberry Pi que agrega 16 GPIOs adicionales, un conector RS-485, un conversor analógico-digital de 3 canales y cuatro puertos USB 2.0. Esto facilita la prototipificación, el…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-26-cirkitscape-top-hat-amplia-funcionalidades-de-raspberry.md"
+    },
+    {
+      "title": "Estudiante de posgrado equipa a los robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-26",
+      "slug": "estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Sarah Downs, una estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en el espacio con precisión. Su trabajo se centra en resolver el problema clásico de la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-26-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-2.md"
+    },
+    {
+      "title": "Detecta cambios en interfaces ROS 2 antes de desplegar",
+      "category": "robotica",
+      "date": "2026-07-26",
+      "slug": "detecta-cambios-en-interfaces-ros-2-antes-de-desplegar",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una herramienta llamada roschema para detectar cambios en interfaces ROS 2 antes de que se desplieguen, evitando problemas de compatibilidad y errores de lectura de archivos de registro.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-26-detecta-cambios-en-interfaces-ros-2-antes-de-desplegar.md"
+    },
+    {
+      "title": "Un robot que entiende límites: QERRA-v2, un guardián de ejecución moral",
+      "category": "robotica",
+      "date": "2026-07-26",
+      "slug": "un-robot-que-entiende-limites-qerra-v2-un-guardian-de-e",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de investigación ha creado un sistema de seguridad para robots que va más allá de evitar obstáculos físicos. QERRA-v2 es un sistema que evalúa la intención detrás de las instrucciones de un humano y bloquea la ejecución si se…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-26-un-robot-que-entiende-limites-qerra-v2-un-guardian-de-e.md"
+    },
+    {
+      "title": "Cirujanos robóticos: el futuro de la cirugía asistida por robots",
+      "category": "robotica",
+      "date": "2026-07-26",
+      "slug": "cirujanos-roboticos-el-futuro-de-la-cirugia-asistida-po",
+      "tags": [
+        "robotica",
+        "medicina",
+        "teleoperacion"
+      ],
+      "preview": "La robótica está revolucionando la medicina con la creación de cirujanos robóticos que pueden realizar operaciones complejas con precisión y seguridad. Estos robots están diseñados para asistir a los médicos en la cirugía, permitiendo una…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-26-cirujanos-roboticos-el-futuro-de-la-cirugia-asistida-po.md"
+    },
+    {
       "title": "Nueva pantalla táctil de 10 pulgadas para Raspberry Pi, a $80",
       "category": "ia",
       "date": "2026-07-25",
