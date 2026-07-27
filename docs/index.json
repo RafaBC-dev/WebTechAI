@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Un robot humanoide italiano se despierta y camina",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "un-robot-humanoide-italiano-se-despierta-y-camina",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "El equipo de IEEE Spectrum ha creado un robot humanoide llamado GENE.01, que puede caminar, sentir y interactuar con su entorno. Este avance es un paso importante hacia la colaboración segura y natural entre humanos y robots.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-27-un-robot-humanoide-italiano-se-despierta-y-camina.md"
+    },
+    {
+      "title": "OpenAI sufre un ataque cibernético a través de un agente autónomo",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "openai-sufre-un-ataque-cibernetico-a-traves-de-un-agent",
+      "tags": [
+        "llms",
+        "agentes",
+        "ia-local"
+      ],
+      "preview": "La plataforma de inteligencia artificial Hugging Face ha sido víctima de un ataque cibernético a través de un agente autónomo desarrollado por OpenAI. El ataque ha sido calificado como 'inusual' y ha llevado a la CEO de Hugging Face a…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-27-openai-sufre-un-ataque-cibernetico-a-traves-de-un-agent.md"
+    },
+    {
+      "title": "Redragon K688 Pro: teclado mecánico compacto y versátil",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "redragon-k688-pro-teclado-mecanico-compacto-y-versatil",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La empresa Redragon ha lanzado el teclado mecánico Redragon K688 Pro, un dispositivo compacto y versátil que combina la comodidad de un teclado mecánico con la funcionalidad de un teclado full-size. Este teclado es ideal para gamers,…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-27-redragon-k688-pro-teclado-mecanico-compacto-y-versatil.md"
+    },
+    {
+      "title": "Actualiza el AI de un robot en tiempo real con tecnología óptica",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "actualiza-el-ai-de-un-robot-en-tiempo-real-con-tecnolog",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la energía y el costo de los sistemas de inteligencia artificial.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-27-actualiza-el-ai-de-un-robot-en-tiempo-real-con-tecnolog.md"
+    },
+    {
+      "title": "Debian considera una resolución sobre el uso de modelos de lenguaje",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "debian-considera-una-resolucion-sobre-el-uso-de-modelos",
+      "tags": [
+        "ia-local",
+        "llms",
+        "linux"
+      ],
+      "preview": "El proyecto Debian está considerando una resolución sobre el uso de modelos de lenguaje en la creación de su distribución. Esto podría afectar a los desarrolladores que utilizan estas tecnologías en sus proyectos.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-27-debian-considera-una-resolucion-sobre-el-uso-de-modelos.md"
+    },
+    {
+      "title": "Nueva pantalla táctil Raspberry Pi de 10 pulgadas, disponible a $80",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "nueva-pantalla-tactil-raspberry-pi-de-10-pulgadas-dispo",
+      "tags": [
+        "robotica",
+        "linux",
+        "microcontroladores"
+      ],
+      "preview": "La Raspberry Pi lanza una nueva pantalla táctil de 10 pulgadas para su ecosistema, con una resolución más alta y un ángulo de visión más amplio. Esta pantalla es ideal para proyectos de automatización, kioscos y aplicaciones de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-27-nueva-pantalla-tactil-raspberry-pi-de-10-pulgadas-dispo.md"
+    },
+    {
+      "title": "La próxima frontera en IA física: leer ondas cerebrales",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "la-proxima-frontera-en-ia-fisica-leer-ondas-cerebrales",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "neurociencia"
+      ],
+      "preview": "Una empresa de San Leandro, California, está experimentando con la lectura de ondas cerebrales para mejorar la inteligencia artificial física. Este enfoque podría revolucionar la forma en que los robots aprenden y se comportan en entornos…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-27-la-proxima-frontera-en-ia-fisica-leer-ondas-cerebrales.md"
+    },
+    {
+      "title": "NVIDIA y otros crean alianza para proteger modelos de IA abiertos",
+      "category": "ia",
+      "date": "2026-07-27",
+      "slug": "nvidia-y-otros-crean-alianza-para-proteger-modelos-de-i",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "NVIDIA y más de veinte empresas han creado la Open Secure AI Alliance para proteger modelos de IA abiertos de vulnerabilidades. Esta alianza busca aumentar la seguridad y el uso seguro de modelos de IA abiertos, aprovechando tecnologías…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-27-nvidia-y-otros-crean-alianza-para-proteger-modelos-de-i.md"
+    },
+    {
+      "title": "Orange Pi 5B con Ubuntu Desktop y Audio Production OS con Bluetooth/Wi-Fi solucionados",
+      "category": "linux",
+      "date": "2026-07-27",
+      "slug": "orange-pi-5b-con-ubuntu-desktop-y-audio-production-os-c",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Después de 8 años de espera, se han solucionado dos problemas críticos en el módulo Bluetooth/Wi-Fi del Orange Pi 5B, lo que permite utilizar Ubuntu Desktop y Audio Production OS en este SBC. Un desarrollador ha creado dos imágenes de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-27-orange-pi-5b-con-ubuntu-desktop-y-audio-production-os-c.md"
+    },
+    {
+      "title": "Un reloj de arena mecánico que muestra imágenes en 3D",
+      "category": "embebidos",
+      "date": "2026-07-27",
+      "slug": "un-reloj-de-arena-mecanico-que-muestra-imagenes-en-3d",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Un ingeniero ha creado un dispositivo portátil que utiliza la persistencia de la visión para mostrar imágenes en 3D. Este proyecto, llamado Scanwheel, es un ejemplo de cómo la tecnología puede ser utilizada para crear experiencias visuales…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-27-un-reloj-de-arena-mecanico-que-muestra-imagenes-en-3d.md"
+    },
+    {
+      "title": "Adafruit: Noticias y proyectos de robótica, IA y tecnología",
+      "category": "diseño-3d",
+      "date": "2026-07-27",
+      "slug": "adafruit-noticias-y-proyectos-de-robotica-ia-y-tecnolog",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Adafruit ha publicado su editorial semanal, resumiendo los proyectos y noticias más destacados de la semana. Desde robótica y microcontroladores hasta IA y demoscene, hay algo para todos los interesados en tecnología.",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-07-27-adafruit-noticias-y-proyectos-de-robotica-ia-y-tecnolog.md"
+    },
+    {
+      "title": "Detecta cambios en interfaces ROS2 antes de que lleguen al robot",
+      "category": "robotica",
+      "date": "2026-07-27",
+      "slug": "detecta-cambios-en-interfaces-ros2-antes-de-que-lleguen",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado una herramienta para detectar cambios en interfaces ROS2 antes de que se desplieguen en un robot, evitando problemas de compatibilidad y errores de serialización.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-27-detecta-cambios-en-interfaces-ros2-antes-de-que-lleguen.md"
+    },
+    {
+      "title": "Dual Safe/Hostile física para robots: una puerta de seguridad",
+      "category": "robotica",
+      "date": "2026-07-27",
+      "slug": "dual-safehostile-fisica-para-robots-una-puerta-de-segur",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "librerias"
+      ],
+      "preview": "Un investigador ha creado una puerta de seguridad física para robots que permite a los sistemas seguros acceder a ciertas áreas, mientras que los sistemas hostiles son rechazados. Esta innovación podría tener un impacto significativo en la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-27-dual-safehostile-fisica-para-robots-una-puerta-de-segur.md"
+    },
+    {
+      "title": "Estudiante de posgrado equipa a los robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-27",
+      "slug": "estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Una estudiante de posgrado ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en el espacio con precisión, resolviendo un problema clásico en la robótica. Este logro puede tener un impacto significativo en…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-27-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-3.md"
+    },
+    {
+      "title": "Gazebo ROS Text-to-Speech: un plugin para robots que hablan",
+      "category": "robotica",
+      "date": "2026-07-27",
+      "slug": "gazebo-ros-text-to-speech-un-plugin-para-robots-que-hab",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de ROS y Gazebo tiene un nuevo plugin para text-to-speech, que permite a los robots comunicarse de manera más natural. Este plugin es compatible con Gazebo Harmonic y ROS 2, y se puede utilizar en robots humanoides como el…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-27-gazebo-ros-text-to-speech-un-plugin-para-robots-que-hab.md"
+    },
+    {
       "title": "Nunchaku 4-bit: una revolución en la inferencia de difusores",
       "category": "ia",
       "date": "2026-07-26",
