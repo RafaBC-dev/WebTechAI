@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-27</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-27</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-28</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-28</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-amodei-de-anthropic-no-opina-por-la-prohibicion-de-mode.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiempo.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-un-robot-humanoide-italiano-se-hace-realidad-en-solo-6-.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-implementaciones-misteriosas-de-amx-con-16-y-32-tiles-p.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-amd-pmf-una-herramienta-de-prueba-para-linux-73.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-nueva-version-de-gnu-binutils-soporte-para-risc-v-y-mas.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-actualizaciones-de-seguridad-para-sistemas-operativo-29.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-gazebo-pmc-avances-y-planes-para-la-comunidad-de-roboti.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-ros-pmc-actualizaciones-y-mejoras-en-el-proyecto-de-rob.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-nueva-placa-de-raspberry-pi-con-poe-y-ethernet-para-pro.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-lilygo-t-display-c5-una-placa-esp32-c5-con-pantalla-y-c.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-28-desafio-de-velocidad-en-freecad-en-el-emf-camp-2026.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-3.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-verificar-la-estabilidad-de-robots-en-diferentes-terren.md</loc><lastmod>2026-07-28</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-un-robot-humanoide-italiano-se-despierta-y-camina.md</loc><lastmod>2026-07-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-openai-sufre-un-ataque-cibernetico-a-traves-de-un-agent.md</loc><lastmod>2026-07-27</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-redragon-k688-pro-teclado-mecanico-compacto-y-versatil.md</loc><lastmod>2026-07-27</lastmod><priority>0.8</priority></url>

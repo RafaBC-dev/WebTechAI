@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Nadella advierte a las empresas sobre el riesgo de depender de un modelo de IA",
+      "category": "ia",
+      "date": "2026-07-28",
+      "slug": "nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe",
+      "tags": [
+        "ia-local",
+        "llms",
+        "linux"
+      ],
+      "preview": "Satya Nadella, CEO de Microsoft, ha lanzado un fuerte aviso a las empresas que confían en un solo modelo de inteligencia artificial (IA) para todas sus necesidades. Según él, estas empresas no sobrevivirán a largo plazo.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-28-nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe.md"
+    },
+    {
+      "title": "Amodei de Anthropic: no opina por la prohibición de modelos abiertos, pero teme a la IA china",
+      "category": "ia",
+      "date": "2026-07-28",
+      "slug": "amodei-de-anthropic-no-opina-por-la-prohibicion-de-mode",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El fundador de Anthropic, Dario Amodei, ha respondido a rumores de que su empresa apoya la prohibición de modelos de IA abiertos, pero ha expresado sus preocupaciones sobre la capacidad de la China para desarrollar modelos de IA…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-28-amodei-de-anthropic-no-opina-por-la-prohibicion-de-mode.md"
+    },
+    {
+      "title": "Tecnología óptica actualiza el AI de un robot en tiempo real",
+      "category": "ia",
+      "date": "2026-07-28",
+      "slug": "tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiempo",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "Investigadores de Cornell Tech han desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la carga de memoria y energía en sistemas de inteligencia artificial.",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-28-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiempo.md"
+    },
+    {
+      "title": "Un robot humanoide italiano se hace realidad en solo 6 meses",
+      "category": "ia",
+      "date": "2026-07-28",
+      "slug": "un-robot-humanoide-italiano-se-hace-realidad-en-solo-6-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con su entorno de manera natural. Este logro es el resultado de la innovación y la tecnología avanzada en el…",
+      "has_command": true,
+      "file_path": "content/ia/2026-07-28-un-robot-humanoide-italiano-se-hace-realidad-en-solo-6-.md"
+    },
+    {
+      "title": "Implementaciones misteriosas de AMX con 16 y 32 tiles prometen mayor rendimiento",
+      "category": "linux",
+      "date": "2026-07-28",
+      "slug": "implementaciones-misteriosas-de-amx-con-16-y-32-tiles-p",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador de x86 ha revelado que una entidad corporativa desconocida está trabajando en implementaciones de AMX con 16 y 32 tiles, lo que podría mejorar el rendimiento de las computadoras. Esta noticia ha generado interés en la…",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-28-implementaciones-misteriosas-de-amx-con-16-y-32-tiles-p.md"
+    },
+    {
+      "title": "AMD PMF: una herramienta de prueba para Linux 7.3",
+      "category": "linux",
+      "date": "2026-07-28",
+      "slug": "amd-pmf-una-herramienta-de-prueba-para-linux-73",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La compañía AMD ha anunciado la inclusión de una herramienta de prueba para el marco de gestión de plataforma AMD (AMD PMF) en la versión 7.3 de Linux. Esta herramienta permitirá a los desarrolladores y usuarios testear y analizar los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-28-amd-pmf-una-herramienta-de-prueba-para-linux-73.md"
+    },
+    {
+      "title": "Nueva versión de GNU Binutils: soporte para RISC-V y más",
+      "category": "linux",
+      "date": "2026-07-28",
+      "slug": "nueva-version-de-gnu-binutils-soporte-para-risc-v-y-mas",
+      "tags": [
+        "linux",
+        "embebidos",
+        "codigo"
+      ],
+      "preview": "La versión 2.47 de GNU Binutils ha sido lanzada, con mejoras significativas en soporte para RISC-V y otros sistemas embebidos. Esta actualización es importante para desarrolladores de software y hardware que trabajan con estos sistemas.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-28-nueva-version-de-gnu-binutils-soporte-para-risc-v-y-mas.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-28",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-29",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las últimas semanas han visto una serie de actualizaciones de seguridad para sistemas operativos como Debian, Fedora, Mageia y Red Hat. Estas actualizaciones incluyen correcciones de vulnerabilidades en software como Chromium, Firefox,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-28-actualizaciones-de-seguridad-para-sistemas-operativo-29.md"
+    },
+    {
+      "title": "Gazebo PMC: Avances y planes para la comunidad de robótica",
+      "category": "linux",
+      "date": "2026-07-28",
+      "slug": "gazebo-pmc-avances-y-planes-para-la-comunidad-de-roboti",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de Gazebo se reunió el 27 de julio de 2026 para discutir los últimos avances y planes para la plataforma de simulación de robótica. Entre los temas destacados se encuentran la migración a C++20, la mejora de la compatibilidad…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-28-gazebo-pmc-avances-y-planes-para-la-comunidad-de-roboti.md"
+    },
+    {
+      "title": "ROS PMC: Actualizaciones y Mejoras en el Proyecto de Robótica",
+      "category": "linux",
+      "date": "2026-07-28",
+      "slug": "ros-pmc-actualizaciones-y-mejoras-en-el-proyecto-de-rob",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El Proyecto de Robótica (ROS) ha anunciado varias actualizaciones y mejoras en su reunión de PMC (Project Management Committee) del 21 de julio de 2026. Estas mejoras incluyen la creación de un repositorio para scripts útiles,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-28-ros-pmc-actualizaciones-y-mejoras-en-el-proyecto-de-rob.md"
+    },
+    {
+      "title": "Nueva placa de Raspberry Pi con PoE y Ethernet para proyectos de IoT",
+      "category": "embebidos",
+      "date": "2026-07-28",
+      "slug": "nueva-placa-de-raspberry-pi-con-poe-y-ethernet-para-pro",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Waveshare ha lanzado una nueva placa de Raspberry Pi RP2350 con soporte para PoE (Power-over-Ethernet) y Ethernet, lo que la convierte en una opción atractiva para proyectos de IoT que requieren una conexión a Internet y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-28-nueva-placa-de-raspberry-pi-con-poe-y-ethernet-para-pro.md"
+    },
+    {
+      "title": "LILYGO T-Display C5: una placa ESP32-C5 con pantalla y conectividad",
+      "category": "embebidos",
+      "date": "2026-07-28",
+      "slug": "lilygo-t-display-c5-una-placa-esp32-c5-con-pantalla-y-c",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "LILYGO ha lanzado la placa T-Display C5, una placa ESP32-C5 con pantalla y conectividad que ofrece una solución completa para proyectos IoT. Esta placa es ideal para aplicaciones que requieren una pantalla y conectividad inalámbrica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-28-lilygo-t-display-c5-una-placa-esp32-c5-con-pantalla-y-c.md"
+    },
+    {
+      "title": "Desafío de velocidad en FreeCAD en el EMF camp 2026",
+      "category": "diseño-3d",
+      "date": "2026-07-28",
+      "slug": "desafio-de-velocidad-en-freecad-en-el-emf-camp-2026",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "El festival EMF camp 2026 en el Reino Unido acogió un desafío de velocidad en FreeCAD, donde participantes debían replicar proyectos en 3D en un plazo de tiempo limitado.",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-07-28-desafio-de-velocidad-en-freecad-en-el-emf-camp-2026.md"
+    },
+    {
+      "title": "Estudiante de posgrado equipa a robots de la NASA con habilidades de ensamblaje",
+      "category": "robotica",
+      "date": "2026-07-28",
+      "slug": "estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Sarah Downs, estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo que permite a robots ensamblar satélites en el espacio con precisión. Esta tecnología puede revolucionar la forma en que se realizan misiones…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-28-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-3.md"
+    },
+    {
+      "title": "Verificar la estabilidad de robots en diferentes terrenos",
+      "category": "robotica",
+      "date": "2026-07-28",
+      "slug": "verificar-la-estabilidad-de-robots-en-diferentes-terren",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un desarrollador ha creado un proyecto para evaluar la estabilidad de robots en diferentes tipos de terrenos, como suelo firme o suelo blando, antes de realizar pruebas en campo. Esto puede evitar daños en el hardware y mejorar la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-28-verificar-la-estabilidad-de-robots-en-diferentes-terren.md"
+    },
+    {
       "title": "Un robot humanoide italiano se despierta y camina",
       "category": "ia",
       "date": "2026-07-27",

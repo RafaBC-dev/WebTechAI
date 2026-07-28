@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 27 Jul 2026 10:34:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 09:33:24 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nadella advierte a las empresas sobre el riesgo de depender de un modelo de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Satya Nadella, CEO de Microsoft, ha lanzado un fuerte aviso a las empresas que confían en un solo modelo de inteligencia artificial (IA) para todas sus necesidades. Según él, estas empresas no sobrevivirán a largo plazo.</description>
+  </item>
+  <item>
+    <title>Amodei de Anthropic: no opina por la prohibición de modelos abiertos, pero teme a la IA china</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-amodei-de-anthropic-no-opina-por-la-prohibicion-de-mode.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-amodei-de-anthropic-no-opina-por-la-prohibicion-de-mode.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El fundador de Anthropic, Dario Amodei, ha respondido a rumores de que su empresa apoya la prohibición de modelos de IA abiertos, pero ha expresado sus preocupaciones sobre la capacidad de la China para desarrollar modelos de IA…</description>
+  </item>
+  <item>
+    <title>Tecnología óptica actualiza el AI de un robot en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiempo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiempo.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Investigadores de Cornell Tech han desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la carga de memoria y energía en sistemas de inteligencia artificial.</description>
+  </item>
+  <item>
+    <title>Un robot humanoide italiano se hace realidad en solo 6 meses</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-un-robot-humanoide-italiano-se-hace-realidad-en-solo-6-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-un-robot-humanoide-italiano-se-hace-realidad-en-solo-6-.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con su entorno de manera natural. Este logro es el resultado de la innovación y la tecnología avanzada en el…</description>
+  </item>
+  <item>
+    <title>Implementaciones misteriosas de AMX con 16 y 32 tiles prometen mayor rendimiento</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-implementaciones-misteriosas-de-amx-con-16-y-32-tiles-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-implementaciones-misteriosas-de-amx-con-16-y-32-tiles-p.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un desarrollador de x86 ha revelado que una entidad corporativa desconocida está trabajando en implementaciones de AMX con 16 y 32 tiles, lo que podría mejorar el rendimiento de las computadoras. Esta noticia ha generado interés en la…</description>
+  </item>
+  <item>
+    <title>AMD PMF: una herramienta de prueba para Linux 7.3</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-amd-pmf-una-herramienta-de-prueba-para-linux-73.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-amd-pmf-una-herramienta-de-prueba-para-linux-73.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La compañía AMD ha anunciado la inclusión de una herramienta de prueba para el marco de gestión de plataforma AMD (AMD PMF) en la versión 7.3 de Linux. Esta herramienta permitirá a los desarrolladores y usuarios testear y analizar los…</description>
+  </item>
+  <item>
+    <title>Nueva versión de GNU Binutils: soporte para RISC-V y más</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-nueva-version-de-gnu-binutils-soporte-para-risc-v-y-mas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-nueva-version-de-gnu-binutils-soporte-para-risc-v-y-mas.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La versión 2.47 de GNU Binutils ha sido lanzada, con mejoras significativas en soporte para RISC-V y otros sistemas embebidos. Esta actualización es importante para desarrolladores de software y hardware que trabajan con estos sistemas.</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-actualizaciones-de-seguridad-para-sistemas-operativo-29.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-actualizaciones-de-seguridad-para-sistemas-operativo-29.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las últimas semanas han visto una serie de actualizaciones de seguridad para sistemas operativos como Debian, Fedora, Mageia y Red Hat. Estas actualizaciones incluyen correcciones de vulnerabilidades en software como Chromium, Firefox,…</description>
+  </item>
+  <item>
+    <title>Gazebo PMC: Avances y planes para la comunidad de robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-gazebo-pmc-avances-y-planes-para-la-comunidad-de-roboti.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-gazebo-pmc-avances-y-planes-para-la-comunidad-de-roboti.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Gazebo se reunió el 27 de julio de 2026 para discutir los últimos avances y planes para la plataforma de simulación de robótica. Entre los temas destacados se encuentran la migración a C++20, la mejora de la compatibilidad…</description>
+  </item>
+  <item>
+    <title>ROS PMC: Actualizaciones y Mejoras en el Proyecto de Robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-ros-pmc-actualizaciones-y-mejoras-en-el-proyecto-de-rob.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-ros-pmc-actualizaciones-y-mejoras-en-el-proyecto-de-rob.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El Proyecto de Robótica (ROS) ha anunciado varias actualizaciones y mejoras en su reunión de PMC (Project Management Committee) del 21 de julio de 2026. Estas mejoras incluyen la creación de un repositorio para scripts útiles,…</description>
+  </item>
+  <item>
+    <title>Nueva placa de Raspberry Pi con PoE y Ethernet para proyectos de IoT</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-nueva-placa-de-raspberry-pi-con-poe-y-ethernet-para-pro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-nueva-placa-de-raspberry-pi-con-poe-y-ethernet-para-pro.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Waveshare ha lanzado una nueva placa de Raspberry Pi RP2350 con soporte para PoE (Power-over-Ethernet) y Ethernet, lo que la convierte en una opción atractiva para proyectos de IoT que requieren una conexión a Internet y…</description>
+  </item>
+  <item>
+    <title>LILYGO T-Display C5: una placa ESP32-C5 con pantalla y conectividad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-lilygo-t-display-c5-una-placa-esp32-c5-con-pantalla-y-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-lilygo-t-display-c5-una-placa-esp32-c5-con-pantalla-y-c.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>LILYGO ha lanzado la placa T-Display C5, una placa ESP32-C5 con pantalla y conectividad que ofrece una solución completa para proyectos IoT. Esta placa es ideal para aplicaciones que requieren una pantalla y conectividad inalámbrica.</description>
+  </item>
+  <item>
+    <title>Desafío de velocidad en FreeCAD en el EMF camp 2026</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-28-desafio-de-velocidad-en-freecad-en-el-emf-camp-2026.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-28-desafio-de-velocidad-en-freecad-en-el-emf-camp-2026.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>El festival EMF camp 2026 en el Reino Unido acogió un desafío de velocidad en FreeCAD, donde participantes debían replicar proyectos en 3D en un plazo de tiempo limitado.</description>
+  </item>
+  <item>
+    <title>Estudiante de posgrado equipa a robots de la NASA con habilidades de ensamblaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-3.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Sarah Downs, estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo que permite a robots ensamblar satélites en el espacio con precisión. Esta tecnología puede revolucionar la forma en que se realizan misiones…</description>
+  </item>
+  <item>
+    <title>Verificar la estabilidad de robots en diferentes terrenos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-verificar-la-estabilidad-de-robots-en-diferentes-terren.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-verificar-la-estabilidad-de-robots-en-diferentes-terren.md</guid>
+    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha creado un proyecto para evaluar la estabilidad de robots en diferentes tipos de terrenos, como suelo firme o suelo blando, antes de realizar pruebas en campo. Esto puede evitar daños en el hardware y mejorar la…</description>
+  </item>
   <item>
     <title>Un robot humanoide italiano se despierta y camina</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-un-robot-humanoide-italiano-se-despierta-y-camina.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>La comunidad de ROS y Gazebo tiene un nuevo plugin para text-to-speech, que permite a los robots comunicarse de manera más natural. Este plugin es compatible con Gazebo Harmonic y ROS 2, y se puede utilizar en robots humanoides como el…</description>
-  </item>
-  <item>
-    <title>Nunchaku 4-bit: una revolución en la inferencia de difusores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-nunchaku-4-bit-una-revolucion-en-la-inferencia-de-difus.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-nunchaku-4-bit-una-revolucion-en-la-inferencia-de-difus.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Los modelos de difusores pueden crear imágenes impresionantes, pero requieren mucha memoria y no son accesibles para la mayoría de los ordenadores de consumo. La cuantización es una solución poderosa que reduce la memoria necesaria, pero…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi Touch Display 2 de 10 pulgadas disponible a $80</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-raspberry-pi-touch-display-2-de-10-pulgadas-disponible-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-raspberry-pi-touch-display-2-de-10-pulgadas-disponible-.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La Raspberry Pi ha lanzado un nuevo display táctil de 10 pulgadas, con una resolución más alta y un ángulo de visión más amplio. Este dispositivo es perfecto para aplicaciones como dashboards, kiosks y sistemas de control de robots.</description>
-  </item>
-  <item>
-    <title>Aprendizaje automático con Raspberry Pi: proyectos reales y prácticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-aprendizaje-automatico-con-raspberry-pi-proyectos-reale.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-aprendizaje-automatico-con-raspberry-pi-proyectos-reale.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La inteligencia artificial no solo se encuentra en centros de datos gigantes, sino también en una computadora de placa única como la Raspberry Pi, que puede ejecutar modelos de aprendizaje automático localmente, de manera segura y privada.</description>
-  </item>
-  <item>
-    <title>Debian considera restricciones para el uso de modelos de lenguaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-debian-considera-restricciones-para-el-uso-de-modelos-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-debian-considera-restricciones-para-el-uso-de-modelos-d.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El proyecto Debian está debatiendo sobre las limitaciones para el uso de modelos de lenguaje en la creación de su distribución. Esto podría afectar a los usuarios que dependen de estas herramientas.</description>
-  </item>
-  <item>
-    <title>Un robot humanoide italiano se vuelve realidad en solo seis meses</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-un-robot-humanoide-italiano-se-vuelve-realidad-en-solo-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-un-robot-humanoide-italiano-se-vuelve-realidad-en-solo-.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa italiana ha creado un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con su entorno de manera natural. Este avance en la robótica podría cambiar la forma en que los humanos interactúan con los robots en…</description>
-  </item>
-  <item>
-    <title>Beelink ME Pro 2-bay NAS obtiene tratamiento de Wildcat Lake y más</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-beelink-me-pro-2-bay-nas-obtiene-tratamiento-de-wildcat.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-26-beelink-me-pro-2-bay-nas-obtiene-tratamiento-de-wildcat.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Beelink ha lanzado una actualización de su NAS ME Pro, equipado con el procesador Intel Wildcat Lake y características avanzadas como 10GbE y Thunderbolt 4.</description>
-  </item>
-  <item>
-    <title>Polka v0.5: un nodo de procesamiento de lidar más eficiente</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-26-polka-v05-un-nodo-de-procesamiento-de-lidar-mas-eficien.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-26-polka-v05-un-nodo-de-procesamiento-de-lidar-mas-eficien.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Polka es un nodo de procesamiento de lidar que ha sido actualizado a la versión 0.5, ofreciendo mejoras significativas en eficiencia y rendimiento. Esta actualización es relevante para desarrolladores de robótica y sistemas embebidos que…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-26-actualizaciones-de-seguridad-para-sistemas-operativo-28.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-26-actualizaciones-de-seguridad-para-sistemas-operativo-28.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Mageia, Oracle y SUSE. Estas actualizaciones corrigen vulnerabilidades críticas en paquetes como Java,…</description>
-  </item>
-  <item>
-    <title>Comunicación de radio a larga distancia con LoRa para Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-comunicacion-de-radio-a-larga-distancia-con-lora-para-r.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-comunicacion-de-radio-a-larga-distancia-con-lora-para-r.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Si necesitas enviar datos desde un proyecto basado en Raspberry Pi más allá de la red Wi-Fi de tu hogar, hay soluciones más confiables que usar un extensor de Wi-Fi o un cable Ethernet muy largo. LoRa es un sistema de radio a larga…</description>
-  </item>
-  <item>
-    <title>Reconocimiento de voz y síntesis de habla en un Raspberry Pi Pico 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-reconocimiento-de-voz-y-sintesis-de-habla-en-un-raspber.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-reconocimiento-de-voz-y-sintesis-de-habla-en-un-raspber.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Pete Warden ha lanzado un proyecto para crear una interfaz de voz completa en un chip de solo 50 centavos. Aunque no ha alcanzado su objetivo, ha logrado un avance significativo. Utiliza un Raspberry Pi Pico 2, un microcontrolador con 520…</description>
-  </item>
-  <item>
-    <title>CirkitScape Top HAT: amplía funcionalidades de Raspberry Pi con GPIOs adicionales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-cirkitscape-top-hat-amplia-funcionalidades-de-raspberry.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-26-cirkitscape-top-hat-amplia-funcionalidades-de-raspberry.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>CirkitScape ha lanzado el Top HAT, una placa de expansión para Raspberry Pi que agrega 16 GPIOs adicionales, un conector RS-485, un conversor analógico-digital de 3 canales y cuatro puertos USB 2.0. Esto facilita la prototipificación, el…</description>
-  </item>
-  <item>
-    <title>Estudiante de posgrado equipa a los robots de la NASA con habilidades de ensamblaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-2.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Sarah Downs, una estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en el espacio con precisión. Su trabajo se centra en resolver el problema clásico de la…</description>
-  </item>
-  <item>
-    <title>Detecta cambios en interfaces ROS 2 antes de desplegar</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-detecta-cambios-en-interfaces-ros-2-antes-de-desplegar.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-detecta-cambios-en-interfaces-ros-2-antes-de-desplegar.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador ha creado una herramienta llamada roschema para detectar cambios en interfaces ROS 2 antes de que se desplieguen, evitando problemas de compatibilidad y errores de lectura de archivos de registro.</description>
-  </item>
-  <item>
-    <title>Un robot que entiende límites: QERRA-v2, un guardián de ejecución moral</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-un-robot-que-entiende-limites-qerra-v2-un-guardian-de-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-un-robot-que-entiende-limites-qerra-v2-un-guardian-de-e.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un equipo de investigación ha creado un sistema de seguridad para robots que va más allá de evitar obstáculos físicos. QERRA-v2 es un sistema que evalúa la intención detrás de las instrucciones de un humano y bloquea la ejecución si se…</description>
-  </item>
-  <item>
-    <title>Cirujanos robóticos: el futuro de la cirugía asistida por robots</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-cirujanos-roboticos-el-futuro-de-la-cirugia-asistida-po.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-26-cirujanos-roboticos-el-futuro-de-la-cirugia-asistida-po.md</guid>
-    <pubDate>Sun, 26 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La robótica está revolucionando la medicina con la creación de cirujanos robóticos que pueden realizar operaciones complejas con precisión y seguridad. Estos robots están diseñados para asistir a los médicos en la cirugía, permitiendo una…</description>
   </item>
 </channel>
 </rss>
