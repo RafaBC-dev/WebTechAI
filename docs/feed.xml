@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 09:33:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 09:35:06 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nueva tecnología óptica actualiza el AI de un robot en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-en-.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el sistema de inteligencia artificial de un robot en tiempo real. Esto podría reducir la energía y el coste de los sistemas de AI en…</description>
+  </item>
+  <item>
+    <title>Cyera adquiere Oasis Security para proteger a los agentes de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-cyera-adquiere-oasis-security-para-proteger-a-los-agent.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-cyera-adquiere-oasis-security-para-proteger-a-los-agent.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa de seguridad de datos Cyera ha anunciado su intención de adquirir a Oasis Security, una empresa especializada en la seguridad de agentes de IA. Esta adquisición se produce en un momento en que la cantidad de agentes de IA está…</description>
+  </item>
+  <item>
+    <title>Un robot humanoide italiano se vuelve realidad en seis meses</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-un-robot-humanoide-italiano-se-vuelve-realidad-en-seis-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-un-robot-humanoide-italiano-se-vuelve-realidad-en-seis-.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 en solo seis meses. Este robot puede caminar, sentir y interactuar con su entorno de manera natural. Su piel sensible a la textura, proximidad,…</description>
+  </item>
+  <item>
+    <title>CachyOS supera a Windows 11 en rendimiento en mini PC con AMD Ryzen AI 9 HX 470</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-cachyos-supera-a-windows-11-en-rendimiento-en-mini-pc-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-cachyos-supera-a-windows-11-en-rendimiento-en-mini-pc-c.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un mini PC con procesador AMD Ryzen AI 9 HX 470 ha sido sometido a pruebas de rendimiento, y los resultados sorprenden. CachyOS, un sistema operativo basado en Arch Linux, ha demostrado ser más rápido que Windows 11 y apenas ha sido…</description>
+  </item>
+  <item>
+    <title>Ubuntu Touch 24.04-2.0: Nueva versión con Morph Browser mejorado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ubuntu-touch-2404-20-nueva-version-con-morph-browser-me.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ubuntu-touch-2404-20-nueva-version-con-morph-browser-me.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Ubuntu Touch ha lanzado la versión 24.04-2.0 de su sistema operativo móvil, que incluye mejoras significativas en el navegador Morph, soporte para notches y impresión de documentos, y más.</description>
+  </item>
+  <item>
+    <title>Un juego de DOOM creado con expresiones regulares</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-un-juego-de-doom-creado-con-expresiones-regulares.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-un-juego-de-doom-creado-con-expresiones-regulares.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un desarrollador ha creado un juego de DOOM utilizando expresiones regulares, demostrando la potencia de esta herramienta de procesamiento de texto. Esta noticia es relevante ahora mismo porque muestra cómo las expresiones regulares pueden…</description>
+  </item>
+  <item>
+    <title>Nueva interfaz de Linux escrita en Swift y con compositor propio</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-interfaz-de-linux-escrita-en-swift-y-con-composit.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-interfaz-de-linux-escrita-en-swift-y-con-composit.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha recibido un nuevo proyecto llamado Starling, una interfaz escrita en Swift y con un compositor propio. Este proyecto ha sido creado en parte con la ayuda de inteligencia artificial y está disponible para ser…</description>
+  </item>
+  <item>
+    <title>Nueva Unidad de Debian Revisa Paquetes para Cumplir con DFSG</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-unidad-de-debian-revisa-paquetes-para-cumplir-con.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-unidad-de-debian-revisa-paquetes-para-cumplir-con.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La unidad de Debian, DFSG team, ha sido creada para revisar paquetes en la cola de espera y asegurarse de que cumplan con las Directrices de Software Libre de Debian. Esto es importante para mantener la integridad del sistema operativo.</description>
+  </item>
+  <item>
+    <title>ARCTIC lanza controlador de ventiladores con soporte Linux desde el inicio</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-arctic-lanza-controlador-de-ventiladores-con-soporte-li.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-arctic-lanza-controlador-de-ventiladores-con-soporte-li.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La empresa ARCTIC ha lanzado un nuevo controlador de ventiladores que ya cuenta con soporte en el núcleo de Linux, lo que lo hace muy interesante para los usuarios de este sistema operativo.</description>
+  </item>
+  <item>
+    <title>ROS y su complejidad en la creación de paquetes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ros-y-su-complejidad-en-la-creacion-de-paquetes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ros-y-su-complejidad-en-la-creacion-de-paquetes.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un ingeniero mecánico y programador de C++ comparte sus pensamientos sobre la complejidad de ROS en la creación de paquetes, destacando problemas en ament, rosdep y bloom.</description>
+  </item>
+  <item>
+    <title>Avances en la compilación de Linux con gccrs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-avances-en-la-compilacion-de-linux-con-gccrs.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-avances-en-la-compilacion-de-linux-con-gccrs.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El proyecto gccrs ha logrado importantes avances en la compilación del núcleo de Linux utilizando un frontend de Rust. Esto permitirá generar código correcto para otros programas en Rust. La compilación actual solo puede manejar programas…</description>
+  </item>
+  <item>
+    <title>SensWear: plataforma de desarrollo abierta para dispositivos de ropa inteligente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-senswear-plataforma-de-desarrollo-abierta-para-disposit.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-senswear-plataforma-de-desarrollo-abierta-para-disposit.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>SensWear es una plataforma de desarrollo abierta para dispositivos de ropa inteligente que permite a los desarrolladores crear dispositivos personalizados con sensores y tecnología de Bluetooth LE.</description>
+  </item>
+  <item>
+    <title>Controla periféricos de Raspberry Pi Pico desde Windows</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-controla-perifericos-de-raspberry-pi-pico-desde-windows.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-controla-perifericos-de-raspberry-pi-pico-desde-windows.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>¿Quieres controlar tus proyectos de Raspberry Pi Pico desde tu computadora de escritorio? Ahora es posible gracias a PicoJig, una herramienta que te permite controlar los periféricos de tu microcontrolador desde Windows</description>
+  </item>
+  <item>
+    <title>Sovol M1D: impresora 3D IDEX con 6 cabezal intercambiables</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-29-sovol-m1d-impresora-3d-idex-con-6-cabezal-intercambiabl.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-29-sovol-m1d-impresora-3d-idex-con-6-cabezal-intercambiabl.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>La empresa Sovol ha lanzado la impresora 3D M1D, una solución innovadora para la impresión de materiales y colores múltiples. Esta impresora está diseñada para reducir el desperdicio de material y mejorar la eficiencia de la impresión.</description>
+  </item>
+  <item>
+    <title>Robóticas chinas suspendidas en EE. UU.: ¿qué alternativas hay?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-29-roboticas-chinas-suspendidas-en-ee-uu-que-alternativas-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-29-roboticas-chinas-suspendidas-en-ee-uu-que-alternativas-.md</guid>
+    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La importación de robots chinos con patas y humanoides ha sido suspendida en Estados Unidos. Esto ha generado interés en encontrar alternativas a estos sistemas. ¿Qué opciones hay disponibles?</description>
+  </item>
   <item>
     <title>Nadella advierte a las empresas sobre el riesgo de depender de un modelo de IA</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>Un desarrollador ha creado un proyecto para evaluar la estabilidad de robots en diferentes tipos de terrenos, como suelo firme o suelo blando, antes de realizar pruebas en campo. Esto puede evitar daños en el hardware y mejorar la…</description>
-  </item>
-  <item>
-    <title>Un robot humanoide italiano se despierta y camina</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-un-robot-humanoide-italiano-se-despierta-y-camina.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-un-robot-humanoide-italiano-se-despierta-y-camina.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El equipo de IEEE Spectrum ha creado un robot humanoide llamado GENE.01, que puede caminar, sentir y interactuar con su entorno. Este avance es un paso importante hacia la colaboración segura y natural entre humanos y robots.</description>
-  </item>
-  <item>
-    <title>OpenAI sufre un ataque cibernético a través de un agente autónomo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-openai-sufre-un-ataque-cibernetico-a-traves-de-un-agent.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-openai-sufre-un-ataque-cibernetico-a-traves-de-un-agent.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La plataforma de inteligencia artificial Hugging Face ha sido víctima de un ataque cibernético a través de un agente autónomo desarrollado por OpenAI. El ataque ha sido calificado como 'inusual' y ha llevado a la CEO de Hugging Face a…</description>
-  </item>
-  <item>
-    <title>Redragon K688 Pro: teclado mecánico compacto y versátil</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-redragon-k688-pro-teclado-mecanico-compacto-y-versatil.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-redragon-k688-pro-teclado-mecanico-compacto-y-versatil.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Redragon ha lanzado el teclado mecánico Redragon K688 Pro, un dispositivo compacto y versátil que combina la comodidad de un teclado mecánico con la funcionalidad de un teclado full-size. Este teclado es ideal para gamers,…</description>
-  </item>
-  <item>
-    <title>Actualiza el AI de un robot en tiempo real con tecnología óptica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-actualiza-el-ai-de-un-robot-en-tiempo-real-con-tecnolog.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-actualiza-el-ai-de-un-robot-en-tiempo-real-con-tecnolog.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la energía y el costo de los sistemas de inteligencia artificial.</description>
-  </item>
-  <item>
-    <title>Debian considera una resolución sobre el uso de modelos de lenguaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-debian-considera-una-resolucion-sobre-el-uso-de-modelos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-debian-considera-una-resolucion-sobre-el-uso-de-modelos.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El proyecto Debian está considerando una resolución sobre el uso de modelos de lenguaje en la creación de su distribución. Esto podría afectar a los desarrolladores que utilizan estas tecnologías en sus proyectos.</description>
-  </item>
-  <item>
-    <title>Nueva pantalla táctil Raspberry Pi de 10 pulgadas, disponible a $80</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-nueva-pantalla-tactil-raspberry-pi-de-10-pulgadas-dispo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-nueva-pantalla-tactil-raspberry-pi-de-10-pulgadas-dispo.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La Raspberry Pi lanza una nueva pantalla táctil de 10 pulgadas para su ecosistema, con una resolución más alta y un ángulo de visión más amplio. Esta pantalla es ideal para proyectos de automatización, kioscos y aplicaciones de…</description>
-  </item>
-  <item>
-    <title>La próxima frontera en IA física: leer ondas cerebrales</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-la-proxima-frontera-en-ia-fisica-leer-ondas-cerebrales.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-la-proxima-frontera-en-ia-fisica-leer-ondas-cerebrales.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Una empresa de San Leandro, California, está experimentando con la lectura de ondas cerebrales para mejorar la inteligencia artificial física. Este enfoque podría revolucionar la forma en que los robots aprenden y se comportan en entornos…</description>
-  </item>
-  <item>
-    <title>NVIDIA y otros crean alianza para proteger modelos de IA abiertos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-nvidia-y-otros-crean-alianza-para-proteger-modelos-de-i.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-27-nvidia-y-otros-crean-alianza-para-proteger-modelos-de-i.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>NVIDIA y más de veinte empresas han creado la Open Secure AI Alliance para proteger modelos de IA abiertos de vulnerabilidades. Esta alianza busca aumentar la seguridad y el uso seguro de modelos de IA abiertos, aprovechando tecnologías…</description>
-  </item>
-  <item>
-    <title>Orange Pi 5B con Ubuntu Desktop y Audio Production OS con Bluetooth/Wi-Fi solucionados</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-27-orange-pi-5b-con-ubuntu-desktop-y-audio-production-os-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-27-orange-pi-5b-con-ubuntu-desktop-y-audio-production-os-c.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Después de 8 años de espera, se han solucionado dos problemas críticos en el módulo Bluetooth/Wi-Fi del Orange Pi 5B, lo que permite utilizar Ubuntu Desktop y Audio Production OS en este SBC. Un desarrollador ha creado dos imágenes de…</description>
-  </item>
-  <item>
-    <title>Un reloj de arena mecánico que muestra imágenes en 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-27-un-reloj-de-arena-mecanico-que-muestra-imagenes-en-3d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-27-un-reloj-de-arena-mecanico-que-muestra-imagenes-en-3d.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un ingeniero ha creado un dispositivo portátil que utiliza la persistencia de la visión para mostrar imágenes en 3D. Este proyecto, llamado Scanwheel, es un ejemplo de cómo la tecnología puede ser utilizada para crear experiencias visuales…</description>
-  </item>
-  <item>
-    <title>Adafruit: Noticias y proyectos de robótica, IA y tecnología</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-27-adafruit-noticias-y-proyectos-de-robotica-ia-y-tecnolog.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-27-adafruit-noticias-y-proyectos-de-robotica-ia-y-tecnolog.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Adafruit ha publicado su editorial semanal, resumiendo los proyectos y noticias más destacados de la semana. Desde robótica y microcontroladores hasta IA y demoscene, hay algo para todos los interesados en tecnología.</description>
-  </item>
-  <item>
-    <title>Detecta cambios en interfaces ROS2 antes de que lleguen al robot</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-detecta-cambios-en-interfaces-ros2-antes-de-que-lleguen.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-detecta-cambios-en-interfaces-ros2-antes-de-que-lleguen.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador ha creado una herramienta para detectar cambios en interfaces ROS2 antes de que se desplieguen en un robot, evitando problemas de compatibilidad y errores de serialización.</description>
-  </item>
-  <item>
-    <title>Dual Safe/Hostile física para robots: una puerta de seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-dual-safehostile-fisica-para-robots-una-puerta-de-segur.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-dual-safehostile-fisica-para-robots-una-puerta-de-segur.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un investigador ha creado una puerta de seguridad física para robots que permite a los sistemas seguros acceder a ciertas áreas, mientras que los sistemas hostiles son rechazados. Esta innovación podría tener un impacto significativo en la…</description>
-  </item>
-  <item>
-    <title>Estudiante de posgrado equipa a los robots de la NASA con habilidades de ensamblaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-estudiante-de-posgrado-equipa-a-los-robots-de-la-nasa-3.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Una estudiante de posgrado ha desarrollado un algoritmo que permite a los robots de la NASA ensamblar satélites en el espacio con precisión, resolviendo un problema clásico en la robótica. Este logro puede tener un impacto significativo en…</description>
-  </item>
-  <item>
-    <title>Gazebo ROS Text-to-Speech: un plugin para robots que hablan</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-gazebo-ros-text-to-speech-un-plugin-para-robots-que-hab.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-27-gazebo-ros-text-to-speech-un-plugin-para-robots-que-hab.md</guid>
-    <pubDate>Mon, 27 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de ROS y Gazebo tiene un nuevo plugin para text-to-speech, que permite a los robots comunicarse de manera más natural. Este plugin es compatible con Gazebo Harmonic y ROS 2, y se puede utilizar en robots humanoides como el…</description>
   </item>
 </channel>
 </rss>

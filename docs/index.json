@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Nueva tecnología óptica actualiza el AI de un robot en tiempo real",
+      "category": "ia",
+      "date": "2026-07-29",
+      "slug": "nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-en-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el sistema de inteligencia artificial de un robot en tiempo real. Esto podría reducir la energía y el coste de los sistemas de AI en…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-29-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-en-.md"
+    },
+    {
+      "title": "Cyera adquiere Oasis Security para proteger a los agentes de IA",
+      "category": "ia",
+      "date": "2026-07-29",
+      "slug": "cyera-adquiere-oasis-security-para-proteger-a-los-agent",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "La empresa de seguridad de datos Cyera ha anunciado su intención de adquirir a Oasis Security, una empresa especializada en la seguridad de agentes de IA. Esta adquisición se produce en un momento en que la cantidad de agentes de IA está…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-29-cyera-adquiere-oasis-security-para-proteger-a-los-agent.md"
+    },
+    {
+      "title": "Un robot humanoide italiano se vuelve realidad en seis meses",
+      "category": "ia",
+      "date": "2026-07-29",
+      "slug": "un-robot-humanoide-italiano-se-vuelve-realidad-en-seis-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 en solo seis meses. Este robot puede caminar, sentir y interactuar con su entorno de manera natural. Su piel sensible a la textura, proximidad,…",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-29-un-robot-humanoide-italiano-se-vuelve-realidad-en-seis-.md"
+    },
+    {
+      "title": "CachyOS supera a Windows 11 en rendimiento en mini PC con AMD Ryzen AI 9 HX 470",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "cachyos-supera-a-windows-11-en-rendimiento-en-mini-pc-c",
+      "tags": [
+        "llms",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "Un mini PC con procesador AMD Ryzen AI 9 HX 470 ha sido sometido a pruebas de rendimiento, y los resultados sorprenden. CachyOS, un sistema operativo basado en Arch Linux, ha demostrado ser más rápido que Windows 11 y apenas ha sido…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-29-cachyos-supera-a-windows-11-en-rendimiento-en-mini-pc-c.md"
+    },
+    {
+      "title": "Ubuntu Touch 24.04-2.0: Nueva versión con Morph Browser mejorado",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "ubuntu-touch-2404-20-nueva-version-con-morph-browser-me",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Ubuntu Touch ha lanzado la versión 24.04-2.0 de su sistema operativo móvil, que incluye mejoras significativas en el navegador Morph, soporte para notches y impresión de documentos, y más.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-29-ubuntu-touch-2404-20-nueva-version-con-morph-browser-me.md"
+    },
+    {
+      "title": "Un juego de DOOM creado con expresiones regulares",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "un-juego-de-doom-creado-con-expresiones-regulares",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "Un desarrollador ha creado un juego de DOOM utilizando expresiones regulares, demostrando la potencia de esta herramienta de procesamiento de texto. Esta noticia es relevante ahora mismo porque muestra cómo las expresiones regulares pueden…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-29-un-juego-de-doom-creado-con-expresiones-regulares.md"
+    },
+    {
+      "title": "Nueva interfaz de Linux escrita en Swift y con compositor propio",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "nueva-interfaz-de-linux-escrita-en-swift-y-con-composit",
+      "tags": [
+        "llms",
+        "linux",
+        "swift"
+      ],
+      "preview": "La comunidad de Linux ha recibido un nuevo proyecto llamado Starling, una interfaz escrita en Swift y con un compositor propio. Este proyecto ha sido creado en parte con la ayuda de inteligencia artificial y está disponible para ser…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-29-nueva-interfaz-de-linux-escrita-en-swift-y-con-composit.md"
+    },
+    {
+      "title": "Nueva Unidad de Debian Revisa Paquetes para Cumplir con DFSG",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "nueva-unidad-de-debian-revisa-paquetes-para-cumplir-con",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La unidad de Debian, DFSG team, ha sido creada para revisar paquetes en la cola de espera y asegurarse de que cumplan con las Directrices de Software Libre de Debian. Esto es importante para mantener la integridad del sistema operativo.",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-29-nueva-unidad-de-debian-revisa-paquetes-para-cumplir-con.md"
+    },
+    {
+      "title": "ARCTIC lanza controlador de ventiladores con soporte Linux desde el inicio",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "arctic-lanza-controlador-de-ventiladores-con-soporte-li",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa ARCTIC ha lanzado un nuevo controlador de ventiladores que ya cuenta con soporte en el núcleo de Linux, lo que lo hace muy interesante para los usuarios de este sistema operativo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-29-arctic-lanza-controlador-de-ventiladores-con-soporte-li.md"
+    },
+    {
+      "title": "ROS y su complejidad en la creación de paquetes",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "ros-y-su-complejidad-en-la-creacion-de-paquetes",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un ingeniero mecánico y programador de C++ comparte sus pensamientos sobre la complejidad de ROS en la creación de paquetes, destacando problemas en ament, rosdep y bloom.",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-29-ros-y-su-complejidad-en-la-creacion-de-paquetes.md"
+    },
+    {
+      "title": "Avances en la compilación de Linux con gccrs",
+      "category": "linux",
+      "date": "2026-07-29",
+      "slug": "avances-en-la-compilacion-de-linux-con-gccrs",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto gccrs ha logrado importantes avances en la compilación del núcleo de Linux utilizando un frontend de Rust. Esto permitirá generar código correcto para otros programas en Rust. La compilación actual solo puede manejar programas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-29-avances-en-la-compilacion-de-linux-con-gccrs.md"
+    },
+    {
+      "title": "SensWear: plataforma de desarrollo abierta para dispositivos de ropa inteligente",
+      "category": "embebidos",
+      "date": "2026-07-29",
+      "slug": "senswear-plataforma-de-desarrollo-abierta-para-disposit",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "SensWear es una plataforma de desarrollo abierta para dispositivos de ropa inteligente que permite a los desarrolladores crear dispositivos personalizados con sensores y tecnología de Bluetooth LE.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-29-senswear-plataforma-de-desarrollo-abierta-para-disposit.md"
+    },
+    {
+      "title": "Controla periféricos de Raspberry Pi Pico desde Windows",
+      "category": "embebidos",
+      "date": "2026-07-29",
+      "slug": "controla-perifericos-de-raspberry-pi-pico-desde-windows",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "¿Quieres controlar tus proyectos de Raspberry Pi Pico desde tu computadora de escritorio? Ahora es posible gracias a PicoJig, una herramienta que te permite controlar los periféricos de tu microcontrolador desde Windows",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-29-controla-perifericos-de-raspberry-pi-pico-desde-windows.md"
+    },
+    {
+      "title": "Sovol M1D: impresora 3D IDEX con 6 cabezal intercambiables",
+      "category": "diseño-3d",
+      "date": "2026-07-29",
+      "slug": "sovol-m1d-impresora-3d-idex-con-6-cabezal-intercambiabl",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La empresa Sovol ha lanzado la impresora 3D M1D, una solución innovadora para la impresión de materiales y colores múltiples. Esta impresora está diseñada para reducir el desperdicio de material y mejorar la eficiencia de la impresión.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-07-29-sovol-m1d-impresora-3d-idex-con-6-cabezal-intercambiabl.md"
+    },
+    {
+      "title": "Robóticas chinas suspendidas en EE. UU.: ¿qué alternativas hay?",
+      "category": "robotica",
+      "date": "2026-07-29",
+      "slug": "roboticas-chinas-suspendidas-en-ee-uu-que-alternativas-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La importación de robots chinos con patas y humanoides ha sido suspendida en Estados Unidos. Esto ha generado interés en encontrar alternativas a estos sistemas. ¿Qué opciones hay disponibles?",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-29-roboticas-chinas-suspendidas-en-ee-uu-que-alternativas-.md"
+    },
+    {
       "title": "Nadella advierte a las empresas sobre el riesgo de depender de un modelo de IA",
       "category": "ia",
       "date": "2026-07-28",
