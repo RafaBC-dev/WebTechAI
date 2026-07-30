@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 29 Jul 2026 09:35:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 09:27:29 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Microsoft gana 3.2 mil millones con inversión en Anthropic, pero OpenAI es un tema complicado</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-microsoft-gana-32-mil-millones-con-inversion-en-anthrop.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-microsoft-gana-32-mil-millones-con-inversion-en-anthrop.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft ha reportado ganancias récord en su último trimestre, con un beneficio de 3.2 mil millones de dólares gracias a su inversión en la empresa de inteligencia artificial Anthropic. Sin embargo, su inversión en OpenAI no ha tenido…</description>
+  </item>
+  <item>
+    <title>NightRun: un proyecto que ejecuta LLMs locales sin OS en Raspberry Pi y PCs x86</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-nightrun-un-proyecto-que-ejecuta-llms-locales-sin-os-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-nightrun-un-proyecto-que-ejecuta-llms-locales-sin-os-en.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>NightRun es un proyecto experimental de código abierto que permite ejecutar modelos de lenguaje de inteligencia artificial (LLMs) locales en dispositivos sin sistema operativo, como Raspberry Pi y PCs x86, sin necesidad de cargar un OS…</description>
+  </item>
+  <item>
+    <title>Un robot humanoide italiano se vuelve realidad en solo seis meses</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-un-robot-humanoide-italiano-se-vuelve-realidad-en-sol-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-un-robot-humanoide-italiano-se-vuelve-realidad-en-sol-2.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 en un plazo récord de seis meses. Este robot puede caminar, sentir y interactuar con su entorno de manera natural. La tecnología detrás de GENE.01…</description>
+  </item>
+  <item>
+    <title>Microsoft compite con OpenAI y Anthropic en el mercado de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-microsoft-compite-con-openai-y-anthropic-en-el-mercado-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-microsoft-compite-con-openai-y-anthropic-en-el-mercado-.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Microsoft, líder en cloud y software, se posiciona para competir con OpenAI y Anthropic en el mercado de inteligencia artificial. La compañía busca ofrecer soluciones propias para evitar depender de los laboratorios de IA más grandes.</description>
+  </item>
+  <item>
+    <title>Nueva tecnología óptica actualiza el AI de un robot en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-2.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Investigadores de Cornell Tech han desarrollado una nueva tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la energía y la complejidad de los sistemas de inteligencia artificial.</description>
+  </item>
+  <item>
+    <title>Mark Zuckerberg predice que millones de personas tendrán agentes de IA en cinco años</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-mark-zuckerberg-predice-que-millones-de-personas-tendra.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-mark-zuckerberg-predice-que-millones-de-personas-tendra.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>El fundador de Meta, Mark Zuckerberg, ha pronosticado que en cinco años, millones de personas tendrán agentes de IA que entiendan sus objetivos y trabajen en su nombre. Esto podría cambiar la forma en que interactuamos con tecnología y…</description>
+  </item>
+  <item>
+    <title>Modificadores de formato DRM para GPUs AMD antiguas en Linux 7.3</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-modificadores-de-formato-drm-para-gpus-amd-antiguas-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-modificadores-de-formato-drm-para-gpus-amd-antiguas-en-.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La próxima versión de Linux, Linux 7.3, incluirá mejoras significativas para las GPUs AMD antiguas. Entre ellas, la implementación de modificadores de formato DRM, gracias a la colaboración de Valve.</description>
+  </item>
+  <item>
+    <title>LWN.net: Noticias y actualizaciones de Linux y tecnología</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-lwnnet-noticias-y-actualizaciones-de-linux-y-tecnologia.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-lwnnet-noticias-y-actualizaciones-de-linux-y-tecnologia.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>LWN.net es una publicación en línea que ofrece noticias, análisis y actualizaciones sobre Linux y tecnología. En su edición semanal del 30 de julio de 2026, se presentan varias noticas importantes relacionadas con el desarrollo de Linux y…</description>
+  </item>
+  <item>
+    <title>Steam agrega streaming HDR y AV1 a la consola Steam Deck</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-steam-agrega-streaming-hdr-y-av1-a-la-consola-steam-dec.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-steam-agrega-streaming-hdr-y-av1-a-la-consola-steam-dec.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La última actualización de Steam ha traído mejoras significativas para los jugadores de Linux, incluyendo soporte para streaming HDR y AV1 en la consola Steam Deck.</description>
+  </item>
+  <item>
+    <title>Mejorar la depuración de funciones inlinadas en el kernel Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-mejorar-la-depuracion-de-funciones-inlinadas-en-el-kern.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-mejorar-la-depuracion-de-funciones-inlinadas-en-el-kern.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El proyecto de Alan Maguire busca mejorar la capacidad de depurar funciones inlinadas en el kernel Linux, lo que permitirá a los desarrolladores encontrar y solucionar errores de manera más eficiente. Esta mejora es especialmente…</description>
+  </item>
+  <item>
+    <title>Unificar ejecutores para mejorar la eficiencia de ROS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-unificar-ejecutores-para-mejorar-la-eficiencia-de-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-30-unificar-ejecutores-para-mejorar-la-eficiencia-de-ros.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El proyecto ROS (Robot Operating System) ha estado creciendo y mejorando con el tiempo, pero su complejidad ha aumentado también. Una de las áreas que ha sido objeto de debate es la implementación de ejecutores, que son responsables de…</description>
+  </item>
+  <item>
+    <title>M8 Controller Box: expansión industrial para cámaras de visión AI OAK4</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-30-m8-controller-box-expansion-industrial-para-camaras-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-30-m8-controller-box-expansion-industrial-para-camaras-de-.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Luxonis ha presentado un prototipo de la M8 Controller Box, una expansión industrial para cámaras de visión AI OAK4 que permite conectar sensores, actuadores y equipo industrial a sistemas de visión y automatización.</description>
+  </item>
+  <item>
+    <title>Actualización de firmware en robots de flota sin dañarlos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-30-actualizacion-de-firmware-en-robots-de-flota-sin-danarl.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-30-actualizacion-de-firmware-en-robots-de-flota-sin-danarl.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un equipo de robots de flota pequeña enfrenta problemas con las actualizaciones de firmware, lo que puede llevar a dañar algunos de ellos. ¿Cómo pueden abordar este desafío?</description>
+  </item>
+  <item>
+    <title>Un KVM con ESP32: controla PCs remotos de manera segura</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-30-un-kvm-con-esp32-controla-pcs-remotos-de-manera-segura.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-30-un-kvm-con-esp32-controla-pcs-remotos-de-manera-segura.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un ingeniero ha creado un dispositivo llamado ESPKVM que permite controlar PCs remotos de manera segura y eficiente. Este dispositivo utiliza la tecnología ESP32 y puede capturar la salida de video y controlar la entrada de teclado y ratón.</description>
+  </item>
+  <item>
+    <title>Reunión de la comunidad de ROS Deliberation: avances y discusiones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-30-reunion-de-la-comunidad-de-ros-deliberation-avances-y-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-30-reunion-de-la-comunidad-de-ros-deliberation-avances-y-d.md</guid>
+    <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROS Deliberation se reunirá el 17 de agosto de 2026 para discutir los últimos avances en la creación de árboles de comportamiento para robots. Esta reunión es especialmente importante debido a la fusión de las reuniones de…</description>
+  </item>
   <item>
     <title>Nueva tecnología óptica actualiza el AI de un robot en tiempo real</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-en-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>La importación de robots chinos con patas y humanoides ha sido suspendida en Estados Unidos. Esto ha generado interés en encontrar alternativas a estos sistemas. ¿Qué opciones hay disponibles?</description>
-  </item>
-  <item>
-    <title>Nadella advierte a las empresas sobre el riesgo de depender de un modelo de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-nadella-advierte-a-las-empresas-sobre-el-riesgo-de-depe.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Satya Nadella, CEO de Microsoft, ha lanzado un fuerte aviso a las empresas que confían en un solo modelo de inteligencia artificial (IA) para todas sus necesidades. Según él, estas empresas no sobrevivirán a largo plazo.</description>
-  </item>
-  <item>
-    <title>Amodei de Anthropic: no opina por la prohibición de modelos abiertos, pero teme a la IA china</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-amodei-de-anthropic-no-opina-por-la-prohibicion-de-mode.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-amodei-de-anthropic-no-opina-por-la-prohibicion-de-mode.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El fundador de Anthropic, Dario Amodei, ha respondido a rumores de que su empresa apoya la prohibición de modelos de IA abiertos, pero ha expresado sus preocupaciones sobre la capacidad de la China para desarrollar modelos de IA…</description>
-  </item>
-  <item>
-    <title>Tecnología óptica actualiza el AI de un robot en tiempo real</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiempo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiempo.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Investigadores de Cornell Tech han desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la carga de memoria y energía en sistemas de inteligencia artificial.</description>
-  </item>
-  <item>
-    <title>Un robot humanoide italiano se hace realidad en solo 6 meses</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-un-robot-humanoide-italiano-se-hace-realidad-en-solo-6-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-28-un-robot-humanoide-italiano-se-hace-realidad-en-solo-6-.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con su entorno de manera natural. Este logro es el resultado de la innovación y la tecnología avanzada en el…</description>
-  </item>
-  <item>
-    <title>Implementaciones misteriosas de AMX con 16 y 32 tiles prometen mayor rendimiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-implementaciones-misteriosas-de-amx-con-16-y-32-tiles-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-implementaciones-misteriosas-de-amx-con-16-y-32-tiles-p.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un desarrollador de x86 ha revelado que una entidad corporativa desconocida está trabajando en implementaciones de AMX con 16 y 32 tiles, lo que podría mejorar el rendimiento de las computadoras. Esta noticia ha generado interés en la…</description>
-  </item>
-  <item>
-    <title>AMD PMF: una herramienta de prueba para Linux 7.3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-amd-pmf-una-herramienta-de-prueba-para-linux-73.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-amd-pmf-una-herramienta-de-prueba-para-linux-73.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La compañía AMD ha anunciado la inclusión de una herramienta de prueba para el marco de gestión de plataforma AMD (AMD PMF) en la versión 7.3 de Linux. Esta herramienta permitirá a los desarrolladores y usuarios testear y analizar los…</description>
-  </item>
-  <item>
-    <title>Nueva versión de GNU Binutils: soporte para RISC-V y más</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-nueva-version-de-gnu-binutils-soporte-para-risc-v-y-mas.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-nueva-version-de-gnu-binutils-soporte-para-risc-v-y-mas.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 2.47 de GNU Binutils ha sido lanzada, con mejoras significativas en soporte para RISC-V y otros sistemas embebidos. Esta actualización es importante para desarrolladores de software y hardware que trabajan con estos sistemas.</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para sistemas operativos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-actualizaciones-de-seguridad-para-sistemas-operativo-29.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-actualizaciones-de-seguridad-para-sistemas-operativo-29.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las últimas semanas han visto una serie de actualizaciones de seguridad para sistemas operativos como Debian, Fedora, Mageia y Red Hat. Estas actualizaciones incluyen correcciones de vulnerabilidades en software como Chromium, Firefox,…</description>
-  </item>
-  <item>
-    <title>Gazebo PMC: Avances y planes para la comunidad de robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-gazebo-pmc-avances-y-planes-para-la-comunidad-de-roboti.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-gazebo-pmc-avances-y-planes-para-la-comunidad-de-roboti.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Gazebo se reunió el 27 de julio de 2026 para discutir los últimos avances y planes para la plataforma de simulación de robótica. Entre los temas destacados se encuentran la migración a C++20, la mejora de la compatibilidad…</description>
-  </item>
-  <item>
-    <title>ROS PMC: Actualizaciones y Mejoras en el Proyecto de Robótica</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-ros-pmc-actualizaciones-y-mejoras-en-el-proyecto-de-rob.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-28-ros-pmc-actualizaciones-y-mejoras-en-el-proyecto-de-rob.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El Proyecto de Robótica (ROS) ha anunciado varias actualizaciones y mejoras en su reunión de PMC (Project Management Committee) del 21 de julio de 2026. Estas mejoras incluyen la creación de un repositorio para scripts útiles,…</description>
-  </item>
-  <item>
-    <title>Nueva placa de Raspberry Pi con PoE y Ethernet para proyectos de IoT</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-nueva-placa-de-raspberry-pi-con-poe-y-ethernet-para-pro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-nueva-placa-de-raspberry-pi-con-poe-y-ethernet-para-pro.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Waveshare ha lanzado una nueva placa de Raspberry Pi RP2350 con soporte para PoE (Power-over-Ethernet) y Ethernet, lo que la convierte en una opción atractiva para proyectos de IoT que requieren una conexión a Internet y…</description>
-  </item>
-  <item>
-    <title>LILYGO T-Display C5: una placa ESP32-C5 con pantalla y conectividad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-lilygo-t-display-c5-una-placa-esp32-c5-con-pantalla-y-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-28-lilygo-t-display-c5-una-placa-esp32-c5-con-pantalla-y-c.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>LILYGO ha lanzado la placa T-Display C5, una placa ESP32-C5 con pantalla y conectividad que ofrece una solución completa para proyectos IoT. Esta placa es ideal para aplicaciones que requieren una pantalla y conectividad inalámbrica.</description>
-  </item>
-  <item>
-    <title>Desafío de velocidad en FreeCAD en el EMF camp 2026</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-28-desafio-de-velocidad-en-freecad-en-el-emf-camp-2026.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-28-desafio-de-velocidad-en-freecad-en-el-emf-camp-2026.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>El festival EMF camp 2026 en el Reino Unido acogió un desafío de velocidad en FreeCAD, donde participantes debían replicar proyectos en 3D en un plazo de tiempo limitado.</description>
-  </item>
-  <item>
-    <title>Estudiante de posgrado equipa a robots de la NASA con habilidades de ensamblaje</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-estudiante-de-posgrado-equipa-a-robots-de-la-nasa-con-3.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Sarah Downs, estudiante de posgrado en ingeniería eléctrica, ha desarrollado un algoritmo que permite a robots ensamblar satélites en el espacio con precisión. Esta tecnología puede revolucionar la forma en que se realizan misiones…</description>
-  </item>
-  <item>
-    <title>Verificar la estabilidad de robots en diferentes terrenos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-verificar-la-estabilidad-de-robots-en-diferentes-terren.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-28-verificar-la-estabilidad-de-robots-en-diferentes-terren.md</guid>
-    <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador ha creado un proyecto para evaluar la estabilidad de robots en diferentes tipos de terrenos, como suelo firme o suelo blando, antes de realizar pruebas en campo. Esto puede evitar daños en el hardware y mejorar la…</description>
   </item>
 </channel>
 </rss>
