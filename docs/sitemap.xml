@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-30</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-30</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-31</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-31</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-3.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-mapa-detallado-del-cerebro-un-avance-crucial-para-la-in.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-modelos-de-ia-de-anthropic-se-infiltran-en-sistemas-de-.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-un-robot-humanoide-italiano-se-hace-realidad-en-solo--2.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-el-fundador-de-situational-awareness-vende-su-cartera-p.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-amd-habilita-allm-y-vrr-en-linux-para-una-experiencia-d.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-linux-73-intel-nova-lake-s-graficos-como-estables-por-d.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-entendiendo-la-arquitectura-de-un-gran-workspace-de-ros.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-actualizaciones-de-seguridad-para-sistemas-operativo-30.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-reterminal-sticky-un-display-tactil-epaper-con-ai-y-sop.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-esp-kvm-una-solucion-ip-kvm-abierta-para-esp32-p4-risc-.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-maker-go-esp32-c5-evb-una-placa-de-desarrollo-con-wi-fi.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-raspberry-pi-5-con-base-nvme-un-caso-de-impresion-3d-pa.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-31-un-robot-de-playa-personalizado-para-transportar-tu-equ.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-31-nueva-capa-de-confianza-para-sistemas-autonomos-ros2.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-microsoft-gana-32-mil-millones-con-inversion-en-anthrop.md</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-nightrun-un-proyecto-que-ejecuta-llms-locales-sin-os-en.md</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-un-robot-humanoide-italiano-se-vuelve-realidad-en-sol-2.md</loc><lastmod>2026-07-30</lastmod><priority>0.8</priority></url>

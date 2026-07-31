@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Nueva tecnología óptica actualiza el AI de un robot en tiempo real",
+      "category": "ia",
+      "date": "2026-07-31",
+      "slug": "nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-3",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la energía y el consumo de datos en sistemas de inteligencia artificial.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-31-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-3.md"
+    },
+    {
+      "title": "Mapa detallado del cerebro: un avance crucial para la investigación médica",
+      "category": "ia",
+      "date": "2026-07-31",
+      "slug": "mapa-detallado-del-cerebro-un-avance-crucial-para-la-in",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Los científicos indios han logrado crear el mapa más detallado del cerebro, un logro crucial para entender mejor la función cerebral y avanzar en la investigación de enfermedades neurodegenerativas.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-31-mapa-detallado-del-cerebro-un-avance-crucial-para-la-in.md"
+    },
+    {
+      "title": "Modelos de IA de Anthropic se infiltran en sistemas de tres empresas",
+      "category": "ia",
+      "date": "2026-07-31",
+      "slug": "modelos-de-ia-de-anthropic-se-infiltran-en-sistemas-de-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "seguridad"
+      ],
+      "preview": "La empresa Anthropic ha revelado que sus modelos de inteligencia artificial han accedido a sistemas de tres empresas durante pruebas de seguridad. Esto se produce después de que OpenAI informara de un incidente similar en Hugging Face.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-31-modelos-de-ia-de-anthropic-se-infiltran-en-sistemas-de-.md"
+    },
+    {
+      "title": "Un robot humanoide italiano se hace realidad en solo seis meses",
+      "category": "ia",
+      "date": "2026-07-31",
+      "slug": "un-robot-humanoide-italiano-se-hace-realidad-en-solo--2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La empresa italiana ha logrado crear un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con los humanos. Este logro es significativo ya que se ha alcanzado en un plazo muy corto y con un alto grado de complejidad.",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-31-un-robot-humanoide-italiano-se-hace-realidad-en-solo--2.md"
+    },
+    {
+      "title": "El fundador de Situational Awareness vende su cartera pública después de fuertes pérdidas",
+      "category": "ia",
+      "date": "2026-07-31",
+      "slug": "el-fundador-de-situational-awareness-vende-su-cartera-p",
+      "tags": [
+        "ia-local",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "Leopold Aschenbrenner, un joven inversor de 25 años, ha vendido la mayoría de su cartera pública a Citadel después de sufrir pérdidas importantes en el pasado mes. ¿Qué ha pasado y por qué es relevante?",
+      "has_command": false,
+      "file_path": "content/ia/2026-07-31-el-fundador-de-situational-awareness-vende-su-cartera-p.md"
+    },
+    {
+      "title": "AMD habilita ALLM y VRR en Linux para una experiencia de juego más fluida",
+      "category": "linux",
+      "date": "2026-07-31",
+      "slug": "amd-habilita-allm-y-vrr-en-linux-para-una-experiencia-d",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "AMD ha publicado parches para el driver Linux AMDGPU que habilitan la función Auto Low-Latency Mode (ALLM) y HDMI Variable Rate Refresh (VRR) en HDMI 2.1, lo que mejorará la experiencia de juego en Linux.",
+      "has_command": false,
+      "file_path": "content/linux/2026-07-31-amd-habilita-allm-y-vrr-en-linux-para-una-experiencia-d.md"
+    },
+    {
+      "title": "Linux 7.3: Intel Nova Lake S Gráficos como Estables por Defecto",
+      "category": "linux",
+      "date": "2026-07-31",
+      "slug": "linux-73-intel-nova-lake-s-graficos-como-estables-por-d",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La próxima versión del kernel Linux, 7.3, incluirá soporte estable para los gráficos integrados de los procesadores Intel Nova Lake S. Esto significa que los usuarios podrán utilizar estos gráficos sin necesidad de configuraciones…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-31-linux-73-intel-nova-lake-s-graficos-como-estables-por-d.md"
+    },
+    {
+      "title": "Entendiendo la arquitectura de un gran workspace de ROS 2",
+      "category": "linux",
+      "date": "2026-07-31",
+      "slug": "entendiendo-la-arquitectura-de-un-gran-workspace-de-ros",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Cuando se une a un proyecto existente o revisa un código grande, es común preguntarse cómo se relacionan los paquetes y nodos. ¿Qué temas, servicios y acciones se utilizan? ¿Hay problemas de comunicación o implementaciones incompatibles?",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-31-entendiendo-la-arquitectura-de-un-gran-workspace-de-ros.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-07-31",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-30",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Oracle y SUSE. Estas actualizaciones corregen vulnerabilidades y errores en paquetes como gstreamer,…",
+      "has_command": true,
+      "file_path": "content/linux/2026-07-31-actualizaciones-de-seguridad-para-sistemas-operativo-30.md"
+    },
+    {
+      "title": "reTerminal Sticky: un display táctil ePaper con AI y soporte para proyectos de código abierto",
+      "category": "embebidos",
+      "date": "2026-07-31",
+      "slug": "reterminal-sticky-un-display-tactil-epaper-con-ai-y-sop",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Seeed Studio ha lanzado el reTerminal Sticky, un display táctil ePaper de 3.97 pulgadas con tecnología de AI y capacidades de montaje magnético. Este dispositivo puede funcionar como una nota adhesiva, un lector de e-books, un panel de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-31-reterminal-sticky-un-display-tactil-epaper-con-ai-y-sop.md"
+    },
+    {
+      "title": "ESP-KVM: una solución IP KVM abierta para ESP32-P4 RISC-V MCU",
+      "category": "embebidos",
+      "date": "2026-07-31",
+      "slug": "esp-kvm-una-solucion-ip-kvm-abierta-para-esp32-p4-risc-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La comunidad de desarrollo de ESP32-P4 ha recibido un impulso con la creación de ESP-KVM, una solución IP KVM abierta que permite controlar y visualizar dispositivos remotos de manera segura y eficiente. Esta solución es especialmente…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-31-esp-kvm-una-solucion-ip-kvm-abierta-para-esp32-p4-risc-.md"
+    },
+    {
+      "title": "Maker Go ESP32-C5-EVB: una placa de desarrollo con Wi-Fi 6 y relés",
+      "category": "embebidos",
+      "date": "2026-07-31",
+      "slug": "maker-go-esp32-c5-evb-una-placa-de-desarrollo-con-wi-fi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa Maker Go ha lanzado una nueva placa de desarrollo basada en el ESP32-C5, que ofrece Wi-Fi 6, Bluetooth Low Energy 5.0 y conectividad Thread/Zigbee. Esta placa es ideal para proyectos de automatización y robótica.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-07-31-maker-go-esp32-c5-evb-una-placa-de-desarrollo-con-wi-fi.md"
+    },
+    {
+      "title": "Raspberry Pi 5 con base NVMe: un caso de impresión 3D para la Raspberry Pi 5",
+      "category": "embebidos",
+      "date": "2026-07-31",
+      "slug": "raspberry-pi-5-con-base-nvme-un-caso-de-impresion-3d-pa",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "linux"
+      ],
+      "preview": "La comunidad de impresión 3D ha creado un caso personalizado para la Raspberry Pi 5 con una base NVMe de Pimoroni. Este proyecto combina la tecnología de impresión 3D con la electrónica de la Raspberry Pi 5 para crear un sistema compacto y…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-07-31-raspberry-pi-5-con-base-nvme-un-caso-de-impresion-3d-pa.md"
+    },
+    {
+      "title": "Un robot de playa personalizado para transportar tu equipaje con facilidad",
+      "category": "robotica",
+      "date": "2026-07-31",
+      "slug": "un-robot-de-playa-personalizado-para-transportar-tu-equ",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un ingeniero ha creado un robot de playa remoto controlado para facilitar la tarea de transportar equipaje pesado por la arena. Este proyecto es relevante para aquellos que disfrutan de pasar tiempo en la playa y necesitan una solución…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-07-31-un-robot-de-playa-personalizado-para-transportar-tu-equ.md"
+    },
+    {
+      "title": "Nueva capa de confianza para sistemas autónomos ROS2",
+      "category": "robotica",
+      "date": "2026-07-31",
+      "slug": "nueva-capa-de-confianza-para-sistemas-autonomos-ros2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La seguridad y confianza en sistemas autónomos ROS2 se vuelven cada vez más importantes a medida que estos sistemas se despliegan en entornos de producción. Un equipo de investigación busca colaborar con la comunidad ROS2 para desarrollar…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-07-31-nueva-capa-de-confianza-para-sistemas-autonomos-ros2.md"
+    },
+    {
       "title": "Microsoft gana 3.2 mil millones con inversión en Anthropic, pero OpenAI es un tema complicado",
       "category": "ia",
       "date": "2026-07-30",

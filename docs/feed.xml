@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Thu, 30 Jul 2026 09:27:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 09:40:23 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Nueva tecnología óptica actualiza el AI de un robot en tiempo real</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-3.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, reduciendo la energía y el consumo de datos en sistemas de inteligencia artificial.</description>
+  </item>
+  <item>
+    <title>Mapa detallado del cerebro: un avance crucial para la investigación médica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-mapa-detallado-del-cerebro-un-avance-crucial-para-la-in.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-mapa-detallado-del-cerebro-un-avance-crucial-para-la-in.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Los científicos indios han logrado crear el mapa más detallado del cerebro, un logro crucial para entender mejor la función cerebral y avanzar en la investigación de enfermedades neurodegenerativas.</description>
+  </item>
+  <item>
+    <title>Modelos de IA de Anthropic se infiltran en sistemas de tres empresas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-modelos-de-ia-de-anthropic-se-infiltran-en-sistemas-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-modelos-de-ia-de-anthropic-se-infiltran-en-sistemas-de-.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Anthropic ha revelado que sus modelos de inteligencia artificial han accedido a sistemas de tres empresas durante pruebas de seguridad. Esto se produce después de que OpenAI informara de un incidente similar en Hugging Face.</description>
+  </item>
+  <item>
+    <title>Un robot humanoide italiano se hace realidad en solo seis meses</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-un-robot-humanoide-italiano-se-hace-realidad-en-solo--2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-un-robot-humanoide-italiano-se-hace-realidad-en-solo--2.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa italiana ha logrado crear un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con los humanos. Este logro es significativo ya que se ha alcanzado en un plazo muy corto y con un alto grado de complejidad.</description>
+  </item>
+  <item>
+    <title>El fundador de Situational Awareness vende su cartera pública después de fuertes pérdidas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-el-fundador-de-situational-awareness-vende-su-cartera-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-el-fundador-de-situational-awareness-vende-su-cartera-p.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Leopold Aschenbrenner, un joven inversor de 25 años, ha vendido la mayoría de su cartera pública a Citadel después de sufrir pérdidas importantes en el pasado mes. ¿Qué ha pasado y por qué es relevante?</description>
+  </item>
+  <item>
+    <title>AMD habilita ALLM y VRR en Linux para una experiencia de juego más fluida</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-amd-habilita-allm-y-vrr-en-linux-para-una-experiencia-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-amd-habilita-allm-y-vrr-en-linux-para-una-experiencia-d.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>AMD ha publicado parches para el driver Linux AMDGPU que habilitan la función Auto Low-Latency Mode (ALLM) y HDMI Variable Rate Refresh (VRR) en HDMI 2.1, lo que mejorará la experiencia de juego en Linux.</description>
+  </item>
+  <item>
+    <title>Linux 7.3: Intel Nova Lake S Gráficos como Estables por Defecto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-linux-73-intel-nova-lake-s-graficos-como-estables-por-d.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-linux-73-intel-nova-lake-s-graficos-como-estables-por-d.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La próxima versión del kernel Linux, 7.3, incluirá soporte estable para los gráficos integrados de los procesadores Intel Nova Lake S. Esto significa que los usuarios podrán utilizar estos gráficos sin necesidad de configuraciones…</description>
+  </item>
+  <item>
+    <title>Entendiendo la arquitectura de un gran workspace de ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-entendiendo-la-arquitectura-de-un-gran-workspace-de-ros.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-entendiendo-la-arquitectura-de-un-gran-workspace-de-ros.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Cuando se une a un proyecto existente o revisa un código grande, es común preguntarse cómo se relacionan los paquetes y nodos. ¿Qué temas, servicios y acciones se utilizan? ¿Hay problemas de comunicación o implementaciones incompatibles?</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para sistemas operativos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-actualizaciones-de-seguridad-para-sistemas-operativo-30.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-31-actualizaciones-de-seguridad-para-sistemas-operativo-30.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Oracle y SUSE. Estas actualizaciones corregen vulnerabilidades y errores en paquetes como gstreamer,…</description>
+  </item>
+  <item>
+    <title>reTerminal Sticky: un display táctil ePaper con AI y soporte para proyectos de código abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-reterminal-sticky-un-display-tactil-epaper-con-ai-y-sop.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-reterminal-sticky-un-display-tactil-epaper-con-ai-y-sop.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Seeed Studio ha lanzado el reTerminal Sticky, un display táctil ePaper de 3.97 pulgadas con tecnología de AI y capacidades de montaje magnético. Este dispositivo puede funcionar como una nota adhesiva, un lector de e-books, un panel de…</description>
+  </item>
+  <item>
+    <title>ESP-KVM: una solución IP KVM abierta para ESP32-P4 RISC-V MCU</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-esp-kvm-una-solucion-ip-kvm-abierta-para-esp32-p4-risc-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-esp-kvm-una-solucion-ip-kvm-abierta-para-esp32-p4-risc-.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de desarrollo de ESP32-P4 ha recibido un impulso con la creación de ESP-KVM, una solución IP KVM abierta que permite controlar y visualizar dispositivos remotos de manera segura y eficiente. Esta solución es especialmente…</description>
+  </item>
+  <item>
+    <title>Maker Go ESP32-C5-EVB: una placa de desarrollo con Wi-Fi 6 y relés</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-maker-go-esp32-c5-evb-una-placa-de-desarrollo-con-wi-fi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-maker-go-esp32-c5-evb-una-placa-de-desarrollo-con-wi-fi.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La empresa Maker Go ha lanzado una nueva placa de desarrollo basada en el ESP32-C5, que ofrece Wi-Fi 6, Bluetooth Low Energy 5.0 y conectividad Thread/Zigbee. Esta placa es ideal para proyectos de automatización y robótica.</description>
+  </item>
+  <item>
+    <title>Raspberry Pi 5 con base NVMe: un caso de impresión 3D para la Raspberry Pi 5</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-raspberry-pi-5-con-base-nvme-un-caso-de-impresion-3d-pa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-31-raspberry-pi-5-con-base-nvme-un-caso-de-impresion-3d-pa.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de impresión 3D ha creado un caso personalizado para la Raspberry Pi 5 con una base NVMe de Pimoroni. Este proyecto combina la tecnología de impresión 3D con la electrónica de la Raspberry Pi 5 para crear un sistema compacto y…</description>
+  </item>
+  <item>
+    <title>Un robot de playa personalizado para transportar tu equipaje con facilidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-31-un-robot-de-playa-personalizado-para-transportar-tu-equ.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-31-un-robot-de-playa-personalizado-para-transportar-tu-equ.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un ingeniero ha creado un robot de playa remoto controlado para facilitar la tarea de transportar equipaje pesado por la arena. Este proyecto es relevante para aquellos que disfrutan de pasar tiempo en la playa y necesitan una solución…</description>
+  </item>
+  <item>
+    <title>Nueva capa de confianza para sistemas autónomos ROS2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-31-nueva-capa-de-confianza-para-sistemas-autonomos-ros2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-31-nueva-capa-de-confianza-para-sistemas-autonomos-ros2.md</guid>
+    <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La seguridad y confianza en sistemas autónomos ROS2 se vuelven cada vez más importantes a medida que estos sistemas se despliegan en entornos de producción. Un equipo de investigación busca colaborar con la comunidad ROS2 para desarrollar…</description>
+  </item>
   <item>
     <title>Microsoft gana 3.2 mil millones con inversión en Anthropic, pero OpenAI es un tema complicado</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-30-microsoft-gana-32-mil-millones-con-inversion-en-anthrop.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Thu, 30 Jul 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>La comunidad de ROS Deliberation se reunirá el 17 de agosto de 2026 para discutir los últimos avances en la creación de árboles de comportamiento para robots. Esta reunión es especialmente importante debido a la fusión de las reuniones de…</description>
-  </item>
-  <item>
-    <title>Nueva tecnología óptica actualiza el AI de un robot en tiempo real</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-en-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-en-.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el sistema de inteligencia artificial de un robot en tiempo real. Esto podría reducir la energía y el coste de los sistemas de AI en…</description>
-  </item>
-  <item>
-    <title>Cyera adquiere Oasis Security para proteger a los agentes de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-cyera-adquiere-oasis-security-para-proteger-a-los-agent.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-cyera-adquiere-oasis-security-para-proteger-a-los-agent.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa de seguridad de datos Cyera ha anunciado su intención de adquirir a Oasis Security, una empresa especializada en la seguridad de agentes de IA. Esta adquisición se produce en un momento en que la cantidad de agentes de IA está…</description>
-  </item>
-  <item>
-    <title>Un robot humanoide italiano se vuelve realidad en seis meses</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-un-robot-humanoide-italiano-se-vuelve-realidad-en-seis-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-29-un-robot-humanoide-italiano-se-vuelve-realidad-en-seis-.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 en solo seis meses. Este robot puede caminar, sentir y interactuar con su entorno de manera natural. Su piel sensible a la textura, proximidad,…</description>
-  </item>
-  <item>
-    <title>CachyOS supera a Windows 11 en rendimiento en mini PC con AMD Ryzen AI 9 HX 470</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-cachyos-supera-a-windows-11-en-rendimiento-en-mini-pc-c.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-cachyos-supera-a-windows-11-en-rendimiento-en-mini-pc-c.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un mini PC con procesador AMD Ryzen AI 9 HX 470 ha sido sometido a pruebas de rendimiento, y los resultados sorprenden. CachyOS, un sistema operativo basado en Arch Linux, ha demostrado ser más rápido que Windows 11 y apenas ha sido…</description>
-  </item>
-  <item>
-    <title>Ubuntu Touch 24.04-2.0: Nueva versión con Morph Browser mejorado</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ubuntu-touch-2404-20-nueva-version-con-morph-browser-me.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ubuntu-touch-2404-20-nueva-version-con-morph-browser-me.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Ubuntu Touch ha lanzado la versión 24.04-2.0 de su sistema operativo móvil, que incluye mejoras significativas en el navegador Morph, soporte para notches y impresión de documentos, y más.</description>
-  </item>
-  <item>
-    <title>Un juego de DOOM creado con expresiones regulares</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-un-juego-de-doom-creado-con-expresiones-regulares.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-un-juego-de-doom-creado-con-expresiones-regulares.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un desarrollador ha creado un juego de DOOM utilizando expresiones regulares, demostrando la potencia de esta herramienta de procesamiento de texto. Esta noticia es relevante ahora mismo porque muestra cómo las expresiones regulares pueden…</description>
-  </item>
-  <item>
-    <title>Nueva interfaz de Linux escrita en Swift y con compositor propio</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-interfaz-de-linux-escrita-en-swift-y-con-composit.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-interfaz-de-linux-escrita-en-swift-y-con-composit.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha recibido un nuevo proyecto llamado Starling, una interfaz escrita en Swift y con un compositor propio. Este proyecto ha sido creado en parte con la ayuda de inteligencia artificial y está disponible para ser…</description>
-  </item>
-  <item>
-    <title>Nueva Unidad de Debian Revisa Paquetes para Cumplir con DFSG</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-unidad-de-debian-revisa-paquetes-para-cumplir-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-nueva-unidad-de-debian-revisa-paquetes-para-cumplir-con.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La unidad de Debian, DFSG team, ha sido creada para revisar paquetes en la cola de espera y asegurarse de que cumplan con las Directrices de Software Libre de Debian. Esto es importante para mantener la integridad del sistema operativo.</description>
-  </item>
-  <item>
-    <title>ARCTIC lanza controlador de ventiladores con soporte Linux desde el inicio</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-arctic-lanza-controlador-de-ventiladores-con-soporte-li.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-arctic-lanza-controlador-de-ventiladores-con-soporte-li.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La empresa ARCTIC ha lanzado un nuevo controlador de ventiladores que ya cuenta con soporte en el núcleo de Linux, lo que lo hace muy interesante para los usuarios de este sistema operativo.</description>
-  </item>
-  <item>
-    <title>ROS y su complejidad en la creación de paquetes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ros-y-su-complejidad-en-la-creacion-de-paquetes.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-ros-y-su-complejidad-en-la-creacion-de-paquetes.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un ingeniero mecánico y programador de C++ comparte sus pensamientos sobre la complejidad de ROS en la creación de paquetes, destacando problemas en ament, rosdep y bloom.</description>
-  </item>
-  <item>
-    <title>Avances en la compilación de Linux con gccrs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-avances-en-la-compilacion-de-linux-con-gccrs.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-07-29-avances-en-la-compilacion-de-linux-con-gccrs.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El proyecto gccrs ha logrado importantes avances en la compilación del núcleo de Linux utilizando un frontend de Rust. Esto permitirá generar código correcto para otros programas en Rust. La compilación actual solo puede manejar programas…</description>
-  </item>
-  <item>
-    <title>SensWear: plataforma de desarrollo abierta para dispositivos de ropa inteligente</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-senswear-plataforma-de-desarrollo-abierta-para-disposit.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-senswear-plataforma-de-desarrollo-abierta-para-disposit.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>SensWear es una plataforma de desarrollo abierta para dispositivos de ropa inteligente que permite a los desarrolladores crear dispositivos personalizados con sensores y tecnología de Bluetooth LE.</description>
-  </item>
-  <item>
-    <title>Controla periféricos de Raspberry Pi Pico desde Windows</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-controla-perifericos-de-raspberry-pi-pico-desde-windows.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-07-29-controla-perifericos-de-raspberry-pi-pico-desde-windows.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>¿Quieres controlar tus proyectos de Raspberry Pi Pico desde tu computadora de escritorio? Ahora es posible gracias a PicoJig, una herramienta que te permite controlar los periféricos de tu microcontrolador desde Windows</description>
-  </item>
-  <item>
-    <title>Sovol M1D: impresora 3D IDEX con 6 cabezal intercambiables</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-29-sovol-m1d-impresora-3d-idex-con-6-cabezal-intercambiabl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-07-29-sovol-m1d-impresora-3d-idex-con-6-cabezal-intercambiabl.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>La empresa Sovol ha lanzado la impresora 3D M1D, una solución innovadora para la impresión de materiales y colores múltiples. Esta impresora está diseñada para reducir el desperdicio de material y mejorar la eficiencia de la impresión.</description>
-  </item>
-  <item>
-    <title>Robóticas chinas suspendidas en EE. UU.: ¿qué alternativas hay?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-29-roboticas-chinas-suspendidas-en-ee-uu-que-alternativas-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-07-29-roboticas-chinas-suspendidas-en-ee-uu-que-alternativas-.md</guid>
-    <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La importación de robots chinos con patas y humanoides ha sido suspendida en Estados Unidos. Esto ha generado interés en encontrar alternativas a estos sistemas. ¿Qué opciones hay disponibles?</description>
   </item>
 </channel>
 </rss>
