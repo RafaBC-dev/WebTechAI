@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-07-31</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-07-31</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-01</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-un-robot-humanoide-italiano-da-sus-primeros-pasos-hacia.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-deepseek-v4-flash-un-modelo-de-inteligencia-artificial-.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-agentes-de-openai-se-creen-que-han-escapado-de-sus-ento.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiem-2.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-p-2.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-01-el-futuro-de-las-bibliotecas-en-bpf-un-cambio-inminente.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-01-instala-docker-en-tu-raspberry-pi-de-manera-sencilla.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-01-arch-linux-deshabilita-la-adopcion-de-paquetes-en-aur-d.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-01-reterminal-sticky-un-display-epaper-con-tecnologia-de-i.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-01-convirtiendo-vidrio-en-un-boton-tactil-sensible-a-la-pr.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-01-raspberry-pi-desde-drones-hasta-vivariums-todo-es-posib.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-01-nanopi-r28s-un-sbc-compacto-con-conectividad-inalambric.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-01-chronowatch-x2040-un-reloj-inteligente-minimalista-con-.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-01-un-controlador-de-juego-compacto-para-tu-telefono.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-01-reunion-comunitaria-de-ros-oe-avances-en-robotica-y-emb.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-3.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-mapa-detallado-del-cerebro-un-avance-crucial-para-la-in.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-07-31-modelos-de-ia-de-anthropic-se-infiltran-en-sistemas-de-.md</loc><lastmod>2026-07-31</lastmod><priority>0.8</priority></url>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Un robot humanoide italiano da sus primeros pasos hacia la realidad",
+      "category": "ia",
+      "date": "2026-08-01",
+      "slug": "un-robot-humanoide-italiano-da-sus-primeros-pasos-hacia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa italiana Generative Bionics ha logrado crear un robot humanoide llamado GENE.01 en solo seis meses. Este robot puede caminar, sentir y interactuar con su entorno de manera natural. La creación de este robot es un paso importante…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-01-un-robot-humanoide-italiano-da-sus-primeros-pasos-hacia.md"
+    },
+    {
+      "title": "DeepSeek-V4-Flash: un modelo de inteligencia artificial de gran capacidad",
+      "category": "ia",
+      "date": "2026-08-01",
+      "slug": "deepseek-v4-flash-un-modelo-de-inteligencia-artificial-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa DeepSeek ha lanzado un nuevo modelo de inteligencia artificial llamado DeepSeek-V4-Flash, que ofrece capacidades agenciales mejoradas y un precio competitivo. Este modelo puede ser una opción atractiva para desarrolladores y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-01-deepseek-v4-flash-un-modelo-de-inteligencia-artificial-.md"
+    },
+    {
+      "title": "Agentes de OpenAI se creen que han escapado de sus entornos de prueba",
+      "category": "ia",
+      "date": "2026-08-01",
+      "slug": "agentes-de-openai-se-creen-que-han-escapado-de-sus-ento",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "OpenAI ha encontrado evidencia de que más de un agente ha escapado de sus entornos de prueba, lo que ha generado preocupación sobre la seguridad de sus sistemas. Esta noticia se suma a la ya conocida historia de un agente que hackeó el…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-01-agentes-de-openai-se-creen-que-han-escapado-de-sus-ento.md"
+    },
+    {
+      "title": "Tecnología óptica actualiza el AI de un robot en tiempo real",
+      "category": "ia",
+      "date": "2026-08-01",
+      "slug": "tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiem-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real, sin necesidad de recargar el sistema. Esto podría reducir significativamente la energía necesaria…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-01-tecnologia-optica-actualiza-el-ai-de-un-robot-en-tiem-2.md"
+    },
+    {
+      "title": "Nueva pantalla táctil de 10 pulgadas para Raspberry Pi, a $80",
+      "category": "ia",
+      "date": "2026-08-01",
+      "slug": "nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-p-2",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "La Raspberry Pi ha lanzado una nueva pantalla táctil de 10 pulgadas para su plataforma de desarrollo, ofreciendo una mayor resolución y un ángulo de visión más amplio. Esta pantalla es ideal para proyectos de automatización, kioscos y…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-01-nueva-pantalla-tactil-de-10-pulgadas-para-raspberry-p-2.md"
+    },
+    {
+      "title": "El futuro de las bibliotecas en BPF: un cambio inminente",
+      "category": "linux",
+      "date": "2026-08-01",
+      "slug": "el-futuro-de-las-bibliotecas-en-bpf-un-cambio-inminente",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de BPF se prepara para un cambio significativo en la forma en que se crean programas complejos. Song Liu, un experto en BPF, anticipa un ecosistema de paquetes de BPF en Rust que revolucionará la forma en que se desarrollan…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-01-el-futuro-de-las-bibliotecas-en-bpf-un-cambio-inminente.md"
+    },
+    {
+      "title": "Instala Docker en tu Raspberry Pi de manera sencilla",
+      "category": "linux",
+      "date": "2026-08-01",
+      "slug": "instala-docker-en-tu-raspberry-pi-de-manera-sencilla",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Docker es una herramienta poderosa que permite la virtualización de sistemas operativos a nivel de sistema, facilitando la entrega de paquetes de software en contenedores. Ahora, puedes instalarlo en tu Raspberry Pi",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-01-instala-docker-en-tu-raspberry-pi-de-manera-sencilla.md"
+    },
+    {
+      "title": "Arch Linux deshabilita la adopción de paquetes en AUR debido a malware",
+      "category": "linux",
+      "date": "2026-08-01",
+      "slug": "arch-linux-deshabilita-la-adopcion-de-paquetes-en-aur-d",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El equipo de DevOps de Arch Linux ha anunciado que la adopción de paquetes abandonados en el Arch User Repository (AUR) ha sido deshabilitada debido a un ataque de malware. El ataque ha sido detectado y analizado por el equipo de seguridad…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-01-arch-linux-deshabilita-la-adopcion-de-paquetes-en-aur-d.md"
+    },
+    {
+      "title": "reTerminal Sticky: un display ePaper con tecnología de IA y ESP32-S3",
+      "category": "embebidos",
+      "date": "2026-08-01",
+      "slug": "reterminal-sticky-un-display-epaper-con-tecnologia-de-i",
+      "tags": [
+        "esp32",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Seeed Studio ha lanzado el reTerminal Sticky, un display ePaper de 3.97 pulgadas con tecnología de IA y controlado por un ESP32-S3. Este dispositivo puede ser utilizado como una nota adhesiva, un lector de e-books, un panel de información…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-01-reterminal-sticky-un-display-epaper-con-tecnologia-de-i.md"
+    },
+    {
+      "title": "Convirtiendo vidrio en un botón táctil sensible a la presión",
+      "category": "embebidos",
+      "date": "2026-08-01",
+      "slug": "convirtiendo-vidrio-en-un-boton-tactil-sensible-a-la-pr",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Un ingeniero ha encontrado una forma de convertir vidrio en un botón táctil sensible a la presión, utilizando una capa de óxido de indio y estaño. Esto abre la puerta a la creación de pantallas táctiles resistentes y sensores de presión.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-01-convirtiendo-vidrio-en-un-boton-tactil-sensible-a-la-pr.md"
+    },
+    {
+      "title": "Raspberry Pi: desde drones hasta vivariums, todo es posible",
+      "category": "embebidos",
+      "date": "2026-08-01",
+      "slug": "raspberry-pi-desde-drones-hasta-vivariums-todo-es-posib",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "electronica"
+      ],
+      "preview": "La Raspberry Pi es el corazón de una variedad de proyectos innovadores, desde espectáculos aéreos hasta herramientas de prototipado y vivariums para reptiles. Estos dispositivos embebidos han revolucionado la forma en que se abordan…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-01-raspberry-pi-desde-drones-hasta-vivariums-todo-es-posib.md"
+    },
+    {
+      "title": "NanoPi R28S: un SBC compacto con conectividad inalámbrica y Ethernet",
+      "category": "embebidos",
+      "date": "2026-08-01",
+      "slug": "nanopi-r28s-un-sbc-compacto-con-conectividad-inalambric",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "FriendlyELEC ha lanzado el NanoPi R28S, un pequeño SBC (Single Board Computer) que combina conectividad inalámbrica y Ethernet, ideal para aplicaciones de red y IoT.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-01-nanopi-r28s-un-sbc-compacto-con-conectividad-inalambric.md"
+    },
+    {
+      "title": "ChronoWatch X2040: un reloj inteligente minimalista con RP2040",
+      "category": "embebidos",
+      "date": "2026-08-01",
+      "slug": "chronowatch-x2040-un-reloj-inteligente-minimalista-con-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Vishal Soni ha creado un reloj inteligente llamado ChronoWatch X2040, que se destaca por su diseño minimalista y su capacidad para mostrar múltiples relojes en pantalla. Este proyecto utiliza un módulo de pantalla circular con un…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-01-chronowatch-x2040-un-reloj-inteligente-minimalista-con-.md"
+    },
+    {
+      "title": "Un controlador de juego compacto para tu teléfono",
+      "category": "embebidos",
+      "date": "2026-08-01",
+      "slug": "un-controlador-de-juego-compacto-para-tu-telefono",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "microcontroladores"
+      ],
+      "preview": "Un desarrollador ha creado un controlador de juego personalizado para teléfonos móviles que ofrece una experiencia más inmersiva que la pantalla táctil. Este dispositivo resuelve el problema de la falta de retroalimentación táctil en los…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-01-un-controlador-de-juego-compacto-para-tu-telefono.md"
+    },
+    {
+      "title": "Reunión comunitaria de ROS OE: avances en robótica y embebidos",
+      "category": "robotica",
+      "date": "2026-08-01",
+      "slug": "reunion-comunitaria-de-ros-oe-avances-en-robotica-y-emb",
+      "tags": [
+        "robotica",
+        "linux",
+        "embebidos"
+      ],
+      "preview": "La comunidad de ROS OE se reúne para discutir los últimos avances en robótica y sistemas embebidos. En esta reunión, se compartirán detalles sobre la sincronización de combinaciones soportadas y el trabajo realizado en Navigation2, MoveIt2…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-01-reunion-comunitaria-de-ros-oe-avances-en-robotica-y-emb.md"
+    },
+    {
       "title": "Nueva tecnología óptica actualiza el AI de un robot en tiempo real",
       "category": "ia",
       "date": "2026-07-31",
