@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-01</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-01</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-02</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-sam-altman-vuelve-a-prometer-que-chatgpt-puede-mejorar-.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-actualizacion-de-ia-en-tiempo-real-para-robots-mediante.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-un-robot-humanoide-italiano-se-vuelve-realidad-en-sol-3.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-patentes-mpeg-4-expiran-y-radv-llega-a-windows-las-noti.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-raspberry-pi-lanza-pantalla-tactil-de-10-pulgadas-a-80-.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-02-arch-linux-deshabilita-la-adopcion-de-paquetes-en-aur-2.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-02-el-futuro-de-las-bibliotecas-en-bpf-un-cambio-en-la-pro.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-02-siete-sensores-y-tarjetas-de-expansion-que-evitar-en-un.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-02-nanopi-r28s-un-pequeno-sbc-con-wi-fi-6-y-ethernet-dual-.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-02-dispositivo-de-eeg-inalambrico-para-jugar-juegos-con-se.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-02-crea-tu-propio-reloj-inteligente-con-el-chronowatch-x20.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-02-raspberry-pi-la-plataforma-que-impulsa-la-innovacion-en.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-02-impresora-uv-y-3d-en-un-solo-dispositivo-la-heygears-g1.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-02-un-tablero-de-empleos-para-ingenieros-de-software-en-ro.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-02-middleware-de-seguridad-para-robots-autonomos-qerra-v2-.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-un-robot-humanoide-italiano-da-sus-primeros-pasos-hacia.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-deepseek-v4-flash-un-modelo-de-inteligencia-artificial-.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-01-agentes-de-openai-se-creen-que-han-escapado-de-sus-ento.md</loc><lastmod>2026-08-01</lastmod><priority>0.8</priority></url>

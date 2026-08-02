@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Sam Altman vuelve a prometer que ChatGPT puede mejorar la vida de los padres",
+      "category": "ia",
+      "date": "2026-08-02",
+      "slug": "sam-altman-vuelve-a-prometer-que-chatgpt-puede-mejorar-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "El CEO de OpenAI, Sam Altman, ha vuelto a causar polémica con sus comentarios sobre la capacidad de ChatGPT para mejorar la vida de los padres. Según él, la herramienta puede ayudar a crear podcasts personalizados para los niños durante el…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-02-sam-altman-vuelve-a-prometer-que-chatgpt-puede-mejorar-.md"
+    },
+    {
+      "title": "Actualización de IA en tiempo real para robots mediante luz óptica",
+      "category": "ia",
+      "date": "2026-08-02",
+      "slug": "actualizacion-de-ia-en-tiempo-real-para-robots-mediante",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Investigadores de Cornell Tech han desarrollado un receptor óptico que permite actualizar modelos de inteligencia artificial en tiempo real para robots y sistemas embebidos, reduciendo la energía y la complejidad de los sistemas.",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-02-actualizacion-de-ia-en-tiempo-real-para-robots-mediante.md"
+    },
+    {
+      "title": "Un robot humanoide italiano se vuelve realidad en solo seis meses",
+      "category": "ia",
+      "date": "2026-08-02",
+      "slug": "un-robot-humanoide-italiano-se-vuelve-realidad-en-sol-3",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La empresa italiana ha logrado crear un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con su entorno. Este avance es significativo en el campo de la robótica y la inteligencia artificial física.",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-02-un-robot-humanoide-italiano-se-vuelve-realidad-en-sol-3.md"
+    },
+    {
+      "title": "Patentes MPEG-4 expiran y RADV llega a Windows: las noticias de julio",
+      "category": "ia",
+      "date": "2026-08-02",
+      "slug": "patentes-mpeg-4-expiran-y-radv-llega-a-windows-las-noti",
+      "tags": [
+        "llms",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El mes de julio ha sido emocionante para la comunidad de Linux y código abierto. La última patente de MPEG-4 ha expirado, RADV llega a Windows y se han anunciado varias noticias interesantes sobre Linux y hardware.",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-02-patentes-mpeg-4-expiran-y-radv-llega-a-windows-las-noti.md"
+    },
+    {
+      "title": "Raspberry Pi lanza pantalla táctil de 10 pulgadas a 80 dólares",
+      "category": "ia",
+      "date": "2026-08-02",
+      "slug": "raspberry-pi-lanza-pantalla-tactil-de-10-pulgadas-a-80-",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "Raspberry Pi ha lanzado una nueva pantalla táctil de 10 pulgadas, una actualización de su pantalla táctil de 7 pulgadas. Esta nueva pantalla ofrece una resolución más alta y un ángulo de visión más amplio, lo que la hace ideal para…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-02-raspberry-pi-lanza-pantalla-tactil-de-10-pulgadas-a-80-.md"
+    },
+    {
+      "title": "Arch Linux deshabilita la adopción de paquetes en AUR debido a malware",
+      "category": "linux",
+      "date": "2026-08-02",
+      "slug": "arch-linux-deshabilita-la-adopcion-de-paquetes-en-aur-2",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Arch Linux ha sido golpeada por una serie de ataques maliciosos que han llevado a la deshabilitación de la adopción de paquetes en el Arch User Repository (AUR). Los atacantes han estado utilizando el AUR para difundir…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-02-arch-linux-deshabilita-la-adopcion-de-paquetes-en-aur-2.md"
+    },
+    {
+      "title": "El futuro de las bibliotecas en BPF: un cambio en la programación",
+      "category": "linux",
+      "date": "2026-08-02",
+      "slug": "el-futuro-de-las-bibliotecas-en-bpf-un-cambio-en-la-pro",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Song Liu, experto en BPF, prevé un cambio significativo en la forma en que los programadores crean programas complejos con esta tecnología. En un reciente encuentro en el Linux Storage, Filesystem, Memory-Management y BPF Summit, compartió…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-02-el-futuro-de-las-bibliotecas-en-bpf-un-cambio-en-la-pro.md"
+    },
+    {
+      "title": "Siete sensores y tarjetas de expansión que evitar en un producto",
+      "category": "embebidos",
+      "date": "2026-08-02",
+      "slug": "siete-sensores-y-tarjetas-de-expansion-que-evitar-en-un",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un divulgador técnico alerta sobre la existencia de sensores y módulos comunes en kits de iniciación, prototipos y productos en producción que no son adecuados para su uso en productos reales debido a su falta de precisión, protocolos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-02-siete-sensores-y-tarjetas-de-expansion-que-evitar-en-un.md"
+    },
+    {
+      "title": "NanoPi R28S: un pequeño SBC con Wi-Fi 6 y Ethernet dual Gigabit",
+      "category": "embebidos",
+      "date": "2026-08-02",
+      "slug": "nanopi-r28s-un-pequeno-sbc-con-wi-fi-6-y-ethernet-dual-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "FriendlyELEC ha lanzado el NanoPi R28S, un pequeño SBC (Single Board Computer) con Wi-Fi 6 y Ethernet dual Gigabit, diseñado para aplicaciones de red y IoT. Este dispositivo es ideal para firewalls, routers y puertas de enlace IoT.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-02-nanopi-r28s-un-pequeno-sbc-con-wi-fi-6-y-ethernet-dual-.md"
+    },
+    {
+      "title": "Dispositivo de EEG inalámbrico para jugar juegos con señales cerebrales",
+      "category": "embebidos",
+      "date": "2026-08-02",
+      "slug": "dispositivo-de-eeg-inalambrico-para-jugar-juegos-con-se",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un equipo de desarrolladores ha creado un dispositivo inalámbrico de EEG que permite jugar juegos con solo pensar, sin necesidad de manos o implantes. Este dispositivo, llamado Octopus 16, es una herramienta revolucionaria que abre nuevas…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-02-dispositivo-de-eeg-inalambrico-para-jugar-juegos-con-se.md"
+    },
+    {
+      "title": "Crea tu propio reloj inteligente con el ChronoWatch X2040",
+      "category": "embebidos",
+      "date": "2026-08-02",
+      "slug": "crea-tu-propio-reloj-inteligente-con-el-chronowatch-x20",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Vishal Soni, un entusiasta de la tecnología, ha desarrollado un reloj inteligente minimalista que enfatiza la función principal de un reloj: mostrar la hora. Con un diseño elegante y una variedad de caras de reloj, el ChronoWatch X2040 es…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-02-crea-tu-propio-reloj-inteligente-con-el-chronowatch-x20.md"
+    },
+    {
+      "title": "Raspberry Pi: la plataforma que impulsa la innovación en robótica y más",
+      "category": "embebidos",
+      "date": "2026-08-02",
+      "slug": "raspberry-pi-la-plataforma-que-impulsa-la-innovacion-en",
+      "tags": [
+        "robotica",
+        "drones",
+        "raspberry-pi"
+      ],
+      "preview": "La plataforma Raspberry Pi ha sido utilizada en una variedad de proyectos innovadores, desde espectáculos aéreos con drones hasta kits de prototipado y vivariums para reptiles. Estos proyectos demuestran la versatilidad y potencial de la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-02-raspberry-pi-la-plataforma-que-impulsa-la-innovacion-en.md"
+    },
+    {
+      "title": "Impresora UV y 3D en un solo dispositivo: la HeyGears G1",
+      "category": "diseño-3d",
+      "date": "2026-08-02",
+      "slug": "impresora-uv-y-3d-en-un-solo-dispositivo-la-heygears-g1",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La HeyGears G1 es un dispositivo innovador que combina la capacidad de imprimir en 3D con la funcionalidad de una impresora UV. Esto permite a los usuarios crear objetos complejos con detalles finos y colores vibrantes.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-08-02-impresora-uv-y-3d-en-un-solo-dispositivo-la-heygears-g1.md"
+    },
+    {
+      "title": "Un tablero de empleos para ingenieros de software en robótica",
+      "category": "robotica",
+      "date": "2026-08-02",
+      "slug": "un-tablero-de-empleos-para-ingenieros-de-software-en-ro",
+      "tags": [
+        "robotica",
+        "python",
+        "linux"
+      ],
+      "preview": "La búsqueda de empleos en ingeniería de software en robótica puede ser complicada debido a la falta de un lugar centralizado para encontrar oportunidades. Ahora, una comunidad de ingenieros de software en robótica ha creado un tablero de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-02-un-tablero-de-empleos-para-ingenieros-de-software-en-ro.md"
+    },
+    {
+      "title": "Middleware de seguridad para robots autónomos: QERRA-v2 Classical",
+      "category": "robotica",
+      "date": "2026-08-02",
+      "slug": "middleware-de-seguridad-para-robots-autonomos-qerra-v2-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un equipo de desarrolladores ha presentado QERRA-v2 Classical, un middleware de seguridad para robots autónomos que evalúa las acciones del robot antes de su ejecución. Este sistema es crucial para garantizar la seguridad y la ética en la…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-02-middleware-de-seguridad-para-robots-autonomos-qerra-v2-.md"
+    },
+    {
       "title": "Un robot humanoide italiano da sus primeros pasos hacia la realidad",
       "category": "ia",
       "date": "2026-08-01",
