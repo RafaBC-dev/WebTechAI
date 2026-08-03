@@ -1,6 +1,215 @@
 {
   "news": [
     {
+      "title": "Un robot humanoide italiano se pone en marcha",
+      "category": "ia",
+      "date": "2026-08-03",
+      "slug": "un-robot-humanoide-italiano-se-pone-en-marcha",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "diseño-3d"
+      ],
+      "preview": "La empresa italiana Generative Bionics ha creado un robot humanoide llamado GENE.01 que puede caminar, sentir y interactuar con su entorno. Este proyecto es un paso importante en la creación de inteligencia física segura y natural que…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-03-un-robot-humanoide-italiano-se-pone-en-marcha.md"
+    },
+    {
+      "title": "ASUS UGen300: acelerador USB AI para modelos de lenguaje y visión",
+      "category": "ia",
+      "date": "2026-08-03",
+      "slug": "asus-ugen300-acelerador-usb-ai-para-modelos-de-lenguaje",
+      "tags": [
+        "ia-local",
+        "llms",
+        "linux"
+      ],
+      "preview": "ASUS ha lanzado el UGen300, un acelerador USB AI que combina un procesador Hailo-10H con 8GB de memoria LPDDR4 para acelerar modelos de lenguaje y visión. Este dispositivo es ideal para aplicaciones de IA que requieren procesamiento de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-03-asus-ugen300-acelerador-usb-ai-para-modelos-de-lenguaje.md"
+    },
+    {
+      "title": "Raspberry Pi lanza un nuevo display táctil de 10 pulgadas",
+      "category": "ia",
+      "date": "2026-08-03",
+      "slug": "raspberry-pi-lanza-un-nuevo-display-tactil-de-10-pulgad",
+      "tags": [
+        "robotica",
+        "raspberry-pi",
+        "linux"
+      ],
+      "preview": "La empresa Raspberry Pi ha lanzado un nuevo display táctil de 10 pulgadas, que ofrece una resolución más alta y un ángulo de visión más amplio que sus predecesores. Este dispositivo es perfecto para aplicaciones como la automatización de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-03-raspberry-pi-lanza-un-nuevo-display-tactil-de-10-pulgad.md"
+    },
+    {
+      "title": "Nueva tecnología óptica actualiza el AI de un robot en tiempo real",
+      "category": "ia",
+      "date": "2026-08-03",
+      "slug": "nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-4",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Un equipo de investigadores de Cornell Tech ha desarrollado una tecnología óptica que permite actualizar el AI de un robot en tiempo real. Esto podría reducir la carga de la memoria en sistemas de AI y ahorrar energía en centros de datos y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-03-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-4.md"
+    },
+    {
+      "title": "El futuro de las bibliotecas en BPF: cambios inminentes",
+      "category": "linux",
+      "date": "2026-08-03",
+      "slug": "el-futuro-de-las-bibliotecas-en-bpf-cambios-inminentes",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Song Liu, experto en BPF, ha anticipado cambios significativos en la forma en que los programadores crean programas complejos con esta tecnología. Estos cambios podrían revolucionar la forma en que se desarrollan aplicaciones en Linux.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-03-el-futuro-de-las-bibliotecas-en-bpf-cambios-inminentes.md"
+    },
+    {
+      "title": "Google Summer of Code: Mejoras en Open-RMF y Crossflow",
+      "category": "linux",
+      "date": "2026-08-03",
+      "slug": "google-summer-of-code-mejoras-en-open-rmf-y-crossflow",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "python"
+      ],
+      "preview": "El proyecto Open-RMF ha participado en el Google Summer of Code con dos contribuyentes que han trabajado en mejorar la experiencia del usuario de Crossflow y la gestión de tráfico en entornos de robots.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-03-google-summer-of-code-mejoras-en-open-rmf-y-crossflow.md"
+    },
+    {
+      "title": "Linux 7.3 agrega soporte para MCTP-Over-USB v1.1",
+      "category": "linux",
+      "date": "2026-08-03",
+      "slug": "linux-73-agrega-soporte-para-mctp-over-usb-v11",
+      "tags": [
+        "linux",
+        "mctp",
+        "usb"
+      ],
+      "preview": "La versión 7.3 de Linux está a punto de incluir soporte para la versión 1.1 del estándar MCTP-Over-USB, lo que permitirá enviar paquetes de protocolo de transporte de componentes de gestión (MCTP) sobre USB de manera más eficiente.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-03-linux-73-agrega-soporte-para-mctp-over-usb-v11.md"
+    },
+    {
+      "title": "Juega a videojuegos con tus señales cerebrales gracias a Octopus 16",
+      "category": "embebidos",
+      "date": "2026-08-03",
+      "slug": "juega-a-videojuegos-con-tus-senales-cerebrales-gracias-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa PiEEG ha lanzado Octopus 16, un dispositivo de señales cerebrales inalámbrico que permite jugar a videojuegos sin necesidad de manos ni implantes. Este dispositivo es una herramienta revolucionaria para la interacción humana con…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-03-juega-a-videojuegos-con-tus-senales-cerebrales-gracias-.md"
+    },
+    {
+      "title": "Nuevos productos y proyectos destacados en Adafruit para julio 2026",
+      "category": "embebidos",
+      "date": "2026-08-03",
+      "slug": "nuevos-productos-y-proyectos-destacados-en-adafruit-par",
+      "tags": [
+        "microcontroladores",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Adafruit ha lanzado varios productos y proyectos interesantes en julio 2026, destacándose la producción en masa del ESP32-S31 y la creación de sistemas de automatización asequibles",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-03-nuevos-productos-y-proyectos-destacados-en-adafruit-par.md"
+    },
+    {
+      "title": "Raspberry Pi: el corazón de proyectos innovadores en robótica y más",
+      "category": "embebidos",
+      "date": "2026-08-03",
+      "slug": "raspberry-pi-el-corazon-de-proyectos-innovadores-en-rob",
+      "tags": [
+        "robotica",
+        "drones",
+        "raspberry-pi",
+        "embebidos"
+      ],
+      "preview": "La Raspberry Pi es el elemento clave detrás de proyectos emocionantes en robótica, como espectáculos aéreos con drones y kits de televisión personalizados. Descubre cómo esta plataforma está impulsando la innovación en diversas áreas.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-03-raspberry-pi-el-corazon-de-proyectos-innovadores-en-rob.md"
+    },
+    {
+      "title": "Easy Theremin: un instrumento musical electrónico con ESP32",
+      "category": "embebidos",
+      "date": "2026-08-03",
+      "slug": "easy-theremin-un-instrumento-musical-electronico-con-es",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El Theremin es un instrumento musical electrónico clásico que ha sido popular en la ciencia ficción de mediados del siglo XX. Ahora, se puede construir con tecnología moderna, como el microcontrolador ESP32.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-03-easy-theremin-un-instrumento-musical-electronico-con-es.md"
+    },
+    {
+      "title": "ChronoWatch X2040: un reloj inteligente con diseño minimalista",
+      "category": "embebidos",
+      "date": "2026-08-03",
+      "slug": "chronowatch-x2040-un-reloj-inteligente-con-diseno-minim",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un joven programador ha creado un reloj inteligente con un diseño minimalista y funcional, utilizando un microcontrolador RP2040 y un display táctil circular. Este proyecto es relevante ahora mismo porque muestra cómo es posible crear un…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-03-chronowatch-x2040-un-reloj-inteligente-con-diseno-minim.md"
+    },
+    {
+      "title": "Nueva placa de sensores para robots con conectividad GMSL y CAN-FD",
+      "category": "embebidos",
+      "date": "2026-08-03",
+      "slug": "nueva-placa-de-sensores-para-robots-con-conectividad-gm",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La empresa Aliensense ha lanzado una nueva placa de sensores llamada NXS, diseñada para conectar cámaras y sensores a robots de manera fácil y rápida. Esta placa utiliza un cable GMSL 2/3 para transmitir datos y video a través de hasta 15…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-03-nueva-placa-de-sensores-para-robots-con-conectividad-gm.md"
+    },
+    {
+      "title": "Buscan ingeniero de soporte técnico para robots colaborativos en San Francisco",
+      "category": "robotica",
+      "date": "2026-08-03",
+      "slug": "buscan-ingeniero-de-soporte-tecnico-para-robots-colabor",
+      "tags": [
+        "robotica"
+      ],
+      "preview": "RealMan Intelligent Technology busca un ingeniero de soporte técnico para su equipo de robots colaborativos en San Francisco. El candidato ideal tendrá experiencia en robótica, mecatrónica y electrónica, y estará dispuesto a viajar a…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-03-buscan-ingeniero-de-soporte-tecnico-para-robots-colabor.md"
+    },
+    {
+      "title": "ROS 2: Nueva funcionalidad de tiempo real para sistemas embebidos",
+      "category": "robotica",
+      "date": "2026-08-03",
+      "slug": "ros-2-nueva-funcionalidad-de-tiempo-real-para-sistemas-",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "La comunidad de ROS 2 ha lanzado una nueva funcionalidad de tiempo real que permite a los desarrolladores crear sistemas embebidos más precisos y confiables. Esta funcionalidad es especialmente importante para aplicaciones de robótica y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-03-ros-2-nueva-funcionalidad-de-tiempo-real-para-sistemas-.md"
+    },
+    {
       "title": "Sam Altman vuelve a prometer que ChatGPT puede mejorar la vida de los padres",
       "category": "ia",
       "date": "2026-08-02",

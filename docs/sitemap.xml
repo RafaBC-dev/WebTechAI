@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-02</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-02</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-03</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-03</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-03-un-robot-humanoide-italiano-se-pone-en-marcha.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-03-asus-ugen300-acelerador-usb-ai-para-modelos-de-lenguaje.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-03-raspberry-pi-lanza-un-nuevo-display-tactil-de-10-pulgad.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-03-nueva-tecnologia-optica-actualiza-el-ai-de-un-robot-e-4.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-03-el-futuro-de-las-bibliotecas-en-bpf-cambios-inminentes.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-03-google-summer-of-code-mejoras-en-open-rmf-y-crossflow.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-03-linux-73-agrega-soporte-para-mctp-over-usb-v11.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-03-juega-a-videojuegos-con-tus-senales-cerebrales-gracias-.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-03-nuevos-productos-y-proyectos-destacados-en-adafruit-par.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-03-raspberry-pi-el-corazon-de-proyectos-innovadores-en-rob.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-03-easy-theremin-un-instrumento-musical-electronico-con-es.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-03-chronowatch-x2040-un-reloj-inteligente-con-diseno-minim.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-03-nueva-placa-de-sensores-para-robots-con-conectividad-gm.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-03-buscan-ingeniero-de-soporte-tecnico-para-robots-colabor.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-03-ros-2-nueva-funcionalidad-de-tiempo-real-para-sistemas-.md</loc><lastmod>2026-08-03</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-sam-altman-vuelve-a-prometer-que-chatgpt-puede-mejorar-.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-actualizacion-de-ia-en-tiempo-real-para-robots-mediante.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-02-un-robot-humanoide-italiano-se-vuelve-realidad-en-sol-3.md</loc><lastmod>2026-08-02</lastmod><priority>0.8</priority></url>
