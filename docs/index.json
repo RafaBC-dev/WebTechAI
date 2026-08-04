@@ -1,6 +1,214 @@
 {
   "news": [
     {
+      "title": "Rootear un router TP-Link TL-841N: hacking y análisis",
+      "category": "ia",
+      "date": "2026-08-04",
+      "slug": "rootear-un-router-tp-link-tl-841n-hacking-y-analisis",
+      "tags": [
+        "robotica",
+        "linux",
+        "herramientas"
+      ],
+      "preview": "Un equipo de hackers ha logrado rootear un router TP-Link TL-841N de solo $10, revelando una vulnerabilidad crítica en la seguridad de los dispositivos IoT. Esta noticia es relevante ahora mismo porque muestra la importancia de la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-04-rootear-un-router-tp-link-tl-841n-hacking-y-analisis.md"
+    },
+    {
+      "title": "Intelligence recibe $7.9 millones para mejorar la experiencia de los modelos de IA",
+      "category": "ia",
+      "date": "2026-08-04",
+      "slug": "intelligence-recibe-79-millones-para-mejorar-la-experie",
+      "tags": [
+        "llms",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "La empresa Intelligence, creadora de Design Arena, ha recibido $7.9 millones para mejorar la experiencia de los modelos de IA. Esta herramienta permite a los usuarios proporcionar retroalimentación humana a los modelos de IA, lo que ayuda…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-04-intelligence-recibe-79-millones-para-mejorar-la-experie.md"
+    },
+    {
+      "title": "Lenguaje de lenguaje masivo se ejecuta localmente en un microcontrolador ESP32-S3",
+      "category": "ia",
+      "date": "2026-08-04",
+      "slug": "lenguaje-de-lenguaje-masivo-se-ejecuta-localmente-en-un",
+      "tags": [
+        "llms",
+        "esp32",
+        "ia-local"
+      ],
+      "preview": "Un ingeniero ha logrado ejecutar un modelo de lenguaje de lenguaje de 28,9 millones de parámetros en un microcontrolador ESP32-S3, lo que permite generar texto de manera local sin necesidad de conexión a internet.",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-04-lenguaje-de-lenguaje-masivo-se-ejecuta-localmente-en-un.md"
+    },
+    {
+      "title": "Curobo_ros v2: un wrapper de planificación de movimiento acelerado por GPU",
+      "category": "linux",
+      "date": "2026-08-04",
+      "slug": "curobo-ros-v2-un-wrapper-de-planificacion-de-movimiento",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias"
+      ],
+      "preview": "La versión 2.0 de curobo_ros, un wrapper de planificación de movimiento para ROS 2, ha sido actualizada con una serie de mejoras significativas. Entre ellas, una nueva arquitectura de percepción nativa, una API de planificación de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-04-curobo-ros-v2-un-wrapper-de-planificacion-de-movimiento.md"
+    },
+    {
+      "title": "Linux 7.3: ¿Qué es FailFS y por qué es importante?",
+      "category": "linux",
+      "date": "2026-08-04",
+      "slug": "linux-73-que-es-failfs-y-por-que-es-importante",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El kernel de Linux 7.3 ha incorporado un nuevo filesystem llamado FailFS, que se suma a NULLFS. FailFS es un filesystem que siempre devuelve un error cuando se intenta realizar una operación sobre él, lo que lo hace ideal para ciertas…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-04-linux-73-que-es-failfs-y-por-que-es-importante.md"
+    },
+    {
+      "title": "Mejora en rendimiento de FUSE con io_uring gracias a tamaños de búfer óptimos",
+      "category": "linux",
+      "date": "2026-08-04",
+      "slug": "mejora-en-rendimiento-de-fuse-con-io-uring-gracias-a-ta",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El proyecto FUSE, que permite a los servidores de usuario-space manejar solicitudes de sistema de archivos, ha sido objeto de una discusión sobre cómo mejorar su rendimiento. Los desarrolladores están buscando la forma de optimizar la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-04-mejora-en-rendimiento-de-fuse-con-io-uring-gracias-a-ta.md"
+    },
+    {
+      "title": "Alerta de seguridad: TV streaming sticks pueden ser utilizados para defraudar a anunciantes",
+      "category": "linux",
+      "date": "2026-08-04",
+      "slug": "alerta-de-seguridad-tv-streaming-sticks-pueden-ser-util",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Los dispositivos de streaming de TV pueden ser más peligrosos de lo que crees. Un análisis reciente descubre que algunos de estos dispositivos están siendo utilizados para defraudar a anunciantes y vendedores en línea. ¿Qué pasa…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-04-alerta-de-seguridad-tv-streaming-sticks-pueden-ser-util.md"
+    },
+    {
+      "title": "Emulador de PDP-11/70: un minicomputer clásico en tu ordenador",
+      "category": "embebidos",
+      "date": "2026-08-04",
+      "slug": "emulador-de-pdp-1170-un-minicomputer-clasico-en-tu-orde",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un emulador de un minicomputer clásico de la década de 1970 se ha convertido en una realidad gracias a la dedicación de un desarrollador. Este proyecto permite a los entusiastas de la tecnología experimentar con un sistema operativo y…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-04-emulador-de-pdp-1170-un-minicomputer-clasico-en-tu-orde.md"
+    },
+    {
+      "title": "ChronoWatch X2040: un reloj inteligente con estilo y funcionalidad",
+      "category": "embebidos",
+      "date": "2026-08-04",
+      "slug": "chronowatch-x2040-un-reloj-inteligente-con-estilo-y-fun",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El proyecto ChronoWatch X2040 es un reloj inteligente creado por Vishal Soni, que se centra en la función principal de un reloj: mostrar la hora. Este dispositivo elegante y simple ofrece múltiples diseños de pantalla para adaptarse a…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-04-chronowatch-x2040-un-reloj-inteligente-con-estilo-y-fun.md"
+    },
+    {
+      "title": "BG2B: el procesador Bluetooth LE más bajo en consumo de Silicon Labs",
+      "category": "embebidos",
+      "date": "2026-08-04",
+      "slug": "bg2b-el-procesador-bluetooth-le-mas-bajo-en-consumo-de-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "Silicon Labs ha lanzado el BG2B, un procesador Bluetooth LE ultra bajo en consumo que busca revolucionar la tecnología IoT. Con un consumo de solo 1.1 µA en modo de sueño, este procesador es ideal para dispositivos que necesitan durar…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-04-bg2b-el-procesador-bluetooth-le-mas-bajo-en-consumo-de-.md"
+    },
+    {
+      "title": "ChronoWatch X2040: un reloj DIY con Raspberry Pi y firmware personalizado",
+      "category": "embebidos",
+      "date": "2026-08-04",
+      "slug": "chronowatch-x2040-un-reloj-diy-con-raspberry-pi-y-firmw",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Vishal Soni ha creado el ChronoWatch X2040, un reloj DIY que combina una pantalla circular de 1,28 pulgadas con un MCU Raspberry Pi RP2040 y un firmware personalizado. Este proyecto es una excelente opción para aquellos que desean crear su…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-04-chronowatch-x2040-un-reloj-diy-con-raspberry-pi-y-firmw.md"
+    },
+    {
+      "title": "Protoros2: un middleware para usar protobuf en ROS 2 sin compromisos",
+      "category": "robotica",
+      "date": "2026-08-04",
+      "slug": "protoros2-un-middleware-para-usar-protobuf-en-ros-2-sin",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha demandado durante años la integración sin problemas de la serialización de protobuf. Ahora, protoros2 ofrece una solución que no compromete la velocidad ni la producción.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-04-protoros2-un-middleware-para-usar-protobuf-en-ros-2-sin.md"
+    },
+    {
+      "title": "Google DeepMind lanza Gemini Robotics 2, el futuro de la robótica adaptable",
+      "category": "robotica",
+      "date": "2026-08-04",
+      "slug": "google-deepmind-lanza-gemini-robotics-2-el-futuro-de-la",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Google DeepMind ha presentado Gemini Robotics 2, una plataforma de inteligencia artificial que permite a los robots adaptarse a diferentes situaciones y colaborar con otros robots. Esta tecnología revolucionaria abre la puerta a una nueva…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-04-google-deepmind-lanza-gemini-robotics-2-el-futuro-de-la.md"
+    },
+    {
+      "title": "Conoce la matemática detrás de la robótica: Forward & Inverse Kinematics",
+      "category": "robotica",
+      "date": "2026-08-04",
+      "slug": "conoce-la-matematica-detras-de-la-robotica-forward-inve",
+      "tags": [
+        "robotica"
+      ],
+      "preview": "El grupo Boston Robot Hackers presenta su próximo encuentro en agosto, donde Shivam Chopra explicará los conceptos de Forward y Inverse Kinematics y su importancia en la robótica. Este evento es una oportunidad para aprender sobre la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-04-conoce-la-matematica-detras-de-la-robotica-forward-inve.md"
+    },
+    {
+      "title": "Walden Robotics se asocia con Toyota para crear robots humanoides prácticos",
+      "category": "robotica",
+      "date": "2026-08-04",
+      "slug": "walden-robotics-se-asocia-con-toyota-para-crear-robots-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "embebidos"
+      ],
+      "preview": "Después de un auge en la creación de robots humanoides, la industria se ha vuelto más realista y práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca crear robots humanoides que sean útiles en la vida real.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-04-walden-robotics-se-asocia-con-toyota-para-crear-robots-.md"
+    },
+    {
       "title": "Un robot humanoide italiano se pone en marcha",
       "category": "ia",
       "date": "2026-08-03",
