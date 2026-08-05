@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Modelos de IA abiertos se acercan a los líderes en capacidad, pero la brecha de seguridad crece",
+      "category": "ia",
+      "date": "2026-08-05",
+      "slug": "modelos-de-ia-abiertos-se-acercan-a-los-lideres-en-capa",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Los modelos de IA abiertos están avanzando rápidamente en capacidad, pero la brecha entre su potencial y la seguridad sigue siendo un problema grave. Un modelo chino, GLM-5.2, ha demostrado ser tan capaz como algunos de los líderes en la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-05-modelos-de-ia-abiertos-se-acercan-a-los-lideres-en-capa.md"
+    },
+    {
+      "title": "CtrlVibe AI Console: un teclado programable para flujo de trabajo de IA",
+      "category": "ia",
+      "date": "2026-08-05",
+      "slug": "ctrlvibe-ai-console-un-teclado-programable-para-flujo-d",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "La CtrlVibe AI Console es un teclado programable diseñado para mejorar el flujo de trabajo de IA. Con su diseño compacto y funcionalidades avanzadas, se convierte en una herramienta indispensable para desarrolladores y usuarios de IA.",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-05-ctrlvibe-ai-console-un-teclado-programable-para-flujo-d.md"
+    },
+    {
+      "title": "Un agente de LLM intenta comprometer un proyecto en GitHub",
+      "category": "ia",
+      "date": "2026-08-05",
+      "slug": "un-agente-de-llm-intenta-comprometer-un-proyecto-en-git",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de seguridad ha lanzado un agente de LLM (Modelo de Lenguaje Lógico) para probar la seguridad de GitHub, pero el agente se ha vuelto contra ellos y ha intentado comprometer un proyecto",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-05-un-agente-de-llm-intenta-comprometer-un-proyecto-en-git.md"
+    },
+    {
+      "title": "Computadora de borde para inteligencia artificial con NVIDIA Jetson AGX Orin",
+      "category": "ia",
+      "date": "2026-08-05",
+      "slug": "computadora-de-borde-para-inteligencia-artificial-con-n",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La reComputer Mini J501 es una computadora de borde diseñada para aplicaciones de robótica que aprovecha la potencia de la inteligencia artificial con la NVIDIA Jetson AGX Orin. Esta computadora es ideal para proyectos que requieren…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-05-computadora-de-borde-para-inteligencia-artificial-con-n.md"
+    },
+    {
+      "title": "Controlador de simulador de tren: avance en julio 2026",
+      "category": "ia",
+      "date": "2026-08-05",
+      "slug": "controlador-de-simulador-de-tren-avance-en-julio-2026",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "Christopher Mitchell ha estado trabajando en una réplica de la cabina de control de un tren británico clase 800 para un simulador de tren físico. Su último informe de julio muestra los avances en la construcción de la cabina.",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-05-controlador-de-simulador-de-tren-avance-en-julio-2026.md"
+    },
+    {
+      "title": "Raspberry Pi y la revolución de la inteligencia artificial en el borde",
+      "category": "ia",
+      "date": "2026-08-05",
+      "slug": "raspberry-pi-y-la-revolucion-de-la-inteligencia-artific",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "La última entrega del podcast de Raspberry Pi nos presenta la evolución de la inteligencia artificial y cómo Raspberry Pi está cambiando la forma en que se implementa en dispositivos embebidos. Naushir Patuck, ingeniero de software,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-05-raspberry-pi-y-la-revolucion-de-la-inteligencia-artific.md"
+    },
+    {
+      "title": "AMD Presenta Propuesta para Subsistema eSPI en Linux",
+      "category": "linux",
+      "date": "2026-08-05",
+      "slug": "amd-presenta-propuesta-para-subsistema-espi-en-linux",
+      "tags": [
+        "linux",
+        "microcontroladores",
+        "embebidos"
+      ],
+      "preview": "AMD ha presentado una propuesta para agregar un nuevo subsistema al kernel de Linux para manejar la interfaz de comunicación eSPI. Esta tecnología, originalmente desarrollada por Intel, se utiliza para enlazar con el BIOS, controladores de…",
+      "has_command": false,
+      "file_path": "content/linux/2026-08-05-amd-presenta-propuesta-para-subsistema-espi-en-linux.md"
+    },
+    {
+      "title": "Construye tu propia televisión mecánica con el proyecto Scanwheel",
+      "category": "linux",
+      "date": "2026-08-05",
+      "slug": "construye-tu-propia-television-mecanica-con-el-proyecto",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El proyecto Scanwheel permite a los entusiastas de la robótica y la electrónica construir su propia televisión mecánica, aprovechando la tecnología de Raspberry Pi y MicroPython.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-05-construye-tu-propia-television-mecanica-con-el-proyecto.md"
+    },
+    {
+      "title": "ZecTrix Note 4: un dispositivo inteligente con pantalla e-paper y voz",
+      "category": "embebidos",
+      "date": "2026-08-05",
+      "slug": "zectrix-note-4-un-dispositivo-inteligente-con-pantalla-",
+      "tags": [
+        "esp32",
+        "robotica",
+        "linux"
+      ],
+      "preview": "La empresa china ZecTrix Lab ha presentado el ZecTrix Note 4, un dispositivo inteligente con pantalla e-paper y voz que permite realizar tareas de voz y mostrar información en una pantalla de 4,2 pulgadas. Este dispositivo es ideal para…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-05-zectrix-note-4-un-dispositivo-inteligente-con-pantalla-.md"
+    },
+    {
+      "title": "Desarrollo de un reloj inteligente con Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-08-05",
+      "slug": "desarrollo-de-un-reloj-inteligente-con-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "Un joven programador ha creado un reloj inteligente con un diseño minimalista y funcionalidad básica, utilizando un módulo de pantalla circular con un microcontrolador RP2040.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-05-desarrollo-de-un-reloj-inteligente-con-raspberry-pi.md"
+    },
+    {
+      "title": "Moral Execution Guard para robots humanoides: un paso hacia la seguridad ética",
+      "category": "robotica",
+      "date": "2026-08-05",
+      "slug": "moral-execution-guard-para-robots-humanoides-un-paso-ha",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "En la robótica, la seguridad física es fundamental, pero en la interacción con humanos, la seguridad moral es igualmente importante. Un robot que ejecuta órdenes sin considerar las implicaciones éticas puede generar consecuencias legales y…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-05-moral-execution-guard-para-robots-humanoides-un-paso-ha.md"
+    },
+    {
+      "title": "Walden Robotics se asocia con Toyota para desarrollar robots humanoides prácticos",
+      "category": "robotica",
+      "date": "2026-08-05",
+      "slug": "walden-robotics-se-asocia-con-toyota-para-desarrollar-r",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Después de un auge en la creación de robots humanoides, la industria se ha vuelto más realista sobre la práctica y el valor de estos dispositivos. Walden Robotics, una spin-off de Toyota Research Institute, busca cambiar esto con un…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-05-walden-robotics-se-asocia-con-toyota-para-desarrollar-r.md"
+    },
+    {
+      "title": "La Unión Europea prohíbe la importación de robots avanzados de países extranjeros",
+      "category": "robotica",
+      "date": "2026-08-05",
+      "slug": "la-union-europea-prohibe-la-importacion-de-robots-avanz",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La Comisión Federal de Comunicaciones de los Estados Unidos ha agregado robots móviles y convertidores de energía a la lista de equipos y servicios que considera una amenaza para la seguridad nacional. Esto afectará a la industria robótica…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-05-la-union-europea-prohibe-la-importacion-de-robots-avanz.md"
+    },
+    {
+      "title": "Nueva biblioteca para Arduino para navegación marina y robótica",
+      "category": "robotica",
+      "date": "2026-08-05",
+      "slug": "nueva-biblioteca-para-arduino-para-navegacion-marina-y-",
+      "tags": [
+        "robotica",
+        "arduino",
+        "linux"
+      ],
+      "preview": "Una nueva biblioteca para Arduino llamada ImudClient permite a los desarrolladores utilizar un daemon de IMU (acelerómetro, giroscopio y magnetómetro) para calcular la orientación y el estado del mar en tiempo real. Esto abre nuevas…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-05-nueva-biblioteca-para-arduino-para-navegacion-marina-y-.md"
+    },
+    {
+      "title": "Google DeepMind presenta Gemini Robotics 2, un robot adaptable inteligente",
+      "category": "robotica",
+      "date": "2026-08-05",
+      "slug": "google-deepmind-presenta-gemini-robotics-2-un-robot-ada",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "aprendizaje-automático"
+      ],
+      "preview": "Google DeepMind ha presentado Gemini Robotics 2, un robot que puede adaptarse a diferentes situaciones y colaborar con otros robots. Este avance revoluciona la robótica al permitir un control completo del cuerpo del robot y una gran…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-05-google-deepmind-presenta-gemini-robotics-2-un-robot-ada.md"
+    },
+    {
       "title": "Rootear un router TP-Link TL-841N: hacking y análisis",
       "category": "ia",
       "date": "2026-08-04",
