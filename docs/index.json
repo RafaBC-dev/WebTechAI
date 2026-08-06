@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Meta lanza Muse Code, un agente de IA para grandes bases de código",
+      "category": "ia",
+      "date": "2026-08-06",
+      "slug": "meta-lanza-muse-code-un-agente-de-ia-para-grandes-bases",
+      "tags": [
+        "llms",
+        "ia-local",
+        "codigo"
+      ],
+      "preview": "Meta, líder en el mercado de las redes sociales, busca recuperar terreno en el campo de la inteligencia artificial. Su nuevo proyecto, Muse Code, es un agente de IA que busca ayudar a los programadores a gestionar grandes bases de código…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-06-meta-lanza-muse-code-un-agente-de-ia-para-grandes-bases.md"
+    },
+    {
+      "title": "Hacking de router Tenda AC1200 con vulnerabilidad CVE",
+      "category": "ia",
+      "date": "2026-08-06",
+      "slug": "hacking-de-router-tenda-ac1200-con-vulnerabilidad-cve",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Un investigador ha descubierto una vulnerabilidad en un router Tenda AC1200 que permite acceder a la consola del dispositivo. La vulnerabilidad se debe a una combinación de dos CVE (Common Vulnerabilities and Exposures) que permiten al…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-06-hacking-de-router-tenda-ac1200-con-vulnerabilidad-cve.md"
+    },
+    {
+      "title": "CYCLO: Plataforma Abierta para Sistemas de Inteligencia Física",
+      "category": "ia",
+      "date": "2026-08-06",
+      "slug": "cyclo-plataforma-abierta-para-sistemas-de-inteligencia-",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La creación de sistemas de inteligencia física puede ser un proceso complejo, ya que implica la integración de herramientas fragmentadas para datos, entrenamiento, simulación y control de hardware. CYCLO es una plataforma abierta y modular…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-06-cyclo-plataforma-abierta-para-sistemas-de-inteligencia-.md"
+    },
+    {
+      "title": "Taller de Scenic: Programación probabilística para sistemas robóticos",
+      "category": "ia",
+      "date": "2026-08-06",
+      "slug": "taller-de-scenic-programacion-probabilistica-para-siste",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "El taller de Scenic es un evento anual que se celebra en la Universidad de California en Santa Cruz, donde se presentan las últimas tendencias en programación probabilística para sistemas robóticos. Este año, el taller se celebrará el 20 y…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-06-taller-de-scenic-programacion-probabilistica-para-siste.md"
+    },
+    {
+      "title": "Acceder a namespaces de red diferentes con BPF",
+      "category": "linux",
+      "date": "2026-08-06",
+      "slug": "acceder-a-namespaces-de-red-diferentes-con-bpf",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Jordan Rife, experto en BPF, busca permitir a los programas BPF iterar a través de los sockets de un namespace de red diferente. Esto podría ser útil en entornos de Kubernetes.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-06-acceder-a-namespaces-de-red-diferentes-con-bpf.md"
+    },
+    {
+      "title": "b4 0.16.0: Herramienta de desarrollo con soporte de seguimiento de errores",
+      "category": "linux",
+      "date": "2026-08-06",
+      "slug": "b4-0160-herramienta-de-desarrollo-con-soporte-de-seguim",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas",
+        "linux"
+      ],
+      "preview": "La herramienta de desarrollo b4 ha lanzado una nueva versión, 0.16.0, que incluye una función de seguimiento de errores integrada con git-bug. Esto permite a los desarrolladores rastrear errores y problemas en su código de manera más…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-06-b4-0160-herramienta-de-desarrollo-con-soporte-de-seguim.md"
+    },
+    {
+      "title": "Linux 7.3: un paso importante para el controlador Steam original",
+      "category": "linux",
+      "date": "2026-08-06",
+      "slug": "linux-73-un-paso-importante-para-el-controlador-steam-o",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.3 del kernel Linux está a punto de llegar con una mejora significativa para el controlador Steam original. Hasta ahora, este controlador no tenía soporte para eventos de sensor, lo que limitaba su funcionalidad. Ahora, gracias…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-06-linux-73-un-paso-importante-para-el-controlador-steam-o.md"
+    },
+    {
+      "title": "Adaptador de alta velocidad de Ethernet abierto por Antmicro",
+      "category": "embebidos",
+      "date": "2026-08-06",
+      "slug": "adaptador-de-alta-velocidad-de-ethernet-abierto-por-ant",
+      "tags": [
+        "embebidos",
+        "linux",
+        "diseño-3d"
+      ],
+      "preview": "La empresa Antmicro ha lanzado un adaptador de alta velocidad de Ethernet abierto que permite conectar dispositivos a Internet a velocidades de hasta 10 Gbps. Este adaptador es una referencia para desarrolladores que buscan crear…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-06-adaptador-de-alta-velocidad-de-ethernet-abierto-por-ant.md"
+    },
+    {
+      "title": "Raspberry Pi 5 con base NVMe: un caso 3D impresionado para proyectos de alta velocidad",
+      "category": "embebidos",
+      "date": "2026-08-06",
+      "slug": "raspberry-pi-5-con-base-nvme-un-caso-3d-impresionado-pa",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "microcontroladores"
+      ],
+      "preview": "Adafruit ha compartido un caso 3D impresionado para el Raspberry Pi 5 que incluye una base NVMe y un ventilador. Este proyecto permite a los usuarios crear proyectos de alta velocidad y almacenamiento eficiente.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-06-raspberry-pi-5-con-base-nvme-un-caso-3d-impresionado-pa.md"
+    },
+    {
+      "title": "Espressif lanza ESP RainMaker Neo, una plataforma IoT abierta y personalizable",
+      "category": "embebidos",
+      "date": "2026-08-06",
+      "slug": "espressif-lanza-esp-rainmaker-neo-una-plataforma-iot-ab",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "Espressif Systems ha lanzado ESP RainMaker Neo, una plataforma IoT completa que permite la integración de dispositivos, nubes y aplicaciones móviles. Esta plataforma es la versión abierta de la plataforma ESP RainMaker, que ya existía…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-06-espressif-lanza-esp-rainmaker-neo-una-plataforma-iot-ab.md"
+    },
+    {
+      "title": "NeoMatrix 16×16 Display: un proyecto de 3D para matrices de LEDs",
+      "category": "embebidos",
+      "date": "2026-08-06",
+      "slug": "neomatrix-1616-display-un-proyecto-de-3d-para-matrices-",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "robotica"
+      ],
+      "preview": "Adafruit ha lanzado un proyecto de 3D que permite crear un display de 16×16 LEDs utilizando cuatro matrices de 8×8 NeoPixel. Este proyecto es relevante para los entusiastas de la electrónica y la impresión 3D que buscan crear proyectos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-06-neomatrix-1616-display-un-proyecto-de-3d-para-matrices-.md"
+    },
+    {
+      "title": "Impresión 3D de un neumático sin aire para bicicletas de montaña",
+      "category": "diseño-3d",
+      "date": "2026-08-06",
+      "slug": "impresion-3d-de-un-neumatico-sin-aire-para-bicicletas-d",
+      "tags": [
+        "diseño-3d",
+        "robotica",
+        "linux"
+      ],
+      "preview": "Un experimento de impresión 3D ha dado lugar a un neumático sin aire capaz de soportar el uso en bicicletas de montaña. Este proyecto podría revolucionar la industria de los neumáticos para bicicletas, pero ¿qué problemas resuelve y cómo…",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-08-06-impresion-3d-de-un-neumatico-sin-aire-para-bicicletas-d.md"
+    },
+    {
+      "title": "Walden Robotics y Toyota unen fuerzas para crear robots humanoides prácticos",
+      "category": "robotica",
+      "date": "2026-08-06",
+      "slug": "walden-robotics-y-toyota-unen-fuerzas-para-crear-robots",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Después de años de enfoque en robots humanoides, la industria de la robótica se está volviendo más práctica y centrada en la aplicación real. Walden Robotics, una spinoff de Toyota Research Institute, está liderando esta tendencia con un…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-06-walden-robotics-y-toyota-unen-fuerzas-para-crear-robots.md"
+    },
+    {
+      "title": "Google DeepMind lanza Gemini Robotics 2: el futuro de la robótica adaptable",
+      "category": "robotica",
+      "date": "2026-08-06",
+      "slug": "google-deepmind-lanza-gemini-robotics-2-el-futuro-de--2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Google DeepMind ha presentado Gemini Robotics 2, una plataforma de inteligencia artificial que permite a los robots adaptarse y colaborar de manera más eficiente. Esta tecnología revolucionaria abrió camino a la creación de robots más…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-06-google-deepmind-lanza-gemini-robotics-2-el-futuro-de--2.md"
+    },
+    {
+      "title": "La FCC de EE.UU. prohíbe la importación de robots avanzados de países extranjeros",
+      "category": "robotica",
+      "date": "2026-08-06",
+      "slug": "la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanzad",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Comisión Federal de Comunicaciones de EE.UU. ha agregado robots móviles y power inverters a la lista de equipos y servicios que considera una amenaza para la seguridad nacional. Esto significa que nuevos productos de estos tipos de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-06-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanzad.md"
+    },
+    {
       "title": "Modelos de IA abiertos se acercan a los líderes en capacidad, pero la brecha de seguridad crece",
       "category": "ia",
       "date": "2026-08-05",

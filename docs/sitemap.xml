@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-05</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-05</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-06</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-meta-lanza-muse-code-un-agente-de-ia-para-grandes-bases.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-hacking-de-router-tenda-ac1200-con-vulnerabilidad-cve.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-cyclo-plataforma-abierta-para-sistemas-de-inteligencia-.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-taller-de-scenic-programacion-probabilistica-para-siste.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-acceder-a-namespaces-de-red-diferentes-con-bpf.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-b4-0160-herramienta-de-desarrollo-con-soporte-de-seguim.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-linux-73-un-paso-importante-para-el-controlador-steam-o.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-adaptador-de-alta-velocidad-de-ethernet-abierto-por-ant.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-raspberry-pi-5-con-base-nvme-un-caso-3d-impresionado-pa.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-espressif-lanza-esp-rainmaker-neo-una-plataforma-iot-ab.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-neomatrix-1616-display-un-proyecto-de-3d-para-matrices-.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-06-impresion-3d-de-un-neumatico-sin-aire-para-bicicletas-d.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-walden-robotics-y-toyota-unen-fuerzas-para-crear-robots.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-google-deepmind-lanza-gemini-robotics-2-el-futuro-de--2.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanzad.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-05-modelos-de-ia-abiertos-se-acercan-a-los-lideres-en-capa.md</loc><lastmod>2026-08-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-05-ctrlvibe-ai-console-un-teclado-programable-para-flujo-d.md</loc><lastmod>2026-08-05</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-05-un-agente-de-llm-intenta-comprometer-un-proyecto-en-git.md</loc><lastmod>2026-08-05</lastmod><priority>0.8</priority></url>
