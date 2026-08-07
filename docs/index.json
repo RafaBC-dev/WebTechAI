@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "CYCLO: Plataforma abierta para la Inteligencia Artificial Física",
+      "category": "ia",
+      "date": "2026-08-07",
+      "slug": "cyclo-plataforma-abierta-para-la-inteligencia-artificia",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La creación de sistemas de Inteligencia Artificial Física puede ser un proceso complejo debido a la fragmentación de herramientas para datos, entrenamiento, simulación y control de hardware. CYCLO es una plataforma abierta que busca…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-07-cyclo-plataforma-abierta-para-la-inteligencia-artificia.md"
+    },
+    {
+      "title": "OpenAI lanza un hablante inteligente donut con ChatGPT",
+      "category": "ia",
+      "date": "2026-08-07",
+      "slug": "openai-lanza-un-hablante-inteligente-donut-con-chatgpt",
+      "tags": [
+        "llms",
+        "robotica",
+        "diseño-3d"
+      ],
+      "preview": "OpenAI, conocido por su inteligencia artificial ChatGPT, está lanzando un nuevo dispositivo inteligente donut que permitirá a los usuarios interactuar con su asistente de manera más natural. Este dispositivo, diseñado en colaboración con…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-07-openai-lanza-un-hablante-inteligente-donut-con-chatgpt.md"
+    },
+    {
+      "title": "Análisis de rosbags con pandas-like y export a ML en ROS 2",
+      "category": "ia",
+      "date": "2026-08-07",
+      "slug": "analisis-de-rosbags-con-pandas-like-y-export-a-ml-en-ro",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Un nuevo proyecto llamado Rosbag Resurrector permite analizar y exportar datos de rosbags de manera eficiente, utilizando técnicas de análisis de datos y aprendizaje automático.",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-07-analisis-de-rosbags-con-pandas-like-y-export-a-ml-en-ro.md"
+    },
+    {
+      "title": "Mantén el control con Token Monitor, un dispositivo para supervisar asistentes de código AI",
+      "category": "ia",
+      "date": "2026-08-07",
+      "slug": "manten-el-control-con-token-monitor-un-dispositivo-para",
+      "tags": [
+        "ia-local",
+        "python",
+        "librerias"
+      ],
+      "preview": "Fractal Manifold ha lanzado Token Monitor, un dispositivo de pantalla táctil para supervisar el uso de asistentes de código AI en tiempo real. Este dispositivo conectado a Internet permite a los desarrolladores monitorear su consumo de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-07-manten-el-control-con-token-monitor-un-dispositivo-para.md"
+    },
+    {
+      "title": "ChatGPT elimina límites de texto para usuarios gratuitos",
+      "category": "ia",
+      "date": "2026-08-07",
+      "slug": "chatgpt-elimina-limites-de-texto-para-usuarios-gratuito",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "OpenAI ha anunciado que eliminará los límites de texto para todos los usuarios de ChatGPT, que ha alcanzado los 1 mil millones de usuarios semanales. Esto significa que los usuarios gratuitos podrán realizar chats ilimitados con el modelo…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-07-chatgpt-elimina-limites-de-texto-para-usuarios-gratuito.md"
+    },
+    {
+      "title": "Actualizaciones de drivers gráficos de AMD para Linux 7.3",
+      "category": "linux",
+      "date": "2026-08-07",
+      "slug": "actualizaciones-de-drivers-graficos-de-amd-para-linux-7",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "AMD ha presentado una serie de actualizaciones de drivers gráficos para Linux 7.3, incluyendo mejoras en la recuperación de GPU, soporte para formatos de archivo y correcciones de errores.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-07-actualizaciones-de-drivers-graficos-de-amd-para-linux-7.md"
+    },
+    {
+      "title": "Vulnerabilidad Zapscape: un escape de invitado a host en Linux KVM",
+      "category": "linux",
+      "date": "2026-08-07",
+      "slug": "vulnerabilidad-zapscape-un-escape-de-invitado-a-host-en",
+      "tags": [
+        "linux",
+        "kvm",
+        "seguridad"
+      ],
+      "preview": "La comunidad de Linux ha descubierto una nueva vulnerabilidad que permite a un atacante escapar de un invitado a host en KVM, lo que podría tener graves consecuencias en la seguridad de los sistemas virtuales.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-07-vulnerabilidad-zapscape-un-escape-de-invitado-a-host-en.md"
+    },
+    {
+      "title": "ROS 2: Herramienta de monitoreo de rendimiento para bibliotecas de clientes",
+      "category": "linux",
+      "date": "2026-08-07",
+      "slug": "ros-2-herramienta-de-monitoreo-de-rendimiento-para-bibl",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Organización de Software de Robótica (OSRF) ha estado trabajando en una herramienta para monitorear el rendimiento de las bibliotecas de clientes de ROS 2. Esta herramienta permitirá a los desarrolladores comparar y entender mejor los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-07-ros-2-herramienta-de-monitoreo-de-rendimiento-para-bibl.md"
+    },
+    {
+      "title": "Restauran infraestructura de Btrfs para evitar pérdida de datos silenciosa",
+      "category": "linux",
+      "date": "2026-08-07",
+      "slug": "restauran-infraestructura-de-btrfs-para-evitar-perdida-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La versión 7.2-rc7 de Linux restaura una infraestructura crucial para evitar pérdida de datos silenciosa en el sistema de archivos Btrfs. Esto se debe a que se eliminó una función que detectaba páginas sucias sin un orden de extensión, lo…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-07-restauran-infraestructura-de-btrfs-para-evitar-perdida-.md"
+    },
+    {
+      "title": "Proxmox VE ahora oficialmente soporta 64-bit Arm (Aarch64)",
+      "category": "linux",
+      "date": "2026-08-07",
+      "slug": "proxmox-ve-ahora-oficialmente-soporta-64-bit-arm-aarch6",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Proxmox ha anunciado la primera versión oficial de Proxmox Virtual Environment (VE) con soporte para 64-bit Arm (arm64/aarch64). Esto significa que los usuarios de hardware Arm pueden utilizar la popular solución de virtualización.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-07-proxmox-ve-ahora-oficialmente-soporta-64-bit-arm-aarch6.md"
+    },
+    {
+      "title": "Un Nunchuk de Wii como macropad ergonómico para edición de video",
+      "category": "embebidos",
+      "date": "2026-08-07",
+      "slug": "un-nunchuk-de-wii-como-macropad-ergonomico-para-edicion",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un creador de contenido de video ha encontrado una solución innovadora para reducir la fatiga en sus sesiones de edición: adaptar un Nunchuk de Wii como macropad ergonómico. Conectado a un adaptador ANAVI Handle, este dispositivo puede ser…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-07-un-nunchuk-de-wii-como-macropad-ergonomico-para-edicion.md"
+    },
+    {
+      "title": "Control remoto de múltiples sistemas con Raspberry Pi Pico y Pi Zero 2 W",
+      "category": "embebidos",
+      "date": "2026-08-07",
+      "slug": "control-remoto-de-multiples-sistemas-con-raspberry-pi-p",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "El proyecto PICOTTY permite controlar y monitorear múltiples sistemas de forma remota utilizando Raspberry Pi Pico y Pi Zero 2 W. Esto es especialmente útil para sistemas headless que solo requieren controlar mediante teclado.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-07-control-remoto-de-multiples-sistemas-con-raspberry-pi-p.md"
+    },
+    {
+      "title": "Caja de engranajes cicloidales impresos en 3D para motores paso a paso",
+      "category": "diseño-3d",
+      "date": "2026-08-07",
+      "slug": "caja-de-engranajes-cicloidales-impresos-en-3d-para-moto",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "embebidos"
+      ],
+      "preview": "Un ingeniero ha creado una caja de engranajes cicloidales compacta para motores paso a paso NEMA 17 y 23, impresos en gran parte en 3D. Esta innovación puede mejorar la precisión y la eficiencia de los motores paso a paso en aplicaciones…",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-08-07-caja-de-engranajes-cicloidales-impresos-en-3d-para-moto.md"
+    },
+    {
+      "title": "La FCC añade robots móviles y invertidores de energía a la lista de tecnologías prohibidas",
+      "category": "robotica",
+      "date": "2026-08-07",
+      "slug": "la-fcc-anade-robots-moviles-y-invertidores-de-energia-a",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Comisión Federal de Comunicaciones de EE. UU. (FCC) ha añadido robots móviles y invertidores de energía a la lista de tecnologías prohibidas, lo que afectará a la industria de la robótica en todo el mundo.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-07-la-fcc-anade-robots-moviles-y-invertidores-de-energia-a.md"
+    },
+    {
+      "title": "Walden Robotics se alía con Toyota para crear robots humanoides prácticos",
+      "category": "robotica",
+      "date": "2026-08-07",
+      "slug": "walden-robotics-se-alia-con-toyota-para-crear-robots-hu",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Después de una explosión de interés en robots humanoides, la industria se ha vuelto más realista y enfocada en la práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca crear robots que aporten valor en entornos de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-07-walden-robotics-se-alia-con-toyota-para-crear-robots-hu.md"
+    },
+    {
       "title": "Meta lanza Muse Code, un agente de IA para grandes bases de código",
       "category": "ia",
       "date": "2026-08-06",

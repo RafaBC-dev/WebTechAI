@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-06</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-06</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-07</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-cyclo-plataforma-abierta-para-la-inteligencia-artificia.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-openai-lanza-un-hablante-inteligente-donut-con-chatgpt.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-analisis-de-rosbags-con-pandas-like-y-export-a-ml-en-ro.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-manten-el-control-con-token-monitor-un-dispositivo-para.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-chatgpt-elimina-limites-de-texto-para-usuarios-gratuito.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-actualizaciones-de-drivers-graficos-de-amd-para-linux-7.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-vulnerabilidad-zapscape-un-escape-de-invitado-a-host-en.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-ros-2-herramienta-de-monitoreo-de-rendimiento-para-bibl.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-restauran-infraestructura-de-btrfs-para-evitar-perdida-.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-proxmox-ve-ahora-oficialmente-soporta-64-bit-arm-aarch6.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-07-un-nunchuk-de-wii-como-macropad-ergonomico-para-edicion.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-07-control-remoto-de-multiples-sistemas-con-raspberry-pi-p.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-07-caja-de-engranajes-cicloidales-impresos-en-3d-para-moto.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-07-la-fcc-anade-robots-moviles-y-invertidores-de-energia-a.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-07-walden-robotics-se-alia-con-toyota-para-crear-robots-hu.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-meta-lanza-muse-code-un-agente-de-ia-para-grandes-bases.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-hacking-de-router-tenda-ac1200-con-vulnerabilidad-cve.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-cyclo-plataforma-abierta-para-sistemas-de-inteligencia-.md</loc><lastmod>2026-08-06</lastmod><priority>0.8</priority></url>
