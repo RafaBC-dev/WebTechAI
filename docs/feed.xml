@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 07 Aug 2026 08:07:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 07:43:02 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Cámaras de Raspberry Pi aprenden a contar ovejas y detectar chaquetas reflectantes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-camaras-de-raspberry-pi-aprenden-a-contar-ovejas-y-dete.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-camaras-de-raspberry-pi-aprenden-a-contar-ovejas-y-dete.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La última entrega del podcast de Raspberry Pi ha reunido a expertos en inteligencia artificial para explorar cómo esta tecnología está cambiando el panorama de la robótica y los sistemas embebidos. En este episodio, se analiza cómo la…</description>
+  </item>
+  <item>
+    <title>Token Monitor: un dispositivo para monitorear el uso de asistentes de código AI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-token-monitor-un-dispositivo-para-monitorear-el-uso-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-token-monitor-un-dispositivo-para-monitorear-el-uso-de-.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Fractal Manifold ha lanzado el Token Monitor, un dispositivo que permite monitorear en tiempo real el uso de asistentes de código AI como Claude Code y Codex. Este dispositivo es especialmente útil para desarrolladores que trabajan con…</description>
+  </item>
+  <item>
+    <title>Cloudflare lanza Kitesurf, un navegador para agentes de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-cloudflare-lanza-kitesurf-un-navegador-para-agentes-de-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-cloudflare-lanza-kitesurf-un-navegador-para-agentes-de-.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Cloudflare ha lanzado Kitesurf, un navegador diseñado específicamente para agentes de IA. Este navegador es crucial para la transición de los chatbots a agentes que pueden completar tareas en nombre de los usuarios.</description>
+  </item>
+  <item>
+    <title>OpenAI ralentiza desarrollo de modelo Astra por preocupaciones de seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-openai-ralentiza-desarrollo-de-modelo-astra-por-preocup.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-openai-ralentiza-desarrollo-de-modelo-astra-por-preocup.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha suspendido el desarrollo de su modelo Astra debido a preocupaciones sobre su capacidad para identificar y realizar ataques cibernéticos. Esta decisión se tomó después de una revisión interna que encontró que el modelo había…</description>
+  </item>
+  <item>
+    <title>Laboratorio de Stewardship de Software: protegiendo la cadena de suministro de código abierto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-laboratorio-de-stewardship-de-software-protegiendo-la-c.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-laboratorio-de-stewardship-de-software-protegiendo-la-c.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El Laboratorio de Stewardship de Software, una organización sin fines de lucro con sede en Escocia, acaba de anunciar su existencia con el objetivo de proteger la cadena de suministro de código abierto. Su misión es identificar y…</description>
+  </item>
+  <item>
+    <title>Soporte inicial para Apple M3 Pro, Max y Ultra en Linux 7.3</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-soporte-inicial-para-apple-m3-pro-max-y-ultra-en-linux-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-soporte-inicial-para-apple-m3-pro-max-y-ultra-en-linux-.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha logrado un importante avance en el soporte para los procesadores Apple M3 Pro, M3 Max y M3 Ultra. Aunque aún no es posible utilizar estos dispositivos de manera efectiva, este paso es un comienzo importante para…</description>
+  </item>
+  <item>
+    <title>Actualización de paquetes ROS 2 Humble Hawksbill: 40 nuevos y 747 actualizados</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-actualizacion-de-paquetes-ros-2-humble-hawksbill-40-nue.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-actualizacion-de-paquetes-ros-2-humble-hawksbill-40-nue.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS 2 ha lanzado una actualización importante con 40 nuevos paquetes y 747 actualizados. Esto mejorará la experiencia de desarrollo y la funcionalidad de la plataforma.</description>
+  </item>
+  <item>
+    <title>Linux 7.3 soportará botones reprogramables de Logitech</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-linux-73-soportara-botones-reprogramables-de-logitech.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-linux-73-soportara-botones-reprogramables-de-logitech.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La próxima versión de Linux, Linux 7.3, traerá soporte para los botones reprogramables de los dispositivos de entrada de Logitech. Esto permitirá a los usuarios personalizar y remapear los botones de sus ratones y teclados.</description>
+  </item>
+  <item>
+    <title>Actualización de paquetes en ROS Lyrical: 129 nuevos paquetes y 372 actualizaciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-actualizacion-de-paquetes-en-ros-lyrical-129-nuevos-paq.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-actualizacion-de-paquetes-en-ros-lyrical-129-nuevos-paq.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS (Robot Operating System) ha lanzado una actualización importante en su versión Lyrical, con 129 nuevos paquetes y 372 actualizaciones. Esta actualización se espera que mejore la estabilidad y la funcionalidad de los…</description>
+  </item>
+  <item>
+    <title>Un filesystem diseñado para fallar: FailFS</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-un-filesystem-disenado-para-fallar-failfs.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-un-filesystem-disenado-para-fallar-failfs.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>El nuevo filesystem FailFS, que se espera incluir en Linux 7.3, tiene un objetivo sorprendente: fallar en todas las operaciones. Pero ¿por qué y cómo funciona?</description>
+  </item>
+  <item>
+    <title>SPOKE: un controlador de toque con RP2040 para proyectos musicales</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-08-spoke-un-controlador-de-toque-con-rp2040-para-proyectos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-08-spoke-un-controlador-de-toque-con-rp2040-para-proyectos.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La compañía Pimoroni ha lanzado un dispositivo llamado SPOKE, que parece una discoteca de música de los años 90, pero en realidad es un controlador de toque con 27 pines GPIO que puede ser utilizado para proyectos musicales.</description>
+  </item>
+  <item>
+    <title>Walden Robotics se asocia con Toyota para desarrollar robots humanoides prácticos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-walden-robotics-se-asocia-con-toyota-para-desarrollar-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-walden-robotics-se-asocia-con-toyota-para-desarrollar-2.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Después de un auge en la creación de robots humanoides, la industria se ha vuelto más realista sobre la viabilidad de estos proyectos. Walden Robotics, una spin-off de Toyota Research Institute, busca desarrollar robots humanoides…</description>
+  </item>
+  <item>
+    <title>Drones pesados en el desafío DARPA: una visión al futuro de la robótica</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-drones-pesados-en-el-desafio-darpa-una-vision-al-futuro.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-drones-pesados-en-el-desafio-darpa-una-vision-al-futuro.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El desafío DARPA Lift Challenge es un evento que reúne a expertos en robótica para diseñar y construir drones pesados capaces de realizar tareas complejas. Esta semana, se han presentado diseños innovadores y tecnologías avanzadas que…</description>
+  </item>
+  <item>
+    <title>La FCC de EE.UU. prohíbe la importación de robots avanzados de países extranjeros</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanz-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanz-2.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La Comisión Federal de Comunicaciones de EE.UU. ha agregado robots móviles y power inverters a una lista de equipos y servicios que considera una amenaza para la seguridad nacional. Esto significa que nuevos productos de países extranjeros…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi Pico: un rutafinder con Dijkstra's algoritmo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-raspberry-pi-pico-un-rutafinder-con-dijkstras-algoritmo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-raspberry-pi-pico-un-rutafinder-con-dijkstras-algoritmo.md</guid>
+    <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>¿Cómo funciona tu satnav o cómo deciden las redes qué ruta tomar? La respuesta es gracias a algoritmos como Dijkstra's, que ahora se puede implementar en un Raspberry Pi Pico.</description>
+  </item>
   <item>
     <title>CYCLO: Plataforma abierta para la Inteligencia Artificial Física</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-cyclo-plataforma-abierta-para-la-inteligencia-artificia.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>Después de una explosión de interés en robots humanoides, la industria se ha vuelto más realista y enfocada en la práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca crear robots que aporten valor en entornos de…</description>
-  </item>
-  <item>
-    <title>Meta lanza Muse Code, un agente de IA para grandes bases de código</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-meta-lanza-muse-code-un-agente-de-ia-para-grandes-bases.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-meta-lanza-muse-code-un-agente-de-ia-para-grandes-bases.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Meta, líder en el mercado de las redes sociales, busca recuperar terreno en el campo de la inteligencia artificial. Su nuevo proyecto, Muse Code, es un agente de IA que busca ayudar a los programadores a gestionar grandes bases de código…</description>
-  </item>
-  <item>
-    <title>Hacking de router Tenda AC1200 con vulnerabilidad CVE</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-hacking-de-router-tenda-ac1200-con-vulnerabilidad-cve.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-hacking-de-router-tenda-ac1200-con-vulnerabilidad-cve.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un investigador ha descubierto una vulnerabilidad en un router Tenda AC1200 que permite acceder a la consola del dispositivo. La vulnerabilidad se debe a una combinación de dos CVE (Common Vulnerabilities and Exposures) que permiten al…</description>
-  </item>
-  <item>
-    <title>CYCLO: Plataforma Abierta para Sistemas de Inteligencia Física</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-cyclo-plataforma-abierta-para-sistemas-de-inteligencia-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-cyclo-plataforma-abierta-para-sistemas-de-inteligencia-.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La creación de sistemas de inteligencia física puede ser un proceso complejo, ya que implica la integración de herramientas fragmentadas para datos, entrenamiento, simulación y control de hardware. CYCLO es una plataforma abierta y modular…</description>
-  </item>
-  <item>
-    <title>Taller de Scenic: Programación probabilística para sistemas robóticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-taller-de-scenic-programacion-probabilistica-para-siste.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-06-taller-de-scenic-programacion-probabilistica-para-siste.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>El taller de Scenic es un evento anual que se celebra en la Universidad de California en Santa Cruz, donde se presentan las últimas tendencias en programación probabilística para sistemas robóticos. Este año, el taller se celebrará el 20 y…</description>
-  </item>
-  <item>
-    <title>Acceder a namespaces de red diferentes con BPF</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-acceder-a-namespaces-de-red-diferentes-con-bpf.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-acceder-a-namespaces-de-red-diferentes-con-bpf.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Jordan Rife, experto en BPF, busca permitir a los programas BPF iterar a través de los sockets de un namespace de red diferente. Esto podría ser útil en entornos de Kubernetes.</description>
-  </item>
-  <item>
-    <title>b4 0.16.0: Herramienta de desarrollo con soporte de seguimiento de errores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-b4-0160-herramienta-de-desarrollo-con-soporte-de-seguim.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-b4-0160-herramienta-de-desarrollo-con-soporte-de-seguim.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La herramienta de desarrollo b4 ha lanzado una nueva versión, 0.16.0, que incluye una función de seguimiento de errores integrada con git-bug. Esto permite a los desarrolladores rastrear errores y problemas en su código de manera más…</description>
-  </item>
-  <item>
-    <title>Linux 7.3: un paso importante para el controlador Steam original</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-linux-73-un-paso-importante-para-el-controlador-steam-o.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-06-linux-73-un-paso-importante-para-el-controlador-steam-o.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.3 del kernel Linux está a punto de llegar con una mejora significativa para el controlador Steam original. Hasta ahora, este controlador no tenía soporte para eventos de sensor, lo que limitaba su funcionalidad. Ahora, gracias…</description>
-  </item>
-  <item>
-    <title>Adaptador de alta velocidad de Ethernet abierto por Antmicro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-adaptador-de-alta-velocidad-de-ethernet-abierto-por-ant.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-adaptador-de-alta-velocidad-de-ethernet-abierto-por-ant.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La empresa Antmicro ha lanzado un adaptador de alta velocidad de Ethernet abierto que permite conectar dispositivos a Internet a velocidades de hasta 10 Gbps. Este adaptador es una referencia para desarrolladores que buscan crear…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi 5 con base NVMe: un caso 3D impresionado para proyectos de alta velocidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-raspberry-pi-5-con-base-nvme-un-caso-3d-impresionado-pa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-raspberry-pi-5-con-base-nvme-un-caso-3d-impresionado-pa.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha compartido un caso 3D impresionado para el Raspberry Pi 5 que incluye una base NVMe y un ventilador. Este proyecto permite a los usuarios crear proyectos de alta velocidad y almacenamiento eficiente.</description>
-  </item>
-  <item>
-    <title>Espressif lanza ESP RainMaker Neo, una plataforma IoT abierta y personalizable</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-espressif-lanza-esp-rainmaker-neo-una-plataforma-iot-ab.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-espressif-lanza-esp-rainmaker-neo-una-plataforma-iot-ab.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Espressif Systems ha lanzado ESP RainMaker Neo, una plataforma IoT completa que permite la integración de dispositivos, nubes y aplicaciones móviles. Esta plataforma es la versión abierta de la plataforma ESP RainMaker, que ya existía…</description>
-  </item>
-  <item>
-    <title>NeoMatrix 16×16 Display: un proyecto de 3D para matrices de LEDs</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-neomatrix-1616-display-un-proyecto-de-3d-para-matrices-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-06-neomatrix-1616-display-un-proyecto-de-3d-para-matrices-.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit ha lanzado un proyecto de 3D que permite crear un display de 16×16 LEDs utilizando cuatro matrices de 8×8 NeoPixel. Este proyecto es relevante para los entusiastas de la electrónica y la impresión 3D que buscan crear proyectos…</description>
-  </item>
-  <item>
-    <title>Impresión 3D de un neumático sin aire para bicicletas de montaña</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-06-impresion-3d-de-un-neumatico-sin-aire-para-bicicletas-d.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-06-impresion-3d-de-un-neumatico-sin-aire-para-bicicletas-d.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un experimento de impresión 3D ha dado lugar a un neumático sin aire capaz de soportar el uso en bicicletas de montaña. Este proyecto podría revolucionar la industria de los neumáticos para bicicletas, pero ¿qué problemas resuelve y cómo…</description>
-  </item>
-  <item>
-    <title>Walden Robotics y Toyota unen fuerzas para crear robots humanoides prácticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-walden-robotics-y-toyota-unen-fuerzas-para-crear-robots.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-walden-robotics-y-toyota-unen-fuerzas-para-crear-robots.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Después de años de enfoque en robots humanoides, la industria de la robótica se está volviendo más práctica y centrada en la aplicación real. Walden Robotics, una spinoff de Toyota Research Institute, está liderando esta tendencia con un…</description>
-  </item>
-  <item>
-    <title>Google DeepMind lanza Gemini Robotics 2: el futuro de la robótica adaptable</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-google-deepmind-lanza-gemini-robotics-2-el-futuro-de--2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-google-deepmind-lanza-gemini-robotics-2-el-futuro-de--2.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Google DeepMind ha presentado Gemini Robotics 2, una plataforma de inteligencia artificial que permite a los robots adaptarse y colaborar de manera más eficiente. Esta tecnología revolucionaria abrió camino a la creación de robots más…</description>
-  </item>
-  <item>
-    <title>La FCC de EE.UU. prohíbe la importación de robots avanzados de países extranjeros</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanzad.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-06-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanzad.md</guid>
-    <pubDate>Thu, 06 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La Comisión Federal de Comunicaciones de EE.UU. ha agregado robots móviles y power inverters a la lista de equipos y servicios que considera una amenaza para la seguridad nacional. Esto significa que nuevos productos de estos tipos de…</description>
   </item>
 </channel>
 </rss>

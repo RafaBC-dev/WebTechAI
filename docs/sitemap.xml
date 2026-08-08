@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-07</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-07</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-08</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-camaras-de-raspberry-pi-aprenden-a-contar-ovejas-y-dete.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-token-monitor-un-dispositivo-para-monitorear-el-uso-de-.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-cloudflare-lanza-kitesurf-un-navegador-para-agentes-de-.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-openai-ralentiza-desarrollo-de-modelo-astra-por-preocup.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-laboratorio-de-stewardship-de-software-protegiendo-la-c.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-soporte-inicial-para-apple-m3-pro-max-y-ultra-en-linux-.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-actualizacion-de-paquetes-ros-2-humble-hawksbill-40-nue.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-linux-73-soportara-botones-reprogramables-de-logitech.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-actualizacion-de-paquetes-en-ros-lyrical-129-nuevos-paq.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-08-un-filesystem-disenado-para-fallar-failfs.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-08-spoke-un-controlador-de-toque-con-rp2040-para-proyectos.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-walden-robotics-se-asocia-con-toyota-para-desarrollar-2.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-drones-pesados-en-el-desafio-darpa-una-vision-al-futuro.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanz-2.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-08-raspberry-pi-pico-un-rutafinder-con-dijkstras-algoritmo.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-cyclo-plataforma-abierta-para-la-inteligencia-artificia.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-openai-lanza-un-hablante-inteligente-donut-con-chatgpt.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-analisis-de-rosbags-con-pandas-like-y-export-a-ml-en-ro.md</loc><lastmod>2026-08-07</lastmod><priority>0.8</priority></url>

@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Cámaras de Raspberry Pi aprenden a contar ovejas y detectar chaquetas reflectantes",
+      "category": "ia",
+      "date": "2026-08-08",
+      "slug": "camaras-de-raspberry-pi-aprenden-a-contar-ovejas-y-dete",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "La última entrega del podcast de Raspberry Pi ha reunido a expertos en inteligencia artificial para explorar cómo esta tecnología está cambiando el panorama de la robótica y los sistemas embebidos. En este episodio, se analiza cómo la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-08-camaras-de-raspberry-pi-aprenden-a-contar-ovejas-y-dete.md"
+    },
+    {
+      "title": "Token Monitor: un dispositivo para monitorear el uso de asistentes de código AI",
+      "category": "ia",
+      "date": "2026-08-08",
+      "slug": "token-monitor-un-dispositivo-para-monitorear-el-uso-de-",
+      "tags": [
+        "llms",
+        "ia-local",
+        "esp32"
+      ],
+      "preview": "Fractal Manifold ha lanzado el Token Monitor, un dispositivo que permite monitorear en tiempo real el uso de asistentes de código AI como Claude Code y Codex. Este dispositivo es especialmente útil para desarrolladores que trabajan con…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-08-token-monitor-un-dispositivo-para-monitorear-el-uso-de-.md"
+    },
+    {
+      "title": "Cloudflare lanza Kitesurf, un navegador para agentes de IA",
+      "category": "ia",
+      "date": "2026-08-08",
+      "slug": "cloudflare-lanza-kitesurf-un-navegador-para-agentes-de-",
+      "tags": [
+        "ia-local",
+        "agentes",
+        "linux"
+      ],
+      "preview": "Cloudflare ha lanzado Kitesurf, un navegador diseñado específicamente para agentes de IA. Este navegador es crucial para la transición de los chatbots a agentes que pueden completar tareas en nombre de los usuarios.",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-08-cloudflare-lanza-kitesurf-un-navegador-para-agentes-de-.md"
+    },
+    {
+      "title": "OpenAI ralentiza desarrollo de modelo Astra por preocupaciones de seguridad",
+      "category": "ia",
+      "date": "2026-08-08",
+      "slug": "openai-ralentiza-desarrollo-de-modelo-astra-por-preocup",
+      "tags": [
+        "ia-local",
+        "seguridad",
+        "linux"
+      ],
+      "preview": "OpenAI ha suspendido el desarrollo de su modelo Astra debido a preocupaciones sobre su capacidad para identificar y realizar ataques cibernéticos. Esta decisión se tomó después de una revisión interna que encontró que el modelo había…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-08-openai-ralentiza-desarrollo-de-modelo-astra-por-preocup.md"
+    },
+    {
+      "title": "Laboratorio de Stewardship de Software: protegiendo la cadena de suministro de código abierto",
+      "category": "linux",
+      "date": "2026-08-08",
+      "slug": "laboratorio-de-stewardship-de-software-protegiendo-la-c",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "El Laboratorio de Stewardship de Software, una organización sin fines de lucro con sede en Escocia, acaba de anunciar su existencia con el objetivo de proteger la cadena de suministro de código abierto. Su misión es identificar y…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-08-laboratorio-de-stewardship-de-software-protegiendo-la-c.md"
+    },
+    {
+      "title": "Soporte inicial para Apple M3 Pro, Max y Ultra en Linux 7.3",
+      "category": "linux",
+      "date": "2026-08-08",
+      "slug": "soporte-inicial-para-apple-m3-pro-max-y-ultra-en-linux-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha logrado un importante avance en el soporte para los procesadores Apple M3 Pro, M3 Max y M3 Ultra. Aunque aún no es posible utilizar estos dispositivos de manera efectiva, este paso es un comienzo importante para…",
+      "has_command": false,
+      "file_path": "content/linux/2026-08-08-soporte-inicial-para-apple-m3-pro-max-y-ultra-en-linux-.md"
+    },
+    {
+      "title": "Actualización de paquetes ROS 2 Humble Hawksbill: 40 nuevos y 747 actualizados",
+      "category": "linux",
+      "date": "2026-08-08",
+      "slug": "actualizacion-de-paquetes-ros-2-humble-hawksbill-40-nue",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS 2 ha lanzado una actualización importante con 40 nuevos paquetes y 747 actualizados. Esto mejorará la experiencia de desarrollo y la funcionalidad de la plataforma.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-08-actualizacion-de-paquetes-ros-2-humble-hawksbill-40-nue.md"
+    },
+    {
+      "title": "Linux 7.3 soportará botones reprogramables de Logitech",
+      "category": "linux",
+      "date": "2026-08-08",
+      "slug": "linux-73-soportara-botones-reprogramables-de-logitech",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "La próxima versión de Linux, Linux 7.3, traerá soporte para los botones reprogramables de los dispositivos de entrada de Logitech. Esto permitirá a los usuarios personalizar y remapear los botones de sus ratones y teclados.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-08-linux-73-soportara-botones-reprogramables-de-logitech.md"
+    },
+    {
+      "title": "Actualización de paquetes en ROS Lyrical: 129 nuevos paquetes y 372 actualizaciones",
+      "category": "linux",
+      "date": "2026-08-08",
+      "slug": "actualizacion-de-paquetes-en-ros-lyrical-129-nuevos-paq",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS (Robot Operating System) ha lanzado una actualización importante en su versión Lyrical, con 129 nuevos paquetes y 372 actualizaciones. Esta actualización se espera que mejore la estabilidad y la funcionalidad de los…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-08-actualizacion-de-paquetes-en-ros-lyrical-129-nuevos-paq.md"
+    },
+    {
+      "title": "Un filesystem diseñado para fallar: FailFS",
+      "category": "linux",
+      "date": "2026-08-08",
+      "slug": "un-filesystem-disenado-para-fallar-failfs",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El nuevo filesystem FailFS, que se espera incluir en Linux 7.3, tiene un objetivo sorprendente: fallar en todas las operaciones. Pero ¿por qué y cómo funciona?",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-08-un-filesystem-disenado-para-fallar-failfs.md"
+    },
+    {
+      "title": "SPOKE: un controlador de toque con RP2040 para proyectos musicales",
+      "category": "embebidos",
+      "date": "2026-08-08",
+      "slug": "spoke-un-controlador-de-toque-con-rp2040-para-proyectos",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La compañía Pimoroni ha lanzado un dispositivo llamado SPOKE, que parece una discoteca de música de los años 90, pero en realidad es un controlador de toque con 27 pines GPIO que puede ser utilizado para proyectos musicales.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-08-spoke-un-controlador-de-toque-con-rp2040-para-proyectos.md"
+    },
+    {
+      "title": "Walden Robotics se asocia con Toyota para desarrollar robots humanoides prácticos",
+      "category": "robotica",
+      "date": "2026-08-08",
+      "slug": "walden-robotics-se-asocia-con-toyota-para-desarrollar-2",
+      "tags": [
+        "robotica",
+        "automatizacion",
+        "linux"
+      ],
+      "preview": "Después de un auge en la creación de robots humanoides, la industria se ha vuelto más realista sobre la viabilidad de estos proyectos. Walden Robotics, una spin-off de Toyota Research Institute, busca desarrollar robots humanoides…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-08-walden-robotics-se-asocia-con-toyota-para-desarrollar-2.md"
+    },
+    {
+      "title": "Drones pesados en el desafío DARPA: una visión al futuro de la robótica",
+      "category": "robotica",
+      "date": "2026-08-08",
+      "slug": "drones-pesados-en-el-desafio-darpa-una-vision-al-futuro",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El desafío DARPA Lift Challenge es un evento que reúne a expertos en robótica para diseñar y construir drones pesados capaces de realizar tareas complejas. Esta semana, se han presentado diseños innovadores y tecnologías avanzadas que…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-08-drones-pesados-en-el-desafio-darpa-una-vision-al-futuro.md"
+    },
+    {
+      "title": "La FCC de EE.UU. prohíbe la importación de robots avanzados de países extranjeros",
+      "category": "robotica",
+      "date": "2026-08-08",
+      "slug": "la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanz-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La Comisión Federal de Comunicaciones de EE.UU. ha agregado robots móviles y power inverters a una lista de equipos y servicios que considera una amenaza para la seguridad nacional. Esto significa que nuevos productos de países extranjeros…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-08-la-fcc-de-eeuu-prohibe-la-importacion-de-robots-avanz-2.md"
+    },
+    {
+      "title": "Raspberry Pi Pico: un rutafinder con Dijkstra's algoritmo",
+      "category": "robotica",
+      "date": "2026-08-08",
+      "slug": "raspberry-pi-pico-un-rutafinder-con-dijkstras-algoritmo",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "python"
+      ],
+      "preview": "¿Cómo funciona tu satnav o cómo deciden las redes qué ruta tomar? La respuesta es gracias a algoritmos como Dijkstra's, que ahora se puede implementar en un Raspberry Pi Pico.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-08-raspberry-pi-pico-un-rutafinder-con-dijkstras-algoritmo.md"
+    },
+    {
       "title": "CYCLO: Plataforma abierta para la Inteligencia Artificial Física",
       "category": "ia",
       "date": "2026-08-07",
