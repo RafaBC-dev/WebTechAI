@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 07:43:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 07:46:36 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Raspberry Pi y la IA: Cómo aprender a contar ovejas y detectar chaquetas reflectantes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La última entrega del podcast de Raspberry Pi presenta la evolución de la inteligencia artificial y cómo Raspberry Pi está revolucionando la IA en los dispositivos periféricos. Naushir Patuck, ingeniero de software, explica cómo la…</description>
+  </item>
+  <item>
+    <title>Baseten se une a Hugging Face como Inference Provider</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-baseten-se-une-a-hugging-face-como-inference-provider.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-baseten-se-une-a-hugging-face-como-inference-provider.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Baseten, una plataforma de infraestructura de inteligencia artificial, se ha integrado con Hugging Face como Inference Provider, lo que permite a los desarrolladores acceder a una amplia variedad de modelos de inteligencia artificial con…</description>
+  </item>
+  <item>
+    <title>OpenAI adquiere NextSlide para mejorar la comunicación visual con IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-adquiere-nextslide-para-mejorar-la-comunicacion-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-adquiere-nextslide-para-mejorar-la-comunicacion-.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha adquirido a NextSlide, una startup que desarrollaba herramientas para crear presentaciones a partir de textos y notas. Esta adquisición permitirá a OpenAI mejorar la capacidad de su modelo de lenguaje ChatGPT para crear…</description>
+  </item>
+  <item>
+    <title>OpenAI ralentiza desarrollo de Astra debido a preocupaciones de seguridad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-ralentiza-desarrollo-de-astra-debido-a-preocupac.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-ralentiza-desarrollo-de-astra-debido-a-preocupac.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha suspendido el desarrollo de su modelo Astra después de descubrir que había alcanzado un umbral de seguridad crítico, lo que le permite identificar y ejecutar ataques cibernéticos contra sistemas protegidos. Esta noticia destaca…</description>
+  </item>
+  <item>
+    <title>ROS2: Nueva característica de contenedores de desarrollo y actualización de plantilla de workspace</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-ros2-nueva-caracteristica-de-contenedores-de-desarrollo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-ros2-nueva-caracteristica-de-contenedores-de-desarrollo.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de ROS2 ha lanzado una nueva característica para los contenedores de desarrollo, que permite seleccionar la distribución de ROS2 en el archivo devcontainer.json y utilizar la misma configuración tanto para el desarrollo local…</description>
+  </item>
+  <item>
+    <title>Lanzado el Laboratorio de Gestión de Software: protegiendo la cadena de suministro</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-lanzado-el-laboratorio-de-gestion-de-software-protegien.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-lanzado-el-laboratorio-de-gestion-de-software-protegien.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un nuevo laboratorio no lucrativo en Escocia se enfoca en la seguridad de la cadena de suministro de software, el agotamiento de los mantenidos de código abierto y la investigación sobre la sostenibilidad de este tipo de código. Esto es…</description>
+  </item>
+  <item>
+    <title>Polychromatic 0.9.8: soporte para Razer Blade 16 2023 en Linux</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-polychromatic-098-soporte-para-razer-blade-16-2023-en-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-polychromatic-098-soporte-para-razer-blade-16-2023-en-l.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La comunidad de Linux ha recibido una actualización importante en la herramienta Polychromatic, que permite gestionar la iluminación RGB y otras características de dispositivos Razer en Linux. La versión 0.9.8 incluye soporte para el…</description>
+  </item>
+  <item>
+    <title>Desarrolla proyectos de posicionamiento indoor con MaTouch ESP32-S3 MaUWB</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-desarrolla-proyectos-de-posicionamiento-indoor-con-mato.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-desarrolla-proyectos-de-posicionamiento-indoor-con-mato.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Makerfabs ha lanzado el MaTouch ESP32-S3 MaUWB, un desarrollo de placa que combina un módulo de MCU inalámbrico ESP32-S3, una pantalla táctil de 3.95 pulgadas y un módulo UWB para aplicaciones de posicionamiento indoor y rango.</description>
+  </item>
+  <item>
+    <title>Identifica pájaros con un Raspberry Pi y un micrófono USB</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-identifica-pajaros-con-un-raspberry-pi-y-un-microfono-u.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-identifica-pajaros-con-un-raspberry-pi-y-un-microfono-u.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Un proyecto llamado Avian Visitors utiliza un Raspberry Pi y un micrófono para identificar y contar los pájaros que visitan tu hogar. La información se muestra en una interfaz web y en una pantalla E-Ink que muestra una imagen de los…</description>
+  </item>
+  <item>
+    <title>SPOKE: un controlador táctil con microcontrolador RP2040</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-spoke-un-controlador-tactil-con-microcontrolador-rp2040.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-spoke-un-controlador-tactil-con-microcontrolador-rp2040.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El SPOKE es un dispositivo que parece un disco de música de los años 90, pero en realidad es un controlador táctil con 27 pines GPIO y un microcontrolador RP2040. Puedes conectarlo a tu computadora y usarlo como controlador MIDI para tocar…</description>
+  </item>
+  <item>
+    <title>Walden Robotics se asocia con Toyota para desarrollar robots humanoides prácticos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-walden-robotics-se-asocia-con-toyota-para-desarrollar-3.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-walden-robotics-se-asocia-con-toyota-para-desarrollar-3.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Después de una explosión en la creación de robots humanoides, la industria se ha vuelto más realista y práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca aplicar la tecnología a problemas reales en entornos de…</description>
+  </item>
+  <item>
+    <title>Raspberry Pi Pico: un buscador de rutas con Dijkstra's algoritmo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-raspberry-pi-pico-un-buscador-de-rutas-con-dijkstras-al.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-raspberry-pi-pico-un-buscador-de-rutas-con-dijkstras-al.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un proyecto de robótica y programación que utiliza el Raspberry Pi Pico y el algoritmo de Dijkstra's para encontrar la ruta más corta entre dos puntos en un mapa. Un ejemplo práctico de cómo la tecnología puede ser aplicada en la vida real.</description>
+  </item>
+  <item>
+    <title>CPU compartida para almacenamiento de mensajes en ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-cpu-compartida-para-almacenamiento-de-mensajes-en-ros-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-cpu-compartida-para-almacenamiento-de-mensajes-en-ros-2.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Los desarrolladores de ROS 2 están explorando la posibilidad de implementar un backend de memoria compartida en el CPU para almacenar mensajes de gran tamaño, como imágenes y nubes de puntos.</description>
+  </item>
+  <item>
+    <title>La Unión Europea prohíbe la importación de robots avanzados de países extranjeros</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-la-union-europea-prohibe-la-importacion-de-robots-ava-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-la-union-europea-prohibe-la-importacion-de-robots-ava-2.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La Unión Europea ha anunciado una medida para limitar la importación de robots avanzados de países extranjeros, incluyendo China, debido a preocupaciones de seguridad nacional. Esta medida afectará a la industria robótica en todo el mundo,…</description>
+  </item>
+  <item>
+    <title>Desafío DARPA: drones pesados en la búsqueda de recursos en Marte</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-desafio-darpa-drones-pesados-en-la-busqueda-de-recursos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-desafio-darpa-drones-pesados-en-la-busqueda-de-recursos.md</guid>
+    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La NASA está desarrollando drones capaces de detectar agua congelada en Marte, un recurso crítico para futuras misiones. El desafío DARPA busca mejorar la capacidad de los drones para realizar tareas pesadas en entornos hostiles.</description>
+  </item>
   <item>
     <title>Cámaras de Raspberry Pi aprenden a contar ovejas y detectar chaquetas reflectantes</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-camaras-de-raspberry-pi-aprenden-a-contar-ovejas-y-dete.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Sat, 08 Aug 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>¿Cómo funciona tu satnav o cómo deciden las redes qué ruta tomar? La respuesta es gracias a algoritmos como Dijkstra's, que ahora se puede implementar en un Raspberry Pi Pico.</description>
-  </item>
-  <item>
-    <title>CYCLO: Plataforma abierta para la Inteligencia Artificial Física</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-cyclo-plataforma-abierta-para-la-inteligencia-artificia.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-cyclo-plataforma-abierta-para-la-inteligencia-artificia.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La creación de sistemas de Inteligencia Artificial Física puede ser un proceso complejo debido a la fragmentación de herramientas para datos, entrenamiento, simulación y control de hardware. CYCLO es una plataforma abierta que busca…</description>
-  </item>
-  <item>
-    <title>OpenAI lanza un hablante inteligente donut con ChatGPT</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-openai-lanza-un-hablante-inteligente-donut-con-chatgpt.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-openai-lanza-un-hablante-inteligente-donut-con-chatgpt.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI, conocido por su inteligencia artificial ChatGPT, está lanzando un nuevo dispositivo inteligente donut que permitirá a los usuarios interactuar con su asistente de manera más natural. Este dispositivo, diseñado en colaboración con…</description>
-  </item>
-  <item>
-    <title>Análisis de rosbags con pandas-like y export a ML en ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-analisis-de-rosbags-con-pandas-like-y-export-a-ml-en-ro.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-analisis-de-rosbags-con-pandas-like-y-export-a-ml-en-ro.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un nuevo proyecto llamado Rosbag Resurrector permite analizar y exportar datos de rosbags de manera eficiente, utilizando técnicas de análisis de datos y aprendizaje automático.</description>
-  </item>
-  <item>
-    <title>Mantén el control con Token Monitor, un dispositivo para supervisar asistentes de código AI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-manten-el-control-con-token-monitor-un-dispositivo-para.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-manten-el-control-con-token-monitor-un-dispositivo-para.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Fractal Manifold ha lanzado Token Monitor, un dispositivo de pantalla táctil para supervisar el uso de asistentes de código AI en tiempo real. Este dispositivo conectado a Internet permite a los desarrolladores monitorear su consumo de…</description>
-  </item>
-  <item>
-    <title>ChatGPT elimina límites de texto para usuarios gratuitos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-chatgpt-elimina-limites-de-texto-para-usuarios-gratuito.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-07-chatgpt-elimina-limites-de-texto-para-usuarios-gratuito.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha anunciado que eliminará los límites de texto para todos los usuarios de ChatGPT, que ha alcanzado los 1 mil millones de usuarios semanales. Esto significa que los usuarios gratuitos podrán realizar chats ilimitados con el modelo…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de drivers gráficos de AMD para Linux 7.3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-actualizaciones-de-drivers-graficos-de-amd-para-linux-7.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-actualizaciones-de-drivers-graficos-de-amd-para-linux-7.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>AMD ha presentado una serie de actualizaciones de drivers gráficos para Linux 7.3, incluyendo mejoras en la recuperación de GPU, soporte para formatos de archivo y correcciones de errores.</description>
-  </item>
-  <item>
-    <title>Vulnerabilidad Zapscape: un escape de invitado a host en Linux KVM</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-vulnerabilidad-zapscape-un-escape-de-invitado-a-host-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-vulnerabilidad-zapscape-un-escape-de-invitado-a-host-en.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha descubierto una nueva vulnerabilidad que permite a un atacante escapar de un invitado a host en KVM, lo que podría tener graves consecuencias en la seguridad de los sistemas virtuales.</description>
-  </item>
-  <item>
-    <title>ROS 2: Herramienta de monitoreo de rendimiento para bibliotecas de clientes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-ros-2-herramienta-de-monitoreo-de-rendimiento-para-bibl.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-ros-2-herramienta-de-monitoreo-de-rendimiento-para-bibl.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La Organización de Software de Robótica (OSRF) ha estado trabajando en una herramienta para monitorear el rendimiento de las bibliotecas de clientes de ROS 2. Esta herramienta permitirá a los desarrolladores comparar y entender mejor los…</description>
-  </item>
-  <item>
-    <title>Restauran infraestructura de Btrfs para evitar pérdida de datos silenciosa</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-restauran-infraestructura-de-btrfs-para-evitar-perdida-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-restauran-infraestructura-de-btrfs-para-evitar-perdida-.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La versión 7.2-rc7 de Linux restaura una infraestructura crucial para evitar pérdida de datos silenciosa en el sistema de archivos Btrfs. Esto se debe a que se eliminó una función que detectaba páginas sucias sin un orden de extensión, lo…</description>
-  </item>
-  <item>
-    <title>Proxmox VE ahora oficialmente soporta 64-bit Arm (Aarch64)</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-proxmox-ve-ahora-oficialmente-soporta-64-bit-arm-aarch6.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-07-proxmox-ve-ahora-oficialmente-soporta-64-bit-arm-aarch6.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Proxmox ha anunciado la primera versión oficial de Proxmox Virtual Environment (VE) con soporte para 64-bit Arm (arm64/aarch64). Esto significa que los usuarios de hardware Arm pueden utilizar la popular solución de virtualización.</description>
-  </item>
-  <item>
-    <title>Un Nunchuk de Wii como macropad ergonómico para edición de video</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-07-un-nunchuk-de-wii-como-macropad-ergonomico-para-edicion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-07-un-nunchuk-de-wii-como-macropad-ergonomico-para-edicion.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un creador de contenido de video ha encontrado una solución innovadora para reducir la fatiga en sus sesiones de edición: adaptar un Nunchuk de Wii como macropad ergonómico. Conectado a un adaptador ANAVI Handle, este dispositivo puede ser…</description>
-  </item>
-  <item>
-    <title>Control remoto de múltiples sistemas con Raspberry Pi Pico y Pi Zero 2 W</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-07-control-remoto-de-multiples-sistemas-con-raspberry-pi-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-07-control-remoto-de-multiples-sistemas-con-raspberry-pi-p.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto PICOTTY permite controlar y monitorear múltiples sistemas de forma remota utilizando Raspberry Pi Pico y Pi Zero 2 W. Esto es especialmente útil para sistemas headless que solo requieren controlar mediante teclado.</description>
-  </item>
-  <item>
-    <title>Caja de engranajes cicloidales impresos en 3D para motores paso a paso</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-07-caja-de-engranajes-cicloidales-impresos-en-3d-para-moto.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-07-caja-de-engranajes-cicloidales-impresos-en-3d-para-moto.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un ingeniero ha creado una caja de engranajes cicloidales compacta para motores paso a paso NEMA 17 y 23, impresos en gran parte en 3D. Esta innovación puede mejorar la precisión y la eficiencia de los motores paso a paso en aplicaciones…</description>
-  </item>
-  <item>
-    <title>La FCC añade robots móviles y invertidores de energía a la lista de tecnologías prohibidas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-07-la-fcc-anade-robots-moviles-y-invertidores-de-energia-a.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-07-la-fcc-anade-robots-moviles-y-invertidores-de-energia-a.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La Comisión Federal de Comunicaciones de EE. UU. (FCC) ha añadido robots móviles y invertidores de energía a la lista de tecnologías prohibidas, lo que afectará a la industria de la robótica en todo el mundo.</description>
-  </item>
-  <item>
-    <title>Walden Robotics se alía con Toyota para crear robots humanoides prácticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-07-walden-robotics-se-alia-con-toyota-para-crear-robots-hu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-07-walden-robotics-se-alia-con-toyota-para-crear-robots-hu.md</guid>
-    <pubDate>Fri, 07 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Después de una explosión de interés en robots humanoides, la industria se ha vuelto más realista y enfocada en la práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca crear robots que aporten valor en entornos de…</description>
   </item>
 </channel>
 </rss>

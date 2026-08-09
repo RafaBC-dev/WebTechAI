@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-08</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-08</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-09</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-baseten-se-une-a-hugging-face-como-inference-provider.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-adquiere-nextslide-para-mejorar-la-comunicacion-.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-ralentiza-desarrollo-de-astra-debido-a-preocupac.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-ros2-nueva-caracteristica-de-contenedores-de-desarrollo.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-lanzado-el-laboratorio-de-gestion-de-software-protegien.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-polychromatic-098-soporte-para-razer-blade-16-2023-en-l.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-desarrolla-proyectos-de-posicionamiento-indoor-con-mato.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-identifica-pajaros-con-un-raspberry-pi-y-un-microfono-u.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-spoke-un-controlador-tactil-con-microcontrolador-rp2040.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-walden-robotics-se-asocia-con-toyota-para-desarrollar-3.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-raspberry-pi-pico-un-buscador-de-rutas-con-dijkstras-al.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-cpu-compartida-para-almacenamiento-de-mensajes-en-ros-2.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-la-union-europea-prohibe-la-importacion-de-robots-ava-2.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-desafio-darpa-drones-pesados-en-la-busqueda-de-recursos.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-camaras-de-raspberry-pi-aprenden-a-contar-ovejas-y-dete.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-token-monitor-un-dispositivo-para-monitorear-el-uso-de-.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-08-cloudflare-lanza-kitesurf-un-navegador-para-agentes-de-.md</loc><lastmod>2026-08-08</lastmod><priority>0.8</priority></url>

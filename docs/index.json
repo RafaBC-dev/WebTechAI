@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "Raspberry Pi y la IA: Cómo aprender a contar ovejas y detectar chaquetas reflectantes",
+      "category": "ia",
+      "date": "2026-08-09",
+      "slug": "raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "raspberry-pi"
+      ],
+      "preview": "La última entrega del podcast de Raspberry Pi presenta la evolución de la inteligencia artificial y cómo Raspberry Pi está revolucionando la IA en los dispositivos periféricos. Naushir Patuck, ingeniero de software, explica cómo la…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-09-raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de.md"
+    },
+    {
+      "title": "Baseten se une a Hugging Face como Inference Provider",
+      "category": "ia",
+      "date": "2026-08-09",
+      "slug": "baseten-se-une-a-hugging-face-como-inference-provider",
+      "tags": [
+        "llms",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Baseten, una plataforma de infraestructura de inteligencia artificial, se ha integrado con Hugging Face como Inference Provider, lo que permite a los desarrolladores acceder a una amplia variedad de modelos de inteligencia artificial con…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-09-baseten-se-une-a-hugging-face-como-inference-provider.md"
+    },
+    {
+      "title": "OpenAI adquiere NextSlide para mejorar la comunicación visual con IA",
+      "category": "ia",
+      "date": "2026-08-09",
+      "slug": "openai-adquiere-nextslide-para-mejorar-la-comunicacion-",
+      "tags": [
+        "ia-local",
+        "linux",
+        "python"
+      ],
+      "preview": "OpenAI ha adquirido a NextSlide, una startup que desarrollaba herramientas para crear presentaciones a partir de textos y notas. Esta adquisición permitirá a OpenAI mejorar la capacidad de su modelo de lenguaje ChatGPT para crear…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-09-openai-adquiere-nextslide-para-mejorar-la-comunicacion-.md"
+    },
+    {
+      "title": "OpenAI ralentiza desarrollo de Astra debido a preocupaciones de seguridad",
+      "category": "ia",
+      "date": "2026-08-09",
+      "slug": "openai-ralentiza-desarrollo-de-astra-debido-a-preocupac",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "OpenAI ha suspendido el desarrollo de su modelo Astra después de descubrir que había alcanzado un umbral de seguridad crítico, lo que le permite identificar y ejecutar ataques cibernéticos contra sistemas protegidos. Esta noticia destaca…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-09-openai-ralentiza-desarrollo-de-astra-debido-a-preocupac.md"
+    },
+    {
+      "title": "ROS2: Nueva característica de contenedores de desarrollo y actualización de plantilla de workspace",
+      "category": "linux",
+      "date": "2026-08-09",
+      "slug": "ros2-nueva-caracteristica-de-contenedores-de-desarrollo",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La comunidad de ROS2 ha lanzado una nueva característica para los contenedores de desarrollo, que permite seleccionar la distribución de ROS2 en el archivo devcontainer.json y utilizar la misma configuración tanto para el desarrollo local…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-09-ros2-nueva-caracteristica-de-contenedores-de-desarrollo.md"
+    },
+    {
+      "title": "Lanzado el Laboratorio de Gestión de Software: protegiendo la cadena de suministro",
+      "category": "linux",
+      "date": "2026-08-09",
+      "slug": "lanzado-el-laboratorio-de-gestion-de-software-protegien",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Un nuevo laboratorio no lucrativo en Escocia se enfoca en la seguridad de la cadena de suministro de software, el agotamiento de los mantenidos de código abierto y la investigación sobre la sostenibilidad de este tipo de código. Esto es…",
+      "has_command": false,
+      "file_path": "content/linux/2026-08-09-lanzado-el-laboratorio-de-gestion-de-software-protegien.md"
+    },
+    {
+      "title": "Polychromatic 0.9.8: soporte para Razer Blade 16 2023 en Linux",
+      "category": "linux",
+      "date": "2026-08-09",
+      "slug": "polychromatic-098-soporte-para-razer-blade-16-2023-en-l",
+      "tags": [
+        "linux",
+        "robotica",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Linux ha recibido una actualización importante en la herramienta Polychromatic, que permite gestionar la iluminación RGB y otras características de dispositivos Razer en Linux. La versión 0.9.8 incluye soporte para el…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-09-polychromatic-098-soporte-para-razer-blade-16-2023-en-l.md"
+    },
+    {
+      "title": "Desarrolla proyectos de posicionamiento indoor con MaTouch ESP32-S3 MaUWB",
+      "category": "embebidos",
+      "date": "2026-08-09",
+      "slug": "desarrolla-proyectos-de-posicionamiento-indoor-con-mato",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Makerfabs ha lanzado el MaTouch ESP32-S3 MaUWB, un desarrollo de placa que combina un módulo de MCU inalámbrico ESP32-S3, una pantalla táctil de 3.95 pulgadas y un módulo UWB para aplicaciones de posicionamiento indoor y rango.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-09-desarrolla-proyectos-de-posicionamiento-indoor-con-mato.md"
+    },
+    {
+      "title": "Identifica pájaros con un Raspberry Pi y un micrófono USB",
+      "category": "embebidos",
+      "date": "2026-08-09",
+      "slug": "identifica-pajaros-con-un-raspberry-pi-y-un-microfono-u",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo",
+        "ia-local"
+      ],
+      "preview": "Un proyecto llamado Avian Visitors utiliza un Raspberry Pi y un micrófono para identificar y contar los pájaros que visitan tu hogar. La información se muestra en una interfaz web y en una pantalla E-Ink que muestra una imagen de los…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-09-identifica-pajaros-con-un-raspberry-pi-y-un-microfono-u.md"
+    },
+    {
+      "title": "SPOKE: un controlador táctil con microcontrolador RP2040",
+      "category": "embebidos",
+      "date": "2026-08-09",
+      "slug": "spoke-un-controlador-tactil-con-microcontrolador-rp2040",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "El SPOKE es un dispositivo que parece un disco de música de los años 90, pero en realidad es un controlador táctil con 27 pines GPIO y un microcontrolador RP2040. Puedes conectarlo a tu computadora y usarlo como controlador MIDI para tocar…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-09-spoke-un-controlador-tactil-con-microcontrolador-rp2040.md"
+    },
+    {
+      "title": "Walden Robotics se asocia con Toyota para desarrollar robots humanoides prácticos",
+      "category": "robotica",
+      "date": "2026-08-09",
+      "slug": "walden-robotics-se-asocia-con-toyota-para-desarrollar-3",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "linux"
+      ],
+      "preview": "Después de una explosión en la creación de robots humanoides, la industria se ha vuelto más realista y práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca aplicar la tecnología a problemas reales en entornos de…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-09-walden-robotics-se-asocia-con-toyota-para-desarrollar-3.md"
+    },
+    {
+      "title": "Raspberry Pi Pico: un buscador de rutas con Dijkstra's algoritmo",
+      "category": "robotica",
+      "date": "2026-08-09",
+      "slug": "raspberry-pi-pico-un-buscador-de-rutas-con-dijkstras-al",
+      "tags": [
+        "robotica",
+        "python",
+        "librerias"
+      ],
+      "preview": "Un proyecto de robótica y programación que utiliza el Raspberry Pi Pico y el algoritmo de Dijkstra's para encontrar la ruta más corta entre dos puntos en un mapa. Un ejemplo práctico de cómo la tecnología puede ser aplicada en la vida real.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-09-raspberry-pi-pico-un-buscador-de-rutas-con-dijkstras-al.md"
+    },
+    {
+      "title": "CPU compartida para almacenamiento de mensajes en ROS 2",
+      "category": "robotica",
+      "date": "2026-08-09",
+      "slug": "cpu-compartida-para-almacenamiento-de-mensajes-en-ros-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "Los desarrolladores de ROS 2 están explorando la posibilidad de implementar un backend de memoria compartida en el CPU para almacenar mensajes de gran tamaño, como imágenes y nubes de puntos.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-09-cpu-compartida-para-almacenamiento-de-mensajes-en-ros-2.md"
+    },
+    {
+      "title": "La Unión Europea prohíbe la importación de robots avanzados de países extranjeros",
+      "category": "robotica",
+      "date": "2026-08-09",
+      "slug": "la-union-europea-prohibe-la-importacion-de-robots-ava-2",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La Unión Europea ha anunciado una medida para limitar la importación de robots avanzados de países extranjeros, incluyendo China, debido a preocupaciones de seguridad nacional. Esta medida afectará a la industria robótica en todo el mundo,…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-09-la-union-europea-prohibe-la-importacion-de-robots-ava-2.md"
+    },
+    {
+      "title": "Desafío DARPA: drones pesados en la búsqueda de recursos en Marte",
+      "category": "robotica",
+      "date": "2026-08-09",
+      "slug": "desafio-darpa-drones-pesados-en-la-busqueda-de-recursos",
+      "tags": [
+        "robotica",
+        "drones",
+        "ia-local"
+      ],
+      "preview": "La NASA está desarrollando drones capaces de detectar agua congelada en Marte, un recurso crítico para futuras misiones. El desafío DARPA busca mejorar la capacidad de los drones para realizar tareas pesadas en entornos hostiles.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-09-desafio-darpa-drones-pesados-en-la-busqueda-de-recursos.md"
+    },
+    {
       "title": "Cámaras de Raspberry Pi aprenden a contar ovejas y detectar chaquetas reflectantes",
       "category": "ia",
       "date": "2026-08-08",
