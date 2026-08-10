@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-09</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-09</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-10</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-gym-booking-website-vulnerable-a-ataques-de-reserva-de-.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-generador-de-pipeline-de-vision-para-ros-2-una-herramie.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-baseten-se-une-a-hugging-face-como-proveedor-de-inferen.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-computos-pequenos-aprenden-a-contar-ovejas-y-detectar-c.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-10-qualcomm-habilita-soporte-para-soc-kuno-en-linux.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-10-robotica-inteligente-ajusta-pantalla-segun-posicion-del.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-10-elecrow-thinknode-m9-un-terminal-de-comunicacion-lora-c.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-10-router-industrial-de-bordillo-con-raspberry-pi-cm4cm5-p.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-10-spoke-un-controlador-de-toque-para-proyectos-musicales-.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-10-comu-una-tarjeta-de-desarrollo-risc-v-de-6-que-cabe-en-.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-10-drones-pesados-en-el-desafio-darpa-una-vision-futurista.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-10-un-estudiante-de-ingenieria-busca-colaboracion-en-proye.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-10-la-fcc-de-ee-uu-impone-restricciones-a-robots-y-equipos.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-10-walden-robotics-se-asocia-con-toyota-para-crear-robot-2.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-10-ruta-mas-corta-con-raspberry-pi-pico-y-dijkstras-algori.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-baseten-se-une-a-hugging-face-como-inference-provider.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-adquiere-nextslide-para-mejorar-la-comunicacion-.md</loc><lastmod>2026-08-09</lastmod><priority>0.8</priority></url>

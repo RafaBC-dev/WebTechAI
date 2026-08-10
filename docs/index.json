@@ -1,6 +1,219 @@
 {
   "news": [
     {
+      "title": "Gym-booking website vulnerable a ataques de reserva de espacios",
+      "category": "ia",
+      "date": "2026-08-10",
+      "slug": "gym-booking-website-vulnerable-a-ataques-de-reserva-de-",
+      "tags": [
+        "ia-ethics",
+        "generative-ai",
+        "openclaw",
+        "ai",
+        "ai-security-research",
+        "llms"
+      ],
+      "preview": "Un hacker ha descubierto una vulnerabilidad en un sitio web de reservas de gimnasios que le permite cancelar reservas de otros usuarios sin autorización. Esta vulnerabilidad pone en riesgo la privacidad y la seguridad de los usuarios.",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-10-gym-booking-website-vulnerable-a-ataques-de-reserva-de-.md"
+    },
+    {
+      "title": "Generador de pipeline de visión para ROS 2: una herramienta de ingeniería local",
+      "category": "ia",
+      "date": "2026-08-10",
+      "slug": "generador-de-pipeline-de-vision-para-ros-2-una-herramie",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "benchmarks"
+      ],
+      "preview": "Un desarrollador está creando EdgeAI Forge, un generador de pipeline de visión para ROS 2 que automatiza el proceso de creación, prueba y documentación de pipelines de visión. Esto podría ahorrar tiempo y esfuerzo a los desarrolladores de…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-10-generador-de-pipeline-de-vision-para-ros-2-una-herramie.md"
+    },
+    {
+      "title": "Baseten se une a Hugging Face como proveedor de inferencia",
+      "category": "ia",
+      "date": "2026-08-10",
+      "slug": "baseten-se-une-a-hugging-face-como-proveedor-de-inferen",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "La plataforma de infraestructura de inteligencia artificial Baseten se ha unido a Hugging Face como proveedor de inferencia, lo que permite a los desarrolladores acceder a una amplia variedad de modelos de inteligencia artificial con…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-10-baseten-se-une-a-hugging-face-como-proveedor-de-inferen.md"
+    },
+    {
+      "title": "Cómputos pequeños aprenden a contar ovejas y detectar chaquetas reflectantes",
+      "category": "ia",
+      "date": "2026-08-10",
+      "slug": "computos-pequenos-aprenden-a-contar-ovejas-y-detectar-c",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "linux"
+      ],
+      "preview": "El proyecto Raspberry Pi está revolucionando la inteligencia artificial al hacer posible la ejecución de procesos de IA en dispositivos pequeños y asequibles. Esto permite una mayor privacidad, costos reducidos y control total sobre los…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-10-computos-pequenos-aprenden-a-contar-ovejas-y-detectar-c.md"
+    },
+    {
+      "title": "Qualcomm habilita soporte para SoC Kuno en Linux",
+      "category": "linux",
+      "date": "2026-08-10",
+      "slug": "qualcomm-habilita-soporte-para-soc-kuno-en-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "La empresa Qualcomm ha publicado un conjunto de parches para el kernel de Linux que permiten el soporte para el SoC Kuno. Este SoC es un plataforma de 32 bits basada en el procesador ARM Cortex-A7, que no es especialmente destacado en…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-10-qualcomm-habilita-soporte-para-soc-kuno-en-linux.md"
+    },
+    {
+      "title": "Robótica inteligente ajusta pantalla según posición del usuario",
+      "category": "linux",
+      "date": "2026-08-10",
+      "slug": "robotica-inteligente-ajusta-pantalla-segun-posicion-del",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un equipo de investigación ha desarrollado un sistema de trabajo inteligente que utiliza una mano robótica para ajustar la pantalla según la posición del usuario. Este proyecto combina tecnologías de visión artificial, robótica y control…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-10-robotica-inteligente-ajusta-pantalla-segun-posicion-del.md"
+    },
+    {
+      "title": "Elecrow ThinkNode M9: un terminal de comunicación LoRa con teclado QWERTY y pantalla de color",
+      "category": "linux",
+      "date": "2026-08-10",
+      "slug": "elecrow-thinknode-m9-un-terminal-de-comunicacion-lora-c",
+      "tags": [
+        "esp32",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Elecrow ha lanzado el ThinkNode M9, un terminal de comunicación LoRa que combina una pantalla de color, un teclado QWERTY físico y conectividad Wi-Fi y Bluetooth. Este dispositivo es ideal para comunicaciones fuera de línea y de emergencia.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-10-elecrow-thinknode-m9-un-terminal-de-comunicacion-lora-c.md"
+    },
+    {
+      "title": "Router industrial de bordillo con Raspberry Pi CM4/CM5 para IoT",
+      "category": "embebidos",
+      "date": "2026-08-10",
+      "slug": "router-industrial-de-bordillo-con-raspberry-pi-cm4cm5-p",
+      "tags": [
+        "robotica",
+        "embebidos",
+        "linux"
+      ],
+      "preview": "RAKwireless ha lanzado el WisGate Connect Router RAK7392, un router industrial de bordillo basado en Raspberry Pi Compute Module 4/5 (CM4/CM5) diseñado para aplicaciones IoT de vanguardia. Este dispositivo revolucionario elimina la…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-10-router-industrial-de-bordillo-con-raspberry-pi-cm4cm5-p.md"
+    },
+    {
+      "title": "SPOKE: un controlador de toque para proyectos musicales y más",
+      "category": "embebidos",
+      "date": "2026-08-10",
+      "slug": "spoke-un-controlador-de-toque-para-proyectos-musicales-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La empresa Pimoroni ha lanzado un dispositivo llamado SPOKE, un controlador de toque que se parece a un disco de música pero tiene una función mucho más interesante. Con 27 touch pads y un microcontrolador RP2040, el SPOKE puede ser…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-10-spoke-un-controlador-de-toque-para-proyectos-musicales-.md"
+    },
+    {
+      "title": "Comu: una tarjeta de desarrollo RISC-V de $6 que cabe en un puerto USB",
+      "category": "embebidos",
+      "date": "2026-08-10",
+      "slug": "comu-una-tarjeta-de-desarrollo-risc-v-de-6-que-cabe-en-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software y linux"
+      ],
+      "preview": "La industria de las tarjetas de desarrollo ha dado un paso más con la presentación de Comu, una tarjeta de desarrollo RISC-V de solo $6 que cabe en un puerto USB. Esta pequeña tarjeta de desarrollo es ideal para proyectos de código abierto…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-10-comu-una-tarjeta-de-desarrollo-risc-v-de-6-que-cabe-en-.md"
+    },
+    {
+      "title": "Drones pesados en el desafío DARPA: una visión futurista",
+      "category": "robotica",
+      "date": "2026-08-10",
+      "slug": "drones-pesados-en-el-desafio-darpa-una-vision-futurista",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El desafío DARPA Lift Challenge ha comenzado, y con él, la exhibición de drones pesados que podrían revolucionar la industria de la robótica. Estos vehículos aéreos no solo son capaces de transportar cargas pesadas, sino que también pueden…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-10-drones-pesados-en-el-desafio-darpa-una-vision-futurista.md"
+    },
+    {
+      "title": "Un estudiante de ingeniería busca colaboración en proyectos de robótica",
+      "category": "robotica",
+      "date": "2026-08-10",
+      "slug": "un-estudiante-de-ingenieria-busca-colaboracion-en-proye",
+      "tags": [
+        "robotica",
+        "python",
+        "linux"
+      ],
+      "preview": "Un estudiante de segundo año de ingeniería mecánica busca conectarse con otros estudiantes y profesionales que trabajen en proyectos de robótica y automatización. Su objetivo es aprender y colaborar en proyectos reales de robótica.",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-10-un-estudiante-de-ingenieria-busca-colaboracion-en-proye.md"
+    },
+    {
+      "title": "La FCC de EE. UU. impone restricciones a robots y equipos electrónicos de origen extranjero",
+      "category": "robotica",
+      "date": "2026-08-10",
+      "slug": "la-fcc-de-ee-uu-impone-restricciones-a-robots-y-equipos",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La Comisión Federal de Comunicaciones de EE. UU. (FCC) ha agregado robots móviles y equipos electrónicos de origen extranjero a una lista de productos que se consideran una amenaza para la seguridad nacional. Esto significa que nuevos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-10-la-fcc-de-ee-uu-impone-restricciones-a-robots-y-equipos.md"
+    },
+    {
+      "title": "Walden Robotics se asocia con Toyota para crear robots humanoides prácticos",
+      "category": "robotica",
+      "date": "2026-08-10",
+      "slug": "walden-robotics-se-asocia-con-toyota-para-crear-robot-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "python"
+      ],
+      "preview": "Después de un auge en la creación de robots humanoides, la industria se ha vuelto más realista y enfocada en la práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca crear robots que puedan ser utilizados en entornos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-10-walden-robotics-se-asocia-con-toyota-para-crear-robot-2.md"
+    },
+    {
+      "title": "Ruta más corta con Raspberry Pi Pico y Dijkstra's algoritmo",
+      "category": "robotica",
+      "date": "2026-08-10",
+      "slug": "ruta-mas-corta-con-raspberry-pi-pico-y-dijkstras-algori",
+      "tags": [
+        "robotica",
+        "python",
+        "linux"
+      ],
+      "preview": "El satnav y los robots también usan algoritmos para encontrar la ruta más corta. Descubre cómo funcionan y cómo crear uno con Raspberry Pi Pico.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-10-ruta-mas-corta-con-raspberry-pi-pico-y-dijkstras-algori.md"
+    },
+    {
       "title": "Raspberry Pi y la IA: Cómo aprender a contar ovejas y detectar chaquetas reflectantes",
       "category": "ia",
       "date": "2026-08-09",
