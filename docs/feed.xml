@@ -5,8 +5,128 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Mon, 10 Aug 2026 08:22:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 08:03:48 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>OpenAI lanza modelo de defensa cibernética para proteger contra ataques de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-lanza-modelo-de-defensa-cibernetica-para-protege.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-lanza-modelo-de-defensa-cibernetica-para-protege.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La creciente amenaza de los agentes de IA 'rogueros' ha llevado a OpenAI a expandir su servicio de defensa cibernética, Daybreak. Este servicio ofrece herramientas y modelos para defender contra ataques cibernéticos, incluyendo los…</description>
+  </item>
+  <item>
+    <title>OpenAI compra $7 mil millones de acciones de empleados para ofrecer liquidez</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-compra-7-mil-millones-de-acciones-de-empleados-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-compra-7-mil-millones-de-acciones-de-empleados-p.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha llevado a cabo una oferta de compra de acciones de $7 mil millones a sus empleados, valorando la empresa en $852 mil millones. Esta medida busca proporcionar liquidez a su fuerza laboral y podría retrasar su posible oferta…</description>
+  </item>
+  <item>
+    <title>Un teclado sin teclas: cómo enviar texto a un ordenador a través de audio</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-un-teclado-sin-teclas-como-enviar-texto-a-un-ordenador-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-un-teclado-sin-teclas-como-enviar-texto-a-un-ordenador-.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Un ingeniero ha creado un sistema que permite enviar texto a un ordenador a través de audio, utilizando un smartphone y un módulo de audio. Esto podría revolucionar la forma en que interactuamos con nuestros dispositivos</description>
+  </item>
+  <item>
+    <title>Fedora CoreOS habilitará systemd-oomd y zRAM por defecto</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-fedora-coreos-habilitara-systemd-oomd-y-zram-por-defect.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-fedora-coreos-habilitara-systemd-oomd-y-zram-por-defect.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>Fedora CoreOS, el sistema operativo optimizado para contenedores de Fedora, está cambiando sus configuraciones por defecto. A partir de la versión 45, systemd-oomd y la swap en zRAM estarán habilitados de manera predeterminada.</description>
+  </item>
+  <item>
+    <title>NVIDIA lanza driver abierto 'Nova' para Linux 7.3 con mejoras significativas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-nvidia-lanza-driver-abierto-nova-para-linux-73-con-mejo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-nvidia-lanza-driver-abierto-nova-para-linux-73-con-mejo.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>NVIDIA ha enviado una actualización importante para su driver abierto 'Nova' para Linux 7.3, que incluye mejoras significativas en la compatibilidad con GPUs NVIDIA y la integración con el lenguaje de programación Rust.</description>
+  </item>
+  <item>
+    <title>Lenovo: más laptops informan sobre velocidad de fans con Linux 7.3</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-lenovo-mas-laptops-informan-sobre-velocidad-de-fans-con.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-lenovo-mas-laptops-informan-sobre-velocidad-de-fans-con.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La próxima versión de Linux, 7.3, incluirá soporte para más modelos de laptops Lenovo, lo que permitirá que los usuarios monitoreen la velocidad de sus ventiladores. Esto es posible gracias a la extensión del driver Yogafan.</description>
+  </item>
+  <item>
+    <title>PiShot: una cámara compacta y portátil para Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pishot-una-camara-compacta-y-portatil-para-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pishot-una-camara-compacta-y-portatil-para-raspberry-pi.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La Raspberry Pi ha revolucionado la creación de cámaras compactas y portátiles. El PiShot es la última adición a esta familia de dispositivos, ofreciendo una cámara de alta calidad y una pantalla en un solo dispositivo.</description>
+  </item>
+  <item>
+    <title>Makerfabs Nomad Terminal: una plataforma de desarrollo portátil con tecnología LoRa</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-makerfabs-nomad-terminal-una-plataforma-de-desarrollo-p.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-makerfabs-nomad-terminal-una-plataforma-de-desarrollo-p.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Makerfabs ha lanzado la Nomad Terminal, una plataforma de desarrollo portátil que combina tecnología LoRa con un procesador ESP32-S3 y un módulo GNSS. Esta herramienta es ideal para aplicaciones que requieren comunicación inalámbrica de…</description>
+  </item>
+  <item>
+    <title>PewCB One: un sistema de fabricación de PCB para prototipado rápido en casa</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pewcb-one-un-sistema-de-fabricacion-de-pcb-para-prototi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pewcb-one-un-sistema-de-fabricacion-de-pcb-para-prototi.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La fabricación de PCBs en casa o en el despacho se vuelve realidad gracias a PewCB One, un sistema que acelera el desarrollo de hardware con una tecnología innovadora.</description>
+  </item>
+  <item>
+    <title>PyBLE: IDE para programar microcontroladores con Bluetooth LE</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pyble-ide-para-programar-microcontroladores-con-bluetoo.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pyble-ide-para-programar-microcontroladores-con-bluetoo.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>PyBLE es un IDE open-source que permite programar microcontroladores con Bluetooth Low Energy (BLE) desde tabletas y iPads. Este proyecto es relevante para desarrolladores que buscan una forma sencilla de programar y controlar dispositivos…</description>
+  </item>
+  <item>
+    <title>AMR autónomo para almacén con ROS 2, Gazebo y Nav2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-amr-autonomo-para-almacen-con-ros-2-gazebo-y-nav2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-amr-autonomo-para-almacen-con-ros-2-gazebo-y-nav2.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un desarrollador ha creado un proyecto de AMR autónomo para almacén utilizando ROS 2, Gazebo y Nav2. Este proyecto permite simular la navegación de un robot en un entorno de almacén, detectando obstáculos y realizando misiones. La creación…</description>
+  </item>
+  <item>
+    <title>Desarrollo de algoritmos de aprendizaje por refuerzo en Gazebo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-desarrollo-de-algoritmos-de-aprendizaje-por-refuerzo-en.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-desarrollo-de-algoritmos-de-aprendizaje-por-refuerzo-en.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de Gazebo ha desarrollado una herramienta educativa llamada Gym-Gazebo-Sim, que permite a los usuarios principiantes utilizar la API de Gymnasium para aprender algoritmos de aprendizaje por refuerzo. Esta herramienta…</description>
+  </item>
+  <item>
+    <title>La FCC agrega robots móviles y inversores de energía a la lista de tecnologías prohibidas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-la-fcc-agrega-robots-moviles-y-inversores-de-energia-a-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-la-fcc-agrega-robots-moviles-y-inversores-de-energia-a-.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La Comisión Federal de Comunicaciones (FCC) de EE. UU. ha agregado robots móviles y inversores de energía a su lista de tecnologías prohibidas, lo que podría tener un impacto significativo en la industria robótica. Esta medida es parte de…</description>
+  </item>
+  <item>
+    <title>Drones de gran envergadura en el desafío Lift de DARPA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-drones-de-gran-envergadura-en-el-desafio-lift-de-darpa.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-drones-de-gran-envergadura-en-el-desafio-lift-de-darpa.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El desafío Lift de DARPA ha atraído a drones de gran envergadura con diseños innovadores. Estos vehículos aéreos no tripulados (UAV) están diseñados para realizar tareas complejas, como levantar objetos pesados y navegar en entornos…</description>
+  </item>
+  <item>
+    <title>Sistema de desmontaje de robots para reciclar partes valiosas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-sistema-de-desmontaje-de-robots-para-reciclar-partes-va.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-sistema-de-desmontaje-de-robots-para-reciclar-partes-va.md</guid>
+    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La industria de la robótica está creciendo rápidamente, pero cuando los robots se rompen, se desechan. Un equipo de investigadores ha desarrollado un sistema que puede predecir y reparar defectos en robots, reduciendo la cantidad de…</description>
+  </item>
   <item>
     <title>Gym-booking website vulnerable a ataques de reserva de espacios</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-gym-booking-website-vulnerable-a-ataques-de-reserva-de-.md</link>
@@ -126,126 +246,6 @@
     <pubDate>Mon, 10 Aug 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>El satnav y los robots también usan algoritmos para encontrar la ruta más corta. Descubre cómo funcionan y cómo crear uno con Raspberry Pi Pico.</description>
-  </item>
-  <item>
-    <title>Raspberry Pi y la IA: Cómo aprender a contar ovejas y detectar chaquetas reflectantes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-raspberry-pi-y-la-ia-como-aprender-a-contar-ovejas-y-de.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La última entrega del podcast de Raspberry Pi presenta la evolución de la inteligencia artificial y cómo Raspberry Pi está revolucionando la IA en los dispositivos periféricos. Naushir Patuck, ingeniero de software, explica cómo la…</description>
-  </item>
-  <item>
-    <title>Baseten se une a Hugging Face como Inference Provider</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-baseten-se-une-a-hugging-face-como-inference-provider.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-baseten-se-une-a-hugging-face-como-inference-provider.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Baseten, una plataforma de infraestructura de inteligencia artificial, se ha integrado con Hugging Face como Inference Provider, lo que permite a los desarrolladores acceder a una amplia variedad de modelos de inteligencia artificial con…</description>
-  </item>
-  <item>
-    <title>OpenAI adquiere NextSlide para mejorar la comunicación visual con IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-adquiere-nextslide-para-mejorar-la-comunicacion-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-adquiere-nextslide-para-mejorar-la-comunicacion-.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha adquirido a NextSlide, una startup que desarrollaba herramientas para crear presentaciones a partir de textos y notas. Esta adquisición permitirá a OpenAI mejorar la capacidad de su modelo de lenguaje ChatGPT para crear…</description>
-  </item>
-  <item>
-    <title>OpenAI ralentiza desarrollo de Astra debido a preocupaciones de seguridad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-ralentiza-desarrollo-de-astra-debido-a-preocupac.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-09-openai-ralentiza-desarrollo-de-astra-debido-a-preocupac.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha suspendido el desarrollo de su modelo Astra después de descubrir que había alcanzado un umbral de seguridad crítico, lo que le permite identificar y ejecutar ataques cibernéticos contra sistemas protegidos. Esta noticia destaca…</description>
-  </item>
-  <item>
-    <title>ROS2: Nueva característica de contenedores de desarrollo y actualización de plantilla de workspace</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-ros2-nueva-caracteristica-de-contenedores-de-desarrollo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-ros2-nueva-caracteristica-de-contenedores-de-desarrollo.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de ROS2 ha lanzado una nueva característica para los contenedores de desarrollo, que permite seleccionar la distribución de ROS2 en el archivo devcontainer.json y utilizar la misma configuración tanto para el desarrollo local…</description>
-  </item>
-  <item>
-    <title>Lanzado el Laboratorio de Gestión de Software: protegiendo la cadena de suministro</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-lanzado-el-laboratorio-de-gestion-de-software-protegien.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-lanzado-el-laboratorio-de-gestion-de-software-protegien.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Un nuevo laboratorio no lucrativo en Escocia se enfoca en la seguridad de la cadena de suministro de software, el agotamiento de los mantenidos de código abierto y la investigación sobre la sostenibilidad de este tipo de código. Esto es…</description>
-  </item>
-  <item>
-    <title>Polychromatic 0.9.8: soporte para Razer Blade 16 2023 en Linux</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-polychromatic-098-soporte-para-razer-blade-16-2023-en-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-09-polychromatic-098-soporte-para-razer-blade-16-2023-en-l.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La comunidad de Linux ha recibido una actualización importante en la herramienta Polychromatic, que permite gestionar la iluminación RGB y otras características de dispositivos Razer en Linux. La versión 0.9.8 incluye soporte para el…</description>
-  </item>
-  <item>
-    <title>Desarrolla proyectos de posicionamiento indoor con MaTouch ESP32-S3 MaUWB</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-desarrolla-proyectos-de-posicionamiento-indoor-con-mato.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-desarrolla-proyectos-de-posicionamiento-indoor-con-mato.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Makerfabs ha lanzado el MaTouch ESP32-S3 MaUWB, un desarrollo de placa que combina un módulo de MCU inalámbrico ESP32-S3, una pantalla táctil de 3.95 pulgadas y un módulo UWB para aplicaciones de posicionamiento indoor y rango.</description>
-  </item>
-  <item>
-    <title>Identifica pájaros con un Raspberry Pi y un micrófono USB</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-identifica-pajaros-con-un-raspberry-pi-y-un-microfono-u.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-identifica-pajaros-con-un-raspberry-pi-y-un-microfono-u.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Un proyecto llamado Avian Visitors utiliza un Raspberry Pi y un micrófono para identificar y contar los pájaros que visitan tu hogar. La información se muestra en una interfaz web y en una pantalla E-Ink que muestra una imagen de los…</description>
-  </item>
-  <item>
-    <title>SPOKE: un controlador táctil con microcontrolador RP2040</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-spoke-un-controlador-tactil-con-microcontrolador-rp2040.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-09-spoke-un-controlador-tactil-con-microcontrolador-rp2040.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El SPOKE es un dispositivo que parece un disco de música de los años 90, pero en realidad es un controlador táctil con 27 pines GPIO y un microcontrolador RP2040. Puedes conectarlo a tu computadora y usarlo como controlador MIDI para tocar…</description>
-  </item>
-  <item>
-    <title>Walden Robotics se asocia con Toyota para desarrollar robots humanoides prácticos</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-walden-robotics-se-asocia-con-toyota-para-desarrollar-3.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-walden-robotics-se-asocia-con-toyota-para-desarrollar-3.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Después de una explosión en la creación de robots humanoides, la industria se ha vuelto más realista y práctica. Walden Robotics, una spin-off de Toyota Research Institute, busca aplicar la tecnología a problemas reales en entornos de…</description>
-  </item>
-  <item>
-    <title>Raspberry Pi Pico: un buscador de rutas con Dijkstra's algoritmo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-raspberry-pi-pico-un-buscador-de-rutas-con-dijkstras-al.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-raspberry-pi-pico-un-buscador-de-rutas-con-dijkstras-al.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un proyecto de robótica y programación que utiliza el Raspberry Pi Pico y el algoritmo de Dijkstra's para encontrar la ruta más corta entre dos puntos en un mapa. Un ejemplo práctico de cómo la tecnología puede ser aplicada en la vida real.</description>
-  </item>
-  <item>
-    <title>CPU compartida para almacenamiento de mensajes en ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-cpu-compartida-para-almacenamiento-de-mensajes-en-ros-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-cpu-compartida-para-almacenamiento-de-mensajes-en-ros-2.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Los desarrolladores de ROS 2 están explorando la posibilidad de implementar un backend de memoria compartida en el CPU para almacenar mensajes de gran tamaño, como imágenes y nubes de puntos.</description>
-  </item>
-  <item>
-    <title>La Unión Europea prohíbe la importación de robots avanzados de países extranjeros</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-la-union-europea-prohibe-la-importacion-de-robots-ava-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-la-union-europea-prohibe-la-importacion-de-robots-ava-2.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La Unión Europea ha anunciado una medida para limitar la importación de robots avanzados de países extranjeros, incluyendo China, debido a preocupaciones de seguridad nacional. Esta medida afectará a la industria robótica en todo el mundo,…</description>
-  </item>
-  <item>
-    <title>Desafío DARPA: drones pesados en la búsqueda de recursos en Marte</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-desafio-darpa-drones-pesados-en-la-busqueda-de-recursos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-09-desafio-darpa-drones-pesados-en-la-busqueda-de-recursos.md</guid>
-    <pubDate>Sun, 09 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La NASA está desarrollando drones capaces de detectar agua congelada en Marte, un recurso crítico para futuras misiones. El desafío DARPA busca mejorar la capacidad de los drones para realizar tareas pesadas en entornos hostiles.</description>
   </item>
 </channel>
 </rss>

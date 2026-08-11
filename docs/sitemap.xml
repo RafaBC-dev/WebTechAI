@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-10</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-10</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-11</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-11</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-lanza-modelo-de-defensa-cibernetica-para-protege.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-compra-7-mil-millones-de-acciones-de-empleados-p.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-un-teclado-sin-teclas-como-enviar-texto-a-un-ordenador-.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-fedora-coreos-habilitara-systemd-oomd-y-zram-por-defect.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-nvidia-lanza-driver-abierto-nova-para-linux-73-con-mejo.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-lenovo-mas-laptops-informan-sobre-velocidad-de-fans-con.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pishot-una-camara-compacta-y-portatil-para-raspberry-pi.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-makerfabs-nomad-terminal-una-plataforma-de-desarrollo-p.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pewcb-one-un-sistema-de-fabricacion-de-pcb-para-prototi.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pyble-ide-para-programar-microcontroladores-con-bluetoo.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-amr-autonomo-para-almacen-con-ros-2-gazebo-y-nav2.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-desarrollo-de-algoritmos-de-aprendizaje-por-refuerzo-en.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-la-fcc-agrega-robots-moviles-y-inversores-de-energia-a-.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-drones-de-gran-envergadura-en-el-desafio-lift-de-darpa.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-sistema-de-desmontaje-de-robots-para-reciclar-partes-va.md</loc><lastmod>2026-08-11</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-gym-booking-website-vulnerable-a-ataques-de-reserva-de-.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-generador-de-pipeline-de-vision-para-ros-2-una-herramie.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-10-baseten-se-une-a-hugging-face-como-proveedor-de-inferen.md</loc><lastmod>2026-08-10</lastmod><priority>0.8</priority></url>

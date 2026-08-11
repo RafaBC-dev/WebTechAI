@@ -1,6 +1,217 @@
 {
   "news": [
     {
+      "title": "OpenAI lanza modelo de defensa cibernética para proteger contra ataques de IA",
+      "category": "ia",
+      "date": "2026-08-11",
+      "slug": "openai-lanza-modelo-de-defensa-cibernetica-para-protege",
+      "tags": [
+        "ia-local",
+        "linux",
+        "cybersecurity"
+      ],
+      "preview": "La creciente amenaza de los agentes de IA 'rogueros' ha llevado a OpenAI a expandir su servicio de defensa cibernética, Daybreak. Este servicio ofrece herramientas y modelos para defender contra ataques cibernéticos, incluyendo los…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-11-openai-lanza-modelo-de-defensa-cibernetica-para-protege.md"
+    },
+    {
+      "title": "OpenAI compra $7 mil millones de acciones de empleados para ofrecer liquidez",
+      "category": "ia",
+      "date": "2026-08-11",
+      "slug": "openai-compra-7-mil-millones-de-acciones-de-empleados-p",
+      "tags": [
+        "ia-local",
+        "linux",
+        "python"
+      ],
+      "preview": "OpenAI ha llevado a cabo una oferta de compra de acciones de $7 mil millones a sus empleados, valorando la empresa en $852 mil millones. Esta medida busca proporcionar liquidez a su fuerza laboral y podría retrasar su posible oferta…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-11-openai-compra-7-mil-millones-de-acciones-de-empleados-p.md"
+    },
+    {
+      "title": "Un teclado sin teclas: cómo enviar texto a un ordenador a través de audio",
+      "category": "linux",
+      "date": "2026-08-11",
+      "slug": "un-teclado-sin-teclas-como-enviar-texto-a-un-ordenador-",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Un ingeniero ha creado un sistema que permite enviar texto a un ordenador a través de audio, utilizando un smartphone y un módulo de audio. Esto podría revolucionar la forma en que interactuamos con nuestros dispositivos",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-11-un-teclado-sin-teclas-como-enviar-texto-a-un-ordenador-.md"
+    },
+    {
+      "title": "Fedora CoreOS habilitará systemd-oomd y zRAM por defecto",
+      "category": "linux",
+      "date": "2026-08-11",
+      "slug": "fedora-coreos-habilitara-systemd-oomd-y-zram-por-defect",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Fedora CoreOS, el sistema operativo optimizado para contenedores de Fedora, está cambiando sus configuraciones por defecto. A partir de la versión 45, systemd-oomd y la swap en zRAM estarán habilitados de manera predeterminada.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-11-fedora-coreos-habilitara-systemd-oomd-y-zram-por-defect.md"
+    },
+    {
+      "title": "NVIDIA lanza driver abierto 'Nova' para Linux 7.3 con mejoras significativas",
+      "category": "linux",
+      "date": "2026-08-11",
+      "slug": "nvidia-lanza-driver-abierto-nova-para-linux-73-con-mejo",
+      "tags": [
+        "ia-local",
+        "linux",
+        "codigo"
+      ],
+      "preview": "NVIDIA ha enviado una actualización importante para su driver abierto 'Nova' para Linux 7.3, que incluye mejoras significativas en la compatibilidad con GPUs NVIDIA y la integración con el lenguaje de programación Rust.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-11-nvidia-lanza-driver-abierto-nova-para-linux-73-con-mejo.md"
+    },
+    {
+      "title": "Lenovo: más laptops informan sobre velocidad de fans con Linux 7.3",
+      "category": "linux",
+      "date": "2026-08-11",
+      "slug": "lenovo-mas-laptops-informan-sobre-velocidad-de-fans-con",
+      "tags": [
+        "linux",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La próxima versión de Linux, 7.3, incluirá soporte para más modelos de laptops Lenovo, lo que permitirá que los usuarios monitoreen la velocidad de sus ventiladores. Esto es posible gracias a la extensión del driver Yogafan.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-11-lenovo-mas-laptops-informan-sobre-velocidad-de-fans-con.md"
+    },
+    {
+      "title": "PiShot: una cámara compacta y portátil para Raspberry Pi",
+      "category": "embebidos",
+      "date": "2026-08-11",
+      "slug": "pishot-una-camara-compacta-y-portatil-para-raspberry-pi",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "La Raspberry Pi ha revolucionado la creación de cámaras compactas y portátiles. El PiShot es la última adición a esta familia de dispositivos, ofreciendo una cámara de alta calidad y una pantalla en un solo dispositivo.",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-11-pishot-una-camara-compacta-y-portatil-para-raspberry-pi.md"
+    },
+    {
+      "title": "Makerfabs Nomad Terminal: una plataforma de desarrollo portátil con tecnología LoRa",
+      "category": "embebidos",
+      "date": "2026-08-11",
+      "slug": "makerfabs-nomad-terminal-una-plataforma-de-desarrollo-p",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Makerfabs ha lanzado la Nomad Terminal, una plataforma de desarrollo portátil que combina tecnología LoRa con un procesador ESP32-S3 y un módulo GNSS. Esta herramienta es ideal para aplicaciones que requieren comunicación inalámbrica de…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-11-makerfabs-nomad-terminal-una-plataforma-de-desarrollo-p.md"
+    },
+    {
+      "title": "PewCB One: un sistema de fabricación de PCB para prototipado rápido en casa",
+      "category": "embebidos",
+      "date": "2026-08-11",
+      "slug": "pewcb-one-un-sistema-de-fabricacion-de-pcb-para-prototi",
+      "tags": [
+        "microcontroladores",
+        "embebidos",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "La fabricación de PCBs en casa o en el despacho se vuelve realidad gracias a PewCB One, un sistema que acelera el desarrollo de hardware con una tecnología innovadora.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-11-pewcb-one-un-sistema-de-fabricacion-de-pcb-para-prototi.md"
+    },
+    {
+      "title": "PyBLE: IDE para programar microcontroladores con Bluetooth LE",
+      "category": "embebidos",
+      "date": "2026-08-11",
+      "slug": "pyble-ide-para-programar-microcontroladores-con-bluetoo",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "python"
+      ],
+      "preview": "PyBLE es un IDE open-source que permite programar microcontroladores con Bluetooth Low Energy (BLE) desde tabletas y iPads. Este proyecto es relevante para desarrolladores que buscan una forma sencilla de programar y controlar dispositivos…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-11-pyble-ide-para-programar-microcontroladores-con-bluetoo.md"
+    },
+    {
+      "title": "AMR autónomo para almacén con ROS 2, Gazebo y Nav2",
+      "category": "robotica",
+      "date": "2026-08-11",
+      "slug": "amr-autonomo-para-almacen-con-ros-2-gazebo-y-nav2",
+      "tags": [
+        "robotica",
+        "linux",
+        "python"
+      ],
+      "preview": "Un desarrollador ha creado un proyecto de AMR autónomo para almacén utilizando ROS 2, Gazebo y Nav2. Este proyecto permite simular la navegación de un robot en un entorno de almacén, detectando obstáculos y realizando misiones. La creación…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-11-amr-autonomo-para-almacen-con-ros-2-gazebo-y-nav2.md"
+    },
+    {
+      "title": "Desarrollo de algoritmos de aprendizaje por refuerzo en Gazebo",
+      "category": "robotica",
+      "date": "2026-08-11",
+      "slug": "desarrollo-de-algoritmos-de-aprendizaje-por-refuerzo-en",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La comunidad de Gazebo ha desarrollado una herramienta educativa llamada Gym-Gazebo-Sim, que permite a los usuarios principiantes utilizar la API de Gymnasium para aprender algoritmos de aprendizaje por refuerzo. Esta herramienta…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-11-desarrollo-de-algoritmos-de-aprendizaje-por-refuerzo-en.md"
+    },
+    {
+      "title": "La FCC agrega robots móviles y inversores de energía a la lista de tecnologías prohibidas",
+      "category": "robotica",
+      "date": "2026-08-11",
+      "slug": "la-fcc-agrega-robots-moviles-y-inversores-de-energia-a-",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Comisión Federal de Comunicaciones (FCC) de EE. UU. ha agregado robots móviles y inversores de energía a su lista de tecnologías prohibidas, lo que podría tener un impacto significativo en la industria robótica. Esta medida es parte de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-11-la-fcc-agrega-robots-moviles-y-inversores-de-energia-a-.md"
+    },
+    {
+      "title": "Drones de gran envergadura en el desafío Lift de DARPA",
+      "category": "robotica",
+      "date": "2026-08-11",
+      "slug": "drones-de-gran-envergadura-en-el-desafio-lift-de-darpa",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El desafío Lift de DARPA ha atraído a drones de gran envergadura con diseños innovadores. Estos vehículos aéreos no tripulados (UAV) están diseñados para realizar tareas complejas, como levantar objetos pesados y navegar en entornos…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-11-drones-de-gran-envergadura-en-el-desafio-lift-de-darpa.md"
+    },
+    {
+      "title": "Sistema de desmontaje de robots para reciclar partes valiosas",
+      "category": "robotica",
+      "date": "2026-08-11",
+      "slug": "sistema-de-desmontaje-de-robots-para-reciclar-partes-va",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La industria de la robótica está creciendo rápidamente, pero cuando los robots se rompen, se desechan. Un equipo de investigadores ha desarrollado un sistema que puede predecir y reparar defectos en robots, reduciendo la cantidad de…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-11-sistema-de-desmontaje-de-robots-para-reciclar-partes-va.md"
+    },
+    {
       "title": "Gym-booking website vulnerable a ataques de reserva de espacios",
       "category": "ia",
       "date": "2026-08-10",
