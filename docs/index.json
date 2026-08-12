@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Gemini de Google supera los 1.000 millones de usuarios",
+      "category": "ia",
+      "date": "2026-08-12",
+      "slug": "gemini-de-google-supera-los-1000-millones-de-usuarios",
+      "tags": [
+        "llms",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Google anuncia que su chatbot Gemini ha alcanzado los 1.000 millones de usuarios activos mensuales, convirtiéndose en uno de los productos más rápidamente crecientes de la empresa. Este logro supera incluso al de OpenAI's ChatGPT, que…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-12-gemini-de-google-supera-los-1000-millones-de-usuarios.md"
+    },
+    {
+      "title": "MINISFORUM Elite Mini M2 Air-304: mini PC con procesador Intel Core 3 304",
+      "category": "ia",
+      "date": "2026-08-12",
+      "slug": "minisforum-elite-mini-m2-air-304-mini-pc-con-procesador",
+      "tags": [
+        "linux",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "La compañía MINISFORUM ha lanzado su primer modelo de mini PC barebone basado en el procesador Intel Core 3 304, conocido como Wildcat Lake. Este modelo se destaca por su capacidad para aceptar memoria DDR5 y almacenamiento NVMe SSD a…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-12-minisforum-elite-mini-m2-air-304-mini-pc-con-procesador.md"
+    },
+    {
+      "title": "Robótica autónoma con LiteRT y Gemma en Raspberry Pi",
+      "category": "ia",
+      "date": "2026-08-12",
+      "slug": "robotica-autonoma-con-litert-y-gemma-en-raspberry-pi",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Google ha mejorado la eficiencia de LiteRT en Raspberry Pi, permitiendo la creación de robots autónomos que pueden ver, escuchar y reaccionar en tiempo real sin necesidad de conexión a la nube.",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-12-robotica-autonoma-con-litert-y-gemma-en-raspberry-pi.md"
+    },
+    {
+      "title": "ChatGPT llega a Linux: una aplicación de escritorio para la comunidad",
+      "category": "ia",
+      "date": "2026-08-12",
+      "slug": "chatgpt-llega-a-linux-una-aplicacion-de-escritorio-para",
+      "tags": [
+        "llms",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "La comunidad de Linux ha estado esperando la llegada de ChatGPT a sus escritorios, y finalmente ha llegado. La aplicación de escritorio de ChatGPT para Linux es una noticia importante para los desarrolladores y usuarios de Linux que buscan…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-12-chatgpt-llega-a-linux-una-aplicacion-de-escritorio-para.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para el martes",
+      "category": "linux",
+      "date": "2026-08-12",
+      "slug": "actualizaciones-de-seguridad-para-el-martes",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diversas herramientas y aplicaciones. Estas actualizaciones son importantes para garantizar la seguridad de los sistemas y evitar…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-12-actualizaciones-de-seguridad-para-el-martes.md"
+    },
+    {
+      "title": "GNOME Shell: Un diseño de futuro para la interfaz de usuario",
+      "category": "linux",
+      "date": "2026-08-12",
+      "slug": "gnome-shell-un-diseno-de-futuro-para-la-interfaz-de-usu",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El equipo de diseño de GNOME ha publicado un post de blog que muestra su visión a largo plazo para la interfaz de usuario GNOME Shell. Esta visión incluye ideas y conceptos que pueden cambiar la forma en que interactuamos con nuestro…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-12-gnome-shell-un-diseno-de-futuro-para-la-interfaz-de-usu.md"
+    },
+    {
+      "title": "Un cyberdeck en un frasco de mentas: Raspberry Pi Zero en un Altoids",
+      "category": "embebidos",
+      "date": "2026-08-12",
+      "slug": "un-cyberdeck-en-un-frasco-de-mentas-raspberry-pi-zero-e",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "electronica"
+      ],
+      "preview": "La comunidad de Raspberry Pi sigue innovando con proyectos sorprendentes, como este cyberdeck miniatura que combina electrónica y diseño 3D.",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-12-un-cyberdeck-en-un-frasco-de-mentas-raspberry-pi-zero-e.md"
+    },
+    {
+      "title": "Proyecto de arte interactiva con Raspberry Pi Pico y NeoPixel",
+      "category": "embebidos",
+      "date": "2026-08-12",
+      "slug": "proyecto-de-arte-interactiva-con-raspberry-pi-pico-y-ne",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Adafruit presenta el proyecto 'Blossom', una obra de arte interactiva que combina tecnología y naturaleza. Conectada a la red Wi-Fi, esta pieza puede controlarse desde cualquier navegador web y ofrece visualizaciones de luces…",
+      "has_command": false,
+      "file_path": "content/embebidos/2026-08-12-proyecto-de-arte-interactiva-con-raspberry-pi-pico-y-ne.md"
+    },
+    {
+      "title": "¿Tiene sentido manualmente ajustar el filamento en impresoras 3D?",
+      "category": "diseño-3d",
+      "date": "2026-08-12",
+      "slug": "tiene-sentido-manualmente-ajustar-el-filamento-en-impre",
+      "tags": [
+        "diseño-3d",
+        "hardware",
+        "electronica"
+      ],
+      "preview": "En la era de impresoras 3D de consumo con ajustes automáticos, ¿es necesario ajustar manualmente el filamento?",
+      "has_command": true,
+      "file_path": "content/diseño-3d/2026-08-12-tiene-sentido-manualmente-ajustar-el-filamento-en-impre.md"
+    },
+    {
+      "title": "Impresión 3D: ¿Qué sucede cuando se prende fuego a un objeto impreso?",
+      "category": "diseño-3d",
+      "date": "2026-08-12",
+      "slug": "impresion-3d-que-sucede-cuando-se-prende-fuego-a-un-obj",
+      "tags": [
+        "diseño-3d",
+        "electronica",
+        "linux"
+      ],
+      "preview": "Un equipo de experimentación ha decidido encender fuego a diferentes tipos de objetos impuestos con impresión 3D para ver cómo reaccionan. El resultado es sorprendente y puede ser importante para los usuarios de impresión 3D.",
+      "has_command": false,
+      "file_path": "content/diseño-3d/2026-08-12-impresion-3d-que-sucede-cuando-se-prende-fuego-a-un-obj.md"
+    },
+    {
+      "title": "Buscan ingeniero de robótica para un proyecto de manipulación doméstica",
+      "category": "robotica",
+      "date": "2026-08-12",
+      "slug": "buscan-ingeniero-de-robotica-para-un-proyecto-de-manipu",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "Un proyecto de robótica busca un ingeniero para desarrollar un prototipo de manipulación doméstica en Hamilton, Canadá. El objetivo es crear un sistema que pueda mover objetos de una ubicación a otra con precisión.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-12-buscan-ingeniero-de-robotica-para-un-proyecto-de-manipu.md"
+    },
+    {
+      "title": "Sistema de desmontaje de robots reciclables",
+      "category": "robotica",
+      "date": "2026-08-12",
+      "slug": "sistema-de-desmontaje-de-robots-reciclables",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Con la creciente cantidad de robots industriales en uso, se necesitan sistemas para reciclar y reutilizar sus partes cuando se rompan. Un equipo de investigadores ha desarrollado un sistema que puede predecir y reparar daños en robots…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-12-sistema-de-desmontaje-de-robots-reciclables.md"
+    },
+    {
+      "title": "EE.UU. prohíbe la importación de robots avanzados de países extranjeros",
+      "category": "robotica",
+      "date": "2026-08-12",
+      "slug": "eeuu-prohibe-la-importacion-de-robots-avanzados-de-pais",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La Comisión Federal de Comunicaciones (FCC) del EE.UU. ha agregado robots móviles y power inverters a la lista de equipos y servicios que considera una amenaza para la seguridad nacional. Esto significa que los productos nuevos de países…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-12-eeuu-prohibe-la-importacion-de-robots-avanzados-de-pais.md"
+    },
+    {
+      "title": "Drones pesados en el desafío Lift de DARPA: innovación en robótica",
+      "category": "robotica",
+      "date": "2026-08-12",
+      "slug": "drones-pesados-en-el-desafio-lift-de-darpa-innovacion-e",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El desafío Lift de DARPA ha atraído la atención de la comunidad robótica con sus drones pesados y avanzados. Estos vehículos aéreos no tripulados (UAV) están diseñados para realizar tareas complejas, como levantar objetos pesados y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-12-drones-pesados-en-el-desafio-lift-de-darpa-innovacion-e.md"
+    },
+    {
+      "title": "Un proyecto de agente corporal que podría ser innecesario",
+      "category": "robotica",
+      "date": "2026-08-12",
+      "slug": "un-proyecto-de-agente-corporal-que-podria-ser-innecesar",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "python"
+      ],
+      "preview": "Un estudiante universitario ha trabajado durante 9 meses en un proyecto de agente corporal, pero ahora cuestiona si su enfoque es válido. El proyecto utiliza métodos tradicionales para que el robot comprenda su entorno y realice misiones,…",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-12-un-proyecto-de-agente-corporal-que-podria-ser-innecesar.md"
+    },
+    {
       "title": "OpenAI lanza modelo de defensa cibernética para proteger contra ataques de IA",
       "category": "ia",
       "date": "2026-08-11",
