@@ -5,63 +5,127 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Wed, 12 Aug 2026 08:11:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 08:13:12 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>Gemini de Google supera los 1.000 millones de usuarios</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-gemini-de-google-supera-los-1000-millones-de-usuarios.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-gemini-de-google-supera-los-1000-millones-de-usuarios.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google anuncia que su chatbot Gemini ha alcanzado los 1.000 millones de usuarios activos mensuales, convirtiéndose en uno de los productos más rápidamente crecientes de la empresa. Este logro supera incluso al de OpenAI's ChatGPT, que…</description>
-  </item>
-  <item>
-    <title>MINISFORUM Elite Mini M2 Air-304: mini PC con procesador Intel Core 3 304</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-minisforum-elite-mini-m2-air-304-mini-pc-con-procesador.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-minisforum-elite-mini-m2-air-304-mini-pc-con-procesador.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La compañía MINISFORUM ha lanzado su primer modelo de mini PC barebone basado en el procesador Intel Core 3 304, conocido como Wildcat Lake. Este modelo se destaca por su capacidad para aceptar memoria DDR5 y almacenamiento NVMe SSD a…</description>
-  </item>
-  <item>
-    <title>Robótica autónoma con LiteRT y Gemma en Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-robotica-autonoma-con-litert-y-gemma-en-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-robotica-autonoma-con-litert-y-gemma-en-raspberry-pi.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google ha mejorado la eficiencia de LiteRT en Raspberry Pi, permitiendo la creación de robots autónomos que pueden ver, escuchar y reaccionar en tiempo real sin necesidad de conexión a la nube.</description>
-  </item>
-  <item>
-    <title>ChatGPT llega a Linux: una aplicación de escritorio para la comunidad</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-chatgpt-llega-a-linux-una-aplicacion-de-escritorio-para.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-chatgpt-llega-a-linux-una-aplicacion-de-escritorio-para.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de Linux ha estado esperando la llegada de ChatGPT a sus escritorios, y finalmente ha llegado. La aplicación de escritorio de ChatGPT para Linux es una noticia importante para los desarrolladores y usuarios de Linux que buscan…</description>
-  </item>
-  <item>
-    <title>Actualizaciones de seguridad para el martes</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-actualizaciones-de-seguridad-para-el-martes.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-actualizaciones-de-seguridad-para-el-martes.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diversas herramientas y aplicaciones. Estas actualizaciones son importantes para garantizar la seguridad de los sistemas y evitar…</description>
-  </item>
-  <item>
-    <title>GNOME Shell: Un diseño de futuro para la interfaz de usuario</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-gnome-shell-un-diseno-de-futuro-para-la-interfaz-de-usu.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-gnome-shell-un-diseno-de-futuro-para-la-interfaz-de-usu.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>El equipo de diseño de GNOME ha publicado un post de blog que muestra su visión a largo plazo para la interfaz de usuario GNOME Shell. Esta visión incluye ideas y conceptos que pueden cambiar la forma en que interactuamos con nuestro…</description>
-  </item>
-  <item>
-    <title>Un cyberdeck en un frasco de mentas: Raspberry Pi Zero en un Altoids</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-12-un-cyberdeck-en-un-frasco-de-mentas-raspberry-pi-zero-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-12-un-cyberdeck-en-un-frasco-de-mentas-raspberry-pi-zero-e.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+    <title>Kit de inicio oficial para ESPHome con ESP32-C6 y módulos de sensores</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-kit-de-inicio-oficial-para-esphome-con-esp32-c6-y-modul.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-kit-de-inicio-oficial-para-esphome-con-esp32-c6-y-modul.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
     <category>embebidos</category>
-    <description>La comunidad de Raspberry Pi sigue innovando con proyectos sorprendentes, como este cyberdeck miniatura que combina electrónica y diseño 3D.</description>
+    <description>Apollo Automation ha lanzado un kit de inicio oficial para ESPHome, una plataforma de automatización domótica popular. Este kit está diseñado para ser fácil de usar y permite a los usuarios crear dispositivos de automatización…</description>
+  </item>
+  <item>
+    <title>Organizador de destornilladores 3D modulable para herramientas de todo tipo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-organizador-de-destornilladores-3d-modulable-para-herra.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-organizador-de-destornilladores-3d-modulable-para-herra.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El proyecto Gridfinity es un organizador de destornilladores 3D modulable que permite almacenar y proteger herramientas de todo tipo, desde pico hasta XXL, y también compatibilidad con destornilladores eléctricos. Esta solución es ideal…</description>
+  </item>
+  <item>
+    <title>Impresión 3D de un esqueleto articulado para decoraciones de Halloween</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-impresion-3d-de-un-esqueleto-articulado-para-decoracion.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-impresion-3d-de-un-esqueleto-articulado-para-decoracion.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta un proyecto de impresión 3D llamado Flexi Skeleton, un esqueleto articulado que se puede imprimir en un solo bloque y que se puede posicionar de diferentes maneras. Este proyecto es perfecto para decoraciones de Halloween…</description>
+  </item>
+  <item>
+    <title>SPOKE: un controlador de toque basado en RP2040</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-spoke-un-controlador-de-toque-basado-en-rp2040.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-spoke-un-controlador-de-toque-basado-en-rp2040.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>El SPOKE es un dispositivo innovador que combina tecnología de toque capacitivo con un microcontrolador RP2040. Puede ser utilizado como controlador MIDI y ofrece una variedad de opciones para proyectos musicales y de toque.</description>
+  </item>
+  <item>
+    <title>Marco LED de 32x32 con difusor de matriz de LED</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-marco-led-de-32x32-con-difusor-de-matriz-de-led.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-marco-led-de-32x32-con-difusor-de-matriz-de-led.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta un marco LED de 32x32 con difusor de matriz de LED, un proyecto impresionante de impresión 3D que combina electrónica y diseño. Este proyecto es relevante ahora mismo porque muestra la capacidad de los entusiastas de la…</description>
+  </item>
+  <item>
+    <title>Nuevos microcontroladores RISC-V con Ethernet y USB 2.0 para IoT y AI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-nuevos-microcontroladores-risc-v-con-ethernet-y-usb-20-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-nuevos-microcontroladores-risc-v-con-ethernet-y-usb-20-.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>WCH ha lanzado dos nuevos microcontroladores RISC-V, CH32V407 y CH32V467, que integran Ethernet y USB 2.0 para aplicaciones de IoT y AI en el borde. Estos microcontroladores ofrecen una velocidad de reloj de 200 MHz y una memoria de hasta…</description>
+  </item>
+  <item>
+    <title>Forlinx AM62L32: una SBC industrial de bajo consumo para aplicaciones de IoT</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-forlinx-am62l32-una-sbc-industrial-de-bajo-consumo-para.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-forlinx-am62l32-una-sbc-industrial-de-bajo-consumo-para.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Forlinx ha lanzado la AM62L32 Local EVM, una SBC (tarjeta de desarrollo de sistema) industrial de bajo consumo diseñada para aplicaciones de IoT, control industrial, cálculo en el borde y más. Esta plataforma se basa en el SoC Texas…</description>
+  </item>
+  <item>
+    <title>Cyberdeck en un tarrina de mentas: Raspberry Pi Zero en miniatura</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-cyberdeck-en-un-tarrina-de-mentas-raspberry-pi-zero-en-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-cyberdeck-en-un-tarrina-de-mentas-raspberry-pi-zero-en-.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>La comunidad de Raspberry Pi ha estado creando proyectos innovadores en miniatura, y el cyberdeck es uno de ellos. Un proyecto llamado Exercising Ingenuity ha creado un cyberdeck en una tarrina de mentas, utilizando un Raspberry Pi Zero y…</description>
+  </item>
+  <item>
+    <title>EE.UU. prohíbe la importación de robots avanzados de países extranjeros</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-eeuu-prohibe-la-importacion-de-robots-avanzados-de-pa-2.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-eeuu-prohibe-la-importacion-de-robots-avanzados-de-pa-2.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La FCC de EE.UU. ha agregado robots móviles y transformadores de energía solar a la lista de dispositivos que se consideran una amenaza para la seguridad nacional. Esto podría tener un impacto significativo en la industria robótica en todo…</description>
+  </item>
+  <item>
+    <title>Desafío DARPA: Drones pesados para la exploración aérea</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-desafio-darpa-drones-pesados-para-la-exploracion-aerea.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-desafio-darpa-drones-pesados-para-la-exploracion-aerea.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El Desafío DARPA Lift Challenge es un evento que reúne a expertos en robótica y drones para diseñar y construir sistemas de elevación aérea pesados. Este desafío busca mejorar la capacidad de los drones para transportar cargas pesadas y…</description>
+  </item>
+  <item>
+    <title>Sistema de desmontaje de robots reciclables para partes valiosas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-sistema-de-desmontaje-de-robots-reciclables-para-partes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-sistema-de-desmontaje-de-robots-reciclables-para-partes.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La industria de los robots industriales crece rápidamente, pero ¿qué pasa cuando estos robots se rompen? Un nuevo sistema desarrollado en Alemania puede predecir y desmontar defectos en productos robóticos, salvando partes valiosas</description>
+  </item>
+  <item>
+    <title>Claude, el chatbot, deja huella digital en sus respuestas</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-claude-el-chatbot-deja-huella-digital-en-sus-respuestas.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-claude-el-chatbot-deja-huella-digital-en-sus-respuestas.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Anthropic ha implementado un nuevo sistema de marcaje en sus respuestas, lo que ha generado controversia entre los usuarios. ¿Qué significa esto y por qué es importante?</description>
+  </item>
+  <item>
+    <title>Inteligencia artificial en borde con Raspberry Pi: LiteRT y Gemma</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-inteligencia-artificial-en-borde-con-raspberry-pi-liter.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-inteligencia-artificial-en-borde-con-raspberry-pi-liter.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Google ha mejorado la performance de LiteRT en Raspberry Pi, permitiendo a los desarrolladores crear sistemas autónomos de inteligencia artificial de forma segura y privada. Esto abre nuevas posibilidades para la robótica y la…</description>
+  </item>
+  <item>
+    <title>Corrección de error en AdvancedLiftDrag: un paso hacia la precisión en simulaciones</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-correccion-de-error-en-advancedliftdrag-un-paso-hacia-l.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-correccion-de-error-en-advancedliftdrag-un-paso-hacia-l.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de Gazebo ha anunciado una importante corrección de error en el sistema AdvancedLiftDrag, que afectaba la precisión de las simulaciones de aerodinámica en modelos de aviones y drones. Este error se debía a una asignación…</description>
+  </item>
+  <item>
+    <title>ROS PMC: actualizaciones sobre financiación y infraestructura de CI</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-13-ros-pmc-actualizaciones-sobre-financiacion-y-infraestru.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-13-ros-pmc-actualizaciones-sobre-financiacion-y-infraestru.md</guid>
+    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>La reunión de la ROS PMC (Revisión de Código de ROS) del 11 de agosto de 2026 ha generado actualizaciones importantes sobre la financiación y la infraestructura de CI (Integración Continua) del proyecto ROS (Robot Operating System).</description>
   </item>
   <item>
     <title>Proyecto de arte interactiva con Raspberry Pi Pico y NeoPixel</title>
@@ -72,20 +136,12 @@
     <description>Adafruit presenta el proyecto 'Blossom', una obra de arte interactiva que combina tecnología y naturaleza. Conectada a la red Wi-Fi, esta pieza puede controlarse desde cualquier navegador web y ofrece visualizaciones de luces…</description>
   </item>
   <item>
-    <title>¿Tiene sentido manualmente ajustar el filamento en impresoras 3D?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-tiene-sentido-manualmente-ajustar-el-filamento-en-impre.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-tiene-sentido-manualmente-ajustar-el-filamento-en-impre.md</guid>
+    <title>Un cyberdeck en un frasco de mentas: Raspberry Pi Zero en un Altoids</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-12-un-cyberdeck-en-un-frasco-de-mentas-raspberry-pi-zero-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-12-un-cyberdeck-en-un-frasco-de-mentas-raspberry-pi-zero-e.md</guid>
     <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>En la era de impresoras 3D de consumo con ajustes automáticos, ¿es necesario ajustar manualmente el filamento?</description>
-  </item>
-  <item>
-    <title>Impresión 3D: ¿Qué sucede cuando se prende fuego a un objeto impreso?</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-impresion-3d-que-sucede-cuando-se-prende-fuego-a-un-obj.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-impresion-3d-que-sucede-cuando-se-prende-fuego-a-un-obj.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>diseño-3d</category>
-    <description>Un equipo de experimentación ha decidido encender fuego a diferentes tipos de objetos impuestos con impresión 3D para ver cómo reaccionan. El resultado es sorprendente y puede ser importante para los usuarios de impresión 3D.</description>
+    <category>embebidos</category>
+    <description>La comunidad de Raspberry Pi sigue innovando con proyectos sorprendentes, como este cyberdeck miniatura que combina electrónica y diseño 3D.</description>
   </item>
   <item>
     <title>Buscan ingeniero de robótica para un proyecto de manipulación doméstica</title>
@@ -94,14 +150,6 @@
     <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>Un proyecto de robótica busca un ingeniero para desarrollar un prototipo de manipulación doméstica en Hamilton, Canadá. El objetivo es crear un sistema que pueda mover objetos de una ubicación a otra con precisión.</description>
-  </item>
-  <item>
-    <title>Sistema de desmontaje de robots reciclables</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-12-sistema-de-desmontaje-de-robots-reciclables.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-12-sistema-de-desmontaje-de-robots-reciclables.md</guid>
-    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Con la creciente cantidad de robots industriales en uso, se necesitan sistemas para reciclar y reutilizar sus partes cuando se rompan. Un equipo de investigadores ha desarrollado un sistema que puede predecir y reparar daños en robots…</description>
   </item>
   <item>
     <title>EE.UU. prohíbe la importación de robots avanzados de países extranjeros</title>
@@ -128,124 +176,76 @@
     <description>Un estudiante universitario ha trabajado durante 9 meses en un proyecto de agente corporal, pero ahora cuestiona si su enfoque es válido. El proyecto utiliza métodos tradicionales para que el robot comprenda su entorno y realice misiones,…</description>
   </item>
   <item>
-    <title>OpenAI lanza modelo de defensa cibernética para proteger contra ataques de IA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-lanza-modelo-de-defensa-cibernetica-para-protege.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-lanza-modelo-de-defensa-cibernetica-para-protege.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <title>Sistema de desmontaje de robots reciclables</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-12-sistema-de-desmontaje-de-robots-reciclables.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-12-sistema-de-desmontaje-de-robots-reciclables.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Con la creciente cantidad de robots industriales en uso, se necesitan sistemas para reciclar y reutilizar sus partes cuando se rompan. Un equipo de investigadores ha desarrollado un sistema que puede predecir y reparar daños en robots…</description>
+  </item>
+  <item>
+    <title>MINISFORUM Elite Mini M2 Air-304: mini PC con procesador Intel Core 3 304</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-minisforum-elite-mini-m2-air-304-mini-pc-con-procesador.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-minisforum-elite-mini-m2-air-304-mini-pc-con-procesador.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>La creciente amenaza de los agentes de IA 'rogueros' ha llevado a OpenAI a expandir su servicio de defensa cibernética, Daybreak. Este servicio ofrece herramientas y modelos para defender contra ataques cibernéticos, incluyendo los…</description>
+    <description>La compañía MINISFORUM ha lanzado su primer modelo de mini PC barebone basado en el procesador Intel Core 3 304, conocido como Wildcat Lake. Este modelo se destaca por su capacidad para aceptar memoria DDR5 y almacenamiento NVMe SSD a…</description>
   </item>
   <item>
-    <title>OpenAI compra $7 mil millones de acciones de empleados para ofrecer liquidez</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-compra-7-mil-millones-de-acciones-de-empleados-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-11-openai-compra-7-mil-millones-de-acciones-de-empleados-p.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <title>Robótica autónoma con LiteRT y Gemma en Raspberry Pi</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-robotica-autonoma-con-litert-y-gemma-en-raspberry-pi.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-robotica-autonoma-con-litert-y-gemma-en-raspberry-pi.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>OpenAI ha llevado a cabo una oferta de compra de acciones de $7 mil millones a sus empleados, valorando la empresa en $852 mil millones. Esta medida busca proporcionar liquidez a su fuerza laboral y podría retrasar su posible oferta…</description>
+    <description>Google ha mejorado la eficiencia de LiteRT en Raspberry Pi, permitiendo la creación de robots autónomos que pueden ver, escuchar y reaccionar en tiempo real sin necesidad de conexión a la nube.</description>
   </item>
   <item>
-    <title>Un teclado sin teclas: cómo enviar texto a un ordenador a través de audio</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-un-teclado-sin-teclas-como-enviar-texto-a-un-ordenador-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-un-teclado-sin-teclas-como-enviar-texto-a-un-ordenador-.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <title>Gemini de Google supera los 1.000 millones de usuarios</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-gemini-de-google-supera-los-1000-millones-de-usuarios.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-gemini-de-google-supera-los-1000-millones-de-usuarios.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Google anuncia que su chatbot Gemini ha alcanzado los 1.000 millones de usuarios activos mensuales, convirtiéndose en uno de los productos más rápidamente crecientes de la empresa. Este logro supera incluso al de OpenAI's ChatGPT, que…</description>
+  </item>
+  <item>
+    <title>ChatGPT llega a Linux: una aplicación de escritorio para la comunidad</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-chatgpt-llega-a-linux-una-aplicacion-de-escritorio-para.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-12-chatgpt-llega-a-linux-una-aplicacion-de-escritorio-para.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de Linux ha estado esperando la llegada de ChatGPT a sus escritorios, y finalmente ha llegado. La aplicación de escritorio de ChatGPT para Linux es una noticia importante para los desarrolladores y usuarios de Linux que buscan…</description>
+  </item>
+  <item>
+    <title>Actualizaciones de seguridad para el martes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-actualizaciones-de-seguridad-para-el-martes.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-actualizaciones-de-seguridad-para-el-martes.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>Un ingeniero ha creado un sistema que permite enviar texto a un ordenador a través de audio, utilizando un smartphone y un módulo de audio. Esto podría revolucionar la forma en que interactuamos con nuestros dispositivos</description>
+    <description>Las distribuciones de Linux han lanzado actualizaciones de seguridad para corregir vulnerabilidades en diversas herramientas y aplicaciones. Estas actualizaciones son importantes para garantizar la seguridad de los sistemas y evitar…</description>
   </item>
   <item>
-    <title>Fedora CoreOS habilitará systemd-oomd y zRAM por defecto</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-fedora-coreos-habilitara-systemd-oomd-y-zram-por-defect.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-fedora-coreos-habilitara-systemd-oomd-y-zram-por-defect.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
+    <title>GNOME Shell: Un diseño de futuro para la interfaz de usuario</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-gnome-shell-un-diseno-de-futuro-para-la-interfaz-de-usu.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-12-gnome-shell-un-diseno-de-futuro-para-la-interfaz-de-usu.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>Fedora CoreOS, el sistema operativo optimizado para contenedores de Fedora, está cambiando sus configuraciones por defecto. A partir de la versión 45, systemd-oomd y la swap en zRAM estarán habilitados de manera predeterminada.</description>
+    <description>El equipo de diseño de GNOME ha publicado un post de blog que muestra su visión a largo plazo para la interfaz de usuario GNOME Shell. Esta visión incluye ideas y conceptos que pueden cambiar la forma en que interactuamos con nuestro…</description>
   </item>
   <item>
-    <title>NVIDIA lanza driver abierto 'Nova' para Linux 7.3 con mejoras significativas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-nvidia-lanza-driver-abierto-nova-para-linux-73-con-mejo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-nvidia-lanza-driver-abierto-nova-para-linux-73-con-mejo.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>NVIDIA ha enviado una actualización importante para su driver abierto 'Nova' para Linux 7.3, que incluye mejoras significativas en la compatibilidad con GPUs NVIDIA y la integración con el lenguaje de programación Rust.</description>
+    <title>Impresión 3D: ¿Qué sucede cuando se prende fuego a un objeto impreso?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-impresion-3d-que-sucede-cuando-se-prende-fuego-a-un-obj.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-impresion-3d-que-sucede-cuando-se-prende-fuego-a-un-obj.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>Un equipo de experimentación ha decidido encender fuego a diferentes tipos de objetos impuestos con impresión 3D para ver cómo reaccionan. El resultado es sorprendente y puede ser importante para los usuarios de impresión 3D.</description>
   </item>
   <item>
-    <title>Lenovo: más laptops informan sobre velocidad de fans con Linux 7.3</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-lenovo-mas-laptops-informan-sobre-velocidad-de-fans-con.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-11-lenovo-mas-laptops-informan-sobre-velocidad-de-fans-con.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>linux</category>
-    <description>La próxima versión de Linux, 7.3, incluirá soporte para más modelos de laptops Lenovo, lo que permitirá que los usuarios monitoreen la velocidad de sus ventiladores. Esto es posible gracias a la extensión del driver Yogafan.</description>
-  </item>
-  <item>
-    <title>PiShot: una cámara compacta y portátil para Raspberry Pi</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pishot-una-camara-compacta-y-portatil-para-raspberry-pi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pishot-una-camara-compacta-y-portatil-para-raspberry-pi.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La Raspberry Pi ha revolucionado la creación de cámaras compactas y portátiles. El PiShot es la última adición a esta familia de dispositivos, ofreciendo una cámara de alta calidad y una pantalla en un solo dispositivo.</description>
-  </item>
-  <item>
-    <title>Makerfabs Nomad Terminal: una plataforma de desarrollo portátil con tecnología LoRa</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-makerfabs-nomad-terminal-una-plataforma-de-desarrollo-p.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-makerfabs-nomad-terminal-una-plataforma-de-desarrollo-p.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Makerfabs ha lanzado la Nomad Terminal, una plataforma de desarrollo portátil que combina tecnología LoRa con un procesador ESP32-S3 y un módulo GNSS. Esta herramienta es ideal para aplicaciones que requieren comunicación inalámbrica de…</description>
-  </item>
-  <item>
-    <title>PewCB One: un sistema de fabricación de PCB para prototipado rápido en casa</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pewcb-one-un-sistema-de-fabricacion-de-pcb-para-prototi.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pewcb-one-un-sistema-de-fabricacion-de-pcb-para-prototi.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La fabricación de PCBs en casa o en el despacho se vuelve realidad gracias a PewCB One, un sistema que acelera el desarrollo de hardware con una tecnología innovadora.</description>
-  </item>
-  <item>
-    <title>PyBLE: IDE para programar microcontroladores con Bluetooth LE</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pyble-ide-para-programar-microcontroladores-con-bluetoo.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-11-pyble-ide-para-programar-microcontroladores-con-bluetoo.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>PyBLE es un IDE open-source que permite programar microcontroladores con Bluetooth Low Energy (BLE) desde tabletas y iPads. Este proyecto es relevante para desarrolladores que buscan una forma sencilla de programar y controlar dispositivos…</description>
-  </item>
-  <item>
-    <title>AMR autónomo para almacén con ROS 2, Gazebo y Nav2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-amr-autonomo-para-almacen-con-ros-2-gazebo-y-nav2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-amr-autonomo-para-almacen-con-ros-2-gazebo-y-nav2.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>Un desarrollador ha creado un proyecto de AMR autónomo para almacén utilizando ROS 2, Gazebo y Nav2. Este proyecto permite simular la navegación de un robot en un entorno de almacén, detectando obstáculos y realizando misiones. La creación…</description>
-  </item>
-  <item>
-    <title>Desarrollo de algoritmos de aprendizaje por refuerzo en Gazebo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-desarrollo-de-algoritmos-de-aprendizaje-por-refuerzo-en.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-desarrollo-de-algoritmos-de-aprendizaje-por-refuerzo-en.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La comunidad de Gazebo ha desarrollado una herramienta educativa llamada Gym-Gazebo-Sim, que permite a los usuarios principiantes utilizar la API de Gymnasium para aprender algoritmos de aprendizaje por refuerzo. Esta herramienta…</description>
-  </item>
-  <item>
-    <title>La FCC agrega robots móviles y inversores de energía a la lista de tecnologías prohibidas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-la-fcc-agrega-robots-moviles-y-inversores-de-energia-a-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-la-fcc-agrega-robots-moviles-y-inversores-de-energia-a-.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La Comisión Federal de Comunicaciones (FCC) de EE. UU. ha agregado robots móviles y inversores de energía a su lista de tecnologías prohibidas, lo que podría tener un impacto significativo en la industria robótica. Esta medida es parte de…</description>
-  </item>
-  <item>
-    <title>Drones de gran envergadura en el desafío Lift de DARPA</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-drones-de-gran-envergadura-en-el-desafio-lift-de-darpa.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-drones-de-gran-envergadura-en-el-desafio-lift-de-darpa.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El desafío Lift de DARPA ha atraído a drones de gran envergadura con diseños innovadores. Estos vehículos aéreos no tripulados (UAV) están diseñados para realizar tareas complejas, como levantar objetos pesados y navegar en entornos…</description>
-  </item>
-  <item>
-    <title>Sistema de desmontaje de robots para reciclar partes valiosas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-sistema-de-desmontaje-de-robots-para-reciclar-partes-va.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-11-sistema-de-desmontaje-de-robots-para-reciclar-partes-va.md</guid>
-    <pubDate>Tue, 11 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La industria de la robótica está creciendo rápidamente, pero cuando los robots se rompen, se desechan. Un equipo de investigadores ha desarrollado un sistema que puede predecir y reparar defectos en robots, reduciendo la cantidad de…</description>
+    <title>¿Tiene sentido manualmente ajustar el filamento en impresoras 3D?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-tiene-sentido-manualmente-ajustar-el-filamento-en-impre.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-12-tiene-sentido-manualmente-ajustar-el-filamento-en-impre.md</guid>
+    <pubDate>Wed, 12 Aug 2026 08:00:00 +0000</pubDate>
+    <category>diseño-3d</category>
+    <description>En la era de impresoras 3D de consumo con ajustes automáticos, ¿es necesario ajustar manualmente el filamento?</description>
   </item>
 </channel>
 </rss>
