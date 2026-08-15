@@ -5,63 +5,127 @@
   <link>https://RafaBC-dev.github.io/WebTechAI</link>
   <description>Tecnología, robótica e IA explicada en español</description>
   <language>es</language>
-  <lastBuildDate>Fri, 14 Aug 2026 08:09:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 07:23:16 +0000</lastBuildDate>
   <atom:link href="https://RafaBC-dev.github.io/WebTechAI/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
-    <title>AMD GAIA 0.23: Instalar y ejecutar agentes de IA desde la terminal</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-amd-gaia-023-instalar-y-ejecutar-agentes-de-ia-desde-la.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-amd-gaia-023-instalar-y-ejecutar-agentes-de-ia-desde-la.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>AMD ha lanzado la versión 0.23 de su software de IA abierta GAIA, que permite instalar y ejecutar agentes de IA desde la terminal. Esto significa que los usuarios pueden gestionar sus agentes de IA de manera más sencilla y eficiente.</description>
+    <title>Reconocimiento de gestos con EIT en un reloj inteligente</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-15-reconocimiento-de-gestos-con-eit-en-un-reloj-inteligent.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-15-reconocimiento-de-gestos-con-eit-en-un-reloj-inteligent.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Investigadores de la Universidad de Northwestern han desarrollado EITWatch, un sistema de reconocimiento de gestos basado en tecnología de impedancia eléctrica que se ajusta a un reloj inteligente estándar. Este sistema utiliza un panel de…</description>
   </item>
   <item>
-    <title>OpenAI lanza Ultrafast, un modo que acelera GPT-5.6 Sol en 14 veces</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-openai-lanza-ultrafast-un-modo-que-acelera-gpt-56-sol-e.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-openai-lanza-ultrafast-un-modo-que-acelera-gpt-56-sol-e.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>OpenAI ha lanzado un nuevo modo llamado Ultrafast que permite a su modelo GPT-5.6 Sol procesar información a una velocidad 14 veces superior a la normal. Esto puede tener un impacto significativo en aplicaciones como la respuesta a…</description>
+    <title>Traductor multilingüe local en Raspberry Pi 5 con Gemma Translator</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-15-traductor-multilingue-local-en-raspberry-pi-5-con-gemma.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-15-traductor-multilingue-local-en-raspberry-pi-5-con-gemma.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Los ingenieros de Google han creado un traductor multilingüe que funciona localmente en Raspberry Pi 5 sin necesidad de acceso a la nube. Este proyecto, llamado Gemma Translator, utiliza la tecnología Gemma 4 y LiteRT runtime para…</description>
   </item>
   <item>
-    <title>Snapdragon C supera a Intel N250 en rendimiento y eficiencia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-snapdragon-c-supera-a-intel-n250-en-rendimiento-y-efici.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-snapdragon-c-supera-a-intel-n250-en-rendimiento-y-efici.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Qualcomm ha presentado un nuevo SoC llamado Snapdragon C, que ofrece un rendimiento y eficiencia mejorados en comparación con el Intel N250. Los resultados de los benchmarks muestran una ventaja significativa en favor del Snapdragon C.</description>
+    <title>ROSCon Global en Toronto: Últimas noticias y eventos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-roscon-global-en-toronto-ultimas-noticias-y-eventos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-roscon-global-en-toronto-ultimas-noticias-y-eventos.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La comunidad de ROSCon se prepara para su evento global en Toronto, pero hay poco tiempo para comprar entradas a precio regular. Además, se anuncian varios eventos y conferencias relacionadas con la robótica y la inteligencia artificial.</description>
   </item>
   <item>
-    <title>LaserPerception: un proyecto de detección de LiDAR con TensorRT y ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-laserperception-un-proyecto-de-deteccion-de-lidar-con-t.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-laserperception-un-proyecto-de-deteccion-de-lidar-con-t.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Un desarrollador ha lanzado un proyecto de código abierto llamado LaserPerception, que se enfoca en la detección de LiDAR con TensorRT y ROS 2. Este proyecto busca proporcionar una implementación reproducible y exacta de la detección de…</description>
+    <title>Dron sumergible mide la grosor del hielo con precisión</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-dron-sumergible-mide-la-grosor-del-hielo-con-precision.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-dron-sumergible-mide-la-grosor-del-hielo-con-precision.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un equipo de estudiantes de la ETH Zurich ha desarrollado un dron sumergible para medir la grosor del hielo de los lagos con una precisión alta. Este proyecto busca mejorar la seguridad en eventos que se celebran en superficies de hielo.</description>
   </item>
   <item>
-    <title>Writer lanza modelo de IA más eficiente y mejora el coste de los tokens</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-writer-lanza-modelo-de-ia-mas-eficiente-y-mejora-el-cos.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-writer-lanza-modelo-de-ia-mas-eficiente-y-mejora-el-cos.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La empresa Writer ha lanzado un nuevo modelo de IA llamado Palmyra X6, diseñado para reducir los costes de los tokens en un 50% para tareas básicas. Esto se debe a que los usuarios de la industria de la IA están cada vez más conscientes de…</description>
+    <title>Robotica: sistema de desmontaje de productos rotos para reciclaje</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-robotica-sistema-de-desmontaje-de-productos-rotos-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-robotica-sistema-de-desmontaje-de-productos-rotos-para-.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La industria de la robotica está creciendo rápidamente, pero ¿qué pasa cuando estos robots se rompen? Un equipo de investigadores ha desarrollado un sistema que puede predecir y desmontar productos rotos de manera eficiente, reduciendo el…</description>
   </item>
   <item>
-    <title>Nuevas características en Linux 7.2: mejora en la programación y rendimiento</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-nuevas-caracteristicas-en-linux-72-mejora-en-la-program.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-nuevas-caracteristicas-en-linux-72-mejora-en-la-program.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <title>Planificación de tráfico consciente de congestión para entornos industriales densos</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-planificacion-de-trafico-consciente-de-congestion-para-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-planificacion-de-trafico-consciente-de-congestion-para-.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>En entornos industriales densos y estrechos, como fábricas de semiconductores, la planificación de tráfico de robots puede volverse compleja. La congestión y los conflictos entre robots pueden provocar retrasos y problemas de productividad.</description>
+  </item>
+  <item>
+    <title>Video Friday: Desafíos robóticos y tecnologías innovadoras</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-video-friday-desafios-roboticos-y-tecnologias-innovador.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-video-friday-desafios-roboticos-y-tecnologias-innovador.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La semana ha sido llena de emocionantes desafíos robóticos y avances tecnológicos. Desde el reto de levantar objetos pesados hasta la entrega de paquetes por drones, hemos visto cómo la robótica está cambiando la forma en que vivimos y…</description>
+  </item>
+  <item>
+    <title>Robots gemelos tocan la guitarra con tablatura digital</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-robots-gemelos-tocan-la-guitarra-con-tablatura-digital.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-15-robots-gemelos-tocan-la-guitarra-con-tablatura-digital.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>Un ingeniero ha creado robots que pueden tocar la guitarra de manera sincronizada, usando tablatura digital como guía. Este proyecto podría revolucionar la música y la robótica.</description>
+  </item>
+  <item>
+    <title>¿Es real el sueño de Mark Zuckerberg de hacer que la IA sea 'para todos'?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-es-real-el-sueno-de-mark-zuckerberg-de-hacer-que-la-ia-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-es-real-el-sueno-de-mark-zuckerberg-de-hacer-que-la-ia-.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Meta ha lanzado Glimmer, un modelo de IA abierta que puede ser descargada y ejecutada en hardware propio, en contraste con Muse Spark, un modelo más poderoso que se mantiene cerrado. Esto ha generado debate sobre si la visión de Mark…</description>
+  </item>
+  <item>
+    <title>Google permite eliminar el watermark visible de sus generaciones de IA</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-google-permite-eliminar-el-watermark-visible-de-sus-gen.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-google-permite-eliminar-el-watermark-visible-de-sus-gen.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Google ha anunciado que permitirá a los usuarios eliminar el watermark visible de sus generaciones de IA, incluyendo imágenes, videos y canciones. Esto se debe a que los watermarks visibles pueden hacer que el contenido sea menos útil para…</description>
+  </item>
+  <item>
+    <title>Giada DK320: mini PC de alta gama para inteligencia de borde y señalización digital</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-giada-dk320-mini-pc-de-alta-gama-para-inteligencia-de-b.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-giada-dk320-mini-pc-de-alta-gama-para-inteligencia-de-b.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Giada ha lanzado el DK320, un mini PC de alta gama diseñado para aplicaciones de inteligencia de borde y señalización digital. Este dispositivo compacto está equipado con procesadores Intel Core 5 y 3, y ofrece características avanzadas…</description>
+  </item>
+  <item>
+    <title>Lemonade 11.6: Integración de Muse-Glimmer 30B y generación de imágenes</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-lemonade-116-integracion-de-muse-glimmer-30b-y-generaci.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-lemonade-116-integracion-de-muse-glimmer-30b-y-generaci.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La comunidad de desarrolladores de Inteligencia Artificial (IA) ha recibido una noticia emocionante con la publicación de la versión 11.6 de Lemonade SDK, una herramienta de código abierto para ejecutar aplicaciones de IA de manera local…</description>
+  </item>
+  <item>
+    <title>Kog: optimizando GPUs para acelerar inferencia de LLMs</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-kog-optimizando-gpus-para-acelerar-inferencia-de-llms.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-15-kog-optimizando-gpus-para-acelerar-inferencia-de-llms.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa francesa Kog está trabajando en una tecnología que permite a las GPUs convencionales realizar inferencia de modelos de lenguaje largos (LLMs) de manera significativamente más rápida. Esto podría tener un impacto importante en la…</description>
+  </item>
+  <item>
+    <title>Pokémon Bank se cierra: ¿qué pasa con tus Pokémon digitales?</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-15-pokemon-bank-se-cierra-que-pasa-con-tus-pokemon-digital.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-15-pokemon-bank-se-cierra-que-pasa-con-tus-pokemon-digital.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>La próxima versión del kernel de Linux, Linux 7.2, está a punto de ser lanzada y traerá consigo varias mejoras importantes. Entre ellas, una mejor programación y un aumento en el rendimiento, especialmente en sistemas con múltiples…</description>
+    <description>La plataforma Pokémon Bank, que permitía transferir Pokémon entre consolas, se cerrará el 25 de febrero de 2027. Esto afectará a los jugadores que no han transferido sus Pokémon a la aplicación Pokémon HOME.</description>
   </item>
   <item>
-    <title>KDE lanza iniciativa para mantener Plasma 6.6 LTS durante tres años</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-kde-lanza-iniciativa-para-mantener-plasma-66-lts-durant.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-kde-lanza-iniciativa-para-mantener-plasma-66-lts-durant.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <title>Metriplane: herramienta para reproducir incidentes en celdas de trabajo</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-15-metriplane-herramienta-para-reproducir-incidentes-en-ce.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-15-metriplane-herramienta-para-reproducir-incidentes-en-ce.md</guid>
+    <pubDate>Sat, 15 Aug 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>KDE, Techpaladin y Kubuntu Focus han anunciado una colaboración para mantener la versión LTS de Plasma 6.6 durante tres años, proporcionando actualizaciones de seguridad y correcciones de bugs. Esto es importante porque garantiza la…</description>
+    <description>Metriplane es una herramienta de código abierto que permite reproducir incidentes en celdas de trabajo de robots y simular su comportamiento. Esto se logra mediante la creación de un informe de incidente claro, un conjunto de evidencia…</description>
   </item>
   <item>
     <title>Traductor multilingüe local en Raspberry Pi 5 con LiteRT</title>
@@ -72,14 +136,6 @@
     <description>Los ingenieros de Google han desarrollado un traductor multilingüe que funciona localmente en Raspberry Pi 5 sin necesidad de acceso a la nube. El proyecto, llamado Gemma Translator, utiliza la tecnología LiteRT y el modelo Gemma 4 E2B.</description>
   </item>
   <item>
-    <title>Caja de Raspberry Pi Pico con caja de sensores impresionada en 3D</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-14-caja-de-raspberry-pi-pico-con-caja-de-sensores-impresio.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-14-caja-de-raspberry-pi-pico-con-caja-de-sensores-impresio.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit presenta un proyecto de impresión 3D que combina una caja de Raspberry Pi Pico con una caja de sensores, permitiendo a los usuarios montar sensores de temperatura y humedad o otros sensores fuera de la caja electrónica. Este…</description>
-  </item>
-  <item>
     <title>Nueva placa de desarrollo PICO-ADN2 para aplicaciones espaciosas</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-14-nueva-placa-de-desarrollo-pico-adn2-para-aplicaciones-e.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-14-nueva-placa-de-desarrollo-pico-adn2-para-aplicaciones-e.md</guid>
@@ -88,28 +144,20 @@
     <description>La empresa AAEON ha lanzado una nueva placa de desarrollo PICO-ADN2, diseñada para aplicaciones que requieren un tamaño reducido. Esta placa es ideal para transporte, señalización digital, automatización industrial y kioscos inteligentes.</description>
   </item>
   <item>
+    <title>Caja de Raspberry Pi Pico con caja de sensores impresionada en 3D</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-14-caja-de-raspberry-pi-pico-con-caja-de-sensores-impresio.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-14-caja-de-raspberry-pi-pico-con-caja-de-sensores-impresio.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>embebidos</category>
+    <description>Adafruit presenta un proyecto de impresión 3D que combina una caja de Raspberry Pi Pico con una caja de sensores, permitiendo a los usuarios montar sensores de temperatura y humedad o otros sensores fuera de la caja electrónica. Este…</description>
+  </item>
+  <item>
     <title>Verifica tus archivos de lanzamiento para errores comunes con lint_launch</title>
     <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-verifica-tus-archivos-de-lanzamiento-para-errores-comun.md</link>
     <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-verifica-tus-archivos-de-lanzamiento-para-errores-comun.md</guid>
     <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
     <category>robotica</category>
     <description>Un equipo de desarrolladores ha lanzado un nuevo herramienta llamada lint_launch, diseñada para detectar errores en archivos de lanzamiento sin intentar ejecutar procesos. Esto puede ser especialmente útil para integrarlo en la cadena de…</description>
-  </item>
-  <item>
-    <title>Robot reciclador salva partes de máquinas rotas con precisión y eficiencia</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-robot-reciclador-salva-partes-de-maquinas-rotas-con-pre.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-robot-reciclador-salva-partes-de-maquinas-rotas-con-pre.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La industria robótica se está expandiendo a un ritmo vertiginoso, pero ¿qué pasa cuando estos robots se rompen? Un equipo de investigadores alemanes ha desarrollado un sistema que puede predecir y reparar defectos en productos rotos,…</description>
-  </item>
-  <item>
-    <title>Nectar SDK: Herramienta para controlar drones autónomos con ROS 2</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-nectar-sdk-herramienta-para-controlar-drones-autonomos-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-nectar-sdk-herramienta-para-controlar-drones-autonomos-.md</guid>
-    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El equipo de Black Bee Drones de la Universidad Federal de Itajubá (UNIFEI) en Brasil ha desarrollado Nectar SDK, una herramienta para controlar drones autónomos con ROS 2. Esta herramienta permite controlar, cámaras y percepción desde una…</description>
   </item>
   <item>
     <title>Drones pesados en el reto Lift de DARPA: innovación en robótica</title>
@@ -128,124 +176,76 @@
     <description>La Comisión Federal de Comunicaciones de los EE. UU. ha agregado robots móviles y power inverters a la lista de dispositivos que se consideran una amenaza para la seguridad nacional. Esto puede tener un impacto significativo en la…</description>
   </item>
   <item>
-    <title>Inteligencia artificial en borde con Raspberry Pi: LiteRT y Gemma</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-inteligencia-artificial-en-borde-con-raspberry-pi-liter.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-inteligencia-artificial-en-borde-con-raspberry-pi-liter.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>Google ha mejorado la performance de LiteRT en Raspberry Pi, permitiendo a los desarrolladores crear sistemas autónomos de inteligencia artificial de forma segura y privada. Esto abre nuevas posibilidades para la robótica y la…</description>
+    <title>Robot reciclador salva partes de máquinas rotas con precisión y eficiencia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-robot-reciclador-salva-partes-de-maquinas-rotas-con-pre.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-robot-reciclador-salva-partes-de-maquinas-rotas-con-pre.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>La industria robótica se está expandiendo a un ritmo vertiginoso, pero ¿qué pasa cuando estos robots se rompen? Un equipo de investigadores alemanes ha desarrollado un sistema que puede predecir y reparar defectos en productos rotos,…</description>
   </item>
   <item>
-    <title>Corrección de error en AdvancedLiftDrag: un paso hacia la precisión en simulaciones</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-correccion-de-error-en-advancedliftdrag-un-paso-hacia-l.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-correccion-de-error-en-advancedliftdrag-un-paso-hacia-l.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>ia</category>
-    <description>La comunidad de Gazebo ha anunciado una importante corrección de error en el sistema AdvancedLiftDrag, que afectaba la precisión de las simulaciones de aerodinámica en modelos de aviones y drones. Este error se debía a una asignación…</description>
+    <title>Nectar SDK: Herramienta para controlar drones autónomos con ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-nectar-sdk-herramienta-para-controlar-drones-autonomos-.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-14-nectar-sdk-herramienta-para-controlar-drones-autonomos-.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>robotica</category>
+    <description>El equipo de Black Bee Drones de la Universidad Federal de Itajubá (UNIFEI) en Brasil ha desarrollado Nectar SDK, una herramienta para controlar drones autónomos con ROS 2. Esta herramienta permite controlar, cámaras y percepción desde una…</description>
   </item>
   <item>
-    <title>Claude, el chatbot, deja huella digital en sus respuestas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-claude-el-chatbot-deja-huella-digital-en-sus-respuestas.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-13-claude-el-chatbot-deja-huella-digital-en-sus-respuestas.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <title>Snapdragon C supera a Intel N250 en rendimiento y eficiencia</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-snapdragon-c-supera-a-intel-n250-en-rendimiento-y-efici.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-snapdragon-c-supera-a-intel-n250-en-rendimiento-y-efici.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
     <category>ia</category>
-    <description>La empresa Anthropic ha implementado un nuevo sistema de marcaje en sus respuestas, lo que ha generado controversia entre los usuarios. ¿Qué significa esto y por qué es importante?</description>
+    <description>Qualcomm ha presentado un nuevo SoC llamado Snapdragon C, que ofrece un rendimiento y eficiencia mejorados en comparación con el Intel N250. Los resultados de los benchmarks muestran una ventaja significativa en favor del Snapdragon C.</description>
   </item>
   <item>
-    <title>ROS PMC: actualizaciones sobre financiación y infraestructura de CI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-13-ros-pmc-actualizaciones-sobre-financiacion-y-infraestru.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-13-ros-pmc-actualizaciones-sobre-financiacion-y-infraestru.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
+    <title>OpenAI lanza Ultrafast, un modo que acelera GPT-5.6 Sol en 14 veces</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-openai-lanza-ultrafast-un-modo-que-acelera-gpt-56-sol-e.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-openai-lanza-ultrafast-un-modo-que-acelera-gpt-56-sol-e.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>OpenAI ha lanzado un nuevo modo llamado Ultrafast que permite a su modelo GPT-5.6 Sol procesar información a una velocidad 14 veces superior a la normal. Esto puede tener un impacto significativo en aplicaciones como la respuesta a…</description>
+  </item>
+  <item>
+    <title>Writer lanza modelo de IA más eficiente y mejora el coste de los tokens</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-writer-lanza-modelo-de-ia-mas-eficiente-y-mejora-el-cos.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-writer-lanza-modelo-de-ia-mas-eficiente-y-mejora-el-cos.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>La empresa Writer ha lanzado un nuevo modelo de IA llamado Palmyra X6, diseñado para reducir los costes de los tokens en un 50% para tareas básicas. Esto se debe a que los usuarios de la industria de la IA están cada vez más conscientes de…</description>
+  </item>
+  <item>
+    <title>LaserPerception: un proyecto de detección de LiDAR con TensorRT y ROS 2</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-laserperception-un-proyecto-de-deteccion-de-lidar-con-t.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-laserperception-un-proyecto-de-deteccion-de-lidar-con-t.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>Un desarrollador ha lanzado un proyecto de código abierto llamado LaserPerception, que se enfoca en la detección de LiDAR con TensorRT y ROS 2. Este proyecto busca proporcionar una implementación reproducible y exacta de la detección de…</description>
+  </item>
+  <item>
+    <title>AMD GAIA 0.23: Instalar y ejecutar agentes de IA desde la terminal</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-amd-gaia-023-instalar-y-ejecutar-agentes-de-ia-desde-la.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-14-amd-gaia-023-instalar-y-ejecutar-agentes-de-ia-desde-la.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>ia</category>
+    <description>AMD ha lanzado la versión 0.23 de su software de IA abierta GAIA, que permite instalar y ejecutar agentes de IA desde la terminal. Esto significa que los usuarios pueden gestionar sus agentes de IA de manera más sencilla y eficiente.</description>
+  </item>
+  <item>
+    <title>Nuevas características en Linux 7.2: mejora en la programación y rendimiento</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-nuevas-caracteristicas-en-linux-72-mejora-en-la-program.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-nuevas-caracteristicas-en-linux-72-mejora-en-la-program.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
     <category>linux</category>
-    <description>La reunión de la ROS PMC (Revisión de Código de ROS) del 11 de agosto de 2026 ha generado actualizaciones importantes sobre la financiación y la infraestructura de CI (Integración Continua) del proyecto ROS (Robot Operating System).</description>
+    <description>La próxima versión del kernel de Linux, Linux 7.2, está a punto de ser lanzada y traerá consigo varias mejoras importantes. Entre ellas, una mejor programación y un aumento en el rendimiento, especialmente en sistemas con múltiples…</description>
   </item>
   <item>
-    <title>Cyberdeck en un tarrina de mentas: Raspberry Pi Zero en miniatura</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-cyberdeck-en-un-tarrina-de-mentas-raspberry-pi-zero-en-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-cyberdeck-en-un-tarrina-de-mentas-raspberry-pi-zero-en-.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>La comunidad de Raspberry Pi ha estado creando proyectos innovadores en miniatura, y el cyberdeck es uno de ellos. Un proyecto llamado Exercising Ingenuity ha creado un cyberdeck en una tarrina de mentas, utilizando un Raspberry Pi Zero y…</description>
-  </item>
-  <item>
-    <title>Impresión 3D de un esqueleto articulado para decoraciones de Halloween</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-impresion-3d-de-un-esqueleto-articulado-para-decoracion.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-impresion-3d-de-un-esqueleto-articulado-para-decoracion.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit presenta un proyecto de impresión 3D llamado Flexi Skeleton, un esqueleto articulado que se puede imprimir en un solo bloque y que se puede posicionar de diferentes maneras. Este proyecto es perfecto para decoraciones de Halloween…</description>
-  </item>
-  <item>
-    <title>Forlinx AM62L32: una SBC industrial de bajo consumo para aplicaciones de IoT</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-forlinx-am62l32-una-sbc-industrial-de-bajo-consumo-para.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-forlinx-am62l32-una-sbc-industrial-de-bajo-consumo-para.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Forlinx ha lanzado la AM62L32 Local EVM, una SBC (tarjeta de desarrollo de sistema) industrial de bajo consumo diseñada para aplicaciones de IoT, control industrial, cálculo en el borde y más. Esta plataforma se basa en el SoC Texas…</description>
-  </item>
-  <item>
-    <title>Nuevos microcontroladores RISC-V con Ethernet y USB 2.0 para IoT y AI</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-nuevos-microcontroladores-risc-v-con-ethernet-y-usb-20-.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-nuevos-microcontroladores-risc-v-con-ethernet-y-usb-20-.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>WCH ha lanzado dos nuevos microcontroladores RISC-V, CH32V407 y CH32V467, que integran Ethernet y USB 2.0 para aplicaciones de IoT y AI en el borde. Estos microcontroladores ofrecen una velocidad de reloj de 200 MHz y una memoria de hasta…</description>
-  </item>
-  <item>
-    <title>Kit de inicio oficial para ESPHome con ESP32-C6 y módulos de sensores</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-kit-de-inicio-oficial-para-esphome-con-esp32-c6-y-modul.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-kit-de-inicio-oficial-para-esphome-con-esp32-c6-y-modul.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Apollo Automation ha lanzado un kit de inicio oficial para ESPHome, una plataforma de automatización domótica popular. Este kit está diseñado para ser fácil de usar y permite a los usuarios crear dispositivos de automatización…</description>
-  </item>
-  <item>
-    <title>SPOKE: un controlador de toque basado en RP2040</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-spoke-un-controlador-de-toque-basado-en-rp2040.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-spoke-un-controlador-de-toque-basado-en-rp2040.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El SPOKE es un dispositivo innovador que combina tecnología de toque capacitivo con un microcontrolador RP2040. Puede ser utilizado como controlador MIDI y ofrece una variedad de opciones para proyectos musicales y de toque.</description>
-  </item>
-  <item>
-    <title>Marco LED de 32x32 con difusor de matriz de LED</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-marco-led-de-32x32-con-difusor-de-matriz-de-led.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-marco-led-de-32x32-con-difusor-de-matriz-de-led.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>Adafruit presenta un marco LED de 32x32 con difusor de matriz de LED, un proyecto impresionante de impresión 3D que combina electrónica y diseño. Este proyecto es relevante ahora mismo porque muestra la capacidad de los entusiastas de la…</description>
-  </item>
-  <item>
-    <title>Organizador de destornilladores 3D modulable para herramientas de todo tipo</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-organizador-de-destornilladores-3d-modulable-para-herra.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-13-organizador-de-destornilladores-3d-modulable-para-herra.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>embebidos</category>
-    <description>El proyecto Gridfinity es un organizador de destornilladores 3D modulable que permite almacenar y proteger herramientas de todo tipo, desde pico hasta XXL, y también compatibilidad con destornilladores eléctricos. Esta solución es ideal…</description>
-  </item>
-  <item>
-    <title>Desafío DARPA: Drones pesados para la exploración aérea</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-desafio-darpa-drones-pesados-para-la-exploracion-aerea.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-desafio-darpa-drones-pesados-para-la-exploracion-aerea.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>El Desafío DARPA Lift Challenge es un evento que reúne a expertos en robótica y drones para diseñar y construir sistemas de elevación aérea pesados. Este desafío busca mejorar la capacidad de los drones para transportar cargas pesadas y…</description>
-  </item>
-  <item>
-    <title>Sistema de desmontaje de robots reciclables para partes valiosas</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-sistema-de-desmontaje-de-robots-reciclables-para-partes.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-sistema-de-desmontaje-de-robots-reciclables-para-partes.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La industria de los robots industriales crece rápidamente, pero ¿qué pasa cuando estos robots se rompen? Un nuevo sistema desarrollado en Alemania puede predecir y desmontar defectos en productos robóticos, salvando partes valiosas</description>
-  </item>
-  <item>
-    <title>EE.UU. prohíbe la importación de robots avanzados de países extranjeros</title>
-    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-eeuu-prohibe-la-importacion-de-robots-avanzados-de-pa-2.md</link>
-    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-13-eeuu-prohibe-la-importacion-de-robots-avanzados-de-pa-2.md</guid>
-    <pubDate>Thu, 13 Aug 2026 08:00:00 +0000</pubDate>
-    <category>robotica</category>
-    <description>La FCC de EE.UU. ha agregado robots móviles y transformadores de energía solar a la lista de dispositivos que se consideran una amenaza para la seguridad nacional. Esto podría tener un impacto significativo en la industria robótica en todo…</description>
+    <title>KDE lanza iniciativa para mantener Plasma 6.6 LTS durante tres años</title>
+    <link>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-kde-lanza-iniciativa-para-mantener-plasma-66-lts-durant.md</link>
+    <guid isPermaLink="true">https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-14-kde-lanza-iniciativa-para-mantener-plasma-66-lts-durant.md</guid>
+    <pubDate>Fri, 14 Aug 2026 08:00:00 +0000</pubDate>
+    <category>linux</category>
+    <description>KDE, Techpaladin y Kubuntu Focus han anunciado una colaboración para mantener la versión LTS de Plasma 6.6 durante tres años, proporcionando actualizaciones de seguridad y correcciones de bugs. Esto es importante porque garantiza la…</description>
   </item>
 </channel>
 </rss>
