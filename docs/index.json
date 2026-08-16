@@ -1,6 +1,216 @@
 {
   "news": [
     {
+      "title": "Smartwatch de código abierto que reconoce gestos con EIT",
+      "category": "embebidos",
+      "date": "2026-08-16",
+      "slug": "smartwatch-de-codigo-abierto-que-reconoce-gestos-con-ei",
+      "tags": [
+        "robotica",
+        "microcontroladores",
+        "software-y-linux"
+      ],
+      "preview": "Los investigadores de la Universidad Northwestern han creado un smartwatch de código abierto que puede reconocer gestos de la mano utilizando tecnología de tomografía de impedancia eléctrica (EIT). Este dispositivo, llamado EITWatch, se…",
+      "has_command": true,
+      "file_path": "content/embebidos/2026-08-16-smartwatch-de-codigo-abierto-que-reconoce-gestos-con-ei.md"
+    },
+    {
+      "title": "ROSCon Global 2026: Últimas oportunidades para comprar entradas",
+      "category": "robotica",
+      "date": "2026-08-16",
+      "slug": "roscon-global-2026-ultimas-oportunidades-para-comprar-e",
+      "tags": [
+        "robotica",
+        "linux",
+        "codigo"
+      ],
+      "preview": "La conferencia ROSCon Global 2026 se llevará a cabo en Toronto y es una oportunidad única para conectarse con la comunidad de robótica. Los asistentes podrán aprender sobre las últimas tendencias y tecnologías en robótica y automatización.…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-16-roscon-global-2026-ultimas-oportunidades-para-comprar-e.md"
+    },
+    {
+      "title": "Sistema robótico de desmontaje salvaguarda partes de máquinas rotas",
+      "category": "robotica",
+      "date": "2026-08-16",
+      "slug": "sistema-robotico-de-desmontaje-salvaguarda-partes-de-ma",
+      "tags": [
+        "robotica",
+        "diseño-3d",
+        "herramientas"
+      ],
+      "preview": "La industria de la robótica está creciendo rápidamente, pero qué sucede cuando estos robots se rompen? Un equipo de investigadores ha desarrollado un sistema que puede predecir y desmontar productos rotos de manera eficiente.",
+      "has_command": true,
+      "file_path": "content/robotica/2026-08-16-sistema-robotico-de-desmontaje-salvaguarda-partes-de-ma.md"
+    },
+    {
+      "title": "Planificación de tráfico consciente de congestión para entornos industriales densos",
+      "category": "robotica",
+      "date": "2026-08-16",
+      "slug": "planificacion-de-trafico-consciente-de-congestion-par-2",
+      "tags": [
+        "robotica",
+        "linux",
+        "ia-local"
+      ],
+      "preview": "En entornos industriales densos y estrechos, como fábricas de semiconductores, la planificación de tráfico es un desafío complejo. Los robots móviles (AMRs) comparten espacios estrechos y corredores, lo que puede causar congestionamiento y…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-16-planificacion-de-trafico-consciente-de-congestion-par-2.md"
+    },
+    {
+      "title": "Desafío DARPA: Drones pesados para levantar el desafío",
+      "category": "robotica",
+      "date": "2026-08-16",
+      "slug": "desafio-darpa-drones-pesados-para-levantar-el-desafio",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "El Desafío DARPA Lift Challenge es un evento que reúne a los mejores diseñadores de drones pesados para demostrar su capacidad de levantar y transportar objetos pesados. Este desafío es relevante porque muestra la innovación y la…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-16-desafio-darpa-drones-pesados-para-levantar-el-desafio.md"
+    },
+    {
+      "title": "Video Friday: Desafíos robóticos y tecnologías innovadoras",
+      "category": "robotica",
+      "date": "2026-08-16",
+      "slug": "video-friday-desafios-roboticos-y-tecnologias-innovad-2",
+      "tags": [
+        "robotica",
+        "drones",
+        "automatizacion"
+      ],
+      "preview": "La semana pasada, se presentaron varios desafíos robóticos y tecnologías innovadoras en el campo de la robótica. Desde la entrega de ladrillos en una comunidad nueva hasta la creación de un robot que puede subir por plantas, estos…",
+      "has_command": false,
+      "file_path": "content/robotica/2026-08-16-video-friday-desafios-roboticos-y-tecnologias-innovad-2.md"
+    },
+    {
+      "title": "Claude, el chatbot de Anthropic, incorpora marcas de agua para identificar contenido generado por IA",
+      "category": "ia",
+      "date": "2026-08-16",
+      "slug": "claude-el-chatbot-de-anthropic-incorpora-marcas-de-agua",
+      "tags": [
+        "llms",
+        "ia-local",
+        "linux"
+      ],
+      "preview": "La empresa Anthropic ha anunciado que incorporará marcas de agua en el texto generado por su chatbot Claude para cumplir con la normativa europea de transparencia en inteligencia artificial. Esto ha generado debate entre los usuarios del…",
+      "has_command": false,
+      "file_path": "content/ia/2026-08-16-claude-el-chatbot-de-anthropic-incorpora-marcas-de-agua.md"
+    },
+    {
+      "title": "Giada DK320: mini PC de alta gama para aplicaciones de borde y análisis de IA",
+      "category": "ia",
+      "date": "2026-08-16",
+      "slug": "giada-dk320-mini-pc-de-alta-gama-para-aplicaciones-de-b",
+      "tags": [
+        "ia-local",
+        "robotica",
+        "embebidos"
+      ],
+      "preview": "Giada ha lanzado el DK320, un mini PC de alta gama diseñado para aplicaciones de borde y análisis de IA. Este dispositivo compacto está equipado con un procesador Intel Core 5 315 Wildcat Lake y ofrece una gran cantidad de características,…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-16-giada-dk320-mini-pc-de-alta-gama-para-aplicaciones-de-b.md"
+    },
+    {
+      "title": "Predicción de manchas solares con inteligencia artificial",
+      "category": "ia",
+      "date": "2026-08-16",
+      "slug": "prediccion-de-manchas-solares-con-inteligencia-artifici",
+      "tags": [
+        "ia-local",
+        "benchmarks",
+        "linux"
+      ],
+      "preview": "La NASA ha desarrollado un modelo de aprendizaje automático llamado COFFIES que puede predecir la formación de manchas solares hasta 12 horas antes de que sean visibles. Esto podría ser crucial para prevenir tormentas geomagnéticas de gran…",
+      "has_command": true,
+      "file_path": "content/ia/2026-08-16-prediccion-de-manchas-solares-con-inteligencia-artifici.md"
+    },
+    {
+      "title": "Resumen de la instalación de Ubuntu 26.04 en el mini PC GEEKOM IT13 Max",
+      "category": "linux",
+      "date": "2026-08-16",
+      "slug": "resumen-de-la-instalacion-de-ubuntu-2604-en-el-mini-pc-",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "El mini PC GEEKOM IT13 Max ha sido probado con varios sistemas operativos, pero ahora es el turno de Ubuntu 26.04. En este artículo, exploraremos la experiencia de instalar y utilizar Ubuntu en este dispositivo.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-16-resumen-de-la-instalacion-de-ubuntu-2604-en-el-mini-pc-.md"
+    },
+    {
+      "title": "Mejoras en el rendimiento de RADV y ACO: 19 parches nuevos",
+      "category": "linux",
+      "date": "2026-08-16",
+      "slug": "mejoras-en-el-rendimiento-de-radv-y-aco-19-parches-nuev",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Marek Olšák, desarrollador de drivers gráficos para Linux, ha lanzado 19 parches que mejoran el rendimiento de RADV y ACO, tecnologías clave para la aceleración gráfica en Linux.",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-16-mejoras-en-el-rendimiento-de-radv-y-aco-19-parches-nuev.md"
+    },
+    {
+      "title": "Metriplane: herramienta para reproducir incidentes en robots y automatización",
+      "category": "linux",
+      "date": "2026-08-16",
+      "slug": "metriplane-herramienta-para-reproducir-incidentes-en-ro",
+      "tags": [
+        "robotica",
+        "ia-local",
+        "herramientas"
+      ],
+      "preview": "Metriplane es una herramienta de código abierto que permite reproducir incidentes en robots y automatización, convirtiendo eventos en pruebas de regresión. Esto puede ayudar a identificar y solucionar problemas en sistemas de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-16-metriplane-herramienta-para-reproducir-incidentes-en-ro.md"
+    },
+    {
+      "title": "Actualizaciones de seguridad para sistemas operativos",
+      "category": "linux",
+      "date": "2026-08-16",
+      "slug": "actualizaciones-de-seguridad-para-sistemas-operativo-31",
+      "tags": [
+        "linux",
+        "seguridad",
+        "actualizaciones"
+      ],
+      "preview": "Las empresas de software han lanzado actualizaciones de seguridad para varios sistemas operativos, incluyendo AlmaLinux, Debian, Fedora, Gentoo, Mageia y Oracle. Estas actualizaciones corregirán vulnerabilidades y mejorarán la seguridad de…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-16-actualizaciones-de-seguridad-para-sistemas-operativo-31.md"
+    },
+    {
+      "title": "Mejorando la prueba continua de BPF en Linux",
+      "category": "linux",
+      "date": "2026-08-16",
+      "slug": "mejorando-la-prueba-continua-de-bpf-en-linux",
+      "tags": [
+        "linux",
+        "codigo",
+        "herramientas"
+      ],
+      "preview": "Ihor Solodrai y Shung-Hsi Yu han presentado dos sesiones sobre prueba continua y estabilidad en el BPF track del Linux Storage, Filesystem, Memory-Management y BPF Summit 2026. La comunidad de BPF busca mejorar la prueba continua y la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-16-mejorando-la-prueba-continua-de-bpf-en-linux.md"
+    },
+    {
+      "title": "Consejo de empaquetado de Python: candidatos anunciados",
+      "category": "linux",
+      "date": "2026-08-16",
+      "slug": "consejo-de-empaquetado-de-python-candidatos-anunciados",
+      "tags": [
+        "python",
+        "librerias",
+        "herramientas"
+      ],
+      "preview": "La comunidad de Python ha anunciado a los candidatos que se postularán para el consejo de empaquetado de Python. Este consejo es responsable de desarrollar y mantener las herramientas de empaquetado de Python, que son fundamentales para la…",
+      "has_command": true,
+      "file_path": "content/linux/2026-08-16-consejo-de-empaquetado-de-python-candidatos-anunciados.md"
+    },
+    {
       "title": "Reconocimiento de gestos con EIT en un reloj inteligente",
       "category": "embebidos",
       "date": "2026-08-15",
