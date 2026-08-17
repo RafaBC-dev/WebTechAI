@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-16</lastmod><priority>1.0</priority></url>
-  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-16</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/</loc><lastmod>2026-08-17</lastmod><priority>1.0</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/about.html</loc><lastmod>2026-08-17</lastmod><priority>0.6</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-17-sistema-de-desmontaje-robotizado-para-reciclar-partes-d.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-17-desafio-darpa-drones-pesados-para-la-exploracion-espaci.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-17-video-friday-robots-que-levantan-entregan-y-escalan.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-17-generador-de-rutas-optimas-para-robots-en-7-segundos.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-17-exstrike-la-infraestructura-de-seguridad-para-sistemas-.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/ia/2026-08-17-roboto-agents-agente-de-triaje-y-analisis-de-causas-par.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-google-chrome-ahora-esta-disponible-para-arm-linux-en-r.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-linux-72-nueva-version-con-mejoras-en-rendimiento-y-com.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-nueva-opcion-de-arranque-para-linux-72-tlbi-para-evitar.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-consejo-de-empaquetado-de-python-anuncia-candidatos.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-mejora-en-pruebas-de-bpf-un-paso-hacia-la-estabilidad-e.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-kernel-linux-72-nueva-version-con-mejoras-significativa.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-luckfox-lyra-plc-un-controlador-logico-programable-con-.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/linux/2026-08-17-mejorar-el-rendimiento-del-khadas-mind-graphics-2-en-ub.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
+  <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/diseño-3d/2026-08-17-nuevas-tecnicas-para-imprimir-sobrehangulos-sin-soporte.md</loc><lastmod>2026-08-17</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/embebidos/2026-08-16-smartwatch-de-codigo-abierto-que-reconoce-gestos-con-ei.md</loc><lastmod>2026-08-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-16-roscon-global-2026-ultimas-oportunidades-para-comprar-e.md</loc><lastmod>2026-08-16</lastmod><priority>0.8</priority></url>
   <url><loc>https://RafaBC-dev.github.io/WebTechAI/detail.html?file=content/robotica/2026-08-16-sistema-robotico-de-desmontaje-salvaguarda-partes-de-ma.md</loc><lastmod>2026-08-16</lastmod><priority>0.8</priority></url>
